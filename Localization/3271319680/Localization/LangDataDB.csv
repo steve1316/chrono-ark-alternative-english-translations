@@ -1,0 +1,353 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Muelsyse_01_Description,Text,,"턴 종료시, 패에 있는 자신의 스킬 1장당 체력을 3 회복한다.","At the end of the turn, restore 3 HP for each of your skills in hand.",ターン終了時、手札にある自身のスキル1枚につき体力を3回復する。,回合结束时，手中每一个自己的技能恢复3生命。,回合結束時，手中每一個自己的技能恢復3生命。
+Buff/B_Muelsyse_01_Name,Text,,보습,Moisturizing,保湿 ,滋润,滋潤
+Buff/B_Muelsyse_01_P_Description,Text,,,,,,
+Buff/B_Muelsyse_01_P_Name,Text,,이슬 모으기 : 이슬의 치유,Dew Gathering: Dew's Healing,露集め：露の癒し,集露：露水治愈,集露：露水治愈
+Buff/B_Muelsyse_02_Description,Text,,"치명타에 의해 받는 피해가 1이 된다. 
+치명타를 받으면 「기본 공격」으로 반격한다.
+[유동체]의 경우는 「유체 공격」으로 반격한다. 
+치명타를 입으면 1중첩 감소한다.","Critical damage received becomes 1.
+Counterattacks with ""Basic Attack"" when receiving Critical damage. If this unit is a [Fluidform], counterattacks with ""Fluidform Attack"".
+Loses 1 stack when receiving Critical damage.","クリティカルによって受けるダメージが1になる。 
+クリティカルを受けると「基本攻撃」で反撃する。
+[うつろう水影]の場合は「流体攻撃」で反撃する。 
+クリティカルを受けるとストックが1減少する。 ","受到的暴击伤害变为1。
+受到暴击伤害后以基础攻击反击。若自身为流形，以流形攻击反击。
+受到暴击伤害后消耗1层。","受到的暴擊傷害變為1。
+受到暴擊傷害後以基礎攻擊反擊。若自身為流形，以流形攻擊反擊。
+受到暴擊傷害後消耗1層。"
+Buff/B_Muelsyse_02_Name,Text,,부드러움과 강인함의 조화,Softness Overcomes Hardness,柔よく剛を制す,以柔克刚,
+Buff/B_Muelsyse_02_P_Description,Text,,「유체 치유」와 「유체 보호」는 대상에게 [부드러움과 강인함의 조화]를 1중첩 부여한다. ,"""Fluidform Healing"" and ""Fluidform Protection"" grant 1 stack of [Softness Overcomes Hardness] to the target.",「流体治癒」と「流体保護」は、対象に[柔よく剛を制す]を1ストック与える。 ,流形治疗和流形保护对目标施加1层“以柔克刚”,流形治療和流形保護對目標施加1層「以柔克剛」
+Buff/B_Muelsyse_02_P_Name,Text,,이슬 모으기 : 부드러움과 강인함의 조화,Dew Gathering: Softness Overcomes Hardness,露集め：柔よく剛を制す,集露：以柔克刚,集露：以柔克剛
+Buff/B_Muelsyse_03_Description,Text,,공격을 받으면 체력을 5 초과치유한다. ,Overheal 5 HP when attacked.,攻撃を受けると体力を5オーバーヒールする。 ,受到攻击后超额恢复5生命。,受到攻擊後超額恢復5生命。
+Buff/B_Muelsyse_03_Name,Text,,물의 파동,Rippling Waves,水の波動,涌动水流,湧動水流
+Buff/B_Muelsyse_03_P_Name,Text,,이슬 모으기 : 물의 파동,Dew Gathering: Rippling Waves,露集め：水の波動,集露：涌动水流,集露：湧動水流
+Buff/B_Muelsyse_04_Description,Text,,"공격으로 피해를 입혔을 경우, 입힌 피해의 20%만큼 자신을 회복한다. ",Heal self for 20% of damage dealt when attacking.,攻撃によってダメージを与えた場合、与えたダメージの20%で自身を回復する。 ,攻击造成伤害时治疗自身伤害量20%的生命。,攻擊造成傷害時治療自身傷害量20%的生命。
+Buff/B_Muelsyse_04_Name,Text,,심도 잠수,Deep Dive,深度潜水,深度汲取,深度汲取
+Buff/B_Muelsyse_04_P_Description,Text,,"[유동체]가 공격으로 피해를 입히면 입힌 피해의 20%만큼 자신을 초과치유하고, 입힌 피해의 20%만큼 자신을 연쇄치유한다.",When a [Fluidform] deals damage via attack: Overheal self by 20% of the damage and Chain Heal self by 20% of the damage.,[うつろう水影]が攻撃でダメージを与えると、与えたダメージの20%で自身をオーバーヒールし、与えたダメージの20%で自身を連鎖治癒する。,流形通过攻击造成伤害时，超额治疗自身相当于伤害量20%的生命，并连锁治疗自身相当于伤害量20%的生命。,流形通過攻擊造成傷害時，超額治療自身相當於傷害量20%的生命，並連鎖治療自身相當於傷害量20%的生命。
+Buff/B_Muelsyse_04_P_Name,Text,,이슬 모으기 : 심도잠수,Dew Gathering: Deep Dive,露集め：深度潜水,集露：深度汲取,集露：深度汲取
+Buff/B_Muelsyse_05_Description,Text,,무색이 아닌 디버프를 받았을 때 빈사 상태가 아니면 10의 고통 피해를 입고 그 디버프를 제거한다.,When receiving a non-colorless debuff: Take 10 Pain damage (if not at Death's Door) and remove that debuff.,無色でないデバフを受けたとき、瀕死状態でなければ、10の苦痛ダメージを受け、そのデバフを除去する。 ,受到非无色减益时，如果未处于濒死状态，受到10点痛苦伤害抵挡该减益，然后解除。,受到非無色減益時，如果未處於瀕死狀態，受到10點痛苦傷害抵擋該減益，然後解除。
+Buff/B_Muelsyse_05_Name,Text,,정수 의존,Purified Water Dependency,浄水依存,净水依存,凈水依存
+Buff/B_Muelsyse_05_P_Description,Text,,"턴 종료 시 체력을 잃지 않고, 최대 체력의 10%만큼의 초과치유를 받지만, 자신이 디버프를 받을 때마다 15의 피해를 입는다. ","At turn end: No longer loses HP naturally and gains Overheal equal to 10% of Max HP, but takes 15 damage per debuff received.",ターン終了時に体力が失われることがなくなり、最大体力の10%のオーバーヒールを受けるが、自分にデバフが与えられる度15のダメージを受ける。 ,回合结束时不再自然流失生命，且会超额恢复生命上限10%的生命，但每被施加一层减益时会立即受到15点痛苦伤害。,回合結束時不再自然流失生命，且會超額恢復生命上限10%的生命，但每被施加一層減益時會立即受到15點痛苦傷害。
+Buff/B_Muelsyse_05_P_Name,Text,,이슬 모으기 : 청정수는 생명,"Dew Gathering: ""Pure Water is Life""",露集め：清き水、即ち命なり,集露：净水即生命,集露：凈水即生命
+Buff/B_Muelsyse_06_Description,Text,,[유동체]를 가지고 있으면 효과가 강화된다.,Effects are enhanced if a [Fluidform] is present.,[うつろう水影]を持つなら効果が強化される。,流形存在时效果增强。,流形存在時效果增強。
+Buff/B_Muelsyse_06_Name,Text,,침식,Erosion,浸食,侵蚀,侵蝕
+Buff/B_Muelsyse_06_P_Description,Text,,[유동체]의 공격 스킬은 도발을 무시한다. [유동체]가 공격으로 피해를 입히면 [침식]을 1중첩 부여한다. ,[Fluidform] attack skills ignore Taunt. Applying 1 stack of [Erosion] when a [Fluidform] deals attack damage.,[うつろう水影]の攻撃スキルは挑発を無視する。[うつろう水影]が攻撃によってダメージを与えると[浸食]を1ストック与える。 ,流形的敌人指向技能无视嘲讽；流形通过攻击造成伤害时施加1层“侵蚀”。,流形的敵人指向技能無視嘲諷；流形通過攻擊造成傷害時施加1層「侵蝕」。
+Buff/B_Muelsyse_06_P_Name,Text,,이슬 모으기 : 유수 침식,Dew Gathering: Fluidform Erosion,露集め：流水浸食,集露：侵蚀水流,集露：侵蝕水流
+Buff/B_Muelsyse_07_Description,Text,,"턴이 종료될 때 자신의 스킬이 패에 있다면, 덱에서 자신의 다른 스킬 1장을 뽑는다. ","At turn end: If your skill is in hand, draw another skill of yours from the deck.",ターン終了時に、自身のスキルが手札にある場合は、デッキから自身の別のスキルを1枚引く。 ,回合结束时若手中有自己的技能，再从牌库抽取一个自己的技能。,回合結束時若手中有自己的技能，再從牌庫抽取一個自己的技能。
+Buff/B_Muelsyse_07_Name,Text,,고속 성장,Rapid Growth,高速成長,极速生长,
+Buff/B_Muelsyse_07_P_Name,Text,,이슬 모으기 : 빠른 성장,Dew Gathering: Rapid Growth,露集め：高速成長,集露：极速生长,極速生長
+Buff/B_Muelsyse_08_P_Description,Text,,"[유동체]의 기본 공격력은 대상의 치유력이 된다.
+[유동체]의 기본 치유력은 대상의 공격력이 된다.","[Fluidform]'s base Attack becomes equal to the target's Healing power.
+[Fluidform]'s base Healing becomes equal to the target's Attack power.","[うつろう水影]の基本攻撃力は、対象の治癒力になる。
+[うつろう水影]の基本治癒力は、対象の攻撃力になる。","流形的基础攻击力按目标的治疗力生成
+流形的基础治疗力按目标的攻击力生成","流形的基礎攻擊力按目標的治療力生成
+流形的基礎治療力按目標的攻擊力生成"
+Buff/B_Muelsyse_08_P_Name,Text,,이슬 모으기 : 이물불쟁,Dew Gathering: Fluidformity Without Conflict,露集め：利物不争,集露：利物不争,集露：利物不爭
+Buff/B_Muelsyse_09_0_Name,Text,,고통 저항 증가,Pain Resistance Up,苦痛レジスト増加,痛苦抗性提升,痛苦抗性提升
+Buff/B_Muelsyse_09_1_Name,Text,,약화 저항 증가,Weakness Resistance Up,衰弱レジスト増加,弱化抗性提升,弱化抗性提升
+Buff/B_Muelsyse_09_2_Name,Text,,방해 저항 증가,Disruption Resistance Up,干渉レジスト増加,干扰抗性提升,幹擾抗性提升
+Buff/B_Muelsyse_09_P_Description,Text,,"[유동체]가 디버프를 받을 때마다 아군 전체가 3턴 동안 해당 종류의 디버프 저항이 15% 증가한다.
+이 [유동체]가 사라진 후, 다시 [유동체]를 소환하기 위한 쿨타임을 감소시킨다. ","Whenever a [Fluidform] receives a debuff: All allies gain 15% resistance to that debuff type for 3 turns.
+Reduces cooldown for resummoning [Fluidform] after it dissipates.","[うつろう水影]がデバフを受けるたび、味方全体は対応する種類のデバフのレジストが3ターンの間15%増加する。
+この[うつろう水影]が消滅した後、再び[うつろう水影]を召喚するためのクールダウンを減少させる。 ","每当流形被成功施加减益后，使所有友军对应类型减益的抵抗率在三回合内提升15%。
+此流形消散后，再次召唤流形的冷却时间减少。","每當流形被成功施加減益後，使所有友軍對應類型減益的抵抗率在三回合內提升15%。
+此流形消散後，再次召喚流形的冷卻時間減少。"
+Buff/B_Muelsyse_09_P_Name,Text,,이슬 모으기 : 표면적 비엔트로피 적응,Dew Gathering: Surface Non-Entropic Adaptation,"露集め： ノンエントロピー適応
+",集露：浅层非熵适应,集露：淺層非熵適應
+Buff/B_Muelsyse_10_P_Description,Text,,패에서 유체 스킬을 사용하면 무작위 적에게 [유동체]의 공격력의 40%만큼의 추적 피해를 준다. 적을 처치할 때마다 「유체 공격」 1개를 생성한다. ,"Using Fluidform skills from hand deals 40% of [Fluidform]'s Attack as Follow-up damage to random enemies. Generates 1 ""Fluidform Attack"" whenever an enemy is defeated.",手札から流体スキルを使用すると、ランダムな敵に[うつろう水影]の攻撃力の40%で追撃ダメージを与える。敵を倒すたびに「流体攻撃」を1枚生成する。 ,集露：使用手中流形的技能时对随机敌人造成40%流形攻击力的追击伤害。每当有敌人倒下时在手中生成一张流形攻击。,集露：使用手中流形的技能時對隨機敵人造成40%流形攻擊力的追擊傷害。每當有敵人倒下時在手中生成一張流形攻擊。
+Buff/B_Muelsyse_10_P_Name,Text,,이슬 모으기 : 생태학적 상호작용,Dew Gathering: Ecological Coupling,露集め： 生態系統結合 ,集露：生态耦合,集露：生態耦合
+Buff/B_Muelsyse_11_2_Name,Text,,유체 보호 - 회복 게이지 보호,Fluidform Protection - Healing Gauge Protection,流体保護-回復ゲージ保護,流形保护-体力极限,流形保護-體力極限
+Buff/B_Muelsyse_P_ColdDown_Description,Text,,"일시적으로 [유동체]를 소환할 수 없다. 
+패에서 스킬을 사용할 때마다 1중첩 감소한다. (소멸한 [유동체]가 가지고 있던 [이슬 모으기]의 개수가 많을수록 이 디버프의 초기 중첩수가 많아진다.) ","Temporarily cannot summon [Fluidform].
+Lose 1 stack per skill used from hand.
+(Initial stacks scale with the number of [Dew Gathering] effects the dissipated [Fluidform] had)","一時的に[うつろう水影]を呼び出せない。 
+手札からスキルを使用するたびに、ストックを1減少させる。 (消滅した[うつろう水影]が持っていた[露集め]の数が多いほど、このデバフの初期ストック数は高くなる) ","暂时无法召唤流形。
+每从手中使用一个任意技能，减少一层。
+（方才消散的流形拥有的集露增益越多，此减益的初始层数越高）","暫時無法召喚流形。
+每從手中使用一個任意技能，減少一層。
+（方才消散的流形擁有的集露增益越多，此減益的初始層數越高）"
+Buff/B_Muelsyse_P_ColdDown_Name,Text,,유동체 냉각 중......,Fluidform Cooldown...,うつろう水影冷却中……,流形冷却中……,流形冷卻中……
+Buff/B_Muelsyse_P_Description,Text,,"[유동체]로 존재한다.
+회복 게이지를 가지지 않으며 체력이 0이 되면 소멸한다.
+매 턴 종료 시 최대 체력의 30%를 잃는다.","Exists as a [Fluidform].
+Has no Healing Gauge and dissipates at 0 HP.
+Loses 30% of Max HP at turn end.","[うつろう水影]として存在する。
+回復ゲージを持つことはなく体力が0になると消滅する。
+毎ターン終了時に最大体力の30%が失われる。","以流形形式存在。
+没有体力极限；生命值低于0时消散。
+每回合结束时自然流失30%生命上限的生命。","以流形形式存在。
+沒有體力極限；生命值低於0時消散。
+每回合結束時自然流失30%生命上限的生命。"
+Buff/B_Muelsyse_P_Name,Text,,유동체,Fluidform,うつろう水影,流形,流形
+Buff/B_Muelsyse_R2_Description,Text,,이 효과는 디버프가 없을 때 얻을 수 있다.,This effect can only be obtained when free of debuffs.,この効果は、デバフを持たない場合に得られる。,没有任何减益时，才能获得效果。,沒有任何減益時，才能獲得效果。
+Buff/B_Muelsyse_R2_Name,Text,,청정 무결,Pristine Purity,清浄無垢,纯净无瑕,純凈無瑕
+Buff/B_Muelsyse_R2_P_Description,Text,,"「유체 치유」는 대상의 무작위 디버프 1개를 제거한다.
+[유동체] 소멸 시, 다른 아군 전체에 [청정 무결]을 부여한다. ","""Fluidform Healing"" removes 1 random debuff from target.
+Grants [Pristine Purity] to all other allies when a [Fluidform] dissipates.","「流体治癒」は対象からランダムなデバフを1つ除去する。
+[うつろう水影]の消滅時、他の味方全員に[清浄無垢]を与える ","流形治疗可以解除目标的一个随机减益。
+流形消散时为所有其他友军施加“纯净无瑕”","流形治療可以解除目標的一個隨機減益。
+流形消散時為所有其他友軍施加「純凈無瑕」"
+Buff/B_Muelsyse_R2_P_Name,Text,,이슬 모으기 : 심연 순수,Dew Gathering: Abyssal Purity,露集め： 深淵純粋,集露：深层纯净,集露：深層純凈
+Buff/B_Muelsyse_R3_P_Description,Text,,"[유동체]의 복사본의 대상이 피해를 입었을 때, 그 피해를 1로 하고, 턴 종료 시 [유동체]는 체력을 10 추가로 잃는다(이는 중첩된다). 
+[유동체]의 복사본의 대상이 생성된 스킬이 아닌 스킬을 사용할 때, 그 스킬의 복사본을 패에 추가한다. 이 스킬은 0코스트에 제외, 신속, 1턴 후 버림이 부여되고, 피해량/치유량이 80% 감소된 유체 스킬이 된다.","When [Fluidform] copy's target takes damage: Reduce that damage to 1, but the [Fluidform] loses 10 HP at turn end (stacks). 
+Using non-generated skills with copy's target adds a copied skill to hand: 0 Mana cost, Exclude, Swiftness, discard after 1 turn, 80% reduced damage/healing as Fluidform skill.","[うつろう水影]のコピーの対象がダメージを受けたとき、そのダメージを1にするが、ターン終了時に[うつろう水影]は体力を10追加で失う（これは重複する）。 
+[うつろう水影]のコピーの対象が生成でないスキルを使用すると、そのスキルのコピーを手札に加える。これはコスト0で除外、迅速と1ターン後に捨てられるを持ち、ダメージ/治癒量が80％減少した流体スキルとなる。","流形的复制目标受到伤害时，使该伤害变化为1，但当回合结束时流形额外流失10生命（会叠加）。
+流形的复制目标使用非生成技能后，将该技能的一张复制加入手牌，该技能为流形的技能，附带放逐、迅速，费用为0，1回合后弃牌，伤害和治疗倍率减少80%。","流形的復製目標受到傷害時，使該傷害變化為1，但當回合結束時流形額外流失10生命（會疊加）。
+流形的復製目標使用非生成技能後，將該技能的一張復製加入手牌，該技能為流形的技能，附帶放逐、迅速，費用為0，1回合後棄牌，傷害和治療倍率減少80%。"
+Buff/B_Muelsyse_R3_P_Name,Text,,이슬 모으기 : 전속 대역,Dew Gathering: Designated Proxy,露集め：専属代役,集露：专属替身,集露：專屬替身
+Buff/B_Muelsyse_R3_T_Description,Text,,"피해를 받으면 그 피해를 1로 하고, 턴 종료 시 [유동체]가 잃는 체력이 증가한다. 
+생성되지 않은 자신의 스킬을 사용하면 해당 스킬의 복사본을 패에 추가한다. 이는 0코스트에 제외, 신속, 피해/치유량이 80% 감소된 유체 스킬이 된다.","Incoming damage becomes 1, but increases HP loss for [Fluidform] at turn end. 
+Using non-generated skills adds their copies to hand: 0 Mana cost, Exclude, Swiftness, 80% reduced damage/healing as Fluidform skill.","ダメージを受けたとき、そのダメージを1にするが、ターン終了時に[うつろう水影]が失う体力が増加する。 
+生成されていない自身のスキルを使用すると、そのスキルのコピーを手札に加える。これはコスト0で除外、迅速を持ち、ダメージ/治癒量が80％減少した流体スキルとなる。","受到的伤害变化为1，但是会使流形回合结束时流失的生命增加。
+自身使用手中的非生成技能后，将该技能的一张复制加入手牌，该技能为流形的技能，附带放逐、迅速，费用为0，1回合后弃牌，伤害和治疗倍率减少80%。","受到的傷害變化為1，但是會使流形回合結束時流失的生命增加。
+自身使用手中的非生成技能後，將該技能的一張復製加入手牌，該技能為流形的技能，附帶放逐、迅速，費用為0，1回合後棄牌，傷害和治療倍率減少80%。"
+Buff/B_Muelsyse_R3_T_Name,Text,,자신의 대리인 ,Personal Proxy,自身の代役 ,拥有专属替身,擁有專屬替身
+Buff/B_Muelsyse_R4_Description,Text,,"이 버프는 [유동체] 사용 시 일시적으로 제거된다.
+자신의 일회성 또는 제외를 가진 스킬이 사용으로 인해 제외되었을 때, 패, 덱, 버린 카드에 있는 자신의 스킬이 모두 일회성 또는 제외를 가지고 있다면 아군 전원의 체력을 회복한다. 자신의 스킬을 우선적으로 1장 드로우한다(1턴에 1장&b).  
+자신의 패, 덱, 버린 카드에 자신의 스킬이 없다면, 소모품 '뮤엘시스의 눈물'을 획득하고 이 버프를 제거한다.","This buff is temporarily removed when using [Fluidform]. 
+When your single-use/Exclude skills get Excluded: If all your skills in hand/deck/discard are single-use/Exclude-type, heal all allies &a HP and prioritize drawing 1 of your skills (1/turn &b). If you have no skills remaining: Gain consumable ""Muelsyse's Tear"" and remove this buff.","このバフは、[うつろう水影]使用時に一時的に取り除かれる。
+自身の単発や除外を持つスキルが使用によって除外されたとき、手札、デッキ、捨て札にある自身のスキルがすべて単発か除外を持つなら、味方全員の体力を&a回復する。 自身のスキルを優先して１枚引く(1ターン1枚&b)。  
+手札、デッキ、捨て札に自身のスキルがないなら、消耗品「ミュルジスの涙」を得てこのバフを除去する。","此增益在转换为流形时只会暂时解除。
+主动使用自己的一次性和放逐的技能时，若手中、牌库中和弃牌库中自己的所有技能都是一次性或放逐技能，治疗所有友军&a生命，并优先抽取1个自己的技能（每回合限1张，&b）。如果此时手中、牌库中和弃牌库中已经没有自己的技能，获得消耗品“缪尔赛思之泪”并解除此增益。","此增益在轉換為流形時只會暫時解除。
+主動使用自己的一次性和放逐的技能時，若手中、牌庫中和棄牌庫中自己的所有技能都是一次性或放逐技能，治療所有友軍&a生命，並優先抽取1個自己的技能（每回合限1張，&b）。如果此時手中、牌庫中和棄牌庫中已經沒有自己的技能，獲得消耗品「繆爾賽思之淚」並解除此增益。"
+Buff/B_Muelsyse_R4_Name,Text,,이국의 고독 ,Solitude in a Foreign Land,異国の孤独 ,孑然异乡,孑然異鄉
+Buff/B_Muelsyse_Relic_Description,Text,,,,,,
+Buff/B_Muelsyse_Relic_Name,Text,,호박색 흉터,Amber Scar,琥珀の傷跡,琥珀伤痕,琥珀傷痕
+Buff/B_Muelsyse_S2_Description,Text,,"[유동체]의 방어력에 따라 받는 피해량이 감소(최대 35%) 
+[유동체]가 사라지면 제거됨.","Damage received is reduced by [Fluidform]'s Defense (up to 35%). 
+Removed when [Fluidform] dissipates.","受けるダメージは[うつろう水影]の防御力によって軽減される(最大35%) 
+[うつろう水影]が消滅すると除去される。 ","受到伤害减少，减少量为流形的防御力（至多为35%）
+流形消散时解除。","受到傷害減少，減少量為流形的防禦力（至多為35%）
+流形消散時解除。"
+Buff/B_Muelsyse_S2_Name,Text,,유체 보호,Fluidform Protection,流体保護,流形保护,流形保護
+Buff/B_Muelsyse_S2_T_Description,Text,,치유력 기반,Barrier value scales with [Fluidform]'s Healing power.,治癒力ベース,保护罩的数值基于流形的治疗力,保護罩的數值基於流形的治療力
+Buff/B_Muelsyse_S2_T_Name,Text,,보호막,Barrier,バリア,保护罩,保護罩
+Character/Muelsyse_PassiveDes,Text,,"고정 스킬을 사용하여 [유동체]를 소환하여 자신을 대신해 싸우게 한다.
+[유동체]를 소환하면 지정된 아군의 현재 능력치를 자신의 기본 능력치로 복사한다(방어력과 회피율은 최대 30%까지 복사 가능하다).
+[유동체] 소환 중, 뮤엘시스의 스킬은 일시적으로 전투에서 제외되고 유체 전용 스킬이 덱에 추가된다.
+[유동체] 소환 중, 뮤엘시스의 장비는 일시적으로 사용할 수 없으며, 뮤엘시스가 원래 가지고 있던 버프와 디버프도 제거됩니다. 
+[유동체]는 턴 종료 시 체력을 잃는다. [유동체]의 체력이 0 이하가 되면 소멸하여 뮤엘시스로 돌아가고, 해당 턴에는 [유동체]를 소환할 수 없게 된다. 
+소멸한 [유동체]가 가진 [이슬 모으기]가 많을수록 재소환까지 걸리는 턴 수가 증가한다.","Uses fixed skills to summon [Fluidform] to fight in her stead. 
+Copies a designated ally’s current stats as base stats when summoning [Fluidform] (Defense/Evasion capped at 30%). 
+During [Fluidform] summoning, Muelsyse’s skills are temporarily Excluded and Fluidform-exclusive skills are added to deck. 
+Equipment becomes unusable, and original buffs/debuffs are removed. [Fluidform] loses HP at turn end. 
+Dissipates at 0 HP, reverting to Muelsyse with temporary summon lock. 
+Cooldown scales with [Dew Gathering] stacks on dissipated [Fluidform].      ","固定スキルを使用して[うつろう水影]を召喚し、自分に代わって戦わせる。
+[うつろう水影]を召喚すると、指定された味方の現在の能力値を自身の基本能力値としてコピーする (防御力と回避率は最大30%)。
+ [うつろう水影]召喚中、ミュルジスのスキルは一時的に戦闘から除外され、流体専用スキルがデッキに加えられる。
+ [うつろう水影]召喚中、ミュルジスの装備は一時的に使用できなくなり、ミュルジスが元々持つバフとデバフも除去される。 
+ [うつろう水影]はターン終了時に体力を失う。 [うつろう水影]の体力が0以下になると、消滅してミュルジスに戻り、そのターン中は[うつろう水影]を召喚できなくなる。 
+消滅した[うつろう水影]の持つ[霧集め]が多いほど再召喚までのターン数が増加する","可以使用固定能力召唤流形代替自己作战：
+流形出现时复制指定友军的当前属性作为自身的基础属性（防御力和闪避率至多复制30%）；
+流形作战期间缪尔赛思的技能被暂时移出战斗，但是牌库中会出现特殊的流形技能；
+流形作战期间缪尔赛思的装备会暂时不可用，且缪尔赛思原本的增益和减益也会消失。
+流形在回合结束时自然流失生命。
+流形生命值低于0时消散，切换回缪尔赛思本体作战，且暂时不可切换流形作战。
+方才消散的流形所拥有的“集露”增益越多，切换流形的冷却时间越长。","可以使用固定能力召喚流形代替自己作戰：
+流形出現時復製指定友軍的當前屬性作為自身的基礎屬性（防禦力和閃避率至多復製30%）；
+流形作戰期間繆爾賽思的技能被暫時移出戰鬥，但是牌庫中會出現特殊的流形技能；
+流形作戰期間繆爾賽思的裝備會暫時不可用，且繆爾賽思原本的增益和減益也會消失。
+流形在回合結束時自然流失生命。
+流形生命值低於0時消散，切換回繆爾賽思本體作戰，且暫時不可切換流形作戰。
+方才消散的流形所擁有的「集露」增益越多，切換流形的冷卻時間越長。"
+Character/Muelsyse_PassiveName,Text,,유동체,Fluidform,うつろう水影 ,召唤流形,召喚流形
+Character/Muelsyse_SelectInfo,Text,,"뮤엘시스는 라인 생명생태과 주임이며 클루비아 생명과학 및 환경과학 전문가이다.  물의 예술을 이용해 다양한 생물이 그녀를 대신해 싸운다. 
+
+고정 스킬을 사용해 다양한 유동체를 소환해 자신을 대신해 싸울 수 있기 때문에 매우 유연한 지원 캐릭터다. 
+
+<i><color=#87c241> ""나는 라인 랩 생태과 주임 뮤엘시스야. 그래도 우리 사이에 그런 격식 차린 인사는 필요 없겠지? 박사, 그것도 그럴 게 이미 우린 친구잖아."" </color></i> ","Muelsyse is Rhine Lab’s Ecological Section Chief and a Cluviel life/environmental science expert. 
+
+Uses water arts to command organisms in battle. A flexible support character who summons [Fluidform] variants via fixed skills.
+
+<i><color=#87c241>""I’m Muelsyse, Rhine Lab Ecological Section Chief. But let’s skip formalities – we’re already friends, Doctor.""</color></i>","ミュルジスはライン生命生態課の主任であり、クルビア生命科学及び環境科学の専門家である。  水のアーツを用いさまざまな生物が彼女の代わりに戦う。 
+
+固定スキルを使用してさまざまな水影を召喚し、自分の代わりに戦せることができるため、非常に柔軟なサポート キャラクターである。 
+","莱茵生命生态科主任缪尔赛思，擅长使用水分身：流形代替自己作战。
+
+缪尔赛思可以使用固定能力召唤流形协助友军作战，是非常灵活的支援型角色。","萊茵生命生態科主任繆爾賽思，擅長使用水分身：流形代替自己作戰。
+
+繆爾賽思可以使用固定能力召喚流形協助友軍作戰，是非常靈活的支援型角色。"
+Character/Muelsyse_name,Text,,뮤엘시스,Muelsyse,ミュルジス ,缪尔赛思,繆爾賽思
+Item_Consume/Item_Muelsyse_Consume_Description,Text,,대상을 15 초과치유하고 무색이 아닌 모든 디버프를 제거한다.,Overheal target by 15 HP and remove all non-colorless debuffs.,対象を15オーバーヒールし、無色でないすべてのデバフを除去する。,超额治疗目标15生命，强制解除目标的所有非无色减益。,超額治療目標15生命，強製解除目標的所有非無色減益。
+Item_Consume/Item_Muelsyse_Consume_name,Text,,뮤엘시스의 눈물,Muelsyse's Tear,ミュルジスの涙,缪尔赛思之泪,繆爾賽思之淚
+Item_Equip/Item_Muelsyse_Equip_Description,Text,,"턴 시작 시 마나 1을 얻는다. 
+이 장비의 모든 효과는 전투의 첫 턴에만 유효하다.
+<color=#919191>""나는 생명과 희망을 가져와."" </color> ","Gain 1 Mana at turn start. 
+All effects only active during first combat turn.
+
+<color=#919191>""I bring life and hope.""</color>","ターン開始時にマナを1得る。 
+この装備のすべての効果は、戦闘の最初のターンのみ有効。
+<color=#919191>私は命と希望をもたらします。</color> ","回合开始时获得1法力值
+此装备的所有效果仅在战斗的第一回合生效
+
+<color=#919191>“我带来了生命和希望。”</color>","回合開始時獲得1法力值
+此裝備的所有效果僅在戰鬥的第一回合生效
+
+<color=#919191>「我帶來了生命和希望。」</color>"
+Item_Equip/Item_Muelsyse_Equip_name,Text,,보온병,Thermos,魔法瓶,热水壶,熱水壺
+Item_Passive/Item_Muelsyse_Relic_Description,Text,,"턴 시작 시 아군 전체가 디버프를 가지고 있지 않은 경우, 스킬을 1장 뽑고 이 턴 동안 아군 전체의 공격력과 회복력이 8% 증가한다. 그렇지 않은 경우, 무작위 아군에게서 무작위 디버프 1개를 제거한다.
+<color=#919191>엘프들은 테라 땅에 남겨져 먼지를 뒤집어쓰고 이국땅에 등을 돌렸다. </color>","At turn start: If all allies are debuff-free, draw 1 skill and boost allies’ ATK/Healing by 8% this turn. Otherwise, remove 1 random debuff from random ally.
+<color=#919191>Elves remain on Terra’s soil, bearing dust while turning from foreign lands.</color>","ターン開始時に味方全員がデバフを持っていない場合、スキルを1枚引き、このターン中味方全員の攻撃力と回復力が8%増加する。そうでない場合、ランダムな味方からランダムなデバフを1つ除去する。
+<color=#919191>エルフたちはテラの地に取り残され、塵を抱え、異国の地に背を向ける。 </color> ","回合开始时，如果所有友军没有任何减益，额外抽取1个技能，且所有友军本回合内攻击力、治疗力+8%；否则解除随机友军的一个随机减益。
+<color=#919191>精灵们如此孤独地遗留在泰拉的大地上，怀抱尘土，背靠异乡。</color>","回合開始時，如果所有友軍沒有任何減益，額外抽取1個技能，且所有友軍本回合內攻擊力、治療力+8%；否則解除隨機友軍的一個隨機減益。
+<color=#919191>精靈們如此孤獨地遺留在泰拉的大地上，懷抱塵土，背靠異鄉。</color>"
+Item_Passive/Item_Muelsyse_Relic_name,Text,,호박색 흉터,Amber Scar,琥珀の傷跡,琥珀伤痕,琥珀傷痕
+Skill/S_Muelsyse_01_Description,Text,,"<color=#87ab6d>이슬 모으기 : 「유체 치유」 2장을 패에 추가, [유동체]의 치유력 +2</color>.","<color=#87ab6d>Dew Gathering: Add 2 ""Fluidform Healing"" to hand; [Fluidform] Healing +2</color>",<color=#87ab6d>露集め：「流体治癒」を2枚手札に加える；[うつろう水影]の治癒力+2。</color>,<color=#87ab6d>集露：将2张流形治疗置入手中；流形的治疗力+2。</color>,<color=#87ab6d>集露：將2張流形治療置入手中；流形的治療力+2。</color>
+Skill/S_Muelsyse_01_Name,Text,,이슬의 치유,Dew’s Healing,露の癒し,露水治愈,露水治愈
+Skill/S_Muelsyse_02_Description,Text,,<color=#87ab6d>이슬 모으기 : [유동체]는 [부드러움과 강인함의 조화]를 3중첩 획득. 「유체 치유」와 「유체 보호」는 대상에게 [부드러움과 강인함의 조화]를 1중첩 부여합니다. </color>,"<color=#87ab6d>Dew Gathering: [Fluidform] gains 3 stacks of [Softness Overcomes Hardness]. ""Fluidform Healing/Protection"" grants 1 stack to target</color>",<color=#87ab6d>露集め：[うつろう水影]は[柔よく剛を制す]を3ストック得る。「流体治癒」と「流体保護」は対象に[柔よく剛を制す]を1ストック与える。</color>,<color=#87ab6d>集露：流形获得3层“以柔克刚”。流形治疗和流形保护对目标施加1层“以柔克刚”。</color>,<color=#87ab6d>集露：流形獲得3層「以柔克剛」。流形治療和流形保護對目標施加1層「以柔克剛」。</color>
+Skill/S_Muelsyse_02_Name,Text,,부드러움과 강인함의 조화,Softness Overcomes Hardness,柔よく剛を制す,以柔克刚,以柔克刚
+Skill/S_Muelsyse_03_Description,Text,,"대상은 모든 적을 도발한다. 
+<color=#87ab6d>이슬 모으기 : 「유체 보호」 1장을 패에 추가하고, [유동체]의 최대 체력 +10, [유동체]를 소환하면 모든 적을 도발하고 [물의 파동]을 얻는다. </color>","Taunt all enemies.
+<color=#87ab6d>Dew Gathering: Add 1 ""Fluidform Protection"" to hand; [Fluidform] Max HP +10. Summoning [Fluidform] taunts enemies and grants [Rippling Waves]</color>","対象はすべての敵を挑発する。 
+<color=#87ab6d>露集め：「流体保護」を1枚手札に加える；[うつろう水影]の最大体力+10。[うつろう水影]を召喚すると、すべての敵を挑発し、[水の波動]を得る。</color> ","目标嘲讽所有敌人。
+<color=#87ab6d>集露：将1张流形保护置入手中；流形的生命上限+10。流形出现时嘲讽所有敌人，并获得“涌动水流”。</color>","目標嘲諷所有敵人。
+<color=#87ab6d>集露：將1張流形保護置入手中；流形的生命上限+10。流形出現時嘲諷所有敵人，並獲得「湧動水流」。</color>"
+Skill/S_Muelsyse_03_Name,Text,,물의 파동,Rippling Waves,水の波動,涌动水流,湧動水流
+Skill/S_Muelsyse_04_Description,Text,,"<color=#87ab6d>이슬 모으기 : [유동체]의 공격력 +2 ; [유동체]가 공격으로 피해를 입히면, 입힌 피해의 20%만큼 자신을 초과 치유하고, 입힌 피해의 20%만큼 자신을 연쇄 치유합니다. </color> ",<color=#87ab6d>Dew Gathering: [Fluidform] ATK +2; Attacks Overheal self by 20% damage and Chain Heal 20% damage</color>,<color=#87ab6d>露集め：[うつろう水影]の攻撃力+2；「流体攻撃」を1枚手札に加える；[うつろう水影]が攻撃でダメージを与えると、与えたダメージの20%で自身をオーバーヒールし、与えたダメージの20%で自身を連鎖治癒する。</color> ,<color=#87ab6d>集露：流形攻击力+2；将1张流形攻击置入手中；流形的攻击会以伤害量的20%超额治疗自身，并以伤害量的20%进行连锁治疗。</color>,<color=#87ab6d>集露：流形攻擊力+2；將1張流形攻擊置入手中；流形的攻擊會以傷害量的20%超額治療自身，並以傷害量的20%進行連鎖治療。</color>
+Skill/S_Muelsyse_04_Name,Text,,심도 잠수,Deep Dive,深度潜水,深度汲取,深度汲取
+Skill/S_Muelsyse_05_Description,Text,,"아군 전체의 회복 게이지 보호.
+<color=#87ab6d>이슬 모으기 : 「유체 치유」 1장을 패에 추가, [유동체]의 최대 체력 +20, 치유력 +3, 턴이 끝날 때 체력 손실이 없어지고 소량의 초과 치유를 받지만, 자신에게 디버프가 걸릴 때마다 15의 피해를 입는다. </color>","Restore all allies’ Healing Gauge.
+<color=#87ab6d>Dew Gathering: Add 1 ""Fluidform Healing""; [Fluidform] Max HP +20/Healing +3. No natural HP loss + minor Overheal at turn end, but take 15 damage per debuff received</color>","味方全員の回復ゲージ保護。
+<color=#87ab6d>露集め：「流体治癒」を1枚手札に加える；[うつろう水影]の最大体力+20，治癒力+3，ターン終了時に体力が失われることがなくなり、少量のオーバーヒールを受けるが、自分にデバフが与えられる度15のダメージを受ける。</color> ","恢复所有友军的体力极限。
+<color=#87ab6d>集露：将1张流形治疗置入手中；流形的生命上限+20，治疗力+3，回合结束时不再自然流失生命，且会超额恢复少量生命，但每被施加一层减益时会立即受到15点痛苦伤害。</color>","恢復所有友軍的體力極限。
+<color=#87ab6d>集露：將1張流形治療置入手中；流形的生命上限+20，治療力+3，回合結束時不再自然流失生命，且會超額恢復少量生命，但每被施加一層減益時會立即受到15點痛苦傷害。</color>"
+Skill/S_Muelsyse_05_Name,Text,,청정수는 생명,"""Pure Water is Life""",清き水、即ち命なり,净水即生命,凈水即生命
+Skill/S_Muelsyse_06_Description,Text,,<color=#87ab6d>이슬 모으기 : 「유체 공격」 1장을 패에 추가한다. [유동체]의 공격 스킬은 도발을 무시한다. [유동체]가 공격으로 피해를 입히면 [침식]을 1중첩 부여한다. </color> ,"<color=#87ab6d>Dew Gathering: Add 1 ""Fluidform Attack"". [Fluidform] attack skills ignore Taunt. Apply 1 [Erosion] stack per attack damage</color>",<color=#87ab6d>露集め：「流体攻撃」を1枚手札に加える。；[うつろう水影]の攻撃スキルは挑発を無視する。[うつろう水影]が攻撃によってダメージを与えると[浸食]を1ストック与える。 </color> ,<color=#87ab6d>集露：将一张流形攻击置入手中。流形的敌人指向技能无视嘲讽；流形通过攻击造成伤害时施加1层“侵蚀”。</color>,<color=#87ab6d>集露：將一張流形攻擊置入手中。流形的敵人指向技能無視嘲諷；流形通過攻擊造成傷害時施加1層「侵蝕」。</color>
+Skill/S_Muelsyse_06_Name,Text,,유수 침식,Fluidform Erosion,流水浸食,侵蚀水流,侵蝕水流
+Skill/S_Muelsyse_07_Description,Text,,"<color=#87ab6d>이슬 모으기 : [유동체]를 소환할 때 모든 마나를 소모하고, 소모한 마나 1당 무작위 유체 전용 스킬 1개를 패에 추가합니다. [유동체]의 최대 체력 +5, 공격력 +1, 치유력 +1. 덱에 추가되는 유체 스킬의 수가 두 배 증가합니다. </color>",<color=#87ab6d>Dew Gathering: Consume all Mana when summoning [Fluidform] (1 Mana = 1 random Fluidform skill). [Fluidform] Max HP +5/ATK +1/Healing +1. Double Fluidform skills added to deck</color>,<color=#87ab6d>露集め：[うつろう水影]を召喚時にすべてのマナを消費して、消費したマナ1につきランダムな流体専用スキルを手札に加える。[うつろう水影]の最大体力+5，攻撃力+1，治癒力+1。デッキに加えられる流体スキルの数が倍になる。</color> ,<color=#87ab6d>集露：流形出现时消耗所有剩余法力值，每消耗1点，将1张随机流形技能置入手中，并使流形的最大生命值+5，攻击力+1，治疗力+1。加入牌库的流形技能数量翻倍。</color>,<color=#87ab6d>集露：流形出現時消耗所有剩余法力值，每消耗1點，將1張隨機流形技能置入手中，並使流形的最大生命值+5，攻擊力+1，治療力+1。加入牌庫的流形技能數量翻倍。</color>
+Skill/S_Muelsyse_07_Name,Text,,고속 성장,Rapid Growth,高速成長,极速生长,極速生長
+Skill/S_Muelsyse_08_Description,Text,,"패에 공격 스킬이 없을 때만 사용 가능. 덱에서 비공격 스킬 3장을 뽑는다. 
+<color=#87ab6d>이슬 모으기: 「유체 치유」 1장을 패에 추가한다. [유동체] 소환 시 [유동체]의 기본 공격력은 대상의 치유력이 된다. [유동체]의 기본 치유력은 대상의 공격력이 된다. </color>","Usable only with no attack skills in hand. Draw 3 non-attack skills.
+<color=#87ab6d>Dew Gathering: [Fluidform]’s base ATK = target’s Healing; base Healing = target’s ATK. Add 1 ""Fluidform Healing""</color>","手札に攻撃スキルが無い場合のみ使用可能。デッキから非攻撃スキルを3枚引く。 
+<color=#87ab6d>露集め：「流体治癒」を1枚手札に加える。[うつろう水影]召喚時に[うつろう水影]の基本攻撃力は、対象の治癒力になる。[うつろう水影]の基本治癒力は、対象の攻撃力になる。</color> ","仅当手中没有任何攻击技能时可以使用。从牌库抽取3个非攻击技能。
+<color=#87ab6d>集露：流形生成时，基础攻击力按目标的治疗力生成，基础治疗力按目标的攻击力生成。将1张流形治疗置入手中。</color>","僅當手中沒有任何攻擊技能時可以使用。從牌庫抽取3個非攻擊技能。
+<color=#87ab6d>集露：流形生成時，基礎攻擊力按目標的治療力生成，基礎治療力按目標的攻擊力生成。將1張流形治療置入手中。</color>"
+Skill/S_Muelsyse_08_Name,Text,,이물불쟁,Fluidformity Without Conflict,利物不争,利物不争,利物不爭
+Skill/S_Muelsyse_09_Description,Text,,"아군 전체가 가지고 있는 디버프 지속시간을 2턴 감소. 
+[유동체]의 소환 재사용 대기시간 감소 제거
+<color=#87ab6d>이슬 모으기 : [유동체]가 디버프를 받을 때마다 아군 전체가 3턴 동안 해당 종류의 디버프에 대한 저항이 15% 증가합니다. 이 [유동체]가 사라진 후, 다시 [유동체]를 소환하기 위한 재사용 대기시간이 감소한다. </color>","Reduce all allies’ debuff duration by 2 turns. 
+Remove [Fluidform] summon cooldown.
+<color=#87ab6d>Dew Gathering: Allies gain 15% resistance to debuff type for 3 turns per [Fluidform] debuff. Reduces resummon cooldown post-dissipation</color>","味方全員の持つデバフの持続時間を2ターン短縮。 
+[うつろう水影]の召喚クールダウンを除去する
+<color=#87ab6d>露集め：[うつろう水影]がデバフを受けるたび、味方全体は対応する種類のデバフのレジストが3ターンの間15%増加する。この[うつろう水影]が消滅した後、再び[うつろう水影]を召喚するためのクールダウンを減少させる。 </color> ","所有友军的减益持续回合-2。
+解除召唤流形的冷却状态。
+<color=#87ab6d>集露：将1张流形治疗置入手中；每当流形被成功施加减益后，使所有友军对应类型减益的抵抗率在三回合内提升15%。
+此流形消散后，再次召唤流形的冷却时间减少。</color>","所有友軍的減益持續回合-2。
+解除召喚流形的冷卻狀態。
+<color=#87ab6d>集露：將1張流形治療置入手中；每當流形被成功施加減益後，使所有友軍對應類型減益的抵抗率在三回合內提升15%。
+此流形消散後，再次召喚流形的冷卻時間減少。</color>"
+Skill/S_Muelsyse_09_Name,Text,,표면적 비엔트로피 적응,Surface Non-Entropic Adaptation,ノンエントロピー適応,浅层非熵适应,淺層非熵適應
+Skill/S_Muelsyse_10_0_Description,Text,,,,,,
+Skill/S_Muelsyse_10_0_Name,Text,,,,,,
+Skill/S_Muelsyse_10_Description,Text,,"패에 있는 자신의 다른 스킬은 다음과 같은 효과를 얻는다 : 사용 후 패에 복사본을 생성하고, 생성된 스킬은 제외와 1턴 후 버려짐 효과를 가진다. 
+<color=#87ab6d>이슬 모으기 : 패에서 유체 스킬을 사용하면, 무작위 적에게 [유동체] 공격력의 40%만큼의 추격 피해를 준다. 적을 처치할 때마다 「유체 공격」 1개를 생성한다. </color>","Other skills gain: On use, create Excluded copy (discarded after 1 turn).
+<color=#87ab6d>Dew Gathering: Fluidform skills deal 40% ATK Follow-up damage. Generate 1 ""Fluidform Attack"" per enemy defeated</color>","手札にある他のすべての自身のスキルは次の効果を得る: 使用後、コピーを手札に生成し、生成されたスキルは除外と、1 ターン後に捨てられるを持つ。 
+<color=#87ab6d>露集め：手札から流体スキルを使用すると、ランダムな敵に[うつろう水影]の攻撃力の40%で追撃ダメージを与える。敵を倒すたびに「流体攻撃」を1枚生成する 。</color> ","手中的其他所有自己的技能获得如下效果：使用后将一张复制放入手中；复制的技能获得放逐、1回合后弃牌、迅速。
+<color=#87ab6d>集露：使用手中流形的技能时对随机敌人造成40%流形攻击力的追击伤害。每当有敌人倒下时在手中生成一张流形攻击。</color>","手中的其他所有自己的技能獲得如下效果：使用後將一張復製放入手中；復製的技能獲得放逐、1回合後棄牌、迅速。
+<color=#87ab6d>集露：使用手中流形的技能時對隨機敵人造成40%流形攻擊力的追擊傷害。每當有敵人倒下時在手中生成一張流形攻擊。</color>"
+Skill/S_Muelsyse_10_Name,Text,,생태학적 상호작용,Ecological Coupling,生態系統結合 ,生态耦合,生態耦合
+Skill/S_Muelsyse_11_Description,Text,,"이 스킬은 드로우 시 즉시 발동한다. 
+스킬 1장을 뽑고, 패의 무작위 스킬 3장에 <color=#87ab6d>[윤화]</color>를 부여한다.
+<color=#87ab6d>[윤화]</color> : 대미지 +3, 회복량 +3. 사용 시, 스킬 소유자를 1 초과 치유하고 인접한 스킬에 <color=#87ab6d>[윤화]</color>를 부여한다.
+턴 종료 시, 패의 다른 스킬에 <color=#87ab6d>[윤화]</color>를 부여한다. 
+<color=#87ab6d>[윤화]</color>는 스킬에 추가 효과를 부여한다.","Activates immediately when drawn. 
+Draw 1 skill, apply <color=#87ab6d>[Moisturize]</color> to 3 random skills: +3 damage/healing. 
+On use: Overheal owner by 1 and spread [Moisturize]. Apply to other skills at turn end.","このスキルは引いたときに即座に発動する。 
+スキルを1枚引き、手札のランダムなスキル3つに<color=#87ab6d>[潤化]</color>を与える。
+<color=#87ab6d>[潤化]</color>:ダメージ+3、回復量+3。使用すると、スキルの所有者を1オーバーヒールし、隣接するスキルに<color=#87ab6d>[潤化]</color>を与える。
+ターン終了時、手札の他のスキルに<color=#87ab6d>[潤化]</color>を与える。 
+<color=#87ab6d>[潤化]</color>はスキルに追加効果を与える。 ","抽取到此技能时立即释放。
+抽取一个技能，为手中随机3个技能附加<color=#87ab6d>“润化”</color>。
+<color=#87ab6d>润化</color>：伤害、治疗量+3；使用时超额恢复技能的拥有者1点生命，并为相邻的技能附加<color=#87ab6d>“润化”</color>。回合结束时对手中其他技能附加<color=#87ab6d>“润化”</color>。<color=#87ab6d>“润化”</color>对流形技能有额外的效果。","抽取到此技能時立即釋放。
+抽取一個技能，為手中隨機3個技能附加<color=#87ab6d>「潤化」</color>。
+<color=#87ab6d>潤化</color>：傷害、治療量+3；使用時超額恢復技能的擁有者1點生命，並為相鄰的技能附加<color=#87ab6d>「潤化」</color>。回合結束時對手中其他技能附加<color=#87ab6d>「潤化」</color>。<color=#87ab6d>「潤化」</color>對流形技能有額外的效果。"
+Skill/S_Muelsyse_11_Name,Text,,점진적습윤화,Progressive Moisturization,段階的湿潤化,渐进性润化,漸進性潤化
+Skill/S_Muelsyse_Consume_Description,Text,,대상을 15 초과 치유하고 무색이 아닌 모든 디버프를 제거한다.,Overheal target by 15 HP and remove all non-colorless debuffs.,対象を15オーバーヒールし、無色でないすべてのデバフを除去する。,超额治疗目标15生命，强制解除目标的所有非无色减益,超額治療目標15生命，強製解除目標的所有非無色減益
+Skill/S_Muelsyse_Consume_Name,Text,,뮤엘시스의 눈물,Muelsyse's Tear,ミュルジスの涙,缪尔赛思之泪,繆爾賽思之淚
+Skill/S_Muelsyse_Lucy_Description,Text,,"뮤엘시스가 일반 상태일 때, 덱과 버린 카드에서 <color=#87ab6d>이슬 모으기</color>가 있는 스킬을 모두 확인하고, 그 중 2개를 선택해 뽑는다(조건을 만족하는 스킬이 없다면 스킬을 2장 뽑는다). 
+뮤엘시스가 [유동체]를 소환하고 있다면, 유체 스킬을 우선적으로 3장 뽑고 [유동체]의 체력을 최대치까지 회복한다(회복 효과는 1회당 1회만 발동). 
+뮤엘시스가 전투불능일 경우, 스킬을 2장 뽑은 후 이 스킬을 제외한다. ","If Muelsyse is base form: Inspect deck/discard for 2 <color=#87ab6d>Dew Gathering</color> skills. 
+If [Fluidform] active: Prioritize draw 3 Fluidform skills + full heal (once per combat). 
+If KO’d: Draw 2 then Exclude this.","ミュルジスが通常状態の場合、デッキと捨て札から<color=#87ab6d>霧集め</color> を持つスキルを全て確認し、そのうち2つを選択して引く（条件を満たすスキルがない場合はスキルを2枚引く)。 
+ミュルジスが[うつろう水影]を召喚している場合、流体スキルを優先して3枚引き、[うつろう水影]の体力を最大まで回復する（回復効果は1回の戦闘につき1回のみ発動）。 
+ミュルジスが戦闘不能の場合、スキルを2枚引き、その後このスキルを除外する。 ","若缪尔赛思处于本体状态，查看牌库和弃牌库中所有有<color=#87ab6d>集露</color>词条的技能，选择其中2个抽取（没有符合条件的技能时直接抽取技能补足2个）。
+若缪尔赛思处于流形状态，优先抽取3个流形技能，然后将流形的生命恢复至上限（恢复效果每场战斗仅触发一次）。
+如果缪尔赛思无法战斗，抽取2个技能，然后放逐此技能。","若繆爾賽思處於本體狀態，查看牌庫和棄牌庫中所有有<color=#87ab6d>集露</color>詞條的技能，選擇其中2個抽取（沒有符合條件的技能時直接抽取技能補足2個）。
+若繆爾賽思處於流形狀態，優先抽取3個流形技能，然後將流形的生命恢復至上限（恢復效果每場戰鬥僅觸發一次）。
+如果繆爾賽思無法戰鬥，抽取2個技能，然後放逐此技能。"
+Skill/S_Muelsyse_Lucy_Name,Text,,요정의 춤,Sylph’s Dance,妖精の舞,精灵之舞,精靈之舞
+Skill/S_Muelsyse_P_Description,Text,,"뮤엘시스는 [유동체]를 소환한다. [유동체]의 기본 능력은 대상의 현재 능력과 동일해진다.
+무작위 유체 스킬 1장을 패에 추가한다.","Summon [Fluidform] copying target’s current stats. 
+Add 1 random Fluidform skill to hand.","ミュルジスは[うつろう水影]を召喚する。 [うつろう水影]の基本能力は対象の現在の能力と同じになる。
+ランダムな流体スキルを1枚手札に加える。","缪尔赛思切换为流形作战。流形的基础属性和目标的当前属性相同。
+将一张随机流形技能加入手中。","繆爾賽思切換為流形作戰。流形的基礎屬性和目標的當前屬性相同。
+將一張隨機流形技能加入手中。"
+Skill/S_Muelsyse_P_Name,Text,,유동체,Fluidform Summon,うつろう水影,流形召唤,流形召喚
+Skill/S_Muelsyse_R1_Description,Text,,자신의 다른 전용 스킬의 제외가 부여된 복사본을 5장까지 생성한다. (패의 상한을 넘지 않음),Generate up to 5 Excluded copies of different exclusive skills (without exceeding hand limit).,自身の異なる専用スキルを除外を与えて5枚まで生成する。(手札の上限を超えない),在手中的空位生成至多5个互不相同的自己的专属技能，附带放逐。,在手中的空位生成至多5個互不相同的自己的專屬技能，附帶放逐。
+Skill/S_Muelsyse_R1_Name,Text,,생태 정원,Ecological Garden,生態公園,生态园,生態園
+Skill/S_Muelsyse_R2_Description,Text,,"아군 전체의 무색이 아닌 디버프를 제거한다. 
+자신이 디버프를 가지고 있지 않다면, 이 스킬의 비용은 1감소 한다. 
+<color=#87ab6d>이슬 모으기 : 「유체 치유」 2장을 패에 추가하고, 「유체 치유」는 대상에게서 무작위 디버프 1개를 제거한다. [유동체]가 사라질 때, 다른 모든 아군에게 [청정 무결]을 부여합니다.</color>","Purge all non-colorless debuffs from allies. 
+Cost -1 if self is debuff-free.
+<color=#87ab6d>Dew Gathering: Add 2 ""Fluidform Healing"" (removes 1 debuff). Grants [Pristine Purity] to allies when [Fluidform] dissipates</color>","味方全員の無色でないデバフを除去する。 
+自身がデバフを持たない場合、このスキルのコストは-1される。 
+<color=#87ab6d>霧集め：「流体治癒」を2枚手札に加える；「流体治癒」は対象からランダムなデバフを1つ除去する。[うつろう水影]の消滅時、他の味方全員に[清浄無垢]を与える </color> ","强制解除所有友军的所有非无色减益。
+自身没有任何减益时，此技能费用-1。
+<color=#87ab6d>集露：将2张流形治疗置入手中；流形的流形治疗附带解除一个随机减益的效果。流形消散时为所有其他友军附加“纯净无瑕”。</color>","強製解除所有友軍的所有非無色減益。
+自身沒有任何減益時，此技能費用-1。
+<color=#87ab6d>集露：將2張流形治療置入手中；流形的流形治療附帶解除一個隨機減益的效果。流形消散時為所有其他友軍附加「純凈無瑕」。</color>"
+Skill/S_Muelsyse_R2_Name,Text,,심연 순수,Abyssal Purity,深淵純粋,深层纯净,深層純凈
+Skill/S_Muelsyse_R3_Description,Text,,"사용 불가.
+<color=#87ab6d>이슬 모으기 : [유동체]의 복사본의 대상이 피해를 입었을 때, 그 피해는 1이 된다, 턴 종료 시 [유동체]는 체력 10을 추가로 잃는다(중복 적용). 
+[유동체]의 복사본 대상이 생성되지 않은 스킬을 사용할 때, 그 스킬의 복사본을 패에 추가한다. 이 스킬은 0코스트에 제외, 신속, 1턴 후 버림, 피해/치유량이 80% 감소된 유체 스킬이 된다.
+[유동체]가 소멸하면 패로 돌아가지 않고 제외됩니다. </color>","[Unusable]
+<color=#87ab6d>Dew Gathering: When [Fluidform] copy's target takes damage, reduce it to 1. [Fluidform] loses 10 HP at turn end (stacks). Using non-generated skills with copy's target adds Excluded/Swift Fluidform skill copy to hand (0 Mana, 80% reduced effects, discarded after 1 turn). [Fluidform] becomes Excluded upon dissipation.</color>","使用不可。
+<color=#87ab6d>霧集め：[うつろう水影]のコピーの対象がダメージを受けたとき、そのダメージを1にするが、ターン終了時に[うつろう水影]は体力を10追加で失う（これは重複する）。 
+[うつろう水影]のコピーの対象が生成でないスキルを使用すると、そのスキルのコピーを手札に加える。これはコスト0で除外、迅速と1ターン後に捨てられるを持ち、ダメージ/治癒量が80％減少した流体スキルとなる。
+[うつろう水影]が消滅した場合、手札に戻らずに除外される。</color>","无法使用。
+<color=#87ab6d>集露：流形的复制目标受到伤害时，使该伤害变化为1，当回合结束时流形额外流失10生命（会叠加）。
+流形的复制目标使用手中的非生成技能后，将该技能的一张复制加入手牌，该技能为流形的技能，附带放逐、迅速，费用为0，1回合弃牌，伤害和治疗倍率减少80%。
+流形消散后“专属替身”不会返回手牌，而是直接放逐。</color>","無法使用。
+<color=#87ab6d>集露：流形的復製目標受到傷害時，使該傷害變化為1，當回合結束時流形額外流失10生命（會疊加）。
+流形的復製目標使用手中的非生成技能後，將該技能的一張復製加入手牌，該技能為流形的技能，附帶放逐、迅速，費用為0，1回合棄牌，傷害和治療倍率減少80%。
+流形消散後「專屬替身」不會返回手牌，而是直接放逐。</color>"
+Skill/S_Muelsyse_R3_Name,Text,,전속 대역,Designated Proxy,専属代役,专属替身,專屬替身
+Skill/S_Muelsyse_R4_Description,Text,,"전투 시작 시 이 스킬을 뽑고 즉시 사용한다. 
+덱의 모든 자신의 스킬에 일회성 효과를 부여한다.","Draw and play this skill at combat start. 
+Grant <b>Single-use</b> to all non-disposable skills in deck.","戦闘開始時にこのスキルを引き、即座に使用する。 
+デッキのすべての自身のスキルに単発を与える。 ","战斗开始时抽取此技能并立即使用。
+为所有自己的非一次性/放逐技能添加一次性。","戰鬥開始時抽取此技能並立即使用。
+為所有自己的非一次性/放逐技能添加一次性。"
+Skill/S_Muelsyse_R4_Name,Text,,이국의 고독 ,Solitude in a Foreign Land,異国の孤独 ,孑然异乡,孑然異鄉
+Skill/S_Muelsyse_S0_Description,Text,,패에서 사용 시 최대 체력의 10%를 잃는다.,Lose 10% Max HP when played from hand.,手札から使用時最大体力の10%を失う。,从手中使用时，流失10%生命上限的生命。,從手中使用時，流失10%生命上限的生命。
+Skill/S_Muelsyse_S0_Name,Text,,유체 공격,Fluidform Attack,流体攻撃,流形攻击,
+Skill/S_Muelsyse_S1_Description,Text,,패에서 사용 시 최대 체력의 10%를 잃는다.,Lose 10% Max HP when played from hand.,手札から使用時最大体力の10%を失う。,从手中使用时，流失10%生命上限的生命。,從手中使用時，流失10%生命上限的生命。
+Skill/S_Muelsyse_S1_Name,Text,,유체 치유,Fluidform Healing,流体治癒,流形治疗,
+Skill/S_Muelsyse_S2_Description,Text,,패에서 사용 시 최대 체력의 10%를 잃는다.,Lose 10% Max HP when played from hand.,手札から使用時最大体力の10%を失う。,从手中使用时，流失10%生命上限的生命。,從手中使用時，流失10%生命上限的生命。
+Skill/S_Muelsyse_S2_Name,Text,,유체 보호,Fluidform Protection,流体保護,流形保护,流形保護
+SkillExtended/Extended_Muelsyse_10_Des,Text,,"사용 후 복사본을 패에 추가하고, 복사한 스킬은 제외와 1턴 후 버림이 부여된다. ","After use, add Excluded copy to hand (discarded after 1 turn).",使用後、コピーを手札に加え、コピーしたスキルは除外と、1 ターン後に捨てられるを持つ。 ,使用后将一张复制放入手中；复制的技能获得放逐、1回合后弃牌、迅速。,使用後將一張復製放入手中；復製的技能獲得放逐、1回合後棄牌、迅速。
+SkillExtended/Extended_Muelsyse_10_Name,Text,,생태학적 상호작용,Ecological Coupling,生態系統結合 ,生态耦合,生態耦合
+SkillExtended/Extended_Muelsyse_11_0_Des,Text,,방어력 무시 ; 피해량 30% 증가 ,Ignores Defense; Damage +30%,防御力無視 ；伤ダメージ30%増加 ,无视防御；伤害增加30%,無視防禦；傷害增加30%
+SkillExtended/Extended_Muelsyse_11_0_Name,Text,,윤화-유체 공격,Moisturize - Fluidform Attack,潤化-流体攻撃,润化-流形攻击,潤化-流形攻擊
+SkillExtended/Extended_Muelsyse_11_1_Des,Text,,회복량 30% 증가,Healing +30%,回復量30%増加,治疗量增加30%,治療量增加30%
+SkillExtended/Extended_Muelsyse_11_1_Name,Text,,윤화-유체 치유,Moisturize - Fluidform Healing,潤化-流体治癒,润化-流形治疗,潤化-流形治療
+SkillExtended/Extended_Muelsyse_11_2_Des,Text,,대상에게 회복 게이지 보호를 2턴 동안 부여한다.,Grant 2-turn Healing Gauge Protection to target.,対象に回復ゲージ保護を2ターン与える,对目标施加2回合保护体力极限,對目標施加2回合保護體力極限
+SkillExtended/Extended_Muelsyse_11_2_Name,Text,,윤화 - 유체 보호,Moisturize - Fluidform Protection,潤化-流体保護,润化-流形保护,潤化-流形保護
+SkillExtended/Extended_Muelsyse_11_Des,Text,,"피해량 +3, 회복량 +3. 사용 시 스킬 소유자를 1 초과 치유하고, 인접한 스킬에 <color=#87ab6d>[윤화]</color>를 부여한다.",Damage/Healing +3. On use: Overheal owner by 1 and spread <color=#87ab6d>[Moisturize]</color> to adjacent skills.,ダメージ+3、回復量+3。使用すると、スキルの所有者を1オーバーヒールし、隣接するスキルに<color=#87ab6d>[潤化]</color>を与える。,伤害、治疗量+3；使用时超额恢复技能的拥有者1点生命，并为相邻的技能附加“润化”。,傷害、治療量+3；使用時超額恢復技能的擁有者1點生命，並為相鄰的技能附加「潤化」。
+SkillExtended/Extended_Muelsyse_11_Name,Text,,윤화,Moisturize,潤化,润化,潤化
+SkillExtended/Extended_Muelsyse_Lucy_Des,Text,,이 스킬로는 [유동체]를 회복할 수 없다. ,Cannot heal [Fluidform] with this skill.,このスキルでは[うつろう水影]を回復できない。 ,已无法再恢复流形的生命。,已無法再恢復流形的生命。
+SkillExtended/Extended_Muelsyse_Lucy_Name,Text,,사용됨,Depleted,使用済み,耗竭,耗竭
+SkillExtended/Extended_Muelsyse_P_Colddown_Name,Text,,,cd,cd,,
+SkillExtended/Extended_Muelsyse_R3_0_Des,Text,,피해량/회복량 80% 감소,Damage/Healing reduced by 80%,ダメージ/回復量80%減少,伤害、治疗倍率减少80%,傷害、治療倍率減少80%
+SkillExtended/Extended_Muelsyse_R3_0_Name,Text,,대체기술,Proxy Skill,代他スキル,替身技能,替身技能
+SkillExtended/Extended_Muelsyse_R3_Des,Text,,"사용 후 이 스킬의 복사본을 패에 추가한다. 이 스킬은 0코스트에 제외, 신속을 가지고 있으며, 피해량/회복량이 80% 감소한다.","After use, add Excluded/Swift copy to hand (0 Mana, 80% reduced effects).",使用後、このスキルのコピーを手札に加える。これはコスト0で除外、迅速を持ち、ダメージ/回復量が80％減少する。,使用后将该技能的一张复制加入手牌，该技能为流形的技能，附带放逐、迅速，费用为0，但是伤害和治疗倍率减少80%。,使用後將該技能的一張復製加入手牌，該技能為流形的技能，附帶放逐、迅速，費用為0，但是傷害和治療倍率減少80%。
+SkillExtended/Extended_Muelsyse_R3_Name,Text,,전속 대역,Designated Proxy,専属代役,专属替身,專屬替身
+SkillExtended/SkillEn_Muelsyse_01_EnforceString,Text,,공격 스킬,Attack Skill,攻撃スキル,攻击技能,攻擊技能
+SkillExtended/SkillEn_Muelsyse_01_Name,Text,,"사용 시 자신이 디버프를 가지고 있지 않으면 피해량이 30% 증가한다. 그렇지 않은 경우, 자신의 무작위 디버프를 1개 제거한다. ","Deal 30% more damage if debuff-free. Otherwise, remove 1 random debuff.",使用時、自身がデバフを持たない場合、ダメージが30%増加する。そうでない場合、自身のランダムなデバフを1つ除去する。 ,释放时，若自身没有任何减益，伤害倍率提升30%；否则解除自身的1个随机减益。,釋放時，若自身沒有任何減益，傷害倍率提升30%；否則解除自身的1個隨機減益。
+SkillExtended/SkillEn_Muelsyse_02_EnforceString,Text,,비용 1 이상의 스킬,1 Mana or higher skills,コスト1以上のスキル,1费或以上技能,1費或以上技能
+SkillExtended/SkillEn_Muelsyse_02_Name,Text,,"사용 시 뮤엘시스가 [유동체]를 소환하고 있다면, [유동체] 최대 체력의 50%만큼 초과 치유한다. 덱에서 유체 스킬 1장을 뽑는다. ",If [Fluidform] is active: Overheal 50% Max HP and draw Fluidform skill.,使用時、ミュルジスが[うつろう水影]を召喚している場合、[うつろう水影]の最大体力の50％でオーバーヒールする。デッキから流体スキルを1枚引く。 ,释放时若缪尔赛思处于流形状态，超额恢复流形生命上限50%的生命，并从牌库优先抽取1个流形技能,釋放時若繆爾賽思處於流形狀態，超額恢復流形生命上限50%的生命，並從牌庫優先抽取1個流形技能
+SkillKeyword/Keyword_Dew_Desc,Text,,"[유동체] 소환 시 패에서 버려지고, 이 효과가 발동한다. ",[Dew Gathering] effects trigger when discarded for [Fluidform] summoning.,[うつろう水影]召喚時に手札から捨てられ、この効果が発動する。 ,此技能因召唤流形而从手中移除时，触发此效果。,此技能因召喚流形而從手中移除時，觸發此效果。
+SkillKeyword/Keyword_Dew_Name,Text,,이슬 모으기,Dew Gathering,露集め,集露,集露
+,,,,,,,
+

@@ -1,0 +1,231 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_SF_Intruder_10_1_Description,Text,,,"Triggered when another debuff is applied:
+Remove [Crosstalk] and spread it to 2 random allies without [Crosstalk]. Apply the same debuff to all allies with [Crosstalk].
+Debuffs applied by this effect do not trigger [Crosstalk].
+Additionally, spread [Crosstalk] to a random ally upon death.",,"被施加其他减益时触发：
+解除【串扰】并传染给随机两个没有【串扰】的友军，并给所有有【串扰】的友军施加相同的减益。
+此效果施加的减益不会触发【串扰】。
+此外，被击杀时将【串扰】传染给随机友军。","被施加其他減益時觸發：
+解除【串擾】並傳染給隨機兩個沒有【串擾】的友軍，並給所有有【串擾】的友軍施加相同的減益。
+此效果施加的減益不會觸發【串擾】。
+此外，被擊殺時將【串擾】傳染給隨機友軍。"
+Buff/B_SF_Intruder_10_1_Name,Text,,,Crosstalk,,串扰,串擾
+Buff/B_SF_Intruder_10_2_Description,Text,,,,,,
+Buff/B_SF_Intruder_10_2_Name,Text,,,Crosstalk 2,,串扰2,串擾2
+Buff/B_SF_Intruder_11_1_Description,Text,,,,,,
+Buff/B_SF_Intruder_11_1_Name,Text,,,Mental Enhancement,,心智强化,心智強化
+Buff/B_SF_Intruder_12_1_Description,Text,,,,,,
+Buff/B_SF_Intruder_12_1_Name,Text,,,Proxy Damage,,代受攻击,代受攻擊
+Buff/B_SF_Intruder_12_S_Description,Text,,,Insert 3 [Dinergate] countdowns (10 turns) into the countdown bar each turn.,,每回合向倒计时栏置入3张倒计时10的【兵蚁】。,每回合向倒計時欄置入3張倒計時10的【兵蟻】。
+Buff/B_SF_Intruder_12_S_Name,Text,,,Military Harassment,,军势侵扰,軍勢侵擾
+Buff/B_SF_Intruder_13_Description,Text,,,,,,
+Buff/B_SF_Intruder_13_Name,Text,,,Roster Protection,,编制保护,編制保護
+Buff/B_SF_Intruder_14_1_Description,Text,,,Block a non-colorless debuff and apply it to the target of an ally's next offensive skill.,,防御一个被施加的非无色减益，并将其施加给此后友军下一个攻击技能的目标。,防禦一個被施加的非無色減益，並將其施加給此後友軍下一個攻擊技能的目標。
+Buff/B_SF_Intruder_14_1_Name,Text,,,Tolerance Counter,,耐受反制,耐受反制
+Buff/B_SF_Intruder_14_Description,Text,,,Grant target &a stacks of &b on an ally's next attack.,,友军下一次攻击给与目标&a层&b。,友軍下一次攻擊給與目標&a層&b。
+Buff/B_SF_Intruder_14_Name,Text,,,Tolerance Counter,,耐受反制,耐受反制
+Buff/B_SF_Intruder_1_A_Description,Text,,,(Based on Healing Power),,(基于治疗力),(基於治療力)
+Buff/B_SF_Intruder_1_A_Name,Text,,,Nano Virus,,纳米病毒,納米病毒
+Buff/B_SF_Intruder_1_E_Description,Text,,,(Based on Healing Power),,(基于治疗力),(基於治療力)
+Buff/B_SF_Intruder_1_E_Name,Text,,,Nano Virus,,纳米病毒,納米病毒
+Buff/B_SF_Intruder_4_A_Description,Text,,,"Negates <color=purple>Pain damage</color> while active.
+When removed, take <color=purple>Pain damage</color> equal to total negated damage (&a).
+Overhealing or exceeding HP limit reduces accumulated damage by 200% of excess value.",,"持续期间不会受到<color=purple>痛苦伤害</color>。
+此增益被解除时受到此效果减免的<color=purple>痛苦伤害</color>之和(&a)的<color=purple>痛苦伤害</color>。
+持续期间受到超额治疗或超出体力极限的治疗时，减少2倍于其数值的已累计的伤害。","持續期間不會受到<color=purple>痛苦傷害</color>。
+此增益被解除時受到此效果減免的<color=purple>痛苦傷害</color>之和(&a)的<color=purple>痛苦傷害</color>。
+持續期間受到超額治療或超出體力極限的治療時，減少2倍於其數值的已累計的傷害。"
+Buff/B_SF_Intruder_4_A_Name,Text,,,Pain Suppression,,痛觉屏蔽,痛覺屏蔽
+Buff/B_SF_Intruder_4_E_Description,Text,,,Take +50% <color=purple>Pain damage</color>.,,受到的<color=purple>痛苦伤害</color>增加50%。,受到的<color=purple>痛苦傷害</color>增加50%。
+Buff/B_SF_Intruder_4_E_Name,Text,,,Pain Amplification,,痛觉增幅,痛覺增幅
+Buff/B_SF_Intruder_5_Description,Text,,,,,,
+Buff/B_SF_Intruder_5_Name,Text,,,Damage Taken Reduction,,所受伤害减少,所受傷害減少
+Buff/B_SF_Intruder_6_Description,Text,,,Consumes 1 stack per action.,,行动时消耗1层层数。,行動時消耗1層層數。
+Buff/B_SF_Intruder_6_Name,Text,,,Accuracy Down,,命中率下降,命中率下降
+Buff/B_SF_Intruder_7_1_Description,Text,,,,,,
+Buff/B_SF_Intruder_7_1_Name,Text,,,Shield,,护盾,護盾
+Buff/B_SF_Intruder_7_2_Description,Text,,,Next skill used by this character costs 1 less.,,下一次出手的该角色的技能费用减少1点。,下一次出手的該角色的技能費用減少1點。
+Buff/B_SF_Intruder_7_2_Name,Text,,,Skill Cost Reduction,,技能费用降低,技能費用降低
+Buff/B_SF_Intruder_9_0_Description,Text,,,Records skills of fallen allies.,,记录友军死亡时的技能。,記錄友軍死亡時的技能。
+Buff/B_SF_Intruder_9_0_Name,Text,,,Skill Archive,,技能记录,技能記錄
+Buff/B_SF_Intruder_9_1_Description,Text,,,"Cannot act
+While at Death's Door, redirect damage as <color=purple>Pain damage</color> to non-near-death allies.
+When removed: Fully heal, clear non-colorless debuffs, reduce ATK/DEF/Healing/Accuracy/Evasion by 40% for 1 turn.",,"无法行动
+濒死状态下受到伤害时若存在未濒死的友军，转化为痛苦伤害由其代为承受。
+解除时恢复全部体力值，解除非无色减益，攻击力/防御力/治疗力/命中率/闪避率下降40%,持续1回合。","無法行動
+瀕死狀態下受到傷害時若存在未瀕死的友軍，轉化爲痛苦傷害由其代爲承受。
+解除時恢復全部體力值，解除非無色減益，攻擊力/防禦力/治療力/命中率/閃避率下降40%,持續1回合。"
+Buff/B_SF_Intruder_9_1_Name,Text,,,Mind Transmission,,心智传输,心智傳輸
+Buff/B_SF_Intruder_9_2_Description,Text,,,,,,
+Buff/B_SF_Intruder_9_2_Name,Text,,,Body Calibration,,素体磨合,素體磨合
+Buff/B_SF_Intruder_ex0_Description,Text,,,,,,
+Buff/B_SF_Intruder_ex0_Name,Text,,,,,,
+Buff/B_SF_Intruder_p_Description,Text,,,"Current Count: &a/&b
+(Displayed at icon's bottom-right)
+Each count randomly reduces ATK/DEF/Accuracy/Evasion by 3%.
++1 count when receiving debuffs.
+Gain counts equal to debuffs each turn.
+At max count: Consume counts and Stun for 1 turn (<sprite=2>&c%).
+If resisted, success rate increases by 40% until applied.",,"当前计数：&a/&b
+(显示在图标右下角)
+每1点计数随机降低3%攻击力/防御力/命中率/闪避率。
+被施加其他减益时增加1计数。
+每回合增加等于自身减益数量的计数。
+计数达到上限时消耗计数并无法行动1回合(<sprite=2>&c%)。
+此效果若被抵抗，此后成功率提升40%直至成功施加。","當前計數：&a/&b
+(顯示在圖標右下角)
+每1點計數隨機降低3%攻擊力/防禦力/命中率/閃避率。
+被施加其他減益時增加1計數。
+每回合增加等於自身減益數量的計數。
+計數達到上限時消耗計數並無法行動1回合(&c%<sprite=2>)。
+此效果若被抵抗，此後成功率提升40%直至成功施加。"
+Buff/B_SF_Intruder_p_Name,Text,,,Deconstruction Crack,,析构破解,析構破解
+Buff/B_SF_Intruder_p_stun_Description,Text,,,Unable to act.,,无法行动,無法行動
+Buff/B_SF_Intruder_p_stun_Name,Text,,,Stunned,,瘫痪,癱瘓
+Character/SF_Intruder_CampSelectWord,Text,,,May I know the script for this performance?,,这次的剧本，可以告诉我吗？,這次的劇本，可以告訴我嗎？
+Character/SF_Intruder_PassiveDes,Text,,,"Applies [Deconstruction Crack] to enemies on encounter.
++1 [Deconstruction Crack] count when Intruder's skills hit enemies.
+
+At Lv3: Gain [Targeted Analysis Contract] to replace 1 exclusive skill.
+At Lv5: Gain 2nd [Targeted Analysis Contract] and equipment [Parasitic Capacitor].",,"敌人出现时，给敌人施加【析构破解】。
+干扰者的技能命中敌人时使其【析构破解】的计数加1。
+
+3级时获得道具【定向解析契约】，使用后可替换1个专属技能。
+5级时获得第2张【定向解析契约】与装备【寄生电容】。","敵人出現時，給敵人施加【析構破解】。
+干擾者的技能命中敵人時使其【析構破解】的計數加1。
+
+3級時獲得道具【定向解析契約】，使用後可替換1個專屬技能。
+5級時獲得獲得第2張【定向解析契約】與裝備【寄生電容】。"
+Character/SF_Intruder_PassiveName,Text,,,Sangvis Tactics: Intruder,,铁血战术·干扰者,鐵血戰術·干擾者
+Character/SF_Intruder_SelectInfo,Text,,,"Support Command Doll, Model SP914
+
+Intruder appears gentle, soft spoken and kind, to both friends and foes. However those who interact with her can often feel an empty void behind her kind facade, to the point where her subordinate Ringleader Hunter expressed repulsiveness towards Intruder out of fear. She enjoys screen plays and dramas left by humans, perhaps she is trying to find a fitting, kinder persona for herself through drama plays, many of her quotes reflects her interest in drama. 
+
+Excels at support, debuffing enemies, and battlefield control.",,"干扰者是铁血工造的头目单位。负责提供作战策略，也擅长破解和干扰工作，可以直接指挥作战人形，是稍高级的人形，直接对计量官负责。优雅温和的言行背后，令人感到的是巨大的空洞，喜欢人类的戏剧，可能是希望从中找到自己的个性。
+
+擅长辅助与援护，以及对敌人施加减益以支援友军。","干擾者是鐵血工造的頭目單位。負責提供作戰策略，也擅長破解和干擾工作，可以直接指揮作戰人形，是稍高級的人形，直接對計量官負責。優雅溫和的言行背後，令人感到的是巨大的空洞，喜歡人類的戲劇，可能是希望從中找到自己的個性。
+
+擅長輔助與援護，以及對敵人施加減益以支援友軍。"
+Character/SF_Intruder_Text_Battle_AllyND_0,Text,,,"T_int_3_1: ""No problem, leave it to me.""",,T_int_3_1:没问题，交给我就好。,T_int_3_1:沒問題，交給我就好。
+Character/SF_Intruder_Text_Battle_Cri_0,Text,,,"T_int_6_1: ""Time for the curtain call, perhaps?""",,T_int_6_1:差不多该谢幕了吧。,T_int_6_1:差不多該謝幕了吧。
+Character/SF_Intruder_Text_Battle_Cri_1,Text,,,"T_int_6_2: ""Good children, it's time to exit stage.""",,T_int_6_2:好孩子们，到退场的时间了哦。,T_int_6_2:好孩子們，到退場的時間了哦。
+Character/SF_Intruder_Text_Battle_Healed_0,Text,,,"T_int_7_1: ""Your care is appreciated. I'll avoid blunders next time.""",,T_int_7_1:多谢照顾，下次我不会再失手了。,T_int_7_1:多謝照顧，下次我不會再失手了。
+Character/SF_Intruder_Text_Battle_Healed_1,Text,,,"T_int_7_2: ""Your patronage is noted.""",,T_int_7_2:承蒙关照。,T_int_7_2:承蒙關照。
+Character/SF_Intruder_Text_Battle_Idle_0,Text,,,"T_int_1_1: ""Your orders? I await with anticipation.""",,T_int_1_1:有何吩咐呢？我很期待。,T_int_1_1:有何吩咐呢？我很期待。
+Character/SF_Intruder_Text_Battle_Idle_1,Text,,,"T_int_1_2: ""Let us advance.""",,T_int_1_2:我们前进吧。,T_int_1_2:我們前進吧。
+Character/SF_Intruder_Text_Battle_Kill_0,Text,,,"T_int_5_1: ""What an intoxicating finale.""",,T_int_5_1:真是让人陶醉的华丽谢幕呢。,T_int_5_1:真是讓人陶醉的華麗謝幕呢。
+Character/SF_Intruder_Text_Battle_Kill_1,Text,,,"T_int_5_2: ""This requiem shall be your closing act.""",,T_int_5_2:这首挽歌，便是诸君的终幕曲。,T_int_5_2:這首輓歌，便是諸君的終幕曲。
+Character/SF_Intruder_Text_Battle_ND_0,Text,,,"T_int_2_1: ""Fascinating... A splendid... performance...""",,T_int_2_1:原来如此···精彩的···演出···,T_int_2_1:原來如此···精彩的···演出···
+Character/SF_Intruder_Text_Battle_Start_0,Text,,,"T_int_4_1: ""As you witness, let the overture begin.""",,T_int_4_1:如诸位所见，准备开幕吧。,T_int_4_1:如諸位所見，準備開幕吧。
+Character/SF_Intruder_Text_Battle_Start_1,Text,,,"T_int_4_2: ""Ladies and gentlemen, welcome to my stage.""",,T_int_4_2:诸君，欢迎踏上我的舞台。,T_int_4_2:諸君，歡迎踏上我的舞臺。
+Character/SF_Intruder_Text_Field_GetItem_0,Text,,,"T_int_9_1: ""Hmm... With this, the show can improve, yes?""",,T_int_9_1:嗯，嗯……这样一来，就能更好地演出了吧？,T_int_9_1:嗯，嗯……這樣一來，就能更好地演出了吧？
+Character/SF_Intruder_Text_Field_Idle_0,Text,,,"T_int_8_1: ""Such tranquility today. Where's my spotlight?""",,T_int_8_1:今天有点平静啊，有没有适合我的舞台呢？,T_int_8_1:今天有點平靜啊，有沒有適合我的舞臺呢？
+Character/SF_Intruder_Text_Field_Potion_P_0,Text,,,"T_int_10_1: ""Adequate.""",,T_int_10_1:还算可以。,T_int_10_1:還算可以。
+Character/SF_Intruder_Text_PharosLeader_0,Text,,,"T_int_11_1: ""Acknowledged. Gratitude for the invitation.""",,T_int_11_1:收到，感谢您的邀请。,T_int_11_1:收到，感謝您的邀請。
+Character/SF_Intruder_Text_PharosLeader_1,Text,,,"T_int_11_2: ""My deepest apologies.""",,T_int_11_2:真是抱歉。,T_int_11_2:真是抱歉。
+Character/SF_Intruder_Text_PharosLeader_2,Text,,,"T_int_11_3: ""A satisfying conclusion deserves proper documentation.""",,T_int_11_3:令人欣慰的结局，有必要好好描绘一番。,T_int_11_3:令人欣慰的結局，有必要好好描繪一番。
+Character/SF_Intruder_UnlockString,Text,,,,,,
+Character/SF_Intruder_name,Text,,,Intruder,,干扰者,干擾者
+Item_Consume/Item_SF_1_Description,Text,,,"Forget an exclusive skill, then select a new one from all exclusive skills.",,遗忘一个专属技能，然后从所有专属技能中选择一个学习。,遺忘一個專屬技能，然後從所有專屬技能中選擇一個學習。
+Item_Consume/Item_SF_1_name,Text,,,Targeted Analysis Contract,,定向解析契约,定向解析契約
+Item_Equip/E_SF_Intruder_0_Description,Text,,,"When consuming [Deconstruction Crack] counts, retain 50% of their weakening effects.
+
+<color=red>Intruder exclusive</color>",,"消耗【析构破解】的计数时，以一半的数值保留所消耗计数提供的弱化效果
+<color=red>仅限干扰者佩戴</color>","消耗【析構破解】的計數時，以一半的數值保留所消耗計數提供的弱化效果
+<color=red>僅限干擾者佩戴</color>"
+Item_Equip/E_SF_Intruder_0_name,Text,,,Parasitic Capacitor,,寄生电容,寄生電容
+Skill/S_SF_Intruder_10_Description,Text,,,,,,
+Skill/S_SF_Intruder_10_Name,Text,,,Crosstalk,,串扰,串擾
+Skill/S_SF_Intruder_11_Description,Text,,,"Can target enemies.
+Enemy: Deal 120% Healing Power as damage, transfer all enemies' [Deconstruction Crack] counts to target.
+Ally: Clear all enemies' [Deconstruction Crack] counts, then grant +3% ATK/Healing/DEF per count for 2 turns.",,"可以对敌人使用。
+指向敌人时，造成120%治疗量的伤害并将所有敌人的【析构破解】的计数转移至目标。
+指向友军时，清空所有敌人的【析构破解】的计数，此后根据目标类型，每1计数给与攻击力/治疗力/防御力上升3%的增益，持续2回合。","可以對敵人使用。
+指向敵人時，造成120%治療量的傷害並將所有敵人的【析構破解】的計數轉移至目標。
+指向友軍時，清空所有敵人的【析構破解】的計數，此後根據目標類型，每1計數給與攻擊力/治療力/防禦力上升3%的增益，持續2回合。"
+Skill/S_SF_Intruder_11_Name,Text,,,Mind Convergence,,心智凝集,心智凝集
+Skill/S_SF_Intruder_12_2_Description,Text,,,"When an ally is hit by a non-AoE attack, immediately activate against the attacker. Reduces the ally's damage taken by 45% and prevents Healing Gauge reduction for this instance.
+When allies are hit by an AoE attack, all [Dinergates] in the countdown bar immediately activate against the attacker. Each [Dinergate] reduces all allies' damage taken by 15% and prevents Healing Gauge reduction for this instance.",,"任意1名友军受到非全体攻击时，立即对攻击来源释放，并使友军此次受到的伤害降低45%且不会减少体力极限。
+友军受到全体攻击时，倒计时栏中所有的【兵蚁】立即对攻击来源释放，每个【兵蚁】使所有友军此次受到的伤害降低15%且不会减少体力极限。","任意1名友軍受到非全體攻擊時，立即對攻擊來源釋放，並使友軍此次受到的傷害降低45%且不會減少體力極限。
+友軍受到全體攻擊時，倒計時欄中所有的【兵蟻】立即對攻擊來源釋放，每個【兵蟻】使所有友軍此次受到的傷害降低15%且不會減少體力極限。"
+Skill/S_SF_Intruder_12_2_Name,Text,,,Dinergate,,兵蚁,兵蟻
+Skill/S_SF_Intruder_12_Description,Text,,,,,,
+Skill/S_SF_Intruder_12_Name,Text,,,Military Harassment,,军势侵扰,軍勢侵擾
+Skill/S_SF_Intruder_13_Description,Text,,,"Draw at battle start.
+Gain &a Barrier. This Barrier cannot lose >&b per hit and prevents overkill damage.",,"战斗开始时抽取。
+获得&a点防护墙，此效果生成的防护墙单次消耗不超过&b点且耗尽时不会有溢出伤害。","戰鬥開始時抽取。
+獲得&a點防護牆，此效果生成的防護牆單次消耗不超過&b點且耗盡時不會有溢出傷害。"
+Skill/S_SF_Intruder_13_Name,Text,,,Ironwall Reinforcement,,铁壁增援,鐵壁增援
+Skill/S_SF_Intruder_14_1_Description,Text,,,,,,
+Skill/S_SF_Intruder_14_1_Name,Text,,,Dispel:,,解除：,解除：
+Skill/S_SF_Intruder_14_2_Description,Text,,,,,,
+Skill/S_SF_Intruder_14_2_Name,Text,,,Block Next Debuff,,防御下一个减益,防禦下一個減益
+Skill/S_SF_Intruder_14_Description,Text,,,"Usable while Stunned.
+Remove/Block 1 non-colorless debuff and apply it to target of ally's next enemy-targeting skill.",,"可在无法行动状态下使用。
+选择清除或防御1个非无色减益，并将其施加给友军下一个指向敌人的技能的目标。","可在無法行動狀態下使用。
+選擇清除或防禦1個非無色減益，並將其施加給友軍下一個指向敵人的技能的目標。"
+Skill/S_SF_Intruder_14_Name,Text,,,Tolerance Counter,,耐受反制,耐受反制
+Skill/S_SF_Intruder_1_Description,Text,,,"Enemy: Deal 120% Healing Power as damage, convert buffs to equivalent debuffs.",,"可以对敌人使用。
+对敌人使用时，造成120%治疗量的伤害，附加的增益变为同等数值的弱化减益。","可以對敵人使用。
+對敵人使用時，造成120%治療量的傷害，附加的增益變爲同等數值的弱化減益。"
+Skill/S_SF_Intruder_1_Name,Text,,,Nano-Accelerant,,纳米加速弹,納米加速彈
+Skill/S_SF_Intruder_2_Description,Text,,,"For each skill the target has used this turn, healing received is reduced by 30%. (Multiplicative)",,目标本回合每使用过1个技能，治疗量降低30%。(乘算),目標本回合每使用過1個技能，治療量降低30%。(乘算)
+Skill/S_SF_Intruder_2_Name,Text,,,Body Maintenance,,素体维护,素體維護
+Skill/S_SF_Intruder_3_LucyDraw_Description,Text,,,"Discard 1 skill to remove 1 non-colorless debuff from owner. Shuffle owner's discarded skills into deck, then draw 3 owner skills.",,选择丢弃1个技能，随机解除技能拥有者1个非无色减益。将弃牌库中技能拥有者的技能洗入牌库，然后优先抽取3个拥有者的技能。,選擇丟棄1個技能，隨機解除技能擁有者1個非無色減益。將棄牌庫中技能擁有者的技能洗入牌庫，然後優先抽取3個擁有者的技能。
+Skill/S_SF_Intruder_3_LucyDraw_Name,Text,,,Tactical Update,,战术更新,戰術更新
+Skill/S_SF_Intruder_4_Description,Text,,,"Can target enemies.
+Enemy: Deal 120% Healing Power as damage and apply [Pain Amplification].
+Ally: Remove 1 <color=purple>Pain</color> debuff and apply [Pain Suppression].",,"可以对敌人使用。
+对敌人使用时，造成120%治疗量的伤害并给与【痛觉增幅】。
+对友军使用时，随机解除1个痛苦减益并给与【痛觉屏蔽】。","可以對敵人使用。
+對敵人使用時，造成120%治療量的傷害並給與【痛覺增幅】。
+對友軍使用時，隨機解除1個痛苦減益並給與【痛覺屏蔽】。"
+Skill/S_SF_Intruder_4_E_Description,Text,,,,,,
+Skill/S_SF_Intruder_4_E_Name,Text,,,Perception Filter,,知觉滤波,知覺濾波
+Skill/S_SF_Intruder_4_Name,Text,,,Perception Filter,,知觉滤波,知覺濾波
+Skill/S_SF_Intruder_5_Description,Text,,,,,,
+Skill/S_SF_Intruder_5_Name,Text,,,Global Protection,,全局防护,全局防護
+Skill/S_SF_Intruder_6_Description,Text,,,Attack random targets 2 extra times +2 more per enemy.,,额外攻击随机目标2次，每有1个敌人，再额外攻击2次。,額外攻擊隨機目標2次，每有1個敵人，再額外攻擊2次。
+Skill/S_SF_Intruder_6_Name,Text,,,Adaptive Suppression,,适应性压制,適應性壓制
+Skill/S_SF_Intruder_7_Description,Text,,,Tank Investigators gain &a Shield. Others' next skill costs -1 this turn.,,防御型角色获得&a保护罩，其他角色本回合下一个出手的技能费用减少1点。,防禦型角色獲得&a保護罩，其他角色本回合下一個出手的技能費用減少1點。
+Skill/S_SF_Intruder_7_Name,Text,,,Defensive Priority,,侧重防护,側重防護
+Skill/S_SF_Intruder_8_Description,Text,,,"If target remains at Death's Door after healing, set HP to 1.",,治疗后若目标仍处于濒死状态，将目标的体力值回复至1。,治療後若目標仍處於瀕死狀態，將目標的體力值回覆至1。
+Skill/S_SF_Intruder_8_Name,Text,,,Emergency Protocol,,应急处理,應急處理
+Skill/S_SF_Intruder_9_Description,Text,,,"Can target incapacitated allies.
+Immediately confirm target's incapacitation.
+On countdown end: Revive target with full HP, add their skills to discard pile.",,"可以指向无法战斗状态的友军。
+使用时立刻使目标进入无法战斗状态。
+倒计时结束时解除目标的无法战斗状态，恢复其全部体力值，并将其技能加入弃牌堆。","可以指向無法戰鬥狀態的友軍。
+使用時立刻使目標進入無法戰鬥狀態。
+倒計時結束時解除目標的無法戰鬥狀態，恢復其全部體力值，並將其技能加入棄牌堆。"
+Skill/S_SF_Intruder_9_Name,Text,,,Reinforcement Doll,,增援人形,增援人形
+SkillExtended/EX_SF_Intruder_14_1_Des,Text,,,,,,
+SkillExtended/EX_SF_Intruder_14_1_EnforceString,Text,,,,,,
+SkillExtended/EX_SF_Intruder_14_1_Name,Text,,,test,,test,test
+SkillExtended/EX_SF_Intruder_ex0_Des,Text,,,,,,
+SkillExtended/EX_SF_Intruder_ex0_EnforceString,Text,,,,,,
+SkillExtended/EX_SF_Intruder_ex0_Name,Text,,,test_ex_int_ex0,,test_ex_int_ex0,test_ex_int_ex0
+SkillExtended/SkillEn_SF_Intruder_0_Des,Text,,,,,,
+SkillExtended/SkillEn_SF_Intruder_0_EnforceString,Text,,,,,,
+SkillExtended/SkillEn_SF_Intruder_0_Name,Text,,,"Usable while Stunned. Attempt to remove Stun.
+If failed, next own skill can be used while Stunned.",,"可在无法行动状态下使用，使用时解除导致无法行动的buff。
+若无法解除，使下1个从手中使用的自身技能可在无法行动状态下使用。","可在無法行動狀態下使用，使用時解除導致無法行動的buff。
+若無法解除，使下1個從手中使用的自身技能可在無法行動狀態下使用。"
+SkillExtended/SkillEn_SF_Intruder_1_Des,Text,,,,,,
+SkillExtended/SkillEn_SF_Intruder_1_EnforceString,Text,,,Single-target attack skill  ,,单体攻击技能,單體攻擊技能
+SkillExtended/SkillEn_SF_Intruder_1_Name,Text,,,Deal double damage to Stunned targets.  ,,目标无法行动时伤害翻倍。,目標無法行動時傷害翻倍。
+SkillKeyword/KeyWord_SF_0_Desc,Text,,,Select a skill to forget  ,,选择一个技能遗忘,選擇一個技能遺忘
+SkillKeyword/KeyWord_SF_0_Name,Text,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+

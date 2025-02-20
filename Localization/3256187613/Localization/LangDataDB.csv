@@ -1,0 +1,66 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_lbn_3_Description,Text,,,,,,
+Buff/B_lbn_3_Name,Text,,,Tea Time!,,下午茶時間!,
+Buff/B_lbn_4_Description,Text,,,,,,
+Buff/B_lbn_4_Name,Text,,,Cozy by the Hearth,,爐邊溫暖,
+Buff/B_lbn_5_Description,Text,,,,,,
+Buff/B_lbn_5_Name,Text,,,Heads Up!,,當心頭頂,
+Character/Labyrinth_PassiveDes,Text,,,"At the start of battle, add one ""Welcome Labrynth"" and one ""Big Welcome Labrynth"" to the deck.",,戰鬥開始時，將一張【歡迎光臨白銀城】和一張【歡迎大駕光臨白銀城】加入牌組,
+Character/Labyrinth_PassiveName,Text,,,Welcome to the Labrynth!,,歡迎來到白銀城!,
+Character/Labyrinth_SelectInfo,Text,,,"Labrynth is a DARK Fiend-type archetype introduced in the DBTM set (Deck Build Pack: Tactical Masters). The archetype revolves around effects triggered by Normal Traps that remove monsters, as well as synergies with other Fiend-type cards. Just like its design, it sets up intricate mechanisms and traps to welcome challengers, embodied by the female knight. The name ""Labrynth"" has multiple kanji readings, with ""Rabiris"" being the chosen katakana representation for the Chinese text.",,拉比林斯，是構築包DBTM中收錄的闇屬性惡魔族系列，其系列圍繞著通常陷阱除去怪獸後可以觸發的各類效果，以及和惡魔族的相互搭配。就如同設計一樣，設下重重的機關和陷阱來迎接挑戰的女騎士。ラビュリンス在本系列中有多種漢字的寫法，以假名的拉比麗斯作為中文字段,
+Character/Labyrinth_Text_Battle_AllyND_0,Text,,,Huh!? Pull yourself together!,,咿!?振作一點阿!,
+Character/Labyrinth_Text_Battle_Cri_0,Text,,,Fate calls me to battle...!,,命運叫我去戰鬥..!,
+Character/Labyrinth_Text_Battle_Healed_0,Text,,,The battle is just beginning.,,戰鬥現在才正要開始,
+Character/Labyrinth_Text_Battle_Idle_0,Text,,,What trap should I set up next~?,,接下來要用甚麼陷阱好呢~?,
+Character/Labyrinth_Text_Battle_Kill_0,Text,,,Perfect!,,完美！,
+Character/Labyrinth_Text_Battle_ND_0,Text,,,No way...,,騙人的吧..,
+Character/Labyrinth_Text_Battle_Start_0,Text,,,"Now, I, the Silver Labrynth, will be your opponent!",,接下來就由我白銀的拉比麗斯來做你的對手!,
+Character/Labyrinth_Text_Field_GetItem_0,Text,,,"If I don’t put out some loot, I won’t attract any challengers...",,不放些戰利品就吸引不到挑戰者呢..,
+Character/Labyrinth_Text_Field_Idle_0,Text,,,I wonder where the knight is now...?,,騎士醬現在在哪裡呢..?,
+Character/Labyrinth_Text_Field_Potion_P_0,Text,,,Ahhh!,,呼哈!,
+Character/Labyrinth_Text_PharosLeader_0,Text,,,...,,.....,
+Character/Labyrinth_Text_PharosLeader_1,Text,,,What just happened...?,,剛剛發生了甚麼..,
+Character/Labyrinth_Text_PharosLeader_2,Text,,,I’ll make sure you perish in the Shadow Game.,,就讓你葬身在黑暗遊戲中,
+Character/Labyrinth_name,Text,,,Labrynth,,拉比麗斯,
+Skill/L_lbn_Description,Text,,,"1. Draw 2 cards.
+2. Add 1 card with ""Labrynth"" in its name from the discard pile to your hand.",,"1.抽兩張牌。
+2.從棄牌庫將一張名字含有【光臨白銀城】的牌加入手牌",
+Skill/L_lbn_Name,Text,,,Labrynth Set-Up,,白銀城．佈置,
+Skill/S_lbn_10_Description,Text,,,"1. Draw 2 cards.
+2. Add 1 card with ""Labrynth"" in its name from the discard pile to your hand.",,"1.當打出自己的卡時，此卡費用-5
+2.此卡追加等同棄牌堆中自己的卡的數量次攻擊",
+Skill/S_lbn_10_Name,Text,,,Lady Labrynth of the Silver Castle,,迷宮城的白銀姬,
+Skill/S_lbn_1_Description,Text,,,Add 1 card owned by you from the deck to your hand.,,從牌組中將一張技能所屬者為自己的卡加入手牌,
+Skill/S_lbn_1_Name,Text,,,Arianna the Labrynth Servant,,白銀城的僕役·阿莉安納,
+Skill/S_lbn_2_Description,Text,,,Discard 1 card; add 1 card owned by you from the deck to your hand. The card added this way has its cost reduced by 2 and gains Swiftness.,,捨棄一張手牌，從牌組中將一張技能所屬者為自己的卡加入手牌。透過此效果加入的卡費用減少2，附帶迅速,
+Skill/S_lbn_2_Name,Text,,,Ariane the Labrynth Servant,,白銀城的僕役·阿莉安奴,
+Skill/S_lbn_3_Description,Text,,,"1. Select 1 card owned by you in your hand and reduce its cost by 10.
+2. Grant yourself ""Tea Time!""",,"1.選擇一張技能所屬者為自己的手牌，其費用降低10
+2.賦予自身【下午茶時間!】",
+Skill/S_lbn_3_Name,Text,,,Arias the Labrynth Butler,,白銀城的執事·亞莉安絲,
+Skill/S_lbn_4_Description,Text,,,"1. Discard 1 card; add 1 card owned by you from the deck to your hand.
+2. Grant yourself ""Cozy by the Hearth"".",,"1.捨棄一張手牌，從牌組中將一張技能所屬者為自己的卡加入手牌
+2.賦予自身【爐邊溫暖】",
+Skill/S_lbn_4_Name,Text,,,Labrynth Stovie Torbie,,白銀城的吹火爐,
+Skill/S_lbn_5_Description,Text,,,"1. Discard 1 card; add 1 card owned by you from the deck to your hand.
+2. Grant the enemy ""Heads Up!""",,"1.捨棄一張手牌，從牌組中將一張技能所屬者為自己的卡加入手牌
+2.賦予敵方【當心頭頂】",
+Skill/S_lbn_5_Name,Text,,,Labrynth Chandraglier,,白銀城的龍燈飾,
+Skill/S_lbn_6_Description,Text,,,"1. Block and counter the enemy's next attack, with an effect similar to Lian's Block.
+2. After holding this card for 1 turn, reduce its cost by 10.",,"1.格擋並反擊敵人下一次攻擊，效果等同利安的格檔
+2.握在手中一回合之後費用減少10",
+Skill/S_lbn_6_Name,Text,,,Farewelcome Labrynth,,謝謝光臨白銀城,
+Skill/S_lbn_7_Description,Text,,,"1. Add 1 card owned by you from the deck to your hand, reduce its cost by 5, and grant it Swiftness.
+2. After holding this card for 1 turn, reduce its cost by 10.",,"1.從牌組中將一張技能所屬者為自己的卡加入手牌，費用減少5，附帶迅捷
+2.握在手中一回合之後費用減少10",
+Skill/S_lbn_7_Name,Text,,,Welcome Labrynth,,歡迎光臨白銀城!,
+Skill/S_lbn_8_Description,Text,,,"1. Add 1 card owned by you from the deck or discard pile to your hand, reduce its cost by 5, and grant it Swiftness. Then, return 1 card from your hand to the deck.
+2. Add the top card of the discard pile that is ""Labrynth Chandraglier"", ""Labrynth Stovie Torbie"", or ""Welcome Labrynth"" to your hand.
+3. After holding this card for 1 turn, reduce its cost by 10.",,"1.從牌組、棄牌堆中將一張技能所屬者為自己的卡加入手牌，費用減少5，附帶迅捷。其後，選擇一張手牌返回牌組
+2.將棄牌堆最上方的一張龍燈飾、吹火爐或歡迎光臨白銀城加入手牌3.握在手中一回合之後費用減少10",
+Skill/S_lbn_8_Name,Text,,,Big Welcome Labrynth,,歡迎大駕光臨白銀城!,
+Skill/S_lbn_9_Description,Text,,,"1. When you play your own card, double this card's damage (once only).
+2. Add 1 card owned by you from the discard pile to your hand.",,"1.當打出自己的卡之後，此卡傷害加倍(僅一次)
+2.將棄牌堆一張自己的卡拿到手上",
+Skill/S_lbn_9_Name,Text,,,Lovely Labrynth of the Silver Castle,,白銀之城的拉比麗斯,
+

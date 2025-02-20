@@ -1,0 +1,34 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_bsSeven_xjzw_Background_Name,Text,,,Battle Settings,,战斗设置,
+Buff/B_bsSeven_xjzw_Curse_Name,Text,,,Curse,,诅咒,
+Buff/B_bsSeven_xjzw_Protect_Description,Text,,,"Immune to one Curse Kill. 
+<color=#919191><i>—It seems like the will of an ancient onmyōji can be felt.</i></color>",,"免疫一次咒杀。
+<color=#919191><i>——好像感受到了某位古代的阴阳师的意志。</i></color>",
+Buff/B_bsSeven_xjzw_Protect_Name,Text,,,Onmyōji's Protection,,阴阳师的加护,
+Buff/B_bsSeven_xjzw_Show_Description,Text,,,"Seems to be under some kind of curse...? 
+If a certain condition is met, the investigator may be Curse Killed.",,"身上似乎带着某种诅咒……？
+如果达成某个条件的话，调查员可能会被咒杀。",
+Buff/B_bsSeven_xjzw_Show_Name,Text,,,Curse?,,诅咒？,
+Enemy/S1_bsSeven_xjzw_name,Text,,,Shōgo Okike,,兴家彰吾,
+Item_Passive/PItem_bsSeven_CursePearl_Description,Text,,,"When a monster carrying a curse appears, it can be <color=#FF0000>Curse Killed</color>. 
+
+<color=#919191><i>Can you hear, O Curse Master? 
+O Curse Master seeking the secret art of rebirth... 
+Go forth, and kill with curses—</i></color>",,"当携带诅咒的怪物出现时，可将其<color=#FF0000>咒杀</color>。
+
+<color=#919191><i>听见了吗，咒主啊
+寻求重生秘术的，咒主啊
+去吧，用诅咒杀掉——</i></color>",
+Item_Passive/PItem_bsSeven_CursePearl_name,Text,,,Curse Stone,,诅咒珠,
+RandomEvent/RE_bsSeven_Park_Desc,Text,,,"Fight an elite enemy. 
+Upon victory, receive a special reward. 
+(Guaranteed reward: Relic - Curse Stone)",,"和精英怪战斗。
+胜利时获得特别奖励。
+（确定奖励：遗物 - 诅咒珠）",
+RandomEvent/RE_bsSeven_Park_EventDetails,Text,,,A park late at night. A shadowy figure seems to be lurking here.,,"深夜的公园。
+似乎有个人影在此处游荡。",
+RandomEvent/RE_bsSeven_Park_Name,Text,,,Kinshibori Park,,锦系堀公园,
+RandomEvent/RE_bsSeven_Park_UseButton_0,Text,,,Approach to investigate.,,靠近看看。,
+Skill/S_bsSeven_CurseKill_Name,Text,,,Curse Kill,,咒杀,
+Skill/S_bsSeven_TestSkill_Name,Text,,,Test Skill,,测试技能,
+

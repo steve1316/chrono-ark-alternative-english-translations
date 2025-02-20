@@ -1,0 +1,13 @@
+{
+    "B_PLANA_3": {
+        "Name": "休憩时间",
+        "ClassName": "PLANA.B_PLANA_3",
+        "Description": "回合结束时获得&a点治疗。",
+        "LifeTime": 2,
+        "Icon": "B_PLANA_3\\B_PLANA_3_Icon.png",
+        "Tick": "null",
+        "BuffTag": "null",
+        "Caution": false,
+        "_gdeSchema": "Buff"
+    }
+}

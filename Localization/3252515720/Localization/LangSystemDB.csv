@@ -1,0 +1,53 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+BattleDia/NormalMode/Choose1,Text,,"자, 선택하세요!",Choose now!,選んでください！ ,撒，做出选择吧！,撒，做出選擇吧！
+BattleDia/NormalMode/Start1,Text,,초대받지 않은 손님이 온 것 같네요.,It seems we have uninvited guests~,招かれざる客が来たようね,似乎有些特别的访客不请自来了~,似乎有些特別的訪客不請自來了~
+BattleDia/NormalMode/Start2,Text,,"이런 곳까지 왔다는 건, 어차피 살아서 돌아갈 생각은 없다고 보면 되겠죠?",It seems we have uninvited guests~,こんなところに来たということは、生きて帰れるとは思わないでしょ？,都来到这种地方了，反正你们也没想过再活着回去吧？,都來到這種地方了，反正你們也沒想過再活著回去吧？
+BattleDia/NormalMode/Start3,Text,,당신들의 죽음으로 사이교우 아야카시의 만개에 완벽한 마침표를 찍어볼까요.,Did you truly believe you'd survive coming here?,あなたの死によって、西行妖を開花させましょう。 ,就用你们的死亡，来为西行妖的盛开画上完美的句号。,就用你們的死亡，來為西行妖的盛開畫上完美的句號。
+BattleDia/NormalMode/Start4,Text,,영원히 이곳에 남아 이 아름다운 벚꽃을 감상하시길!,Stay here forever and enjoy this beautiful cherry blossom!,永遠にここで、美しい桜を楽しみなさい！ ,永远地留在这里欣赏这美丽的樱花吧！,永遠地留在這裡欣賞這美麗的櫻花吧！
+BattleDia/Phase2/Endding1,Text,,<color=#EfC0CB><i><b>소 녀 여</b></i></color>,<color=#EfC0CB><i><b>Au-to-ma-ta</b></i></color>,<color=#EfC0CB><i><b>オトメヨ</b></i></color>,<color=#EfC0CB><i><b>オトメヨ</b></i></color>,<color=#EfC0CB><i><b>オトメヨ</b></i></color>
+BattleDia/Phase2/Endding2,Text,,"<color=#EfC0CB><i><b>소 녀 여</b></i></color>
+                              <color=#EfC0CB><i><b>그 저 스 러 질 뿐</b></i></color>","<color=#EfC0CB><i><b>Au-to-ma-ta</b></i></color>
+                              <color=#EfC0CB><i><b>Your Fate is Sealed</b></i></color>","<color=#EfC0CB><i><b>オトメヨ</b></i></color>
+                              <color=#EfC0CB><i><b>タイ死ヌイダケ</b></i></color>","<color=#EfC0CB><i><b>オトメヨ</b></i></color>
+                              <color=#EfC0CB><i><b>タイ死ヌイダケ</b></i></color>","<color=#EfC0CB><i><b>オトメヨ</b></i></color>
+                              <color=#EfC0CB><i><b>タイ死ヌイダケ</b></i></color>"
+BattleDia/Phase3/Endding,Text,,흩날리는 벚꽃처럼 바람과 함께 사라지거라!,Vanish like scattered cherry petals!,舞い散る桜のように、風と共に去る！,就像这飘散着的樱花，随风凋零吧！,就像這飄散著的櫻花，隨風凋零吧！
+BattleDia/YoumuMode/Start1,Text,,사이교우 아야카시도 멋진 경치가 되어가고 있네요.,Saigyou Ayakashi has become truly magnificent~,西行妖も素敵な景色になってきましたね,西行妖已经变成美妙的景象了~,西行妖已經變成美妙的景象了~
+BattleDia/YoumuMode/Start2,Text,,"유유코 님, 어째서 이곳에...",Lady Yuyuko... why are you here...?,幽々子様、どうしてここに… ,幽幽子大人您为什么会在这里……,幽幽子大人您為什麼會在這裡……
+BattleDia/YoumuMode/Start3,Text,,요우무.. 사이교우 아야카시가 피려고 하고 있어!,"Behold, Youmu—Saigyou Ayakashi's grand bloom!",これは夢だ。 西行妖が咲こうとしている！,是妖梦啊。快看，西行妖就要盛开了呢！,是妖夢啊。快看，西行妖就要盛開了呢！
+BattleDia/YoumuMode/Start4,Text,,"사이교우 아야카시는 피지 않아요. 정신 차리세요, 유유코 님!","It cannot blossom! Awaken, Lady Yuyuko!",西行妖は咲かない 目を覚ましてください、幽々子様！,西行妖是不会盛开的。快醒醒，幽幽子大人！,西行妖是不會盛開的。快醒醒，幽幽子大人！
+Buff/B_Yuyuko_P/Phase_1,Text,,"방어 형태: 아군 유령이 사망할 때, 자신의 체력을 &b(치유력의 200%)만큼 회복합니다.",Defense Form: Heal &b HP (200% Healing) when allied Ghosts die.,防御形態。味方の幽霊が死亡時に体力が&b回復する(治癒力の200%)。 ,防御形态，友方幽灵死亡时，自身恢复&b（200%治疗力）的生命值。,防禦形態，友方幽靈死亡時，自身恢復&b（200%治療力）的生命值。
+Buff/B_Yuyuko_P/Phase_2,Text,,"공격 형태: 아군 유령이 사망할 때, 모든 적 캐릭터에게 &b(공격력의 20%)의 고통 피해를 줍니다.",Offense Form: Deal &b (20% ATK) Pain damage to all enemies per Ghost death.,攻撃形態。味方の幽霊が死亡時に敵全体に&b(攻撃力の20%) の苦痛ダメージを与える。 ,攻击形态，友方幽灵死亡时，对全体敌方角色造成&b（20%攻击力）的痛苦伤害。,攻擊形態，友方幽靈死亡時，對全體敵方角色造成&b（20%攻擊力）的痛苦傷害。
+Buff/B_Yuyuko_P/Phase_3,Text,,,,,,
+Character/Youmu_CampSelectWord,Text,,부르셨나요? 언제든 준비되어 있습니다!,You called? I'm fully prepared!,私を呼びましたか？もちろん準備は完了しています！,您叫我吗？当然已经准备好了！,您叫我嗎？當然已經準備好了！
+Character/Youmu_Text_Battle_AllyND_0,Text,,아직이야…… 아직 기회는 있어요!,Not over yet... There's still hope!,まだ終わってない…まだチャンスはある！ ,还没结束……还有机会！,還沒結束……還有機會！
+Character/Youmu_Text_Battle_AllyND_1,Text,,"윽, 좋지 않아……","Ugh, this is bad...",おっと、これはまずいな......。,呜呜，这下不妙了……,嗚嗚，這下不妙了……
+Character/Youmu_Text_Battle_AllyND_2,Text,,괜찮으신가요?,Are you injured?,大丈夫ですか？ ,没事吧？,沒事吧？
+Character/Youmu_Text_Battle_Cri_0,Text,,지금이다!!!,How about this technique!,こんな技はどうでしょう！ ,这招怎样！,這招怎樣！
+Character/Youmu_Text_Battle_Cri_1,Text,,이건 어때!,Perhaps this move will suffice?,そんなときはこんな技はいかが？ ,既然这样，这招如何？,既然這樣，這招如何？
+Character/Youmu_Text_Battle_Cri_2,Text,,그럼 이건 어때?,Now!!!,今だ！！！,就是现在！！！,就是現在！！！
+Character/Youmu_Text_Battle_Healed_0,Text,,역전해 보이겠습니다!,Time to turn the tide!,ちょっと逆にしてみよう！,就让我来逆转给你看！,就讓我來逆轉給你看！
+Character/Youmu_Text_Battle_Healed_1,Text,,이대로는… 끝낼 수 없어요!,This won't... end here!,このままでは......終わらない！,这样下去的话……还没完！,這樣下去的話……還沒完！
+Character/Youmu_Text_Battle_Idle_0,Text,,준비됐나요?,Are you ready?,準備はいいですか？,准备好了吗？,準備好了嗎？
+Character/Youmu_Text_Battle_Kill_0,Text,,간단하네요~,Too easy~,これは本当に簡単ですよ～ ,这真是轻轻松松呢~,這真是輕輕鬆鬆呢~
+Character/Youmu_Text_Battle_ND_0,Text,,"이건, 아프네요……",This agony...,これは本当に痛い......。,这下真是痛啊……,這下真是痛啊……
+Character/Youmu_Text_Battle_ND_1,Text,,"으으, 방심했어……",I let my guard down...,う、う、うっかりしてました......。,呜呜呜，大意了……,嗚嗚嗚，大意了……
+Character/Youmu_Text_Battle_ND_2,Text,,다음엔…기필…코……,Next time... I'll...,次は......必ず......。,下一次…的…话……,下一次…的…話……
+Character/Youmu_Text_Battle_ND_3,Text,,뒤는 맡기겠습니다……,The rest is yours...,次は任せます... ,之后就拜托你们了……,之後就拜託你們了……
+Character/Youmu_Text_Battle_Start_0,Text,,갑니다!,Let the battle commence!,勝負はこれからだ！,要上了哦！,要上了哦！
+Character/Youmu_Text_Battle_Start_1,Text,,승부입니다!,Victory shall be ours!,勝ちに行きましょう！,决一胜负吧！,決一勝負吧！
+Character/Youmu_Text_Battle_Start_2,Text,,제 차례입니다!,My turn!,私の番だ！,到我的回合了！,到我的回合了！
+Character/Youmu_Text_Field_GetItem_0,Text,,검이 더 날카로워 지겠네요.,My blade stays honed.,刃はすでに研いである。,刀已经很锋利了呢,刀已經很鋒利了呢
+Character/Youmu_Text_Field_Idle_0,Text,,잠깐 쉬었다 가죠.,Let's rest briefly.,少し休憩しましょう。,稍微休息一下吧。,稍微休息一下吧。
+Character/Youmu_Text_Field_Idle_1,Text,,명계의 벚꽃도 아름답답니다. 꽃구경 하기 좋을거에요!,The Netherworld's cherry blossoms are splendid today.,冥界の桜は綺麗です。 今日は花見日和ですね。,冥界的樱花也很美呢，真是赏花的好天气啊。,冥界的櫻花也很美呢，真是賞花的好天氣啊。
+Character/Youmu_Text_Field_Potion_P_0,Text,,다들 사쿠라모찌도 드셔보세요!,Let's enjoy sakura mochi!,桜のお菓子を食べましょう！,一起来吃点樱饼吧！,一起來吃點櫻餅吧！
+Character/Youmu_Text_PharosLeader_0,Text,,내 검에 벨 수 없는 것 따위 없어!,Nothing exists that cannot be cut!,切れないものはあんまりない！,斩不掉的东西，是不存在的！,斬不掉的東西，是不存在的！
+Character/Youmu_Text_PharosLeader_1,Text,,"윽, 좋지 않아……","Oh dear, this is troublesome...",おっと、これはまずい......。,呜呜，这下不妙了啊……,嗚嗚，這下不妙了啊……
+Character/Youmu_Text_PharosLeader_2,Text,,방해되는 건 모두 베어버리겠어!,I'll cut down everything that's in my way!,私の邪魔をするものはとりあえず斬る！ ,妨碍我的东西，都斩掉！,妨礙我的東西，都斬掉！
+Skill/S_Youmu_Ex_2,Text,,"<color=#4D5AAF>스펠카드 소모: 2</color>
+",<color=#4D5AAF>Spell Card Cost: 2</color>,"<color=#4D5AAF>符の消費: ２</color>
+","<color=#4D5AAF>符卡消耗：2</color>
+","<color=#4D5AAF>符卡消耗：2</color>
+"
+,,,,,,,
+

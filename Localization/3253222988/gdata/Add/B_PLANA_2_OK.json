@@ -1,0 +1,17 @@
+{
+    "B_PLANA_2_OK": {
+        "Name": "请稍候...",
+        "ClassName": "PLANA.B_PLANA_2_OK",
+        "LifeTime": 2,
+        "Icon": "B_PLANA_2_OK\\B_PLANA_2_OK_Icon.png",
+        "Description": "回合开始时获得1点法力，其他所有友军获得\"支援演算\"和\"防护力场\"。",
+        "Tick": "null",
+        "BuffTag": "null",
+        "Caution": false,
+        "_gdeSchema": "Buff",
+        "Cantdisable": false,
+        "Hide": false,
+        "IsFieldBuff": false,
+        "UseSkillDebuff": false
+    }
+}

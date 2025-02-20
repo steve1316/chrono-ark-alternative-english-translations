@@ -1,0 +1,34 @@
+{
+    "S_PLANA_Rare_0": {
+        "UseAp": 7,
+        "Target": "Misc",
+        "Particle": "Particle/Battle_Uncurse",
+        "Effect_Target": "SE_PLANA_Rare_0",
+        "Name": "意志代行",
+        "Description": "施放你手中露西技能以外的所有手牌，并在施放后放置一个该技能的复制到你的手中。 \r\n每当使用费用大于2的手牌时此卡减少1费。",
+        "SkillExtended": [
+            "PLANA.S_PLANA_Rare_0"
+        ],
+        "NoBasicSkill": true,
+        "NotCount": true,
+        "User": "PLANA",
+        "Image_2": "S_PLANA_Rare_0\\S_PLANA_Rare_0_Image_2.png",
+        "Image_1": "S_PLANA_Rare_0\\S_PLANA_Rare_0_Image_1.png",
+        "Image_0": "S_PLANA_Rare_0\\S_PLANA_Rare_0_Image_0.png",
+        "Rare": true,
+        "_gdeSchema": "Skill",
+        "Category": "null",
+        "NODOD": false,
+        "NotChuck": false,
+        "HealSkill": false,
+        "Disposable": true,
+        "NoDrop": false,
+        "IgnoreTaunt": false,
+        "Except": false,
+        "Basic": false,
+        "Track": false,
+        "Fatal": false,
+        "EnemyPreview": false,
+        "UnknownTarget": false
+    }
+}

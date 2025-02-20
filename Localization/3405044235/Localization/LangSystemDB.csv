@@ -1,0 +1,31 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+System/Aina_SkillEn,Text,,,Synergy: Choose a skill to return to the bottom of the deck.,強化：デッキに戻すスキルを選んで,协同：选择回到牌库最下方的技能,协同：选择回到牌库最下方的技能
+System/Aina_StaticTitle,Text,,,Select effect to activate.,発動する効果を選んでください,选择要发动的效果,选择要发动的效果
+System/Aina_StaticTitleSkill8,Text,,,Insufficient qualifying cards in hand.,当てはまるスキルが足りない。,符合要求的手牌数量不足,符合要求的手牌数量不足
+System/Aina_StaticTitleSkill8/2,Text,,,Procure Mascot: Select second skill to Exclude from hand.,マスコットを買い入れ：二つ目のスキルを選んで,采购吉祥物:选择第二个从手牌放逐的技能,采购吉祥物:选择第二个从手牌放逐的技能
+System/Aina_StaticTitleSkill8/3,Text,,,Procure Mascot: Select skill to add to hand.,マスコットを買い入れ:手札に入るスキルを選んで,采购吉祥物:选择抽取到手牌的技能,采购吉祥物:选择抽取到手牌的技能
+System/Aina_StaticTitleSkill9,Text,,,Abyssal Love: Select skill to return to deck.,海ーーそれでも愛する：デッキに戻すスキルを選んで,海洋—深邃之爱:选择返回牌库的技能,海洋—深邃之爱:选择返回牌库的技能
+System/SystemS_MizuharaAina_1,Text,,,Generates Barrier equal to 50% of damage dealt. Allies' next skill gains equivalent <color=#E5FF56>Combo Energy</color>.,与えたダメージの50%に基づいて防壁を生成し、味方の次のスキルにはこのスキルの同量な<color=#E5FF56>連撃エネルギー</color>を付与します。,造成的伤害50%将转化为防护墙，使友军的下一个技能附带本次攻击相同的<color=#E5FF56>连击能量</color>,造成的伤害50%将转化为防护墙，使友军的下一个技能附带本次攻击相同的<color=#E5FF56>连击能量</color>
+System/SystemS_MizuharaAina_10,Text,,,Extends all target's debuffs by 1 turn.,目標の全てのデバフが１ターンを長くなる,目标敌方的Debuff全部延长一回合,目标敌方的Debuff全部延长一回合
+System/SystemS_MizuharaAina_2,Text,,,Applies <color=#17FF00>Befriend Aina~</color> debuff for 2 turns.,2ターンのデバフ<color=#17FF00>【あいなと仲良しいにしよう】</color>を付与します,施加2回合<color=#17FF00>【和あいな做好朋友吧】</color>,施加2回合<color=#17FF00>【和あいな做好朋友吧】</color>
+System/SystemS_MizuharaAina_2/2,Text,,,"Applies <color=#17FF00>Befriend Aina~</color> debuff for 2 turns. If <color=#EDFAEC>Savor the Depths</color> exists in deck, add 1 copy to hand with 0 cost. Shuffle deck.",2ターンのデバフ<color=#17FF00>【あいなと仲良しいにしよう】</color>を付与します。そして、デッキに<color=#EDFAEC>【奥深い味わいを】</color>があれば、そのなかの一枚を手札に加えて、さらにコストはゼロになり、そしてデッキをシャッフルします。,"施加2回合<color=#17FF00>【和あいな做好朋友吧】</color>这之后,若牌库中存在<color=#EDFAEC>【品尝深奥滋味】</color>，将其中一张加入手牌，并洗切牌堆""","施加2回合<color=#17FF00>【和あいな做好朋友吧】</color>这之后,若牌库中存在<color=#EDFAEC>【品尝深奥滋味】</color>，将其中一张加入手牌，使之费用变为0，并洗切牌堆"""
+System/SystemS_MizuharaAina_3,Text,,,Taunts all enemies for 1 turn. Aina gains Healing Gauge protection for 2 turns.,１ターン間に、全てのエネミーがあいなにしか攻撃できない、そしてあいな自身がターンで回復ゲージ保護状態をされます。,强嘲讽所有敌人1回合，あいな获得保护自身体力极限2t,强嘲讽所有敌人1回合，あいな获得保护自身体力极限2t
+System/SystemS_MizuharaAina_4,Text,,,Makes <color=#17FF00>Befriend Aina~</color> permanent and applies <color=#17FF00>Become Aina's Meal~</color>.,目標でデバフ<color=#17FF00>【あいなと仲良しいにしよう】</color>あれば、そのデバフの持続時間が無限になる。そして、<color=#17FF00>【あいなの食物になるさ～】</color>を付与します。,若敌人拥有<color=#17FF00>【和あいな做朋友吧】</color> ，则将该减益变成永久，并施加<color=#17FF00>【成为あいな的食物吧～】</color>,若敌人拥有<color=#17FF00>【和あいな做朋友吧】</color> ，则将该减益变成永久，并施加<color=#17FF00>【成为あいな的食物吧～】</color>
+System/SystemS_MizuharaAina_4/2,Text,,,"Makes <color=#17FF00>Befriend Aina~</color> permanent and applies <color=#17FF00>Become Aina's Meal~</color>. If <color=#EDFAEC>Prepare Sashimi</color> exists in deck, add 1 copy to hand with 0 cost. Shuffle deck.",目標でデバフ<color=#17FF00>【あいなと仲良しいにしよう】</color>あれば、そのデバフの持続時間が無限になる。そして、<color=#17FF00>【あいなの食物になるさ～】</color>を付与します。さたに、デッキに<color=#EDFAEC>【さしみを作るのさ】</color>があれば、そのなかの一枚を手札に加えて、さらにコストはゼロになり、そしてデッキをシャッフルします。,"若敌人拥有<color=#17FF00>【和あいな做朋友吧】</color> ，则将该减益变成永久，并施加<color=#17FF00>【成为あいな的食物吧～】</color>,这之后，若牌库存在<color=#EDFAEC>【制作水产刺身】</color>，将其中一张加入手牌，使之费用变为0，并洗切牌堆","若敌人拥有<color=#17FF00>【和あいな做朋友吧】</color> ，则将该减益变成永久，并施加<color=#17FF00>【成为あいな的食物吧～】</color>,这之后，若牌库存在<color=#EDFAEC>【制作水产刺身】</color>，将其中一张加入手牌，使之费用变为0，并洗切牌堆"
+System/SystemS_MizuharaAina_5,Text,,,Applies <color=#17FF00>Let's Feast Together~</color> to all enemies with <color=#17FF00>Become Aina's Meal~</color>.,<color=#17FF00>【あいなの食物になるさ～】</color>に付与された全ての敵がデバフ<color=#17FF00>【みんな一緒食べよう～】</color>を付与します。,对所有拥有<color=#17FF00>【成为あいな的食物吧～】</color>的敌方施加<color=#17FF00>【大家一起享用咯】</color>,对所有拥有<color=#17FF00>【成为あいな的食物吧～】</color>的敌方施加<color=#17FF00>【大家一起享用咯】</color>
+System/SystemS_MizuharaAina_6,Text,,,Ocean World: Select skill to add to hand.,海の世界：手札に入るスキルを選んで,海洋世界：选择抽取到手牌的技能,海洋世界：选择抽取到手牌的技能
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+

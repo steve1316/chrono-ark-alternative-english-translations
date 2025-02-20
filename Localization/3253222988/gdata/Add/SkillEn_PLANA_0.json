@@ -1,0 +1,10 @@
+{
+    "SkillEn_PLANA_0": {
+        "ClassName": "PLANA.SkillEn_PLANA_0",
+        "Name": "出手后生成一个该技能的复制到手中，附带放逐、两回合后弃牌",
+        "Drop": true,
+        "EnforceString": "2费以上的非一次性技能",
+        "NeedCharacter": "PLANA",
+        "_gdeSchema": "SkillExtended"
+    }
+}

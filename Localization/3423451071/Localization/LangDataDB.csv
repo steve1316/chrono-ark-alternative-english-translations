@@ -1,0 +1,486 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_SF_Agent_10_1_Description,Text,,,"When the duration ends, if there is any remaining shield, increase all allies' Attack by the proportion of the remaining shield (current remaining amount increases by &a%), and reduce the cost of the next skill used by all allies by 1.",,持续时间结束时若仍有剩余保护罩，根据剩余保护罩的比例提升所有友军攻击力(当前剩余量提升&a%)，并使所有友军下一个使用的技能费用减少1点。,
+Buff/B_SF_Agent_10_1_Name,Text,,,Ominous Barrier,,噩兆屏障,
+Buff/B_SF_Agent_10_2_Description,Text,,,,,,
+Buff/B_SF_Agent_10_2_Name,Text,,,Attack Increase,,攻击力增加,
+Buff/B_SF_Agent_10_3_Description,Text,,,Reduces the cost of the next skill used by self by 1.,,自身下一个使用的技能费用减少1点。,
+Buff/B_SF_Agent_10_3_Name,Text,,,Skill Cost Reduction,,技能费用降低,
+Buff/B_SF_Agent_11_1_Description,Text,,,Unable to act.,,无法行动。,
+Buff/B_SF_Agent_11_1_Name,Text,,,Stun,,眩晕,
+Buff/B_SF_Agent_11_2_Description,Text,,,,,,
+Buff/B_SF_Agent_11_2_Name,Text,,,Increased Damage Received,,受到伤害增加,
+Buff/B_SF_Agent_11_Description,Text,,,"&b/&c
+&user and reinforcements summoned by &user will apply [Stun] (<sprite=2>&a1%) to the last attacked target after every &c attacks (Follow-up attacks count as 0.5).
+If [Stun] applied by this effect is resisted, increase damage received by the target by 12% for 3 turns (<sprite=0>&a2%).",,"&b/&c
+&user及&user召唤入场的增援单位每进行&c次攻击(追加攻击视为0.5次)，对最后攻击的目标施加【眩晕】(<sprite=2>&a1%)。
+此效果施加的【眩晕】被抵抗时，使目标3回合内受到的伤害增加12%(<sprite=0>&a2%)",
+Buff/B_SF_Agent_11_Name,Text,,,Penal Judgment,,罚罪,
+Buff/B_SF_Agent_1_1_Description,Text,,,Inserts 1 [Steady Shot] with a 3-turn countdown each round.,,每回合置入1个倒计时3的【沉稳射击】。,
+Buff/B_SF_Agent_1_1_Name,Text,,,Sniper Support,,狙击援护,
+Buff/B_SF_Agent_1_2_Description,Text,,,Inserts 1 [Steady Shot] with a 3-turn countdown each round.,,每回合置入1个倒计时3的【沉稳射击】。,
+Buff/B_SF_Agent_1_2_Name,Text,,,Reinforcement: Jaeger,,增援：猎鸥,
+Buff/B_SF_Agent_2_2_Description,Text,,,Inserts 1 [Exploitative Strike] with a 5-turn countdown each round.,,每回合置入1个倒计时5的【剥削打击】。,
+Buff/B_SF_Agent_2_2_Name,Text,,,Reinforcement: Nemeum,,增援：钢狮,
+Buff/B_SF_Agent_2_Description,Text,,,Reduces 1 stack when receiving a Critical hit.,,受到暴击时减少1层。,
+Buff/B_SF_Agent_2_Name,Text,,,Brutal Mark,,暴虐印记,
+Buff/B_SF_Agent_3_1_Description,Text,,,,,,
+Buff/B_SF_Agent_3_1_Name,Text,,,Shield,,护盾,
+Buff/B_SF_Agent_3_2_1_Description,Text,,,,,,
+Buff/B_SF_Agent_3_2_1_Name,Text,,,Attack and Accuracy Reduction,,攻击力、命中率减少,
+Buff/B_SF_Agent_3_2_Description,Text,,,Inserts 1 [Blade Dance] with a 2-turn countdown each round and increases Standby count by 2.,,每回合置入1个倒计时2的【锋舞】，等待次数+2。,
+Buff/B_SF_Agent_3_2_Name,Text,,,Reinforcement: Dragoon,,增援：龙骑兵,
+Buff/B_SF_Agent_4_1_Description,Text,,,"When this unit's attack deals damage, performs a Follow-up attack equal to 50% of the damage dealt.
+(This effect cannot trigger itself again)",,"自身的攻击造成伤害时，以50%的伤害量进行1次追击。
+(不会再次触发上述效果)",
+Buff/B_SF_Agent_4_1_Name,Text,,,Puppet Projection,,傀儡映射,
+Buff/B_SF_Agent_4_2_Description,Text,,,Inserts 1 [Misfortune Assault] with a 2-turn countdown each round.,,每回合置入1个倒计时2的【厄运侵袭】。,
+Buff/B_SF_Agent_4_2_Name,Text,,,Reinforcement: Agent's Puppet,,增援：代理人的傀儡,
+Buff/B_SF_Agent_5_1_Description,Text,,,Reduces non-Pain damage received by &arm points.,,受到的非痛苦伤害减少&arm点。,
+Buff/B_SF_Agent_5_1_Name,Text,,,Protective Coating,,防护涂层,
+Buff/B_SF_Agent_5_2_2_Description,Text,,,"&a takes attacks in their place. 
+Gains Defense equal to &a's Defense.",,"由&a代替承受攻击。
+获得等同于&a防御力的防御力。",
+Buff/B_SF_Agent_5_2_2_Name,Text,,,Protected,,受保护,
+Buff/B_SF_Agent_5_2_Description,Text,,,"Reduces non-Pain damage received by &arm points. 
+Counters enemy attacks with &anti damage.",,"受到的非痛苦伤害减少&arm点。
+受到敌人攻击时，以&anti点伤害进行反击。",
+Buff/B_SF_Agent_5_2_Name,Text,,,Reinforcement: Aegis,,增援：圣盾,
+Buff/B_SF_Agent_6_1_Description,Text,,,"After being hit by an attack, increases Dodge rate by 30%. Resets Dodge rate bonus from this effect upon dodging.",,被攻击命中后闪避率增加30%，闪避攻击时重置上述效果获得的闪避率。,
+Buff/B_SF_Agent_6_1_Name,Text,,,Extreme Adaptation,,极限适性,
+Buff/B_SF_Agent_6_2_2_Description,Text,,,"When hit by an attack, reduces duration by 1 turn and decreases damage received based on Dodge rate (&a%).",,被攻击命中时，减少1回合持续时间，并使受到的伤害根据闪避率减少(&a%)。,
+Buff/B_SF_Agent_6_2_2_Name,Text,,,Crisis Perception,,危机感应,
+Buff/B_SF_Agent_6_2_Description,Text,,,"Gains 1% Dodge rate for every 2% HP lost. 
+Gains 1% Critical rate for every 2% HP retained. 
+Restores HP to 15% of max HP when falling below 15% for the first time. &used1",,"每失去2%的体力值，闪避率增加1%。
+每保有2%的体力值，暴击率增加1%。
+首次体力值低于15%的最大体力值时，将体力值恢复至15%。&used1",
+Buff/B_SF_Agent_6_2_Name,Text,,,Reinforcement: Ripper,,增援：切割者,
+Buff/B_SF_Agent_6_2_p_Description,Text,,,(Triggered),,(已触发),
+Buff/B_SF_Agent_6_2_p_Name,Text,,,Critical Protection,,重创保护,
+Buff/B_SF_Agent_7_2_Description,Text,,,"Add 1 [Assault Order] with a 2-turn countdown each round. 
+Add 1 additional [Assault Order] with a 3-turn countdown during the first 2 turns after entering battle.
+(Current turn count: &num1)",,"每回合置入1个倒计时2【突击指令】。
+入场后的前2回合额外置入1个倒计时3的【突击指令】。
+(当前回合数：&num1)",
+Buff/B_SF_Agent_7_2_Name,Text,,,Reinforcement: Striker,,增援：痛击者,
+Buff/B_SF_Agent_8_2_Description,Text,,,"Cannot be healed. Dies immediately if HP drops below 1. 
+At the start of the 3rd turn after entering battle, deals 1000% of remaining HP as damage to all enemies and dies if still alive.
+(Current turn count: &num1)",,"无法受到治疗，体力值低于1时立刻死亡。
+入场后的第3回合开始时若仍存活，对所有敌人造成剩余体力值1000%的伤害并死亡。
+(当前回合数：&num1)",
+Buff/B_SF_Agent_8_2_Name,Text,,,Reinforcement: Goliath,,增援：歌利亚,
+Buff/B_SF_Agent_9_1_Description,Text,,,"When dealing damage with a non-Follow-up attack, deals 33% of the damage as a Follow-up attack to all enemies.",,非追加攻击造成伤害时，以伤害量的33%对所有敌人进行追击。,
+Buff/B_SF_Agent_9_1_Name,Text,,,Resonance,,轰鸣,
+Buff/B_SF_Agent_9_2_Description,Text,,,"Reduces non-Pain damage received by &arm points. 
+Add 1 [Fierce Assault] with a 4-turn countdown each round.",,"受到的非痛苦伤害减少&arm点。
+每回合置入1个倒计时4【猛烈强袭】。",
+Buff/B_SF_Agent_9_2_Name,Text,,,Reinforcement: Manticore,,增援：蝎甲兽,
+Buff/B_SF_Agent_doll_Description,Text,,,"Dies immediately when clicking this icon or when &master dies. 
+Increases Overload of &allSummoner by 1 at the start of each turn. 
+Cannot overheal beyond HP limit.",,"点击此图标或&master死亡时立即死亡。
+回合开始时使&allSummoner过载增加1点。
+无法超出体力极限获得治疗。
+",
+Buff/B_SF_Agent_doll_Name,Text,,,Agent Summon Passive,,代理人召唤物被动通用buff,
+Buff/B_SF_Agent_sum_p_Description,Text,,,"Only selectable when HP is above 0 and &allSummoner's Overload is below 3. 
+Suffers &consumHP Pain damage and increases &allSummoner's Overload by 1.",,"仅在生命值大于0且自身&allSummoner过载小于3时可选。
+受到&consumHP点痛苦伤害并使自身&allSummoner过载额外+1。
+",
+Buff/B_SF_Agent_sum_p_Name,Text,,,Agent Summon Mark,,代理人召唤物标记,
+Character/SF_Aegis_CampSelectWord,Text,,,,,,
+Character/SF_Aegis_PassiveDes,Text,,,,,,
+Character/SF_Aegis_PassiveName,Text,,,,,,
+Character/SF_Aegis_SelectInfo,Text,,,,,,
+Character/SF_Aegis_UnlockString,Text,,,,,,
+Character/SF_Aegis_name,Text,,,Aegis,,圣盾,
+Character/SF_Agent_CampSelectWord,Text,,,"Answering your call, I have returned to your side once more.",,响应您的呼唤，我再次来到您身边了。,
+Character/SF_Agent_PassiveDes,Text,,,"Some skills can summon Sangvis Ferri reinforcements. 
+Reduces Overload of all allies by 1 when any other ally dies.
+
+At Lv.3, gains [Targeted Analysis Contract] to replace 1 exclusive skill.
+At Lv.5, gains a 2nd [Targeted Analysis Contract] and equipment [Maid Protocol].",,"部分技能可以召唤铁血工造增援单位入场。
+任意其他友军死亡时，所有友军过载减少1点。
+
+3级时获得道具【定向解析契约】，使用后可替换1个专属技能。
+5级时获得第2张【定向解析契约】与装备【女仆守则】。",
+Character/SF_Agent_PassiveName,Text,,,Sangvis Tactics: Agent,,铁血战术·代理人,
+Character/SF_Agent_SelectInfo,Text,,,"Agent is a Sangvis Ferri Rear Command Doll in charge of liaising between Elisa and her Sangvis subordinates as well as logistics management. As a high-ranking unit adept at both combat and tactics, she's able to command all Dolls in combat, and they all directly answer to her. Calm and composed, she always speaks in a courteous tone to friends and foes alike. However, apart from the genuine respect she has for her master, she holds everyone else in low regard.
+
+Can summon reinforcements to protect allies and sustain damage output through tactical deployment.",,"代理人是铁血工造后卫指挥人形，负责伊莱莎与下属铁血的沟通联络工作和后勤管理，作战人形都直接听从她的命令，地位极高，无论战斗还是指挥都很擅长，可以指挥所有作战人形。冷淡平静，有条不紊的言行做派，对敌我都会用尊敬的语气，但实际上除了对主人十分尊重之外，称呼他人的词汇都很低劣。
+
+能够召唤增援单位协同作战，通过调用不同的增援单位，可以兼顾保护友军与对敌持续输出。",
+Character/SF_Agent_Text_Battle_AllyND_0,Text,,,T_agt_3_1: My apologies... This is a failure of my duties as a maid...,,T_agt_3_1:抱歉，这是我作为女仆的失格···,
+Character/SF_Agent_Text_Battle_Cri_0,Text,,,T_agt_6_1: Industrial scrap. Please refrain from flailing about so conspicuously.,,T_agt_6_1:工业废渣，请不要公然晃来晃去。,
+Character/SF_Agent_Text_Battle_Cri_1,Text,,,"T_agt_6_2: Disappear, waste matter.",,T_agt_6_2:请消失吧，废物。,
+Character/SF_Agent_Text_Battle_Healed_0,Text,,,T_agt_7_1: Thank you for providing these resources. I assure you they'll be utilized with maximum efficiency.,,T_agt_7_1:感谢您愿意付出这份资源，我保证它们会发挥出最大的价值。,
+Character/SF_Agent_Text_Battle_Idle_0,Text,,,T_agt_1_1: Any orders? Or perhaps... requiring service?,,T_agt_1_1:有命令吗？还是，需要什么服务吗？,
+Character/SF_Agent_Text_Battle_Idle_1,Text,,,T_agt_1_2: Agent standing by. Summon me anytime if service is required.,,T_agt_1_2:代理人待命中，需要服务请随时召唤。,
+Character/SF_Agent_Text_Battle_Kill_0,Text,,,T_agt_5_1: I have delivered your demise.,,T_agt_5_1:我把你的死亡，送到了。,
+Character/SF_Agent_Text_Battle_ND_0,Text,,,T_agt_2_1: Have I become incapable of defeating even such pathetic vermin...,,T_agt_2_1:连这样的可怜虫，我都无法获胜了吗···,
+Character/SF_Agent_Text_Battle_Start_0,Text,,,T_agt_4_1: Trash obstructing my master? Allow me to dispose of it.,,T_agt_4_1:妨碍到主人的垃圾吗，请由我来为您清扫吧。,
+Character/SF_Agent_Text_Field_GetItem_0,Text,,,T_agt_9_1: I shall utilize this appropriately. Please rest assured.,,T_agt_9_1:我会妥善利用的，请您放心。,
+Character/SF_Agent_Text_Field_Idle_0,Text,,,T_agt_8_1: Which garbage shall we eliminate today?,,T_agt_8_1:今天要抹掉的垃圾，是哪些呢？,
+Character/SF_Agent_Text_Field_Potion_P_0,Text,,,T_agt_10_1: ...Hm.,,T_agt_10_1:···唔。,
+Character/SF_Agent_Text_PharosLeader_0,Text,,,T_agt_11_1: A cleaning mission? Entrust it to me.,,T_agt_11_1:清扫任务吗，请交给我吧。,
+Character/SF_Agent_Text_PharosLeader_1,Text,,,T_agt_11_2: This is... not a laughing matter...,,T_agt_11_2:真是个···笑不出来的笑话···,
+Character/SF_Agent_Text_PharosLeader_2,Text,,,T_agt_11_3: I advise you to abandon your dignity as mere riffraff.,,T_agt_11_3:杂鱼的尊严，还望您就此抛弃吧。,
+Character/SF_Agent_UnlockString,Text,,,,,,
+Character/SF_Agent_name,Text,,,Agent,,代理人,
+Character/SF_Agent_shadow_CampSelectWord,Text,,,,,,
+Character/SF_Agent_shadow_PassiveDes,Text,,,,,,
+Character/SF_Agent_shadow_PassiveName,Text,,,,,,
+Character/SF_Agent_shadow_SelectInfo,Text,,,,,,
+Character/SF_Agent_shadow_UnlockString,Text,,,,,,
+Character/SF_Agent_shadow_name,Text,,,Puppet Clone,,傀儡分身,
+Character/SF_Dragoon_CampSelectWord,Text,,,,,,
+Character/SF_Dragoon_PassiveDes,Text,,,,,,
+Character/SF_Dragoon_PassiveName,Text,,,,,,
+Character/SF_Dragoon_SelectInfo,Text,,,,,,
+Character/SF_Dragoon_UnlockString,Text,,,,,,
+Character/SF_Dragoon_name,Text,,,Dragoon,,龙骑兵,
+Character/SF_Goliath_CampSelectWord,Text,,,,,,
+Character/SF_Goliath_PassiveDes,Text,,,,,,
+Character/SF_Goliath_PassiveName,Text,,,,,,
+Character/SF_Goliath_SelectInfo,Text,,,,,,
+Character/SF_Goliath_UnlockString,Text,,,,,,
+Character/SF_Goliath_name,Text,,,Goliath,,歌利亚,
+Character/SF_Jaeger_CampSelectWord,Text,,,,,,
+Character/SF_Jaeger_PassiveDes,Text,,,,,,
+Character/SF_Jaeger_PassiveName,Text,,,,,,
+Character/SF_Jaeger_SelectInfo,Text,,,,,,
+Character/SF_Jaeger_UnlockString,Text,,,,,,
+Character/SF_Jaeger_name,Text,,,Jaeger,,猎鸥,
+Character/SF_Manticore_CampSelectWord,Text,,,,,,
+Character/SF_Manticore_PassiveDes,Text,,,,,,
+Character/SF_Manticore_PassiveName,Text,,,,,,
+Character/SF_Manticore_SelectInfo,Text,,,,,,
+Character/SF_Manticore_UnlockString,Text,,,,,,
+Character/SF_Manticore_name,Text,,,Manticore,,蝎甲兽,
+Character/SF_Nemeum_CampSelectWord,Text,,,,,,
+Character/SF_Nemeum_PassiveDes,Text,,,,,,
+Character/SF_Nemeum_PassiveName,Text,,,,,,
+Character/SF_Nemeum_SelectInfo,Text,,,,,,
+Character/SF_Nemeum_UnlockString,Text,,,,,,
+Character/SF_Nemeum_name,Text,,,Nemeum,,钢狮,
+Character/SF_Ripper_CampSelectWord,Text,,,,,,
+Character/SF_Ripper_PassiveDes,Text,,,,,,
+Character/SF_Ripper_PassiveName,Text,,,,,,
+Character/SF_Ripper_SelectInfo,Text,,,,,,
+Character/SF_Ripper_UnlockString,Text,,,,,,
+Character/SF_Ripper_name,Text,,,Ripper,,切割者,
+Character/SF_Striker_CampSelectWord,Text,,,,,,
+Character/SF_Striker_PassiveDes,Text,,,,,,
+Character/SF_Striker_PassiveName,Text,,,,,,
+Character/SF_Striker_SelectInfo,Text,,,,,,
+Character/SF_Striker_UnlockString,Text,,,,,,
+Character/SF_Striker_name,Text,,,Striker,,痛击者,
+Item_Consume/Item_SF_1_Description,Text,,,"Forget an exclusive skill, then select a new one from all exclusive skills.",,遗忘一个专属技能，然后从所有专属技能中选择一个学习。,遺忘一個專屬技能，然後從所有專屬技能中選擇一個學習。
+Item_Consume/Item_SF_1_name,Text,,,Targeted Analysis Contract,,定向解析契约,定向解析契約
+Item_Equip/E_SF_Agent_0_Description,Text,,,"When any other ally dies, resets Agent's Overload. 
+<color=red>Agent only</color>",,"任意其他友军死亡时，重置代理人的过载。
+<color=red>仅限代理人佩戴</color>",
+Item_Equip/E_SF_Agent_0_name,Text,,,Maid Protocol,,女仆守则,
+Skill/S_SF_Agent_0_Description,Text,,,,,,
+Skill/S_SF_Agent_0_Name,Text,,,,,,
+Skill/S_SF_Agent_10_Description,Text,,,,,,
+Skill/S_SF_Agent_10_Name,Text,,,Key of Omen,,噩兆之钥,
+Skill/S_SF_Agent_11_Description,Text,,,Attack target 4 times.,,攻击目标4次。,
+Skill/S_SF_Agent_11_Name,Text,,,Misfortune Assault,,厄运侵袭,
+Skill/S_SF_Agent_12_Description,Text,,,"Prioritizes drawing 4 different ally skills. 
+Reduces this skill's cost by 1 for each Sangvis Ferri reinforcement on field.",,"优先抽取4个不同友军的技能。
+场上每存在1个铁血工造增援单位，此技能费用减少1点。",
+Skill/S_SF_Agent_12_Name,Text,,,Battlefield Command,,战场调度,
+Skill/S_SF_Agent_1_1_1_Description,Text,,,"Ignores Defense. 
+Prioritizes non-Taunt enemies.",,"无视防御。
+优先攻击非嘲讽状态的敌人。",
+Skill/S_SF_Agent_1_1_1_Name,Text,,,Steady Shot,,沉稳射击,
+Skill/S_SF_Agent_1_1_Description,Text,,,,,,
+Skill/S_SF_Agent_1_1_Name,Text,,,Cover,,掩护,
+Skill/S_SF_Agent_1_2_1_Description,Text,,,"Ignores Defense. 
+Prioritizes non-Taunt enemies.",,"无视防御。
+优先攻击非嘲讽状态的敌人。",
+Skill/S_SF_Agent_1_2_1_Name,Text,,,Steady Shot,,沉稳射击,
+Skill/S_SF_Agent_1_2_2_Description,Text,,,"Ignores Defense. 
+Guaranteed Critical when targeting non-Taunt enemies.",,"无视防御。
+指向非嘲讽状态的敌人时，必定暴击。",
+Skill/S_SF_Agent_1_2_2_Name,Text,,,Raptor Strike,,枭兽打击,
+Skill/S_SF_Agent_1_2_Description,Text,,,"Summons [Jaeger].
+[Jaeger] has:
+
+&maxhp Max HP
+&cri% Critical rate
+&def% Defense
+&dod% Dodge rate
+Other stats match &user (excluding Buffs)
+
+Add 1 [Steady Shot] with 3-turn countdown each round. 
+Fixed skill: [Raptor Strike].",,"召唤单位【猎鸥】入场。
+【猎鸥】具有：
+&maxhp点最大生命值,
+&cri%的暴击率，
+&def%的防御力，
+&dod%的闪避率。
+剩余属性与&user保持一致(不计算Buff)。
+每回合置入1个倒计时3的【沉稳射击】。
+固定技能为【枭兽打击】。",
+Skill/S_SF_Agent_1_2_Name,Text,,,Reinforce,,增援,
+Skill/S_SF_Agent_1_Description,Text,,,"Choose:
+Cover: Add 1 [Steady Shot] per round for 3 turns, prioritizing non-Taunt enemies.
+Reinforce: Summons [Jaeger].",,"选择：
+掩护：3回合内，每回合置入1个【沉稳射击】，优先攻击非嘲讽状态的敌人。
+增援：召唤【猎鸥】入场。",
+Skill/S_SF_Agent_1_Name,Text,,,Jaeger,,猎鸥,
+Skill/S_SF_Agent_2_1_Description,Text,,,,,,
+Skill/S_SF_Agent_2_1_Name,Text,,,Cover,,掩护,
+Skill/S_SF_Agent_2_2_1_Description,Text,,,"Deals additional damage equal to 1% of target's max HP.
+(Max &a)",,"额外造成目标最大生命值1%的伤害。
+(最多&a点)",
+Skill/S_SF_Agent_2_2_1_Name,Text,,,Exploitative Strike,,剥削打击,
+Skill/S_SF_Agent_2_2_2_Description,Text,,,Marks target as priority for [Exploitative Strike].,,目标将作为【剥削打击】的优先攻击目标。,
+Skill/S_SF_Agent_2_2_2_Name,Text,,,Designation Signal,,定点信号,
+Skill/S_SF_Agent_2_2_Description,Text,,,"Summons [Nemeum].
+[Nemeum] has:
+
+&maxhp Max HP
+&def% Defense
+&dod% Dodge rate
+Other stats match &user (excluding Buffs)
+
+Add 1 [Exploitative Strike] with 5-turn countdown each round. 
+Fixed skill: [Designation Signal].",,"召唤单位【钢狮】入场。
+【钢狮】具有：
+&maxhp点最大生命值,
+&def%的防御力，
+&dod%的闪避率。
+剩余属性与&user保持一致(不计算Buff)。
+每回合置入1个倒计时5的【剥削打击】。
+固定技能为【定点信号】",
+Skill/S_SF_Agent_2_2_Name,Text,,,Reinforce,,增援,
+Skill/S_SF_Agent_2_Description,Text,,,"Choose:
+Cover: Applies 5 [Brutal Mark] stacks to single enemy.
+Reinforce: Summons [Nemeum].",,"选择：
+掩护：对单个敌人施加5层【暴虐印记】。
+增援：召唤【钢狮】入场。",
+Skill/S_SF_Agent_2_Name,Text,,,Nemeum,,钢狮,
+Skill/S_SF_Agent_3_1_Description,Text,,,,,,
+Skill/S_SF_Agent_3_1_Name,Text,,,Cover,,掩护,
+Skill/S_SF_Agent_3_2_1_Description,Text,,,,,,
+Skill/S_SF_Agent_3_2_1_Name,Text,,,Blade Dance,,锋舞,
+Skill/S_SF_Agent_3_2_2_Description,Text,,,Prioritizes drawing 1 target's skill.,,优先抽取1个目标的技能。,
+Skill/S_SF_Agent_3_2_2_Name,Text,,,Mobile Support,,机动援护,
+Skill/S_SF_Agent_3_2_Description,Text,,,"Summons [Dragoon].
+[Dragoon] has:
+
+&maxhp Max HP
+&cri% Critical rate
+&def% Defense
+&dod% Dodge rate
+Other stats match &user (excluding Buffs)
+
+Add 1 [Blade Dance] with 2-turn countdown each round. 
+Fixed skill: [Mobile Support].",,"召唤单位【龙骑兵】入场。
+【龙骑兵】具有：
+&maxhp点最大生命值,
+&cri%的暴击率，
+&def%的防御力，
+&dod%的闪避率。
+剩余属性与&user保持一致(不计算Buff)。
+每回合置入1个倒计时2的【锋舞】。
+固定技能为【机动援护】",
+Skill/S_SF_Agent_3_2_Name,Text,,,Reinforce,,增援,
+Skill/S_SF_Agent_3_Description,Text,,,"Choose:
+Cover: Applies shield to all allies.
+Reinforce: Summons [Dragoon].",,"选择：
+掩护：对所有友军施加保护罩。
+增援：召唤【龙骑兵】入场。",
+Skill/S_SF_Agent_3_Name,Text,,,Dragoon,,龙骑兵,
+Skill/S_SF_Agent_4_1_1_Description,Text,,,,,,
+Skill/S_SF_Agent_4_1_1_Name,Text,,,Attack Projection,,攻击映射,
+Skill/S_SF_Agent_4_1_Description,Text,,,,,,
+Skill/S_SF_Agent_4_1_Name,Text,,,Cover,,掩护,
+Skill/S_SF_Agent_4_2_1_Description,Text,,,Attack target 4 times.,,攻击目标4次。,
+Skill/S_SF_Agent_4_2_1_Name,Text,,,Misfortune Assault,,厄运侵袭,
+Skill/S_SF_Agent_4_2_2_Description,Text,,,Selects and uses 1 skill from allies' current/previous turn skills.,,从本回合与上回合友军释放过的技能中选择1个释放。,
+Skill/S_SF_Agent_4_2_2_Name,Text,,,Linked Projection,,连携映射,
+Skill/S_SF_Agent_4_2_Description,Text,,,"Summons [Puppet Clone].
+[Puppet Clone] has:
+
+&maxhp Max HP
+&def% Defense
+&dod% Dodge rate
+Other stats match &user (excluding Buffs)
+
+Add 1 [Misfortune Assault] with 2-turn countdown each round. 
+Fixed skill: [Linked Projection].",,"召唤单位【傀儡分身】入场。
+【傀儡分身】具有：
+&maxhp点最大生命值,
+&def%的防御力，
+&dod%的闪避率。
+剩余属性与&user保持一致(不计算Buff)。
+每回合置入1个倒计时2的【厄运侵袭】。
+固定技能为【连携映射】。",
+Skill/S_SF_Agent_4_2_Name,Text,,,Reinforce,,增援,
+Skill/S_SF_Agent_4_Description,Text,,,"Choose:
+Cover: Applies [Puppet Projection] to single ally.
+Reinforce: Summons [Puppet Clone].",,"选择：
+掩护：对单个友军施加【傀儡映射】。
+增援：召唤【傀儡分身】入场。",
+Skill/S_SF_Agent_4_Name,Text,,,Crimson Projection,,血光映射,
+Skill/S_SF_Agent_5_1_Description,Text,,,,,,
+Skill/S_SF_Agent_5_1_Name,Text,,,Cover,,掩护,
+Skill/S_SF_Agent_5_2_1_Description,Text,,,,,,
+Skill/S_SF_Agent_5_2_1_Name,Text,,,Electroshock,,电击,
+Skill/S_SF_Agent_5_2_2_Description,Text,,,,,,
+Skill/S_SF_Agent_5_2_2_Name,Text,,,Unyielding Defense,,无畏防御,
+Skill/S_SF_Agent_5_2_Description,Text,,,"Summons [Aegis].
+[Aegis] has:
+
+&maxhp Max HP
+&def% Defense
+&dod% Dodge rate
+Other stats match &user (excluding Buffs)
+
+Fixed skill: [Unyielding Defense].",,"召唤单位【圣盾】入场。
+【圣盾】具有：
+&maxhp点最大生命值,
+&def%的防御力，
+&dod%的闪避率。
+剩余属性与&user保持一致(不计算Buff)。
+固定技能为【无畏防御】。",
+Skill/S_SF_Agent_5_2_Name,Text,,,Reinforce,,增援,
+Skill/S_SF_Agent_5_Description,Text,,,"Choose:
+Cover: Applies [Protective Coating] to single ally.
+Reinforce: Summons [Aegis].",,"选择：
+掩护：对单个友军施加【防护涂层】。
+增援：召唤【圣盾】入场。",
+Skill/S_SF_Agent_5_Name,Text,,,Aegis,,圣盾,
+Skill/S_SF_Agent_6_1_Description,Text,,,,,,
+Skill/S_SF_Agent_6_1_Name,Text,,,Cover,,掩护,
+Skill/S_SF_Agent_6_2_1_Description,Text,,,Attack random enemy 3 times.,,攻击随机敌人3次。,
+Skill/S_SF_Agent_6_2_1_Name,Text,,,Blind Fire,,盲射,
+Skill/S_SF_Agent_6_2_2_Description,Text,,,,,,
+Skill/S_SF_Agent_6_2_2_Name,Text,,,Crisis Perception,,危机感应,
+Skill/S_SF_Agent_6_2_Description,Text,,,"Summons [Ripper].
+[Ripper] has:
+
+&maxhp Max HP
+&def% Defense
+&dod% Dodge rate
+Other stats match &user (excluding Buffs)
+
+Add 1 [Blind Fire] with 2-turn countdown each round. 
+Fixed skill: [Crisis Perception].",,"召唤单位【切割者】入场。
+【切割者】具有：
+&maxhp点最大生命值,
+&def%的防御力，
+&dod%的闪避率。
+剩余属性与&user保持一致(不计算Buff)。
+每回合置入1个倒计时2的【盲射】。
+固定技能为【危机感应】。",
+Skill/S_SF_Agent_6_2_Name,Text,,,Reinforce,,增援,
+Skill/S_SF_Agent_6_Description,Text,,,"Choose:
+Cover: Applies [Extreme Adaptation] to single ally.
+Reinforce: Summons [Ripper].",,"选择：
+掩护：对单个友军施加【极限适性】。
+增援：召唤【切割者】入场。",
+Skill/S_SF_Agent_6_Name,Text,,,Ripper,,切割者,
+Skill/S_SF_Agent_7_1_Description,Text,,,Attacks target enemy equal to number of skills used on enemies this turn (&anum).,,根据本回合对敌人使用技能的次数(&anum)，重复攻击目标敌人。,
+Skill/S_SF_Agent_7_1_Name,Text,,,Cover,,掩护,
+Skill/S_SF_Agent_7_2_1_Description,Text,,,"Attack 4 times. 
+Prioritizes last enemy targeted by ally skills.",,"攻击4次。
+优先攻击最后被友军技能指向的敌人。",
+Skill/S_SF_Agent_7_2_1_Name,Text,,,Assault Order,,突击指令,
+Skill/S_SF_Agent_7_2_2_Description,Text,,,,,,
+Skill/S_SF_Agent_7_2_2_Name,Text,,,Collapse Order,,崩解指令,
+Skill/S_SF_Agent_7_2_Description,Text,,,"Summons [Striker].
+[Striker] has:
+
+&maxhp Max HP
+&def% Defense
+&dod% Dodge rate
+Other stats match &user (excluding Buffs)
+
+Add 1 [Assault Order] with 2-turn countdown each round.",,"召唤单位【痛击者】入场。
+【痛击者】具有：
+&maxhp点最大生命值,
+&def%的防御力，
+&dod%的闪避率。
+剩余属性与&user保持一致(不计算Buff)。
+每回合置入1个倒计时2的【突击指令】。",
+Skill/S_SF_Agent_7_2_Name,Text,,,Reinforce,,增援,
+Skill/S_SF_Agent_7_Description,Text,,,"Choose:
+Cover: Repeats attack on target equal to number of skills used on enemies this turn (&anum).
+Reinforce: Summons [Striker].",,"选择：
+掩护：根据本回合对敌人使用技能的次数(&anum)，重复攻击目标敌人。
+增援：召唤【痛击者】入场。",
+Skill/S_SF_Agent_7_Name,Text,,,Striker,,痛击者,
+Skill/S_SF_Agent_8_1_Description,Text,,,,,,
+Skill/S_SF_Agent_8_1_Name,Text,,,Cover,,掩护,
+Skill/S_SF_Agent_8_2_1_Description,Text,,,,,,
+Skill/S_SF_Agent_8_2_1_Name,Text,,,Self-Destruct,,自爆,
+Skill/S_SF_Agent_8_2_Description,Text,,,"Summons [Goliath].
+[Goliath] has:
+
+&maxhp Max HP
+&def% Defense
+&dod% Dodge rate
+Other stats match &user (excluding Buffs)",,"召唤单位【歌利亚】入场。
+【歌利亚】具有：
+&maxhp点最大生命值,
+&def%的防御力，
+&dod%的闪避率。
+剩余属性与&user保持一致(不计算Buff)。",
+Skill/S_SF_Agent_8_2_Name,Text,,,Reinforce,,增援,
+Skill/S_SF_Agent_8_Description,Text,,,"Choose:
+Cover: Deals &a damage to all enemies.
+Reinforce: Summons [Goliath].",,"选择：
+掩护：对所有敌人造成&a点伤害
+增援：召唤【歌利亚】入场。",
+Skill/S_SF_Agent_8_Name,Text,,,Goliath,,歌利亚,
+Skill/S_SF_Agent_9_1_1_Description,Text,,,,,,
+Skill/S_SF_Agent_9_1_1_Name,Text,,,Resonance Follow-up,,轰鸣追击,
+Skill/S_SF_Agent_9_1_Description,Text,,,,,,
+Skill/S_SF_Agent_9_1_Name,Text,,,Cover,,掩护,
+Skill/S_SF_Agent_9_2_1_Description,Text,,,,,,
+Skill/S_SF_Agent_9_2_1_Name,Text,,,Fierce Assault,,猛烈强袭,
+Skill/S_SF_Agent_9_2_2_Description,Text,,,"Applies [Stun] (<sprite=2>&a%) when targeting enemy with highest HP. 
+Guaranteed Critical when targeting enemy with lowest HP. 
+On kill, performs Follow-up attack on lowest HP enemy based on overkill damage.",,"以体力值最高的敌人为目标时，附带【眩晕】(<sprite=2>&a%)。
+以体力值最低的敌人为目标时必定暴击。
+击杀目标时，根据溢出伤害量对体力值最低的敌方单位进行1次追击。",
+Skill/S_SF_Agent_9_2_2_Name,Text,,,Adaptive Suppression,,应变式压制,
+Skill/S_SF_Agent_9_2_3_Description,Text,,,,,,
+Skill/S_SF_Agent_9_2_3_Name,Text,,,Adaptive Suppression - Follow-up,,应变式压制-追击,
+Skill/S_SF_Agent_9_2_Description,Text,,,"Summons [Manticore].
+[Manticore] has:
+
+&maxhp Max HP
+&def% Defense
+&dod% Dodge rate
+Other stats match &user (excluding Buffs)
+
+Add 1 [Fierce Assault] with 4-turn countdown each round. 
+Fixed skill: [Adaptive Suppression].",,"召唤单位【蝎甲兽】入场。
+【蝎甲兽】具有：
+&maxhp点最大生命值,
+&def%的防御力，
+&dod%的闪避率。
+剩余属性与&user保持一致(不计算Buff)。
+每回合置入1个倒计时4的【猛烈强袭】。
+固定技能为【应变式压制】。",
+Skill/S_SF_Agent_9_2_Name,Text,,,Reinforce,,增援,
+Skill/S_SF_Agent_9_Description,Text,,,"Choose:
+Cover: Applies [Resonance] to target ally.
+Reinforce: Summons [Manticore].",,"选择：
+掩护：对目标友军施加【轰鸣】。
+增援：召唤【蝎甲兽】入场。",
+Skill/S_SF_Agent_9_Name,Text,,,Manticore,,蝎甲兽,
+SkillExtended/SkillEn_SF_Agent_0_Des,Text,,,,,,
+SkillExtended/SkillEn_SF_Agent_0_EnforceString,Text,,,,,,
+SkillExtended/SkillEn_SF_Agent_0_Name,Text,,,"When used, all Sangvis Ferri reinforcements perform 1 additional attack per round.",,使用时，使所有铁血工造增援单位额外进行1次每回合的攻击。,
+SkillExtended/SkillEn_SF_Agent_1_Des,Text,,,,,,
+SkillExtended/SkillEn_SF_Agent_1_EnforceString,Text,,,Healing Skill,,治疗技能,
+SkillExtended/SkillEn_SF_Agent_1_Name,Text,,,"When targeting Sangvis Ferri reinforcements with healing skills, allows overhealing beyond HP limit and applies Overheal.",,指向铁血工造增援单位时，使其可以超出体力极限获得治疗，并对其造成超额治疗。,
+SkillKeyword/KeyWord_SF_0_Desc,Text,,,Select a skill to forget,,选择一个技能遗忘,選擇一個技能遺忘
+SkillKeyword/KeyWord_SF_0_Name,Text,,,,,,
+

@@ -1,0 +1,186 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_GFL_Dandelion_0_1_Description,Text,,,Weakness effect increases when reapplied.,,被重复施加时弱化效果提升。,被重複施加時弱化效果提升。
+Buff/B_GFL_Dandelion_0_1_Name,Text,,,Mental Weakening,,心智弱化,心智弱化
+Buff/B_GFL_Dandelion_0_2_Description,Text,,,Enhancement effect increases when reapplied (excluding healing effects).,,"被重复施加时强化效果提升。
+(治疗效果除外)","被重複施加時強化效果提升。
+(治療效果除外)"
+Buff/B_GFL_Dandelion_0_2_Name,Text,,,Mental Enhancement,,心智强化,心智強化
+Buff/B_GFL_Dandelion_0_3_Description,Text,,,,,,
+Buff/B_GFL_Dandelion_0_3_Name,Text,,,Mental Overload,,心智过载,心智過載
+Buff/B_GFL_Dandelion_10_1_Description,Text,,,<color=#FFFFFF>Overheal 35% Max HP per turn</color>,,<color=#FFFFFF>每回合超额恢复最大体力值的35%</color>,<color=#FFFFFF>每回合超額恢復最大體力值的35%</color>
+Buff/B_GFL_Dandelion_10_1_Name,Text,,,Body Maintenance,,素体修理,素體修理
+Buff/B_GFL_Dandelion_10_Description,Text,,,,,,
+Buff/B_GFL_Dandelion_10_Name,Text,,,Mind Backup,,心智备份,心智備份
+Buff/B_GFL_Dandelion_11_Description,Text,,,"Linked Unit: &a
+Gain 50% of linked unit's ATK/DEF/Healing/Accuracy(over 100%)/Evasion/Crit.",,"链接对象: &a
+根据链接对象对应属性的50%，提升自身的攻击力&防御力&治疗力&命中率&闪避率&暴击率。
+(命中率仅计算超出100%的部分)","鏈接對象: &a
+根據鏈接對象對應屬性的50%，提升自身的攻擊力&防禦力&治療力&命中率&閃避率&暴擊率。
+(命中率僅計算超出100%的部分)"
+Buff/B_GFL_Dandelion_11_Name,Text,,,Mental Link,,心智链接,心智鏈接
+Buff/B_GFL_Dandelion_2_1_Description,Text,,,"Reveals enemy action targets.
+Gain 1 [Emergency Barrier] per turn.",,"可以看到敌人的行动目标。
+每回合获得1个【应急防护】。","可以看到敵人的行動目標。
+每回合獲得1個【應急防護】。"
+Buff/B_GFL_Dandelion_2_1_Name,Text,,,Shadow Perception,,阴察,陰察
+Buff/B_GFL_Dandelion_2_2_Description,Text,,,,,,
+Buff/B_GFL_Dandelion_2_2_Name,Text,,,Shadow Perception (enemy),,阴察(enemy),陰察(enemy)
+Buff/B_GFL_Dandelion_2_3_Description,Text,,,Removed when attacked.,,受到攻击后解除。,受到攻擊後解除。
+Buff/B_GFL_Dandelion_2_3_Name,Text,,,Emergency Barrier,,应急防护,應急防護
+Buff/B_GFL_Dandelion_3_Description,Text,,,"Cannot attack targets other than &target.
+Removed when attacking the target.  ",,"无法攻击除&target以外的目标。
+攻击目标时解除。","無法攻擊除&target以外的目標。
+攻擊目標時解除。"
+Buff/B_GFL_Dandelion_3_Name,Text,,,Mind Interference,,心智干涉,心智干涉
+Buff/B_GFL_Dandelion_4_Description,Text,,,Apply [Illusion Fracture] buff,,设置【幻象裂境】附加的buff,設置【幻象裂境】附加的buff
+Buff/B_GFL_Dandelion_4_Name,Text,,,Set Buff (Illusion Fracture),,设置buff(幻象裂境),設置buff(幻象裂境)
+Buff/B_GFL_Dandelion_5_Description,Text,,,All Investigators ignore Taunt/Stealth to target this unit.,,所有调查员可无视嘲讽与隐匿指向此角色。,所有調查員可無視嘲諷與隱匿指向此角色。
+Buff/B_GFL_Dandelion_5_Name,Text,,,Trail Lock,,踪迹锁定,蹤跡鎖定
+Buff/B_GFL_Dandelion_6_Description,Text,,,When resisting debuffs: Reduce this buff's value by the base success chance of the resisted debuff.,,抵抗减益时，减少此增益的数值，减少的数值等于无此增益时被成功施加相同减益的成功率。,抵抗減益時，減少此增益的數值，減少的數值等於無此增益時被成功施加相同減益的成功率。
+Buff/B_GFL_Dandelion_6_Name,Text,,,Firewall,,防火墙,防火牆
+Buff/B_GFL_Dandelion_7_Description,Text,,,After dealing DoT: Trigger other debuffs' DoT once per unique debuff type.,,造成每回合伤害后，每有1种其他减益，额外造成1次此减益的每回合伤害。,造成每回合傷害後，每有1種其他減益，額外造成1次此減益的每回合傷害。
+Buff/B_GFL_Dandelion_7_Name,Text,,,Short Circuit Feedback,,短路反射,短路反射
+Buff/B_GFL_Dandelion_8_1_Description,Text,,,Buffs obtained during this effect's duration have their duration increased by 1 turn.,,持续期间获得的增益持续时间增加1回合。,持續期間獲得的增益持續時間增加1回合。
+Buff/B_GFL_Dandelion_8_1_Name,Text,,,Luminous Veil,,辉光帷幕,輝光帷幕
+Buff/B_GFL_Dandelion_8_2_Description,Text,,,,,,
+Buff/B_GFL_Dandelion_8_2_Name,Text,,,Barrier,,护盾,護盾
+Buff/B_GFL_Dandelion_9_Description,Text,,,,,,
+Buff/B_GFL_Dandelion_9_Name,Text,,,Disruption Field,,干扰帷幕,干擾帷幕
+Buff/B_GFL_Dandelion_E_Description,Text,,,,,,
+Buff/B_GFL_Dandelion_E_Name,Text,,,Barrier,,护盾,護盾
+Character/GFL_Dandelion_CampSelectWord,Text,,,...,,...,
+Character/GFL_Dandelion_PassiveDes,Text,,,"Mind Analysis: Analyze targets when debuffs are resisted/applied (+20% success/resist rate per analysis)
+Core Meltdown: Apply 1 [Mental Overload] when successfully applying Weakness/Disruption debuffs
+
+At Lv3: Gain [Targeted Analysis Contract] to replace 1 exclusive skill.
+At Lv5: Gain 2nd [Targeted Analysis Contract] and equipment [Tactical Core].",,"心智解析: 丹德莱施加减益被抵抗/被成功施加减益时，对目标/来源进行解析。
+丹德莱对已解析单位施加减益/被其施加减益时，
+根据其被解析次数提升成功率/抵抗率，每次解析提升20%。
+内核熔解: 丹德莱成功施加弱化或干扰减益时，对目标施加1层【心智过载】。
+
+3级时获得道具【定向解析契约】，使用后可替换1个专属技能。
+5级时获得第2张【定向解析契约】与装备【战术核心】。","心智解析: 丹德萊施加減益被抵抗/被成功施加減益時，對目標/來源進行解析。
+丹德萊對已解析單位施加減益/被其施加減益時，
+根據其被解析次數提升成功率/抵抗率，每次解析提升20%。
+內核熔解: 丹德萊成功施加弱化或干擾減益時，對目標施加1層【心智過載】。
+
+3級時獲得道具【定向解析契約】，使用後可替換1個專屬技能。
+5級時獲得第2張【定向解析契約】與裝備【戰術核心】。"
+Character/GFL_Dandelion_PassiveName,Text,,,OGAS System,,OGAS,OGAS
+Character/GFL_Dandelion_SelectInfo,Text,,,"Dandelion is the OGAS consciousness that was born from the neural cloud of M4A1. Originally identified as Clear Voice or OGAS, she talked to M4A1, provided her information and influenced her actions. At the end of the Tallinn events, she became a fully individual mind, stole the body of Nimogen and was given her name by M4A1, since “OGAS sows in the neural cloud of numerous Dolls, just as dandelion florets scatter in the wind and take root in the soil.”
+
+Having grown by influencing and being influenced by M4's own changes, Dandelion eventually reached maturity and abandoned her instinct to coalesce with other consciousnesses as she became aware of her uniqueness. While she works with Griffin & Kryuger, Dandelion doesn't hide the fact that they are only temporary allies as she searches for the truth about her own nature, and shows a semblance of allegiance only towards M4A1, whom she calls Lunasia by virtue of her being closest to their original model. 
+
+Excels at debuff stacking and enemy manipulation.",,"具有极强的入侵与运算能力，本人表示不会逊色于那些最高配置的作战用超级电脑，可以借此修改一般人形的心智。物理方面的战斗能力极为低下——一旦连不上网，就跟一块板砖一样没用。能够透过电子战手段干扰人形的心智或是入侵电子设备为己用。
+
+战斗力低下，擅长使用与应对各种减益，通过弱化敌人、干扰敌人行动来支援友军。","具有極強的入侵與運算能力，本人表示不會遜色於那些最高配置的作戰用超級電腦，可以藉此修改一般人形的心智。物理方面的戰鬥能力極爲低下——一旦連不上網，就跟一塊板磚一樣沒用。能夠透過電子戰手段干擾人形的心智或是入侵電子設備爲己用。
+
+戰鬥力低下，擅長使用與應對各種減益，通過弱化敵人、干擾敵人行動來支援友軍。"
+Character/GFL_Dandelion_UnlockString,Text,,,,,,
+Character/GFL_Dandelion_name,Text,,,Dandelion,,丹德莱,丹德萊
+Item_Consume/Item_SF_1_Description,Text,,,"Forget an exclusive skill, then select a new one from all exclusive skills.",,遗忘一个专属技能，然后从所有专属技能中选择一个学习。,遺忘一個專屬技能，然後從所有專屬技能中選擇一個學習。
+Item_Consume/Item_SF_1_name,Text,,,Targeted Analysis Contract,,定向解析契约,定向解析契約
+Item_Equip/E_GFL_Dandelion_0_Description,Text,,,"At turn start: Gain 3 Barrier (1 turn) per buff.
+Allies can trigger [Mind Analysis] from Dandelion's passive. 
+<color=red>Dandelion exclusive</color>",,"回合开始时自身每有1种增益，获得持续1回合的3点护盾。
+其他友军也可触发丹德莱被动能力中的【心智解析】。
+<color=red>仅限丹德莱佩戴</color>","回合開始時自身每有1種增益，獲得持續1回合的3點護盾。
+其他友軍也可觸發丹德萊被動能力中的【心智解析】。
+<color=red>僅限丹德萊佩戴</color>"
+Item_Equip/E_GFL_Dandelion_0_name,Text,,,Tactical Core,,战术核心,戰術核心
+Skill/S_GFL_Dandelion_10_Description,Text,,,"Exclude this skill at battle start. Record all combat-ready allies.
+If recorded allies are KO'd and &a you survive: Revive them to 1 HP with [Body Maintenance].",,"战斗开始时从牌库中放逐此技能并记录所有可以战斗的友军。
+战斗结束时若记录的友军处于不可战斗状态且&a自身仍可战斗，解除友军的不可战斗状态并将其体力恢复至1，并施加【素体修理】。","戰鬥開始時從牌庫中放逐此技能並記錄所有可以戰鬥的友軍。
+戰鬥結束時若記錄的友軍處於不可戰鬥狀態且&a自身仍可戰鬥，解除友軍的不可戰鬥狀態並將其體力恢復至1，並施加【素體修理】。"
+Skill/S_GFL_Dandelion_10_Name,Text,,,Mind Backup,,心智备份,心智備份
+Skill/S_GFL_Dandelion_11_1_Description,Text,,,,,,
+Skill/S_GFL_Dandelion_11_1_Name,Text,,,Mental Link (Select Target),,心智链接(选择目标),心智鏈接(選擇目標)
+Skill/S_GFL_Dandelion_11_Description,Text,,,Requires ≥2 living allies. Link another ally after targeting.,,只有友军存活人数不少于2时可以使用。选择此技能的目标后需再选择1名其他友军作为链接对象。,只有友軍存活人數不少於2時可以使用。選擇此技能的目標後需再選擇1名其他友軍作爲鏈接對象。
+Skill/S_GFL_Dandelion_11_Name,Text,,,Mental Link,,心智链接,心智鏈接
+Skill/S_GFL_Dandelion_12_Description,Text,,,Prioritize drawing 2 Weakness/Disruption skills. +50% debuff success rate.,,优先抽取2个附带弱化或干扰减益的技能，抽取的技能的减益成功率增加50%。,優先抽取2個附帶弱化或干擾減益的技能，抽取的技能的減益成功率增加50%。
+Skill/S_GFL_Dandelion_12_Name,Text,,,Electronic Warfare,,电子战,電子戰
+Skill/S_GFL_Dandelion_13_Description,Text,,,"Shuffle target's skills from the discard pile into the deck, then select and draw 1 skill from the deck.
+If the chosen skill belongs to the target, its Cost is reduced by 1.",,"将弃牌库中目标的技能洗入牌库，然后从牌库中选择1个技能抽取。
+若选择的是目标的技能，使其费用减少1点。","將棄牌庫中目標的技能洗入牌庫，然後從牌庫中選擇1個技能抽取。
+若選擇的是目標的技能，使其費用減少1點。"
+Skill/S_GFL_Dandelion_13_Name,Text,,,Tactical Simulation,,战术推演,戰術推演
+Skill/S_GFL_Dandelion_1_Description,Text,,,,,,
+Skill/S_GFL_Dandelion_1_Name,Text,,,Mind Tremor,,心智震颤,心智震顫
+Skill/S_GFL_Dandelion_2_1_Description,Text,,,,,,
+Skill/S_GFL_Dandelion_2_1_Name,Text,,,Emergency Barrier,,应急防护,應急防護
+Skill/S_GFL_Dandelion_2_Description,Text,,,Apply [Mental Weakening] to enemies and [Mental Enhancement] to allies.,,给所有敌人施加【心智弱化】，给所有友军施加【心智强化】。,給所有敵人施加【心智弱化】，給所有友軍施加【心智強化】。
+Skill/S_GFL_Dandelion_2_Name,Text,,,Shadow Perception,,阴察,陰察
+Skill/S_GFL_Dandelion_3_1_Description,Text,,,,,,
+Skill/S_GFL_Dandelion_3_1_Name,Text,,,,,,
+Skill/S_GFL_Dandelion_3_Description,Text,,,"Forces the target to only attack a designated ally.
+You may spend 1 additional Mana and gain 1 extra Overload to select the target's ally as the attack target.",,"使目标只能攻击特定友军。
+可额外消耗1点法力值并使自身过载额外增加1点以选择目标的友军作为攻击目标。","使目標只能攻擊特定友軍。
+可額外消耗1點法力值並使自身過載額外增加1點以選擇目標的友軍作爲攻擊目標。"
+Skill/S_GFL_Dandelion_3_Name,Text,,,Mind Interference,,心智干涉,心智干涉
+Skill/S_GFL_Dandelion_4_0_Description,Text,,,,,,
+Skill/S_GFL_Dandelion_4_0_Name,Text,,,Reselect,,重新选择,重新選擇
+Skill/S_GFL_Dandelion_4_1_Description,Text,,,Available Buffs:,,"当前可附加:
+",當前可附加:
+Skill/S_GFL_Dandelion_4_1_Name,Text,,,Buffs,,增益,增益
+Skill/S_GFL_Dandelion_4_2_Description,Text,,,Available Debuffs:,,"当前可附加:
+","當前可附加:
+"
+Skill/S_GFL_Dandelion_4_2_Name,Text,,,Debuffs,,减益,減益
+Skill/S_GFL_Dandelion_4_Description,Text,,,"While held: Records applied/received buffs and visible debuffs.
+On use: Apply 1 recorded buff/debuff to target.
+Available Buffs: &a
+Available Debuffs: &b",,"握在手中时，记录自身施加/被施加的增益，与敌我双方被施加的减益。
+(不包括来源为敌方的不可解除减益)
+使用此技能时从已记录的增益/减益中选择1个施加给目标。
+可选增益:&a
+可选减益:&b","握在手中時，記錄自身施加/被施加的增益，與敵我雙方被施加的減益。
+(不包括來源爲敵方的不可解除減益)
+使用此技能時從已記錄的增益/減益中選擇1個施加給目標。
+可選增益:&a
+可選減益:&b"
+Skill/S_GFL_Dandelion_4_Name,Text,,,Illusion Fracture,,幻象裂境,幻象裂境
+Skill/S_GFL_Dandelion_4_c_Description,Text,,,,,,
+Skill/S_GFL_Dandelion_4_c_Name,Text,,,Exit,,退出,退出
+Skill/S_GFL_Dandelion_4_self_Description,Text,,,,,,
+Skill/S_GFL_Dandelion_4_self_Name,Text,,,Apply to Self,,附加给自身,附加給自身
+Skill/S_GFL_Dandelion_4_tar_Description,Text,,,,,,
+Skill/S_GFL_Dandelion_4_tar_Name,Text,,,Apply to Target,,附加给目标,附加給目標
+Skill/S_GFL_Dandelion_5_Description,Text,,,,,,
+Skill/S_GFL_Dandelion_5_Name,Text,,,Trail Lock,,踪迹锁定,蹤跡鎖定
+Skill/S_GFL_Dandelion_6_Description,Text,,,Remove 1 random debuff from each ally.,,随机解除每个友军1个减益。,隨機解除每個友軍1個減益。
+Skill/S_GFL_Dandelion_6_Name,Text,,,Firewall,,防火墙,防火牆
+Skill/S_GFL_Dandelion_7_Description,Text,,,,,,
+Skill/S_GFL_Dandelion_7_Name,Text,,,Short Circuit Feedback,,短路反射,短路反射
+Skill/S_GFL_Dandelion_8_Description,Text,,,,,,
+Skill/S_GFL_Dandelion_8_Name,Text,,,Luminous Veil,,辉光帷幕,輝光帷幕
+Skill/S_GFL_Dandelion_9_Description,Text,,,,,,
+Skill/S_GFL_Dandelion_9_Name,Text,,,Disruption Field,,干扰帷幕,干擾帷幕
+SkillExtended/EX_GFL_Dandelion_4_1_Des,Text,,,,,,
+SkillExtended/EX_GFL_Dandelion_4_1_EnforceString,Text,,,,,,
+SkillExtended/EX_GFL_Dandelion_4_1_Name,Text,,,,,,
+SkillExtended/EX_GFL_Dandelion_4_Des,Text,,,Click to preview applicable buffs/debuffs,,点击此图标查看可以施加的增益/减益,點擊此圖標查看可以施加的增益/減益
+SkillExtended/EX_GFL_Dandelion_4_EnforceString,Text,,,,,,
+SkillExtended/EX_GFL_Dandelion_4_Name,Text,,,Preview Buffs,,预览buff,預覽buff
+SkillExtended/EX_GFL_Dandelion_4_basic_Des,Text,,,,,,
+SkillExtended/EX_GFL_Dandelion_4_basic_EnforceString,Text,,,,,,
+SkillExtended/EX_GFL_Dandelion_4_basic_Name,Text,,,,,,
+SkillExtended/SkillEn_GFL_Dandelion_0_Des,Text,,,,,,
+SkillExtended/SkillEn_GFL_Dandelion_0_EnforceString,Text,,,Enemy-targeting skill,,指向敌人的技能,指向敵人的技能
+SkillExtended/SkillEn_GFL_Dandelion_0_Name,Text,,,Refresh debuff durations on target.,,重置目标的减益的持续时间。,重置目標的減益的持續時間。
+SkillExtended/SkillEn_GFL_Dandelion_1_Des,Text,,,,,,
+SkillExtended/SkillEn_GFL_Dandelion_1_EnforceString,Text,,,Single-target attack skill,,单体攻击技能,單體攻擊技能
+SkillExtended/SkillEn_GFL_Dandelion_1_Name,Text,,,+10% damage and +33% Crit per unique debuff type (non-colorless).,,目标每有1种不同的减益类型(不包括无色减益)，伤害提升10%，暴击率提升33%。,目標每有1種不同的減益類型(不包括無色減益)，傷害提升10%，暴擊率提升33%。
+SkillKeyword/KeyWord_SF_0_Desc,Text,,,Select a skill to forget,,选择一个技能遗忘,選擇一個技能遺忘
+SkillKeyword/KeyWord_SF_0_Name,Text,,,,,,
+SkillKeyword/KeyWord_SF_Dandelion_6_Desc,Text,,,"
+During the duration: Resisting debuffs analyzes their source, triggering &dan passive.",,"
+持续期间&dan抵抗减益时也可对减益来源进行1次解析。","
+持續期間&dan抵抗減益時也可對減益來源進行1次解析。"
+SkillKeyword/KeyWord_SF_Dandelion_6_Name,Text,,,Specific Target,,特定目标,特定角色
+SkillKeyword/KeyWord_SF_Dandelion_antiVanish_Desc,Text,,,Can target enemies ignoring Stealth.,,可以无视隐匿指定敌人。,可以無視隱匿指定敵人。
+SkillKeyword/KeyWord_SF_Dandelion_antiVanish_Name,Text,,,Ignores Stealth,,无视隐匿,無視隱匿
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+

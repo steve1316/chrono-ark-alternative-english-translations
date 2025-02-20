@@ -1,0 +1,12 @@
+{
+    "B_PLANA_9_resist": {
+        "Name": "咪噜咪噜",
+        "ClassName": "PLANA.B_PLANA_9_resist",
+        "Icon": "B_PLANA_9\\B_PLANA_9_resist_Icon.png",
+        "Description": "普拉娜替你承受伤害",
+        "Tick": "null",
+        "BuffTag": "null",
+        "Caution": false,
+        "_gdeSchema": "Buff"
+    }
+}

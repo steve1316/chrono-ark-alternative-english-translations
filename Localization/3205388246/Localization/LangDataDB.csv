@@ -1,0 +1,375 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Fistelli_0_Description,Text,,,,,,
+Buff/B_Fistelli_0_Name,Text,,死亡천사,Angel of Death,,死亡天使,
+Buff/B_Fistelli_11_R_Description,Text,,'미래 베기' 또는 '과거 베기'를 하나 뽑은 후 현세베기 - 요저를 추가로 사용합니다.,"Draws one ""Future Slash"" or ""Past Slash"" and then additionally uses ""Present Slash - Demon Butterfly"".",,抽取一张'未来斩'或'过去斩'后追加使用“现世斩-妖蝶”。,
+Buff/B_Fistelli_11_R_Name,Text,,요저나비 공주,Demon Butterfly Princess,,妖蝶公主,
+Buff/B_Fistelli_12_LucyD_Description,Text,,턴 종료시 손에있는 가장 아래의 두 개의 기술을 버립니다.,Discards the two bottom skills in hand at the end of the turn.,,回合结束时丢弃手中最下面的两个技能,
+Buff/B_Fistelli_12_LucyD_Name,Text,,실패,Miss,,落空,
+Buff/B_Fistelli_P_0_Description,Text,,"방어로 받는 피해가 5 이상일 경우 피해량을 50% 감소시킵니다.
+아군이 공격 받을 때 대신 공격을 받고 이 버프를 제거합니다.
+이 버프 효과가 발동될 때마다 자신은 <color=purple>최대 체력의 10% (&a)에 해당하는 고통 데미지</color>를 받습니다.","Reduces damage taken by 50% when blocking damage of 5 or more.
+When an ally is attacked, takes the attack in their place and removes this buff.
+Each time this buff is triggered, the user takes <color=purple>pain damage equal to 10% of their max HP (&a)</color>.",,"格挡伤害值大于等于5点的伤害使其减少50%的伤害。
+有友军被攻击时，代替其承受攻击，然后消除该增益。
+每触发一次该增益的效果，则自身受到相当于<color=purple>最大体力值10%(&a)的痛苦伤害</color>。",
+Buff/B_Fistelli_P_0_Name,Text,,요도 방어,Demon Blade Parry,,妖刀招架,
+Buff/B_Fistelli_P_1_Description,Text,,"버린 카드 덱에서의 과거베기의 수: &a
+자신의 기술을 뽑을 때 '과거 베기'를 한 장 덱에서 뽑습니다.","Number of ""Past Slash"" in the discard pile: &a.
+When drawing your own skill, draw one ""Past Slash"" from the discard pile.",,"弃牌库中过去斩的数量:&a。
+抽取到自己的技能时从弃牌库中抽取一张'过去斩'。",
+Buff/B_Fistelli_P_1_Name,Text,,메아리,Echo,,回声,
+Buff/B_Fistelli_Public_Description,Text,,자신의 기술을 사용하여 적을 명중시킨 후 한 층을 줄인다.,Reduces one layer after using your own skill to hit an enemy.,,使用自己的技能命中敌人后减少一层。,
+Buff/B_Fistelli_Public_Name,Text,,죽음의 흰 깃털,White Feather of Death,,死亡白羽,
+Buff/B_Ling_Enemy_0_Name,Text,,선령의 축복,Spirit's Blessing,,仙灵祝福,
+Buff/B_Ling_Enemy_P_Description,Text,,"매 턴 시작 시 모든 아군에게 영혼의 축복을 부여합니다.
+고슴도치 한마리가 패배할 때마다 '분노'를 발동합니다.
+모든 고슴도치가 사망하면 린은 도망갑니다.","At the start of each turn, grants all allies the Spirit's Blessing.
+Releases ""Anger"" each time a hedgehog is defeated.
+Ling will flee after all hedgehogs are defeated.",,"每回合开始时为所有友军施加仙灵祝福。
+每有一个草刺猬被击败释放“生气”。
+所有草刺猬死亡后泠就会逃走。",
+Buff/B_Ling_Enemy_P_Name,Text,,이상한 소녀,Strange Girl,,奇怪的少女,
+Buff/B_Potion_Blood_Description,Text,,,,,,
+Buff/B_Potion_Blood_Name,Text,,진혈,True Blood,,真血,
+Character/Fistelli_PassiveDes,Text,,"전투 중 덱을 섞을 때, 손에 있는 비용이 0보다 큰 모든 기술에 요저 를 부여합니다. (루시 기술, 미래 베기, 과거 베기는 제외)
+미래 베기 또는 과거 베기를 한 장 뽑은 후 자신에게 '요도 방어'를 부여합니다.
+
+
+'요저'가 있는 기술의 비용이 1 감소하고 사용 시 자신에게 고통 데미지를 입힙니다.
+'요도 방어'를 가지고 있을 때 받는 피해가 감소되며, 아군이 공격을 받을 경우 그 대신 피해를 받습니다.","When the deck is shuffled during battle, grants ""Demon Curse"" to all skills in hand with a cost greater than 0 (excluding Lucy skills, Future Slash, and Past Slash).
+After drawing one ""Future Slash"" or ""Past Slash"", gains the buff ""Demon Blade Parry"".
+
+Skills with ""Demon Curse"" have their cost reduced by 1 but inflict pain damage on the user when used.
+While holding ""Demon Blade Parry"", damage taken is reduced, and if an ally is attacked, takes the attack in their place.",,"在战斗中牌库洗牌时为手中所有费用大于0的技能赋予'妖邪'(不包括露西技能，未来斩和过去斩)。
+在抽取一张未来斩或过去斩后自身获得增益'妖刀招架'。
+
+带有'妖邪'的技能费用减一使用时对自身造成痛苦伤害。
+持有'妖邪招架'时受到的伤害减少，若有友军被攻击，则代替其承受攻击。",
+Character/Fistelli_PassiveName,Text,,요저의 칼,Demon Cursed Blade,,妖邪之刀,
+Character/Fistelli_SelectInfo,Text,,"피스틀리는 기사 가문에서 태어났으며, 요도의 현세에 불행한 전조가 그 가문에 내려앉았습니다. 가문의 유일한 혈통을 보존하기 위해 피스틀리는 현재의 요도 소지자가 되었습니다. 지금은 피스틀리가 세계를 누비며 요도를 봉인하거나 파괴하기 위한 방법을 찾기 위해 노력하고 있습니다.
+요도 - 나세레네은(는) 출처가 불분명하고 전설적으로 존재하는 요도입니다. 이는 과거와 미래의 자신과 공감하며, 과거와 미래의 요도 소지자를 소환할 수 있습니다. 요도는 지속적으로 소지자의 기억을 침식시키고, 그를 역사적인 요도 소지자들과 동질화시킵니다. 마침내 요도의 과거가 되는 것입니다.
+
+피스틀리는 절대적인 개인 공격 능력과 스킬 추출 능력을 가지고 있지만, 적을 공격하는 동시에 스스로에게도 피해를 입힙니다.","Fistelli was born into a knightly family, but an unfortunate omen of the demon blade's appearance befell her family. To preserve the family's only bloodline, Fistelli became the current wielder of the demon blade. Now, Fistelli travels the world in search of a way to seal or destroy the blade.
+The demon blade—Natselene—is a mysterious and legendary existence. It resonates with its past and future selves, summoning past and future wielders of the blade. The blade continuously erodes the wielder's memories, assimilating them with past wielders, until they become part of the blade's history.
+
+Possesses absolute single-target attack and skill-drawing abilities, but damages herself while harming enemies.",,"菲斯特莉出生于骑士家族，因为妖刀现世不幸的凶兆降临在了她的家族，为保存家族唯一的血脉，菲斯特莉成为了现任的妖刀持有者。现在菲斯特莉正游遍世界只为找到封印妖刀或者摧毁它的方法。
+妖刀-那塞勒涅，来历不明且传说不断的存在。它可以与过去和未来的自己进行共鸣，然后召唤出过去和未来的妖刀持有者。妖刀会不断的侵蚀持有者的记忆并将其与历代持有者同质化，最后完全成为妖刀的过去。
+
+拥有绝对的单体攻击能力和技能抽取能力，但伤害敌人的同时也会伤害自己。",
+Character/Fistelli_Text_Battle_AllyND_0,Text,,내 뒤에 서! ,Stand behind me!,,站到我身后！,
+Character/Fistelli_Text_Battle_AllyND_1,Text,,흉조가 여전히 강림했다. ,The omen has still come to pass.,,凶兆还是降临了。,
+Character/Fistelli_Text_Battle_Cri_0,Text,,그게 너의 불운이야! ,This is your misfortune!,,这就是你的厄运！,
+Character/Fistelli_Text_Battle_Cri_1,Text,,운명적인 일격 ,A destined strike.,,注定的一击。,
+Character/Fistelli_Text_Battle_Healed_0,Text,,정말 감사합니다. ,Thank you.,,多谢。,
+Character/Fistelli_Text_Battle_Healed_1,Text,,따뜻해. ,So warm.,,好温暖。,
+Character/Fistelli_Text_Battle_Healed_2,Text,,"조심해, 너무 가까이 다가가면 너도 이 불행에 물들 수 있어. ","Be careful. If you get too close, you'll be tainted by this misfortune too.",,小心，太过靠近我的话，你也会沾染这不幸。,
+Character/Fistelli_Text_Battle_Idle_0,Text,,들리시나요? 과거와 미래에서 나오는 외침입니다. ,Can you hear it? The calls from the past and future.,,听到了吗，来自过去与未来的呼声。,
+Character/Fistelli_Text_Battle_Idle_1,Text,,"심사숙고해서, 모든 선택이 핵심이다. ",Think carefully. Every choice is crucial.,,深思熟虑，每个选择都是关键。,
+Character/Fistelli_Text_Battle_Kill_0,Text,,운명적인 죽음 ,A destined death.,,注定的死亡。,
+Character/Fistelli_Text_Battle_Kill_1,Text,,너의 미래와 작별 인사를 해라.,Say goodbye to your future.,,和你的未来说再见吧。,
+Character/Fistelli_Text_Battle_Kill_2,Text,,자유로운 나비 한 마리가 더 생겼다. ,Another free butterfly has emerged.,,又多了一只自由的蝴蝶。,
+Character/Fistelli_Text_Battle_ND_0,Text,,아직 안 됐어! ,It's not time yet!,,还没到时候！,
+Character/Fistelli_Text_Battle_ND_1,Text,,"나이프가 아직 살아있어, 난 쓰러질 수 없어! ",The demon blade still exists. I can't fall!,,妖刀还在世，我不能倒下！,
+Character/Fistelli_Text_Battle_ND_2,Text,,어... 난 아직 싸울 수 있어. ,Ugh... I can still fight.,,呃...我还能战斗。,
+Character/Fistelli_Text_Battle_Start_0,Text,,불행한 죽음... ,An unfortunate death...,,不幸的死亡...,
+Character/Fistelli_Text_Battle_Start_1,Text,,어쩌면 마주치는 모든 것은 이미 정해져 있는 것일지도 모른다. ,Perhaps everything we encounter is already destined.,,也许所遇的一切早已注定的。,
+Character/Fistelli_Text_Battle_Start_2,Text,,"괜찮아, 내가 있어. ",It's okay. I'm here.,,没事，有我在。,
+Character/Fistelli_Text_Field_GetItem_0,Text,,이제 우리는 더 강해질 수 있습니다. ,Now we can become even stronger.,,这下我们能变得更强大了。,
+Character/Fistelli_Text_Field_GetItem_1,Text,,응? 이제껏 본 적이 없는 보물,Huh? A treasure I've never seen before.,,嗯？从未见过的宝物。,
+Character/Fistelli_Text_Field_Idle_0,Text,,과거를 회상하면 볼 수 있는 것은 하나같이 익숙한 낯선 사람들뿐이다. ,"Recalling the past, all I see are familiar strangers.",,回忆过去，能看到的只有一个个熟悉的陌生人。,
+Character/Fistelli_Text_Field_Idle_1,Text,,"기사, 아주 친숙한 호칭이다.",Knight. Such a familiar title.,,骑士，好熟悉的称呼。,
+Character/Fistelli_Text_Field_Idle_2,Text,,오랫동안 그 빵집에 가지 않은 것 같다. ,It feels like it's been a long time since I visited that bakery.,,似乎好久没去那家面包店。,
+Character/Fistelli_Text_Field_Idle_3,Text,,어렵게 얻은 평온함.,Hard-earned peace.,,来之不易的宁静。,
+Character/Fistelli_Text_Field_Potion_P_0,Text,,정말 놀라운 일이죠. ,What a magical thing.,,好神奇的东西,
+Character/Fistelli_Text_PharosLeader_0,Text,,죽음은... ,Death...,,死亡...,
+Character/Fistelli_Text_PharosLeader_1,Text,,내가 무슨 짓을 한 거야! ,What have I done!,,我都干了什么！,
+Character/Fistelli_Text_PharosLeader_2,Text,,너는 가장 선명한 나비가 될 것이다. ,You will become the most vibrant butterfly.,,你将成为最鲜艳的蝴蝶。,
+Character/Fistelli_UnlockString,Text,,,,,,
+Character/Fistelli_name,Text,,피스틀리 ,Fistelli,,菲斯特莉,
+Enemy/Enemy_Ling_1_EnemyStory,Text,,정체불명의 소녀는 지나가는 곳마다 꽃밭이 자란다는 것만 알았다. ,"A mysterious girl, known only for the flower fields that grow wherever she passes.",,来历不明的少女，只知道其所经之处都会长有花丛。,
+Enemy/Enemy_Ling_1_SubName,Text,,마화선령,Demon Flower Spirit,,魔花仙灵,
+Enemy/Enemy_Ling_1_name,Text,,산,Ling,,泠,
+Enemy/S1_Dochi_L_Brave_EnemyStory,Text,,,,,,
+Enemy/S1_Dochi_L_Brave_SubName,Text,,,,,,
+Enemy/S1_Dochi_L_Brave_name,Text,,바람,Calamity,,祸,
+Enemy/S1_Dochi_L_Calm_EnemyStory,Text,,,,,,
+Enemy/S1_Dochi_L_Calm_SubName,Text,,,,,,
+Enemy/S1_Dochi_L_Calm_name,Text,,불,Maple,,枫,
+Enemy/S1_Dochi_L_Strong_EnemyStory,Text,,,,,,
+Enemy/S1_Dochi_L_Strong_SubName,Text,,,,,,
+Enemy/S1_Dochi_L_Strong_name,Text,,삼림,Zen,,禅,
+Item_Equip/ColdGun_Description,Text,,"모든 적에게 피해를 입히는 기술을 사용할 때, 추가로 모든 적에게 3 포인트의 피해를 입힙니다.
+
+<color=#919191>이 추한 모습으로 나를 변하게 해도 네 미래를 구할 순 없다.</color>","When using a skill that deals damage to all enemies, deals an additional 3 damage to all enemies.
+
+<color=#919191>“Turning me into this ugly form won’t save your future.”</color>",,"使用指向所有敌人的技能造成伤害时额外对所有敌人造成3点伤害。
+
+<color=#919191>“把我变成这幅丑陋的样子也无法拯救你的未来。”</color>",
+Item_Equip/ColdGun_name,Text,,차가운 요총,Cold Demon Gun,,冰冷妖枪,
+Item_Equip/KingRing_Description,Text,,"공격으로 인해 피해를 입을 때, 자신은 1 포인트의 고통 피해를 받습니다.
+
+<color=#919191>한탄할 만한 결말이네요. 당신은 제게 대비를 제대로 하지 않았군요.</color>","When dealing damage with an attack, take 1 pain damage.
+
+<color=#919191>“A pitiful end. You were not prepared to face me.”</color>",,"攻击造成伤害时自身受到1点痛苦伤害。
+
+<color=#919191>“可悲的下场，你并没有做好面对我的准备。”</color>",
+Item_Equip/KingRing_name,Text,,부서진 손가락 반지,Shattered Ring,,破碎指戒,
+Item_Passive/DragonTears_Description,Text,,"8개의 기술을 뽑을 때마다, 모든 아군의 체력을 2 회복합니다.
+
+<color=#919191>같은 결말, 여전히 순진한 모습을 보입니다.</color>","For every 8 skills drawn, restores 2 HP to all allies.
+
+<color=#919191>“The same ending, still as naive as before.”</color>",,"每抽取8个技能，恢复所有友军2点体力值。
+
+<color=#919191>“相同的结局，还是和以前一样天真。”</color>",
+Item_Passive/DragonTears_name,Text,,용의 눈물,Dragon’s Tears,,龙泪,
+Item_Passive/FlowerTower_Description,Text,,"4개의 기술을 버리거나 교환할 때마다, 기술을 1개 뽑습니다.
+한 턴에 한 번만 발동할 수 있습니다.
+
+<color=#919191>여기에 날 버리면 나가지 못할 거라고 생각했나요?</color>","For every 4 skills discarded or exchanged, draw 1 skill.
+Can only trigger once per turn.
+
+<color=#919191>“Did you think I couldn’t escape if you left me here?”</color>",,"每丢弃或交换四个技能就抽取一个技能。
+每回合仅限触发一次。
+
+<color=#919191>“你以为把我丢在这里我就出不来了吗。”</color>",
+Item_Passive/FlowerTower_name,Text,,화탑,Flower Tower,,花塔,
+Item_Potions/Potion_Blood_Description,Text,,"최대 체력을 10 증가시킵니다.
+
+<color=#919191>진정한 힘의 증명.</color>","Increases max HP by 10.
+
+<color=#919191>“Proof of true power.”</color>",,"增加10点最大体力值。
+
+<color=#919191>“货真价实的力量。”</color>",
+Item_Potions/Potion_Blood_name,Text,,진혈,True blood,,真血,
+Skill/S_Fistelli_0_0_Description,Text,,"2 마나를 소비하여 사용할 수 있으며, 손에 있는 기술 카드의 수에 따라 미래베기-죽음 기술을 덱에 같은 수만큼 추가합니다.","Costs 2 mana to use. Adds an equal number of ""Future Slash - Death"" skills to the deck based on the number of skill cards in hand.",,需要消耗两点法力值才能使用，根据手牌中技能的数量，往牌库中加入等量的技能“未来斩-死亡”。,
+Skill/S_Fistelli_0_0_Name,Text,,요새의 메아리,Demon’s Echo,,妖邪回响,
+Skill/S_Fistelli_0_1_Description,Text,,"4개의 기술을 뽑은 후, 손카드 가장 아래의 2개의 기술을 버립니다. 기술을 모두 버린 후에도 적이 사망하지 않았다면, 자신은 <color=purple>최대 체력의 절반에 해당하는 고통 피해</color>를 입습니다.","Draw 4 skills, then discard the 2 bottom skills in hand. If no enemies die after discarding, take <color=purple>pain damage equal to half of your max HP</color>.",,抽取四个技能，然后丢弃手牌最下面的两个技能，在丢弃完技能后若没有敌人死亡，则自身受到相当于<color=purple>自身最大体力值一半的痛苦伤害</color>。,
+Skill/S_Fistelli_0_1_Name,Text,,죽음의 천사,Angel of Death,,死亡天使,
+Skill/S_Fistelli_0_Description,Text,,"소비한 마나를 되돌려주고, 선택한 효과를 발동합니다:
+-2 마나를 소비하여 사용할 수 있으며, 손에 있는 기술 카드의 수에 따라 '미래베기-죽음' 기술을 덱에 같은 수만큼 추가합니다.
+-4개의 기술을 뽑은 후, 손카드 가장 아래의 2개의 기술을 버립니다. 기술을 모두 버린 후에도 적이 사망하지 않았다면, 자신은 <color=purple>최대 체력의 절반에 해당하는 고통 피해</color>를 입습니다.","Refunds the mana cost and triggers one of the following effects:
+-Costs 2 mana to use. Adds an equal number of ""Future Slash - Death"" skills to the deck based on the number of skill cards in hand.
+-Draw 4 skills, then discard the 2 bottommost skills in hand. If no enemies die after discarding, take <color=purple>pain damage equal to half of your max HP</color>.",,"返还消耗的法力值，选择一个效果触发:
+-需要消耗两点法力值才能使用，根据手牌中技能的数量，往牌库中加入等量的技能“未来斩-死亡”。
+-抽取四个技能，然后丢弃手牌最下面的两个技能，在丢弃完技能后若没有敌人死亡，则自身受到相当于<color=purple>自身最大体力值一半的痛苦伤害</color>。",
+Skill/S_Fistelli_0_Name,Text,,미래베기-죽음천사,Future - Death Angel,,未来-死亡天使,
+Skill/S_Fistelli_10_R_Description,Text,,"손에 해당 기술만 남은 경우, 그 기술을 버리고 4개의 기술을 뽑습니다.
+손에 있는 기술의 수가 8개 이상인 경우, 그 기술을 버리고 마나를 4 회복합니다.
+만약 해당 기술이 '흐릿한 길' 또는 '먹보의 기억' 기술과 인접해 있다면, 해당 인접 기술의 효과를 발동하고 그 기술을 버립니다.
+
+<color=#919191>나는 과거를 잃었고, 미래도 잃을 것인가요? 남은 건 이 잠시 동안의 현재뿐인가요?</color>","If this is the only skill in hand, discard it and draw 4 skills.
+If you have 8 or more skills in hand, discard this skill and restore 4 mana.
+If this skill is adjacent to ""Blurred Path"" or ""Eroded Memory"", trigger the effect of the adjacent skill and discard it.
+
+<color=#919191>“I’ve lost the past, and I will lose the future. All that remains is this fleeting present?”</color>",,"当手中的技能只有该技能时，将该技能丢弃然后抽取四个技能。
+当手中的技能数大于等于8时，将该技能丢弃然后恢复四点法力值。
+若该技能与技能“模糊的前路”或“蚕食的回忆”相邻，则触发对应相邻技能的效果并将其丢弃。
+
+<color=#919191>“我失去了过去，也将失去未来，所剩的只有这短暂的现在吗？”</color>",
+Skill/S_Fistelli_10_R_Name,Text,,노을의 추억나비,Sunset’s Chasing Butterfly,,落日的追蝶,
+Skill/S_Fistelli_11_R_0_Description,Text,,"'미래베기' 또는 '과거베기' 카드를 뽑은 후, '현세베기-요괴나비'를 추가로 사용합니다.","Draw one ""Future Slash"" or ""Past Slash"", then additionally use ""Present Slash - Demon Butterfly"".",,抽取一张'未来斩'或'过去斩'后追加使用“现世斩-妖蝶”。,
+Skill/S_Fistelli_11_R_0_Name,Text,,요괴나비의 메아리,Demon Butterfly’s Echo,,妖蝶回响,
+Skill/S_Fistelli_11_R_1_Description,Text,,손에 있는 모든 '요혈나비'와 '요재나비' 기술을 버립니다. 버린 기술의 유형에 따라 '현세베기-혈요괴나비' 또는 '현세베기-재요괴나비'를 같은 수만큼 손에 넣습니다.,"Discard all ""Demon Blood Butterfly"" and ""Demon Disaster Butterfly"" skills in hand. Based on the discarded skills, add an equal number of ""Present Slash - Blood Demon Butterfly"" or ""Present Slash - Disaster Demon Butterfly"" to your hand.",,丢弃手中所有的“妖血蝶”和“妖灾蝶”技能，根据丢弃的技能类型将等量的“现世斩-血妖蝶”或“现世斩-灾妖蝶”置入手中。,
+Skill/S_Fistelli_11_R_1_Name,Text,,요괴나비 공주,Demon Butterfly Princess,,妖蝶公主,
+Skill/S_Fistelli_11_R_2_Description,Text,,"모든 손패를 버리고, '현세요-침묵한 달메마른 나비' 기술을 손에 넣습니다.
+
+<color=#919191>둥근 달이 나타나며, 모든 것은 끝나게 될 것입니다.</color>","Discard all cards in hand, then add the skill ""Present Demon - Silent Moon Withered Butterfly"" to your hand.
+
+<color=#919191>“The full moon appears, and everything will end.”</color>",,"将所有手牌丢弃，然后将技能“现世妖-寂月枯蝶”置入手中。
+
+<color=#919191>“圆月尽现，一切都将结束。”</color>",
+Skill/S_Fistelli_11_R_2_Name,Text,,월요현현,Moon Demon Manifestation,,月妖显现,
+Skill/S_Fistelli_11_R_Description,Text,,"해당 기술을 사용할 때마다 비용이 전투 중에 1씩 증가합니다.
+선택한 효과를 발동합니다:
+-'미래베기' 또는 '과거베기' 카드를 뽑은 후, '현세베기-요괴나비'를 추가로 사용합니다.
+-손에 있는 모든 '요혈나비'와 '요재나비' 기술을 버립니다. 버린 기술의 유형에 따라 '현세베기-혈요괴나비' 또는 '현세베기-재요괴나비'를 같은 수만큼 손에 넣습니다.
+
+<color=#919191>나는 과거의 미래이자, 미래의 과거일 것입니다.</color>","The cost of this skill increases by 1 for each use during this battle.
+Choose one effect to trigger:
+-Draw one ""Future Slash"" or ""Past Slash,"" then additionally use ""Present Slash - Demon Butterfly.""
+-Discard all ""Demon Blood Butterfly"" and ""Demon Disaster Butterfly"" skills in hand. Based on the discarded skills, add an equal number of ""Present Slash - Blood Demon Butterfly"" or ""Present Slash - Disaster Demon Butterfly"" to your hand.
+
+<color=#919191>“I am the future of the past and the past of the future.”</color>",,"每使用一次该技能的费用在本场战斗中加一。
+选择一个效果触发:
+-抽取一张'未来斩'或'过去斩'后追加使用“现世斩-妖蝶”。
+-丢弃手中所有的“妖血蝶”和“妖灾蝶”技能，根据丢弃的技能类型将等量的“现世斩-血妖蝶”或“现世斩-灾妖蝶”置入手中。
+
+<color=#919191>“我及是过去的未来，也将是未来的过去。”</color>",
+Skill/S_Fistelli_11_R_Name,Text,,현세-요괴나비 공주,Present - Demon Butterfly Princess,,现世-妖蝶公主,
+Skill/S_Fistelli_12_LucyD_Description,Text,,"추가로 4개의 기술을 뽑고, 턴 종료시 손패 가장 아래의 2개의 기술을 버립니다.
+
+<color=#919191>우리의 영원한 보물, 모든 불행을 멀리하길 바랍니다.</color>","Draw 4 skills, then discard the 2 bottommost skills in hand at the end of the turn.
+
+<color=#919191>“Our eternal treasure, may you stay far from all misfortune.”</color>",,"抽取四个技能，回合结束时丢弃手中最下面的两个技能。
+
+<color=#919191>“我们永远的珍宝，希望你能远离所有的不幸。”</color>",
+Skill/S_Fistelli_12_LucyD_Name,Text,,소원,Wish,,许愿,
+Skill/S_Fistelli_1_0_Description,Text,,"1 마나를 소비하여 사용할 수 있으며, 전장에 있는 적의 수에 따라 '미래베기-냉기' 기술을 덱에 같은 수만큼 추가합니다.","Costs 1 mana to use. Adds an equal number of ""Future Slash - Cold"" skills to the deck based on the number of enemies on the field.",,需要消耗一点法力值才能使用，根据场上敌人的数量，往牌库中加入等量的技能“未来斩-冰冷”。,
+Skill/S_Fistelli_1_0_Name,Text,,요새의 메아리,Demon’s Echo,,妖邪回响,
+Skill/S_Fistelli_1_1_Description,Text,,"덱의 맨 위에 있는 4개의 기술을 확인하고, 그 중 최대 2장의 '미래베기'를 가져옵니다.","Look at the top 4 skills in the deck, then draw up to 2 ""Future Slash"" skills.",,查看牌库最上面的四个技能，抽取其中至多两张'未来斩'。,
+Skill/S_Fistelli_1_1_Name,Text,,냉기인형,Frozen Puppet,,冰冷人偶,
+Skill/S_Fistelli_1_Description,Text,,"소비한 마나를 되돌려주고, 선택한 효과를 발동합니다:
+-1 마나를 소비하여 사용할 수 있으며, 전장에 있는 적의 수에 따라 '미래베기-냉기' 기술을 덱에 같은 수만큼 추가합니다.
+-덱의 맨 위에 있는 4개의 기술을 확인하고, 그 중 최대 2장의 '미래베기'를 가져옵니다.","Refunds the mana cost and triggers one of the following effects:
+-Costs 1 mana to use. Adds an equal number of ""Future Slash - Cold"" skills to the deck based on the number of enemies on the field.
+-Look at the top 4 skills in the deck, then draw up to 2 ""Future Slash"" skills.",,"返还消耗的法力值，选择一个效果触发:
+-需要消耗一点法力值才能使用，根据场上敌人的数量，往牌库中加入等量的技能“未来斩-冰冷”。
+-查看牌库最上面的四个技能，抽取其中至多两张'未来斩'。",
+Skill/S_Fistelli_1_Name,Text,,미래-냉기인형,Future - Frozen Puppet,,未来-冰冷人偶,
+Skill/S_Fistelli_2_0_Description,Text,,"3 마나를 소비하여 사용할 수 있으며, 덱에 있는 기술의 수의 절반에 해당하는 '미래베기-피의 갈증' 기술을 덱에 추가합니다.","Costs 3 mana to use. Adds an equal number of ""Future Slash - Bloodthirst"" skills to the deck based on half the number of skills in the deck.",,需要消耗三点法力值才能使用，根据牌库里技能数量的一半，往牌库中加入等量的技能“未来斩-喋血”。,
+Skill/S_Fistelli_2_0_Name,Text,,요새의 메아리,Demon’s Echo,,妖邪回响,
+Skill/S_Fistelli_2_1_Description,Text,,"덱에 있는 모든 기술을 확인하고, 그 중 하나를 선택하여 해당 기술의 비용을 이번 전투에서 1 증가시키고 가져옵니다.","Look at all skills in the deck, choose one skill to increase its cost by 1 for this battle and draw it.",,查看牌库中的所有技能，选择其中一个技能使其在本场战斗中费用加一并抽取。,
+Skill/S_Fistelli_2_1_Name,Text,,피의 용영,Bloodthirsty Dragon’s Shadow,,喋血龙影,
+Skill/S_Fistelli_2_Description,Text,,"소비한 마나를 되돌려주고, 선택한 효과를 발동합니다:
+-3 마나를 소비하여 사용할 수 있으며, 덱에 있는 기술의 수의 절반에 해당하는 '미래베기-피의 갈증' 기술을 덱에 추가합니다.
+-덱에 있는 모든 기술을 확인하고, 그 중 하나를 선택하여 해당 기술의 비용을 이번 전투에서 1 증가시키고 가져옵니다.","Refunds the mana cost and triggers one of the following effects:
+-Costs 3 mana to use. Adds an equal number of ""Future Slash - Bloodthirst"" skills to the deck based on half the number of skills in the deck.
+-Look at all skills in the deck, choose one skill to increase its cost by 1 for this battle and draw it.",,"返还消耗的法力值，选择一个效果触发:
+-需要消耗三点法力值才能使用，根据牌库里技能数量的一半，往牌库中加入等量的技能“未来斩-喋血”。
+-查看牌库中的所有技能，选择其中一个技能使其在本场战斗中费用加一并抽取。",
+Skill/S_Fistelli_2_Name,Text,,미래-피의 용영,Future - Bloodthirsty Dragon’s Shadow,,未来-喋血龙影,
+Skill/S_Fistelli_3_Description,Text,,"먼저 '미래베기' 두 장을 가져옵니다.
+해당 기술이 손패의 맨 위에 있을 때, 그 기술의 효과를 발동한 후 그 기술을 버립니다.","First, draw 2 ""Future Slash"" skills.
+When this skill is at the top of your hand, trigger its effect and then discard it.",,"优先抽取两张'未来斩'。
+当该技能位于手牌中的最上面时，触发该技能效果然后丢弃该技能。",
+Skill/S_Fistelli_3_Name,Text,,흐릿한 길,Blurred Path,,模糊的前路,
+Skill/S_Fistelli_4_0_Description,Text,,"1 마나를 소비하여 사용할 수 있으며, 전장에 있는 아군의 수에 따라 '과거참-화탑' 기술을 버림패에 같은 수만큼 추가합니다.","Costs 1 mana to use. Adds an equal number of ""Past Slash - Flower Tower"" skills to the discard pile based on the number of allies on the field.",,需要消耗一点法力值才能使用，根据场上友军的数量，往弃牌库中加入等量的技能“过去斩-花塔”。,
+Skill/S_Fistelli_4_0_Name,Text,,요새의 메아리,Demon’s Echo,,妖邪回响,
+Skill/S_Fistelli_4_1_Description,Text,,"패덱의 맨 위의 4장의 기술을 버림패에 놓고, 같은 수의 '과거참-화탑'을 버림패에 추가합니다.","Place the top 4 skills from the deck into the discard pile, then add an equal number of ""Past Slash - Flower Tower"" skills to the discard pile.",,将牌库顶四张技能置入弃牌库，然后将等量的“过去斩-花塔”置入弃牌库。,
+Skill/S_Fistelli_4_1_Name,Text,,꽃탑인형,Flower Tower Puppet,,花塔傀儡,
+Skill/S_Fistelli_4_Description,Text,,"소비한 마나를 되돌려주고, 선택한 효과를 발동합니다:
+-1 마나를 소비하여 사용할 수 있으며, 전장에 있는 아군의 수에 따라 '과거참-화탑' 기술을 버림패에 같은 수만큼 추가합니다.
+-패덱의 맨 위의 4장의 기술을 버림패에 놓고, 같은 수의 '과거참-화탑'을 버림패에 추가합니다.","Refunds the mana cost and triggers one of the following effects:
+-Costs 1 mana to use. Adds an equal number of ""Past Slash - Flower Tower"" skills to the discard pile based on the number of allies on the field.
+-Place the top 4 skills from the deck into the discard pile, then add an equal number of ""Past Slash - Flower Tower"" skills to the discard pile.",,"返还消耗的法力值，选择一个效果触发:
+-需要消耗一点法力值才能使用，根据场上友军的数量，往弃牌库中加入等量的技能“过去斩-花塔”。
+-将牌库顶的四张技能置入弃牌库，然后将等量的技能“过去斩-花塔”置入弃牌库。",
+Skill/S_Fistelli_4_Name,Text,,과거-꽃탑인형,Past - Flower Tower Puppet,,过去-花塔傀儡,
+Skill/S_Fistelli_5_0_Description,Text,,"2 마나를 소비하여 사용할 수 있으며, 현재 마나(소비한 2 마나 포함)에 따라 '미래베기-진피' 기술을 버림패에 같은 수만큼 추가합니다.","Costs 2 mana to use. Adds an equal number of ""Future Slash - True Blood"" skills to the discard pile based on your current mana (including the 2 mana spent).",,需要消耗两点法力值才能使用，根据当前法力值(包括被消耗的两点法力值)，往弃牌库中加入等量的技能“未来斩-真血”。,
+Skill/S_Fistelli_5_0_Name,Text,,요새의 메아리,Demon’s Echo,,妖邪回响,
+Skill/S_Fistelli_5_1_Description,Text,,모든 죽음의 위기에 처하지 않은 아군에게 <color=purple>6의 고통 데미지</color>를 입힙니다. 받은 데미지에 따라 '과거베기-진피' 기술을 버림패에 같은 수만큼 추가합니다.,"Deals <color=purple>6 pain damage</color> to all allies not in a dying state. Adds an equal number of ""Past Slash - True Blood"" skills to the discard pile based on the number of allies damaged.",,对所有不处于濒死状态的友军造成<color=purple>6点痛苦伤害</color>，根据受到伤害的友军数量将等量的技能“过去斩-真血”置入弃牌库。,
+Skill/S_Fistelli_5_1_Name,Text,,진피 대공,True Blood Archduke,,真血大公,
+Skill/S_Fistelli_5_Description,Text,,"소비한 마나를 되돌려주고, 선택한 효과를 발동합니다:
+-2 마나를 소모하여 사용할 수 있으며, 현재 마나(소모한 2 마나 포함)에 따라 '미래베기-진피' 기술을 버림패에 같은 수만큼 추가합니다.
+-죽음의 위기에 처하지 않은 모든 아군에게 6의 고통 데미지를 입힙니다. 받은 데미지에 따라 '과거베기-진피' 기술을 버림패에 같은 수만큼 추가합니다.","Refunds the mana cost and triggers one of the following effects:
+-Costs 2 mana to use. Adds an equal number of ""Future Slash - True Blood"" skills to the discard pile based on your current mana (including the 2 mana spent).
+-Deals <color=purple>6 pain damage</color> to all allies not in a dying state. Adds an equal number of ""Past Slash - True Blood"" skills to the discard pile based on the number of allies damaged.",,"返还消耗的法力值，选择一个效果触发:
+-需要消耗两点法力值才能使用，根据当前法力值(包括被消耗的两点法力值)，往弃牌库中加入等量的技能“未来斩-真血”。
+-对所有不处于濒死状态的友军造成<color=purple>6点痛苦伤害</color>，根据受到伤害的友军数量将等量的技能“过去斩-真血”置入弃牌库。",
+Skill/S_Fistelli_5_Name,Text,,과거-진피 대공,Past - True Blood Archduke,,过去-真血大公,
+Skill/S_Fistelli_6_0_Description,Text,,"3 마나를 소비하여 사용할 수 있으며, 버림패에 있는 기술의 절반 수만큼 '과거베기-소멸' 기술을 버림패에 추가합니다.","Costs 3 mana to use. Adds an equal number of ""Past Slash - Dissipation"" skills to the discard pile based on half the number of skills in the discard pile.",,需要消耗三点法力值才能使用，根据弃牌库里技能数量的一半，往弃牌库中加入等量的技能“过去斩-消散”。,
+Skill/S_Fistelli_6_0_Name,Text,,요새의 메아리,Demon’s Echo,,妖邪回响,
+Skill/S_Fistelli_6_1_Description,Text,,"버림패에 있는 모든 기술을 확인하고, 그 중 하나를 선택하여 선택한 기술의 비용에 따라 '과거베기-소멸' 기술을 버림패에 같은 수만큼 추가합니다. 그 후 자신에게 선택한 기술의 비용의 3배만큼 고통 데미지를 입힙니다.","Look at all skills in the discard pile, choose one skill, and add an equal number of ""Past Slash - Dissipation"" skills to the discard pile based on the chosen skill’s cost. Then, take <color=purple>3 times the chosen skill’s cost in pain damage</color>."," deal <color=purple>3 times the chosen skill's cost in pain damage</color>?to yourself.""",,查看弃牌库中的所有技能选择其中一个技能，根据选择技能的费用往弃牌库中加入等量的“过去斩-消散”，然后对自身<color=purple>造成3 * 技能费用的痛苦伤害</color>
+Skill/S_Fistelli_6_1_Name,Text,,소멸의 환영,Phantom of Dissipation,,消散虚影,
+Skill/S_Fistelli_6_Description,Text,,"소비한 마나를 반환하고 선택한 효과를 발동합니다:
+-3 마나를 소비하여 사용할 수 있으며, 버림패에 있는 기술의 절반 수만큼 '과거베기-소멸' 기술을 버림패에 추가합니다.
+-버림패에 있는 모든 기술을 확인하고, 그 중 하나를 선택하여 선택한 기술의 비용에 따라 '과거베기-소멸' 기술을 버림패에 같은 수만큼 추가합니다. 그 후 자신에게 선택한 기술의 비용의 3배만큼 고통 데미지를 입힙니다.","Refunds the mana cost and triggers one of the following effects:
+-Costs 3 mana to use. Adds an equal number of ""Past Slash - Dissipation"" skills to the discard pile based on half the number of skills in the discard pile.
+-Look at all skills in the discard pile, choose one skill, and add an equal number of ""Past Slash - Dissipation"" skills to the discard pile based on the chosen skill’s cost. Then, take <color=purple>3 times the chosen skill’s cost in pain damage</color>.",,"返还消耗的法力值，选择一个效果触发:
+-需要消耗三点法力值才能使用，根据弃牌库里技能数量的一半，往弃牌库中加入等量的技能“过去斩-消散”。
+-查看弃牌库中的所有技能选择其中一个技能，根据选择技能的费用往弃牌库中加入等量的“过去斩-消散”，然后对自身<color=purple>造成3 * 技能费用的痛苦伤害</color>。",
+Skill/S_Fistelli_6_Name,Text,,과거-소멸의 환영,Past - Phantom of Dissipation,,过去-消散虚影,
+Skill/S_Fistelli_7_Description,Text,,"마나를 2 회복하고, 버림패에 3 종류의 '과거베기'를 추가합니다.
+다음 턴 시작 시, 이 기술 효과를 발동하고 이 기술을 버립니다.","Restores 2 mana and adds 3 different types of ""Past Slash"" skills to the discard pile.
+At the start of the next turn, triggers this skill’s effect and then discards it.",,"恢复两点法力值，往弃牌库中加入三种不同类型的'过去斩'。
+下个回合开始时，触发该技能效果然后丢弃该技能。",
+Skill/S_Fistelli_7_Name,Text,,추억의 탐식,Eroded Memory,,蚕食的回忆,
+Skill/S_Fistelli_8_Description,Text,,"4개의 기술을 뽑은 후에만 사용할 수 있으며, 이미 8개의 기술을 뽑은 경우 사용 후 추방 효과가 있는 복사본을 손에 넣습니다. (이미 &a개의 기술을 뽑았습니다.)
+피해를 입힐 때 피해량의 절반만큼 체력을 회복합니다.","Can only be used after drawing 4 skills. If 8 skills have already been drawn, adds a copy with Exclude to your hand after use. (Already drawn &a skills.)
+When dealing damage, restores HP equal to half the damage dealt.",,"抽取了4个技能后才可以使用，若已经抽取了8个技能则使用后将一张带有放逐的复制置入手中。(已经抽取了&a个技能)
+造成伤害时恢复自身相当于伤害值一半的体力值。",
+Skill/S_Fistelli_8_Name,Text,,요혈접,Demon Blood Butterfly,,妖血蝶,
+Skill/S_Fistelli_9_Description,Text,,"강제배척을 가진 복사본을 손에 넣기 위해 사용하기 전에 기술을 4장 뽑아야합니다.
+피해를 입힐 때 해당 피해량의 절반만큼 체력을 회복합니다.","Reduces the cost by 1 for each skill added to the discard pile.
+If used at 0 cost, adds a copy with Exclude to your hand after use.",,"弃牌库中每增加一张技能则减少一点费用。
+若以零费使用则使用后将一张带有放逐的复制置入手中。",
+Skill/S_Fistelli_9_Name,Text,,요재접,Demon Disaster Butterfly,,妖灾蝶,
+Skill/S_Fistelli_P_0_Description,Text,,"기술을 뽑을 때 마나를 소모하지 않고 즉시 발동합니다 (손에서 발동되는 기술은 아닙니다).
+대상의 체력이 30% 미만인 경우 크리티컬로 적중합니다.
+기술 1개를 뽑습니다.","When drawn, activates immediately without consuming mana (does not count as a skill played from hand).
+If the target’s HP is below 30%, hits as a critical strike.
+Draws 1 skill.",,"抽取时不消耗法力值立即释放(不属于从手中释放技能)。
+若目标体力值低于30%则以暴击命中。
+抽取一个技能。",
+Skill/S_Fistelli_P_0_Name,Text,,미래베기-죽음,Future Slash - Death,,未来斩-死亡,
+Skill/S_Fistelli_P_11_R_0_Description,Text,,적중 시 적의 <color=purple>잃은 체력의 40%에 해당하는 추가 고통 데미지</color>를 입힙니다 (이 고통 데미지의 기본 값은 40을 초과하지 않습니다). 자신은 해당 고통 데미지의 절반만큼 체력을 회복합니다.,"On hit, deals additional <color=purple>pain damage equal to 40% of the enemy’s lost HP</color> (base value does not exceed 40). Restores HP equal to half of this pain damage.",,命中时根据敌人<color=purple>已损失生命值的40%造成额外的痛苦伤害</color>(该痛苦伤害的基础值最高不会超过40)，自身恢复相当于该痛苦伤害一半的体力值。,
+Skill/S_Fistelli_P_11_R_0_Name,Text,,현세베기-혈요접,Present Slash - Blood Demon Butterfly,,现世斩-血妖蝶,
+Skill/S_Fistelli_P_11_R_1_Description,Text,,적중 시 적의 <color=purple>잃은 체력의 40%에 해당하는 추가 고통 데미지</color>를 입힙니다 (이 고통 데미지의 기본 값은 40을 초과하지 않습니다). 해당 고통 데미지는 크리티컬로 적중합니다.,"On hit, deals additional <color=purple>pain damage equal to 40% of the enemy’s lost HP</color> (base value does not exceed 40). This pain damage is dealt as a critical hit.",,命中时根据敌人<color=purple>已损失生命值的40%造成额外的痛苦伤害</color>(该痛苦伤害的基础值最高不会超过40)，该痛苦伤害将以暴击命中。,
+Skill/S_Fistelli_P_11_R_1_Name,Text,,현세베기-재요접,Present Slash - Disaster Demon Butterfly,,现世斩-灾妖蝶,
+Skill/S_Fistelli_P_11_R_Description,Text,,적중 시 적의 <color=purple>잃은 체력의 20%에 해당하는 추가 고통 데미지</color>를 입힙니다 (이 고통 데미지의 기본 값은 10을 초과하지 않습니다).,"On hit, deals additional <color=purple>pain damage equal to 20% of the enemy’s lost HP</color> (base value does not exceed 10).",,命中时根据敌人<color=purple>已损失生命值的20%造成额外的痛苦伤害</color>(该痛苦伤害的基础值最高不会超过10)。,
+Skill/S_Fistelli_P_11_R_Name,Text,,현세베기-요접,Present Slash - Demon Butterfly,,现世斩-妖蝶,
+Skill/S_Fistelli_P_12_0_Description,Text,,,,,,
+Skill/S_Fistelli_P_12_0_Name,Text,,침묵한 달메마른 나비,Silent Moon Withered Butterfly,,寂月枯蝶,
+Skill/S_Fistelli_P_12_1_Description,Text,,,,,,
+Skill/S_Fistelli_P_12_1_Name,Text,,현세요-침묵한 달메마른 나비,Present Demon - Silent Moon Withered Butterfly,,现世妖-寂月枯蝶,
+Skill/S_Fistelli_P_12_Description,Text,,"패 덱에 있는 미래베기의 개수에 따라 같은 수의 이 기술을 반복하여 사용합니다 (미래베기의 개수: &a).
+버림패에 있는 과거베기의 개수에 따라 사용할 때 같은 수의 공격을 추가하며, 각 공격은 &c의 피해를 입힙니다 (과거베기의 개수: &b).
+
+<color=#919191>공포의 이스터에그입니다.</color>","Repeats this skill a number of times equal to the number of ""Future Slash"" in the deck (Future Slash count: &a).
+Adds a number of attacks equal to the number of ""Past Slash"" in the discard pile, each dealing &c damage (Past Slash count: &b).
+
+<color=#919191>A terrifying Easter egg.</color>",,"根据牌库里未来斩的数量，重复释放等量的此技能(未来斩的数量:&a)。
+根据弃牌库里过去斩的数量，使用时追加等量的攻击，每次攻击造成&c点伤害(过去斩的数量:&b)。
+
+<color=#919191>一个恐怖的彩蛋。</color>",
+Skill/S_Fistelli_P_12_Name,Text,,침묵한 달메마른 나비,Present Demon - Silent Moon Withered Butterfly,,现世妖-寂月枯蝶,
+Skill/S_Fistelli_P_1_Description,Text,,"기술을 뽑을 때 마나를 소모하지 않고 즉시 발동합니다 (손에서 발동되는 기술은 아닙니다).
+기술 1개를 뽑습니다.","Activates immediately without consuming mana when drawn (does not count as a skill played from hand).
+Draws 1 skill.",,"抽取时不消耗法力值立即释放(不属于从手中释放技能)。
+抽取一个技能。",
+Skill/S_Fistelli_P_1_Name,Text,,미래베기-냉정,Future Slash - Cold,,未来斩-冰冷,
+Skill/S_Fistelli_P_2_Description,Text,,"발동할 때 마나를 소모하지 않고 즉시 사용합니다 (손에서 사용하는 것은 아닙니다).
+적중 시 대상 적에게 <color=purple>&a의 고통 데미지</color>를 입히고, 자신에게 <color=purple>최대 체력의 10%(&b)에 해당하는 고통 데미지</color>를 입힙니다. 이 고통 데미지로 인해 자신은 전투 불능 상태가 되지 않습니다.
+기술 1개를 뽑습니다.","Activates immediately without consuming mana when drawn (does not count as a skill played from hand).
+On hit, deals <color=purple>&a pain damage</color> to the target enemy and <color=purple>10% of your max HP (&b) as pain damage</color> to yourself. You cannot be incapacitated by this pain damage.
+Draws 1 skill.",,"抽取时不消耗法力值立即释放(不属于从手中释放技能)。
+命中时对目标敌人造成<color=purple>&a点痛苦伤害</color=>,并对自身造成相当于<color=purple>最大体力值10%(&b)的痛苦伤害</color>，自身不会因该痛苦伤害而无法战斗。
+抽取一个技能。",
+Skill/S_Fistelli_P_2_Name,Text,,미래베기-혈흔,Future Slash - Bloodthirst,,未来斩-喋血,
+Skill/S_Fistelli_P_4_Description,Text,,"발동할 때 마나를 소모하지 않고 즉시 사용합니다 (손에서 사용하는 것은 아닙니다).
+버린 패 덱을 덱에 섞을 때, 기술 1개를 뽑습니다.","Activates immediately without consuming mana when drawn (does not count as a skill played from hand).
+When the discard pile is shuffled into the deck, draws 1 skill.",,"抽取时不消耗法力值立即释放(不属于从手中释放技能)。
+从弃牌库洗入牌库时获得效果-抽取一个技能。",
+Skill/S_Fistelli_P_4_Name,Text,,과거베기-화탑,Past Slash - Flower Tower,,过去斩-花塔,
+Skill/S_Fistelli_P_5_Description,Text,,"기술을 뽑을 때 마나를 소모하지 않고 즉시 발동합니다 (손에서 발동되는 기술은 아닙니다).
+피해를 입힐 때, 자신의 체력을 &a만큼 회복합니다.
+버린 패 덱을 덱에 섞을 때, 기술 1개를 뽑습니다.","Activates immediately without consuming mana when drawn (does not count as a skill played from hand).
+Restores &a HP when dealing damage.
+When the discard pile is shuffled into the deck, draws 1 skill.",,"抽取时不消耗法力值立即释放(不属于从手中释放技能)。
+造成伤害时恢复自身&a点体力值。
+从弃牌库洗入牌库时获得效果-抽取一个技能。",
+Skill/S_Fistelli_P_5_Name,Text,,과거베기-진혈,Past Slash - True Blood,,过去斩-真血,
+Skill/S_Fistelli_P_6_Description,Text,,"기술을 뽑을 때 마나를 소모하지 않고 즉시 발동합니다 (손에서 발동되는 기술은 아닙니다).
+방어를 무시하고, 자신에게 현재 체력의 20%(&a)에 해당하는 고통 데미지를 입힙니다. 이 고통 데미지로 인해 자신은 전투 불능 상태가 되지 않습니다.
+버린 패 덱을 덱에 섞을 때, 기술 1개를 뽑습니다.","Activates immediately without consuming mana when drawn (does not count as a skill played from hand).
+Ignores defense and deals <color=purple>20% of your current HP (&a) as pain damage</color> to yourself. You cannot be incapacitated by this pain damage.
+When the discard pile is shuffled into the deck, draws 1 skill.",,"抽取时不消耗法力值立即释放(不属于从手中释放技能)。
+无视防御，对自身造成相当于<color=purple>现有体力值20%(&a)的痛苦伤害</color>，自身不会因该痛苦伤害而无法战斗。
+从弃牌库洗入牌库时获得效果-抽取一个技能。",
+Skill/S_Fistelli_P_6_Name,Text,,과거베기-소멸,Past Slash - Dissipation,,过去斩-消散,
+Skill/S_Fistelli_Public_Description,Text,,<color=#919191>너는 나에게 가장 강력한 과거가 될 것이다.</color>,<color=#919191>“You will become my most powerful past.”</color>,,<color=#919191>“你将成为我最为强大的过去。”</color>,
+Skill/S_Fistelli_Public_Name,Text,,죽음의 흰 깃털 ,White Feather of Death,,死亡白羽,
+Skill/S_Ling_Enemy_0_Description,Text,,,,,,
+Skill/S_Ling_Enemy_0_Name,Text,,박수,Clap,,拍手,
+Skill/S_Ling_Enemy_1_Description,Text,,,,,,
+Skill/S_Ling_Enemy_1_Name,Text,,못쓰다,Mischief,,使坏,
+Skill/S_Ling_Enemy_2_Description,Text,,,,,,
+Skill/S_Ling_Enemy_2_Name,Text,,화내다,Anger,,生气,
+Skill/S_Potion_Blood_Description,Text,,,,,,
+Skill/S_Potion_Blood_Name,Text,,진혈,True Blood,,真血,
+SkillExtended/Fistelli_Ex_0_Des,Text,,"비용이 1 감소합니다.
+사용 시 자신에게 <color=purple>&a의 고통 데미지</color>를 입힙니다.","Reduces cost by 1.
+When used, deals <color=purple>&a pain damage</color> to yourself.",,"费用减一。
+使用时对自身造成<color=purple>&a点痛苦伤害</color>。",
+SkillExtended/Fistelli_Ex_0_EnforceString,Text,,,,,,
+SkillExtended/Fistelli_Ex_0_Name,Text,,요야,Demon Curse,,妖邪,
+SkillExtended/SkillEn_Fistelli_0_Des,Text,,,,,,
+SkillExtended/SkillEn_Fistelli_0_EnforceString,Text,,비용이 1 이상인 기술을 대상으로 합니다.,Skills with a cost of 1 or more.,,费用为1以及以上的技能,
+SkillExtended/SkillEn_Fistelli_0_Name,Text,,사용 후 우선적으로 미래베기 또는 과거베기 1장을 뽑습니다.,"After use, prioritizes drawing one ""Future Slash"" or ""Past Slash"".",,使用后优先抽取一张未来斩或者过去斩,
+SkillExtended/SkillEn_Fistelli_1_Des,Text,,,,,,
+SkillExtended/SkillEn_Fistelli_1_EnforceString,Text,,비용이 1인 기술,Skills with a cost of 1.,,费用为1的技能,
+SkillExtended/SkillEn_Fistelli_1_Name,Text,,소비한 마나를 반환합니다.,Refunds the mana cost.,,返还消耗的法力值,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+

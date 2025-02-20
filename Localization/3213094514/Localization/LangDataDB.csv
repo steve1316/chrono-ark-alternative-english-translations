@@ -1,0 +1,182 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Grayreaper_0_Description,Text,,따뜻한 기운이 느껴진다...,A warm sensation is felt...,,能感受到温暖的气息...,
+Buff/B_Grayreaper_0_Name,Text,,장작,Matchstick,,火柴,
+Buff/B_Grayreaper_4_Description,Text,,공격력이 증가합니다.,Increases attack power.,,,
+Buff/B_Grayreaper_4_Name,Text,,공격! 공격!,Attack! Attack!,,进攻！攻击！,
+Buff/B_Grayreaper_5_Description,Text,,,,,,
+Buff/B_Grayreaper_5_Name,Text,,영혼 간파,Soul Insight,,灵魂看破,
+Buff/B_Grayreaper_6_Description,Text,,방어력이 증가합니다. 피격 시 해제됩니다.,Increases defense. Removed when hit.,,防御力增加，受到攻击后解除,
+Buff/B_Grayreaper_6_Name,Text,,아프지 마세요!,"Pain, Pain, Go Away!",,疼痛，疼痛，飞走吧！,
+Buff/B_Grayreaper_8_Description,Text,,"공격 받을 확률 대폭 증가
+피격시 공격한 적에게 공격력 약화를 부여합니다.","Greatly increases the chance of being attacked.
+When hit, weakens the attacker's attack power.",,"""受到攻击的概率大幅增加
+如果受到攻击，降低敌方的攻击力。""",
+Buff/B_Grayreaper_8_Name,Text,,어린이 보호구역,Child Protection Zone,,儿童保护领域,
+Buff/B_Grayreaper_9_0_Name,Text,,꺼지지 않는 잔불,Unextinguished Embers,,不间断的余火,
+Buff/B_Grayreaper_9_Description,Text,,종료 시 '꺼지지 않는 잔불'을 부여합니다.,"Grants ""Unextinguished Embers"" when ended.",,"""一旦结束，就发出""""不间断的余火""""。""",
+Buff/B_Grayreaper_9_Name,Text,,사신의 창염,Reaper's Scorching Flame,,死神的疮炎,
+Buff/B_Grayreaper_P_Description,Text,,,,,,
+Buff/B_Grayreaper_P_Name,Text,,황금 사신의 가호,Golden Reaper's Blessing,,黄金死神的加护,
+Buff/B_Grayreaper_R_1_Description,Text,,매턴 장작을 2 부여합니다.,Grants 2 Matchsticks each turn.,,每回合获得两根火柴,
+Buff/B_Grayreaper_R_1_Name,Text,,감정 흡수,Emotion Absorption,,情绪吸收,
+Buff/B_Grayreaper_R_2_0_Description,Text,,,,,,
+Buff/B_Grayreaper_R_2_0_Name,Text,,용사의 가호,Hero's Blessing,,英雄的祝福,
+Buff/B_Grayreaper_R_2_1_Description,Text,,매턴 무작위 적을 공격합니다.,Attacks a random enemy each turn.,,当你开始转弯时，攻击一个随机的敌人.,
+Buff/B_Grayreaper_R_2_1_Name,Text,,용사 황금 사신,Golden Reaper Knight,,黄金死神骑士,
+Buff/B_Grayreaper_R_3_1_Name,Text,,확률 조작,Probability Manipulation,,概率操作,
+Buff/B_Grayreaper_R_3_2_0_Name,Text,,이!,You!,,您!,
+Buff/B_Grayreaper_R_3_2_1_Description,Text,,그저 화가 났을뿐,Just angry.,,只是生气,
+Buff/B_Grayreaper_R_3_2_1_Name,Text,,망할!,Damn it!,,可恶!,
+Buff/B_Grayreaper_R_3_2_2_Name,Text,,사신이!,Reaper!,,死神!,
+Buff/B_Grayreaper_R_3_Description,Text,,턴 시작시 패에 '기적'을 추가하고 스택이 차감됩니다.,"Adds ""Miracle"" to hand at the start of the turn and reduces stacks.",,"""在转弯开始时，将""""奇迹""""添加到包装中并扣除堆栈。""",
+Buff/B_Grayreaper_R_3_Name,Text,,소원,Wish,,愿望清单,
+Buff/B_Grayreaper_T_8_Description,Text,,,,,,
+Buff/B_Grayreaper_T_8_Name,Text,,죄책감,Guilt,,罪恶感,
+Character/Grayreaper_CampSelectWord,Text,,신비로운 오브젝트 회색사신. 미니 사신들과 함께 즐거운 한 때를.,Mysterious Object: Gray Reaper. Enjoy a pleasant time with the mini reapers.,,神秘物体灰色收割者。 与迷你收割机一起度过愉快的时光。,
+Character/Grayreaper_PassiveDes,Text,,"전투 시작시 다른 아군 수만큼 덱에 '애착 인간!' 카드를 추가합니다.
+
+매턴 자신에게 생존한 아군 수만큼 장작을 부여합니다.
+장작은 스킬 사용시 소모되어 추가적인 효과를 발생시킵니다.","At the start of battle, adds ""Chosen Human!"" cards to the deck equal to the number of other allies.
+
+Grants Matchsticks equal to the number of surviving allies each turn.
+Matchsticks are consumed when using skills, triggering additional effects.",,"""战斗开始每有一个存活的其他友军，就将1张""被选中的人!""加入卡组。
+每回合开始时，灰色死神根据其他存活友军数量获得火柴。
+使用技能时会消耗火柴，产生追加效果。""",
+Character/Grayreaper_PassiveName,Text,,밝게 빛나는 장작,Brightly Burning Matchstick,,熊熊燃烧的火柴,
+Character/Grayreaper_SelectInfo,Text,,"#이 보고서는 @& 연구소의 자산입니다. 외부로 반출 하지 마십시오.
+#이 보고서에 적힌 내용은 연구소 외부에서 읽을 경우 왜곡될 가능성이 높습니다.
+
+오브젝트 명 - 회색 사신
+오브젝트 위험 등급 : X
+
+주의사항 - 회색 사신의 관리자에게서 정신 오염의 징후가 확인되었습니다. 해당 오브젝트의 관리자에 대한 지속적인 진단과 감시가 필요합니다.
+
+관리방법 - (이 다음은 문자가 왜곡되어 읽을 수 없다.)","#This report is the property of the @& Research Institute. Do not remove it from the premises.
+#Contents of this report may be distorted if read outside the institute.
+
+Object Name: Gray Reaper
+Object Danger Level: X
+
+Caution: Signs of mental contamination have been detected in the Gray Reaper's handler. Continuous diagnosis and monitoring of the handler are required.
+Containment Procedures: (The following text is distorted and unreadable.)",,"#此报告是 @& 研究所的资料，请勿外传。
+#如果在研究所外阅读，该报告中的内容很可能被歪曲。
+
+目标名称：灰色死神
+对象危险等级: X
+
+注意 - 管理员已经被证实有被灰色死神精神污染的迹象，需要立即进行持续的观察和处理。
+
+遏制程序 - (以下文本由于失真无法阅读)",
+Character/Grayreaper_Text_Battle_AllyND_0,Text,,(인간...위험!),(Humans... dangerous!),,(人类…危险!),
+Character/Grayreaper_Text_Battle_Cri_0,Text,,(뚜쉬뚜쉬!),(Muttering...),,(自言自语),
+Character/Grayreaper_Text_Battle_Healed_0,Text,,(살랑살랑),(Softly...),,(悄悄地),
+Character/Grayreaper_Text_Battle_Idle_0,Text,,(파괴 조건은...),(Conditions for destruction...),,(毁灭的条件是...),
+Character/Grayreaper_Text_Battle_Kill_0,Text,,(뀩!),(Hmph!),,(嘿),
+Character/Grayreaper_Text_Battle_ND_0,Text,,(...도망칠까),(Should I run away...?),,(要逃跑吗?),
+Character/Grayreaper_Text_Battle_Start_0,Text,,(해로운 오브젝트!),(Hostile object!),,(敌对目标!),
+Character/Grayreaper_Text_Field_GetItem_0,Text,,(푸딩은 없으려나?),(Is there no pudding around?),,(周围没有布丁吗？),
+Character/Grayreaper_Text_Field_Idle_0,Text,,(뚜방뚜방),(Doo-doo...),,(嘟嘟),
+Character/Grayreaper_Text_Field_Potion_P_0,Text,,(우웩),(Ugh...),,(呜呜),
+Character/Grayreaper_Text_PharosLeader_0,Text,,(히히),(Hehe...),,(呵呵),
+Character/Grayreaper_Text_PharosLeader_1,Text,,(황금 사신들이 화가 난듯 회색 사신을 때리고 있다.),(The Golden Reapers seem angry and are hitting the Gray Reaper.),,(黄金死神们好像生气了，正在攻击灰色死神),
+Character/Grayreaper_Text_PharosLeader_2,Text,,(장난이 심했나?),(Was the joke too much?),,(这个玩笑开得太过火了吗？),
+Character/Grayreaper_name,Text,,회색 사신,Gray Reaper,,灰色死神的传说,
+Skill/S_Grayreaper_10_Lucydraw_Description,Text,,"전투 시작시 덱의 맨 위에 올려 놓습니다.
+덱의 모든 스킬을 확인하고 그중 2개를 선택하여 손으로 가져옵니다.","Placed at the top of the deck at the start of battle.
+Inspects all skills in the deck and selects 2 to add to hand.",,战斗开始时出现在最上方。检查甲板上的所有技能，并将其中两个带到您的手中。,
+Skill/S_Grayreaper_10_Lucydraw_Name,Text,,사신을 만나다,Encounter with the Reaper,,遇见死神,
+Skill/S_Grayreaper_1_Description,Text,,"자신의 카드를 우선으로 스킬을 1개 뽑습니다.
+
+장작 2를 소모하여 추가로 스킬을 1개 뽑습니다.
+
+이 스킬로 뽑은 스킬들에 한 턴 후 버려짐을 부여합니다.","Prioritizes drawing 1 skill from your own cards.
+
+Consumes 2 Matchsticks to draw an additional skill.
+
+Skills drawn with this skill are discarded after 1 turn.",,"""优先抽取使用者的1个技能。
+当火柴超过2根时，消耗2根火柴再抽取1个技能。
+
+这个技能赋予由这个技能选择的技能在一回合后被扔掉的技能。""",
+Skill/S_Grayreaper_1_Name,Text,,초-전도 개구리,Superconducting Frog,,超传导青蛙,
+Skill/S_Grayreaper_2_Description,Text,,"아군 전체에게 회복게이지 보호를 부여합니다.
+
+장작 6 소모시 &a의 피해를 막아주는 방벽을 생성합니다
+","Grants healing gauge protection to all allies.
+Consumes 6 Matchsticks to create a barrier that blocks &a damage.",,"""保护所有友军的体力极限。
+当火柴超过6根时，消耗6根火柴，获得&a的防护墙。""",
+Skill/S_Grayreaper_2_Name,Text,,하얀 아귀,White Maw,,白色饥荒死神,
+Skill/S_Grayreaper_3_Description,Text,,자신에게 생존한 아군 수 * 1.5만큼 장작을 부여합니다.,Grants Matchsticks equal to 1.5 times the number of surviving allies.,,每有一个存活的其他友军就获得1.5根火柴。,
+Skill/S_Grayreaper_3_Name,Text,,시간가속 사신이,Time-Accelerated Reaper,,时间加速的死神,
+Skill/S_Grayreaper_4_Description,Text,,장작 4 소모시 대상의 무작위 디버프를 해제합니다.,Consumes 4 Matchsticks to remove a random debuff from the target.,,当火柴超过4根时，消耗4根火柴，移除目标1个随机减益。,
+Skill/S_Grayreaper_4_Name,Text,,디저트와 황금사신,Dessert with the Golden Reaper,,黄金死神的饭后甜点,
+Skill/S_Grayreaper_5_Description,Text,,장작 6 소모시 대상을 기절 시킵니다.,Consumes 6 Matchsticks to stun the target.,,当火柴超过6根时，消耗6根火柴，眩晕目标。,
+Skill/S_Grayreaper_5_Name,Text,,죽음을 보는 눈,Eyes of Death Perception,,看穿死亡的眼睛,
+Skill/S_Grayreaper_6_Description,Text,,장작 6 소모시 모든 아군에게 피격시 해제되는 방어력 증가 버프를 부여합니다.,Consumes 6 Matchsticks to grant all allies a defense buff that is removed when hit.,,当火柴超过6根时，消耗6根火柴，所有友军获得防御力增益，被攻击后移除。,
+Skill/S_Grayreaper_6_Name,Text,,푸른 사신의 가호,Blue Reaper's Blessing,,蓝色死神的庇护,
+Skill/S_Grayreaper_7_Description,Text,,장작 4 소모시 생존한 다른 아군 수 만큼 절반의 피해량으로 반복하여 시전합니다.,"Consumes 4 Matchsticks to repeat the skill for each surviving ally, dealing half damage each time.",,当火柴超过4根时，消耗4根火柴，根据存活其他友军的数量，以一半的伤害重复释放。,
+Skill/S_Grayreaper_7_Name,Text,,초-전도 사신이,Superconducting Reaper,,超传导死神,
+Skill/S_Grayreaper_8_Description,Text,,장작 3 소모시 자신에게 회복게이지 보호를 부여합니다.,Consumes 3 Matchsticks to grant yourself healing gauge protection.,,当火柴超过3根时，消耗3根火柴，保护使用者的体力极限。,
+Skill/S_Grayreaper_8_Name,Text,,유치원생 사신이,Kindergarten Reaper,,幼儿园的死神,
+Skill/S_Grayreaper_9_Description,Text,,장작 2 소모시 대상에게 '사신의 창염'을 적용합니다.,"Consumes 2 Matchsticks to apply ""Reaper's Scorching Flame"" to the target.",,"""当火柴超过2根时，消耗2根火柴，将""死神的疮炎""应用于目标。""",
+Skill/S_Grayreaper_9_Name,Text,,아귀 빔!,Maw Beam!,,饥荒死神的光束!,
+Skill/S_Grayreaper_P_Description,Text,,스킬을 1개 뽑습니다.,Draws 1 skill.,,抽取一个技能,
+Skill/S_Grayreaper_P_Name,Text,,애착 인간!,Chosen Human!,,被选中的人！,
+Skill/S_Grayreaper_R_1_Description,Text,,"자신에게 장작을 5 부여합니다.
+턴 시작시 장작을 추가로 2스택 부여합니다.","Grants yourself 5 Matchsticks.
+Grants an additional 2 Matchsticks at the start of each turn.",,"""获得5根火柴。
+每回合开始时额外获得两根火柴。""",
+Skill/S_Grayreaper_R_1_Name,Text,,회색 사신 이야기,Tale of the Gray Reaper,,灰色死神的传说,
+Skill/S_Grayreaper_R_2_0_Name,Text,,용사의 검,Hero's Sword,,英雄之剑,
+Skill/S_Grayreaper_R_2_Description,Text,,장작 12 소모시 회색사신에게 매턴 무작위 적을 공격하는 버프를 부여합니다.,Consumes 12 Matchsticks to grant the Gray Reaper a buff that attacks a random enemy each turn.,,当火柴数超过12时，消耗12根火柴，获得增益当你的回合结束时随机攻击敌人。,
+Skill/S_Grayreaper_R_2_Name,Text,,황금 사신 - 제 1검,Golden Reaper - First Sword,,黄金死神-初始之剑,
+Skill/S_Grayreaper_R_3_0_Description,Text,,30만큼 방벽을 생성합니다.,Creates a barrier of 30.,,造成30个障碍。,
+Skill/S_Grayreaper_R_3_0_Name,Text,,행복한 아귀 사신,Happy Maw Reaper,,快乐的饥荒死神,
+Skill/S_Grayreaper_R_3_1_Description,Text,,아군 전체에 1턴간 치명타율 50% 증가 버프를 부여합니다.,Grants all allies a 50% critical rate buff for 1 turn.,,它给整个军队一个buff与50%的死亡率增加了一个回合。,
+Skill/S_Grayreaper_R_3_1_Name,Text,,주황 사신의 축복,Orange Reaper's Blessing,,黄色死神的祝福,
+Skill/S_Grayreaper_R_3_2_Description,Text,,적 전체에 다양한 디버프를 부여합니다.,Applies various debuffs to all enemies.,,给整个敌人以多样的分量。,
+Skill/S_Grayreaper_R_3_2_Name,Text,,붉은 사신의 장난,Red Reaper's Mischief,,赤色死神的玩耍,
+Skill/S_Grayreaper_R_3_3_Description,Text,,스킬을 3장 뽑습니다.,Draws 3 skills.,,抽取3个技能。,
+Skill/S_Grayreaper_R_3_3_Name,Text,,미니 사신의 탄생,Birth of the Mini Reaper,,小死神的诞生,
+Skill/S_Grayreaper_R_3_4_Description,Text,,내 모자!,My hat!,,我的帽子！,
+Skill/S_Grayreaper_R_3_4_Name,Text,,푸른 사신의 비애,Blue Reaper's Sorrow,,青色死神的悲哀,
+Skill/S_Grayreaper_R_3_Description,Text,,"'기적'을 패에 추가합니다.
+
+모든 장작을 소모하여 소모된 장작 수/5 만큼 '소원'을 얻습니다. 
+
+'소원'은 턴 시작시 패에 '기적'을 추가하고 스택이 차감됩니다.","Adds ""Miracle"" to hand.
+
+Consumes all Matchsticks to gain ""Wish"" equal to the number of Matchsticks consumed divided by 5.
+
+Wish adds ""Miracle"" to hand at the start of the turn and reduces stacks.",,"""在手上加上""""奇迹""""。
+
+所有木柴都是为了获得""""愿望""""而消耗的木柴数量/消耗的木柴数量。
+
+""""愿望""""在转弯开始时将""""奇迹""""添加到手部，然后扣除堆栈。""",
+Skill/S_Grayreaper_R_3_Name,Text,,노란 사신의 동경,Yellow Reaper's Longing,,黄色死神的憧憬,
+Skill/S_Grayreaper_R_3_T_Description,Text,,"다음 효과 중 랜덤한 효과가 발생합니다.
+
+- 30만큼의 방벽을 얻습니다.
+- 모든 아군의 치명타율이 한 턴간 50% 상승합니다.
+- 모든 적에게 다양한 디버프를 부여합니다.
+- 스킬을 3장 뽑습니다.
+- 푸른 사신이 모자를 잃어버립니다.","Triggers a random effect from the following:
+
+- Gain a barrier of 30.
+- Increases all allies' critical rate by 50% for 1 turn.
+- Applies various debuffs to all enemies.
+- Draws 3 skills.
+- The Blue Reaper loses their hat.",,"随机效应发生在以下效应中:
+
+- 有30个障碍。
+- 我们所有盟友的死亡率都在一瞬间上升了50%。
+- 给所有的敌人一个不同的debuff。
+- 画出3个技能。
+- 蓝色收割者丢了帽子。",
+Skill/S_Grayreaper_R_3_T_Name,Text,,기적,Miracle,,奇迹,
+SkillExtended/SkillEn_Grayreaper_0_Des,Text,,,,,,
+SkillExtended/SkillEn_Grayreaper_0_EnforceString,Text,,"<sprite name=""비용2""><sprite name=""이상"">","<sprite name=""비용2""><sprite name=""이상"">",,"<sprite name=""비용2""><sprite name=""이상"">",
+SkillExtended/SkillEn_Grayreaper_0_Name,Text,,'황금 사신의 가호'가 있다면 피해량이 30% 증가하고 마나를 1 회복합니다.,"If Golden Reaper's Blessing is active, damage increases by 30% and restores 1 mana.",,"如果有""黄金死神的加护""，伤害将增加30%，法力将恢复1。",
+SkillExtended/SkillEn_Grayreaper_1_Des,Text,,,,,,
+SkillExtended/SkillEn_Grayreaper_1_EnforceString,Text,,,,,,
+SkillExtended/SkillEn_Grayreaper_1_Name,Text,,'황금 사신의 가호'가 있다면 회복량이 20% 증가하고 스킬을 1장 뽑습니다.,"If Golden Reaper's Blessing is active, healing increases by 20% and draws 1 skill.",,"如果有""黄金死神的加护""，恢复率将增加20%，并绘制技能。",
+

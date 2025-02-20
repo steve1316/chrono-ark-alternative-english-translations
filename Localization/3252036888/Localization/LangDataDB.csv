@@ -1,0 +1,194 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Jefuty_P_1_Description,Text,,,"When successfully dodging, heal 5 HP.",,成功闪避时，治疗5,
+Buff/B_Jefuty_P_1_Name,Text,,,Catch Breath,,喘息,
+Buff/B_Jefuty_P_2_Name,Text,,,Passive,,被动,
+Buff/B_Jefuty_R1_Description,Text,,,The Mana cost of cards in your hand. <color=orange>Ignores Taunt</color><color=orange>,,"自己手中的牌ap消耗
+<color=orange>无视嘲讽</color><color=orange>",
+Buff/B_Jefuty_R1_Name,Text,,,Miracle Declaration,,神迹宣言,
+Buff/B_Jefuty_S10_1_Description,Text,,,"Cannot act.
+Removed at the start of the turn.
+Upon natural removal, restore 50% of max HP and apply Calm to self.
+Each dodge during this effect's duration grants 10% Attack Power.
+Current Dodge Count: &a",,"无法行动
+回合开始时解除，自然解除后恢复自身50%最大生命值，并为自身施加 沉稳
+存在期间每次闪避，后续会为自身提供10%攻击力
+当前闪避次数：&a",
+Buff/B_Jefuty_S10_1_Name,Text,,,Bide,,蓄势待发,
+Buff/B_Jefuty_S10_2_Name,Text,,,Calm,,沉稳,
+Buff/B_Jefuty_S1_10_Description,Text,,,"Each turn, 50% chance to gain 1 stack.",,每回合有50%概率增加一层,
+Buff/B_Jefuty_S1_10_Name,Text,,,Deep Burn,,深度烧伤,
+Buff/B_Jefuty_S1_11_Description,Text,,,,,,
+Buff/B_Jefuty_S1_11_Name,Text,,,Concussed,,受震荡,
+Buff/B_Jefuty_S1_12_Description,Text,,,<color=yellow>Ignores Taunt</color>,,<color=yellow>无视嘲讽</color>,
+Buff/B_Jefuty_S1_12_Name,Text,,,Infrared Detection,,红外探测,
+Buff/B_Jefuty_S1_1_Description,Text,,,,,,
+Buff/B_Jefuty_S1_1_Name,Text,,,Smoke Interference,,烟雾干扰,
+Buff/B_Jefuty_S1_2_Name,Text,,,Blood Taint,,血浊,
+Buff/B_Jefuty_S1_3_Name,Text,,,Dazzle,,眩目,
+Buff/B_Jefuty_S1_4_Name,Text,,,Burn,,烧伤,
+Buff/B_Jefuty_S1_5_Name,Text,,,Hinder Action,,阻碍行动,
+Buff/B_Jefuty_S1_6_1_Name,Text,,,Fatigue,,乏力,
+Buff/B_Jefuty_S1_6_Description,Text,,,"When attacked, deal &a damage to the attacker before the attack and apply Fatigue.",,受到攻击时，在攻击前对攻击者造成&a点伤害，并施加乏力,
+Buff/B_Jefuty_S1_6_Name,Text,,,Tracking Mine,,追踪绊雷,
+Buff/B_Jefuty_S1_7_Description,Text,,,"Damage taken increased by 30%. After taking damage, reduce 1 stack.",,受到伤害增加30%，受到伤害后减少一层,
+Buff/B_Jefuty_S1_7_Name,Text,,,Reverse Blood,,逆血,
+Buff/B_Jefuty_S1_8_Description,Text,,,Damage taken reduced by 10%.,,受到伤害降低10%,
+Buff/B_Jefuty_S1_8_Name,Text,,,Temporary Cover,,临时掩体,
+Buff/B_Jefuty_S1_9_Description,Text,,,,,,
+Buff/B_Jefuty_S1_9_Name,Text,,,Force Field Breach,,力场破坏,
+Buff/B_Jefuty_S2_Description,Text,,,"If unable to dodge, reduce damage taken by 40%.",,若不能闪避，则减少40%受到的伤害,
+Buff/B_Jefuty_S2_Name,Text,,,Premonition,,预知,
+Buff/B_Jefuty_S3_2_Name,Text,,,Self-Heal,,自愈,
+Buff/B_Jefuty_S4_Description,Text,,,"Records damage dealt by the caster to the target, increasing damage taken from the caster based on the recorded value.
+Current increase: &a%",,"记录施加者对目标造成的伤害，使受到的来自施加者的伤害根据记录值增加
+当前增加值：&a % ",
+Buff/B_Jefuty_S4_Name,Text,,,Nemesis,,仇敌,
+Buff/B_Jefuty_S7_Description,Text,,,"After taking damage, reduce 1 stack. Each stack increases damage dealt by 10%.",,"受到伤害后减少一层
+每层使造成伤害增加10%",
+Buff/B_Jefuty_S7_Name,Text,,,Execution Feedback,,斩杀反馈,
+Buff/B_Jefuty_S8_Description,Text,,,"After attacking, if the target is not defeated, deal additional damage equal to 100% of the caster's Attack Power and reduce 1 stack. If Supporting Fire defeats the target, the caster gains 1 stack of Execution Feedback.",,"攻击后，若目标未死亡，对其追加[施加者攻击力100%]伤害，并减少一层层数
+若此次支援射击击杀目标，则[施加者]获得一层 斩杀反馈",
+Buff/B_Jefuty_S8_Name,Text,,,Supporting Fire,,支援射击,
+Buff/B_Mosin_Description,Text,,,Next damage dealt increased by 30%.,,下一次造成伤害增加30%,
+Buff/B_Mosin_Name,Text,,,Mosin-Nagant,,莫辛纳甘,
+Buff/B_WeaponStation_Description,Text,,,"Current remaining action points: &a
+Current max barrier: &b
+Consume 1 Mana before an enemy attacks to perform an Alert Shot.",,"当前剩余行动点：&a
+当前最大屏障：&b
+在敌方攻击[buff持有者]前消耗一点行动点，进行警戒射击
+点击buff恢复一半最大屏障，不可超过上限",
+Buff/B_WeaponStation_Name,Text,,,Weapon Station,,武器站,
+Character/Jefuty_CampSelectWord,Text,,,I will carry hope... and keep moving forward.,,我会承载希望...走下去,
+Character/Jefuty_PassiveDes,Text,,,"Accuracy + (5*Level)%. After ending a turn, changes to Evasion + (5*Level)%.
+If no damage is taken from enemies, apply the following effects at the start of the next turn based on Level:
+1-3: Grants 1 stack of Catch Breath
+4-5: Grants 2 stacks of Catch Breath
+Max: Grants 2 stacks of Catch Breath. If Catch Breath stacks are full, grants 1 stack of ""Defense Debuff"".",,"命中率+（5*等级）%，结束回合后改为闪避率+（5*等级）%
+若没有受到来自敌方的伤害，下回合开始时，根据自身等级产生额外效果
+1-3 ：给予一层喘息
+4-5 ：给予两层喘息
+Max ：给予两层喘息，若喘息层数满，则给予一层“防御减益”
+",
+Character/Jefuty_PassiveName,Text,,,Treading on Thin Ice,,如履薄冰,
+Character/Jefuty_SelectInfo,Text,,,"A girl from another timeline, possessing abilities similar to Lucy's.",,穿越而来的少女，有着与露西相似的能力,
+Character/Jefuty_Text_Battle_AllyND_0,Text,,,Hold on!,,撑住！,
+Character/Jefuty_Text_Battle_Healed_0,Text,,,Thanks.,,感谢。,
+Character/Jefuty_Text_Battle_Idle_0,Text,,,We don’t have time to idle.,,我们可没时间发呆,
+Character/Jefuty_Text_Battle_Kill_0,Text,,,One shot is enough.,,一枪就够了,
+Character/Jefuty_Text_Battle_ND_0,Text,,,This time too... it’s not working...,,这次也...不行吗...,
+Character/Jefuty_Text_Battle_ND_1,Text,,,Mond... where are you...,,蒙德...你在哪...,
+Character/Jefuty_Text_Battle_Start_0,Text,,,Let’s end this quickly.,,速战速决。,
+Character/Jefuty_Text_Field_GetItem_0,Text,,,The contents of this crate should be...,,这个箱子里的东西应该是...,
+Character/Jefuty_Text_Field_Idle_0,Text,,,Time is tight. Let’s move.,,时间很紧，我们快走吧,
+Character/Jefuty_Text_Field_Potion_P_0,Text,,,Thank you.,,多谢,
+Character/Jefuty_Text_PharosLeader_0,Text,,,Must... eliminate...,,必须...消灭...,
+Character/Jefuty_Text_PharosLeader_1,Text,,,"Again, is it?",,又是这样吗,
+Character/Jefuty_Text_PharosLeader_2,Text,,,Must not stop...,,绝不能停下...,
+Character/Jefuty_name,Text,,,Jefuty,,洁芙缇,
+Item_Equip/MosinNagant_Description,Text,,,"After scoring a Critical, increases next damage dealt by 30%.",,暴击后，下一次造成的伤害提高30%,
+Item_Equip/MosinNagant_name,Text,,,Mosin-Nagant,,莫辛纳甘,
+Item_Equip/Pagodroma_Description,Text,,,"When using skills, Critical Rate increases by the highest Defense value among enemies. Damage dealt increases by 70% of the highest Defense value among enemies.",,使用技能时，暴击率增加敌方目标中的最高防御值，造成伤害的百分比增加敌方目标中的最高防御值的70%,
+Item_Equip/Pagodroma_name,Text,,,Pagodroma,,雪鹱,
+Item_Passive/WeaponStation_Description,Text,,,"Adds a ""Weapon Station"" to your hand at the start of combat.",,战斗开始时，将一张“武器站”加入手牌,
+Item_Passive/WeaponStation_name,Text,,,Weapon Station,,武器站,
+Skill/S_Jefuty_10_Description,Text,,,,,,
+Skill/S_Jefuty_10_Name,Text,,,Bide,,蓄势待发,
+Skill/S_Jefuty_1_10_Name,Text,,,Infrared Detection Module,,红外探测模块,
+Skill/S_Jefuty_1_11_Name,Text,,,Tracking Mine,,追踪绊雷,
+Skill/S_Jefuty_1_12_Name,Text,,,Wide-Area Healing Orb,,广域治疗球,
+Skill/S_Jefuty_1_13_Description,Text,,,Randomly removes one debuff.,,随机解除一个负面状态,
+Skill/S_Jefuty_1_13_Name,Text,,,Painkiller,,止痛药,
+Skill/S_Jefuty_1_14_Name,Text,,,Stun Grenade,,震撼弹,
+Skill/S_Jefuty_1_15_Name,Text,,,Blood Grenade,,血液手雷,
+Skill/S_Jefuty_1_16_Name,Text,,,Temporary Cover,,临时掩体,
+Skill/S_Jefuty_1_17_Description,Text,,,Deals damage that ignores Defense.,,造成无视防御的伤害,
+Skill/S_Jefuty_1_17_Name,Text,,,Portable Rocket,,便携火箭弹,
+Skill/S_Jefuty_1_18_Name,Text,,,Enhanced Incendiary,,强化燃烧弹,
+Skill/S_Jefuty_1_1_Description,Text,,,Affects the target and adjacent units.,,对目标及目标左右的单位产生效果,
+Skill/S_Jefuty_1_1_Name,Text,,,Smoke Grenade,,烟雾弹,
+Skill/S_Jefuty_1_2_Description,Text,,,Affects the target and adjacent units.,,对目标及目标左右的单位产生效果,
+Skill/S_Jefuty_1_2_Name,Text,,,Fragmentation Grenade,,破片手雷,
+Skill/S_Jefuty_1_3_Name,Text,,,Healing Potion,,治疗药,
+Skill/S_Jefuty_1_4_Description,Text,,,"If the target has ""Reverse Blood"", deals an additional &a damage.",,若目标身上存在 “逆血”，额外造成&a点伤害,
+Skill/S_Jefuty_1_4_Name,Text,,,Blood Bullet,,血液子弹,
+Skill/S_Jefuty_1_5_Name,Text,,,Flash Grenade,,闪光弹,
+Skill/S_Jefuty_1_6_Description,Text,,,Mana+1,,AP+1,
+Skill/S_Jefuty_1_6_Name,Text,,,Field Ration,,行军餐,
+Skill/S_Jefuty_1_7_Description,Text,,,Draw 1 card.,,抽一牌,
+Skill/S_Jefuty_1_7_Name,Text,,,Supply Drink,,补给饮品,
+Skill/S_Jefuty_1_8_Description,Text,,,Affects the target and adjacent units.,,对目标及目标左右的单位产生效果,
+Skill/S_Jefuty_1_8_Name,Text,,,Incendiary Grenade,,燃烧弹,
+Skill/S_Jefuty_1_9_Name,Text,,,Holographic Sand,,全息砂石,
+Skill/S_Jefuty_1_Description,Text,,,"Craft temporary items:
+
+Fragmentation Grenade + Infrared Detection Module = Tracking Mine
+Fragmentation Grenade + Fragmentation Grenade = Portable Rocket
+Fragmentation Grenade + Incendiary Grenade = Enhanced Incendiary
+Fragmentation Grenade + Blood Bullet = Blood Grenade
+Healing Potion + Healing Potion = Wide-Area Healing Orb
+Healing Potion + Supply Drink = Painkiller
+Smoke Grenade + Flash Grenade = Stun Grenade
+Holographic Sand + Infrared Detection Module = Temporary Cover",,"制作临时道具
+破片手雷+红外探测模块=追踪绊雷
+破片手雷+破片手雷=便携火箭弹
+破片手雷+燃烧弹=强化燃烧弹
+破片手雷+血液子弹=血液手雷
+治疗药+治疗药=广域治疗球
+治疗药+补给饮品=止痛药
+烟雾弹+闪光弹=震撼弹
+全息砂石+红外探测模块=临时掩体
+",
+Skill/S_Jefuty_1_Name,Text,,,Reverse Collapse,,逆向坍塌,
+Skill/S_Jefuty_2_Description,Text,,,Excluded after being used twice in combat.,,战斗中释放两次后放逐,
+Skill/S_Jefuty_2_Name,Text,,,Danger Premonition,,危险预知,
+Skill/S_Jefuty_3_Description,Text,,,"Drawn at combat start.
+Can be used while unable to act.
+Deals &a Pain damage to self and removes all debuffs.",,"战斗开始时抽取
+此技能可以在无法行动状态下释放
+对自身造成&a点痛苦伤害，并解除自身所有减益",
+Skill/S_Jefuty_3_Name,Text,,,Self-Harm Therapy,,自伤疗法,
+Skill/S_Jefuty_4_Description,Text,,,Drawn at combat start.,,战斗开始时抽取,
+Skill/S_Jefuty_4_Name,Text,,,Hatred,,仇恨,
+Skill/S_Jefuty_5_Description,Text,,,"This skill’s cost becomes equal to the original cost of the last non-Rare skill used from your hand.
+Repeats the last non-Rare skill used from your hand, including its enhanced/weakened effects.
+Copied skill: <color=red><b>&a</color></b>",,"此技能的消耗改为上一个从手中使用的自己的非稀有技能原本的消耗
+重复使用上一个从手中使用的自己的非稀有技能，附带原技能的强化/弱化效果
+复制技能：<color=red><b>&a</color></b>",
+Skill/S_Jefuty_5_Name,Text,,,Retrograde,,回溯,
+Skill/S_Jefuty_6_Description,Text,,,"This skill’s bonus Critical Rate equals the target’s Defense. Damage dealt increases by the target’s Defense value.
+When defeating a target, deals (40*Target Defense +40)% Attack Power as Defense-ignoring damage to all enemies.",,"此技能的额外暴击率等于目标的防御，造成伤害百分比增加目标的防御
+击杀目标时，对所有敌人造成（40*目标防御+40）%攻击力点无视防御的伤害
+",
+Skill/S_Jefuty_6_Name,Text,,,Armor-Break Critical,,崩甲爆击,
+Skill/S_Jefuty_7_Description,Text,,,Grants 1 stack of Execution Feedback per enemy killed with this skill.,,此技能每击杀一名敌人，给自身提供一层斩杀反馈,
+Skill/S_Jefuty_7_Name,Text,,,Piercing Shot,,贯通射击,
+Skill/S_Jefuty_8_1_Name,Text,,,Support,,支援,
+Skill/S_Jefuty_8_Description,Text,,,...,,。,
+Skill/S_Jefuty_8_Name,Text,,,Supporting Fire,,支援射击,
+Skill/S_Jefuty_9_Description,Text,,,"This skill cannot be dodged.
+Consumes all remaining Mana. Deals &a damage per Mana spent.
+Current damage: <b>&b</b>",,"此技能无法闪避
+此技能消耗所有剩余ap，根据技能实际消耗每点ap对目标造成&a点伤害
+当前伤害：<b>&b</b>",
+Skill/S_Jefuty_9_Name,Text,,,Collapse Barrage,,坍塌轰击,
+Skill/S_Jefuty_Lucy1_Description,Text,,,"Draw 2 cards. If none are Jefuty’s cards, draw 1 more.
+If both are Jefuty’s cards, gain 1 Mana.",,"抽2张牌，如果其中没有洁芙缇的牌，再抽一张
+如果两张都是洁芙缇的牌，ap+1
+",
+Skill/S_Jefuty_Lucy1_Name,Text,,,Recollection,,回忆,
+Skill/S_Jefuty_R1_Description,Text,,,Prioritizes drawing 2 of your own skills when used.,,使用时，优先抽取两张自己的技能,
+Skill/S_Jefuty_R1_Name,Text,,,Miracle Declaration,,神迹宣言,
+Skill/S_Jefuty_R2_Description,Text,,,"Deals &a Pain damage to self.
+Deals &b Pain damage to target.
+Generates 3 Blood Bullets.",,"对自身造成&a点痛苦伤害
+对目标造成&b点痛苦伤害
+生成3个血液子弹
+",
+Skill/S_Jefuty_R2_Name,Text,,,Blazing Blood,,如虹炽血,
+Skill/S_WeaponStation_0_Description,Text,,,,,,
+Skill/S_WeaponStation_0_Name,Text,,,Weapon Station,,武器站,
+Skill/S_WeaponStation_Name,Text,,,Alert Shot,,警戒射击,
+SkillExtended/Ex_Pagodroma_Name,Text,,,Pagodroma,,雪鹱,
+SkillExtended/Jefuty_2_Ex_Des,Text,,,Remaining uses: &a,,剩余使用&a次,
+SkillExtended/Jefuty_2_Ex_Name,Text,,,Remaining Uses,,剩余使用次数,
+

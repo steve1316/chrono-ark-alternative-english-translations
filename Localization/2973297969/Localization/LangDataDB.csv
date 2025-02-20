@@ -1,0 +1,435 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Rainbow_11_Description,Text,,,,,,
+Buff/B_Rainbow_11_Name, Text,,달무지개,Moonbow,月虹,月虹,
+Buff/B_Rainbow_12_Description,Text,,,,,,
+Buff/B_Rainbow_12_Name, Text,,무지개,Rainbow,虹,彩虹,
+Buff/B_Rainbow_1_Description, Text,,이 버프는 공격받으면 사라집니다.,This buff is removed when attacked.,次の攻撃を受けるまで続ける,持续到受到下一次攻击,
+Buff/B_Rainbow_1_Name, Text,,선탠,Sunburn,日焼け,晒伤,
+Buff/B_Rainbow_2_0_Description,Text,,,,,,
+Buff/B_Rainbow_2_0_Name, Text,,오로라,Aurora,オーロラ,极光,
+Buff/B_Rainbow_2_1_Description, Text,,고정능력이 '신속、기본기'를 획득합니다.,"Fixed ability gains ""Swiftness"" and ""Innate"".",固定能力獲得迅速、基本,固定能力获得迅速、基本功。,
+Buff/B_Rainbow_2_1_Name, Text,,오로라+,Aurora's Blessing,オーロラ加護,极光加护,
+Buff/B_Rainbow_3_Description,Text,,,,,,
+Buff/B_Rainbow_3_Name, Text,,거친 바람,Wind Resistance,风阻,风阻,
+Buff/B_Rainbow_4_Description,Text,,,,,,
+Buff/B_Rainbow_4_Name, Text,,잔잔한 바람,Gentle Breeze,そよ風に包まれる,微风环绕,
+Buff/B_Rainbow_5_Description, Text,,기절,Unable to act.,行動できない,无法行动,
+Buff/B_Rainbow_5_Name, Text,,마비,Paralyzed,まひ,麻了,
+Buff/B_Rainbow_6_0_Description, Text,,다음에 사용하는 스킬의 비용이 1 감소합니다.,The next skill used by this character costs 1 less.,次に手を出す自分のスキル費用-1。,下一个出手的自己的技能费用-1。,
+Buff/B_Rainbow_6_0_Name, Text,,비용 1 감소,Cost Reduction,法力値-1,费用降低,
+Buff/B_Rainbow_6_1_Description, Text,,자신의 스킬을 사용할 때 &a 초과치유를 얻습니다. 사용시 1스택 감소합니다.,"When using a skill, consume 1 stack and heal for 20% (&a) of the user's max HP as overheal.",自分のスキルを解放する際には、1層を消費し、使用者の最大体力値20%(&a)の超過治療を受ける。,释放自己的技能时，消耗一层增益，并受到使用者最大体力值20%（&a)的超额治疗。,
+Buff/B_Rainbow_6_1_Name, Text,,빗방울,Raindrop,紺碧の雨,甘霖,
+Buff/B_Rainbow_7_Description, Text,,이 효과를 가진 상태에서 공격받으면 교환 횟수를 1회 획득합니다.,Gain 1 Exchange count when hit.,ヒットしたときに交換回数を増やす。,被击中时增加交换次数。,
+Buff/B_Rainbow_7_Name, Text,,안개 속의 그림자,Increased Chance to be Targeted,攻撃を受ける確率が増加する,受到攻击概率增加,
+Buff/B_Rainbow_8_Description,Text,,,,,,
+Buff/B_Rainbow_8_Name, Text,,안개,Thick Fog,濃霧,浓雾,
+Buff/B_Rainbow_9_Description,Text,,,"When exchanging skills, add a ""Sunny Doll"" to your hand.
+Reduce stacks when the effect is triggered.",,"交换技能时，将一张 晴天娃娃 加入手牌。
+触发效果时减少一层。",
+Buff/B_Rainbow_9_Name,Text,,,After the Rain Comes Sunshine,,雨过天晴,
+Buff/B_Rainbow_Description, Text,,&a,&a,&a,&a,
+Buff/B_Rainbow_Name, Text,,뒤틀린 날씨,Weather of the Twisted Land,歪んだ地の天気,扭曲之地的天气,
+Buff/B_Rainbow_P_0_Description, Text,,날씨가 바뀌면 효과가 2배로 적용됩니다.,"When the weather changes to the type of the exchanged skill, the passive effect triggers twice.",天気が変わると、効果は2倍になります。,天气变化至被交换的技能的天气类型，变换天气时将触发两次被动效果。,
+Buff/B_Rainbow_P_0_Name, Text,,이상현상,Anomaly,異象,异象,
+Buff/B_Rainbow_P_1_Description, Text,,날씨가 바뀌면 효과가 3배로 적용됩니다.,"When the weather changes, the passive effect triggers three times.",天気が変わると効果が3倍になる。,变换天气时将触发三次被动效果。,
+Buff/B_Rainbow_P_1_Name, Text,,찬란함,Spectacle,奇観,奇观,
+Buff/B_Rainbow_P_2_Description,Text,,,,,,
+Buff/B_Rainbow_P_2_Name, Text,,날씨: 비,Weather: Rainy,天気：雨,天气：雨天,
+Buff/B_Rainbow_P_3_Description,Text,,,,,,
+Buff/B_Rainbow_P_3_Name, Text,,날씨: 바람,Weather: Windy,天気：強風,天气：狂风,
+Buff/B_Rainbow_P_47_Description, Text,,회복게이지 보호,Healing Gauge Protection,回復ゲージ保護,保护体力极限,
+Buff/B_Rainbow_P_47_Name, Text,,엷은 안개,Light Fog,霧,薄雾,
+Buff/B_Rainbow_P_4_Description,Text,,,,,,
+Buff/B_Rainbow_P_4_Name, Text,,날씨: 안개,Weather: Foggy,天気：濃霧,天气：大雾,
+Buff/B_Rainbow_Rare_Description, Text,,이상현상이 찬란함으로 대체되었습니다.,"The effect of Anomaly is replaced by ""Spectacle"".",今回の戦闘では異象ゲインが奇観ゲインに置き換えられた。,异象的效果替换为奇观。,
+Buff/B_Rainbow_Rare_Name, Text,,,,, ,
+Buff/B_Rainbow_Ring_Name, Text,,무지갯빛 반지 카운터,Rainbow Ring Counter,虹の指輪のカウンタ,彩虹戒指的计数器,
+Character/Rainbow_CampSelectWord,Text,,♪날씨가 맑아지는 날이 되면 아마 제가 좀 나아질 것 같아요.♪,♪I might feel better when the weather clears up.♪,♪晴れる日まで待ったほうがいいかもしれない.♪,♪等到放晴的那天也许我会比较好一点♪,
+Character/Rainbow_PassiveDes, Text,,"전투를 시작할 때 무작위 날씨를 시전하고, 날씨 스킬을 사용하여 날씨를 변경하여 해당 날씨 효과를 적용합니다:
+<color=#FFE87C>맑음</color>-모든 적에게 <color=#DC381F>피해</color>        <color=#6495ED>비</color>-모든 아군에게<color=#0041C2>방어력+3%，받는 회복량+4%</color>
+<color=#57E964>바람</color>-모든 적에게<color=#FFA62F>공격력-3%，방어력-3%，회피-5%</color>        <color=#B048B5>안개</color>-모든 아군에게 <color=#6D7B8D>보호막</color> 생성
+
+'이상현상'상태로 진입할 경우, 교환 횟수를 1회 획득합니다. 레인보우의 날씨 스킬을 '이상현상'상태에서 교환할 경우, 해당 스킬의 날씨로 변경합니다.
+이때 날씨가 바뀌면 그 효과가 2배로 적용됩니다.
+
+Lv3:전투를 시작할 때 날씨 인형을 손으로 가져옵니다.","At the start of battle, enter a random weather. When using weather skills to change the weather, gain the corresponding effects:
+
+<color=#FFE87C>Sunny</color>: All enemies take <color=#DC381F>damage</color>
+<color=#6495ED>Rainy</color>: All allies gain <color=#0041C2>+3% Defense and +4% healing received</color>
+<color=#57E964>Windy</color>: All enemies suffer <color=#FFA62F>-3% Attack, -3% Defense, and -5% Evasion</color>
+<color=#B048B5>Foggy</color>: All allies gain a <color=#6D7B8D>Shield</color>
+
+Anomaly: Gain 1 Exchange count. When exchanging Rainbow's weather skills, the weather changes to the type of the exchanged skill. During ""Anomaly"", changing the weather triggers the passive effect twice.
+
+Lv3: At the start of battle, add a ""Sunny Doll"" to your hand.","戦闘開始時にランダムな天気になり、天気類のスキルを使用して天気を変換すると相応の天気効果が得られる：
+<color=#FFE87C>晴</color>-敵全員に<color=#DC381F>ダメージを与える</color>    <color=#6495ED>雨</color>-味方全員<color=#0041C2>防御力+3%、治療量+4%</color>
+<color=#57E964>風</color>-全敵<<color=#FFA62F>攻撃力-3%、防御力-3%、回避率-5%</color>   <color=#B048B5>霧</color>-全友軍が<color=#6D7B8D>シールド</color>を獲得
+
+異象効果に入ると1回の交換回数が得られ、異象状態で虹自体の気象系技能を交換すると、交換された技能の気象型に天候が変化する。
+異象状態が変化した場合に加えられる気象効果の層数は2倍になる。
+
+Lv3：戦闘開始時に「お天気人形」を手札に加える。","战斗开始时进入随机天气，使用天气类技能 变换天气时 会获得相应效果：
+<color=#FFE87C>晴</color>-全体敌方受到<color=#DC381F>伤害</color>        <color=#6495ED>雨</color>-全体友军<color=#0041C2>防御力+3%，受到治疗量+4%</color>
+<color=#57E964>风</color>-全体敌方<color=#FFA62F>攻击力-3%，防御力-3%，闪避率-5%</color>        <color=#B048B5>雾</color>-全体友军获得<color=#6D7B8D>护盾</color>
+
+异象：获得1次交换次数，交换虹自身的天气类技能时，天气变化至被交换的技能的天气类型；异象时变换天气将触发两次被动效果。
+
+Lv3：战斗开始时将一张晴天娃娃加入手牌。",
+Character/Rainbow_PassiveName, Text,,날씨의 노래,Weather Lyrics,天気叙情詩,天气抒情诗,
+Character/Rainbow_SelectInfo, Text,,"레인보우는 날씨를 자유롭게 바꿀 수 있는 능력을 가지고 있습니다.
+
+하이킹을 하던 레인보우는 뜻밖에 파로스 교단을 마주쳤고, 조사단에 의해 구조되었습니다. 그 후 레인보우는 조사단을 돕기 위해 여행에 나섰습니다.
+
+레인보우는 4가지의 날씨를 변화시키며 전투에 영향을 미칩니다. 날씨가 바뀌면 아군에게는 도움을 제공하고, 적을 약화시킬 수 있습니다.
+
+때때로 기상이변이 일어나면, 추가적인 효과가 나타날 수 있습니다.","Rainbow, the Weather Guide, possesses the ability to freely control weather changes.
+
+During a hike, she unexpectedly encountered the Pharos Order and was rescued by members of the investigation team. She then left Tianze Garden and joined the investigation team, providing weather control to assist in battles.
+
+Using her weather control abilities, she influences battles by changing between four different weather types. The transitions between weather types weaken enemies while providing support to allies.
+
+When the weather changes anomalously, additional effects are triggered.","虹は天候の変化を自在にコントロールする能力を持っている。
+
+ある遠足の中で意外なことにファロス教団に出会い、通りかかった調査団のメンバーに救助されて天沢園を離れ、調査団に同行し、調査隊員たちの戦いを支援するための天候制御を提供した。
+
+彼女は自分の天気制御能力を利用して、異なる4種類の天気を変えて戦闘に影響を与え、天気間の変換効果は敵に打撃を与えて弱めることができると同時に隊員に補助を与えることができる。
+
+天気が異象的に変化すると、追加の効果も与えられます。","天气引路人，拥有着随意掌控天气变化的能力。
+
+在一次远足之中意外的遇到了法洛斯教团，后被经过的调查团成员解救后离开天泽园，并与调查团同行，提供天气控制以辅助调查队员们战斗。
+
+她利用自己的天气控制能力，通过变换不同的4种天气影响战斗，天气之间的变换效果可以对敌人进行打击削弱的同时还会给予队员辅助。
+
+当天气发生异象变化时，还会给予额外效果。",
+Character/Rainbow_Text_Battle_AllyND_0, Text,,"걱정하지 마, 안개가 널 지켜줄거야.","Don't worry, I'll summon fog to protect you!",心配しないで、私はあなたを守る！,别担心，我会起雾保护你！,
+Character/Rainbow_Text_Battle_AllyND_1, Text,,거기서 비켜!,Get out of that area!,そのエリアを出ろ！,离开那片区域!,
+Character/Rainbow_Text_Battle_Cri_0, Text,,이얍!,Woo!,WU!,呜呼!,
+Character/Rainbow_Text_Battle_Cri_1, Text,,좋았어!,Take this!,Got ya!,看招!,
+Character/Rainbow_Text_Battle_Healed_0, Text,,고마워!,Thank you!,THANKS!,谢谢你！,
+Character/Rainbow_Text_Battle_Healed_1, Text,,고마워.,"Whew, finally recovered.",THANKS!,呼，终于恢复过来了.,
+Character/Rainbow_Text_Battle_Idle_0, Text,,비는 멈추지 않아...,The rain won't stop...,雨はやみません……,雨是不会停的……,
+Character/Rainbow_Text_Battle_Idle_1, Text,,천천히 해도 좋아. 날씨는 좋은걸.,"Take your time, the weather is nice now.",ゆっくりして大丈夫ですが、今は天気がいいですね,慢慢来没关系，现在天气很好呢,
+Character/Rainbow_Text_Battle_Kill_0, Text,,자비를 기대하지 마!,The weather shows no mercy...,天気は情け容赦がない…,天气可不会讲情面…,
+Character/Rainbow_Text_Battle_Kill_1, Text,,멋졌어?,Am I amazing?,私はすごいでしょう？,我厉害吧?,
+Character/Rainbow_Text_Battle_Kill_2, Text,,폭풍을 피할 수는 없을 거야!,Can't escape the storm in time!,暴風圏から逃げられない！,离不开暴风圈来不及逃！,
+Character/Rainbow_Text_Battle_ND_0, Text,,아파!,Ouch...!,痛い…！,好痛...!,
+Character/Rainbow_Text_Battle_ND_1, Text,,안돼!,Did I really fall into their hands...?,だめだ,终究还是栽在他们手里了吗...,
+Character/Rainbow_Text_Battle_ND_2, Text,,오지마!,Don't come any closer!...,来るな！,别过来！...,
+Character/Rainbow_Text_Battle_Start_0, Text,,바람이 멈추지 않기를.,"Stand firm, don't get blown away by the wind.",しっかり立って、風に吹き飛ばされないように。,站稳了，别被风吹跑咯。,
+Character/Rainbow_Text_Battle_Start_1, Text,,네 머리 위에 가득한 먹구름이 보이니?,Do you see that dark cloud above your head?,あなたの頭の上の黒い雲を見ましたか?,看到你头顶那片乌云了吗~,
+Character/Rainbow_Text_Field_GetItem_0, Text,,이게 뭐지?,What's this treasure?,これは何ですか,是什么大宝贝？,
+Character/Rainbow_Text_Field_GetItem_1, Text,,이게 정말 쓸모있을까?,Can that really be used...?,それは本当に使えますか。,那个真的可以用吗...,
+Character/Rainbow_Text_Field_Idle_0, Text,,잠깐 쉬지 않을래?,How about resting here for a while?,そばで少し休みましょうか。,要不在旁边休息一会吧.,
+Character/Rainbow_Text_Field_Idle_1, Text,,내가 그 구름을 치워줄까?,Should I move this dark cloud away?,要不要我把这片乌云移开？,要不要我把这片乌云移开？,
+Character/Rainbow_Text_Field_Potion_N_0, Text,,으으으음...,Mmm...,,嗯嗯嗯,
+Character/Rainbow_Text_Field_Potion_N_1, Text,,아아.,Ah...,,啊,
+Character/Rainbow_Text_Field_Potion_P_0, Text,,이거 레몬맛이네!,It's lemon-flavored!,レモン味の！,是柠檬味的！,
+Character/Rainbow_Text_Field_Potion_P_1, Text,,혹시 리필 될까?,Is the second one half-price?,2杯目は半額ですか?,第二杯半价吗？,
+Character/Rainbow_Text_PharosLeader_0, Text,,이 폭우에선 아무도 벗어날 수 없을거야...,This heavy rain won't spare anyone...,この大雨は誰にも哀れみをかけない……,这场大雨可不会照顾任何人……,
+Character/Rainbow_Text_PharosLeader_1, Text,,아...머리가 너무 아파. 다시 해볼까?,"Ah... my head hurts, is it happening again...?",頭が痛い、またか…,啊……头好疼，又来了吗…,
+Character/Rainbow_Text_PharosLeader_2, Text,,잠들어라...,May you wake up from this heavy rain...,この大雨から目が覚めますように…,愿你能够从这场大雨中醒来…,
+Character/Rainbow_UnlockString,Text,,,,,,
+Character/Rainbow_name, Text,,레인보우,Rainbow,虹,虹,
+Item_Equip/Rainbow_Cello_Description, Text,,"<color=#919191>“레 솔 솔 시 도 시 라. 솔 라 시 시 시 시 라 시 라 솔”
+——MP3 플레이어의 음악소리</color>","<color=#919191>“Re So So Si Do Si La ，So La Si Si Si Si La Si La So”
+——A song from an MP3 player.</color>","<color=#919191>“Re So So Si Do Si La ，So La Si Si Si Si La Si La So”
+——ウォークマンから出た歌</color>","<color=#919191>“Re So So Si Do Si La ，So La Si Si Si Si La Si La So”
+——一个随身听里发出的歌谣</color>",
+Item_Equip/Rainbow_Cello_name, Text,,먼지투성이 첼로,Dusty Cello,ほこりまみれのチェロ,尘封的大提琴,
+Item_Equip/Rainbow_Ring_Description, Text,,"3회 공격받은 후, 최대 체력의 절반만큼 방벽을 생성합니다.
+
+<color=#919191>“그대에게 바친 나의 사랑은, 저 먼 옛날 속에 이미 묻혀버렸구나”
+——반지에 새겨진 문구 </color>","After being hit three times, generate a shield equal to half of max HP.
+
+<color=#919191>“I wrote my love for you in ancient times, buried deep in the Mesopotamian plains.”
+——A phrase engraved on the ring.</color>","3回ヒットすると最大体力値の半分に相当する防護壁が生成される。
+
+<color=#919191>“我给你的爱写在西元前，深埋在美索不达米亚平原”
+——リングに刻まれた文字の一節</color>","被击中三次后生成相当于最大体力值一半的防护墙。
+
+<color=#919191>“我给你的爱写在西元前，深埋在美索不达米亚平原”
+——一段刻在戒指环上的文字</color>",
+Item_Equip/Rainbow_Ring_name, Text,,무지갯빛 반지,Rainbow Ring,虹の指輪,彩虹戒指,
+Item_Friendship/Special_RainbowCamera_Description,Text,,,"A collector's edition film camera, cherished by Rainbow. Its special lens can turn photos into specific weather scenes.",,典藏款胶卷相机，虹珍藏已久，她特制的镜头可以让拍出来的相片变成特定的天气景象。,
+Item_Friendship/Special_RainbowCamera_name,Text,,,Weather Half-Frame Camera,,天气半格相机,
+Item_Passive/WeatherVaneR_Description, Text,,"스킬을 7회 사용할 때 마다 루시 스킬을 뽑습니다.
+
+<color=#919191>“어디서 가져온거야??!!”——레인보우</color>","Every 7 skills used, draw a Lucy skill from the deck.
+
+<color=#919191>“Where did you find this??!!” – Rainbow</color>","7つのスキルをリリースするごとに、ルーシースキルを1枚抽出します。
+
+<color=#919191>“どこで拾ったの？？！！”——虹</color>","每释放7个技能，从抽牌堆中抽取一张露西技能。
+
+<color=#919191>“从哪里捡到的？？！！”——虹</color>",
+Item_Passive/WeatherVaneR_name, Text,,무지개의 가장자리,Seven-Colored Wick,七色の灯心,七色灯芯,
+SimpleCampDialogue/CampDial__Azar_Dialogues_0, Text,,[B]사실 넌 여기 없겠지.,"[B]Actually, you shouldn't be here, right?",[B]実はあなたはここにいないでしょう。,[B]其实你应该不在这里吧。,
+SimpleCampDialogue/CampDial__Azar_Dialogues_1, Text,,[A]응?나는 확실히 조사단 사람이 아니다.,[A]Huh? I'm definitely not part of the investigation team.,[A]私は確かに調査団の人ではありません。,[A]嗯？我确实不是调查团的人。,
+SimpleCampDialogue/CampDial__Azar_Dialogues_2, Text,,"[B]아니, 이걸 말하는 게 아니라...","[B]No, I don't mean that...",[B]いいえ、私はこれを指していません…,[B]不，我不是指这个…,
+SimpleCampDialogue/CampDial__Blue_Dialogues_0, Text,,[B]밤에 맑은 날씨도 저한테 유용한...,[B]Clear nights... are also useful to me...,[B]夜の晴天も役に立ってくれました…,[B]晚…晚上的晴天也对我有用的…,
+SimpleCampDialogue/CampDial__Blue_Dialogues_1, Text,,[B]…,[B]Um...,[B]…,[B]那个…,
+SimpleCampDialogue/CampDial__Blue_Dialogues_2, Text,,[A]Okay。,[A]Okay.,[A]Okay。,[A]好啦。,
+SimpleCampDialogue/CampDial__Blue_Dialogues_3, Text,,[B]고마워요!,[B]Thank you!,[B]ありがとう！,[B]谢谢你！,
+SimpleCampDialogue/CampDial__Charon_Dialogues_0, Text,,[B]풍속을 좀 낮추다.,[B]Turn down the wind a bit.,[B]風速を下げて。,[B]把风调小一点。,
+SimpleCampDialogue/CampDial__Charon_Dialogues_1, Text,,[A]응?,[A]Huh?,[A]ん？,[A]嗯？,
+SimpleCampDialogue/CampDial__Charon_Dialogues_2, Text,,[B]좀 추워요.,[B]It's a bit cold.,[B]ちょっと寒いです。,[B]有点冷。,
+SimpleCampDialogue/CampDial__Charon_Dialogues_3, Text,,[A]오…。,[A]Oh... okay.,[A]…。,[A]噢…噢。,
+SimpleCampDialogue/CampDial__Dusk_Dialogues_0, Text,,[B]놀러왔어요~,[B]I came to play with you~,[B]遊びに来たよ~,[B]我来找你玩啦~,
+SimpleCampDialogue/CampDial__Dusk_Dialogues_1, Text,,[A]너 정말 나한테 놀러 온 거야?,[A]Are you really here to play with me?,[A]本当に遊びに来たの?,[A]你真的是来找我玩的吗？,
+SimpleCampDialogue/CampDial__Dusk_Dialogues_2, Text,,[A]안 믿어.,[A]I don't believe it.,[A]私は信じません。,[A]我不信。,
+SimpleCampDialogue/CampDial__Dusk_Dialogues_3, Text,,[B]그러지 마 ~,[B]Don't be like that~,[Bやめてよ~,[B]别这样嘛~,
+SimpleCampDialogue/CampDial__Hein_Dialogues_0, Text,,[B]저도 비가 올 수 있어요.,[B]The rain I bring is heavier than yours.,[B]私も雨が降ることができます。,[B]我下的雨比你的更大。,
+SimpleCampDialogue/CampDial__Hein_Dialogues_1, Text,,[A]비도 오나요?,[A]Oh? You can make it rain too?,[A]ああ？あなたも雨が降りますか。,[A]噢？你也会下雨吗？,
+SimpleCampDialogue/CampDial__Hein_Dialogues_2, Text,,[B]피비!,[B]A storm of blood and rain!,[B]血の雨！,[B]腥风血雨！,
+SimpleCampDialogue/CampDial__Hein_Dialogues_3, Text,,[B]하하하하하!,[B]Hahahaha!,[B]はははははは！,[B]哈哈哈哈哈！,
+SimpleCampDialogue/CampDial__Huz_Dialogues_0, Text,,[B]노래 부르고 싶은데...,[B]I really want to sing...,[B]歌いたい……,[B]好想唱歌……,
+SimpleCampDialogue/CampDial__Huz_Dialogues_1, Text,,[A]'검은 구름을 치워라',[A]（Move that dark cloud away）,[A]（あの黒い雲をどけて）,[A]（移开那片乌云）,
+SimpleCampDialogue/CampDial__Huz_Dialogues_2, Text,,[A]Okay。,[A]Okay.,[A]Okay。,[A]好啦。,
+SimpleCampDialogue/CampDial__Huz_Dialogues_3, Text,,[B]고마워요!,[B]Thank you!,[B]ありがとう！,[B]谢谢你！,
+SimpleCampDialogue/CampDial__Ilya_Dialogues_0, Text,,[A]너의 번개가 정말 세구나.,[A]Your lightning is so powerful.,[A]Your lightning is so powerful.,[A]你的闪电好厉害呀。,
+SimpleCampDialogue/CampDial__Ilya_Dialogues_1, Text,,[B]아니요.,[B]Not really.,[B]ない。,[B]没有啊。,
+SimpleCampDialogue/CampDial__Ilya_Dialogues_2, Text,,[A]근데 진짜 대단하다.,[A]But it really is amazing.,[A]でも本当にすごいですね。,[A]可是真的好厉害啊。,
+SimpleCampDialogue/CampDial__Ilya_Dialogues_3, Text,,[B]칭찬하지 마...,[B]Stop praising me...,[B]褒めないで……,[B]别夸我了……,
+SimpleCampDialogue/CampDial__Iron_Dialogues_0, Text,,[B]비 오는 날은 지면이 질퍽거려 갑옷이 잘 움직이지 않는다.,"[B]Rain makes the ground muddy, making it hard for armour to move.",[B]雨の日は地面がぬかるみ、甲冑が動きにくい原因になります。,[B]雨天会导致地面泥泞，导致盔甲不好行动。,
+SimpleCampDialogue/CampDial__Iron_Dialogues_1, Text,,[B]그때 가서 날씨 좀 조정해 주세요.,[B]Please adjust the weather when the time comes.,[B]その時になったら天気を調整してください。,[B]到时候麻烦你调整一下天气。,
+SimpleCampDialogue/CampDial__Iron_Dialogues_2, Text,,"[A]알았다, 알았다!","[A]Huh? Got it, got it!",[A]わかりました！,[A]嗯？收到收到！,
+SimpleCampDialogue/CampDial__Joey_Dialogues_0, Text,,[B]바람 쐬지 마.,[B]Don't make it windy.,[B]風が立つなよ.,[B]别起风啊。,
+SimpleCampDialogue/CampDial__Joey_Dialogues_1, Text,,[A]왜?,[A]Why?,[A]どうして？,[A]为什么？,
+SimpleCampDialogue/CampDial__Joey_Dialogues_2, Text,,[B]제 약 안개를 다 날려버리고...,[B]It blows away my medicinal fog...,[B]私の薬の霧を吹き飛ばしてしまった…,[B]都把我的药雾吹走了…,
+SimpleCampDialogue/CampDial__Joey_Dialogues_3, Text,,[A]Okay……,[A]Hmph... okay...,[A]わかった……,[A]哼…好吧……,
+SimpleCampDialogue/CampDial__Johan_Dialogues_0, Text,,[A]바람 좀 세워줄까?,[A]Do you need me to stop the wind?,[A]風速を遅くする必要がありますか?,[A]需要我把风停下来吗。,
+SimpleCampDialogue/CampDial__Johan_Dialogues_1, Text,,[B]이게 최선이야.감사합니다.,[B]That would be great. Thank you.,[B]これは最高です。ありがとう。,[B]这最好了。谢谢。,
+SimpleCampDialogue/CampDial__Johan_Dialogues_2, Text,,[A]괜찮아요.,"[A]No need, no need.",[A]かまいません。,[A]不用不用。,
+SimpleCampDialogue/CampDial__Leryn_Dialogues_0, Text,,[B]화요일의 그 비는 아주 오랫동안 내렸다.,[B]The rain on Tuesday lasted a long time.,[B]火曜日の雨は長い間降っていた。,[B]周二的那场雨下了很久。,
+SimpleCampDialogue/CampDial__Leryn_Dialogues_1, Text,,[A]응?,[A]Huh?,[A]ん？,[A]嗯？,
+SimpleCampDialogue/CampDial__Leryn_Dialogues_2, Text,,[A]그런데 지난 보름 동안 맑은 날이었는데…,[A]But it's been sunny for the past half month...,[A]でもこの半月は晴れていましたね…,[A]可是过去半个月都是晴天啊…,
+SimpleCampDialogue/CampDial__Leryn_Dialogues_3, Text,,"[B]아... 안아, 미안해, 내가 잘못 기억했어.","[B]Ah... sorry, I remembered wrong.",[B]あ……すみません、記憶違いです。,[B]啊……抱、抱歉，我记错了。,
+SimpleCampDialogue/CampDial__Lian_Dialogues_0, Text,,[B]맑은 날은 싸우기 좋은 날씨다.,[B]Sunny days are good for battle.,[B]晴れた日は作戦に適した良い天気です。,[B]晴天是适合作战的好天气。,
+SimpleCampDialogue/CampDial__Lian_Dialogues_1, Text,,"[A]안심해, 내가 계속 협조할게.","[A]Don't worry, I'll keep assisting.",[A]安心して、私は引き続き協力します。,[A]放心吧，我会继续协助的。,
+SimpleCampDialogue/CampDial__Miss_Dialogues_0, Text,,[A]빗물이 너의 체인톱을 망가뜨릴 수 있니?,[A]Will the rain ruin your chainsaw?,[A]雨があなたのチェーンソーを壊しますか？,[A]雨水会把你的链锯弄坏吗？,
+SimpleCampDialogue/CampDial__Miss_Dialogues_1, Text,,[B]설마 ~,[B]No way~,[B]まさか~,[B]不会呀~,
+SimpleCampDialogue/CampDial__Miss_Dialogues_2, Text,,[A]오오.,"[A]Oh, that's good then.",[A]それはよかったですね。,[A]噢噢那就好。,
+SimpleCampDialogue/CampDial__Narhan_Dialogues_0, Text,,[B]뭐가 두려운 거야...,[B]What are you afraid of...,[B]何を恐れているのか……,[B]你在害怕什么……,
+SimpleCampDialogue/CampDial__Narhan_Dialogues_1, Text,,[B]레인보우 사냥꾼이 뭐야?,[B]What is a Rainbow Hunter?,[B]虹のハンターは何ですか?,[B]彩虹猎手是什么？,
+SimpleCampDialogue/CampDial__Narhan_Dialogues_2, Text,,[A]……,[A]...,[A]……,[A]……,
+SimpleCampDialogue/CampDial__Narhan_Dialogues_3, Text,,[A]알 기회가 있을 거야.,[A]You'll have a chance to find out.,[A]あなたは知る機会があります。,[A]你有机会知道的。,
+SimpleCampDialogue/CampDial__Pheonix_Dialogues_0, Text,,[A]맑은 날이 필요하세요?,[A]Do you need a sunny day?,[A]晴れが必要ですか？,[A]你需要大晴天吗？,
+SimpleCampDialogue/CampDial__Pheonix_Dialogues_1, Text,,[B]왜... 내가 봉황이라서...,[B]Why... just because I'm a phoenix...,[B]どうして…私が鳳凰だからですか…,[B]为什么…就因为我是凤凰吗…,
+SimpleCampDialogue/CampDial__Priest_Dialogues_0, Text,,[B]오늘은 기도하기 좋은 날입니다.,[B]Today is a good day for prayer.,[B]今日は祈りを捧げる良い日です。,[B]今天是进行祷告的好日子。,
+SimpleCampDialogue/CampDial__Priest_Dialogues_1, Text,,[B]날씨도 좋아요.,[B]The weather is nice too.,[B]お天気にも恵まれました。,[B]天气也很好。,
+SimpleCampDialogue/CampDial__Priest_Dialogues_2, Text,,[B]비가 오지 않기를 바라다.(누군가를 살금살금 쳐다보다.),[B]I hope it doesn't rain (secretly staring at someone).,[B]雨が降らないことを願っています（誰かをじっと見つめています）。,[B]希望不会下雨（悄悄盯着某人）。,
+SimpleCampDialogue/CampDial__Priest_Dialogues_3, Text,,[A](몸을 떨다),[A]（Shudders）,[A]（体が震える）,[A]（身体一颤）,
+SimpleCampDialogue/CampDial__Red_Dialogues_0, Text,,[B]전투를 할 때 맑은 날씨를 유지하다.,[B]You need to keep it sunny during battle.,[B]作戦中は晴天を保つ。,[B]你要在作战的时候保持大晴天。,
+SimpleCampDialogue/CampDial__Red_Dialogues_1, Text,,[B]이렇게 하면 나는 태양의 힘을 완전히 사용할 수 있다.,"[B]This way, I can fully use the power of the sun.",[B]これで私は太陽の力を完全に使うことができます。,[B]这样我能完全使用太阳之力。,
+SimpleCampDialogue/CampDial__Red_Dialogues_2, Text,,[A]Okay。,[A]Okay... got it.,[A]Okay。,[A]好…好的。,
+SimpleCampDialogue/CampDial__Rust_Dialogues_0, Text,,"[B]내 총알은 특수 개조를 거쳐,","[B]My bullets are specially modified,",[B]私の弾丸は特殊な改造を経て、,[B]我的子弹经过特殊改装，,
+SimpleCampDialogue/CampDial__Rust_Dialogues_1, Text,,[B]큰바람과 큰비는 총알의 궤적에 아주 작은 영향을 미친다.,[B]Heavy wind and rain have little effect on the bullet's trajectory.,[B]大風大雨は弾丸の軌跡に影響が少ない。,[B]大风大雨对子弹轨迹影响很小的。,
+SimpleCampDialogue/CampDial__Rust_Dialogues_2, Text,,[B]내 걱정은 안 해도 돼.,[B]No need to worry about my issues.,[B]私の問題を心配する必要はありません。,[B]不必担心我的问题。,
+SimpleCampDialogue/CampDial__Rust_Dialogues_3, Text,,[A]와우.,[A]Wow... so advanced.,[A]高級ですね。,[A]哇哦…好高级呀。,
+SimpleCampDialogue/CampDial__SilverStein_Dialogues_0, Text,,[A]（바람이 불고 있는데...）,[A]（The wind is picking up...）,[A]（風が吹いている…）,[A]（正在起风……）,
+SimpleCampDialogue/CampDial__SilverStein_Dialogues_1, Text,,[A]시원하다.,[A]So refreshing.,[A]涼しいですね。,[A]好凉爽呀。,
+SimpleCampDialogue/CampDial__SilverStein_Dialogues_2, Text,,"[B]내가 총을 쏠 때 바람이 불지 마라, 빗맞을 것이다.","[B]Don't let the wind blow when I'm shooting, it'll throw off my aim.",[B]私は銃を撃っている間は風が立たないで、偏るから。,[B]我在开枪的时候不要起风，会打偏的。,
+SimpleCampDialogue/CampDial__SilverStein_Dialogues_3, Text,,"[A]지금 목표도 없고...""[A]Now there are no enemies……","[A]Hmph, there's no target right now...",[A]哼，现在又没有目标……,,
+SimpleCampDialogue/CampDial__Sizz_Dialogues_0, Text,,[A]이브는 무슨 날씨를 좋아해요?,[A]What kind of weather does Eve like?,[A]イブはどんな天気が好きですか。,[A]伊芙喜欢什么天气呀。,
+SimpleCampDialogue/CampDial__Sizz_Dialogues_1, Text,,[B]음... 맑은 날이 좋아요.,[B]Hmm... she likes sunny days.,[B]うん…晴れた日が好きだ,[B]嗯…它喜欢晴天,
+SimpleCampDialogue/CampDial__Sizz_Dialogues_2, Text,,[A]……,[A]...,[A]……,[A]……,
+SimpleCampDialogue/CampDial__Sizz_Dialogues_3, Text,,[A]이봐!손을 들어 하늘을 개다,[A]Hey!（Raises hand to clear the sky）,[A]おい！（空を晴れて）,[A]嘿！（举手把天空放晴）,
+SimpleCampDialogue/CampDial__Tide_Dialogues_0, Text,,[B]새 심지 찾았어?,[B]Did... did you find that new wick?,[B]新しいランプの芯は見つかりましたか?,[B]那…那个新灯芯找到了吗？,
+SimpleCampDialogue/CampDial__Tide_Dialogues_1, Text,,"[A]미안, 아직 못 찾았어...","[A]Sorry, not yet...",[A]すみません、まだ見つかりません…,[A]抱歉，还没找到…,
+SimpleCampDialogue/CampDial__Tide_Dialogues_2, Text,,[B]아.. 괜찮아요.,[B]It's... it's fine.,[B]…大丈夫です。,[B]没…没关系。,
+SimpleCampDialogue/CampDial__Tide_Dialogues_3, Text,,[B]등대는 좀 더 유지될 수 있을 것 같은데…,[B]The lighthouse can hold on a bit longer...,[B]灯台はもう少し維持できそう…,[B]灯塔还能再撑一会…,
+SimpleCampDialogue/CampDial__Trisha_Dialogues_0, Text,,[B]내가 행동할 때 맹렬한 햇빛을 쓰지 마라.,[B]Don't use intense sunlight while I'm moving.,[B]私が行動している間は猛烈な日差しを使わないでください。,[B]在我行动的时候不要用猛烈的阳光。,
+SimpleCampDialogue/CampDial__Trisha_Dialogues_1, Text,,[A]Okay……,[A]Okay...,[A]わかった……,[A]好吧……,
+SimpleCampDialogue/CampDial__Trisha_Dialogues_2, Text,,[A]저 구름 좀 옮겨야 되나?,[A]Should I move that cloud away?,[A]私はその雲を動かす必要がありますか,[A]要我转移一下那朵云吗？,
+Skill/S_Rainbow_0_Description, Text,,"<color=#FFE87C>맑음</color>·날씨
+스킬을 사용한 후:
+날씨가 바뀌면, 추가로 30%의 피해를 줍니다.
+날씨가 바뀌지 않으면, 손에 날씨 인형을 추가합니다. ","<color=#FFE87C>Sunny</color>·Weather
+After using the skill:
+If the weather changes, deal 30% additional damage.
+If the weather doesn't change, add a ""Sunny Doll"" to your hand.","<color=#FFE87C>晴れ</color>・天気
+スキルを解放した後：
+天候に変化があれば、追加で攻撃力30%のダメージを与える。
+天気が変わらなければ、天気人形を作って手札に加える。","<color=#FFE87C>晴</color>·天气
+释放技能后：
+若天气有变化，则造成攻击力30%的额外伤害。
+若天气没有改变，则生成一张 晴天娃娃 加入手牌。",
+Skill/S_Rainbow_0_Name, Text,,<sprite name=rainbowweathertext_0> 쾌청,<sprite name=rainbowweathertext_0> Sunny,<sprite name=rainbowweathertext_0>晴れ,<sprite name=rainbowweathertext_0> 晴天,
+Skill/S_Rainbow_10_1_Description, Text,,맑은 날,Sunny!,晴れ！,晴天！,
+Skill/S_Rainbow_10_1_Name, Text,,맑음,Sunny,晴れ,晴,
+Skill/S_Rainbow_10_2_Description, Text,,비오는 날,Rainstorm!,雨！,雨天！,
+Skill/S_Rainbow_10_2_Name, Text,,비,Rainy,雨,雨,
+Skill/S_Rainbow_10_3_Description, Text,,바람부는 날,Gale!,暴風!,狂风！,
+Skill/S_Rainbow_10_3_Name, Text,,바람,Windy,風,风,
+Skill/S_Rainbow_10_4_Description, Text,,안개낀 날,Heavy Fog!,深い霧！,大雾！,
+Skill/S_Rainbow_10_4_Name, Text,,안개,Foggy,霧,雾,
+Skill/S_Rainbow_10_Description, Text,,날씨를 선택하여 변경합니다.,Choose a weather type and change to it.,天気を選択して、この天気に変換します。,选择一个天气，并变换为此天气。,
+Skill/S_Rainbow_10_Name, Text,,날씨 인형,Sunny Doll,お天気人形,晴天娃娃,
+Skill/S_Rainbow_11_Rare_Description,Text,,,,,,
+Skill/S_Rainbow_11_Rare_Main_Description, Text,,"카드를 1장 드로우 합니다.
+이번 전투에서, '이상현상'을 '찬란함'으로 대체합니다.
+다음 중 하나를 선택합니다: 모든 적에게 달무지개 디버프 적용, 혹은 모든 아군에게 무지개 버프 적용","Draw a skill.
+For this battle, replace Anomaly with ""Spectacle"".
+Choose one:
+-Apply ""Moonbow"" debuff to all enemies.
+-Apply ""Rainbow"" buff to all allies.","スキルを抽出します。
+今回の戦闘では異象ゲインが奇観ゲインに置き換えられた。
+すべての敵に月虹減益をかけるか、すべての友軍に虹利得をかけるかのいずれかを選択します。","抽取一个技能。
+本次战斗中异象增益替换为奇观增益。
+选择一项：
+ -对所有敌人施加月虹减益
+ -对所有友军施加彩虹增益。",
+Skill/S_Rainbow_11_Rare_Main_Name, Text,,<color=#FF0000>R</color><color=#FFA500>A</color><color=#FFFF00>I</color><color=#00FF00>N</color><color=#00FFFF>B</color><color=#0000FF>O</color><color=#FF00FF>W</color>,<color=#FF0000>R</color><color=#FFA500>A</color><color=#FFFF00>I</color><color=#00FF00>N</color><color=#00FFFF>B</color><color=#0000FF>O</color><color=#FF00FF>W</color>,<color=#FF0000>R</color><color=#FFA500>A</color><color=#FFFF00>I</color><color=#00FF00>N</color><color=#00FFFF>B</color><color=#0000FF>O</color><color=#FF00FF>W</color>,<color=#FF0000>R</color><color=#FFA500>A</color><color=#FFFF00>I</color><color=#00FF00>N</color><color=#00FFFF>B</color><color=#0000FF>O</color><color=#FF00FF>W</color>,
+Skill/S_Rainbow_11_Rare_Name, Text,,달무지개,Moonbow,月虹,月虹,
+Skill/S_Rainbow_12_Rare_Description,Text,,,,,,
+Skill/S_Rainbow_12_Rare_Name, Text,,무지개,Rainbow,虹,彩虹,
+Skill/S_Rainbow_13_Rare_Description, Text,,"맑음, 비, 바람, 안개 중 하나를 선택하여 날씨를 변경합니다. 사용 후 다시 손으로 돌아옵니다. 5회 사용할 수 있습니다.","Choose from ""Sunny"", ""Rainy"", ""Windy"", or ""Foggy"" to change the weather. Returns to hand after use. Excluded after 5 uses.",晴れ、雨、風、霧から変換を選択します。使用後は手札に戻ります。5回使用して追放する。,从晴、雨、风、雾中选择一种变换。使用后回到手牌。使用5次后放逐。,
+Skill/S_Rainbow_13_Rare_Name, Text,,일기예보,Weather Forecast,天気予報,天气预报,
+Skill/S_Rainbow_14_Rare_Description, Text,,"이상현상, 교환횟수를 2회 획득합니다.
+이번 턴과 이전 턴 사이의 날씨 변화를 다시 실행합니다.
+뒤틀린 날씨 효과：&a","Enter Anomaly. Gain 2 Exchange counts.
+Replay the weather changes from this turn and the previous turn.
+Twisted Land Weather Log: &a","異象に入る。交換回数+2。
+このラウンドと前ラウンドの天気変化をもう一度実行します。
+天気記録：&a","进入异象。交换次数+2。
+将本回合与上回合内的天气变化重新执行一次。
+扭曲之地天气记录：&a",
+Skill/S_Rainbow_14_Rare_Name, Text,,날씨 조종,Weather Replay,天候が再現される,天气重现,
+Skill/S_Rainbow_1_Description, Text,,"<color=#DC381F>쾌청</color>·이상현상
+스킬을 사용한 후:
+날씨가 바뀌면, 버려진 카드를 보고 조사자의 스킬을 선택하여 손으로 가지고 옵니다.
+날씨가 바뀌지 않으면, 대상에게 선탠 디버프를 부여합니다.","<color=#DC381F>Sunny</color>·Anomaly
+After using the skill:
+If the weather changes: Look at the discard pile and choose a common skill from an investigator to add to your hand.
+If the weather doesn't change, apply ""Sunburn"" debuff to the target.","<color=#DC381F>晴れ</color>・異象
+スキルを解放した後：
+天気が変わった場合：廃棄されたデッキを表示し、調査隊員の一般的なスキルを選択して手に入れます。
+変換が発生していなければ、目標日焼け効果を与える。","<color=#DC381F>晴</color>·异象
+释放技能后：
+若天气变换：则查看弃牌堆，并选择一张调查队员的普通技能加入手牌中。
+若没有发生变换，则给予目标晒伤减益。",
+Skill/S_Rainbow_1_Name, Text,,<sprite name=rainbowweathertext_1> 폭염,<sprite name=rainbowweathertext_1> Scorching Sun,<sprite name=rainbowweathertext_1>灼熱の太陽,<sprite name=rainbowweathertext_1> 锈红晴阳,
+Skill/S_Rainbow_2_Description, Text,,<color=#DC381F>맑음</color>·이상현상,<color=#DC381F>Sunny</color>·Anomaly,<color=#DC381F>晴れ</color>・異象,<color=#DC381F>晴</color>·异象,
+Skill/S_Rainbow_2_Name, Text,,<sprite name=rainbowweathertext_1> 오로라,<sprite name=rainbowweathertext_1> Aurora,<sprite name=rainbowweathertext_1> オーロラ,<sprite name=rainbowweathertext_1> 荧绿光帘,
+Skill/S_Rainbow_3_0_Description, Text,,카드를 버리지 않음,Do not discard cards.,カードを捨てない,不弃牌,
+Skill/S_Rainbow_3_0_Name, Text,,가벼운 산책,Gentle Breeze,雨がやむ,风潇,
+Skill/S_Rainbow_3_1_Description, Text,,버림,Discard cards.,札を捨てる,弃牌,
+Skill/S_Rainbow_3_1_Name, Text,,빗방울 속에서,Rainy Haze,雨が降り続く,雨晦,
+Skill/S_Rainbow_3_Description, Text,,"<color=#B048B5>바람</color>·이상현상
+<color=#6495ED>비</color>·날씨
+스킬을 사용하면, 날씨를 '<color=#B048B5>바람</color>'으로 변경하고, 턴이 종료되면 <color=#6495ED>비</color>로 변경합니다.
+다음 턴이 시작되면, 교환 횟수를 1 획득합니다.
+스킬이 발동되면, 손에 있는 스킬을 버릴 수 있습니다. 버린 스킬이 날씨 스킬이면 다음 턴 시작시 버려진 스킬의 날씨로 변경됩니다.","<color=#B048B5>Windy</color>·Anomaly
+<color=#6495ED>Rainy</color>·Weather
+Changes to <color=#B048B5>Windy</color> upon activation, triggers <color=#6495ED>Rainy</color> at the end of the turn.
+Gain 1 Exchange count at the start of the next turn.
+When using the skill, you may choose to discard a skill from your hand; if the discarded skill is a weather skill, the weather changes to that skill's weather type at the start of the next turn.","<color=#B048B5>風</color>・異象
+<color=#6495ED>雨</color>・天気
+リリース時には<color=#B048B5>風</color>に変化し、ラウンド終了時には<color=#6495ED>雨</color>がトリガされる。
+次ラウンド開始時に交換回数+1。
+リリース時に1枚のスキルを手に捨てることを選択することができ、廃棄されたスキルが気象スキルであれば、次のラウンドの開始時に気象が廃棄されたスキルの気象タイプに変化します。","<color=#B048B5>风</color>·异象
+<color=#6495ED>雨</color>·天气
+释放时变化为<color=#B048B5>风</color>，回合结束时触发<color=#6495ED>雨</color>。
+下回合开始时，交换次数+1。
+释放技能时，可以选择在手中丢弃一张技能；若丢弃的技能是天气类技能，则在下回合开始时天气变化为被丢弃技能的天气类型。",
+Skill/S_Rainbow_3_Name, Text,,<sprite name=rainbowweathertext_5> <sprite name=rainbowweathertext_2> 흘러가는 폭풍우,<sprite name=rainbowweathertext_5> <sprite name=rainbowweathertext_2> Stormy Weather,<sprite name=rainbowweathertext_5> <sprite name=rainbowweathertext_2> 豪雨,<sprite name=rainbowweathertext_5> <sprite name=rainbowweathertext_2> 风潇雨晦,
+Skill/S_Rainbow_4_Description, Text,,"<color=#57E964>바람</color>·날씨
+레인보우의 최대 체력의 50%만큼 보호막을 획득합니다.
+스킬을 사용한 후:
+날씨가 바뀌면, 대상의 스킬을 우선적으로 하여 덱에서 스킬을 하나 뽑습니다.
+날씨가 바뀌지 않으면, 교환 횟수를 2개 획득합니다.","<color=#57E964>Windy</color>·Weather
+Gain a shield equal to 50% of max HP.
+After using the skill:
+If the weather changes, prioritize drawing 1 skill of the target ally from the deck.
+If the weather doesn't change, gain 2 Exchange counts.","<color=#57E964>風</color>・天気
+最大生命値50%の盾を獲得する。
+スキルを解放した後：
+天候に変化があれば、牌庫から目標とする友軍の1つの技能を優先的に抽出する。
+天候に変化がなければ、2回の交換回数が得られる。","<color=#57E964>风</color>·天气
+获得最大体力值50%的保护罩。
+释放技能后：
+若天气有变化，则从抽牌堆中优先抽取目标友军的1个技能。
+若天气没有改变，则交换次数+2。",
+Skill/S_Rainbow_4_Name, Text,,<sprite name=rainbowweathertext_4> 선선한 산들바람,<sprite name=rainbowweathertext_4> Gentle Breeze,<sprite name=rainbowweathertext_4> 暖かいそよ風,<sprite name=rainbowweathertext_4> 和煦微风,
+Skill/S_Rainbow_5_Description, Text,,"<color=#0041C2>비</color>·이상현상
+이 스킬이 적을 처치하면, 다른 무작위 대상에게 다시 시전합니다.
+스킬을 사용한 후:
+날씨가 바뀌면, 이 스킬을 손으로 다시 가져옵니다.
+날씨가 바뀌지 않으면, 손에 있는 무작위 스킬에 신속을 부여합니다.","<color=#0041C2>Rainy</color>·Anomaly
+After killing an enemy, cast this skill again on a random target.
+After using the skill:
+If the weather changes, this skill returns to your hand.
+If the weather doesn't change, grant Swiftness to a random Overload skill in your hand.","<color=#0041C2>雨</color>・異象
+敵を撃ち殺した後、再びランダムターゲットにこのスキルをリリースします。
+スキルを解放した後：
+天候が変化すると、このスキルは手札に戻ります。
+変換がなければ、オーバーロードスキルを迅速にすることができます。","<color=#0041C2>雨</color>·异象
+击杀敌人后，向随机目标再次释放此技能。
+释放技能后：
+若天气发生变化，则此技能返回手牌中。
+若天气没有改变，则使手牌中随机一个过载技能附带迅速。",
+Skill/S_Rainbow_5_Name, Text,,<sprite name=rainbowweathertext_3> 천둥을 동반한 비,<sprite name=rainbowweathertext_3> Thunderstorm,<sprite name=rainbowweathertext_3> 雷閃天気,<sprite name=rainbowweathertext_3> 姜黄雷闪,
+Skill/S_Rainbow_6_Description, Text,,"<color=#6495ED>비</color>·날씨
+스킬을 사용한 후:
+날씨가 바뀌면, 손에 날씨 인형을 추가합니다.
+날씨가 바뀌지 않으면, 레인보우의 다음 스킬의 비용이 1 감소합니다.","<color=#6495ED>Rainy</color>·Weather
+After using the skill:
+If the weather changes, add a ""Sunny Doll"" to your hand.
+If the weather doesn't change, the next skill you use costs 1 less.","<color=#6495ED>雨</color>・天気
+スキルを解放した後：
+天気が変化したら、天気人形を手札に入れます。
+天気が変わらなければ、次の自分のスキル費用-1。","<color=#6495ED>雨</color>·天气
+释放技能后：
+若天气发生变化，则将一张 晴天娃娃 加入手牌。
+若天气没有改变，则下一张自己的技能法力值消耗减1。",
+Skill/S_Rainbow_6_Name, Text,,<sprite name=rainbowweathertext_2> 잔잔한 봄비,<sprite name=rainbowweathertext_2> Gentle Spring Rain,<sprite name=rainbowweathertext_2> 紺碧の雨,<sprite name=rainbowweathertext_2> 湛蓝雨霖,
+Skill/S_Rainbow_7_Description, Text,,"<color=#FFA62F>안개</color>·날씨
+최대 체력의 30%만큼 방벽을 생성합니다.
+레인보우가 공격받을 확률을 높입니다. 이 효과가 적용중인 동안, 공격받을 때마다 교환 횟수를 1회 획득합니다.","<color=#FFA62F>Foggy</color>·Weather
+Gain a shield equal to 30% of max HP.
+Increases the chance of being targeted. While this effect is active, gain 1 Exchange count each time you are attacked.","<color=#FFA62F>霧</color>・天気
+最大体力の30%を獲得した防護壁。
+自身が攻撃を受ける確率が増加する。この効果を持った状態で、攻撃を受けるごとに交換回数+1。","<color=#FFA62F>雾</color>·天气
+获得最大体力30%的防护墙。
+自身受到攻击概率增加。拥有该增益的状态下，每次受到攻击时交换次数+1。",
+Skill/S_Rainbow_7_Name, Text,,<sprite name=rainbowweathertext_6> 보랏빛 안개,<sprite name=rainbowweathertext_6> Purple Mist,<sprite name=rainbowweathertext_6> 紫霧,<sprite name=rainbowweathertext_6> 糸紫薄雾,
+Skill/S_Rainbow_8_Description, Text,,"<color=#6D7B8D>안개</color>·이상현상
+이번 전투에서, 스킬을 사용할때마다 동일한 이름의 스킬의 비용을 1 감소시킵니다.","<color=#6D7B8D>Foggy</color>·Anomaly
+For this battle, each time this skill is used, the cost of skills with the same name is reduced by 1.","<color=#6D7B8D>雾</color>·異象
+このバトルでは、このスキルがリリースされるたびに、同じ名前のスキルが法力値-1を消費します。","<color=#6D7B8D>雾</color>·异象
+本场战斗中，每次释放该技能后，该同名技能法力值消耗-1。",
+Skill/S_Rainbow_8_Name, Text,,<sprite name=rainbowweathertext_7> 달무리 안개,<sprite name=rainbowweathertext_7> Hazy Fog,<sprite name=rainbowweathertext_7> おぼろ霧,<sprite name=rainbowweathertext_7> 雾锁朦胧,
+Skill/S_Rainbow_9_Description, Text,,"<color=#0041C2>비</color>·이상현상
+<color=#FFE87C>맑음</color>·날씨
+스킬을 사용하면, 날씨를 '<color=#0041C2>비</color>'로 변경하고, 턴이 종료되면 <color=#FFE87C>맑음</color> 으로 변경합니다.
+날씨 인형을 손에 추가합니다.","<color=#0041C2>Rainy</color>·Anomaly
+<color=#FFE87C>Sunny</color>·Weather
+Changes to <color=#0041C2>Rain</color> upon activation, triggers <color=#FFE87C>Sunny</color> at the end of the turn.
+Add a ""Sunny Doll"" to your hand.","<color=#0041C2>雨</color>・異象
+<color=#FFE87C>晴れ</color>・天気
+リリース時には<color=#0041 C 2>雨</color>に変化し、ラウンド終了時には<color=#FFE 87 C>晴</color>をトリガする。
+お天気の人形を手札に入れます。","<color=#0041C2>雨</color>·异象
+<color=#FFE87C>晴</color>·天气
+释放时变化为<color=#0041C2>雨</color>，回合结束时触发<color=#FFE87C>晴</color>。
+将一张 晴天娃娃 加入手牌。",
+Skill/S_Rainbow_9_Name, Text,,<sprite name=rainbowweathertext_3> <sprite name=rainbowweathertext_0> 비 온 뒤 맑음,<sprite name=rainbowweathertext_3> <sprite name=rainbowweathertext_0> Clear Skies After Rain,<sprite name=rainbowweathertext_3> <sprite name=rainbowweathertext_0> 雨が上がり空が晴れる,<sprite name=rainbowweathertext_3> <sprite name=rainbowweathertext_0> 雨过天晴,
+Skill/S_Rainbow_LucyD_Description, Text,,"카드를 2장 드로우하고, 날씨를 무작위로 변경합니다.",Draw 2 skills and randomly change the weather.,2つのスキルを抽出し、ランダムに天気を変換します。,抽取两个技能，然后随机变换天气。,
+Skill/S_Rainbow_LucyD_Name, Text,,루시의 일기예보,Lucy's Weather Forecast,ルーシーも天気予報を,露西也要天气预报,
+Skill/S_Rainbow_P_1_Description,Text,,,,,,
+Skill/S_Rainbow_P_1_Name, Text,,날씨: 쾌청,Weather: Sunny,天気：晴れ,天气：晴天,
+Skill/S_Rainbow_P_2_Description,Text,,,,,,
+Skill/S_Rainbow_P_2_Name, Text,,날씨: 비,Weather: Rainy,天気：雨,天气：雨天,
+SkillExtended/S_Rainbow_13_Rare_Ex_Des, Text,,&a 회 사용가능,&a Uses Remaining,&a使用回数,&a使用次数,
+SkillExtended/S_Rainbow_13_Rare_Ex_EnforceString,Text,,,,,,
+SkillExtended/S_Rainbow_13_Rare_Ex_Name, Text,,남음,Remaining Uses Indicator,残りの使用回数,剩余使用次数提示,
+SkillExtended/SkillEn_Rainbow_0_Des,Text,,,,,,
+SkillExtended/SkillEn_Rainbow_0_EnforceString, Text,,공격 스킬,Attack Skill,攻撃スキル,攻击技能,
+SkillExtended/SkillEn_Rainbow_0_Name, Text,,피격되면 손에 날씨 인형을 추가합니다.,"When hit, add a ""Sunny Doll"" to your hand.",命中した時に天気人形を手札に入れた。,命中时将一张晴天娃娃加入手牌。,
+SkillExtended/SkillEn_Rainbow_1_Des,Text,,,,,,
+SkillExtended/SkillEn_Rainbow_1_EnforceString, Text,,비용 2 혹은 3,Cost 2 or 3,費用は2または3,费用为2或3,
+SkillExtended/SkillEn_Rainbow_1_Name, Text,,이상현상,"Gain ""Anomaly"" when used.",異象に入る。,出手时获得异象。,
+SkillKeyword/KeyWord_Rainbow2_Desc, Text,,"방출 후이상현상""의 수동 효과를 추가로 촉발한다;그런 다음'날씨'효과를 발생시킵니다.""","After cast, additionally triggers the ""Anomaly"" passive effect; then triggers the ""Weather"" effect.",リリース後に「異象」受動効果を追加トリガする、そして「天気」効果をトリガーします。,释放后额外触发‘异象’被动效果；然后触发‘天气’。,
+SkillKeyword/KeyWord_Rainbow2_Name, Text,,이상현상,Anomaly,異象,异象,
+SkillKeyword/KeyWord_Rainbow_Desc, Text,,"현재 날씨와 달리, 방출 후 스킬에 상응하는 날씨 효과를 한번 촉발합니다.","When different from the current weather and after casting, triggers the corresponding weather effect of the skill once.",現在の天候とは異なり、リリース後はスキルに応じた天候効果がトリガーされます。,与当前天气不同时，释放后将触发一次与技能相应的天气效果。,
+SkillKeyword/KeyWord_Rainbow_Name, Text,,날씨,Weather,天気,天气,
+,,,,,,,
+

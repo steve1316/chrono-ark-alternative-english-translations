@@ -1,0 +1,10 @@
+{
+    "TestQueue": {
+        "_gdeSchema": "EnemyQueue",
+        "Enemys": [
+            "TrialofStrength_Enemy",
+            "S2_Horse",
+            "S2_Horse"
+        ]
+    }
+}

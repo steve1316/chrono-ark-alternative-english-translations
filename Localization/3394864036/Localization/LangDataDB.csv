@@ -1,0 +1,317 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Agla_0_Description,Text,,,"<color=#7c68a6>Feeling slightly uneasy, but it doesn't hinder combat much.</color>",,<color=#7c68a6>感觉有点不自在，但是不怎么影响战斗。,<color=#7c68a6>感覺有點不自在，但是不怎麼影響戰鬥。
+Buff/B_Agla_0_Name,Text,,,Lost Package,,遗失的包裹,遺失的包裹
+Buff/B_Agla_1_Description,Text,,,"Reduces 1 stack upon receiving or dealing damage.
+&a",,"受到伤害或者造成伤害后减少一层。
+&a","受到傷害或者造成傷害後減少1層。
+&a"
+Buff/B_Agla_1_Name,Text,,,Weightlessness,,失重,失重
+Buff/B_Agla_2_Description,Text,,,&a,,&a,&a
+,,,,,,,
+Buff/B_Agla_2_Name,Text,,,Swiftness,,迅捷,迅捷
+Buff/B_Agla_3_Description,Text,,,"<color=#ae8575>""You’ve done so much for everyone. Now, it’s my turn to do something for you.""</color>",,     <color=#ae8575>“你为大家做了很多。现在，轮到我来为你做点什么了。”,     <color=#ae8575>「你為大家做了很多。現在，輪到我来為你做點什麼了。」
+Buff/B_Agla_3_Name,Text,,,Rhodes Island Elite Operator,,罗德岛精英干员,羅德島精英幹員
+Buff/B_Agla_4_Description,Text,,,"Whenever a debuff is applied to self, suffer &a Pain damage.",,每当自身被施加减益时，受到 &a点痛苦伤害。,每當自身被施加減益時，受到&a點痛苦傷害。
+,,,,,,,
+Buff/B_Agla_4_Name,Text,,,“Craving”,,“渴求”,「渴求」
+Buff/B_Agla_5_Description,Text,,,"Stabilization field generated...
+Chain recovery system activated...
+   Hint: Combat module will automatically hibernate after battle, focusing on Originium maintenance...     
+<color=#ae8575>“This is Angelina, how’s the situation on your end?”</color>",,"稳定力场已生成...
+链式恢复系统启用...
+  提示：战斗模块将在战斗结束后自动休眠，转而专注于源石的维护中...
+<color=#ae8575>“这里是安洁莉娜，你那边情况怎么样？”","穩定力場已生成……
+鏈式復原系統啟用……
+提示：戰鬥模組將在戰鬥結束後自動休眠，轉而專注於源石的維護中……
+<color=#ae8575>「這裡是安潔莉娜，你那邊情況怎麼樣？」"
+Buff/B_Agla_5_Name,Text,,,Gilberta,,Gilberta,Gilberta
+Buff/B_Agla_6_Description,Text,,,"Doubles base effects provided by ""Weightlessness/Swiftness"".",,“失重/迅捷”提供的基础效果翻倍。,失重減益、迅捷增益的基礎效果翻倍。
+Buff/B_Agla_6_Name,Text,,,Limit Release,,限制解除,限制解除
+Buff/B_Agla_7_Description,Text,,,"Weightlessness<sprite=0> converts to this debuff.
+Gain 1 stack when receiving debuffs other than Levitate. At max stacks, deals &a damage instead.
+Non-Pain damage from Angelina extends debuff duration by 1 turn (up to 3 turns at level ≥4).
+    <color=#ae8575>“Why doesn’t Ms. Hanako’s pipe debuff count?”</color>",,"失重<sprite=0>会转化为此减益。
+获得浮空以外的减益时叠加一层，层数已满则改为造成&a伤害。
+受到安洁莉娜的非痛苦伤害时，减益的持续回合加1，最多延长至2回合。(等级大于等于4级时最多延长至3回合)
+    <color=#ae8575>“为什么卉子小姐的水管减益不算呢？”","自身持有的<sprite=0>失重將替換為此減益。
+獲得此減益以外的減益時，此減益增加1層；若層數達到上限，則改為受到&a點傷害。
+受到安潔莉娜的非痛苦傷害时，此減益延長1回合，最多延長至2回合（安潔莉娜不低於4級時，則最多延長至3回合）。
+    <color=#ae8575>「為什麼卉子小姐的水管減益不算數呢？」"
+Buff/B_Agla_7_Name,Text,,,Levitate,,浮空,浮空
+Character/Angelina_PassiveDes,Text,,,"At battle start, a random enemy carries the Lost Package.
+- If enemy dies with this buff, generate survivor-count exclusive skills (with Swiftness, -1 Cost) or Morale Boost.
+- If enemy survives until Round 3:
+       Gain Accelerated Field (-1 Cost, Once) and 1 Mana.
+
+Transport ship crashed in the Distorted Lands!
+   <color=#ae8575>“If we retrieve the package, use it wisely. If things go south, I’ve got backups.”</color>",,"战斗开始时随机一名敌人身上会携带遗失的包裹。
+·若敌人在该buff持续期间死亡则随机生成存活调查员数量的专属技能（附带迅速，费用减1）以及士气上升中选择一张获得。
+·若敌人在第三回合开始仍然存活：
+       获得一张加速立场，附带减1费，一次性；获得一点法力值。
+
+运输艇在扭曲之地坠毁啦！
+   <color=#ae8575>“如果抢回了包裹就好好利用。要是情况不对，我还有其他准备。”","戰鬥開始時，隨機敵人會攜帶「遺失的包裹」。
+若在該減益解除前死亡，則向你展示隨機的專屬技能（每位隊員各1個，附帶迅速，費用減少1點；士氣上升），選擇1個生成。
+若攜帶包裹的敵人在第三回合開始時存活，則恢復1點法力值，並使最左側的隊員生成1個「加速力場」，附帶一次性，費用減少1點。
+<color=#919191>- 此被動從1級開始生效。 </color>
+
+運輸艇在扭曲之地墜毀啦！
+<color=#ae8575>「如果搶回了包裹就好好利用。要是情況不對，我還有其他準備。」</color>"
+Character/Angelina_PassiveName,Text,,,Letters and Packages,,信与包裹,信與包裹
+Character/Angelina_SelectInfo,Text,,,"Angelina is a messenger from Terra, an offensive support specializing in anti-gravity arts.
+She actively investigates the Twisted Lands to gather intel for Rhodes Island after activating the Clock Tower.
+Many letters/packages were lost here since the last incident. Retrieving them is urgent - those heartfelt messages matter deeply.",,"安洁莉娜是来自泰拉大陆的信使，是一位进攻型辅助角色，擅长使用反重力技艺削弱敌人。
+安洁莉娜积极参与调查团活动，她需要磨练自己，调查并了解扭曲之地的情况，并在启动钟楼后将详细情报带回罗德岛。
+上次事件发生以来，有不少的信件与包裹遗失在了扭曲之地。安洁莉娜急于将它们找回来。对她来说，那些信件中饱含着的心意一定很重要吧。","來自泰拉大陸的信使，是一位進攻型輔助角色，擅長使用反重力技藝削弱敵人。
+安潔莉娜積極參與調查團活動，她需要磨練自己，調查並了解扭曲之地的情況，並在啟動鐘樓後將詳細情報帶回羅德島。
+據悉，在之前的事件中，有不少的信件與包裹遺失在了扭曲之地，而安潔莉娜急於將它們找回。
+……對她來說，那些信件中飽含著的心意一定很重要。"
+Character/Angelina_Text_Battle_AllyND_0,Text,,,We must overcome the hardships before us!,,要克服眼前的困难才行。,要克服眼前的困難才行。
+,,,,,,,
+Character/Angelina_Text_Battle_AllyND_1,Text,,,Someone help?!,,谁能拉一把？！,誰能拉我一把？！
+,,,,,,,
+Character/Angelina_Text_Battle_Cri_0,Text,,,Gently... there we go.,,轻轻地......嘿咻。,輕輕地......嘿咻。
+,,,,,,,
+Character/Angelina_Text_Battle_Healed_0,Text,,,Thanks!,,谢谢!,謝謝！
+,,,,,,,
+Character/Angelina_Text_Battle_Healed_1,Text,,,Whew... feeling better!,,呼...感觉好多了!,呼……感覺好多了！
+,,,,,,,
+Character/Angelina_Text_Battle_Idle_0,Text,,,"Whether in battle or work, give it your all!",,无论是战斗还是工作，都要全力以赴！,無論是戰鬥還是工作，都要全力以赴！
+,,,,,,,
+Character/Angelina_Text_Battle_Idle_1,Text,,,Combat is harsh... but I won’t let you down.,,战斗很残酷......但我不想让你失望。,戰鬥很殘酷……但我不想讓你失望。
+,,,,,,,
+Character/Angelina_Text_Battle_Kill_0,Text,,,When will the fighting end...?,,争斗要到什么时候才会停止呢......,爭鬥要到什麼時候才會停止呢……
+,,,,,,,
+Character/Angelina_Text_Battle_Kill_1,Text,,,I’m quite skilled with this spell.,,我可是很擅长这个法术的。,我可是很擅長這個法術的。
+,,,,,,,
+Character/Angelina_Text_Battle_Kill_2,Text,,,If I... then... maybe better results!,,如果先....再...效果可能会更好！,如果先……再……效果可能會更好！
+,,,,,,,
+Character/Angelina_Text_Battle_ND_0,Text,,,No...!,,不要...!,不要……！
+,,,,,,,
+Character/Angelina_Text_Battle_ND_1,Text,,,I don’t want to die!,,我不想死！,我不想死！
+,,,,,,,
+Character/Angelina_Text_Battle_ND_2,Text,,,"The tougher it gets,
+    the more we must persevere!",,"处境越艰难，
+    越不能气馁！",處境越艱難，越不能氣餒！
+Character/Angelina_Text_Battle_ND_3,Text,,,Help!,,救命啊！,救命啊！
+Character/Angelina_Text_Battle_Start_0,Text,,,I’ll assist you!,,我会协助你们！,我會協助你們！
+,,,,,,,
+Character/Angelina_Text_Field_GetItem_0,Text,,,Whoa~,,呜哇~,嗚哇～
+,,,,,,,
+Character/Angelina_Text_Field_Idle_0,Text,,,Want to try floating in the air?,,想不想试试漂浮在空中的感觉？,想不想試試漂浮在空中的感覺？
+,,,,,,,
+Character/Angelina_Text_Field_Idle_1,Text,,,Perfect for stargazing.,,很适合观赏星空呢。,很適合觀賞星空呢。
+,,,,,,,
+Character/Angelina_Text_Field_Idle_2,Text,,,Can’t betray everyone’s expectations!,,不能辜负大家的期望！,不能辜負大家的期望！
+,,,,,,,
+Character/Angelina_Text_Field_Idle_3,Text,,,"My hair’s beautiful? Hehe, I’ve got secrets!",,我的头发很漂亮？嗯哼哼，我可是有秘诀的！,我的頭髮很漂亮？嗯哼哼，我可是有秘訣的！
+,,,,,,,
+Character/Angelina_Text_Field_Potion_P_0,Text,,,Got any orange-flavored?,,有没有橘子味儿的？,有沒有橘子風味的？
+,,,,,,,
+Character/Angelina_Text_MasterTarget,Text,,,May you find your own guiding star.,,愿你能找到属于你自己的星星。,願你能找到屬於你自己的星星。
+Character/Angelina_Text_PharosLeader_0,Text,,,"High Priest, I’ll suppress them.",,教主大人，我会压制住他们的。,……教主大人，我會壓制住他們的。
+Character/Angelina_Text_PharosLeader_1,Text,,,,,,
+Character/Angelina_Text_PharosLeader_2,Text,,,... Ah... Stars...?...,,...呜...星星....?...,……嗚……星星……？
+Character/Angelina_Text_Witch_0,Text,,,I’ll endure this!,,我会坚持下来的!,我會堅持下去的！
+,,,,,,,
+Character/Angelina_Text_Witch_1,Text,,,I believe in you!,,我相信你！,我相信你！
+Character/Angelina_name,Text,,,Angelina,,安洁莉娜,安潔莉娜
+Item_Consume/Change_Rare_Description,Text,,,"Changes Angelina’s rare skills into one of two random options.
+        <color=#7c68a6>“Ms. Angelina has pressing matters to attend.”</color>",,"将安洁莉娜的稀有技能变成随机另外两个之一。（如果需要的话）
+        <color=#7c68a6>""安洁莉娜小姐有更要紧的事需要她去做。""
+","將安潔莉娜已學習的稀有技能隨機轉變為其他的安潔莉娜稀有技能。（如果需要的話）
+        <color=#7c68a6>「還有更要緊的事需要安潔莉娜小姐去處理。」"
+Item_Consume/Change_Rare_name,Text,,,Spell Module Converter,,法术单元转换器,法術單元轉換器
+,,,,,,,
+Item_Consume/Star_Gate_Description,Text,,,"Replaces Angelina’s rare skill ""Dormant Star Gate"" with ""Tethys Courier Gear"".",,将安洁莉娜的稀有技能“休眠的星门”替换为“塔卫二信使装备”。,將安潔莉娜的稀有技能「休眠的星門」替換為「塔衛二信使裝備」。
+Item_Consume/Star_Gate_name,Text,,,Activated Star Gate,,开启的星门,開啟的星門
+SimpleCampDialogue/CampDial_with_Azar_Dialogues_0,Text,,,[A]What’s that move called? It synergizes well with me.,,[A]你的那一招叫什么，很适合与我配合。,[A]妳的那一招……叫什麼來著？很適合與我配合。
+SimpleCampDialogue/CampDial_with_Azar_Dialogues_1,Text,,,[B]It’s Particle Mode!,,[B]是微粒模式啦！,[B]是微粒模式啦！
+,,,,,,,
+SimpleCampDialogue/CampDial_with_Joey0_Dialogues_0,Text,,,[B]Any packages for me?,,[B]有没有我的包裹？,[B]有沒有我的包裹？
+SimpleCampDialogue/CampDial_with_Joey0_Dialogues_1,Text,,,[A]Nope. I’d deliver them immediately if there were...,,[A]没有哦，有的话我会第一时间送过来的...,[A]沒有喔。有的話我會第一時間送過來的……
+,,,,,,,
+SimpleCampDialogue/CampDial_with_Joey0_Dialogues_2,Text,,,[A]Handle with care... don’t worry!,,[A]轻拿轻放...你放心吧！,[A]輕拿輕放……你放心吧！
+SimpleCampDialogue/CampDial_with_Mement_Dialogues_0,Text,,,"[B]You understand that feeling, right?",,[B]你一定能理解那种感受吧。,[B]你一定能理解那種感受吧。
+,,,,,,,
+SimpleCampDialogue/CampDial_with_Mement_Dialogues_1,Text,,,[A]We’ll find it for sure!,,[A]一定会找到的！,[A]一定會找到的！
+SimpleCampDialogue/CampDial_with_Shadow_Dialogues_0,Text,,,[A]Kal’tsit! Wanna try this?,,[A]卡伦！要不要试试这个？,[A]卡倫！要不要試試這個？
+SimpleCampDialogue/CampDial_with_Shadow_Dialogues_1,Text,,,[B]So pre... ahem! Dark rituals need no such things.,,[B]好漂...嗯嗯!.. ...黑暗祭祀不需要这个。,[B]好漂……咳嗯！黑暗祭司不需要這個。
+Skill/S_Agla_0_Description,Text,,,"- Draw a skill.
+- If used first this turn, -1 Cost.",,"·抽取一个技能。
+·作为本回合最先使用的技能时，费用减1。","若作為本回合最先使用的技能，費用減少1點。
+抽取1個技能。"
+Skill/S_Agla_0_Name,Text,,,Arcane Staff - Quick Charge Mode,,秘杖·速充模式,秘杖·速充模式
+Skill/S_Agla_10_0_Description,Text,,,"Obtain Arcane Staff series:
+""Rapid Charge Mode""
+""Particle Mode""
+""Anti-Gravity Mode""
+         <color=#7c68a6>Includes snacks from a certain Minotaur.</color>",,"可获得秘杖系列：
+“秘杖·速充模式”
+“秘杖·微粒模式”
+“秘杖·反重力模式”
+         <color=#7c68a6>随信附赠了一些美味小吃。","秘杖系列：
+從「秘杖·速充模式」、「秘杖·微粒模式」、「秘杖·反重力模式」中生成隨機技能。
+<color=#7c68a6>隨信附贈了一些美味小吃。"
+Skill/S_Agla_10_0_Name,Text,,,Letter from Heavyrain,,丰蹄寄来的信,豐蹄寄來的信
+,,,,,,,
+Skill/S_Agla_10_1_Description,Text,,,"Obtain Swiftness series:
+""Acceleration Field""
+""Extra Delivery""
+""Local Anti-Gravity""
+          <color=#7c68a6>Includes a densely filled notebook.</color>",,"可获得迅捷系列：
+“加速力场”
+“加送信件”
+“局部反重力覆盖”
+          <color=#7c68a6>随信附赠一本写的满满的笔记本。","迅捷系列：
+從「加速力場」、「加送信件」、「局部反重力覆蓋」中生成隨機技能。
+<color=#7c68a6>隨信附贈一本寫得滿滿的筆記本。"
+Skill/S_Agla_10_1_Name,Text,,,Letter from the Vulpo,,沃尔珀寄来的信,沃爾珀寄來的信
+,,,,,,,
+Skill/S_Agla_10_2_Description,Text,,,"Obtain Weightlessness series:
+""Study""
+""Anti-Gravity Suppression""
+""Local Anti-Gravity""
+           <color=#7c68a6>“Waga...” (remaining text smudged).</color>",,"可获得失重系列：
+“研习”
+“反重力压制”
+“局部反重力覆盖”
+           <color=#7c68a6>“哇嘎.....”后面的字迹被抹去了。","失重系列：
+從「研習」、「反重力壓制」、「局部反重力覆蓋」中生成隨機技能。
+<color=#7c68a6>「哇嘎……」後面的字跡被抹去了。"
+Skill/S_Agla_10_2_Name,Text,,,Letter from the Liberi,,黎博利寄来的信,黎博利寄來的信
+,,,,,,,
+Skill/S_Agla_10_Description,Text,,,"Choose a set to randomly gain one card with Swiftness, Exclude, or -1 Cost.
+          <color=#9c9c9c>Which banner to pull?</color>",,"选择一组卡随机获得其中之一，附带迅速，放逐，费用减一。
+          <color=#9c9c9c>要选哪个up池呢？","從「秘杖」、「迅捷」、「失重」系列中選擇1個，隨機生成1個該系列的技能，費用減少1點，附帶迅速、放逐。
+<color=#9c9c9c>要選哪個up池呢？"
+Skill/S_Agla_10_LucyD_Description,Text,,,"- Stun an enemy.
+- Draw 2 cards.
+     <color=#9c9c9c>“No more medicine~”
+     “This gives me a headache~”</color>",,"·眩晕一名敌人。
+·抽两张牌。
+     <color=#9c9c9c>""补药啊~""
+     “看到这个我就头疼~”","抽取2個技能。
+<color=#9c9c9c>「補藥啊～」
+「看到這個我就頭疼～」"
+Skill/S_Agla_10_LucyD_Name,Text,,,Messenger - Rhodes Island Pharmaceuticals,,信使·罗德岛制药,信使·羅德島製藥
+,,,,,,,
+Skill/S_Agla_10_Name,Text,,,Letters for the Courier,,给信使的信,給信使的信
+,,,,,,,
+Skill/S_Agla_11_Rare_Description,Text,,,"- Starts atop deck. Reduces Cost by 1 each turn end.
+- Converts all Weightlessness <sprite=0> on target into Levitate <sprite=1>.
+- Generates ""Levitate Module"" (+1 Cost, Exclude after 2 turns).
+<color=#ae8575>“Land, peaks, clouds, stars - all lie beneath us now.”</color>",,"·战斗开始时放在牌组最上面且回合结束时费用减1。
+·将目标的失重<sprite=0>全部转换为浮空<sprite=1>。
+·使用后生成一张“浮空模组”，费用加1，附带2回合后弃牌，放逐。
+<color=#ae8575>“大地，山巅，云间，星夜，如今都在我们脚下。”","戰鬥開始時，放在牌组的最上方。
+每當回合結束時，手中的此技能費用減少1點。
+
+目標的的失重<sprite=0>減益全部轉換為浮空<sprite=1>減益。
+生成1個「浮空模組」，費用增加1點，附帶放逐、2回合後棄牌。
+<color=#ae8575>「大地、山巔，雲間、星夜，如今都在我們腳下。」"
+Skill/S_Agla_11_Rare_Name,Text,,,Levitate Module,,浮空模组,浮空模組
+,,,,,,,
+Skill/S_Agla_1_Description,Text,,,"While held, gain +2 charge per skill used this turn (resets turn end). Cast repeatedly based on charges +5.
+Current repeats: &Num",,"在手中时，本回合每使用一个技能，计数加2，回合结束时归零。释放后根据计数值+5重复释放此技能。
+当前的可再次释放次数: &Num 次","使用後，進行5次追加攻擊。
+握在手中時，每次使用手中的技能或固定能力後，使該技能的追加攻擊增加2次，回合結束時重置。
+當前追加攻擊次數： &Num 次"
+Skill/S_Agla_1_Name,Text,,,Arcane Staff: Particle Mode,,秘杖·微粒模式,秘杖·微粒模式
+,,,,,,,
+Skill/S_Agla_2_Description,Text,,,,,,
+Skill/S_Agla_2_Name,Text,,,Arcane Staff: Anti-Gravity Mode,,秘杖·反重力模式,秘杖·反重力模式
+,,,,,,,
+Skill/S_Agla_3_Description,Text,,,"- If target skill lacks Swiftness: Grants Swiftness and restores 1 Mana.
+- If target has Swiftness: Grants Swiftness/2 Weightlessness stacks. Restores 2 Mana if non-combat target.",,"·目标技能没有迅速: 该技能获得迅速，恢复一点法力值。
+·目标技能有迅速: 该技能指向的调查员/敌方获得迅捷/2层失重。如果该技能目标不为调查员/敌人，恢复2点法力值。","恢復1點法力值，並使目標技能獲得迅速。
+若目標技能已有迅速，則改為使目標技能獲得「指向隊員/敵人釋放時，使目標獲得迅捷增益/2層失重減益；若不是指向隊員和敵人，使用後恢復2點法力值。」"
+Skill/S_Agla_3_Name,Text,,,Accelerator Field,,加速力场,加速力場
+,,,,,,,
+Skill/S_Agla_4_0_Description,Text,,,Swiftness grants extra ATK.,,迅捷追加攻击力增益,迅捷增益額外增加攻擊力
+,,,,,,,
+Skill/S_Agla_4_0_Name,Text,,,Power Focus,,力量集中,力量集中
+,,,,,,,
+Skill/S_Agla_4_1_Description,Text,,,Weightlessness reduces more DEF (stackable).,,失重降低更多防御力。（可叠加）,失重減益額外減少防禦力（該效果可以疊加）
+,,,,,,,
+Skill/S_Agla_4_1_Name,Text,,,Weakness Exposure,,弱点暴露,弱點暴露
+,,,,,,,
+Skill/S_Agla_4_2_Description,Text,,,Swiftness boosts Dodge rate.,,迅捷额外增加闪避率,迅捷增益額外增加閃避率
+,,,,,,,
+Skill/S_Agla_4_2_Name,Text,,,Lightfooted,,体态轻盈,體態輕盈
+,,,,,,,
+Skill/S_Agla_4_3_Description,Text,,,Applying Weightlessness removes Taunt from all enemies.,,附加失重时使所有敌人失去嘲讽。,施加失重減益時，移除所有敵人對我方的嘲諷。
+,,,,,,,
+Skill/S_Agla_4_3_Name,Text,,,Shattered Will,,意志涣散,意志渙散
+Skill/S_Agla_4_Description,Text,,,"- Enhance Angelina’s Originium Arts in a direction.
+- Draw 1 personal skill if none held.",,"·选择一个方向加强安洁莉娜的源石技艺。
+·手中没有自己的其他技能则抽取一张自己的技能。","選擇一個方向加強安潔莉娜的源石技藝。
+若手中沒有自己的技能，則抽取1個自己的技能。"
+Skill/S_Agla_4_Name,Text,,,Study,,研习,研習
+,,,,,,,
+Skill/S_Agla_5_Description,Text,,,"- Grants Swiftness to ally. Reveal 3 non-Once exclusive skills, generate 1 with Swiftness/Once.
+- Restores 1 Mana when used as fixed skill.",,"·为目标队友附加迅捷增益，展示其随机3个非一次性专属技能，选择1个技能生成，附加迅速，一次性。
+·作为固定技能使用后回复一点法力值。
+","作為固定能力時，使用後恢復1點法力值。
+
+對目標施加迅捷增益，並展示隨機3個目標的沒有一次性的普通技能，選擇1個生成，附帶迅速、一次性。"
+Skill/S_Agla_5_Name,Text,,,Extra Delivery,,加送信件,加送信件
+,,,,,,,
+Skill/S_Agla_6_Description,Text,,,"- Higher Debuff Success <sprite=0> increases Weightlessness stacks (max 4). 6 stacks if enemy has Lost Package.
+- Restores 1 Mana when attacking package-holder as fixed skill.",,"·弱化成功率<sprite=0>越高，施加多层失重的概率越高，最多施加4层。如果敌人身上有遗失的包裹，则最多施加6层。
+·作为固定技能攻击有遗失包裹的敌人时恢复一点法力值。","作為固定能力時，對持有「遺失的包裹」的敵人使用後恢復1點法力值。
+
+施加隨機層數的失重減益，最多施加4層（如果敵人持有「遺失的包裹」，則最多6層）。
+自身的弱化成功率<sprite=0>越高，施加多層失重減益的機率越高。"
+Skill/S_Agla_6_Name,Text,,,Anti-Gravity Suppression,,反重力压制,反重力壓制
+,,,,,,,
+Skill/S_Agla_7_Description,Text,,,"- Allies: Target and ally to their left both gain Swiftness.
+- Enemies: Target and adjacent foes gain 2 Weightlessness. 4 stacks if solo enemy.",,"·若为友方，则目标与左侧调查员获得迅捷。
+·若为敌方，则目标与两边的敌人附加2层失重；若只有一个敌人，则附加4层失重。","對隊員使用時，目標和左側的隊員都獲得迅捷增益。
+對敵人使用時，對目標和與其相鄰的敵人施加2層失重減益；若敵人只有一個，則改為施加4層失重。"
+Skill/S_Agla_7_Name,Text,,,Local Anti-Gravity,,局部反重力覆盖,局部反重力覆蓋
+,,,,,,,
+Skill/S_Agla_8_Rare_0_Description,Text,,,"- Appears near the top of the deck at the start.
+- Grants Swiftness to self and ally.
+<color=#7c68a6>Star Gate equipment reduces casting strain, improves endurance, extends debuffs.</color>",,"·游戏开始时此牌会出现在牌库靠前位置。
+·为自己和目标队友添加迅捷增益。 
+<color=#7c68a6>星门折跃的装备，减轻安洁莉娜的施法负荷，提升作战续航，延长减益效果。","戰鬥開始時，將牌庫中的此技能移動至靠前位置。
+
+為自身和目標施加迅捷增益。 
+<color=#7c68a6>星門折躍的裝備，減輕安潔莉娜的施法負荷，提升作戰續航，延長減益效果。"
+Skill/S_Agla_8_Rare_0_Name,Text,,,Tethys Courier Gear,,塔卫二信使装备,塔衛二信使裝備
+,,,,,,,
+Skill/S_Agla_8_Rare_1_Description,Text,,,Stuns all enemies.,,眩晕所有敌人,眩暈所有敵人
+,,,,,,,
+Skill/S_Agla_8_Rare_1_Name,Text,,,Energy Release,,释放能量,釋放能量
+,,,,,,,
+Skill/S_Agla_8_Rare_2_Description,Text,,,"High risk, high reward.",,收益与风险并存。,收益與風險並存。
+,,,,,,,
+Skill/S_Agla_8_Rare_2_Name,Text,,,Full Star Gate Activation,,完全激活星门,完全激活星門
+,,,,,,,
+Skill/S_Agla_8_Rare_Description,Text,,,"Unlocks additional functions at level ≥4.
+<color=#ae8575>&tag</color>",,"等级大于等于四级时可以发挥星门的更多用途。
+<color=#ae8575>&tag","自身等級在4級以上時，可以發揮星門的更多用途。
+<color=#ae8575>&tag"
+Skill/S_Agla_8_Rare_Name,Text,,,Dormant Star Gate,,休眠的星门,休眠的星門
+,,,,,,,
+Skill/S_Agla_9_Rare_Description,Text,,,"- Gain ""Study"" with Swiftness.
+- Limit Release lasts 3 turns at level ≥4.
+<color=#ae8575>“Systems enhanced! Now’s the time!”</color>",,"·获得一张“研习”，附带迅速。
+·等级大于四级时限制解除增益可持续三回合。
+<color=#ae8575>“效果已强化！就是现在！”","生成1個「研習」，附帶迅速。
+若自身的等級在4級以上，限制解除的持續時間變更為3回合。
+<color=#ae8575>「效果已強化！就是現在！」"
+Skill/S_Agla_9_Rare_Name,Text,,,Limit Release,,限制解除,限制解除
+,,,,,,,
+SkillExtended/Agla_3_1_Name,Text,,,Lighten!,,轻盈！,輕盈！對隊員施加迅捷
+SkillExtended/Agla_3_2_Des,Text,,,,,,
+SkillExtended/Agla_3_2_Name,Text,,,Imbalance!,,失衡！,失衡！對敵人施加失重
+SkillExtended/SkillEn_Angelina_0_Des,Text,,,,,,
+SkillExtended/SkillEn_Angelina_0_EnforceString,Text,,,,,,
+SkillExtended/SkillEn_Angelina_0_Name,Text,,,Grants Swiftness to random adjacent allies when used.,,使用时赋予随机相邻两位调查员“迅捷”。,使用時，對隨機兩位相鄰的隊員施加迅捷增益。
+,,,,,,,
+SkillExtended/SkillEn_Angelina_1_EnforceString,Text,,,,,,
+SkillExtended/SkillEn_Angelina_1_Name,Text,,,Grants 1 Weightlessness stack to all enemies when used.,,使用时赋予全体敌人一层“失重”。,使用時賦予所有敵人1層失重減益。
+SkillExtended/SkillEn_Angelina_1_Name,Text,,,Grants 1 Weightlessness stack to all enemies when used.,,使用时赋予全体敌人一层“失重”。,使用時賦予所有敵人1層失重減益。
+

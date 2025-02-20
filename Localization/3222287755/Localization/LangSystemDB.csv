@@ -1,0 +1,14 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+P_ROSM_Equip_0,Text,,战术装备<color=#1E90FF>α</color>,Tactical Equipment <color=#1E90FF>α</color>  ,殲滅戦用装備<color=#1E90FF>α</color>,战术装备<color=#1E90FF>α</color>,战术装备<color=#1E90FF>α</color>
+P_ROSM_Equip_1,Text,,战术装备<color=#4169E1>β</color>,Tactical Equipment <color=#4169E1>β</color>  ,殲滅戦用装備<color=#4169E1>β</color>,战术装备<color=#4169E1>β</color>,战术装备<color=#4169E1>β</color>
+P_ROSM_Equip_2,Text,,战术装备<color=#2E8B57>γ</color>,Tactical Equipment <color=#2E8B57>γ</color>  ,殲滅戦用装備<color=#2E8B57>γ</color>,战术装备<color=#2E8B57>γ</color>,战术装备<color=#2E8B57>γ</color>
+P_ROSM_Equip_3,Text,,战术装备<color=#87CEEB>δ</color>,Tactical Equipment <color=#87CEEB>δ</color>  ,殲滅戦用装備<color=#87CEEB>δ</color>,战术装备<color=#87CEEB>δ</color>,战术装备<color=#87CEEB>δ</color>
+P_ROSM_Equip_Des_0,Text,,<color=#FFFF00>待机</color>,<color=#FFFF00>Standby</color>  ,<color=#FFFF00>待機</color>,<color=#FFFF00>待机</color>,<color=#FFFF00>待机</color>
+P_ROSM_Equip_Des_1,Text,,<color=#ADFF2F>休整</color>,<color=#ADFF2F>Rest</color>  ,<color=#ADFF2F>休止</color>,<color=#ADFF2F>休整</color>,<color=#ADFF2F>休整</color>
+P_ROSM_Equip_Des_2,Text,,回合,Round  ,ターン,回合,回合
+S_ROSM_10_Des_0,Text,,费用-1,Cost -1  ,コスト-1,费用-1,费用-1
+S_ROSM_10_Des_1,Text,,"无视嘲讽,固定能力冷却时间-1","Ignores Taunt, Fixed Ability Cooldown -1  ",挑発を無視、固定能力のクールダウンを1ターン短縮。,"无视嘲讽,固定能力冷却时间-1","无视嘲讽,固定能力冷却时间-1"
+S_ROSM_10_Des_2,Text,,抽取1个技能,Draw 1 Skill  ,スキルを1枚引く。,抽取1个技能,抽取1个技能
+S_ROSM_10_Des_3,Text,,"施加""受创""减益","Apply ""Injured"" debuff  ",[負傷]を1ストック与える。,"施加""受创""减益","施加""受创""减益"
+Select_ROSM_0,Text,,安抚猫猫,Calm the Cat,猫をなだめる。,安抚猫猫,安抚猫猫
+

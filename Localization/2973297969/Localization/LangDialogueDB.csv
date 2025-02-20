@@ -1,0 +1,147 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Dialogue/FS_Rainbow_Gift_Camera/001,Text,,"*레인보우
+이것은......,","*Rainbow
+This is...","*虹
+これは……、","*虹
+这个是……",
+Dialogue/FS_Rainbow_Gift_Camera/002,Text,,"*레인보우
+최신 카메라","*Rainbow
+The latest DSLR camera,","*虹
+最新のカメラ，","*虹
+最新的单反相机，",
+Dialogue/FS_Rainbow_Gift_Camera/003,Text,,"*레인보우
+어디 보자, 렌즈가... 12~120mm인 것 같아","*Rainbow
+Let me see, the lens seems to be... 12~120mm,","*虹
+見てみますが、レンズは……12 ~ 120 mmのようです，","*虹
+我看看，镜头好像是……12~120mm的，",
+Dialogue/FS_Rainbow_Gift_Camera/004,Text,,"*레인보우
+이 카메라는 여러 장소의 풍경 촬영에 적응할 수 있어요.","*Rainbow
+This camera can adapt to many different scenes for landscape photography,","*虹
+このカメラはいろいろな場面の風景に合わせて撮影することができます，","*虹
+这个相机能适应好多场合的风景拍摄啦，",
+Dialogue/FS_Rainbow_Gift_Camera/005,Text,,"*레인보우
+고마워요.","*Rainbow
+Thank you!","*虹
+ありがとうございます。","*虹
+谢谢你！",
+Dialogue/FS_Rainbow_Gift_Rainbowgift/001,Text,,"*레인보우
+이것은......,","*Rainbow
+This is...","*虹
+これは……、","*虹
+这个是……",
+Dialogue/FS_Rainbow_Gift_Rainbowgift/002,Text,,"*레인보우
+전장판 반칸 필름 카메라,","*Rainbow
+A collector's edition half-frame film camera,","*虹
+所蔵版の半コマフィルムカメラ、","*虹
+典藏版的半格胶卷相机，",
+Dialogue/FS_Rainbow_Gift_Rainbowgift/003,Text,,"*레인보우
+이 필름 카메라는 특이해요. 제가 특별히 만든 교체 렌즈로 찍은 사진이라면,","*Rainbow
+This film camera is special. If you use my custom replacement lens to take photos,","*虹
+このフィルムカメラは特殊ですよ。私の特製の交換レンズで撮った写真なら、","*虹
+这个胶卷相机很特殊噢，如果用我特制的替换镜头拍出来的照片，",
+Dialogue/FS_Rainbow_Gift_Rainbowgift/004,Text,,"*레인보우
+필름에 특수 날씨 필터를 부착할 거예요.","*Rainbow
+It will attach a special weather filter to the film,","*虹
+特殊な気象フィルターをフィルムに添付しますよ、","*虹
+会在胶卷附上特殊的天气滤镜噢，",
+Dialogue/FS_Rainbow_Gift_Rainbowgift/005,Text,,"*레인보우
+고마워요.","*Rainbow
+Thank you!","*虹
+ありがとうございます。","*虹
+谢谢你！",
+Dialogue/FS_Rainbow_Gift_Normal/001,Text,,"*레인보우
+어머, 선물이요?
+저한테 주시는 건가요?","*Rainbow
+Huh? A gift?
+Is this for me?","*虹
+あら、プレゼントですか？
+私に？","*虹
+嗯？是礼物？
+是送给我的吗？",
+Dialogue/FS_Rainbow_Gift_Normal/002,Text,,"*레인보우
+기뻐라...
+정말 고마워요, 소중히 간직할게요.","*Rainbow
+Ah... thank you so much, I'll take good care of it.","*虹
+嬉しい…
+ありがとうございます。大事にしますね。","*虹
+啊…真的谢谢你，我会好好保管的。",
+Dialogue/FS_Rainbow_Lv3/001,Text,,"*루시
+레인보우,","*Lucy
+By the way, Rainbow,","*ルシー
+虹,","*露西
+对了，虹",
+Dialogue/FS_Rainbow_Lv3/002,Text,,"*레인보우
+왜 그래?","*Rainbow
+What's up?","*虹
+どうしたの？","*虹
+怎么了？",
+Dialogue/FS_Rainbow_Lv3/003,Text,,"*루시
+기상관측소에 가보고 싶은데 그곳이 작은 정원이라고 들었어요.","*Lucy
+I want to visit the weather station. I heard it's a small garden.","*ルシー
+測候所に行ってみたいのですが、そこは小さな庭園だそうです。","*露西
+我想去气象站看看，听说那里是一片小园林。",
+Dialogue/FS_Rainbow_Lv3/004,Text,,"*레인보우
+그래, 큰 나무도 있고 작은 정원도 있어.","*Rainbow
+Yes, there's a big banyan tree and a small garden.","*虹
+そうですね。大きな木があり、小さな庭もあります。","*虹
+是呀，有一颗大榕树，还有一小片花园。",
+Dialogue/FS_Rainbow_Lv3/005,Text,,"*레인보우
+사실 모두 내가 평소에 쉬는 시간에 심은 것이다.","*Rainbow
+Actually, I planted them all during my breaks.","*虹
+実は私が普段休憩時間に植えているのです。","*虹
+其实都是我平时在休息时间种下来的。",
+Dialogue/FS_Rainbow_Lv3/006,Text,,"*레인보우
+그 나무는 내가 오기 전에 거기에 있었어. 너에게 말해줄게, 그 나무의 나뭇잎은 아주 신기해.","*Rainbow
+The banyan tree has always been there. Let me tell you, its leaves are quite magical.","*虹
+その木は私が来る前にそこにあった、教えてあげるよ、その木の葉はとても不思議だよ。","*虹
+那颗榕树倒是一直都在了，告诉你噢，它的树叶非常神奇噢。",
+Dialogue/FS_Rainbow_Lv3/007,Text,,"*레인보우
+떨어진 나뭇잎은 다른 색깔로 변한다!밝은 태양이 높이 비출 때는 가을 단풍으로 변한다.","*Rainbow
+The fallen leaves change into different colors! When the sun is shining brightly, they turn autumn maple red.","*虹
+落ちてきた木の葉は別の色になりますよ！太陽が照りつけると秋楓紅になります。","*虹
+落下来的树叶会变成其他颜色噢！艳阳高照的时候会变成秋枫红。",
+Dialogue/FS_Rainbow_Lv3/008,Text,,"*루시
+정말요? 신기해요.","*Lucy
+Really? That's amazing.","*ルシー
+本当ですか。不思議ですね。","*露西
+真的吗，好神奇。",
+Dialogue/FS_Rainbow_Lv3/009,Text,,"*레인보우
+비 오는 낙엽은 융구람으로 변하고 안개 낀 날은 라벤더보라색으로 변한다.","*Rainbow
+Rainy leaves turn into pompon blue, and foggy days turn them lavender purple.","*虹
+雨の落ち葉はポンポンブルーになり、霧の日はラベンダーになるよ。","*虹
+下雨的落叶会变成绒球蓝，雾天会变成熏衣紫噢。",
+Dialogue/FS_Rainbow_Lv3/0010,Text,,"*레인보우
+다른 색깔도 있는데 모아서 간단하게 처리해서 기상관측소 작은 온실에 뒀어요.","*Rainbow
+There are other colors too. I collected them, processed them a bit, and placed them in the small greenhouse at the weather station.","*虹
+他の色もありますが、私は集めて簡単に処理して測候所の小さな温室に入れました。","*虹
+还有其他颜色，我都收集起来简单处理放在了气象站的小温室里。",
+Dialogue/FS_Rainbow_Lv3/0011,Text,,"*루시
+내가 가서 생각해 볼게.","*Lucy
+I want to go see it.","*ルシー
+行ってみたいです。","*露西
+我去想看看。",
+Dialogue/FS_Rainbow_Lv3/0012,Text,,"*레인보우
+그래, 그래.아쉽게도 기상 관측소가 제대로 작동하지 않는다. 그렇지 않으면 나도 루시를 데리고 이곳의 날씨를 함께 볼 것이다.","*Rainbow
+Sure, sure. It's a shame the weather station isn't running properly. Otherwise, I'd take Lucy to see the weather here too.","*虹
+いいよいいよ。残念ながら測候所は正常に運行できません。そうしないと、私もルーシーを連れてここの天気を見に行きます。","*虹
+好呀好呀。可惜气象站不能正常运行了，不然我也带露西一起看看这里的天气。",
+Dialogue/FS_Rainbow_Lv3/0013,Text,,"*루시
+...지금은 타임 셰이드가 먼저니까.","*Lucy
+What a pity... but finding the Time Shade is the top priority now.","*ルシー
+…今はタイムシェイドが先だから。","*露西
+可惜了…现在最要紧的是找到时光之影。",
+Dialogue/FS_Rainbow_Lv3/0014,Text,,"*레인보우
+시계탑을 가동한 후에 오세요!","*Rainbow
+Come visit after we get the clock tower running!","*虹
+時計台を起動してから来て！","*虹
+等启动钟楼之后来做客吧！",
+Dialogue/FS_Rainbow_Lv3/0015,Text,,"*루시
+고마워요.","*Lucy
+Okay, thank you.","*ルシー
+ありがとうございます。","*露西
+嗯，谢谢你。",
+Dialogue/Rainbow_Empty/001,Text,,"*레인보우
+고마워요.","*Rainbow
+Thank you!","*虹
+ありがとうございます。","*虹
+谢谢你！"

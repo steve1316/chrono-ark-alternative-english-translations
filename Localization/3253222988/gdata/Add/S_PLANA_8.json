@@ -1,0 +1,36 @@
+{
+    "S_PLANA_8": {
+        "UseAp": 2,
+        "Target": "all_ally",
+        "Particle": "Particle/Battle_Uncurse",
+        "Effect_Target": "SE_PLANA_8",
+        "Name": "责任的最后",
+        "Description": "倒计时期间所有友方不会受到伤害，倒数结束时使普拉娜受到此期间内所受伤害总和一半的痛苦伤害，并移除一个随机减益。 \r\n此伤害不会导致死亡",
+        "SkillExtended": [
+            "PLANA.S_PLANA_8"
+        ],
+        "Counting": 4,
+        "ViewBuff": true,
+        "Disposable": false,
+        "User": "PLANA",
+        "Image_2": "S_PLANA_8\\S_PLANA_8_Image_2.png",
+        "Image_1": "S_PLANA_8\\S_PLANA_8_Image_1.png",
+        "Image_0": "S_PLANA_8\\S_PLANA_8_Image_0.png",
+        "_gdeSchema": "Skill",
+        "Category": "null",
+        "Rare": false,
+        "NODOD": false,
+        "NotCount": false,
+        "NotChuck": false,
+        "HealSkill": false,
+        "NoDrop": false,
+        "IgnoreTaunt": false,
+        "Except": false,
+        "NoBasicSkill": false,
+        "Basic": false,
+        "Track": false,
+        "Fatal": false,
+        "EnemyPreview": false,
+        "UnknownTarget": false
+    }
+}

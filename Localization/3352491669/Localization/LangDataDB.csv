@@ -1,0 +1,210 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_SF_Destroyer_11_Description,Text,,,"[Burn] damage +100%. All attack skills apply 1 [Burn] stack on hit.
+(Counts as Destroyer's passive effect)",,"【灼烧】的伤害增加100%，所有攻击技能均可在命中敌人时给与目标1层【灼烧】。
+(视为破坏者被动能力的效果)","所有攻擊技能均可在命中敵人時給與目標1層【灼燒】。
+(視爲破壞者被動能力的效果)"
+Buff/B_SF_Destroyer_11_Name,Text,,,Scarlet Charge,,赤焰填充,赤焰填充
+Buff/B_SF_Destroyer_12_Description,Text,,,"Cannot switch modes. Exits if [Gaia Termination] isn't held.
+All owned skills become Single-Use.
+Draw 1 own skill when only holding [Gaia Termination].
+Single-target: Also hit all remaining enemies for 50% damage.",,"无法切换攻击模式，手中没有【盖娅终结】时退出此模式。
+手中所有自己的技能获得一次性。
+手中没有【盖娅终结】以外的自己的技能时抽取1个自己的技能。
+单体攻击同时攻击所有剩余敌人，造成50%的伤害；群体攻击必定暴击。","無法切換攻擊模式，手中沒有【蓋婭終結】時退出此模式。
+手中所有自己的技能獲得一次性。
+手中沒有【蓋婭終結】以外的自己的技能時抽取1個自己的技能。
+單體攻擊同時攻擊所有剩餘敵人，造成50%的傷害；羣體攻擊必定暴擊。"
+Buff/B_SF_Destroyer_12_Name,Text,,,AoE: Guaranteed Critical.,,盖娅模式,素體升級：蓋婭
+Buff/B_SF_Destroyer_1_Description,Text,,,,,,
+Buff/B_SF_Destroyer_1_Name,Text,,,Gaia Protocol,,爆震,爆震
+Buff/B_SF_Destroyer_4_S_Description,Text,,,,,,
+Buff/B_SF_Destroyer_4_S_Name,Text,,,Concussive Blast,,吸附式榴弹,吸附式榴彈
+Buff/B_SF_Destroyer_4_T_Description,Text,,,"When removed/resisted/reapplied: Deal &a damage.
+Removed on attack/turn end.
+If removed by attack: Reduce damage by &b.",,"攻击或回合结束时解除。
+解除/被抵抗/被施加同名减益时，造成&a点伤害。
+因攻击而导致解除时，本次攻击伤害降低&b点。","攻擊或回合結束時解除。
+解除/被抵抗/被施加同名減益時，造成&a點傷害。
+因攻擊而導致解除時，本次攻擊傷害降低&b點。"
+Buff/B_SF_Destroyer_4_T_Name,Text,,,Concussive Blast,,吸附式榴弹,吸附式榴彈
+Buff/B_SF_Destroyer_6_Description,Text,,,Non-<color=purple>Pain</color> damage taken +&a.,,受到的非痛苦伤害增加&a点。,受到的非痛苦傷害增加&a點。
+Buff/B_SF_Destroyer_6_Name,Text,,,Sequential Breaker,,锁序烈击,鎖序烈擊
+Buff/B_SF_Destroyer_7_Description,Text,,,When acting: Spread 50% of <color=purple>Pain</color> debuff stacks (min 1) to adjacent allies without them. Duration matches source.,,行动时，对于自身的任意痛苦减益，若两侧友军无相同减益或其持有层数低于自身，则对其施加自身持有层数一半的此痛苦减益。(施加的层数至少为1，至多使两侧友军的持有层数等于自身，施加的减益的持续时间基于自身的此减益剩余持续时间),行動時，對於自身的任意痛苦減益，若兩側友軍無相同減益或其持有層數低於自身，則對其施加自身持有層數一半的此痛苦減益。(施加的層數至少爲1，至多使兩側友軍的持有層數等於自身，施加的減益的持續時間基於自身的此減益剩餘持續時間)
+Buff/B_SF_Destroyer_7_Name,Text,,,Burn Linkage,,灼烧链接,灼燒鏈接
+Buff/B_SF_Destroyer_8_Description,Text,,,Non-Swiftness skills don't accumulate Overload.,,使用非迅速技能不会累计过载。,使用非迅速技能不會累計過載。
+Buff/B_SF_Destroyer_8_Name,Text,,,Frenzied Assault,,狂热突袭,狂熱突襲
+Buff/B_SF_Destroyer_9_Description,Text,,,"Remaining &b uses
+&c When using attack skills: Create &a random attack skill with Swiftness/Exclude/-35% damage. Immediate use reduces cost by 1.",,"剩余&b次
+&c使用攻击技能时生成&a的随机攻击技能，附带迅速、放逐、伤害降低35%，生成后若立即使用，则费用降低1点。","剩餘&b次
+&c使用攻擊技能時生成&a的隨機攻擊技能，附帶迅速、放逐、傷害降低35%，生成後若立即使用，則費用降低1點。"
+Buff/B_SF_Destroyer_9_Name,Text,,,Overdrive Chain,,超速连锁,超速連鎖
+Buff/B_SF_Destroyer_p_1_1_Description,Text,,,"Single-target attacks also hit adjacent enemies: 70% to main target, 35% to sides.",,单体攻击同时攻击目标两侧的敌人，对主目标造成70%的伤害，对两侧的敌人造成35%的伤害。,單體攻擊同時攻擊目標兩側的敵人，對主目標造成70%的傷害，對兩側的敵人造成35%的傷害。
+Buff/B_SF_Destroyer_p_1_1_Name,Text,,,Lob Mode,,抛射模式,拋射模式
+Buff/B_SF_Destroyer_p_1_2_Description,Text,,,Single-target attacks hit all enemies for 40% damage. Guaranteed Critical vs Taunted.,,单体攻击同时攻击全体敌人，造成40%的伤害，对嘲讽状态的敌人必定暴击。,單體攻擊同時攻擊全體敵人，造成40%的傷害，對嘲諷狀態的敵人必定暴擊。
+Buff/B_SF_Destroyer_p_1_2_Name,Text,,,Blast Mode,,冲击模式,衝擊模式
+Buff/B_SF_Destroyer_p_1_3_Description,Text,,,Single-target attacks gain Homing. [Burn] stacks can exceed limit.,,单体攻击获得追踪效果，施加【灼烧】时可超出层数上限。,單體攻擊獲得追蹤效果，施加【灼燒】時可超出層數上限。
+Buff/B_SF_Destroyer_p_1_3_Name,Text,,,Precision Mode,,精准模式,精準模式
+Buff/B_SF_Destroyer_p_1_4_Description,Text,,,"Cannot switch attack modes. Exits if [Gaia Termination] is not in hand.
+All owned skills become Single-Use.
+Draw 1 own skill when only holding [Gaia Termination].
+Single-target attacks hit all remaining enemies for 50% damage.",,"无法切换攻击模式，手中没有【盖娅终结】时退出此模式。
+手中所有自己的技能获得一次性。
+手中没有【盖娅终结】以外的自己的技能时抽取1个自己的技能。
+单体攻击同时攻击所有剩余敌人，造成50%的伤害；群体攻击必定暴击。","無法切換攻擊模式，手中沒有【蓋婭終結】時退出此模式。
+手中所有自己的技能獲得一次性。
+手中沒有【蓋婭終結】以外的自己的技能時抽取1個自己的技能。
+單體攻擊同時攻擊所有剩餘敵人，造成50%的傷害；羣體攻擊必定暴擊。"
+Buff/B_SF_Destroyer_p_1_4_Name,Text,,,AoE: Guaranteed Critical.,,盖娅模式,蓋婭模式
+Buff/B_SF_Destroyer_p_1_Description,Text,,,"Click this buff icon once per turn to switch attack modes.  
+&a",,"每回合1次，点击此buff图标切换攻击模式。
+&a","每回合1次，點擊此buff圖標切換攻擊模式。
+&a"
+Buff/B_SF_Destroyer_p_1_Name,Text,,,Attack Mode,,攻击模式,攻擊模式
+Buff/B_SF_Destroyer_p_2_Description,Text,,,,,,
+Buff/B_SF_Destroyer_p_2_Name,Text,,,Burn,,灼烧,灼燒
+Buff/B_SF_Destroyer_p_2_S_Description,Text,,,Apply [Burn] when using attack skills.,,使用攻击技能时向目标施加【灼烧】。,使用攻擊技能時向目標施加【灼燒】。
+Buff/B_SF_Destroyer_p_2_S_Name,Text,,,Incendiary Rounds,,燃烧弹,燃燒彈
+Character/SF_Destroyer_CampSelectWord,Text,,,"""Hmph! I'm Sangvis Ferri's Destroyer - remember that name!""",,哼哼，铁血工造的破坏者，记住我的名字吧！,哼哼，鐵血工造的破壞者，記住我的名字吧！
+Character/SF_Destroyer_PassiveDes,Text,,,"Starts in [Lob Mode]. Click mode icon once per turn to switch.
+First attack skill each turn applies 1 [Burn] on hit.
+
+At Lv3: Gain [Targeted Analysis Contract] to replace 1 exclusive skill.
+At Lv5: Gain 2nd [Targeted Analysis Contract] and equipment [Clearance Order].
+
+<color=#919191>- Active from Lv1.</color>",,"战斗开始时，进入【抛射模式】。每回合1次，点击buff图标改变攻击模式。
+每回合首次使用的攻击技能在命中敌人时给与目标1层【灼烧】
+
+3级时获得道具【定向解析契约】，使用后可替换1个专属技能。
+5级时获得第2张【定向解析契约】与装备【清场指令】。
+
+<color=#919191>-此被动从1级开始生效。</color>","戰鬥開始時，進入【拋射模式】。每回合1次，點擊buff圖標改變攻擊模式。
+每回合首次使用的攻擊技能在命中敵人時給與目標1層【灼燒】
+
+3級時獲得道具【定向解析契約】，使用後可替換1個專屬技能。
+5級時獲得第2張【定向解析契約】與裝備【清場指令】。
+
+<color=#919191>-此被動從1級開始生效。</color>"
+Character/SF_Destroyer_PassiveName,Text,,,Sangvis Tactics: Destroyer,,铁血战术·破坏者,鐵血戰術·破壞者
+Character/SF_Destroyer_SelectInfo,Text,,,"Combat Support Doll, Model SP5NANO
+
+Adept at blowing things up, she's also a bomb disposal professional, and possess decent combat abilities as well. She's usually haughty and sharp-tongued, but in truth she is a tsundere with a somewhat childish temper. She cries under pressure and is very sensitive about her height. 
+
+Excels at area-of-effect assaults and simultaneous multi-target engagements.",,"破坏者是铁血工造的头目单位。擅长爆破任务，解除炸弹也是专家级的，作战能力也不错，和炼金术士有时会搭档。平时高傲，毒舌，实际上是个傲娇，有点小孩子脾气，逼急了会哭鼻子，十分在意自己的身高。
+
+具有较强的群体攻击能力，擅长同时应对多个敌人。","破壞者是鐵血工造的頭目單位。擅長爆破任務，解除炸彈也是專家級的，作戰能力也不錯，和煉金術士有時會搭檔。平時高傲，毒舌，實際上是個傲嬌，有點小孩子脾氣，逼急了會哭鼻子，十分在意自己的身高。
+
+具有較強的羣體攻擊能力，擅長同時應對多個敵人。"
+Character/SF_Destroyer_Text_Battle_AllyND_0,Text,,,"T_des_3_1: ""Don't overdo it, okay?""",,T_des_3_1:别逞强哦。,T_des_3_1:別逞強哦。
+Character/SF_Destroyer_Text_Battle_Cri_0,Text,,,"T_des_6_1: ""Scream if it hurts~""",,T_des_6_1:疼的话，就快点喊出来吧。,T_des_6_1:疼的話，就快點喊出來吧。
+Character/SF_Destroyer_Text_Battle_Cri_1,Text,,,"T_des_6_2: ""Trash! Stay down!""",,T_des_6_2:渣滓们，乖乖倒下吧！,T_des_6_2:渣滓們，乖乖倒下吧！
+Character/SF_Destroyer_Text_Battle_Healed_0,Text,,,"T_des_7_1: ""That was an accident! I'll be careful next time...""",,T_des_7_1:一不小心就……我下次会注意的啦。,T_des_7_1:一不小心就……我下次會注意的啦。
+Character/SF_Destroyer_Text_Battle_Idle_0,Text,,,"T_des_1_1: ""Daydreaming instead of fighting?""",,T_des_1_1:发什么呆呢？,T_des_1_1:發什麼呆呢？
+Character/SF_Destroyer_Text_Battle_Kill_0,Text,,,"T_des_5_1: ""HAHAHAHA! DIE! EVERYONE DIE!""",,T_des_5_1:哈哈哈哈哈哈，去死吧，都去死吧！,T_des_5_1:哈哈哈哈哈哈，去死吧，都去死吧！
+Character/SF_Destroyer_Text_Battle_ND_0,Text,,,"T_des_2_1: ""Waaah! I-I'll be back!""",,T_des_2_1:呜哇——！我、我还会再回来的！,T_des_2_1:嗚哇——！我、我還會再回來的！
+Character/SF_Destroyer_Text_Battle_ND_1,Text,,,"T_des_2_2: ""No! Don't rewrite me! No...""",,T_des_2_2:不要！我不要被重写！不···,T_des_2_2:不要！我不要被重寫！不···
+Character/SF_Destroyer_Text_Battle_ND_2,Text,,,"T_des_2_3: ""Huh? Me? Losing to these...?""",,T_des_2_3:诶？我？在这里···被这些家伙···,T_des_2_3:誒？我？在這裏···被這些傢伙···
+Character/SF_Destroyer_Text_Battle_Start_0,Text,,,"T_des_4_1: ""Hmph! Witness true power!""",,T_des_4_1:哼，就让你们看看我的实力吧！,T_des_4_1:哼，就讓你們看看我的實力吧！
+Character/SF_Destroyer_Text_Battle_Start_1,Text,,,"T_des_4_2: ""I'll show you what I've got!""",,T_des_4_2:让你看看我的本事！,T_des_4_2:讓你看看我的本事！
+Character/SF_Destroyer_Text_PharosLeader_0,Text,,,"T_des_11_1: ""Just blow everything up, right?""",,T_des_11_1:总之，全炸掉就好了吧。,T_des_11_1:總之，全炸掉就好了吧。
+Character/SF_Destroyer_Text_PharosLeader_1,Text,,,"T_des_11_2: ""Why that look? It's not my fault!""",,T_des_11_2:你这是什么眼神，我也不想这样啊！,T_des_11_2:你這是什麼眼神，我也不想這樣啊！
+Character/SF_Destroyer_Text_PharosLeader_2,Text,,,"T_des_11_3: ""HAHAHAHA! DIE! EVERYONE DIE!""",,T_des_11_3:哈哈哈哈哈哈，去死吧，都去死吧！,T_des_11_3:哈哈哈哈哈哈，去死吧，都去死吧！
+Character/SF_Destroyer_UnlockString,Text,,,,,,
+Character/SF_Destroyer_name,Text,,,Destroyer,,破坏者,破壞者
+Character_Skin/Cerberus_skin_SkinDesc,Text,,,"Cerberus-type Destroyer created by Dreamer's ""accident"".
+Ultimate Worker Ant upgrade with enhanced armor/firepower and humanoid consciousness.",,"由于梦想家的“误操作”而诞生的魔犬型破坏者。
+作为兵蚁的终极升级版，大小、装甲和火力都得到了大幅提升，甚至可以容纳人形的心智。","由於夢想家的“誤操作”而誕生的魔犬型破壞者。
+作爲兵蟻的終極升級版，大小、裝甲和火力都得到了大幅提升，甚至可以容納人形的心智。"
+Character_Skin/Cerberus_skin_SkinName,Text,,,Apocalypse Hound,,末日魔犬,末日魔犬
+Character_Skin/Cerberus_skin_Text_Battle_AllyND_0,Text,,,"T_cer_3_1: ""*&^%$#@!...Defense...""",,T_cer_3_1:*&^%$#@!···防御···,T_cer_3_1:*&^%$#@!···防禦···
+Character_Skin/Cerberus_skin_Text_Battle_Cri_0,Text,,,"T_cer_6_1: ""Awooooooo──""",,T_cer_6_1:嗷呜呜呜呜————,T_cer_6_1:嗷嗚嗚嗚嗚————
+Character_Skin/Cerberus_skin_Text_Battle_Healed_0,Text,,,"T_cer_7_1: ""*&^%$#@!...Good...""",,T_cer_7_1:*&^%$#@!···干得···好···,T_cer_7_1:*&^%$#@!···幹得···好···
+Character_Skin/Cerberus_skin_Text_Battle_Idle_0,Text,,,"T_cer_1_1: ""Grr...Grr...""",,T_cer_1_1:咕···咕咕···,T_cer_1_1:咕···咕咕···
+Character_Skin/Cerberus_skin_Text_Battle_Kill_0,Text,,,"T_cer_5_1: ""Bark! Bark bark!""",,T_cer_5_1:汪汪！汪汪汪！,T_cer_5_1:汪汪！汪汪汪！
+Character_Skin/Cerberus_skin_Text_Battle_ND_0,Text,,,"T_cer_2_1: ""Whine...Whimper...""",,T_cer_2_1:咕呜···咕呜···,T_cer_2_1:咕嗚···咕嗚···
+Character_Skin/Cerberus_skin_Text_Battle_Start_0,Text,,,"T_cer_4_1: ""*&^%$#@!...Attack...""",,T_cer_4_1:*&^%$#@!···进攻···,T_cer_4_1:*&^%$#@!···進攻···
+Character_Skin/Cerberus_skin_Text_PharosLeader_0,Text,,,"T_cer_11_1: ""&^%$#@!...&^%$#@!...""",,T_cer_11_1:*&^%$#@!···*&^%$#@!···,T_cer_11_1:*&^%$#@!···*&^%$#@!···
+Character_Skin/Cerberus_skin_Text_PharosLeader_1,Text,,,"T_cer_11_2: ""Whine...""",,T_cer_11_2:呜汪···,T_cer_11_2:嗚汪···
+Character_Skin/Cerberus_skin_Text_PharosLeader_2,Text,,,"T_cer_11_3: ""Ha...Ha...Haha...""",,T_cer_11_3:哈···哈···哈哈哈···,T_cer_11_3:哈···哈···哈哈哈···
+Item_Consume/Item_SF_1_Description,Text,,,"Forget an exclusive skill, then select a new one from all exclusive skills.",,遗忘一个专属技能，然后从所有专属技能中选择一个学习。,遺忘一個專屬技能，然後從所有專屬技能中選擇一個學習。
+Item_Consume/Item_SF_1_name,Text,,,Targeted Analysis Contract,,定向解析契约,定向解析契約
+Item_Equip/E_SF_Destroyer_0_Description,Text,,,"Restore 1 Mana when multi-target attacking (1/turn).
+Kills grant +1 trigger this turn.
+<color=red>Destroyer only</color>",,"每回合1次，同时攻击多个目标时，恢复1点法力值。
+击杀敌人时，本回合可额外触发1次。
+<color=red>仅限破坏者佩戴</color>","每回合1次，同時攻擊多個目標時，恢復1點法力值。
+擊殺敵人時，本回合可額外觸發1次。
+<color=red>僅限破壞者佩戴</color>"
+Item_Equip/E_SF_Destroyer_0_name,Text,,,Clearance Order,,清场指令,清場指令
+Skill/S_SF_Destroyer_10_Description,Text,,,"Ignores DEF.
+If target's countdown ≤1, cancel their action and increase damage by 50%.",,"无视防御。
+命中时若目标的倒计时计数不大于1，取消目标此行动且伤害提升50%。","無視防禦。
+命中時若目標的倒計時計數不大於1，取消目標此行動且傷害提升50%。"
+Skill/S_SF_Destroyer_10_Name,Text,,,Waypoint Strike,,航点打击,航點打擊
+Skill/S_SF_Destroyer_11_Description,Text,,,Draw at battle start.,,战斗开始时抽取。,戰鬥開始時抽取。
+Skill/S_SF_Destroyer_11_Name,Text,,,Scarlet Charge,,赤焰填充,赤焰填充
+Skill/S_SF_Destroyer_12_1_Description,Text,,,"Extra attack &a times. Each time you use your own skill, the extra attack count increases by 1.",,额外攻击&a次。每次使用自己的技能，额外攻击次数加1。,額外攻擊&a次。每次使用自己的技能，額外攻擊次數加1。
+Skill/S_SF_Destroyer_12_1_Name,Text,,,Gaia Termination,,盖娅终结,蓋婭終結
+Skill/S_SF_Destroyer_12_Description,Text,,,Add [Gaia Termination] to hand.,,将【盖娅终结】加入手中。,
+Skill/S_SF_Destroyer_12_Name,Text,,,Body Upgrade: Gaia,,素体升级：盖娅,素體升級：蓋婭
+Skill/S_SF_Destroyer_13_Description,Text,,,"Draw 2 target skills. If insufficient, generate random exclusives instead.",,抽取2个目标的技能，若牌库里目标的技能不足2个，缺少的部分改为生成目标的随机专属技能。,抽取2個目標的技能，若牌庫裏目標的技能不足2個，缺少的部分改爲生成目標的隨機專屬技能。
+Skill/S_SF_Destroyer_13_Name,Text,,,Rapid Reload,,快速装填,快速裝填
+Skill/S_SF_Destroyer_1_Description,Text,,,Ignores 50% DEF.,,无视50%的防御。,無視50%的防禦。
+Skill/S_SF_Destroyer_1_Name,Text,,,Composite Grenade,,复合榴弹,複合榴彈
+Skill/S_SF_Destroyer_2_Description,Text,,,Deals additional damage to the enemy with the highest HP. ,,对体力值最高的敌方单位额外造成1次伤害。,對體力值最高的敵方單位額外造成1次傷害。
+Skill/S_SF_Destroyer_2_Name,Text,,,Windweaver,,指间风,指間風
+Skill/S_SF_Destroyer_3_Description,Text,,,"Attack 3 times.
+[Precision Mode]: Choose target and ignore Taunt.",,"重复攻击3次。
+处于【精准模式】时可以选择攻击的敌人并获得无视嘲讽。","重複攻擊3次。
+處於【精準模式】時可以選擇攻擊的敵人並獲得無視嘲諷。"
+Skill/S_SF_Destroyer_3_Name,Text,,,Triad Assault,,三重奏,三重奏
+Skill/S_SF_Destroyer_4_1_Description,Text,,,,,,
+Skill/S_SF_Destroyer_4_1_Name,Text,,,Concussive Blast,,吸附式榴弹,吸附式榴彈
+Skill/S_SF_Destroyer_4_Description,Text,,,This skill's activation is unaffected by Destroyer's current Attack Mode.,,此技能释放时不受破坏者的攻击模式的影响。,此技能釋放時不受破壞者的攻擊模式的影響。
+Skill/S_SF_Destroyer_4_Name,Text,,,Concussive Blast,,吸附式榴弹,吸附式榴彈
+Skill/S_SF_Destroyer_5_Description,Text,,,+2 turn duration to target's <color=purple>Pain</color> debuffs.,,使目标持有的痛苦减益持续时间增加2回合。,使目標持有的痛苦減益持續時間增加2回合。
+Skill/S_SF_Destroyer_5_Name,Text,,,Plasma Grenade,,电浆榴弹,電漿榴彈
+Skill/S_SF_Destroyer_6_Description,Text,,,,,,
+Skill/S_SF_Destroyer_6_Name,Text,,,Sequential Breaker,,锁序烈击,鎖序烈擊
+Skill/S_SF_Destroyer_7_Description,Text,,,,,,
+Skill/S_SF_Destroyer_7_Name,Text,,,Burn Linkage,,灼烧链接,灼燒鏈接
+Skill/S_SF_Destroyer_8_Description,Text,,,Prioritize drawing 1 of your own skills.,,优先抽取1个自己的技能,優先抽取1個自己的技能
+Skill/S_SF_Destroyer_8_Name,Text,,,Frenzied Assault,,狂热突袭,狂熱突襲
+Skill/S_SF_Destroyer_9_Description,Text,,,"When targeting yourself, generate a random attack skill of yours with Swiftness, Exclude, and 35% damage reduction.
+If used immediately after generation, Cost is reduced by 1.",,"以自身为目标时，生成1个自己的随机攻击技能，附带迅速、放逐、伤害降低35%。
+生成后若立即使用，则费用降低1点。","以自身爲目標時，生成1個自己的隨機攻擊技能，附帶迅速、放逐、傷害降低35%。
+生成後若立即使用，則費用降低1點。"
+Skill/S_SF_Destroyer_9_Name,Text,,,Overdrive Chain,,超速连锁,超速連鎖
+Skill/S_SF_Destroyer_p_1_1_Description,Text,,,"Single-target attacks also hit adjacent enemies: 70% main, 35% sides.",,单体攻击同时攻击目标两侧的敌人，对主目标造成70%的伤害，对两侧的敌人造成35%的伤害。,單體攻擊同時攻擊目標兩側的敵人，對主目標造成70%的傷害，對兩側的敵人造成35%的傷害。
+Skill/S_SF_Destroyer_p_1_1_Name,Text,,,Lob Mode,,抛射模式,拋射模式
+Skill/S_SF_Destroyer_p_1_2_Description,Text,,,Single-target attacks hit all enemies for 40% damage. Guaranteed Critical vs Taunted.,,单体攻击同时攻击全体敌人，造成40%的伤害，对嘲讽状态的敌人必定暴击。,單體攻擊同時攻擊全體敵人，造成40%的傷害，對嘲諷狀態的敵人必定暴擊。
+Skill/S_SF_Destroyer_p_1_2_Name,Text,,,Blast Mode,,冲击模式,衝擊模式
+Skill/S_SF_Destroyer_p_1_3_Description,Text,,,Single-target attacks gain Homing. [Burn] stacks can exceed limit.,,单体攻击获得追踪效果，施加【灼烧】时可超出层数上限。,單體攻擊獲得追蹤效果，施加【灼燒】時可超出層數上限。
+Skill/S_SF_Destroyer_p_1_3_Name,Text,,,Precision Mode,,精准模式,精準模式
+Skill/S_SF_Destroyer_p_1_4_Description,Text,,,"Cannot switch modes. Exits if [Gaia Termination] isn't held.
+All owned skills become Single-Use.
+Draw 1 own skill when only holding [Gaia Termination].
+Single-target: Also hit all remaining enemies for 50% damage.",,"无法切换攻击模式，手中没有【盖娅终结】时退出此模式。
+手中所有自己的技能获得一次性。
+手中没有【盖娅终结】以外的自己的技能时抽取1个自己的技能。
+单体攻击同时攻击所有剩余敌人，造成50%的伤害；群体攻击必定暴击。","無法切換攻擊模式，手中沒有【蓋婭終結】時退出此模式。
+手中所有自己的技能獲得一次性。
+手中沒有【蓋婭終結】以外的自己的技能時抽取1個自己的技能。
+單體攻擊同時攻擊所有剩餘敵人，造成50%的傷害；羣體攻擊必定暴擊。"
+Skill/S_SF_Destroyer_p_1_4_Name,Text,,,AoE: Guaranteed Critical.,,盖娅模式,蓋婭模式
+SkillExtended/Ex_SF_Destroyer_p_2_fake_Des,Text,,,Apply [Burn] when using attack skills.,,向目标施加【灼烧】,向目標施加【灼燒】
+SkillExtended/Ex_SF_Destroyer_p_2_fake_EnforceString,Text,,,,,,
+SkillExtended/Ex_SF_Destroyer_p_2_fake_Name,Text,,,Incendiary Rounds,,燃烧弹,燃燒彈
+SkillExtended/SkillEn_SF_Destroyer_0_Des,Text,,,,,,
+SkillExtended/SkillEn_SF_Destroyer_0_EnforceString,Text,,,Attack Skill,,攻击技能,攻擊技能
+SkillExtended/SkillEn_SF_Destroyer_0_Name,Text,,,+10% damage per <color=purple>Pain</color> stack on target.,,目标每有1层痛苦减益，伤害增加10%,目標每有1層痛苦減益，傷害增加10%
+SkillExtended/SkillEn_SF_Destroyer_1_Des,Text,,,,,,
+SkillExtended/SkillEn_SF_Destroyer_1_EnforceString,Text,,,Single-target Attack Skill,,单体攻击技能,單體攻擊技能
+SkillExtended/SkillEn_SF_Destroyer_1_Name,Text,,,Deal 50% damage to adjacent enemies.,,对目标两侧敌人造成50%的伤害。,對目標兩側敵人造成50%的傷害。
+SkillKeyword/KeyWord_SF_0_Desc,Text,,,Select a skill to forget,,选择一个技能遗忘,選擇一個技能遺忘
+SkillKeyword/KeyWord_SF_0_Name,Text,,,,,,
+SkillKeyword/KeyWord_SF_Destroyer_9_Desc,Text,,,Target,,目标,目標
+SkillKeyword/KeyWord_SF_Destroyer_9_Name,Text,,,Target,,目标,目標
+,,,,,,,
+,,,,,,,
+,,,,,,,
+

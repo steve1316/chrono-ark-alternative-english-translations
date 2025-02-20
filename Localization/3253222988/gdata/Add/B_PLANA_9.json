@@ -1,0 +1,12 @@
+{
+    "B_PLANA_9": {
+        "Name": "咕噜咕噜",
+        "ClassName": "PLANA.B_PLANA_9",
+        "Icon": "B_PLANA_9\\B_PLANA_9_Icon.png",
+        "Description": "普拉娜绝不会放弃你。",
+        "Tick": "null",
+        "BuffTag": "null",
+        "Caution": false,
+        "_gdeSchema": "Buff"
+    }
+}

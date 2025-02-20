@@ -1,0 +1,13 @@
+{
+    "B_PLANA_Rare_0": {
+        "Name": "奇迹的起点",
+        "ClassName": "PLANA.B_PLANA_Rare_0",
+        "LifeTime": 1,
+        "Icon": "B_PLANA_Rare_0\\B_PLANA_Rare_0_Icon.png",
+        "Description": "每当你使用费用大于等于2的技能时，回复一点法力。",
+        "Tick": "null",
+        "BuffTag": "null",
+        "Caution": false,
+        "_gdeSchema": "Buff"
+    }
+}

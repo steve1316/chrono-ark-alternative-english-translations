@@ -1,0 +1,61 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Thelema_0_Description,Text,,공격받을 확률 대폭 증가,Significantly increases chance of being attacked.,,,
+Buff/B_Thelema_0_Name,Text,,향락,Hedonism,,,
+Buff/B_Thelema_1_Name,Text,,공포,Fear,,,
+Buff/B_Thelema_2_Name,Text,,여유,Composure,,,
+Buff/B_Thelema_3_Name,Text,,손님은 주인의 뜻대로,Guest Follows the Host's Will,,,
+Buff/B_Thelema_4_Name,Text,,통치자의 의무,Ruler's Duty,,,
+Buff/B_Thelema_5_Name,Text,,세상을 등진 자의 수호,Guardian of the World-Forsaken,,,
+Buff/B_Thelema_6_Name,Text,,무대 뒤 독주,Backstage Solo,,,
+Buff/B_Thelema_7_Description,Text,,"&target 이외의 대상은 절대 공격 할 수 없습니다.
+대상을 공격하면 해제됩니다","Cannot attack any targets other than &target. 
+Effect is removed upon attacking the target.",,,
+Buff/B_Thelema_7_Name,Text,,하인,Servant,,,
+Buff/B_Thelema_8_Name,Text,,텔레마 님을 위하여,For Lady Thelema,,,
+Buff/B_Thelema_9_Description,Text,,"모든 받는 피해를 1로 감소시키고, 피격  중첩 수를 1 감소합니다",Reduces all damage taken to 1 and decreases hit stacks by 1.,,,
+Buff/B_Thelema_9_Name,Text,,시들지 않는 브로치,Unfading Brooch,,,
+Character/Thelema_Nutriscu_PassiveDes,Text,,"전투시작시 자신에게 향락을 부여합니다.
+
+향락은 자신의 공격받을 확률 대폭 증가시키며 회피율을 25% 증가시킵니다.","At the start of battle, grants herself Hedonism. 
+
+Hedonism significantly increases her chance of being attacked and increases Evasion by 25%.",,,
+Character/Thelema_Nutriscu_PassiveName,Text,,광란의 연회,Banquet of Frenzy,,,
+Character/Thelema_Nutriscu_SelectInfo,Text,,그자가 가로되——[그대의 뜻을 행하면 그게 곧 전법이라.],He declared—[To act upon your will is the entirety of the law.],,,
+Character/Thelema_Nutriscu_Text_Battle_AllyND_0,Text,,물러나있어,Stay back.,,,
+Character/Thelema_Nutriscu_Text_Battle_Cri_0,Text,,도망칠수없어,You can't escape.,,,
+Character/Thelema_Nutriscu_Text_Battle_Cri_1,Text,,이를 꽉 깨물어,Bite down hard.,,,
+Character/Thelema_Nutriscu_Text_Battle_Idle_0,Text,,훌륭한 쇼는 기다릴 가치가 있지만 너무 늦으면 안돼,"A great show is worth waiting for, but don't be too late.",,,
+Character/Thelema_Nutriscu_Text_Battle_Kill_0,Text,,느리네,Too slow.,,,
+Character/Thelema_Nutriscu_Text_Battle_ND_0,Text,,아직 끝나지 않았어,It's not over yet.,,,
+Character/Thelema_Nutriscu_Text_Battle_Start_0,Text,,연회가 시작해,The banquet begins.,,,
+Character/Thelema_Nutriscu_Text_Battle_Start_1,Text,,함께 춤을 춰보자,Let us dance together.,,,
+Character/Thelema_Nutriscu_Text_Field_Idle_0,Text,,서두르지 말고 천천히,Don't rush; take it slow.,,,
+Character/Thelema_Nutriscu_Text_Field_Idle_1,Text,,즐거움을 만들든가 내 즐거움 되든가 고르게 해줄게.,Either create your own pleasure or become mine—choose wisely.,,,
+Character/Thelema_Nutriscu_Text_PharosLeader_0,Text,,재밌어 보이니 어울려줄게,This looks fun; I'll join in.,,,
+Character/Thelema_Nutriscu_Text_PharosLeader_1,Text,,겨우 이정도야?,Is this all you've got?,,,
+Character/Thelema_Nutriscu_Text_PharosLeader_2,Text,,어머? 너무 강했나?,Oh my? Was that too strong?,,,
+Character/Thelema_Nutriscu_Text_Witch_0,Text,,참신한 수법이네.,A novel approach.,,,
+Character/Thelema_Nutriscu_Text_Witch_1,Text,,만족할때 까지 해봐.,Keep going until I'm satisfied.,,,
+Character/Thelema_Nutriscu_name,Text,,텔레마,Thelema,,,
+Item_Equip/E_Thelema_1_name,Text,,야연의 장미・거짓의 왕관,Nightbloom Rose・False Crown,,,
+Skill/S_Thelema_10_Description,Text,,"모든 아군의 과부하를 해제하고, 마나를 모두 회복한다.",Removes all Overload from allies and fully restores their Mana.,,,
+Skill/S_Thelema_10_Name,Text,,끝나지 않는 연회,Endless Banquet,,,
+Skill/S_Thelema_11_Name,Text,,몸에 꼭 맞는 드레스,Tailored Dress,,,
+Skill/S_Thelema_1_Description,Text,,,,,,
+Skill/S_Thelema_1_Name,Text,,지배자의 특권,Privilege of the Ruler,,,
+Skill/S_Thelema_2_Name,Text,,고귀한 자의 여유,Noble's Composure,,,
+Skill/S_Thelema_3_Name,Text,,진홍의 초대장,Crimson Invitation,,,
+Skill/S_Thelema_4_Name,Text,,좌석,Seat,,,
+Skill/S_Thelema_5_Name,Text,,개막·넘치는 기쁨,Curtain Rise・Overflowing Joy,,,
+Skill/S_Thelema_6_Description,Text,,내 최대 체력의 절반 (&a)만큼 방벽을 생성합니다.,Creates a Barrier equal to half of your Max HP (&a).,,,
+Skill/S_Thelema_6_Name,Text,,세상을 깔보는 자의 준칙,Precept of the World-Scorners,,,
+Skill/S_Thelema_7_Description,Text,,"전투 시작시 덱에 가장 위에 올려 놓습니다.
+
+모든 아군의 무작위 디버프를 1개 제거합니다.","Placed on top of the deck at the start of battle. 
+
+Removes 1 random Debuff from all allies.",,,
+Skill/S_Thelema_7_Name,Text,,"누트리스크의 전승
+",Nutriscu's Legacy,,,
+Skill/S_Thelema_8_Name,Text,,네가 하고자 하는 일이 곧 법의 전체가 되리라,Your will shall become the entirety of the law.,,,
+Skill/S_Thelema_9_Name,Text,,나의 이름을 찬양하라,Praise My Name.,,,
+

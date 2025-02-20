@@ -1,0 +1,242 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Tide_10_1_Name, Text,,파도의 수호,Tidal Protection,潮汐の守り,潮汐守护,
+Buff/B_Tide_10_2_Name, Text,,파도의 수호,Tidal Protection,潮汐の守り,潮汐守护,
+Buff/B_Tide_2_Name, Text,,일렁임,Shimmer,微光,微光,
+Buff/B_Tide_4_Description, Text,,턴 종료시 회복 게이지가 있으면 치유력의 40%만큼을 회복합니다.,"If have Healing Gauge at the end of the turn, restore &a (40% healing power).",ラウンド終了時に回復ゲージがあれば、回復&a（治療力40%）体力値。,若在回合结束时拥有体力极限，恢复&a（40%治疗力）体力值。,
+Buff/B_Tide_4_Name, Text,,일렁임,Shimmer,微光,微光,
+Buff/B_Tide_6_Description, Text,,고정 능력 사용 횟수가 0이 되었습니다.,Fixed ability usage count becomes 0.,固定能力消費は0になります。,固定能力消耗变为0。,
+Buff/B_Tide_6_Name, Text,,씁쓸한 소금기,Bitter Salt Sediment,ピクリン塩,苦盐沉淀,
+Buff/B_Tide_8_Name, Text,,굴절,Refraction,くっせつ,折射,
+Buff/B_Tide_R1_Name, Text,,등대,Lighthouse,灯台,灯塔,
+Buff/B_Tide_R3_Name, Text,,밀물,Surging Tide,サージ,潮涌,
+Buff/B_Tide_Re_1_0_Name, Text,,,Torrential Rain,豪雨,暴雨滂沱,
+Buff/B_Tide_Re_1_1_Name, Text,,우산,Umbrella,傘,雨伞,
+Character/Tide_PassiveDes, Text,,"아군이 회복량 '0'의 회복을 받으면 (레벨+2)에 해당하는 회복 게이지를 얻습니다.
+
+아군을 대상으로 하는 스킬을 사용시 아군이 빈사 상태이면 스킬의 회복량이 20% 증가합니다.","If a teammate receives healing with a value of 0, gain a Healing Gauge of Tide Level + 2.
+
+When using healing or buff skills, if the target ally is at Death's Door, the healing amount is increased by 20%.","チームの中に治療量が「0」の治療を受けた選手がいれば、レベル+2点の回復ゲージを獲得する。
+
+友軍を指すスキルを解放した場合、その友軍が瀕死の状態であれば、そのスキル回復量は+20%となる。","队伍中若有队员受到治疗量为“0”的治疗时，获得 汐Lv+2点 的体力极限。
+
+释放恢复类技能与增益效果时，若目标友军处于濒死状态，则该次恢复的恢复量+20%。",
+Character/Tide_PassiveName, Text,,파도의 아리아,Tidal Aria,潮汐アリア,潮汐咏叹调,
+Character/Tide_SelectInfo, Text,,"파도 관측가, 등대지기
+
+어촌에서 이상한 전염병이 퍼지고 난 뒤로부터 그녀는 점점 더 적은 수의 배가 바다를 향하는 것을 등대에서 지켜보았습니다.
+그녀의 손글씨에서 유래된 어민들의 뱃노래는 끝없는 파도 속에 잠겨 더 이상 들리지 않게 되었습니다.
+그녀의 치유 능력은 대대를 거쳐온 등대지기들로 부터 내려져 온 것이지만 그 능력은 빛이 결정을 통해 굴절되면서 구현됩니다.
+그녀는 치유 능력을 랜턴을 통해 전달하면서 여울을 자유로이 조절할 수 있습니다.","Tidal Watcher, Lighthouse Keeper.
+
+Since the strange epidemic spread from the fishing village, she has seen fewer and fewer fishing boats on the sea from the lighthouse. The fishing song she wrote has gradually been drowned out by the endless sound of the waves.
+Her salt crystal healing technique, inherited from generations of lighthouse keepers, actually releases healing effects through the refraction of light by salt crystals.
+
+She can control the rise and fall of the tides while using the salt crystal lantern as a medium to release healing.","灯台守塔人。
+
+漁村から奇妙な疫病が蔓延して以来、灯台の上で海を行き来する漁船が少なくなっているのを見た。彼女の手による漁歌も、果てしない波の音に埋もれていった。
+彼女の塩晶治療術は歴代の灯台の守護者に受け継がれているが、実は塩晶の屈折した光を媒介として治療効果を放出しているだけだ。
+彼女は潮の起伏を制御することができ、同時に塩晶提灯を通じてキャリア放出治療術を行うことができる。","潮汐守望者，灯塔守塔人。
+
+自从奇怪的疫病从渔村蔓延以来，她在灯塔上看到海上来往的渔船越来越少。那首出自于她手笔的渔歌，也逐渐被淹没在无边无际的海浪声中。
+她的盐晶治疗术继承于历代灯塔守护人，其实只是通过盐晶折射的光线为媒介释放治疗效果。
+她可以控制海潮的起伏，同时通过盐晶提灯为载体释放治疗术。",
+Character/Tide_Text_Battle_AllyND_0, Text,,조심해!,Be careful!,気をつけてください。,小心！,
+Character/Tide_Text_Battle_AllyND_1, Text,,내 랜턴 옆으로 와.,Come to my lantern!,私の提灯のそばに来て！,来我的提灯旁边！,
+Character/Tide_Text_Battle_Cri_0, Text,,항상 그래왔듯이.,As always.,これまで通り。,一如既往。,
+Character/Tide_Text_Battle_Healed_0, Text,,후…,Sigh…,…,呼…,
+Character/Tide_Text_Battle_Idle_0, Text,,파도의 소리가…,The sound of the waves…,波の音…,海浪的声音…,
+Character/Tide_Text_Battle_Idle_1, Text,,고요한 파도...,The quiet sound of the tide…,静かな潮の音…,寂静的潮声…,
+Character/Tide_Text_Battle_Kill_0, Text,,희생…,Sacrifice…,ささげ物...,献祭…,
+Character/Tide_Text_Battle_Kill_1, Text,,등대지기의 이름을 걸고!,In the name of the Lighthouse Keeper!,塔を守る者の名において！,以守塔人之名！,
+Character/Tide_Text_Battle_ND_0, Text,,등대를... 지켜야해...!,Protect the lighthouse!,灯台を守れ！,保护灯塔！,
+Character/Tide_Text_Battle_ND_1, Text,,등대를... 지켜야.. 하는데...,Protect the light…,ライトを守る...,保卫灯光…,
+Character/Tide_Text_Battle_Start_0, Text,,빛은 우릴 비추고있어. 걱정마,The lantern is lit…,提灯が点灯しています…,提灯已经点亮…,
+Character/Tide_Text_Battle_Start_1, Text,,등대가 방향을 가르쳐 줄거야.,The lighthouse will guide the way…,灯台は方向を示します...,灯塔会指明方向…,
+Character/Tide_Text_Field_Idle_0, Text,,이곳은 파도 소리가 들리지 않아.,The sound of the waves can't be heard here…,ここは波の音が聞こえない…,这里听不见海浪的声音…,
+Character/Tide_Text_Field_Idle_1, Text,,조심히 움직여야해.,Beware of threats beyond the light…,ライト以外の脅威に気をつけて・・・,小心灯光之外的威胁……,
+Character/Tide_Text_Field_Potion_P_0, Text,,먹을만 하네.,The taste is very different from the blends in the fishing village.,漁村との味付けの味の違いが大きい。,和渔村调配的味道差别很大。,
+Character/Tide_Text_PharosLeader_0, Text,,네 여정은 여기서 끝날거야!,Your journey ends here!,あなたたちの旅はここまでです！,你们的旅途到此为止！,
+Character/Tide_Text_PharosLeader_1, Text,,"다시 한 번, 그 소리가 들려.",That voice again…,またあのざわめきが…,又是那个嘈杂的声音…,
+Character/Tide_Text_PharosLeader_2, Text,,제물을!,Bitter Salt Sacrifice!,ささげ物！,苦盐献祭！,
+Character/Tide_name, Text,,너울,Tide,汐,汐,
+Item_Passive/Relic_Tide_1_Description, Text,,"검은 안개 턴이 되면:
+모든 아군이 1턴 동안 지속되는 피해 면역을 얻습니다.
+모든 적은 1턴 동안 지속되는 피해량 +100% 디버프를 얻습니다.","When the Black Fog arrives:
+All teammates gain immunity to damage for 1 turn.
+All enemies gain a debuff that increases damage taken by 100% for 1 turn.","黒霧ラウンド到着時：
+すべての隊員は免疫傷害利得を獲得し、1ラウンド継続する。
+すべての敵はダメージ+100%の減益を受け、1ターン継続する。","黑雾回合到达时：
+所有队员获得免疫伤害增益，持续1回合；
+所有敌人获得受到伤害+100%减益，持续1回合。",
+Item_Passive/Relic_Tide_1_name, Text,,우산,Umbrella,傘,雨伞,
+SimpleCampDialogue/CampDial__Azar_Dialogues_0,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__Azar_Dialogues_1,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Azar_Dialogues_2,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Blue_Dialogues_0,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Blue_Dialogues_1,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__Blue_Dialogues_2,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__Blue_Dialogues_3,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Dusk_Dialogues_0,Text,,,[B]...,,[B]……,
+SimpleCampDialogue/CampDial__Dusk_Dialogues_1,Text,,,[A]Don't be afraid…,,[A]别害怕呀…,
+SimpleCampDialogue/CampDial__Dusk_Dialogues_2,Text,,,"[B]It's not fear, it's just that the lantern has a strange resonance with you…",,[B]不是害怕，只是提灯和你有奇怪的共鸣……,
+SimpleCampDialogue/CampDial__Dusk_Dialogues_3,Text,,,[A]There's such a thing?…,,[A]还有这种事？…,
+SimpleCampDialogue/CampDial__Huz_Dialogues_0,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Huz_Dialogues_1,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__Huz_Dialogues_2,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Ilya_Dialogues_0,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Ilya_Dialogues_1,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__Ilya_Dialogues_2,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Ilya_Dialogues_3,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Joey_Dialogues_0,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__Joey_Dialogues_1,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Johan_Dialogues_0,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__Johan_Dialogues_1,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Johan_Dialogues_2,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__Leryn_Dialogues_0,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__Leryn_Dialogues_1,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Leryn_Dialogues_2,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__Leryn_Dialogues_3,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Lian_Dialogues_0,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__Lian_Dialogues_1,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Narhan_Dialogues_0,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__Narhan_Dialogues_1,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__Pheonix_Dialogues_0,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Pheonix_Dialogues_1,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__Priest_Dialogues_0,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__Priest_Dialogues_1,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__Priest_Dialogues_2,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Rainbow_Dialogues_0,Text,,,"[B]The lantern is too bright, it will reveal our location.",,[B]提灯太亮了，会暴露行迹的。,
+SimpleCampDialogue/CampDial__Rainbow_Dialogues_1,Text,,,[B]Please dim it when necessary.,,[B]必要的时候请让其黯淡一点,
+SimpleCampDialogue/CampDial__Rainbow_Dialogues_2,Text,,,[A]Okay… alright.,,[A]好…好吧。,
+SimpleCampDialogue/CampDial__Red_Dialogues_0,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Red_Dialogues_1,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__SilverStein_Dialogues_0,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__SilverStein_Dialogues_1,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__SilverStein_Dialogues_2,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__SilverStein_Dialogues_3,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Sizz_Dialogues_0,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Sizz_Dialogues_1,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__Sizz_Dialogues_2,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Sizz_Dialogues_3,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Tide_Dialogues_0,Text,,,[B]Excuse me… has the new wick been found?,,[B]请…请问那个新灯芯找到了吗？,
+SimpleCampDialogue/CampDial__Tide_Dialogues_1,Text,,,"[A]Sorry, not yet…",,[A]抱歉，还没找到…,
+SimpleCampDialogue/CampDial__Tide_Dialogues_2,Text,,,[B]It's… it's okay.,,[B]没…没关系。,
+SimpleCampDialogue/CampDial__Tide_Dialogues_3,Text,,,[B]The lighthouse can hold on a little longer…,,[B]灯塔还能再撑一会…,
+SimpleCampDialogue/CampDial__Trisha_Dialogues_0,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__Trisha_Dialogues_1,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Trisha_Dialogues_2,Text,,,[A],,[A],
+Skill/S_Tide_10_0_Description, Text,,회복 게이지를 획득합니다. &a(90% 치유력),Gain a Healing Gauge of &a (90% healing power),回復ゲージ &a（治療力90%）ポイントを獲得する。,获得体力极限 &a（90%治疗力）点。,
+Skill/S_Tide_10_0_Name, Text,,치유,healing,癒し,治愈,
+Skill/S_Tide_10_1_Description, Text,,받는 회복량 40% 증가 버프를 받습니다.,Gain a buff that increases healing received by 40% for 1 turn.,1ラウンドの治療量＋40%の利得を得る。,获得1回合受到治疗量+40%的增益。,
+Skill/S_Tide_10_1_Name, Text,,반짝임,Reflection,マッピング,映射,
+Skill/S_Tide_10_2_Description, Text,,치명타 회복 확률 15% 증가 버프를 받습니다.,Gain a buff that increases critical healing chance by 15% for 1 turn.,,获得1回合暴击恢复+15%的增益。,
+Skill/S_Tide_10_2_Name, Text,,파도,Tide,潮汐,潮汐,
+Skill/S_Tide_10_Description, Text,,"선택:
+-회복 게이지를 획득합니다. &a(90% 치유력)
+-받는 회복량 40% 증가 버프를 받습니다.
+-치명타 회복 확률 15% 증가 버프를 받습니다.
+아군이 빈사 상태일 때 위의 효과를 모두 얻습니다.","Choose one:
+-Gain a Healing Gauge of &a (90% healing power).
+-Gain a buff that increases healing received by 40% for 1 turn.
+-Gain a buff that increases critical healing chance by 15% for 1 turn.
+If a teammate is at Death's Door, gain all the above effects.","次のいずれかを選択します。
+-回復ゲージ &a（治療力90%）ポイントを獲得する。
+-1ラウンドの治療量＋40%の利得を得る。
+-1ラウンドの致命的な一撃回復+15%の利得を得る。
+瀕死の状態にある選手がいる場合、上記のすべてのオプションの効果を得る。","选择一项：
+-获得体力极限 &a（90%治疗力）点。
+-获得1回合受到治疗量+40%的增益。
+-获得1回合暴击恢复+15%的增益。
+有队员处于濒死状态时，获得上述所有选项效果。",
+Skill/S_Tide_10_Name, Text,,파도의 수호,Tidal Protection,潮汐の守り,潮汐守护,
+Skill/S_Tide_1_Description, Text,,대상의 체력을 추가로 &a(치유력의 50%) 회복합니다.,Restores an additional &a (50% healing power) HP to the target.,目標の追加回復&a（治療力50%）に対する体力。,对目标额外恢复 &a（治疗力50%）的体力。,
+Skill/S_Tide_1_Name, Text,,해수 포션,Saltwater Harmony,えんすいちょうわ,咸水调和,
+Skill/S_Tide_2_Name, Text,,일렁임,Sea Salt Shimmer,海塩微光,海盐微光,
+Skill/S_Tide_3_Description, Text,,회복 게이지의 50%를 회복합니다.,Restores 50% of the target's max health as recovery gauge.,1ラウンドの致命的な一撃回復+15%の利得を得る。,目标恢复50%最大生命值的体力极限。,
+Skill/S_Tide_3_Name, Text,,거울같은 해수면,Sea Mirror,海鏡,海镜,
+Skill/S_Tide_4_Description, Text,,"대상이 회복 게이지를 가지고 있으면, 해당 스킬은 치명타 회복량만큼 회복합니다.","If the target has Healing Gauge, this skill is cast as a critical hit.",目標が回復ゲージを持っている場合、このスキルは致命的な一撃で解放される。,目标拥有体力极限时，该技能以暴击形式释放。,
+Skill/S_Tide_4_Name, Text,,모래시계,Salt Sand Hourglass,塩砂・砂時計,盐砂沙漏,
+Skill/S_Tide_5_Description, Text,,"석방 시 모든 아군에게 30% 치료력의 고통 데미지(<color=purple>&a</color>)를 입힙니다. 이 고통 데미지는 목표를 전투불가 상태로 진입시키지 않습니다.
+이 스킬 대미지는 현재 파티가 보유한 전체 힘의 한계치(<color=purple>&b</color>)를 증가시킵니다.
+목표를 처치할 때, 우선 자신의 스킬을 하나 뽑고, 마법력 소모가 0이 됩니다.","When cast, deals 30% healing power as Pain damage (<color=purple>&a</color>) to all allies. This Pain damage does not incapacitate even if used at Death's Door.
+This skill's damage increases based on the total Healing Gauge of the team (<color=purple>&b</color>).
+When killing a target, prioritize drawing one of your own skills, and mana cost becomes 0.","解放時には、すべての友軍に30%の治療力をもたらすに等しい苦痛傷害（<color=purple>&a</color>）を与え、この苦痛傷害は目標を戦闘不能状態にすることはありません。
+このスキルのダメージ量は、チーム全体が持つ総体力限界の値を増加させる（<color=purple>&b</color>）。
+ターゲットを撃ち殺す場合は、自分のスキルを1つ優先的に抽出し、法力値の消費は0になります。","释放时，对所有友军造成30%治疗力的痛苦伤害(<color=purple>&a</color>)，这个痛苦伤害不会令其进入无法战斗状态。
+此技能伤害增加当前队伍拥有的总体力极限的值(<color=purple>&b</color>)。
+击杀目标时，优先抽取自身的一个技能，法力值消耗变为0。",
+Skill/S_Tide_5_Name, Text,,조용한 파도,Silent Tide,潮が引く,窃声海潮,
+Skill/S_Tide_6_Description, Text,,"대상의 모든 고통 피해 디버프를 제거하고 자신을 연쇄 치유합니다.
+치유량 : 제거된 고통 피해량 + (치유력). 대상이 된 아군은 이번 턴에 소모된 고정 능력 사용 기회가 초기화 됩니다.","Resolves all Pain debuffs on the target, then chain-heals yourself for an amount equal to: resolved damage + &a points (100% healing power).
+The target ally's fixed ability usage count becomes 0 for this turn.","ターゲットのすべての苦痛を決算して減益し、それから連鎖して自分を治療して、治療量は：決算の傷害量+&a点（100%治療力）に等しい。
+目標とする味方のターン中の固定能力消費が0になる。","结算目标所有的痛苦减益，然后连锁治疗自己，治疗量等同于：结算的伤害量+&a点（100%治疗力）。
+目标友军本回合内固定能力消耗变为0。",
+Skill/S_Tide_6_Name, Text,,씁쓸한 소금기,Bitter Salt Sediment,ピクリン塩,苦盐沉淀,
+Skill/S_Tide_7_0_Name, Text,,해파,Salt Wave,塩波,盐浪,
+Skill/S_Tide_7_Description, Text,,"<color=#FFFFFF>회복 게이지 획득</color> <color=#00FF00>&a</color>
+（치유력의 30% + 레벨）해파를 손에 넣습니다.
+파도 한 장을 손카드에 넣다.","<color=#FFFFFF>Gain Healing Gauge</color> <color=#00FF00>&a</color>
+(30% healing power + your level)
+Add a ""Salt Wave"" to your hand.","<color=#FFFFFF>回復ゲージを獲得する</color> <color=#00FF00>&a</color>
+（30%治療力+自己等級）
+塩波を手札に加える。","<color=#FFFFFF>获得体力极限</color> <color=#00FF00>&a</color>
+（30%治疗力+自身等级）
+将一张盐浪加入手牌中。",
+Skill/S_Tide_7_Name, Text,,해안,Salt Shore,塩岸,盐岸,
+Skill/S_Tide_8_Description, Text,,"<color=#FFFFFF>회복 게이지 획득</color> <color=#00FF00>&a</color>
+（치유력의 50%）
+스킬을 1개 뽑습니다.","<color=#FFFFFF>Gain Healing Gauge</color> <color=#00FF00>&a</color>
+(50% healing power)
+Draw 1 skill.","
+<color=#FFFFFF>回復ゲージを獲得する</color> <color=#00FF00>&a</color>
+（50%治療力）
+1つのスキルを抽出。","<color=#FFFFFF>获得体力极限</color> <color=#00FF00>&a</color>
+（50%治疗力）
+抽取1个技能。",
+Skill/S_Tide_8_Name, Text,,소금 결정,Salt Crystal,けっしょう,盐晶,
+Skill/S_Tide_9_Description, Text,,"<color=#FFFFFF>회복 게이지 획득</color> <color=#00FF00>&a</color>
+（치유력의 150%）
+사용 후, 자신을 연쇄 치유합니다. &b. (치유력의 120%)","<color=#FFFFFF>Gain Healing Gauge</color> <color=#00FF00>&a</color>
+(150% healing power)
+After casting, chain-heals yourself for &b health points (120% healing power).","<color=#FFFFFF>回復ゲージを獲得する</color> <color=#00FF00>&a</color>
+（150%治療力）
+リリース後、自身&b点体力値を連鎖治療する。（120%治療力）","<color=#FFFFFF>获得体力极限</color> <color=#00FF00>&a</color>
+（150%治疗力）
+释放后，连锁治疗自身&b点体力值。（120%治疗力）",
+Skill/S_Tide_9_Name, Text,,소금의 흐름,Bitter Salt Circuit,かいすいループ,苦盐回路,
+Skill/S_Tide_Lucy_Description, Text,,"스킬을 2개 뽑습니다.
+대상은 최대 체력만큼의 회복 게이지를 획득합니다.
+대상의 체력이 최대치였으면, 대기 가능 횟수를 1 얻습니다.","Draw 2 skills.
+The target ally gains Healing Gauge equal to their max health.
+If the target ally's health is full, gain 1 Standby count.","2つのスキルを抽出します。
+目標味方は最大体力値の回復ゲージを獲得する。
+目標味方の体力値が満タンの場合、獲得待ち回数1。","抽取2个技能。
+目标友军获得最大体力值的体力极限。
+若目标友军体力值已满，则获得等待次数1。",
+Skill/S_Tide_Lucy_Name, Text,,해안 측정 시계,Tidal Clock,潮汐時計,潮汐时钟,
+Skill/S_Tide_R1_Description, Text,,"대상의 회복 게이지를 전부 회복합니다. 
+사용 후, 이번 전투에서 얻었던 회복 게이지가 6 증가합니다.","Restores all Healing Gauge.
+After casting, the Healing Gauge gained in this battle increases by an additional 6 points.","ターゲットの回復ゲージを全て回復する。
+リリース後、今回の戦闘で獲得した回復ゲージ値はさらに6ポイント増加した。","恢复所有体力极限。
+释放后，本次战斗内获得的体力极限值额外增加6点。",
+Skill/S_Tide_R1_Name, Text,,파도 관측 등대,Tidal Lighthouse,潮汐灯台,潮汐灯塔,
+Skill/S_Tide_R2_Description, Text,,"이 스킬은 손에서만 사용됩니다. 아군이 피해를 입었을 때 자신을 대상으로 한 번 사용되며, 이후 버릴 수 있는 턴이 1씩 감소합니다.
+스킬을 직접 사용 시 마나 1을 회복합니다.
+이 카드를 버리면 회복 게이지를 전부 회복합니다.","This skill is in your hand. Whenever a teammate takes damage, it is cast once targeting yourself, and the discard count after X turns is reduced by 1.
+When actively casting this skill, restore 1 mana.
+When discarding this skill, restore all your Healing Gauge.","このスキルは手札の中にあり、メンバーがダメージを受けるたびに自分自身をターゲットにしてリリースされ、その後、Xターン後にカードを破棄するターンカウントが1減少する。
+このスキルをプロアクティブに解放すると、法力値が1点回復します。
+このスキルを捨てると、自分の回復ゲージをすべて回復します。","此技能在手牌中，每当队员受到伤害时，将以自身为目标释放一次，之后，X回合后弃牌的回合计数将减少1。
+主动释放此技能时，恢复1点法力值。
+丢弃此技能时，恢复自身所有体力极限。",
+Skill/S_Tide_R2_Name, Text,,뱃노래,Lonely Fisherman's Song,寂寥漁歌,寂寥渔歌,
+Skill/S_Tide_R3_Description, Text,,"이 스킬을 뽑을 때, 스킬의 효과를 얻습니다.
+이 스킬을 뽑은 라운드 내,치유 게이지를 초과하는 초과 치유량과 연쇄 치유량은 이 스킬의 피해량을 해당 치유량만큼 증가시킵니다. 최대 &a (치유력의 600%)","When drawing this skill, gain its buff.
+During the turn this skill is drawn, your chain healing and healing exceeding Healing Gauge increase this skill's damage by an equal amount, up to &a (600% healing power).","このスキルを抽出すると、このスキルのゲインが得られます。
+このスキルを抽出したターン内、自身の連鎖治療量、体力限界を超えた治療量はこの技能のために等量の傷害量を増加し、増加量は最大&a（治療力の600%）である。","抽取此技能时，获得此技能的增益。
+抽取到此技能的回合内，自身的连锁治疗量、超出体力极限的治疗量会为此技能增加等量伤害量，增加量最多为&a(治疗力的600%)。",
+Skill/S_Tide_R3_Name, Text,,파도의 등불,Tidal Lantern,潮汐提灯,潮汐提灯,
+SkillExtended/Ex_Tide_1_EnforceString, Text,,공격 스킬,Attack Skill,攻撃スキル,攻击技能,
+SkillExtended/Ex_Tide_1_Name, Text,,"적중 시, 최대 체력의 30%에 해당하는 회복 게이지를 얻습니다.","When hitting, gain Healing Gauge equal to 30% of your max health.",命中すると、自身の最大体力値の30%に相当する回復ゲージを獲得する,命中时，自身获得相当于自身最大体力值30%的体力极限,
+SkillExtended/Ex_Tide_2_EnforceString, Text,,적 1인 지정 스킬,Targets Enemy,敵に向ける,指向敌人,
+SkillExtended/Ex_Tide_2_Name, Text,,아군을 지정할 수 있습니다. 아군 지정시 연쇄 치유로 변경됩니다.,"Can target allies. When targeting an ally, changes to chain healing equal to the damage amount.",友軍を指して解放することができ、友軍を指す場合は、チェーン治療と同等のダメージ量の体力値に変更する,可以指向友军释放，指向友军时，改为连锁治疗等同于伤害量的体力值,

@@ -1,0 +1,35 @@
+{
+    "S_PLANA_7": {
+        "UseAp": 3,
+        "Target": "all_ally",
+        "Particle": "Particle/Battle_Uncurse",
+        "Effect_Target": "SE_PLANA_7",
+        "Name": "\"未来\"",
+        "Description": "抽一张牌，并回复等同该卡的费用。 清除所有其他友方的过载。 追加治疗所有友方等同\"你本回合使用卡片的数量&a\"*普拉娜一定比例治愈力",
+        "SkillExtended": [
+            "PLANA.S_PLANA_7"
+        ],
+        "NotCount": true,
+        "ViewBuff": true,
+        "HealSkill": true,
+        "User": "PLANA",
+        "Image_2": "S_PLANA_7\\S_PLANA_7_Image_2.png",
+        "Image_1": "S_PLANA_7\\S_PLANA_7_Image_1.png",
+        "Image_0": "S_PLANA_7\\S_PLANA_7_Image_0.png",
+        "_gdeSchema": "Skill",
+        "Category": "null",
+        "Rare": false,
+        "NODOD": false,
+        "NotChuck": false,
+        "Disposable": false,
+        "NoDrop": false,
+        "IgnoreTaunt": false,
+        "Except": false,
+        "NoBasicSkill": false,
+        "Basic": false,
+        "Track": false,
+        "Fatal": false,
+        "EnemyPreview": false,
+        "UnknownTarget": false
+    }
+}

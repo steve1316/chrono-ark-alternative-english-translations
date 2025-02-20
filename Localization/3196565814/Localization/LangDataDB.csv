@@ -1,0 +1,43 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_chiyo_0_Name,Text,,받는 치유량 증가!,Increased Healing Received!,,获得治疗量增加,
+Buff/B_chiyo_1_Description,Text,,피격시 해제되고 마나를 1회복합니다.,Removed when hit and restores 1 mana.,,被攻击时移除并提高恢复一点法力值,
+Buff/B_chiyo_1_Name,Text,,정신 보호,Mental Protection,,精神保护,
+Buff/B_chiyo_P_Description,Text,,지원중입니다.,Currently supporting.,,正在支援哦~,
+Buff/B_chiyo_P_Name,Text,,지원중,Supporting,,在支援哦~,
+Character/chiyo_CampSelectWord,Text,,꼭 내가 필요한 일이야?,Do you really need me?,,一定需要我吗？,
+Character/chiyo_PassiveDes,Text,,"레벨업 할 때마다 빵을 1개 얻습니다.
+스킬을 6번 사용하면 스킬을 1장 뽑고 아군을 5치유합니다.","Gains 1 bread each time she levels up.
+After using a skill 6 times, draws 1 skill and heals an ally by 5 HP.",,"七曜每次升级获得一个面包。
+每使用6次技能抽取1个技能，并治疗友军5点体力",
+Character/chiyo_PassiveName,Text,,직감,Intuition,,直觉,
+Character/chiyo_SelectInfo,Text,,"어느날 방주에 나타난 소녀입니다. 방주 내의 인원들 모두가 처음 보는 소녀였지만, 그녀는 모두를 알고 있는 것 같습니다.
+
+직접적인 치유 능력은 부족하지만, 스킬을 지원하는 능력을 보유하고 있습니다.","A girl who appeared on the Ark one day. Everyone on the Ark saw her for the first time, but she seems to know everyone.
+
+Though lacking direct healing abilities, she possesses the ability to support skills.",,"某一天突然出现在方舟的神秘少女。方舟内的人员都是第一次见到的女孩，但她好像认识所有人。
+七曜虽然缺乏直接的治愈能力，但拥有辅助别人的能力。",
+Character/chiyo_name,Text,,치요,Chiyo,,七曜,
+Skill/S_chiyo_0_Description,Text,,선택한 스킬의 비용이 1 감소하고 사용시 체력을 5회복합니다.,Reduces the cost of the selected skill by 1 and restores 5 HP when used.,,选中技能费用减少1，使用时体力恢复5点,
+Skill/S_chiyo_0_Name,Text,,비용 지원,Cost Support,,费用支援,
+Skill/S_chiyo_1_Description,Text,,선택한 스킬에 신속을 부여하고 사용시 체력을 5회복합니다.,Grants Haste to the selected skill and restores 5 HP when used.,,选中技能获得迅速，使用时体力恢复5点,
+Skill/S_chiyo_1_Name,Text,,신속 지원,Haste Support,,迅速支援,
+Skill/S_chiyo_2_Description,Text,,"선택한 스킬의 비용이 1증가하지만, 1회 더 사용합니다.",Increases the cost of the selected skill by 1 but allows it to be used one additional time.,,选中技能费用增加1，但重复释放一次,
+Skill/S_chiyo_2_Name,Text,,기술 지원,Technical Support,,技术支援,
+Skill/S_chiyo_3_Description,Text,,"선택한 스킬의 비용이 1증가 하지만, 이번 전투동안 신속을 부여합니다.",Increases the cost of the selected skill by 1 but grants Haste for the duration of this battle.,,选中技能费用增加1，但本次战斗中获得迅速,
+Skill/S_chiyo_3_Name,Text,,신속 강화,Haste Enhancement,,迅速强化,
+Skill/S_chiyo_4_Description,Text,,"선택한 스킬의 카운트가 1증가하지만, 치명타가 발생합니다.",Increases the count of the selected skill by 1 but guarantees a critical hit.,,选中技能倒计时增加1，但必定暴击,
+Skill/S_chiyo_4_Name,Text,,공격 지원,Attack Support,,攻击支援,
+Skill/S_chiyo_5_Description,Text,,'지원중'을 2얻습니다.,Gains 2 stacks of Supporting.,,获得两层支援buff,
+Skill/S_chiyo_5_Name,Text,,지원중!,Supporting!,,支援！,
+Skill/S_chiyo_6_Description,Text,,선택한 대상의 스킬을 1장 뽑고 받는 치유량 증가를 부여합니다.,"Draws 1 skill from the selected target and grants ""Increased Healing Received!""",,抽取目标1个技能，并给予获得治疗量增加,
+Skill/S_chiyo_6_Name,Text,,집중 지원,Focused Support,,集中支援,
+Skill/S_chiyo_7_Description,Text,,'정신 보호'를 부여합니다.,Grants Mental Protection.,,赋予“精神保护”,
+Skill/S_chiyo_7_Name,Text,,잠금,Lock,,锁定,
+Skill/S_chiyo_8_Description,Text,,이번 전투 동안 손에 있는 모든 스킬의 비용이 1감소하고 신속을 부여합니다.,Reduces the cost of all skills in hand by 1 and grants Haste for the duration of this battle.,,本次战斗期间，手上所有技能的费用减少1，赋予快速。,
+Skill/S_chiyo_8_Name,Text,,광역 지원,Wide-Area Support,,广域支援,
+Skill/S_chiyo_9_Description,Text,,"손에 있는 모든 스킬에 확정 치명타를 부여하고, 이번 전투동안 비용이 1감소합니다.",Guarantees critical hits for all skills in hand and reduces their cost by 1 for the duration of this battle.,,本次战斗期间，手上所有技能的费用减少1，必定暴击,
+Skill/S_chiyo_9_Name,Text,,치명 지원,Critical Support,,致命支援,
+Skill/S_chiyo_LucyD_Description,Text,,스킬을 1장 뽑고 선택한 대상의 스킬을 1장 뽑습니다.,Draws 1 skill and draws 1 skill from the selected target.,,抽取1个技能后再抽取目标1个技能,
+Skill/S_chiyo_LucyD_Name,Text,,대상 지원,Target Support,,对象支援,
+,,,,,,,
+

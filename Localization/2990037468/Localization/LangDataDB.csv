@@ -1,0 +1,113 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Skill/S_Omega_1_Name, Text,,,Vanguard Li.legion,,前驱李.legion,
+Skill/S_Omega_1_Description, Text,,,"If this skill has already been used this turn, gain 1 swap count.",,使用时，若本回合已使用过该技能，获得1交换次数。,
+Skill/S_Omega_2_Name, Text,,,Rearguard Aura.legion,,后卫奥拉.legion,
+Skill/S_Omega_2_Description, Text,,,"If this skill has already been used this turn, gain Healing Gauge Protection for 3 turns.",,使用时，若本回合已使用过该技能，自身获得3回合保护体力极限。,
+Skill/S_Omega_3_Name, Text,,,Centurion Cyria.legion,,中锋希里亚.legion,
+Skill/S_Omega_3_Description, Text,,,"If this skill has already been used this turn, perform an additional attack on the target, dealing &a damage. (50% ATK)
+
+For each additional use this turn, attack 1 additional target (currently &b additional targets).",,"使用时，若本回合已使用过该技能，则对目标进行一次追加攻击，造成&a点伤害。（50%攻击力）
+本回合每额外使用过1次，追加攻击额外攻击1个目标(当前额外攻击&b个)",
+Skill/S_Omega_3_0_Name, Text,,,Centurion Cyria.legion,,中锋希里亚.legion,
+Skill/S_Omega_3_0_Description, Text,,,"If this skill has already been used this turn, perform an additional attack on the target, dealing &a damage. (50% ATK)",,使用时，若本回合已使用过该技能，则对目标进行一次追加攻击，造成&a点伤害。（50%攻击力）,
+Skill/S_Omega_4_Name, Text,,,Officer Ika.legion,,士官伊卡.legion,
+Skill/S_Omega_4_Description, Text,,,"When this skill is actively used, select one of your skills from the deck to add to your hand, with the card discarded after 1 turn.
+
+Additionally, if this skill has already been used this turn, the selected skill will not be discarded after 1 turn.",,"主动使用此技能时，从牌库中选择一张自己的技能加入手牌，附带1回合后弃牌。
+此外在使用时，若本回合已使用过该技能，选择的技能将不再附带1回合后弃牌。",
+Skill/S_Omega_5_Name, Text,,,Apostle Misera.legion,,使徒米塞拉.legion,
+Skill/S_Omega_5_Description, Text,,,"When this skill is actively used, randomly generate a one-time .blood skill.
+
+Additionally, if this skill has already been used this turn, refresh your fixed ability.",,"主动使用此技能时，随机生成1个附带一次性的.blood技能。
+此外在使用时，若本回合已使用过该技能，刷新自己的固定能力。",
+Skill/S_Omega_6_Name, Text,,,Advisor Sika.legion,,幕僚西卡.legion,
+Skill/S_Omega_6_Description, Text,,,"When drawn, discard all .blood skills in hand.
+
+When used, draw .blood skills from the discard pile until the hand limit is reached, performing additional attacks based on the number of skills discarded (&b times), dealing &a damage per attack. (130% ATK)",,"抽取到该技能时，丢弃手中所有.blood技能。
+使用时从弃牌堆抽取.blood技能直至手牌上限，根据抽到时丢弃的技能数量追加攻击(&b次)，每次造成&a点伤害。(130%攻击力)",
+Skill/S_Omega_7_Name, Text,,,Blood Sacrifice.blood,,血祭.blood,
+Skill/S_Omega_7_Description, Text,,,"Randomly generate 1 normal .legion skill and 1 .blood skill
+
+Both have one-time use.",,"随机生成普通.legion技能和.blood技能各1个
+
+其附带一次性。",
+Skill/S_Omega_8_Name, Text,,,Blood Fall.blood,,血陨.blood,
+Skill/S_Omega_8_Description, Text,,,"When used, perform an additional attack on all enemies based on the number of skills in hand, dealing &a damage. (15% ATK)
+
+If this skill has already been used this turn, the additional attack damage becomes &b (25% ATK).",,"使用时，根据手牌中的技能数量，对所有敌人进行&a伤害的追加攻击。（15%攻击力）
+
+若本回合已使用过该技能，追加攻击伤害改为&b(25%攻击力)。",
+Skill/S_Omega_8_0_Name, Text,,,Blood Fall.blood,,血陨.blood,
+Skill/S_Omega_8_1_Name, Text,,,Blood Fall.blood,,血陨.blood,
+Skill/S_Omega_9_Name, Text,,,Blood Rebirth.blood,,浴血重生.blood,
+Skill/S_Omega_9_Description, Text,,,"Select 1 of your normal skills from the discard pile to add to your hand, with the card discarded after 2 turns.",,选择弃牌堆中1张自己的普通技能加入手牌，附带2回合后弃牌。,
+Skill/S_Omega_Lucy_Name, Text,,,Reprogram.omega,,重编程.omega,
+Skill/S_Omega_Lucy_Description, Text,,,"Draw two skills.
+This skill is also considered a .legion skill.
+
+When used, if this skill has already been used this turn, restore 2 mana.",,"抽取两个技能
+该技能同时视为.legion技能。
+使用时，若本回合已使用过该技能，恢复2点法力值。",
+Skill/S_Omega_P_Name, Text,,,Blood Moon,,血月,
+Skill/S_Omega_P_Description, Text,,,"Select 1 skill from Blood Blade.blood, Blood Thorn.blood, Blood Shield.blood to add to your hand.
+
+Can be used even when unable to act.",,"从血刃、血刺、血盾.blood技能中选择1个加入手牌。
+无法行动的状态下也能释放。",
+Skill/S_Omega_P_0_Name, Text,,,Blood Blade.blood,,血刃.blood,
+Skill/S_Omega_P_1_Name, Text,,,Blood Thorn.blood,,血刺.blood,
+Skill/S_Omega_P_1_Description, Text,,,"When killing, add a copy of this skill to your hand.",,击杀时，向手中加入一个该技能的复制。,
+Skill/S_Omega_P_2_Name, Text,,,Blood Shield.blood,,血盾..blood,
+Skill/S_Omega_R1_Name, Text,,,Commander Loredo.legion,,军团长罗雷多.legion,
+Skill/S_Omega_R1_Description, Text,,,"Can be used if this skill has been used 3 times this turn or if you hold 3 skills with the same initial cost in hand.
+
+When used, play all skills with the highest number of matching initial costs in hand, prioritizing lower-cost skills when equal; then add an equal number of Blood Rain.blood to your hand and select one .legion skill or your own skill from the deck and discard pile to draw, with its cost becoming 0.
+",,"本回合本技能已使用3次或手中持有3个初始费用相同的技能时可以使用。
+使用时打出所有手中初始费用相同的技能数最多的技能，相同时优先打出费用更低的技能;然后向手中添加等量的血雨.blood并从牌堆和弃牌堆中选择一个.legion技能或自己的技能抽取，其费用变为0。",
+Skill/S_Omega_R1_0_Name, Text,,,Blood Rain.blood,,血雨.blood,
+Skill/S_Omega_R1_0_Description, Text,,,"When drawn, immediately cast this skill.",,抽取该技能时，直接释放该技能。,
+Skill/S_Omega_R2_Name, Text,,,Fallacy,,谬论,
+Skill/S_Omega_R2_Description, Text,,,"Select a skill as the target. (Excluding Lucy skills and rare skills)
+
+When using a skill other than the target skill and Fallacy from your hand, the target skill will be copied and cast. Up to 3 times.
+
+",,"选择一个技能作为目标。（露西技能和稀有技能除外）
+在使用目标技能和谬论以外的其他手牌中的技能时，目标技能将被复制并释放。最多3次。",
+SkillExtended/Ex_Omega_1_Name, Text,,,Release this skill to cast Blood Moon once.,,释放此技能时，释放一次血月。,
+SkillExtended/Ex_Omega_1_EnforceString, Text,,,Any Skill,,任意技能,
+SkillExtended/Ex_Omega_R2_0_Name, Text,,,Automation,,自动化,
+SkillExtended/Ex_Omega_R2_0_Des, Text,,,"When playing other skills in hand, cast a copy of this skill, remaining &a times.",,打出手中其它技能时，释放该技能的复制，剩余&a次。,
+Buff/B_Omega_P_2_T_Name, Text,,,Blood Shield,,血盾,
+Character/Omega_name, Text,,,OMEGA,,欧米茄,
+Character/Omega_PassiveName, Text,,,Legion Command,,军团指令,
+Character/Omega_PassiveDes, Text,,,"Can use the fixed ability: Blood Moon
+
+Each time a .blood skill in hand is cast, all .legion skills in hand are counted as used once (only counts the number of times, does not trigger effects).",,"可以使用固定能力：血月
+每当手牌中.blood技能释放时，手牌中所有.legion技能视为使用一次（仅计算次数，不触发效果）。",
+Character/Omega_SelectInfo, Text,,,"OMEGA is the leader of the Astrika Foundation—a hacker organization similar to Quantum, but stricter and more militarized. Rescued by QUEEN during an incident.
+Afterwards, he requested to join Quantum and assists her in network investigations.
+OMEGA excelled at hacking within the Astrika Foundation, now assisting the QUEEN in the Twisted Lands to find characteristic hacking data streams. 
+
+OMEGA’s legion codes gain powerful output means after identifying enemy information.",,"欧米茄是九头蛇的领导者——一个像量子一样的黑客组织，但它更严格，更军事化。在某次事故时被女王解救。
+之后他请求加入量子，并协助女王从事网络调查。
+欧米茄在九头蛇组织时擅长骇入，现于扭曲之地协助女王找出具有特征性的骇入数据流。欧米茄的军团代码经过识别敌人信息之后将会获得强力的输出手段。",
+Character/Omega_Text_Battle_Idle_0, Text,,,Now's the time.,,就是现在。,
+Character/Omega_Text_Battle_ND_0, Text,,,Not so bad.,,不是那么糟糕。,
+Character/Omega_Text_Battle_Kill_0, Text,,,Attack now.,,趁现在，进攻。,
+Character/Omega_Text_Battle_Kill_1, Text,,,Finish him.,,了结他。,
+Character/Omega_Text_Battle_Start_0, Text,,,Let me end this.,,让我来终结这一切吧。,
+Character/Omega_Text_Battle_Cri_0, Text,,,Next...,,接下来…,
+Character/Omega_Text_Field_Idle_0, Text,,,Let's get started.,,快开始吧。,
+Character/Omega_Text_Field_Potion_P_0, Text,,,...,,……,
+Character/Omega_Text_PharosLeader_0, Text,,,...,,…………,
+Character/Omega_Text_PharosLeader_1, Text,,,...,,……,
+Character/Omega_Text_PharosLeader_2, Text,,,...,,……,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,

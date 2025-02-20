@@ -1,0 +1,906 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Youmu_0_Description,Text,,"2중첩 시, 손에 발도술이 없으면 발도술 1장을 손에넣고 이 버프를 해제합니다.","When stacks reach 2, remove this buff. If you do not have ""Slash"" in your hand, add 1 ""Slash"" to your hand.",ストック数が2に達したときに手札に「抜刀」がない場合、「抜刀」を手札に1枚加える。効果発動後、これを除去する。,叠到2层时，解除该增益。并且如果手中没有拔刀术，将一张拔刀术加入手牌。,疊到2層時，解除該增益。並且如果手中沒有拔刀術，將一張拔刀術加入手牌。
+Buff/B_Youmu_0_Name,Text,,정신집중,Holding Breath and Focusing,息を止め集中する,屏息凝神,屏息凝神
+Buff/B_Youmu_10_Description,Text,,"적이 아군을 <b>공격 하기 전에</b> 그 적을 공격해, 버프 중첩마다 &a(공격력 48%)의 반격 피해를 입힙니다.","Each time an enemy attacks, <b>attack the enemy preemptively before their action</b> and retaliate with &a (55% of ATK) damage per stack.",敵が攻撃するたび、<b>敵が攻撃する前に先制して攻撃を行い</b>、ストック1ごとに&a(攻撃力の55%)のダメージで繰り返し反撃する。 ,每当敌人瞄准友军时，<b>抢先在敌人行动前</b>攻击，对其进行该增益层数次数的&a（55%攻击力）点伤害的反击。,每當敵人瞄準友軍時，<b>搶先在敵人行動前</b>攻擊，對其進行該增益層數次數的&a(48%攻擊力)點傷害的反擊。
+Buff/B_Youmu_10_Name,Text,,반사하계참,Lower Realm Reflection Slash,反射下界斬 ,反射下界斩,反射下界斬
+Buff/B_Youmu_1_Description,Text,,반령이 우선적으로 공격합니다.,"Becomes the primary target for ""Half-Phantom"".",「半霊 」が対象を優先して攻撃する。,成为半灵优先攻击的目标。,成為半靈優先攻擊的目標。
+Buff/B_Youmu_1_Name,Text,,빙좌의 오랏줄,Spirit Medium's Bind,憑坐の縛 ,凭依之缚,憑依之縛
+Buff/B_Youmu_1_S_Description,Text,,,"When using an Fixed ability, additionally trigger ""Half-Phantom"" once (does not increase Spell Card Energy stacks).",自身が固定能力を使用するとき、「半霊」を1回繰り返し発動する。(スペルカードエネルギーのストックは増加しない),使用自身的固定能力时，追加释放1次“半灵冲撞”（不会积攒符卡能量）。,使用自身的固定能力時，追加釋放1次“半靈衝撞”。
+Buff/B_Youmu_1_S_Name,Text,,,Coordinated Strike,連携攻撃 ,协同攻击,協同攻擊
+Buff/B_Youmu_2_S_Description,Text,,,"When generating ""Slash"", consume 1 stack to reduce the cost of the generated ""Slash"" by 1.",「抜刀」を生成するときにストックを1消費し、生成した「抜刀」のコストを1減少する。,生成拔刀斩时，解除1层该增益，并使生成的拔刀斩获得费用-1。,生成拔刀斬時，解除1層該增益，並使生成的拔刀斬獲得費用-1。
+Buff/B_Youmu_2_S_Name,Text,,,Mental Focus,精神集中,聚精会神,聚精會神
+Buff/B_Youmu_4_Description,Text,,현월참을 반복해 시전합니다.,Cast “Crescent Moon Slash” repeatedly.,「弦月斬」 を繰り返し発動する。,连续释放弦月斩。,連續釋放弦月斬。
+Buff/B_Youmu_4_Name,Text,,현월 대기,Crescent Moon Readiness,弦月連斬 ,弦月就绪,弦月就緒
+Buff/B_Youmu_Ex_10_Description,Text,,"적이 아군을 <b>공격 하기 전에</b> 그 적을 공격해, 버프 중첩마다 &a(공격력 70%)의 반격 피해를 입힙니다.
+턴 종료 시 스펠카드가 &b중첩(이 버프의 중첩 수) 이상이면, &b중첩을 소모하고 이 버프의 지속시간을 1턴 증가시킵니다.","Each time an enemy attacks, <b>attack the enemy preemptively before their action</b> and retaliate against the attacker with &a (80% of ATK) damage per stack. 
+At turn end, if [Spell Card] stacks are ≥ &b (this buff's stacks), consume &b stacks to extend this buff's duration by 1 turn.","敵が攻撃するたび、<b>敵が攻撃する前に先制して攻撃を行い</b>、攻撃者にストック1ごとに&a(攻撃力の80%)のダメージで繰り返し反撃する。 
+ターン終了時、[符]のストック数が&b(このバフのストック数)以上の場合、&bストック(このバフのストック数)消費してこのバフの持続時間を1ターン延長する。","每当敌人瞄准友军时，<b>抢先在敌人行动前</b>攻击，对其进行该增益层数次数的&a（80%攻击力）点伤害的反击。
+回合结束时，如果符卡层数为&b（该增益的层数）层及以上，消耗&b（该增益的层数）层符卡并延长1回合持续时间。","每當敵人瞄準友軍時，<b>搶先在敵人行動前</b>攻擊，對其進行該增益層數次數的&a(70%攻擊力)點傷害的反擊。
+回合結束時，如果符卡層數為&b(該增益的層數)層及以上，消耗&b(該增益的層數)層符卡並延長1回合持續時間。"
+Buff/B_Youmu_Ex_10_Name,Text,,「대소반사위성참」,「Matsuyoi-Reflecting Satellite Slash」,待宵反射衛星斬,「待宵反射卫星斩」,「待宵反射衛星斬」
+Buff/B_Youmu_Ex_LucyD_1_Description,Text,,이번 턴에 '발도술'을 사용할 때마다 스킬 교환 횟수를 1 얻습니다.,"During this turn, gain 1 Exchange every time you play ""Slash"".",このターン中、「抜刀」を使用するたびに交換回数が1増加する。,本回合内，每次发动“拔刀术”时，获得一次交换机会。,本回合內，每次發動“拔刀術”時，獲得一次交換機會。
+Buff/B_Youmu_Ex_LucyD_1_Name,Text,,악령,Wicked Soul,悪し魂 ,恶魂,惡魂
+Buff/B_Youmu_Ex_R_1_Description,Text,,요우무가 사용하는 스펠카드가 아닌 모든 스킬을 카운트 1로 한 번 더 시전합니다.,"During this buff's duration, when Youmu uses a non-Spell Card skill, recast that skill with a 1-countdown. 
+Removed at turn end.","持続時間中に魂魄妖夢が所持者の「スペルカード強化」または「符の消費」を持たないスキルを使用したとき、カウントダウン1でそのスキルを1回繰り返し発動する。
+ターン終了時、除去される。","持续时间内，妖梦使用的所有非符卡技能都会以倒计时1的方式重复释放一次。
+回合结束时解除。","持續時間內，妖夢使用的所有非符卡技能都會以倒計時1的方式重複釋放一次。
+回合結束時解除。"
+Buff/B_Youmu_Ex_R_1_Name,Text,,혼백「유명구문지총명의 법」,Konpaku 「Dharma of Gumonji Wisdom of the Living and Dead」,魂魄-幽明求聞持聡明の法 ,魂魄「幽明求闻持聪明之法」,魂魄「幽明求聞持聰明之法」
+Buff/B_Youmu_Ex_R_2_S_Name,Text,,공관검「육근청정참」,Voidness Sword 「Slash Clearing the Six Senses」,空観剣-六根清浄斬,空观剑「六根清净斩」,空觀劍「六根清淨斬」
+Buff/B_Youmu_Hakurouken_Description,Text,,고통 피해를 받으면 이 디버프의 '방어력 감소' 효과가 증가합니다.,Pain damage taken increases based on DEF-reduction debuffs applied to self.,苦痛ダメージを受けたとき、自身が持つ防御力減少デバフにより苦痛ダメージが増加する。,受到的痛苦伤害根据自身所带有的减益的“防御力降低”效果提升。,受到的痛苦傷害根據自身所帶有的減益的“防禦力降低”效果提升。
+Buff/B_Youmu_Hakurouken_Name,Text,,파갑,Armor Break,装甲破壊,破甲,破甲
+Buff/B_Youmu_Hakurouken_T_Description,Text,,,,,,
+Buff/B_Youmu_Hakurouken_T_Name,Text,,,Hakurouken,白楼剣,白楼剑,
+Buff/B_Youmu_Limit_Boss_Description,Text,,턴 시작 시 해제됩니다.,Removed at turn start.,ターン開始時、除去される。,回合开始时解除。,回合開始時解除。
+Buff/B_Youmu_Limit_Boss_Name,Text,,BOSS-방호결계,BOSS - Protective Barrier,ボス-保護結界,BOSS-防护结界,BOSS-防護結界
+Buff/B_Youmu_Limit_Description,Text,,"보스가 아닌 대상에게 부여되면 다음 행동이 취소됩니다.
+보스는 대신 1턴동안 동결됩니다.
+턴 시작 시 해제됩니다.","When applied: Cancel target's next action if not a Boss. 
+Freeze Bosses for 1 turn instead. 
+Removed at turn start.","これが与えられたとき、対象がボス以外で次の行動を持つ場合、その行動をキャンセルする。
+対象がボスの場合、代わりに1ターンの間、[凍結]を与える。
+ターン開始時、除去される。","获得该减益时，如果该角色不是BOSS单位，并且有下一次行动，则取消下一次行动。
+如果该单位是BOSS单位，改为获得持续1回合的冻结。
+回合开始时解除。","獲得該增益時，如果該角色不是BOSS單位，並且有下一次行動，則取消下一次行動。
+如果該單位是BOSS單位，改為獲得持續1回合的凍結。
+回合開始時解除。"
+Buff/B_Youmu_Limit_Name,Text,,보호결계,Protective Barrier,保護結界,保护结界,保護結界
+Buff/B_Youmu_P_0_Description,Text,,"4중첩 시, 스펠카드를 1중첩 얻고 이 버프를 해제합니다.","When stacks reach 4, remove this buff and gain 1 Spell Card stack.",ストックが4に達したとき、このバフを除去して[符]を1ストック得る。,叠加到4层时，解除该增益并获得1层符卡层数。,疊加到4層時，解除該增益並獲得1層符卡層數。
+Buff/B_Youmu_P_0_Name,Text,,스펠카드 에너지,Spell Card Energy,スペルカードエネルギー,符卡能量,符卡能量
+Buff/B_Youmu_P_Description,Text,,"스펠카드:&a
+스펠카드 에너지:&b
+일부 스킬은 스펠카드를 소모하여 강화할 수 있습니다.","Spell Card stacks: &a
+Spell Card Energy stacks: &b
+Some skills consume [Spell Card] stacks to empower effects.","符のストック数:&a
+スペルカードエネルギーのストック数:&b
+一部のスキルは[符]を消費することで強化される。","符卡层数：&a
+符卡能量：&b
+部分卡牌可以消耗符卡层数进行强化。","符卡層數：&a
+符卡能量：&b
+部分卡牌可以消耗此增益進行強化。"
+Buff/B_Youmu_P_Name,Text,,스펠카드,Spell Card,符,符卡,符卡
+Buff/B_Youmu_P_T_Description,Text,,요우무에게 받은 총 피해,Tracks whether damage has been received from Youmu.,魂魄妖夢からダメージを受けているかどうかの状態。,统计是否受到妖梦的伤害。,統計是否受到妖夢的傷害。
+Buff/B_Youmu_P_T_Name,Text,,받은 피해,Damage Status,ダメージ状態,受伤统计,受傷統計
+Buff/B_Youmu_R_1_Description,Text,,"다음 두 번의 카운트 동안 요우무가 사용하는 스펠카드가 아닌 모든 스킬을 카운트 1로 한 번 더 시전합니다.
+남은 카운트 : &a","During this countdown, when Youmu uses a non-Spell Card skill, recast that skill with a 1-countdown. 
+Remaining countdown: &a","このカウントダウン中に魂魄妖夢が所持者の「スペルカード強化」または「符の消費」を持たないスキルを使用したとき、カウントダウン1でそのスキルを1回繰り返し発動する。
+残りカウントダウン: &a","接下来一次倒计时内，妖梦使用的所有非符卡技能都会以倒计时1的方式重复释放一次。
+剩余倒计时：&a","接下來一次倒計時內，妖夢使用的所有非符卡技能都會以倒計時1的方式重複釋放一次。
+剩餘倒計時：&a"
+Buff/B_Youmu_R_1_Name,Text,,혼부「유명의 고륜」,Soul Sign 「Wheel of Pain of the Living and Dead」,魂符「幽明の苦輪」,魂符「幽明的苦轮」,魂符「幽明的苦輪」
+Buff/B_Youmu_R_2_Achieve_Description,Text,,"턴 시작 시, 형안검 1장을 손에넣고 이 버프를 해제합니다.","At next turn start, add ""Insightful Sword"" to hand and remove this.",次のターン開始時、「炯眼剣」 を手札に加え、これを除去する。,下回合开始时，将炯眼剑加入手中并解除该增益。,下回合開始時，將炯眼劍加入手中並解除該增益。
+Buff/B_Youmu_R_2_Achieve_Name,Text,,방어 성공,Parry Successful,防御成功,格挡成功,格擋成功
+Buff/B_Youmu_R_2_S_Description,Text,,행동할 수 없습니다.,Unable to act.,行動不能,无法行动。,無法行動。
+Buff/B_Youmu_R_2_S_Name,Text,,쳐내기,Sword Parry Stance,刀で防ぐ,持刀格挡,持刀格擋
+Buff/B_Youmu_R_2_T_Name,Text,,방어태세,Defensive Posture,防御姿勢,格挡架势,格擋架勢
+Buff/B_Youmu_R_EX_Description,Text,,"적에게 비고통 피해를 줄 때마다 추가로 <color=purple>화상 고통 디버프</color> 1중첩을 부여하고 즉시 <color=purple>화상 고통 디버프</color>의 피해를 1회 입힙니다. 
+이때 입히는 <color=purple>화상</color> 피해는 일반적인 피해의 3분의 1입니다.","Each time non-Pain damage is dealt to enemies, apply 1 stack of <color=purple><sprite name=""Youmu_B_Mokou_T_1"">Scorching</color> and trigger its effect immediately (deals 1/3 damage).","苦痛以外のダメージを敵に与えるたび、さらに<color=purple><sprite name=""Youmu_B_Mokou_T_1"">灼熱</color>を1ストック与え、<color=purple><sprite name=""Youmu_B_Mokou_T_1"">灼熱</color>の効果を発動する。これにより発動する<color=purple><sprite name=""Youmu_B_Mokou_T_1"">灼熱</color>は与えるダメージが3分の1になる。","每次对敌人造成非痛苦伤害时，额外施加一层<color=purple><sprite name=""Youmu_B_Mokou_T_1"">烧伤</color>并立刻结算一次<color=purple><sprite name=""Youmu_B_Mokou_T_1"">烧伤</color>。这次<color=purple><sprite name=""Youmu_B_Mokou_T_1"">烧伤</color>只会造成三分之一的伤害。",每次對敵人造成非痛苦傷害時，額外施加一層<color=purple>燒傷痛苦減益</color>並立刻結算一次<color=purple>燒傷痛苦減益</color>。這次<color=purple>燒傷</color>只會造成三分之一的傷害。
+Buff/B_Youmu_R_EX_Name,Text,,<color=red>「류 인 약 화」</color>,<color=red>「Flowing Blade-like Flame」</color>,<color=red>「流 刃 様 火」</color>,<color=red>「流 刃 似 火」</color>,<color=red>「流 刃 似 火」</color>
+Buff/B_Youmu_Roukanken_T_Name,Text,,,Roukanken,楼観剣,楼观剑,
+Buff/B_Youmu_SC_Description,Text,,피해를 입힐 때 스펠카드를 얻을 수 없습니다.,Damage dealt no longer increases [Spell Card] stacks.,ダメージを与えたときの[符]のストックの増加を失う。 ,造成的伤害将不会计入符卡获得。,造成的傷害將不會計入符卡獲得。
+Buff/B_Youmu_SC_Name,Text,,스펠카드 선언!,Spell Card Declaration!,スペルカード宣言！,你使用了符卡！,你使用了符卡！
+Buff/B_Youmu_Soul_Description,Text,,요우무에게 공격받을 때 입는 피해가 &a 증가.,Damage taken from Youmu increases by &a.,魂魄妖夢からダメージを受けたとき、受けるダメージが&a増加する。,受到来自妖梦的伤害时，伤害增加&a。,受到來自妖夢的傷害時，傷害增加&a。
+Buff/B_Youmu_Soul_Name,Text,,공격 유도,Attack Guidance,攻撃誘導,引导攻击,引導攻擊
+Buff/B_Yuyuko_Fan_Description,Text,,,,,,
+Buff/B_Yuyuko_Fan_Name,Text,,죽음의 경계,Boundary Between Life and Death,生と死の境界 ,死亡的边界,死亡的邊界
+Buff/B_Yuyuko_Ghost_Description,Text,,공격 시 대상에게 [죽음의 경계] 1층을 부여합니다. 사망 후 우선적으로 처치자의 스킬 1개를 뽑습니다.,"When attacking: Apply 1 stack of [Boundary Between Life and Death]. 
+Lose &a HP (34% of max HP). 
+When defeated: Prioritize drawing 1 skill from the attacker.","攻撃時、対象に[生と死の境界]を1ストック与える。
+攻撃時、体力を&a(自身の最大体力の34%)失う。
+倒されたとき、攻撃者のスキルを優先して1枚引く。","攻击时给予目标一层[死亡的边界]。
+攻击后失去&a（自身34%最大体力值）点体力值。
+被击杀后优先抽取1个击杀者的技能。","攻擊時給予目標一層[死亡的邊界]。
+攻擊後失去&a(自身34%最大體力值)點體力值。
+被擊殺後優先抽取1個擊殺者的技能。"
+Buff/B_Yuyuko_Ghost_Name,Text,,유령,Ghost,幽霊,幽灵,幽霊
+Buff/B_Yuyuko_Lunatic_Description,Text,,일부 부적이 강화됩니다.,Certain Spell Cards are enhanced.,一部のスペルカードが強化されている。 ,部分符卡受到强化。,部分符卡受到強化。
+Buff/B_Yuyuko_Lunatic_Name,Text,,Lunatic 난이도,Lunatic Difficulty,難易度ルナティック,Lunatic难度,Lunatic難度
+Buff/B_Yuyuko_NoEnd_Name,Text,,아직 안 끝났어!,It's not over yet!,まだ終わらない！ ,还没完！,還沒完！
+Buff/B_Yuyuko_P_0_Description,Text,,"매 턴 종료 시, 모든 캐릭터에게 [죽음의 경계] 1중첩을 부여합니다. 
+해당 캐릭터에게 남은 체력 한계가 있다면 [죽음의 경계]를 1중첩 더 부여합니다. 
+유령 4마리가 사망할 때마다 앵부「사이교우 벚꽃 폭풍」을 한 번 시전합니다. 
+Lunatic: 유령 3마리가 사망할 때마다 앵부「사이교우 벚꽃 폭풍」을 한 번 시전합니다. 
+사망한 유령 수: &a","At each turn end: Apply 1 [Boundary Between Life and Death] stack to all allies. 
+Apply +1 stack if target has Healing Gauge. 
+Activate Cherry Blossom Sign 「Saigyou Cherry Blossom Blizzard」 every 4 Ghost deaths (3 in Lunatic). 
+Ghost deaths: &a","毎ターン終了時、すべての味方に[生と死の境界]を1ストック与える。 
+対象が回復ゲージを持つ場合、さらに[生と死の境界]を1ストック与える。
+幽霊が合計で4体死亡するたび、「桜符-西行桜吹雪」を1回発動する。 
+ルナティック： 幽霊が合計で3体死亡するたび、「桜符-西行桜吹雪」を1回発動する。 
+ 死亡した幽霊の数: &a ","每回合结束时，对所有角色施加1层[死亡的边界]。
+如果那个角色有剩余的体力极限，多施加1层[死亡的边界]。
+每有4只幽灵死亡，释放一次樱符「西行樱吹雪」。
+Lunatic：每有3只幽灵死亡，释放一次樱符「西行樱吹雪」。
+死亡的幽灵数量：&a","每回合結束時，對所有角色施加1層[死亡的邊界]。
+如果那個角色有剩餘的體力極限，多施加1層[死亡的邊界]。
+每有4只幽靈死亡，釋放一次櫻符「西行櫻吹雪」。
+Lunatic：每有3只幽靈死亡，釋放一次櫻符「西行櫻吹雪」。
+死亡的幽靈數量：&a"
+Buff/B_Yuyuko_P_0_Name,Text,,죽음으로의 유혹,Lure of Death,死の誘発,引诱死亡,引誘死亡
+Buff/B_Yuyuko_P_Description,Text,,"자신의 체력이 처음으로 10 미만이 되면 최대 체력으로 회복하고, 유접「Ghost Spot - 앵화 -」을 시전하며 형태를 전환합니다.
+자신의 체력이 두 번째로 10 미만이 되면 최대 체력의 15%로 회복하고 앵부「완전히 먹색으로 물든 벚꽃 -개화-」를 시전합니다.
+현재 형태: &a","First HP ≤10: Fully heal and activate Ghostly Butterfly 「Ghost Spot -Cherry Blossoms-」 to shift phase. 
+Second HP ≤10: Heal 15% max HP and activate Cherry Blossom Sign 「Perfect Ink-Black Cherry Blossom -Bloom-」.
+Current phase: &a","初めて体力が10以下になったとき体力を最大まで回復し、「幽蝶-ゴーストスポット - 桜花 -」を発動しフェーズを移行する。
+2回目に体力が10以下になったとき最大体力の15％を回復し、 「桜符-完全なる墨染の桜 -開花-」 を発動する。
+現在のフェーズ: &a ","自身体力值第一次低于10时，恢复至最大体力值，释放幽蝶「Ghost Spot　- 樱花 -」并切换形态。
+自身体力值第二次低于10时，恢复至15%最大体力值并释放樱符「完全墨染的樱花 -开花-」。
+当前形态：&a","自身體力值第一次低於10時，恢復至最大體力值，釋放幽蝶「Ghost Spot　- 櫻花 -」並切換形態。
+自身體力值第二次低於10時，恢復至15%最大體力值並釋放櫻符「完全墨染的櫻花 -開花-」。
+當前形態：&a"
+Buff/B_Yuyuko_P_Name,Text,,망령의 주인,Ghost Princess,亡霊の主,亡灵公主,亡靈公主
+Buff/B_Yuyuko_S_0_Description,Text,,이번 턴 동안 체력이 20 미만으로 떨어지지 않습니다. 턴 종료 시 해제됩니다.,"HP cannot drop below 20 this turn. 
+Removed at turn end.","このターン中、体力は20以下にならない。
+ターン終了時、除去される。","本回合内生命值不会低于20。
+回合结束时解除。","本回合內生命值不會低於20。
+回合結束時解除。"
+Buff/B_Yuyuko_S_0_Name,Text,,-방황하는 영혼-,-Wandering Soul-,-さまよえる魂-,-彷徨的灵魂-,-彷徨的靈魂-
+Buff/B_Yuyuko_S_10_Name,Text,,데미지 통계,Damage Tally,ダメージ統計,伤害统计,傷害統計
+Buff/B_Yuyuko_S_1_Description,Text,,"매 턴 시작 시, 최대 체력의 15%만큼 체력을 회복하고, 유령 하나를 소환합니다.
+남은 턴: &a","At each turn start: Heal 15% max HP and summon 1 Ghost. 
+Remaining turns: &a","毎ターン開始時、体力を最大体力の15%回復し、幽霊を1体召喚する。
+残りターン数：&a","每个玩家回合开始时，恢复15%最大体力值并召唤一个幽灵。
+剩余回合：&a","每個玩家回合開始時，恢復15%最大體力值並召喚一個幽靈。
+剩餘回合：&a"
+Buff/B_Yuyuko_S_1_Name,Text,,화령「Butterfly Delusion」,Flowery Soul 「Butterfly Delusion」,華霊「バタフライディルージョン」,华灵「Butterfly Delusion」,華靈「Butterfly Delusion」
+Buff/B_Yuyuko_S_2_Description,Text,,앵부「Sense of Cherry Blossom」이 완료되면 이 버프를 해제합니다.,Removed after activating Cherry Blossom Sign 「Sense of Cherry Blossom」.,「桜符-センスオブチェリーブロッサム」の発動時、除去する。,当樱符「Sense of Cherry Blossom」结算完成后，解除该增益。,當櫻符「Sense of Cherry Blossom」結算完成後，解除該增益。
+Buff/B_Yuyuko_S_2_Name,Text,,호접몽의 춤,Dance of the Butterfly Dream,胡蝶夢の舞,蝴蝶梦之舞,蝴蝶夢之舞
+Buff/B_Yuyuko_S_3_Description,Text,,"손에 있는 자신의 기술을 사용할 때마다 &a의 고통 피해를 받습니다.
+&b가 &c의 피해를 받으면 이 디버프를 해제합니다(현재 &d의 피해를 받았습니다).","When using skills from hand: Take &a Pain damage. 
+Remove after &c total damage taken by &b (Current: &d).","手札から自身のスキルを使用するたび、&aの苦痛ダメージを受ける。 
+&bが受けたダメージの合計が&cに達したとき、除去される。 (受けたダメージの合計&d)","每当使用手中自己的技能时受到&a点痛苦伤害。
+&b受到&c点伤害后，解除该减益（当前已经受到&d点伤害）。","每當使用手中自己的技能時受到&a點痛苦傷害。
+&b受到&c點傷害後，解除該減益(當前已經受到&d點傷害)。"
+Buff/B_Yuyuko_S_3_Name,Text,,무수의 꿈,Dream of Agelessness,无寿の夢,无寿之梦,無壽之夢
+Buff/B_Yuyuko_S_6_Description,Text,,"3턴마다 「수명-무수국으로의 약속 어음」이 발동됩니다.
+<하드>「수명-무수국으로의 약속 어음」이 발동된 턴 동안 공격력이 25% 증가합니다.","Every 3 turns: Activate Lifespan 「Ticket to the Ageless Land」.
+Hard Difficulty: +25% ATK during activation turn.","3ターン毎に、「寿命-无寿国への約束手形」を発動する。
+<ハード>「寿命-无寿国への約束手形」が発動したターン中、攻撃力が25％増加する。","每经过3回合，额外释放一次“寿命「通向无寿国的期票」”。
+<Hard>释放“寿命「通向无寿国的期票」”的回合，攻击力增加25%。","每經過3回合，額外釋放一次“壽命「通向無壽國的期票」”。
+<Hard>釋放“壽命「通向無壽國的期票」”的回合，攻擊力增加25%。"
+Buff/B_Yuyuko_S_6_Name,Text,,유접「Ghost Spot - 앵화 -」,Ghostly Butterfly 「Ghost Spot -Cherry Blossoms-」,幽蝶「ゴーストスポット - 桜花 -」,幽蝶「Ghost Spot　- 樱花 -」,幽蝶「Ghost Spot　- 櫻花 -」
+Buff/B_Yuyuko_S_7_Description,Text,,"각 플레이어의 턴 시작 시 유령 하나를 소환하고 자신을 제외한 모든 대상에게 각 대상 최대 체력의 10%에 해당하는 고통 피해를 줍니다(최소 3).
+남은 턴: &a","At each turn start: Summon 1 Ghost. Deal 10% max HP Pain damage (min 3) to all non-Death's Door targets except self. 
+Remaining turns: &a","毎ターン開始時、幽霊を1体召喚し、自身以外のすべてを対象として、対象に対象自身の最大体力の10％の苦痛ダメージを与える。(最低で3)
+残りターン数：&a","每个玩家回合开始时，召唤一个幽灵并对除自己以外的不处于濒死状态的所有目标造成相当于各个目标最大生命值10%的痛苦伤害（最低3点）。
+剩余回合：&a","每個玩家回合開始時，召喚一個幽靈並對除自己以外的不處於瀕死狀態的所有目標造成相當於各個目標最大生命值10%的痛苦傷害(最低3點)。
+剩餘回合：&a"
+Buff/B_Yuyuko_S_7_Name,Text,,생자필멸지리 -마경-,Deadly Dance 「Law of Mortality -Demon World-」,亡舞「生者必滅の理 -魔境-」,生者必灭之理 -魔境-,生者必滅之理 -魔境-
+Buff/B_Yuyuko_S_R_Description,Text,,"턴 종료 시, 이 버프를 1중첩 얻습니다.
+이 버프가 6중첩에 도달하면 다음 턴에 <i><color=#EfC0CB>「사이교우지 무여열반」</i></color>을 시전하고 턴 종료 시 사망합니다.
+Lunatic 난이도: 받는 피해가 감소하며, 감소량은 턴 수가 증가함에 따라 줄어듭니다.","At turn end: Gain 1 stack. 
+At 6 stacks: Activate <i><color=#EfC0CB>「Saigyouji Parinirvana」</i></color> next turn and die. 
+Lunatic: Take reduced damage (reduction decreases per turn).","ターン終了時、ストックが1増加する。 
+ストックが6に達したとき、次のターン<i><color=#EfC0CB>「西行寺無余涅槃」</i></color>を発動し、ターン終了時に死亡する。 
+難易度ルナティック: 受けるダメージが減少し、ターン経過によりダメージ軽減率が減少していく。 ","回合结束时，获得一层该增益。
+该增益达到6层后，下一回合释放<i><color=#EfC0CB>「西行寺无余涅槃」</i></color>并于回合结束时死亡。
+Lunatic难度：受到的伤害降低，降低量随着回合数的增加而减少。","回合結束時，獲得一層該增益。
+該增益達到6層後，下一回合釋放<i><color=#EfC0CB>「西行寺無餘涅槃」</i></color>並于回合結束時死亡。
+Lunatic難度：受到的傷害降低，降低量隨著回合數的增加而減少。"
+Buff/B_Yuyuko_S_R_Name,Text,,만개,Full Bloom,満開,满开,滿開
+Buff/B_Yuyuko_T_3_Description,Text,,,,,,
+Buff/B_Yuyuko_T_3_Name,Text,,무수의 꿈-피해 통계,Dream of Agelessness - Damage Tally,无寿の夢もダメージ統計,无寿之梦-伤害统计,無壽之夢-傷害統計
+Buff/B_Yuyuko_T_Description,Text,,이 디버프가 50중첩 이상인 캐릭터를 사망시킵니다.,Die instantly when stacks reach 25.,ストックが25に達したとき、死亡する。,直接击杀拥有超过25层该减益的角色。,直接擊殺擁有超過25層該減益的角色。
+Buff/B_Yuyuko_T_Name,Text,,죽음의 경계,Boundary Between Life and Death,生と死の境界,死亡的边界,死亡的邊界
+Character/Youmu_CampSelectWord,Text,,저를 부르셨나요? 물론 준비됐습니다!,You called? Leave it to me!,お呼びですね？お任せください！,您叫我吗？当然已经准备好了！,您叫我嗎？當然已經準備好了！
+Character/Youmu_PassiveDes,Text,,"""손에서 스킬을 2번 낼 때마다, 무작위 적에게 '반령충돌'을 시전합니다.
+'반령충돌'을 시전할 때마다 고정 능력이 갱신됩니다.
+요우무는 스펠카드가 아닌 스킬을 사용해 고통피해가 아닌 피해를 입히거나 자신이 피해를 받을 때마다 스펠카드 에너지를 1중첩 얻고, 스펠카드 에너지는 4중첩이 되면 스펠카드를 1중첩 얻습니다. 요우무의 일부 스킬은 스펠카드를 소모해 더 강력한 효과를 얻습니다.""","After using 2 skills from hand: Trigger ""Half-Phantom"" (33% ATK) on random enemy and refresh Fixed ability. 
+Gain 1 Spell Card Energy when dealing/receiving non-Pain damage with non-Spell Card skills. At 4 Energy: Gain 1 Spell Card stack. Some skills consume stacks for upgrades.","手札から自身のスキルを2枚使用するたび、ランダムな敵1体に「半霊 」(攻撃力の33%)を1回発動し、固定能力が使用可能になる。
+「スペルカード強化」または「符の消費」を持たないスキルで苦痛以外のダメージを与えるかダメージを受けるたび、[スペルカードエネルギー]を1ストック得る。[スペルカードエネルギー]のストックが4に達したとき、[符]を1ストック得る。一部のスキルは[符]のストックを消費し強化される。","每使用两个手中的妖梦的技能，会对随机目标使用一张“半灵冲撞”（33%攻击力），并刷新固定能力。
+妖梦每次使用非符卡技能造成非痛苦伤害或者受到伤害时叠加一层符卡能量，符卡能量叠加至4层时获得1层符卡层数，部分卡牌可以消耗符卡层数获得更加强力的效果。","每使用兩個手中的妖夢的技能，會對隨機目標使用一張“半靈衝撞”(33%攻擊力)，并刷新固定能力。
+妖夢每次使用非符卡技能造成非痛苦傷害或者受到傷害時疊加一層符卡能量，符卡能量疊加至4層時獲得1層符卡層數，部分卡牌可以消耗符卡層數獲得更加強力的效果。"
+Character/Youmu_PassiveName,Text,,반인반령,Half-Human Half-Phantom,半人半霊,半人半灵,半人半靈
+Character/Youmu_SelectInfo,Text,,"콘파쿠 요우무는 반인반령(즉, 인간과 유령의 혼혈)으로, 백옥루의 정원사이자 저승의 관리자 사이교우지 유유코의 호위와 검술 지도역을 맡고 있습니다. 백옥루의 정원사로서 대부분의 시간을 저승에서 보내며, 주로 정원 순찰과 가지치기를 담당하고 있습니다. 때로는 외출하여 쇼핑을 하거나 저승의 업무를 처리하기도 합니다. 여가 시간에는 백옥루에서 검술을 연마합니다.
+반령 부분은 자신의 의지대로 활동할 수 있으며, 일정 규모의 탄막을 발사하여 본체의 전투를 돕습니다.
+
+요우무는 스펠카드 에너지를 모아 카드를 강력한 스펠카드로 강화할 수 있으며, 이를 통해 강력한 공격 능력을 가집니다.","Youmu Konpaku is a half-human, half-phantom gardener of Hakugyokurou and sword instructor/bodyguard to Yuyuko Saigyouji, overseer of the Netherworld. 
+She primarily tends to Hakugyokurou's gardens in the Netherworld, practicing swordsmanship during free time. Her semi-sentient phantom half assists in combat by firing danmaku. 
+
+By accumulating Spell Card stacks, she upgrades skills into powerful Spell Cards with overwhelming offensive capabilities.","魂魄妖夢は 人間と幽霊のハーフ で白玉楼の庭師であり、冥界の管理者である西行寺幽々子の護衛兼剣術指南役でもある。
+白玉楼の園芸担当として、ほとんどの時間は冥界におり、主に中庭の見回りや剪定を担当しており 余暇には白玉楼で剣術の練習に励んでいる。
+半霊の部分は自分の意志で動くことができ、一定の大きさの弾丸を放ち、本体の戦闘を補助することができる。","魂魄妖梦是半人半灵（即人类和幽灵的混血），担任白玉楼的园艺师，并兼任冥界大小姐西行寺幽幽子的护卫和剑术指导。
+作为白玉楼的园艺师，她大多数时间位于冥界，主要负责庭院的巡逻和修剪工作，有时也会外出购物或处理冥界事务。业余时间则会在白玉楼修行剑术。
+半灵部分可以按照自身的意志活动，并且能放出一定规模的弹幕，以协助本体作战。
+
+魂魄妖梦可以通过积累符卡层数，将卡牌升级成强大的符卡，拥有强大的进攻能力。","魂魄妖夢是半人半靈(即人類和幽靈的混血)，擔任白玉樓的園藝師，並兼任冥界大小姐西行寺幽幽子的護衛和劍術指導。
+作為白玉樓的園藝師，她大多數時間位於冥界，主要負責庭院的巡邏和修剪工作，有時也會外出購物或處理冥界事務。業餘時間則會在白玉樓修行劍術。
+半靈部分可以按照自身的意志活動，並且能放出一定規模的彈幕，以協助本體作戰。
+
+魂魄妖夢可以通過積累符卡層數，將卡牌升級成強大的符卡，擁有強大的進攻能力。"
+Character/Youmu_SkinDesc,Text,,,"Youmu's everyday attire. 
+""My sword will cut down all enemies in my path!""",,"魂魄妖梦的日常穿着。
+“我的剑，会斩断一切挡在我面前的敌人！”",
+Character/Youmu_Text_Battle_AllyND_0,Text,,아직이야…… 아직 기회는 있어요!,It's not over yet... There's still a chance!,まだ…チャンスはあるはず！ ,还没结束……还有机会！,還沒結束……還有機會！
+Character/Youmu_Text_Battle_AllyND_1,Text,,"윽, 좋지 않아……","Ugh, this is bad...",ううん、これはまずい.....。,呜呜，这下不妙了……,嗚嗚，這下不妙了……
+Character/Youmu_Text_Battle_AllyND_2,Text,,괜찮으신가요?,Are you alright?,大丈夫です？,没事吧？,沒事吧？
+Character/Youmu_Text_Battle_Cri_0,Text,,이건 어때!,How about this move!,これでどうだ！ ,这招怎样！,這招怎樣！
+Character/Youmu_Text_Battle_Cri_1,Text,,그럼 이건 어때?,What do you think of this?,これならどう？,既然这样，这招如何？,既然這樣，這招如何？
+Character/Youmu_Text_Battle_Cri_2,Text,,지금이다!!!,Now!!!,今だ！！！,就是现在！！！,就是現在！！！
+Character/Youmu_Text_Battle_Healed_0,Text,,역전해 보이겠습니다!,I'll turn this around!,逆転してみせます！,就让我来逆转给你看！,就讓我來逆轉給你看！
+Character/Youmu_Text_Battle_Healed_1,Text,,이대로는… 끝낼 수 없어요!,This can't... end like this!,このままじゃ......終われない！,这样下去的话……还没完！,這樣下去的話……還沒完！
+Character/Youmu_Text_Battle_Idle_0,Text,,준비됐나요?,Are you prepared?,準備はいいですか？,准备好了吗？,準備好了嗎？
+Character/Youmu_Text_Battle_Kill_0,Text,,간단하네요~,This was too easy.,これは楽勝ですね。,这真是轻轻松松呢~,這真是輕輕鬆鬆呢~
+Character/Youmu_Text_Battle_ND_0,Text,,"이건, 아프네요……",This is terrible...,これは酷い......。,这下真是痛啊……,這下真是痛啊……
+Character/Youmu_Text_Battle_ND_1,Text,,"으으, 방심했어……","Ugh, I let my guard down...",うう、油断した......。,呜呜呜，大意了……,嗚嗚嗚，大意了……
+Character/Youmu_Text_Battle_ND_2,Text,,다음엔…기필…코……,Next time... for sure...,次......こそは......。,下一次…的…话……,下一次…的…話……
+Character/Youmu_Text_Battle_ND_3,Text,,뒤는 맡기겠습니다……,The rest is up to you...,後は頼みます... ,之后就拜托你们了……,之後就拜託你們了……
+Character/Youmu_Text_Battle_Start_0,Text,,갑니다!,Let's go!,行きますよ！,要上了哦！,要上了哦！
+Character/Youmu_Text_Battle_Start_1,Text,,승부입니다!,Time to settle this!,いざ勝負です！,决一胜负吧！,決一勝負吧！
+Character/Youmu_Text_Battle_Start_2,Text,,제 차례입니다!,My turn!,私の番です！,到我的回合了！,到我的回合了！
+Character/Youmu_Text_Field_GetItem_0,Text,,검이 더 날카로워 지겠네요.,The blade's edge has sharpened.,刀の切れ味が増しました。,刀已经很锋利了呢,刀已經很鋒利了呢
+Character/Youmu_Text_Field_Idle_0,Text,,잠깐 쉬었다 가죠.,Let's take a short rest.,少し休憩しましょう。,稍微休息一下吧。,稍微休息一下吧。
+Character/Youmu_Text_Field_Idle_1,Text,,명계의 벚꽃도 아름답답니다. 꽃구경 하기 좋을 거예요!,The Netherworld's cherry blossoms are lovely. Perfect for flower viewing.,冥界の桜も綺麗ですよ。 お花見日和ですね。,冥界的樱花也很美呢，真是赏花的好天气啊。,冥界的櫻花也很美呢，真是賞花的好天氣啊。
+Character/Youmu_Text_Field_Potion_P_0,Text,,다들 사쿠라모찌도 드셔보세요!,Let's have some sakura mochi!,桜餅でも食べましょう！,一起来吃点樱饼吧！,一起來吃點櫻餅吧！
+Character/Youmu_Text_MasterTarget,Text,,루시는 내가 지키겠어!,"Lucy, I'll protect you!",ルシー、あなたは私が守る！,露西就由我来保护！,露西就由我來保護！
+Character/Youmu_Text_PharosLeader_0,Text,,내 검에 벨 수 없는 것 따위 없어!,"""Nothing exists that cannot be cut!""",切れぬ物などあんまりない！,斩不掉的东西，是不存在的！,斬不掉的東西，是不存在的！
+Character/Youmu_Text_PharosLeader_1,Text,,"윽, 좋지 않아……","Ugh, this is getting worse...",ううん、これはまずい......。,呜呜，这下不妙了啊……,嗚嗚，這下不妙了啊……
+Character/Youmu_Text_PharosLeader_2,Text,,방해되는 건 모두 베어버리겠어!,"""All obstacles shall be severed!""",邪魔をするものは斬る！ ,妨碍我的东西，都斩掉！,妨礙我的東西，都斬掉！
+Character/Youmu_Text_Witch_0,Text,,"괘, 괜찮아요! 제게 맡겨주세요!",It's fine! Leave it to me.,大丈夫です！任せてください。 ,没，没事的！就让我来吧。,沒，沒事的！就讓我來吧。
+Character/Youmu_Text_Witch_1,Text,,"으으, 점점 느낌이 안좋은데요……",The situation keeps deteriorating...,状況は徐々に悪化しています…。 ,呜呜，局势渐渐变得不妙了呢……,嗚嗚，局勢漸漸變得不妙了呢……
+Character/Youmu_name,Text,,콘파쿠 요우무,Youmu Konpaku,魂魄妖夢,魂魄妖梦,魂魄妖夢
+Character_Skin/AkiSizuha_Swin_SkinDesc,Text,,,"Even gods relax during leisure. Though Gensokyo lacks oceans, Sizuha happily dons her favorite swimsuit.",,在日常闲暇里，哪怕是神明也会适当地放松。虽然幻想乡里并没有大海，不过这并不影响秋静叶换上她喜欢的泳装。,
+Character_Skin/AkiSizuha_Swin_SkinName,Text,,,Autumn Sunset - Aki Sizuha,,秋日晚霞-秋静叶,
+Character_Skin/Youmu_Swim_SkinDesc,Text,,,"A swimsuit worn daily for water activities, complete with waist/shoulder straps for her swords. 
+Washed so frequently it barely dries.    ",,"这件泳衣几乎每天都在穿，是水上游戏的必需品，也是妖梦的最爱。
+腰部和肩部的带子上固定着两把刀，她每天都会玩到半人之体疲惫不堪。
+因为总是穿这一件，洗衣服都赶不上。",
+Character_Skin/Youmu_Swim_SkinName,Text,,,Waterside Phantom Swordmaster - Youmu,,戏水幽人剑士-妖梦,
+Enemy/Enemy_SaigyouAyakashi_EnemyStory,Text,,"오래전, 환상향에 한 노래의 성인이 있었습니다. 그는 자연을 사랑했고, 죽을 때까지 여행했다고 합니다. 자신의 죽음이 다가옴을 깨달았을 때, 가장 아름다운 벚꽃나무 아래에서 영원한 잠에 들었습니다.
+그 이후로, 그 벚꽃나무는 점점 더 화려하게 피어났고, 많은 사람들을 매혹시켰습니다. 결국 많은 사람들이 그곳에서 영원한 잠에 들었습니다. 이런 죽음의 매력을 가진 벚꽃은 어느새 요력을 갖게 되었습니다.
+<color=#919191>하지만, 왜 이 벚꽃나무가 붉은 황야에 있는 걸까요?</color>","A long time ago, there lived a divinely talented poet who traveled around Gensokyo. When the poet became aware that the hour of his death drew near, he chose to begin his eternal rest under the most beautiful cherry tree he could find.
+
+After the poet's death, word of the beauty of the cherry tree began to spread across the land. That cherry tree has grown even more beautiful since then, charming many people into choosing to rest in peace beneath its blossoms. This cherry blossom tree eventually took on supernatural properties, as it lure people to their death.
+
+<color=#919191>But why did this cherry tree appear in the Crimson Wilderness?</color>","昔々、幻想郷に「歌聖」と呼ばれる人がいた。 彼は自然を愛し、死ぬまで旅をしたと言われている。 死を悟った「歌聖」は、己の望み通り最も美しい桜の木の下で眠りについた。
+
+以来、桜はますます鮮やかに咲き誇り、多くの人々を魅了し、その結果、多くの人々がそこで永遠の眠りについた。 この死の妖艶さを持つ桜は、いつしか妖力を宿した。
+
+<color=#919191>しかし、なぜこの桜の木が赤い荒野に現れたのか？ </color>","很久以前，幻想乡有一位歌圣。歌圣热爱自然，据说直至死都在旅行。当悟到自己的死期时，依自己的愿望在最为美丽的樱花树下进入了永眠。
+
+自那以来，那棵樱花树开得愈来愈灿烂，令很多人入迷，结果很多人都在那里进入了永眠。拥有这种死亡魅力的樱花，不知何时便拥有了妖力。
+
+<color=#919191>但是，为什么这棵樱花树会出现在红色荒野呢？</color>","很久以前，幻想鄉有一位歌聖。歌聖熱愛自然，據說直至死都在旅行。當悟到自己的死期時，依自己的願望在最為美麗的櫻花樹下進入了永眠。
+
+自那以來，那棵櫻花樹開得愈來愈燦爛，令很多人入迷，結果很多人都在那裡進入了永眠。擁有這種死亡魅力的櫻花，不知何時便擁有了妖力。
+
+<color=#919191>但是，為什麼這棵櫻花樹會出現在紅色荒野呢？</color>"
+Enemy/Enemy_SaigyouAyakashi_SubName,Text,,사이교우아야카시,Saigyou Ayakashi,西行妖,西行妖,西行妖
+Enemy/Enemy_SaigyouAyakashi_name,Text,,사이교우아야카시,Saigyou Ayakashi,西行妖,西行妖,西行妖
+Enemy/Enemy_Yuyuko_Ghost_EnemyStory,Text,,,,,,
+Enemy/Enemy_Yuyuko_Ghost_SubName,Text,,유령,Ghost,幽霊,幽灵,幽靈
+Enemy/Enemy_Yuyuko_Ghost_name,Text,,유령,Ghost,幽霊,幽灵,幽靈
+Enemy/Yuyuko_EnemyStory,Text,,"그녀는 저승의 백옥루에 사는 사이교우지 가문의 아가씨입니다. 그녀는 망령의 모습으로 천 년 이상을 살아온, 매우 드문 장수 망령입니다.
+그녀는 인간에 대한 원한이 없으며, 사후의 유령을 조종하는 능력을 가지고 있어 유령을 관리하라는 명령을 받았습니다.
+그녀의 성격은 밝고 멍한 듯한 느낌을 주며, 매우 느긋하고 제멋대로입니다. 그녀는 경솔하게 행동하고 온종일 게으름을 피우며, 생각하는 바를 알 수 없고, 항상 사람들을 곤란하게 하는 행동을 하며, 요우무를 놀리는 것을 즐깁니다.
+<color=#919191>이런 그녀가 어떻게 붉은 황야 같은 곳에 나타날 수 있을까요?</color>","She is the eldest daughter of the Saigyouji family who lives at Hakugyokurou in the Netherworld.
+She has lived on as a ghost for more than a thousand year, an extremely long-lived spirit. Bearing no grudges, she has the ability to manipulate departed souls, and is the manager of ghosts.
+She has a cheerful personality which gives people a disarming effect. She is carefree yet perceptive. She acts frivolously, laze around all day and is an airhead. She does morbid things to take pleasure in teasing youmu.
+
+<color=#919191>How could such a person appear in a place like the Crimson Wilderness? </color>","冥界の白玉楼に住む西行寺家の長女。 千年以上も亡霊として生きている、極めて珍しい長寿な亡霊。
+人を恨まず、死後も幽霊を操る能力を持ち、幽霊の管理を命じられている。
+性格は陽気で飄々としていて、非常にマイペースでわがまま。 ふんわりとした言動をし、一日中ぶらぶらしており、内心は見えず、常に胡散臭い行動をし、妖夢をからかうことを楽しんでいる。 
+
+<color=#919191>そんな彼女が、なぜ赤い荒野にいるのだろう？ </color>","她是住在冥界白玉楼的西行寺家的大小姐。她以亡灵的身姿存世千年以上，是极其少见的长寿亡灵。
+她对人无怨恨，并且拥有操纵死之后的幽灵的能力，被命令管理幽灵。
+她的性格开朗，而且给人呆呆的感觉，十分慢性子，任性妄为。她行事轻浮，整天游手好闲，看不出所想的事情，总是做出让人很困扰的行动，以捉弄妖梦为乐。
+
+<color=#919191>这样的她，怎么可能会出现在红色荒野这种地方？</color>","她是住在冥界白玉樓的西行寺家的大小姐。她以亡靈的身姿存世千年以上，是極其少見的長壽亡靈。
+她對人無怨恨，並且擁有操縱死之後的幽靈的能力，被命令管理幽靈。
+她的性格開朗，而且給人呆呆的感覺，十分慢性子，任性妄為。她行事輕浮，整天遊手好閒，看不出所想的事情，總是做出讓人很困擾的行動，以捉弄妖夢為樂。
+
+<color=#919191>這樣的她，怎麼可能會出現在紅色荒野這種地方？</color>"
+Enemy/Yuyuko_SubName,Text,,천의무봉의 망령,Ghost of Flawless Immaculate Beauty,天衣無縫の亡霊,天衣无缝的亡灵,天衣無縫的亡靈
+Enemy/Yuyuko_name,Text,,사이교우지 유유코,Yuyuko Saigyouji,西行寺幽々子,西行寺幽幽子,西行寺幽幽子
+Item_Equip/Youmu_Hakurouken_Description,Text,,"주는 피해 +3.
+비고통 피해를 줄 때 적에게 방어력 -4%(<sprite=0>100%)의 방어력 감소 디버프를 부여합니다. 3턴 지속되며 최대 5중첩까지 쌓입니다.
+<color=#919191>상대방의 미혹을 끊어낼 수 있으며, 유령에게 사용하면 성불하게 됩니다. 살아있는 인간에게 사용하면 날카로움이 떨어져 약간 아프다고 하지만, 살아있는 인간도 베어낼 수 있다고 합니다.</color>","+3 damage. 
+Non-Pain damage applies 4% DEF reduction [Armor Break] (<sprite=0>100%) for 3 turns (max 5 stacks). 
+
+<color=#919191>Heirloom of the Konpaku family. It can dispel the confusion of those it cuts. If used on a ghost, it will help them rest in peace. When used on a human, it is said to cause minor pain and discomfort, but it can also cut them down nonetheless.</color>","与えるダメージが3増加する。
+苦痛以外のダメージを与えたとき、3ターンの間防御力を4%減少させる[装甲破壊](<sprite=0>100%)を与える。(最大ストック数5)
+
+
+<color=#919191>  魂魄家の家宝。斬られた者の迷いを断つことが出来る。幽霊に使えば成仏する。人間に使用すると切れ味が悪く若干の痛みを伴うが、切断することができると言われている。   </color>","造成的伤害+3。
+造成非痛苦伤害时，给予敌人防御力-4%(<sprite=0>100%)的破甲减益，持续3回合，最多叠加5层。
+
+<color=#919191>可以斩断对方的迷惘，对幽灵使用会成佛；对人使用一说锋利度较差会有点痛，一说可以斩断活着的人类。</color>","造成的傷害+3。
+造成非痛苦傷害時，給予敵人防禦力-4%(<sprite=0>100%)的破甲減益，持續3回合，最多疊加5層。
+
+<color=#919191>可以斬斷對方的迷惘，對幽靈使用會成佛；對人使用一說鋒利度較差會有點痛，一說可以斬斷活著的人類。</color>"
+Item_Equip/Youmu_Hakurouken_name,Text,,백루검,Hakurouken,白楼剣,白楼剑,白樓劍
+Item_Equip/Youmu_Roukanken_Description,Text,,"주는 피해 +2.
+피해를 줄 때 추가로 피해량의 30%만큼 <color=purple>고통 피해</color>를 줍니다.
+누관검과 백루검을 동시에 장착하면 치명타율이 50% 증가합니다. 치명타 피해를 줄 때 주는 피해량이 50% 증가합니다.
+<color=#919191>일반인이 사용하기에는 부적절한 길이를 가지고 있으며, 한 번의 휘두름으로 10마리의 유령을 죽일 수 있는 위력을 가졌다고 합니다.
+'벨 수 없는 것 따위, 별로 없어!' - 콘파쿠 요우무.</color>","+2 damage. 
+Non-Pain damage deals +30% as Pain damage. Wielding both Hakurouken and Roukanken grants +50% Critical Chance. Criticals deal +50% damage. 
+
+<color=#919191>Said to be forged by youkai, too long to be wielded by normal humans. It's said that it has the power to kill ten phantoms in one strike.
+The things that cannot be cut by my Roukanken are close to none!” - Youmu Konpaku</color>","与えるダメージが2増加する。
+苦痛以外のダメージを与えたとき、そのダメージの30%を苦痛ダメージとして追加で与える。
+
+白楼剣と楼観剣を同時に装備したとき、クリティカル率が50%増加する。クリティカルしたとき、与えるダメージが50%増加する。
+
+<color=#919191>  妖怪が鍛えた剣と伝えられており、長すぎて並みの人間には扱えない。「一振りで幽霊１０匹分の殺傷力を持つ」。
+「 斬れぬものなど、あんまり無い！」—— 魂魄妖夢。 </color>","造成的伤害+2。
+造成伤害时额外造成伤害量30%的<color=purple>痛苦伤害</color>。
+
+同时装备楼观剑和白楼剑时，暴击率提升50%。造成暴击伤害时，造成的伤害量增加50%。
+
+<color=#919191>有着不适合普通人使用的长度，据说拥有一挥便可杀伤十只幽灵的威力。
+“斩不断的东西几乎不存在！”——魂魄妖梦。</color>","造成的傷害+2。
+造成傷害時額外造成傷害量30%的<color=purple>痛苦傷害</color>。
+
+同時裝備樓觀劍和白樓劍時，暴擊率提升50%。造成暴擊傷害時，造成的傷害量增加50%。
+
+<color=#919191>有著不適合普通人使用的長度，據說擁有一揮便可殺傷十隻幽靈的威力。
+“斬不斷的東西幾乎不存在！”——魂魄妖夢。</color>"
+Item_Equip/Youmu_Roukanken_name,Text,,누관검,Roukanken,楼観剣,楼观剑,樓觀劍
+Item_Equip/Yuyuko_Fan_Description,Text,,"비고통 대미지를 주면, 대상에게 최대 체력 -2% (<sprite=0>150%)의 약화 디버프를 줍니다. 최대 10중첩까지 쌓입니다. <color=#919191>""후지미의 딸이여, 사이교우아야카시의 꽃이 만발할 때, 명계에서 분리되어, 사이교우아야카시에 봉인되고, 영혼은 백옥루에서 잠들게 될 것이다. 가능하다면, 다시는 고통받지 않고, 윤회의 순환을 영원히 잊을 수 있기를......""</color>","Non-Pain damage applies 2% max HP reduction [Enfeeble] (<sprite=0>150%) (max 10 stacks).
+
+<color=#919191>""On the day the Saigyou Ayakashi had reached full bloom, the daughter of Fujimi crossed the boundary of life and death (in other words, passed away). So that her soul may rest in peace within Hakugyokurou, I shall seal the tree's blossoms and hereby fashion these limbs into a barrier. It is my hope that she will never again reincarnate, and thus never again have to suffer pain...""</color>","苦痛以外のダメージを与えたとき、対象に最大体力を2%減少させる衰弱デバフ (<sprite=0>150%) を与える。(最大ストック数10) 
+
+<color=#919191>「富士見の娘よ、西行妖の花が咲き誇る頃、冥界から切り離され、西行妖に封印し、魂は白玉楼に眠る。できれば、二度と苦しまず、輪廻のサイクルを永久に忘れられるように......」</color>","造成非痛苦伤害时，给予敌人最大生命值-2%(<sprite=0>150%)的弱化减益，最多叠加10层。
+
+<color=#919191>「富士见之女，于西行妖满开时，分开幽明境（意为死亡），其魂将安息于白玉楼中，封印西行妖之花，以是为结界。可能的话，望不会再次遭受痛苦，永久忘却轮回转生…」</color>","造成非痛苦傷害時，給予敵人最大生命值-2%(<sprite=0>150%)的弱化減益，最多疊加10層。
+
+<color=#919191>「富士見之女，於西行妖滿開時，分開幽明境(意為死亡)，其魂將安息于白玉樓中，封印西行妖之花，以是為結界。可能的話，望不會再次遭受痛苦，永久忘卻輪回轉生…」</color>"
+Item_Equip/Yuyuko_Fan_name,Text,,사이교우아야카시의 안식,Death of Saigyo Ayakashi,西行妖の死,西行妖之殇,西行妖之殤
+RandomEvent/Event_SaigyouAyakash_Desc,Text,,"특별 BOSS - ""사이교우지 유유코""와 전투할 수 있습니다.
+""사이교우지 유유코""가 현재 구역의 BOSS를 대신하여 등장합니다.
+이미 현재 구역의 BOSS와 전투를 끝냈다면 이 이벤트는 무효화됩니다.","You can fight the special boss: “Saigyouji Yuyuko”.
+“Saigyouji Yuyuko” will replace the boss of the current area.
+If the battle with the boss of the current area has already ended, this event will be cancelled.","特別なボス「西行寺幽々子」と戦える。
+「西行寺幽々子」は現在のエリアのボスと入れ替わる。
+既に現在のエリアのボスとの戦闘が終了している場合、本イベントは無効となる。","可与特殊BOSS-“西行寺幽幽子”战斗
+“西行寺幽幽子”代替当前区域的BOSS出场。
+若已经和当前区域的BOSS结束战斗，此事件无效。","可與特殊BOSS-“西行寺幽幽子”戰鬥
+“西行寺幽幽子”代替當前區域的BOSS出場。
+若已經和當前區域的BOSS結束戰鬥，此事件無效。"
+RandomEvent/Event_SaigyouAyakash_EventDetails,Text,,"붉은 황야에 갑자기 한 그루의 벚꽃나무가 자라고 있습니다.
+벚꽃 잎이 눈처럼 흩날리며, 이 붉은 대지에 밝고 경쾌한 색채를 더해줍니다.
+이 벚꽃나무 아래에서 누군가가 춤을 추고 있는 것 같습니다.
+(특별 BOSS - ""사이교우지 유유코""와 전투할 수 있습니다.
+""사이교우지 유유코""가 현재 구역의 BOSS를 대신하여 등장합니다.
+이미 현재 구역의 BOSS와 전투를 끝냈다면 이 이벤트는 무효화됩니다.)","Suddenly, a cherry blossom tree sprouted in the middle of the Crimson Wilderness.
+The cherry blossoms fall like snow, bringing a touch of vibrant color to the red earth.
+It looks like someone is dancing beneath the cherry blossom tree. 
+
+(You can fight the special boss: “Saigyouji Yuyuko”.
+“Saigyouji Yuyuko” will replace the boss of the current area.
+If the battle with the boss of the current area has already ended, this event will be cancelled.)","赤い荒野の真ん中に、突然桜の木が生えている。
+桜の花は雪のように舞い散り、赤い荒野に鮮やかな彩りをもたらしている。
+桜の木の下で、誰かが踊っているようだ。
+
+(特別なボス「西行寺幽々子」と戦える。
+「西行寺幽々子」は現在のエリアのボスと入れ替わる。
+既に現在のエリアのボスとの戦闘が終了している場合、本イベントは無効となる。)","在红色荒野中，突兀地长着一棵樱花树。
+朵朵樱花如雪一般飘落，为这片红色的大地带来了一抹明快的色彩。
+在这棵樱花树之下，貌似有人在翩翩起舞。
+
+（可与特殊BOSS-“西行寺幽幽子”战斗
+“西行寺幽幽子”代替当前区域的BOSS出场。
+若已经和当前区域的BOSS结束战斗，此事件无效。）","在紅色荒野中，突兀地長著一棵櫻花樹。
+朵朵櫻花如雪一般飄落，為這片紅色的大地帶來了一抹明快的色彩。
+在這棵櫻花樹之下，貌似有人在翩翩起舞。
+
+(可與特殊BOSS-“西行寺幽幽子”戰鬥
+“西行寺幽幽子”代替當前區域的BOSS出場。
+若已經和當前區域的BOSS結束戰鬥，此事件無效。)"
+RandomEvent/Event_SaigyouAyakash_Name,Text,,사이교우아야카시,Saigyou Ayakashi,西行妖,西行妖,西行妖
+RandomEvent/Event_SaigyouAyakash_OrderStrings_0,Text,,"가까이 다가가자 벚꽃이 더욱 격렬하게 흩날리는 것 같습니다.
+눈처럼 흩날리는 벚꽃 속에서 한 사람이 춤을 추고 있습니다.
+우리의 도착을 불쾌하게 여기는 것 같습니다.
+전투 준비!","As we walk closer, the cherry blossoms fall more vigorously.
+A figure is dancing among the snow-like cherry blossoms.
+It seems as though said person is unhappy with our arrival.
+Get ready for battle!","近くまで歩くと、桜の花がさらに激しく舞い散り流れていく。
+桜が雪のように舞い散る中、誰かが踊っているようだ。
+私たちが近づいたのを不愉快に思っているようだ。
+戦闘準備完了！","走到跟前，樱花飘落得仿佛更加剧烈了。
+在雪一般的樱花中，有一个人在翩翩起舞。
+看起来她好像对我们的到来感到了不满
+准备战斗！","走到跟前，櫻花飄落得仿佛更加劇烈了。
+在雪一般的櫻花中，有一個人在翩翩起舞。
+看起來她好像對我們的到來感到了不滿
+準備戰鬥！"
+RandomEvent/Event_SaigyouAyakash_OrderStrings_1,Text,,"벚꽃 잎은 여전히 눈처럼 흩날리고 있으며, 이 광경은 여전히 꿈결 같습니다.
+하지만 이전에 보았던 그 사람은 이미 떠난 것 같습니다.
+더 이상 시간을 낭비할 수 없습니다. 지금은 아자르를 저지하는 것이 가장 우선순위입니다.","The cherry blossoms in full bloom were still falling like snow, creating a dreamy scenery.
+However, the person I saw before seems to have already left.
+There’s no time to waste. Stopping Azar is still my top priority.","咲き誇る桜が雪のように舞い散り、幻想的な光景が広がっている。
+しかし、見えた人物はすでに去ってしまったようだ。
+無駄にしている時間はない。今はアザールを止めることを優先しよう。","朵朵樱花仍然如雪一般飘散，这一场景依旧如梦如幻。
+然而，之前所见之人好像已然离去。
+没有时间可以浪费了，现在阻止阿扎尔才是最优先的事项。","朵朵櫻花仍然如雪一般飄散，這一場景依舊如夢如幻。
+然而，之前所見之人好像已然離去。
+沒有時間可以浪費了，現在阻止阿紮爾才是最優先的事項。"
+RandomEvent/Event_SaigyouAyakash_UseButtonTooltip_0,Text,,"특별 BOSS ""사이교우지 유유코""와 전투합니다.","Fight the special boss, Yuyuko Saigyouji.",特別なボス「西行寺幽々子」と戦う。,与特殊BOSS“西行寺幽幽子”战斗。,與特殊BOSS“西行寺幽幽子”戰鬥。
+RandomEvent/Event_SaigyouAyakash_UseButtonTooltip_1,Text,,"특별 BOSS ""사이교우지 유유코""와 전투합니다.","Fight the special boss, Yuyuko Saigyouji.",特別なボス「西行寺幽々子」と戦う。,与特殊BOSS“西行寺幽幽子”战斗。,與特殊BOSS“西行寺幽幽子”戰鬥。
+RandomEvent/Event_SaigyouAyakash_UseButton_0,Text,,벚꽃나무 아래로 걸어갑니다.,Go under the cherry tree.,桜の木の下へ行く。 ,向樱花树之下走去。,向櫻花樹之下走去。
+RandomEvent/Event_SaigyouAyakash_UseButton_1,Text,,"요우무: ""사이교우 아야카시? 왜 이 나무가 여기 있는 거지? 가서 확인해 봐야겠어.""","Youmu: ""Saigyou Ayakashi? Why is this tree here? Let's go closer and take a look.""",妖夢「西行妖？ なぜこの木がここに？ 行ってみましょう。」,妖梦：“西行妖？为什么这棵树会在这里？我们过去看看吧。”,妖夢：“西行妖？為什麼這棵樹會在這裡？我們過去看看吧。”
+SimpleCampDialogue/CampDial_Youmu_Azar_Dialogues_0,Text,,[A]환영검…… 마치 탄막같네요!,[A]Illusion Sword... that’s just Danmaku!,[A]幻影剑……这不就是弹幕嘛！,[A]幻影剑……这不就是弹幕嘛！,[A]幻影劍……這不就是彈幕嘛！
+SimpleCampDialogue/CampDial_Youmu_Azar_Dialogues_1,Text,,[A]저도 검기를 쏴서 만들 수 있겠어요.,"[A]If I just have to unleash the sword’s energy, even I can do it.",[A]只是放出剑气的话，我也是做得到的。,[A]只是放出剑气的话，我也是做得到的。,[A]只是放出劍氣的話，我也是做得到的。
+SimpleCampDialogue/CampDial_Youmu_Blue_Dialogues_0,Text,,"[A]달에는, 사람을 미치게 하는 힘이 있죠……","[A]The Moon, it has lunatic power..",[A]月亮，具有令人发狂的力量……,[A]月亮，具有令人发狂的力量……,[A]月亮，具有令人發狂的力量……
+SimpleCampDialogue/CampDial_Youmu_Blue_Dialogues_1,Text,,[B]어어…? 내 달의 힘에 그런 능력은 없는데……,[B]Eh? My powers aren’t like that at all…,[B]欸？我的月之力没有这种力量啊……,[B]欸？我的月之力没有这种力量啊……,[B]欸？我的月之力沒有這種力量啊……
+SimpleCampDialogue/CampDial_Youmu_Blue_Dialogues_2,Text,,"[A]그런 가짜 달은 제가 베어버리겠…… 뭐, 농담이에요.","[A]I'll cut this duplicitous Moon wide open then… I’m kidding, of course.",[A]这种虚伪的月亮，就由我来斩开……什么的，当然是开玩笑啦。,[A]这种虚伪的月亮，就由我来斩开……什么的，当然是开玩笑啦。,[A]這種虛偽的月亮，就由我來斬開……什麼的，當然是開玩笑啦。
+SimpleCampDialogue/CampDial_Youmu_Charon_Dialogues_0,Text,,"[B]난 영혼을 수집하고 있어. 요우무, 그 반령 나 주라~","[B]I'm collecting souls, Miss Youmu, please give me your half-phantom~",[B]我在收集灵魂，妖梦小姐把你的半灵给我好不好~,[B]我在收集灵魂，妖梦小姐把你的半灵给我好不好~,[B]我在收集靈魂，妖夢小姐把你的半靈給我好不好~
+SimpleCampDialogue/CampDial_Youmu_Charon_Dialogues_1,Text,,[A]반령도 저 자신이거든요! 절대 안 돼요.,[A]This half-phantom is also half of me! How will I ever give it to you?,[A]半灵也是我的一半啊！怎么可能给你。,[A]半灵也是我的一半啊！怎么可能给你。,[A]半靈也是我的一半啊！怎麼可能給你。
+SimpleCampDialogue/CampDial_Youmu_FlandreScarlet_Dialogues_0,Text,,,[A]Last time I was tricked into coming to the Scarlet Devil Mansion and got beaten up for no reason.,[A]上次被骗到红魔馆来，被莫名揍了一顿呢。,[A]上次被骗到红魔馆来，被莫名揍了一顿呢。,
+SimpleCampDialogue/CampDial_Youmu_FlandreScarlet_Dialogues_1,Text,,,[B]That’s Sakuya’s fault! She captured the wrong person.,[B]是咲夜的错啦，咲夜她抓错人的问题。,[B]是咲夜的错啦，咲夜她抓错人的问题。,
+SimpleCampDialogue/CampDial_Youmu_FlandreScarlet_Dialogues_2,Text,,,[A]You ordering Sakuya to kidnap people randomly is also to blame!,[A]你指使咲夜乱抓人也有问题啊！,[A]你指使咲夜乱抓人也有问题啊！,
+SimpleCampDialogue/CampDial_Youmu_Hein_Dialogues_0,Text,,"[B]그 가면 쓴 자식들, 한 놈도 빠짐없이 찢어발겨버리자고!",[B]Let's cut down all of those mask-wearing freaks!,[B]让我们把那些戴着面具的家伙都粉碎吧！,[B]让我们把那些戴着面具的家伙都粉碎吧！,[B]讓我們把那些戴著面具的傢伙都粉碎吧！
+SimpleCampDialogue/CampDial_Youmu_Hein_Dialogues_1,Text,,"[A]물론이죠, 이 누관검이 벨 수 없는 건 없으니까요!","[A]Of course, there is nothing that Roukanken can't cut!",[A]当然，这把楼观剑所斩不断的东西是不存在的！,[A]当然，这把楼观剑所斩不断的东西是不存在的！,[A]當然，這把樓觀劍所斬不斷的東西是不存在的！
+SimpleCampDialogue/CampDial_Youmu_Huz_Dialogues_0,Text,,"[B]채찍으로 반령쪽을 쳐야하나, 사람쪽을 쳐야하나……",[B]Should I whip your half-phantom or your self…,[B]我该抽你的半灵还是抽你本身呢……,[B]我该抽你的半灵还是抽你本身呢……,[B]我該抽你的半靈還是抽你本身呢……
+SimpleCampDialogue/CampDial_Youmu_Huz_Dialogues_1,Text,,"[A]왜, 왜 저를 치는데요!",[A]Why do you have to whip me!,[A]为什么一定要抽我啊！,[A]为什么一定要抽我啊！,[A]為什麼一定要抽我啊！
+SimpleCampDialogue/CampDial_Youmu_Ilya_Dialogues_0,Text,,[B]너도 칼이 두 개 있구나. 내 칼보다 훨씬 강해 보여.,"[B]You also wield two swords, they look so much more powerful than mine.",[B]你也有两把刀啊，看起来比我的刀要厉害多了。,[B]你也有两把刀啊，看起来比我的刀要厉害多了。,[B]你也有兩把刀啊，看起來比我的刀要厲害多了。
+SimpleCampDialogue/CampDial_Youmu_Ilya_Dialogues_1,Text,,[A]제 검으로 벨 수 없는 건 없으니까요!,[A]There is nothing that my sword cannot cut!,[A]我的刀所斩断不了的东西是不存在的！,[A]我的刀所斩断不了的东西是不存在的！,[A]我的刀所斬斷不了的東西是不存在的！
+SimpleCampDialogue/CampDial_Youmu_Ilya_Dialogues_2,Text,,[B]부럽다. 그렇게 대단한 실력이라니.,"[B]Such power, must be great to have.",[B]真好啊，拥有这么强大的实力。,[B]真好啊，拥有这么强大的实力。,[B]真好啊，擁有這麼強大的實力。
+SimpleCampDialogue/CampDial_Youmu_Iron_Dialogues_0,Text,,[B]난 팀의 방패니까. 조사단의 안전은 내가 지킨다.,"[B]I am the strongest shield in the Investigation Team, I will protect everyone.",[B]我是团队的盾牌，就由我来保护调查团的安全。,[B]我是团队的盾牌，就由我来保护调查团的安全。,[B]我是團隊的盾牌，就由我來保護調查團的安全。
+SimpleCampDialogue/CampDial_Youmu_Iron_Dialogues_1,Text,,"[A]저도 명계의 가장 단단한 방패로써, 지지 않을거에요!","[A]I am the strongest shield in the Netherworld, I will never give up!",[A]我可是冥界最硬的盾牌，我也不会认输的！,[A]我可是冥界最硬的盾牌，我也不会认输的！,[A]我可是冥界最硬的盾牌，我也不會認輸的！
+SimpleCampDialogue/CampDial_Youmu_Joey_Dialogues_0,Text,,[A]조이의 포션이 저에게도 효과가 있을까요?,[A]Will the potions you prepared work on me?,[A]你调配的药水，对我也能有效吗？,[A]你调配的药水，对我也能有效吗？,[A]你調配的藥水，對我也能有效嗎？
+SimpleCampDialogue/CampDial_Youmu_Joey_Dialogues_1,Text,,[B]너도 반은 인간이잖아? 그럼 안 들을 리가 없지!,"[B]You are half human, right? If you are, my potions will never fail!",[B]你还有一半是人类吧，是人类我的药就不可能失效！,[B]你还有一半是人类吧，是人类我的药就不可能失效！,[B]你還有一半是人類吧，是人類我的藥就不可能失效！
+SimpleCampDialogue/CampDial_Youmu_Joey_Dialogues_2,Text,,[A]조이는 대단하네요.,"[A]You are so cool, Joey.",[A]乔伊你好厉害啊,[A]乔伊你好厉害啊,[A]喬伊你好厲害啊
+SimpleCampDialogue/CampDial_Youmu_Johan_Dialogues_0,Text,,[B]제 화살은 빗나가지 않습니다.,"[B]My arrows, they aren’t too shabby.",[B]我的箭，未尝不利。,[B]我的箭，未尝不利。,[B]我的箭，未嘗不利。
+SimpleCampDialogue/CampDial_Youmu_Johan_Dialogues_1,Text,,"[A]이런 화살 쯤은, 얼마든지 베어버릴 수 있어요.",[A]I can easily cut through arrows of this calibre.,[A]这种程度的箭，我随随便便都可以斩开。,[A]这种程度的箭，我随随便便都可以斩开。,[A]這種程度的箭，我隨隨便便都可以斬開。
+SimpleCampDialogue/CampDial_Youmu_Johan_Dialogues_2,Text,,[B]오? 해보시겠습니까?,[B]Oh? Then would you like to try?,[B]哦？那要来试一试吗？,[B]哦？那要来试一试吗？,[B]哦？那要來試一試嗎？
+SimpleCampDialogue/CampDial_Youmu_Johan_Dialogues_3,Text,,[A]얼마든지요!,[A]I would love to!,[A]求之不得！,[A]求之不得！,[A]求之不得！
+SimpleCampDialogue/CampDial_Youmu_KirisameMarisa_Dialogues_0,Text,,,"[A]Marisa, that dish you made earlier was truly delicious!",[A]魔理沙，你之前做的料理是真的好吃呢！,[A]魔理沙，你之前做的料理是真的好吃呢！,
+SimpleCampDialogue/CampDial_Youmu_KirisameMarisa_Dialogues_1,Text,,,[A]Could you teach me? I want to make some for Lady Yuyuko too.,[A]能不能也教教我啊，我也想给幽幽子大人做一份。,[A]能不能也教教我啊，我也想给幽幽子大人做一份。,
+SimpleCampDialogue/CampDial_Youmu_KirisameMarisa_Dialogues_2,Text,,,[B]Ah... That recipe is a secret. I can’t tell you.,[B]啊……那份料理的配方是秘密，不能告诉你。,[B]啊……那份料理的配方是秘密，不能告诉你。,
+SimpleCampDialogue/CampDial_Youmu_KirisameMarisa_Dialogues_3,Text,,,[A]Ehh~ Don’t be so stingy!,[A]欸~怎么这么小气。,[A]欸~怎么这么小气。,
+SimpleCampDialogue/CampDial_Youmu_Leryn_Dialogues_0,Text,,[B]반인…반령? 이런 사람은 본 적이 없는데… 당신도 '오류'인가요?,"[B]Half human, half phantom? I have never seen such a being, are you also ""paranormal""?",[B]半人半灵？我从来没见过这样的人，难道你也是“异常”吗？,[B]半人半灵？我从来没见过这样的人，难道你也是“异常”吗？,[B]半人半靈？我從來沒見過這樣的人，難道你也是“異常”嗎？
+SimpleCampDialogue/CampDial_Youmu_Lian_Dialogues_0,Text,,"[B]막고, 반격한다. 이게 내 전투법이다.","[B]Parry, then counterattack, this is my fighting style.",[B]格挡，然后反击，这就是我的战斗风格。,[B]格挡，然后反击，这就是我的战斗风格。,[B]格擋，然後反擊，這就是我的戰鬥風格。
+SimpleCampDialogue/CampDial_Youmu_Lian_Dialogues_1,Text,,[A]막는 것 보단 피하는게 더 쉬울 것 같은데요.,"[A]Compared to parrying, it’s easier to just dodge the attack.",[A]比起格挡，果然还是躲开攻击要更加轻松吧。,[A]比起格挡，果然还是躲开攻击要更加轻松吧。,[A]比起格擋，果然還是躲開攻擊要更加輕鬆吧。
+SimpleCampDialogue/CampDial_Youmu_Marisa_Dialogues_0,Text,,"[A]마리사, 전에 해준 요리 정말 맛있었어!","[A]Marisa, the food you made before was really tasty!",[A]魔理沙，你之前做的料理是真的好吃呢！,[A]魔理沙，你之前做的料理是真的好吃呢！,[A]魔理沙，你之前做的料理是真的好吃呢！
+SimpleCampDialogue/CampDial_Youmu_Marisa_Dialogues_1,Text,,"[A]유유코님께도 만들어드리고 싶은데, 레시피 좀 알려줄래?",[A]Can you teach me too? I also want to make some for lady Yuyuko.,[A]能不能也教教我啊，我也想给幽幽子大人做一份。,[A]能不能也教教我啊，我也想给幽幽子大人做一份。,[A]能不能也教教我啊，我也想給幽幽子大人做一份。
+SimpleCampDialogue/CampDial_Youmu_Marisa_Dialogues_2,Text,,"[B]아… 나만의 비밀 레시피라서, 안되겠는걸.","[B]Ah... the recipe of that dish is a secret, I can't tell you.",[B]啊……那份料理的配方是秘密，不能告诉你。,[B]啊……那份料理的配方是秘密，不能告诉你。,[B]啊……那份料理的配方是秘密，不能告訴你。
+SimpleCampDialogue/CampDial_Youmu_Marisa_Dialogues_3,Text,,[A]에~ 치사하게.,[A]Hey~ Why are you so stingy?,[A]欸~怎么这么小气。,[A]欸~怎么这么小气。,[A]欸~怎麼這麼小氣。
+SimpleCampDialogue/CampDial_Youmu_Miss_Dialogues_0,Text,,"[B]요우무, 잠깐 반령 좀 보여줄래?","[B]Miss Youmu, can you control your phantom body to come to me?",[B]妖梦小姐，能不能控制你的半灵来我这里？,[B]妖梦小姐，能不能控制你的半灵来我这里？,[B]妖夢小姐，能不能控制你的半靈來我這裡？
+SimpleCampDialogue/CampDial_Youmu_Miss_Dialogues_1,Text,,"[A]네? 할 수는 있지만, 왜 그러시나요?",[A]Hmm? Of course. What are you going to do?,[A]嗯？可以是可以，你要做什么？,[A]嗯？可以是可以，你要做什么？,[A]嗯？可以是可以，你要做什麼？
+SimpleCampDialogue/CampDial_Youmu_Miss_Dialogues_2,Text,,[B]내가 더 귀엽게 꾸며줄게!,[B]Let me dress it up beautifully!,[B]让我来给它打扮得漂漂亮亮的吧！,[B]让我来给它打扮得漂漂亮亮的吧！,[B]讓我來給它打扮得漂漂亮亮的吧！
+SimpleCampDialogue/CampDial_Youmu_Miss_Dialogues_3,Text,,[A]괘… 괜찮아요……,[A]Well then… forget it...,[A]还……还是算了吧……,[A]还……还是算了吧……,[A]還……還是算了吧……
+SimpleCampDialogue/CampDial_Youmu_Mokou_Dialogues_0,Text,,[B]저번엔 참 격하게도 싸웠었지?,[B]It was a really exciting battle last time.,[B]上次真是一场酣畅淋漓的战斗呢。,[B]上次真是一场酣畅淋漓的战斗呢。,[B]上次真是一場酣暢淋漓的戰鬥呢。
+SimpleCampDialogue/CampDial_Youmu_Mokou_Dialogues_1,Text,,[A]카구야라는 녀석에게 속은 거였잖아.,[A]We were all fooled by that Kaguya.,[A]我们都被辉夜那家伙蒙得团团转呢。,[A]我们都被辉夜那家伙蒙得团团转呢。,[A]我們都被輝夜那傢伙蒙得團團轉呢。
+SimpleCampDialogue/CampDial_Youmu_Mokou_Dialogues_2,Text,,[B]다음에 만나면 꼭 혼쭐을 내줘야겠어.,"[B]Next time I see her, I will definitely give her a good beatdown.",[B]下次碰到她我一定要好好收拾她。,[B]下次碰到她我一定要好好收拾她。,[B]下次碰到她我一定要好好收拾她。
+SimpleCampDialogue/CampDial_Youmu_Momori_Dialogues_0,Text,,[B]요우무~☆ 네 반령 가지고 놀아도 될까?☆,[B]Youmu~☆Can you let me play with your Phantom? ☆,[B]妖梦~☆给我玩玩你的半灵好不好啊？☆,[B]妖梦~☆给我玩玩你的半灵好不好啊？☆,[B]妖夢~☆給我玩玩你的半靈好不好啊？☆
+SimpleCampDialogue/CampDial_Youmu_Momori_Dialogues_1,Text,,[A]싫어요. 반령에게 무슨 짓을 할 줄 알고…,[A]I don't want to. You look like someone that would do something horrible to my phantom half.,[A]我不要，你看起来会对我的半灵做不好的事。,[A]我不要，你看起来会对我的半灵做不好的事。,[A]我不要，你看起來會對我的半靈做不好的事。
+SimpleCampDialogue/CampDial_Youmu_Momori_Dialogues_2,Text,,[B]에엥~☆ 그냥 쿠션으로 쓰려고 했을 뿐인걸?☆,"[B]Hey! ☆I'm not that kind of person. At worst, I’d use it as a pillow☆",[B]欸！☆我可不是这种人啊，最多拿它当抱枕用☆,[B]欸！☆我可不是这种人啊，最多拿它当抱枕用☆,[B]欸！☆我可不是這種人啊，最多拿它當抱枕用☆
+SimpleCampDialogue/CampDial_Youmu_Momori_Dialogues_3,Text,,[A]그래도 싫어요.,[A]I refuse.,[A]容我拒绝。,[A]容我拒绝。,[A]容我拒絕。
+SimpleCampDialogue/CampDial_Youmu_Narhan_Dialogues_0,Text,,[B]너와 네 반령끼리 차이가 느껴지지 않는군.,[B]I can't feel the difference between you and your phantom half.,[B]你和你的半灵，我感受不到区别呢,[B]你和你的半灵，我感受不到区别呢,[B]你和你的半靈，我感受不到區別呢
+SimpleCampDialogue/CampDial_Youmu_Narhan_Dialogues_1,Text,,"[A]둘 다 저니까요. 반인반령이라 했잖아요? 반 인간도, 반 유령도 저에요.","[A]I've said it before, I'm half-human and half-phantom. HALF-human, HALF-phantom.",[A]毕竟我都说了，我是半人半灵嘛。半人是我，半灵也是我,[A]毕竟我都说了，我是半人半灵嘛。半人是我，半灵也是我,[A]畢竟我都說了，我是半人半靈嘛。半人是我，半靈也是我
+SimpleCampDialogue/CampDial_Youmu_Narhan_Dialogues_2,Text,,"[B]하하하, 참 흥미로운 몸인걸.","[B]Heh, what an interesting physique.",[B]呵呵呵，真是有趣的体质呢。,[B]呵呵呵，真是有趣的体质呢。,[B]呵呵呵，真是有趣的體質呢。
+SimpleCampDialogue/CampDial_Youmu_Patchouli_Dialogues_0,Text,,[A]전에 사쿠야에게 속아서 홍마관에 갔다가 레밀리아한테 두들겨 맞았는데……,"[A]Last time, I was tricked into going to the Scarlet Devil Mansion, and was beaten up by Remi…",[A]上次被骗到红魔馆，被蕾米揍了一顿呢……,[A]上次被骗到红魔馆，被蕾米揍了一顿呢……,[A]上次被妖夢騙到紅魔館，被蕾米揍了一頓呢……
+SimpleCampDialogue/CampDial_Youmu_Patchouli_Dialogues_1,Text,,[B]내 도서관에서 성대하게도 저질러 주셨었지. 책도 엉망으로 만들고.,[B]You all fought in my big library and messed up all my books.,[B]你们在我的大图书馆里战斗，把我的书都弄乱啦。,[B]你们在我的大图书馆里战斗，把我的书都弄乱啦。,[B]你們在我的大圖書館裡戰鬥，把我的書都弄亂啦。
+SimpleCampDialogue/CampDial_Youmu_Patchouli_Dialogues_2,Text,,[A]레밀리아한테 따져. 나도 피해자야.,"[A]Go complain to Remi, I'm the victim here. ",[A]找蕾米去啦，我也是受害者呢。,[A]找蕾米去啦，我也是受害者呢。,[A]找蕾米去啦，我也是受害者呢。
+SimpleCampDialogue/CampDial_Youmu_Patchouli_Dialogues_3,Text,,"[B]뭐, 나도 두들겨 맞았거든.","[B]Well, I was beaten up too.",[B]嘛，因为我也被揍了一顿呢。,[B]嘛，因为我也被揍了一顿呢。,[B]嘛，因為我也被揍了一頓呢。
+SimpleCampDialogue/CampDial_Youmu_Pheonix_Dialogues_0,Text,,"[B]배고파! 요우무, 간식 좀 주라~","[B]I'm hungry! Youmu, what delicious snacks do you have there~",[B]我饿了！妖梦你会做什么好吃的点心吗~,[B]我饿了！妖梦你会做什么好吃的点心吗~,[B]我餓了！妖夢你會做什麼好吃的點心嗎~
+SimpleCampDialogue/CampDial_Youmu_Pheonix_Dialogues_1,Text,,"[A]음… 제가 만든 사쿠라모찌인데, 드실래요?","[A]Hmm... This is the sakura cake I made, do you want to eat it?",[A]嗯……这是我做的樱饼，你要吃吗？,[A]嗯……这是我做的樱饼，你要吃吗？,[A]嗯……這是我做的櫻餅，你要吃嗎？
+SimpleCampDialogue/CampDial_Youmu_Pheonix_Dialogues_2,Text,,[B]맛있겠다! 잘 먹겠습니다!,"[B]It looks delicious, I'm gonna eat it!",[B]看着好好吃，我开动了！,[B]看着好好吃，我开动了！,[B]看著好好吃，我開動了！
+SimpleCampDialogue/CampDial_Youmu_Priest_Dialogues_0,Text,,"[B]주님, 오늘도 저희를 축복해주소서……","[B]God, please bless us today too…",[B]主啊，今天也请保佑我们……,[B]主啊，今天也请保佑我们……,[B]主啊，今天也請保佑我們……
+SimpleCampDialogue/CampDial_Youmu_Priest_Dialogues_1,Text,,[A]프레셀 씨는 신앙심이 참 대단하신 것 같아요.,[A]Miss Pressel seems to have full devotion to her faith.,[A]普瑞塞斯小姐看起来对你的信仰深信不疑呢。,[A]普瑞塞斯小姐看起来对你的信仰深信不疑呢。,[A]普瑞塞斯小姐看起來對你的信仰深信不疑呢。
+SimpleCampDialogue/CampDial_Youmu_Priest_Dialogues_2,Text,,[A]하지만! 제 유유코님을 향한 충섬심을 이길 순 없죠!,[A]But it's definitely not as devout as my loyalty to Yuyuko~,[A]不过肯定比不过我对幽幽子大人的忠心~,[A]不过肯定比不过我对幽幽子大人的忠心~,[A]不過肯定比不過我對幽幽子大人的忠心~
+SimpleCampDialogue/CampDial_Youmu_Red_Dialogues_0,Text,,"[B]나랑 셀레나, 너랑 네 반령. 똑같이 둘이서 하나네.","[B]Selena and I, with you and your phantom, are quite a pair of pair.",[B]我和赛琳娜，你和你的半灵，都是一对呢。,[B]我和赛琳娜，你和你的半灵，都是一对呢。,[B]我和賽琳娜，你和你的半靈，都是一對呢。
+SimpleCampDialogue/CampDial_Youmu_Red_Dialogues_1,Text,,"[A]으음, 그쪽은 두 명이고 저는 반인반령 한 명이니까 좀 다르지 않을까요.","[A]You are two people, I am half a person and half a phantom, we are different.",[A]你们是两个人，我是半个人半个灵，不一样的吧。,[A]你们是两个人，我是半个人半个灵，不一样的吧。,[A]你們是兩個人，我是半個人半個靈，不一樣的吧。
+SimpleCampDialogue/CampDial_Youmu_Red_Dialogues_2,Text,,[B]뗄래야 뗄 수 없는 관계인 건 똑같잖아?,[B]Two things that are inseparable practically are the same.,[B]两个都是形影不离的这一点是一样的呢。,[B]两个都是形影不离的这一点是一样的呢。,[B]兩個都是形影不離的這一點是一樣的呢。
+SimpleCampDialogue/CampDial_Youmu_RemiliaScarlet_Dialogues_0,Text,,[A]전에 속아서 홍마관에 갔다가 다짜고짜 두들겨 맞았는데.,[A]Last time I was tricked into entering the Scarlet Devil Mansion and got beaten up for no reason.,[A]上次被骗到红魔馆来，被莫名揍了一顿呢。,[A]上次被骗到红魔馆来，被莫名揍了一顿呢。,[A]上次被騙到紅魔館來，被莫名揍了一頓呢。
+SimpleCampDialogue/CampDial_Youmu_RemiliaScarlet_Dialogues_1,Text,,[B]그건 사쿠야 탓이야. 사람을 잘못 잡아오다니.,[B]It's Sakuya's fault. She caught the wrong person.,[B]是咲夜的错啦，咲夜她抓错人的问题。,[B]是咲夜的错啦，咲夜她抓错人的问题。,[B]是咲夜的错啦，咲夜她抓錯人的問題。
+SimpleCampDialogue/CampDial_Youmu_RemiliaScarlet_Dialogues_2,Text,,[A]사람을 잡아오라고 시키는게 문제잖아!,"[A]You ordered Sakuya to catch people randomly, which is also your fault!",[A]你指使咲夜乱抓人也有问题啊！,[A]你指使咲夜乱抓人也有问题啊！,[A]你指使咲夜亂抓人也有問題啊！
+SimpleCampDialogue/CampDial_Youmu_SilverStein_Dialogues_0,Text,,[B]근접전 말고 원거리 저격으로도 충분히 적을 처리할 수 있지.,"[B]Aside from close combat, accurate long-ranged attacks can also be very effective in eliminating enemies quickly.",[B]除了近身格斗，精准的远程攻击也能很好地消灭敌人。,[B]除了近身格斗，精准的远程攻击也能很好地消灭敌人。,[B]除了近身格鬥，精准的遠程攻擊也能很好地消滅敵人。
+SimpleCampDialogue/CampDial_Youmu_SilverStein_Dialogues_1,Text,,[A]적을 만나면 일단 벱니다!,"[A]When encountering an enemy, just cut them down before they know it!",[A]遇到敌人总之先砍了再说！,[A]遇到敌人总之先砍了再说！,[A]遇到敵人總之先砍了再說！
+SimpleCampDialogue/CampDial_Youmu_SilverStein_Dialogues_2,Text,,[B]……어. 그래.,[B]...Whatever.,[B]……好吧。,[B]……好吧。,[B]……好吧。
+SimpleCampDialogue/CampDial_Youmu_Sizz_Dialogues_0,Text,,"[B]요우무, 그 반령, 만져봐도 될까요?","[B]Miss Youmu, can I touch your half-phantom?",[B]妖梦小姐，我能碰碰你的半灵吗？,[B]妖梦小姐，我能碰碰你的半灵吗？,[B]妖夢小姐，我能碰碰你的半靈嗎？
+SimpleCampDialogue/CampDial_Youmu_Sizz_Dialogues_1,Text,,[A]네? 물론이죠.,[A]Hmm? Of course.,[A]嗯？当然可以啊。,[A]嗯？当然可以啊。,[A]嗯？當然可以啊。
+SimpleCampDialogue/CampDial_Youmu_Sizz_Dialogues_2,Text,,[B]와아… 부드러워요… 우리 이브만큼 귀여워요!,"[B]It feels so soft, and it’s as cute as my Eve!",[B]摸起来好软啊，和我的伊芙一样可爱呢！,[B]摸起来好软啊，和我的伊芙一样可爱呢！,[B]摸起來好軟啊，和我的伊芙一樣可愛呢！
+SimpleCampDialogue/CampDial_Youmu_Trisha_Dialogues_0,Text,,[B]민첩함만이 전투에서 살아남을 길이야.,[B]Agility can ensure your survival in battle.,[B]敏捷的身手可以保障自己在战斗中的生存。,[B]敏捷的身手可以保障自己在战斗中的生存。,[B]敏捷的身手可以保障自己在戰鬥中的生存。
+SimpleCampDialogue/CampDial_Youmu_Trisha_Dialogues_1,Text,,[A]속도로는 지지 않아요!,[A]I refuse to yield when it comes to speed! ,[A]要论速度的话我可是不会认输的！,[A]要论速度的话我可是不会认输的！,[A]要論速度的話我可是不會認輸的！
+Skill/S_Youmu_0_Description,Text,,고정 능력 지정 시 비용 -1.,"When this skill is a Fixed ability, its cost is reduced by 1.",このスキルが固定能力の場合、コストが1減少する。,作为固定能力时费用-1。,作為固定能力時費用-1。
+Skill/S_Youmu_0_Name,Text,,칼자루 타격,Pommel Strike,柄打ち,柄击,柄擊
+Skill/S_Youmu_10_0_Description,Text,,,,,,
+Skill/S_Youmu_10_0_Name,Text,,일반 반격,Counterattack ,反撃 ,普通反击,普通反擊
+Skill/S_Youmu_10_Description,Text,,<color=#EfC0CB>스펠카드 진화 : 2 —「대소반사위성참」</color>,<color=#EfC0CB>Spell Card Upgrade: 2 — 「Matsuyoi-Reflecting Satellite Slash」</color>,<color=#EfC0CB>スペルカード強化: 2 ——「待宵反射衛星斬」</color>,<color=#EfC0CB>符卡升级：2——「待宵反射卫星斩」</color>,<color=#EfC0CB>符卡升級：2——「待宵反射衛星斬」</color>
+Skill/S_Youmu_10_Name,Text,,반사하계참,Netherworld Reflection Slash,反射下界斩,反射下界斩,反射下界斬
+Skill/S_Youmu_1_0_Name,Text,,검기「피를 털어내는 망량」,Swordmanship 「Mōryō Wiping Blood Off of their Blades」,剣技「血振るいの魍魎」,剑技「血振魍魉」,劍技「血振魍魎」
+Skill/S_Youmu_1_1_Name,Text,,명참「누관에서 탄까지 베어내는 마음의 눈」,Closed-Eye Slash 「The Bullet-Cutting Spirit Eye from Roukan」,瞑斬「楼観から弾をも断つ心の眼」,瞑斩「心之眼」,瞑斬「心之眼」
+Skill/S_Youmu_1_Description,Text,,"명중시 선택 :
+- 대상에게 4턴 동안 도발을 부여합니다.
+- 이번 턴 동안 도발 무시를 얻습니다.
+","On hit, choose one effect:
+-Apply Taunt to target for 4 turns.
+-Gain Taunt Immunity this turn.","命中時、以下の効果から1つ選んで発動する。
+-対象に4ターンの間、挑発を与える。
+-このターン中、自身は挑発無視を得る。 ","命中时，选择一个效果触发：
+-对目标施加持续4回合的嘲讽。
+-使自己在本回合内无视嘲讽。
+","命中時，選擇一個效果觸發：
+-對目標施加持續4回合的嘲諷。
+-使自己在本回合內無視嘲諷。
+"
+Skill/S_Youmu_1_Name,Text,,빙좌의 오랏줄,Spirit Medium's Bind,憑坐の縛 ,凭依之缚,憑依之縛
+Skill/S_Youmu_2_Description,Text,,"<color=#EfC0CB>스펠카드 진화 : 3 — 앵화검「섬섬산화」</color>
+대상과 도발 유무가 같은 적을 모두 공격합니다.
+대상의 행동 카운트를 1 늘립니다.","<color=#EfC0CB>Spell Card Upgrade: 2 — Cherry Blossom Sword 「Flashing Scattered Flowers」</color>
+This skill can be used one more time during this turn.","<color=#EfC0CB>スペルカード強化：2——「桜花剣-閃々散華」</color>
+このターン中、もう1回使用できる。","<color=#EfC0CB>符卡升级：2——樱花剑「闪闪散华」</color>
+使用后本回合内可再释放一次。","<color=#EfC0CB>符卡升級：2——櫻花劍「閃閃散華」</color>
+使用後本回合內可再釋放一次。"
+Skill/S_Youmu_2_Name,Text,,심초참,Heart Excerpt Slash,心抄斬 ,心抄斩,心抄斬
+Skill/S_Youmu_3_Description,Text,,"<color=#EfC0CB>스펠카드 진화 : 2 — 오의「서행춘풍참」</color>
+다른 무작위 적 하나를 함께 공격합니다.
+대상이 하나라면 이 스킬은 신속을 얻고, 반드시 치명타로 적중합니다.","<color=#EfC0CB>Spell Card Upgrade: 2 — Arcanum 「Slash of Saigyou Spring Wind」</color>
+Simultaneously attack 1 additional random enemy.
+If targeting only 1 enemy, this skill gains Swiftness and will critically hit.","<color=#EfC0CB>スペルカード強化: 2——「奥義-西行春風斬」</color>
+対象以外のランダムな敵1体を同時に攻撃する。
+対象が1体の場合、このスキルは迅速を得てクリティカルする。","<color=#EfC0CB>符卡升级：2——奥义「西行春风斩」</color>
+同时攻击除该目标外一个随机目标。
+如果只攻击一个目标，本次攻击必定暴击且本技能获得迅速。","<color=#EfC0CB>符卡升級：2——奧義「西行春風斬」</color>
+同時攻擊除該目標外一個隨機目標。
+如果只攻擊一個目標，本次攻擊必定暴擊且本技能獲得迅速。"
+Skill/S_Youmu_3_Name,Text,,결가부참,Lotus Posture Slash,結跏趺斬 ,结跏跗斩,結跏跗斬
+Skill/S_Youmu_4_Description,Text,,이번 전투에서 이 카드나 같은 이름의 카드를 사용했다면 한 번 더 시전됩니다.,"If ""Crescent Moon Slash"" has been used this combat, recast it.",この戦闘中、既に「弦月斬」が 使用されている場合、1回繰り返し発動する。 ,如果在本场战斗已经使用过了「弦月斩」，重复释放一次。,如果在本場戰鬥已經使用過了這張牌或者相同名字的牌，重複釋放一次。
+Skill/S_Youmu_4_Name,Text,,현월참,Crescent Moon Slash,弦月斬 ,弦月斩,弦月斬
+Skill/S_Youmu_5_Description,Text,,"<color=#EfC0CB>스펠카드 진화 : 3 — 단미검「미진자항참」</color>
+<color=#4D5AAF>스펠카드 소모 : &b</color>
+이 스킬의 비용은 현재 스펠카드 중첩 수(&b)만큼 감소합니다.","<color=#EfC0CB>Spell Card Upgrade: 3 — Hesitation-Cutting Sword 「Slash of Departure from Hesitation」</color>
+<color=#4D5AAF>Spell Card Cost: &b</color>
+This skill's cost decreases by &b (equal to current [Spell Card] stacks).","<color=#EfC0CB>スペルカード強化：3——「断迷剣-迷津慈航斬」</color>
+<color=#4D5AAF>符の消費: &b</color>
+このスキルのコストが&b減少する。減少量は現在所持している[符]のストック数:&b。","<color=#EfC0CB>符卡升级：3——断迷剑「迷津慈航斩」</color>
+<color=#4D5AAF>符卡消耗：&b</color>
+这个技能的费用下降&b，下降的数值为妖梦当前拥有的符卡层数。","<color=#EfC0CB>符卡升級：3——斷迷劍「迷津慈航斬」</color>
+<color=#4D5AAF>符卡消耗：&b</color>
+這個技能的費用下降&b，下降的數值為妖夢當前擁有的符卡層數。"
+Skill/S_Youmu_5_Name,Text,,단명검「명상참」,Life-Cutting Sword 「Slash of Nether Meditation」,断命剣「冥想斬」,断命剑「冥想斩」,斷命劍「冥想斬」
+Skill/S_Youmu_6_Description,Text,,"<color=#4D5AAF>스펠카드 소모 : 1</color>
+방어 무시.","<color=#4D5AAF>Spell Card Cost: 1</color>
+Ignores target's DEF.","<color=#4D5AAF>符の消費: 1</color>
+防御力を無視する。","<color=#4D5AAF>符卡消耗: 1</color>
+无视防御。","<color=#4D5AAF>符卡消耗：1</color>
+無視防禦。"
+Skill/S_Youmu_6_Name,Text,,절복무간,Preaching Avici,折伏無間,折伏无间,折伏無間
+Skill/S_Youmu_7_0_Description,Text,,"사용 시 1턴 후 버려짐, 제외가 부여된 [생사유전참-종식]을 손에 넣습니다.","When cast, add a [Transmigration Slash – Final Form] with Exclude and Discard after 1 turn to your hand.",除外と１ターン後に捨てられるを持つ「生死流転斬-終ノ方」手札に1枚加える。,使用后将一张[生死流转斩-终式]加入手牌，附带放逐，1回合后弃牌。,使用後將一張[生死流轉斬-終式]加入手牌，附帶放逐，1回合後棄牌。
+Skill/S_Youmu_7_0_Name,Text,,생사유전참-이식,Transmigration Slash – Second Form,生死流転斬-二ノ型,生死流转斩-二式,生死流轉斬-二式
+Skill/S_Youmu_7_1_Description,Text,,,,,,
+Skill/S_Youmu_7_1_Name,Text,,생사유전참-종식,Transmigration Slash – Final Form,生死流転斬-終ノ方,生死流转斩-终式,生死流轉斬-終式
+Skill/S_Youmu_7_Description,Text,,"<color=#EfC0CB>스펠카드 진화 : 3 — 전생검「원심유전참」</color>
+사용 시 1턴 후 버려짐, 제외가 부여된 [생사유전참-이식]을 손에 넣습니다.","<color=#EfC0CB>Spell Card Upgrade: 3 — Reincarnation Sword 「Slash of Circular Vicissitude」</color>
+When cast, add a [Transmigration Slash – Second Form] with Exclude and Discard after 1 turn to your hand.","<color=#EfC0CB>スペルカード強化：3——「転生剣-円心流転斬」</color>
+除外と１ターン後に捨てられるを持つ「生死流転斬-二ノ型」を手札に1枚加える。","<color=#EfC0CB>符卡升级：3——转生剑「圆心流转斩」</color>
+使用后将一张[生死流转斩-二式]加入手卡，附带放逐，1回合后弃牌。","<color=#EfC0CB>符卡升級：3——轉生劍「圓心流轉斬」</color>
+使用後將一張[生死流轉斬-二式]加入手卡，附帶放逐，1回合後棄牌。"
+Skill/S_Youmu_7_Name,Text,,생사유전참-일식,Transmigration Slash – First Form,生死流転斬,生死流转斩-一式,生死流轉斬-一式
+Skill/S_Youmu_8_Description,Text,,"<color=#EfC0CB>스펠카드 진화 : 1 — 옥염검「업풍섬영진」</color>
+요우무의 무작위 전용 스킬 1장을 손에 넣습니다. (비용 -1, 2턴 후 버려짐, 제외 부여)","<color=#EfC0CB>Spell Card Upgrade: 1 — Hell Fire Sword 「Sudden Phantom Formation Slash of Karmic Wind」</color>
+Create a random unique skill of Youmu to your hand with Exclude, Discard after 2 turns, and reduce its cost by 1.","<color=#EfC0CB>スペルカード強化：1——「獄炎剣-業風閃影陣」</color>
+コストが1減少し、除外と2ターン後に捨てられるを持つランダムな魂魄妖夢の専用スキルを手札に1枚加える。","<color=#EfC0CB>符卡升级：1——狱炎剑「业风闪影阵」</color>
+随机将一张妖梦的专属技能加入手卡，并使其附带费用消耗-1，放逐，两回合后弃牌。","<color=#EfC0CB>符卡升級：1——獄炎劍「業風閃影陣」</color>
+隨機將一張妖夢的專屬技能加入手卡，並使其附帶費用消耗-1，放逐，兩回合後棄牌。"
+Skill/S_Youmu_8_Name,Text,,옥계검「이백유순의 일섬」,Hell Realm Sword 「Two Hundred Yojana in One Slash」,獄界剣「二百由旬の一閃」,狱界剑「二百由旬之一闪」,獄界劍「二百由旬之一閃」
+Skill/S_Youmu_9_Description,Text,,"<color=#EfC0CB>스펠카드 진화 : 3 — 단령검「성불득탈참」</color>
+이 스킬이 손에 있을 때 스펠카드 중첩을 소모할 때마다 비용 -1
+이 스킬은 치명타로 적중하지 않으면 고통 피해를 입히지만, 적의 방어력을 무시하고 피해량이 20% 증가합니다.","<color=#EfC0CB>Spell Card Upgrade: 3 — Spirit-Cutting Sword 「Slash of Ascension to Buddhahood」</color>
+While in hand: Consuming 1 [Spell Card] stack reduces this skill's cost by 1.
+Non-Critical hits inflict Pain damage. Criticals ignore DEF and deal +20% damage.","<color=#EfC0CB>スペルカード強化: 3——「断霊剣-成仏得脱斬」</color>
+手札にある間、[符]のストックを1消費するたび、コストが1減少する。
+このスキルはクリティカルしなかった場合、苦痛ダメージを与える。クリティカルした場合 、防御力を無視し、20%のダメージを追加で与える。","<color=#EfC0CB>符卡升级：3——断灵剑「成佛得脱斩」</color>
+每消耗1层符卡层数，手中的这张牌费用-1。
+此技能如果没暴击时，将造成痛苦伤害。相反，将无视敌人的防御力并造成20%额外伤害。","<color=#EfC0CB>符卡升級：3——斷靈劍「成佛得脫斬」</color>
+每消耗1層符卡層數，手中的這張牌費用-1。
+此技能如果沒暴擊時，將造成痛苦傷害。相反，將無視敵人的防禦力並造成20%額外傷害。"
+Skill/S_Youmu_9_Name,Text,,단상검「초목성불참」,Thought-Cutting Sword 「Slash of the Buddhahood of Flora」,断想剣「草木成仏斬」,断想剑「草木成佛斩」,斷想劍「草木成佛斬」
+Skill/S_Youmu_Ex_0_Description,Text,,대기 횟수를 1 증가시킵니다.,"When cast, gain 1 Standby.",待機回数が1増加する。,使用后，获得一次等待次数。,使用後，獲得一次等待次數。
+Skill/S_Youmu_Ex_0_Name,Text,,발도술,Slash Draw,抜刀,拔刀术,拔刀術
+Skill/S_Youmu_Ex_10_0_Description,Text,,,,,,
+Skill/S_Youmu_Ex_10_0_Name,Text,,반사참,Reflection Slash,反射斬,反射斩,反射斬
+Skill/S_Youmu_Ex_10_Description,Text,,<color=#4D5AAF>스펠카드 소모 : 2</color>,<color=#4D5AAF>Spell Card Cost: 2</color>,<color=#4D5AAF>符の消費: 2</color>,<color=#4D5AAF>符卡消耗：2</color>,<color=#4D5AAF>符卡消耗：2</color>
+Skill/S_Youmu_Ex_10_Name,Text,,「대소반사위성참」,「Matsuyoi-Reflecting Satellite Slash」,「待宵反射衛星斬」,「待宵反射卫星斩」,「待宵反射衛星斬」
+Skill/S_Youmu_Ex_2_Description,Text,,"<color=#4D5AAF>스펠카드 소모: 3</color>
+대상과 동일한 도발 상태의 목표들을 동시에 공격합니다.
+전장에 있는 적의 수에 따라 추가로 해당 횟수만큼 &a(공격력의 150%) 피해를 줍니다.
+명중 시 지정된 대상의 행동 카운트다운을 1 증가시킵니다.","<color=#4D5AAF>Spell Card Cost: 2</color>
+When cast, add a [Cherry Blossom Sword - Flashing Scattered Flowers] with Exclude and Discard after 1 turn to your hand.","<color=#4D5AAF>符の消費: &a</color>
+除外と<color=#4D5AAF>符の消費: 1</color>、2ターン後に捨てられるを持つ「桜花剣-閃々散華」をデッキに1枚加える。","<color=#4D5AAF>符卡消耗：&a</color>
+使用后将一张樱花剑「闪闪散华」加入卡牌，这张樱花剑「闪闪散华」的符卡消耗降为1，附带2回合后弃牌，放逐。","<color=#4D5AAF>符卡消耗：2</color>
+使用後將一張櫻花劍「閃閃散華」加入手牌，這張櫻花劍「閃閃散華」的符卡消耗降為1，附帶2回合後弃牌，放逐。"
+Skill/S_Youmu_Ex_2_Name,Text,,앵화검「섬섬산화」,Cherry Blossom Sword 「Flashing Scattered Flowers」,桜花剣「閃々散華」,樱花剑「闪闪散华」,櫻花劍「閃閃散華」
+Skill/S_Youmu_Ex_3_Description,Text,,"<color=#4D5AAF>스펠카드 소모 : 2</color>
+이 스킬은 한 번 더 시전됩니다.
+다른 무작위 적 하나를 함께 공격합니다.
+대상이 하나라면 반드시 치명타로 적중합니다.","<color=#4D5AAF>Spell Card Cost: 2</color>
+Recast this skill once more.
+Attack 1 additional random enemy.
+Single-target attacks always critically hit.","<color=#4D5AAF>符の消費: 2</color>
+1回繰り返し発動する。
+対象以外のランダムな敵1体を同時に攻撃する。
+対象が1体の場合、クリティカルする。","<color=#4D5AAF>符卡消耗：2</color>
+重复释放本技能1次。
+同时攻击除该目标外一个随机目标。
+如果只攻击一个目标，本次攻击必定暴击。","<color=#4D5AAF>符卡消耗：2</color>
+重複釋放本技能1次。
+同時攻擊除該目標外一個隨機目標。
+如果只攻擊一個目標，本次攻擊必定暴擊。"
+Skill/S_Youmu_Ex_3_Name,Text,,오의「서행춘풍참」,Arcanum 「Slash of Saigyou Spring Wind」,奥義「西行春風斬」,奥义「西行春风斩」,奧義「西行春風斬」
+Skill/S_Youmu_Ex_5_Description,Text,,"<color=#4D5AAF>스펠카드 소모 : &b
+</color>이 스킬의 비용은 현재 스펠카드 중첩 수(&b)만큼 감소합니다.
+대상 이외의 적들에게 1/3의 피해를 입힙니다.(&a)","<color=#4D5AAF>Spell Card Cost: &b</color>
+This skill's cost decreases by &b (equal to current [Spell Card] stacks).
+Deal 33% of damage to other enemies (&a).","<color=#4D5AAF>符の消費: &b</color>
+このスキルのコストが&b減少する。減少量は現在所持する[符]のストック数:&b。
+対象以外の敵に、与えたダメージの3分の1のダメージを与える。(&a)。","<color=#4D5AAF>符卡消耗：&b
+</color>这个技能的费用下降&b，下降的数值为妖梦当前拥有的符卡层数。
+对除目标以外的敌人造成三分之一的伤害（&a）。","<color=#4D5AAF>符卡消耗：&b
+</color>這個技能的費用下降&b，下降的數值為妖夢當前擁有的符卡層數。
+對除目標以外的敵人造成三分之一的傷害(&a)。"
+Skill/S_Youmu_Ex_5_Name,Text,,단미검「미진자항참」,Hesitation-Cutting Sword 「Slash of Departure from Hesitation」,断迷剣「迷津慈航斬」,断迷剑「迷津慈航斩」,斷迷劍「迷津慈航斬」
+Skill/S_Youmu_Ex_7_Description,Text,,<color=#4D5AAF>스펠카드 소모 : 3</color>,"<color=#4D5AAF>Spell Card Cost: 3</color>
+Cast this skill 5 times.
+If target survives, apply [Protective Barrier].","<color=#4D5AAF>符の消費: 3</color>
+5回繰り返し発動する。
+その後、対象が生存している場合、対象にレジストできない[保護結界]を与える。","<color=#4D5AAF>符卡消耗：3</color>
+重复释放该技能5次。
+重复释放完后如果目标仍未死亡，才会对目标施加保护结界干扰减益。","<color=#4D5AAF>符卡消耗：3</color>
+重複釋放該技能5次。
+重複釋放完後如果目標仍未死亡，才會對目標施加保護結界干擾減益。"
+Skill/S_Youmu_Ex_7_Name,Text,,전생검「원심유전참」,Reincarnation Sword 「Slash of Circular Vicissitude」,転生剣「円心流転斬」,转生剑「圆心流转斩」,轉生劍「圓心流轉斬」
+Skill/S_Youmu_Ex_8_0_Description,Text,,"<color=#EfC0CB>스펠카드 진화 : 3 — 옥신검「업풍신섬참」</color>
+<color=#4D5AAF>스펠카드 소모 : 1</color>
+요우무의 전용 스킬 3개를 제시하고, 1개를 선택해 손에 가져옵니다. (비용 -1, 2턴 후 버려짐, 제외 부여)","<color=#EfC0CB>Spell Card Upgrade: 3 — Hell God Sword 「Sudden Divine Severing of Karmic Wind」</color>
+<color=#4D5AAF>Spell Card Cost: 1</color>
+Choose 1 of 3 Youmu-exclusive skills to add to hand (Cost-1, Exclude, Discard after 2 turns).","<color=#EfC0CB>スペルカード強化：3——「獄神剣-業風神閃斬」</color>
+<color=#4D5AAF>符の消費: 1</color>
+魂魄妖夢の専用スキルを3つ提示し、1つ選びそれに「コストが1減少し、除外と2ターン後に捨てられる」を与え手札に加える。","<color=#EfC0CB>符卡升级：3——狱神剑「业风神闪斩」</color>
+<color=#4D5AAF>符卡消耗：1</color>
+展示三张妖梦的专属技能，选择一张加入手卡，并使其附带费用消耗-1，放逐，两回合后弃牌。","<color=#EfC0CB>符卡升級：3——獄神劍「業風神閃斬」</color>
+<color=#4D5AAF>符卡消耗：1</color>
+展示三張妖夢的專屬技能，選擇一張加入手卡，並使其附帶費用消耗-1，放逐，兩回合後棄牌。"
+Skill/S_Youmu_Ex_8_0_Name,Text,,옥염검「업풍섬영진」,Hell Fire Sword 「Sudden Phantom Formation Slash of Karmic Wind」,獄炎剣「業風閃影陣」,狱炎剑「业风闪影阵」,獄炎劍「業風閃影陣」
+Skill/S_Youmu_Ex_8_1_Description,Text,,"<color=#4D5AAF>스펠카드 소모 : 3</color>
+요우무의 전용 스킬 5개를 제시하고, 3개를 선택해 손에 가져옵니다. (비용 -1, 2턴 후 버려짐, 제외 부여)","<color=#4D5AAF>Spell Card Cost: 3</color>
+Choose 3 of 5 Youmu-exclusive skills to add to hand (Cost-1, Exclude, Discard after 2 turns).","<color=#4D5AAF>スペルカード消費: 3</color>
+魂魄妖夢の専用スキルを5つ提示し、3つ選びそれぞれに「コストが1減少し、除外と2ターン後に捨てられる」を与え手札に加える。","<color=#4D5AAF>符卡消耗：3</color>
+展示五张妖梦的专属技能，选择三张加入手卡，并使其附带费用消耗-1，放逐，两回合后弃牌。","<color=#4D5AAF>符卡消耗：3</color>
+展示五張妖夢的專屬技能，選擇三張加入手卡，並使其附帶費用消耗-1，放逐，兩回合後棄牌。"
+Skill/S_Youmu_Ex_8_1_Name,Text,,옥신검「업풍신섬참」,Hell God Sword 「Sudden Divine Severing of Karmic Wind」,獄神剣「業風神閃斬」,狱神剑「业风神闪斩」,獄神劍「業風神閃斬」
+Skill/S_Youmu_Ex_9_Description,Text,,"<color=#4D5AAF>스펠카드 소모 : 3</color>
+이 스킬이 손에 있을 때 스펠카드 중첩을 소모할 때마다 비용 -1
+이 스킬은 치명타로 적중하지 않으면 고통 피해를 입히고, 치명타로 적중하면 적의 방어력을 무시하고 피해량이 40% 증가합니다.","<color=#4D5AAF>Spell Card Cost: 3</color>
+While in hand: Consuming 1 [Spell Card] stack reduces this skill's cost by 1.
+Non-Critical hits inflict Pain damage. Criticals ignore DEF and deal +40% damage.","<color=#EfC0CB>スペルカード強化: 3——「断霊剣-成仏得脱斬」</color>
+手札にある間、[符]のストックを1消費するたび、コストが1減少する。
+このスキルはクリティカルしなかった場合、苦痛ダメージを与える。クリティカルした場合 、防御力を無視し、40%のダメージを追加で与える。","<color=#4D5AAF>符卡消耗：3</color>
+每消耗1层符卡层数，手中的这张牌费用-1。
+此技能如果没暴击时，将造成痛苦伤害。相反，将无视敌人的防御力并造成40%额外伤害。","<color=#4D5AAF>符卡消耗：3</color>
+每消耗1層符卡層數，手中的這張牌費用-1。
+此技能如果沒暴擊時，將造成痛苦傷害。相反，將無視敵人的防禦力並造成40%額外傷害。"
+Skill/S_Youmu_Ex_9_Name,Text,,단령검「성불득탈참」,Spirit-Cutting Sword 「Slash of Ascension to Buddhahood」,断霊剣「成仏得脱斬」,断灵剑「成佛得脱斩」,斷靈劍「成佛得脫斬」
+Skill/S_Youmu_Ex_LucyD_1_Description,Text,,"<color=#4D5AAF>스펠카드 소모 : 2</color>
+스킬을 2개 뽑습니다.
+요우무가 살아있으면 마나를 2 회복하고, 이번 턴에 '발도술'을 사용할 때마다 스킬 교환 횟수를 1 얻습니다.","<color=#4D5AAF>Spell Card Cost: 2</color>
+Draw 2 skills.
+If Youmu is alive: Restore 2 Mana. This turn, gain 1 Exchange per ""Slash Draw"" used.","<color=#4D5AAF>符の消費: 2</color>
+スキルを2枚引く。
+魂魄妖夢が生存している場合、マナを2回復してこのターン中に魂魄妖夢が「抜刀」を使用するたび、交換回数が1増加する。 ","<color=#4D5AAF>符卡消耗：2</color>
+抽取2个技能。
+如果妖梦存活，恢复2点法力值，并且本回合内，妖梦每次使用“拔刀术”时，获得1次交换机会。","<color=#4D5AAF>符卡消耗：2</color>
+抽取2個技能。
+如果妖夢存活，恢復2點法力值，並且本回合內，妖夢每次使用“拔刀術”時，獲得1次交換機會。"
+Skill/S_Youmu_Ex_LucyD_1_Name,Text,,악령,Wicked Soul,悪し魂 ,恶魂,惡魂
+Skill/S_Youmu_Ex_R_1_Description,Text,,<color=#4D5AAF>스펠카드 소모 : 5</color>,<color=#4D5AAF>Spell Card Cost: 5</color>,"<color=#4D5AAF>符の消費: 5</color> 
+
+<color=#919191>この世とあの世は結界によって隔たれている。 多くの未解決殺人事件の真相はあの世にある。  たとえ知る人がいなくとも、罪はそこにある。</color>","<color=#4D5AAF>符卡消耗：5</color>
+
+<color=#919191>此世与彼世被幽明结界分割开来。到了彼世很多未解决的杀人事件都有了答案。就算不被任何人知道，罪孽仍旧存在。</color>","<color=#4D5AAF>符卡消耗：5</color>
+
+<color=#919191>此世與彼世被幽明結界分割開來。到了彼世很多未解决的殺人事件都有了答案。就算不被任何人知道，罪孽仍舊存在。</color>"
+Skill/S_Youmu_Ex_R_1_Name,Text,,혼백「유명구문지총명의 법」,Konpaku 「Dharma of Gumonji Wisdom of the Living and Dead」,魂魄「幽明求聞持聡明の法 」,魂魄「幽明求闻持聪明之法」,魂魄「幽明求聞持聰明之法」
+Skill/S_Youmu_Ex_R_2_0_Description,Text,,,,,,
+Skill/S_Youmu_Ex_R_2_0_Name,Text,,공관검「육근청정참」-일식,Voidness Sword 「Slash Clearing the Six Senses – First Form」,空観剣「六根清浄斬 一ノ型」,空观剑「六根清净斩」-一式,空觀劍「六根清淨斬」-一式
+Skill/S_Youmu_Ex_R_2_1_Description,Text,,,,,,
+Skill/S_Youmu_Ex_R_2_1_Name,Text,,공관검「육근청정참」-종식,Voidness Sword 「Slash Clearing the Six Senses – Final Form」,空観剣「六根清浄斬 終ノ型」,空观剑「六根清净斩」-终式,空觀劍「六根清淨斬」-終式
+Skill/S_Youmu_Ex_R_2_Description,Text,,"<color=#4D5AAF>스펠카드 소모 : 5</color>
+이 스킬이 카운트되는 동안, 대상이 요우무나 양 옆의 파티원을 공격하면 그 피해를 0으로 만들고 &a(공격력 100%)의 피해를 5번 입힌 후 &b(공격력 200%)의 피해를 1번 입힙니다.
+카운트되는 동안 요우무는 행동 불능 상태가 됩니다.
+공격을 성공적으로 막으면 스펠카드를 1중첩 얻고 다음 턴 시작 시 형안검을 손에 넣습니다.","<color=#4D5AAF>Spell Card Cost: 5</color>
+During countdown: Nullify damage to Youmu/allies and then launch a counterattack that hit 5 times for &a (100% attack power), and then once for &b (200% attack power) damage.
+During countdown, Youmu Konpaku cannot act.
+Successful parry grants 1 [Spell Card] stack and adds ""Insightful Sword"" next turn.","<color=#4D5AAF>符の消費: 5</color>
+カウントダウン中、対象の攻撃により魂魄妖夢かその左右の味方がダメージを受けたとき、そのダメージを0にして&a(攻撃力の100%)のダメージを5回与え、その後&b(攻撃力の200%)のダメージを1回与える。
+カウントダウン中、魂魄妖夢は行動できない。 
+攻撃を防御した場合、[符]のストックを1得て、次のターン開始時「炯眼剣」を手札に加える。 ","<color=#4D5AAF>符卡消耗：5</color>
+倒计时内如果指向的敌方使用的技能的目标包括妖梦及妖梦左右的角色时，使该技能伤害变为0，并对其造成5次&a（攻击力100%）点伤害后造成1次&b（攻击力200%）点伤害。
+倒计时期间妖梦不可行动。
+如果成功格挡攻击，获得一层符卡层数，并在下一回合开始时将炯眼剑抽回手中。","<color=#4D5AAF>符卡消耗：5</color>
+倒計時內如果指向的敵方使用的技能的目標包括妖夢及妖夢左右的角色時，使該技能傷害變為0，並對其造成5次&a(攻擊力100%)點傷害後造成1次&b(攻擊力200%)點傷害。
+倒計時期間妖夢不可行動。
+如果成功格擋攻擊，獲得一層符卡層數，並在下一回合開始時將炯眼劍抽回手中。"
+Skill/S_Youmu_Ex_R_2_Name,Text,,공관검「육근청정참」,Voidness Sword 「Slash Clearing the Six Senses」,空観剣「六根清浄斬」,空观剑「六根清净斩」,空觀劍「六根清淨斬」
+Skill/S_Youmu_Ex_R_3_0_Description,Text,,,,,,
+Skill/S_Youmu_Ex_R_3_0_Name,Text,,인귀「미래영겁참」-일식,Human Oni 「Slash of the Eternal Future – First Form」,人鬼「未来永劫斬 一ノ型」,人鬼「未来永劫斩」-一式,人鬼「未來永劫斬」-一式
+Skill/S_Youmu_Ex_R_3_1_Name,Text,,인귀「미래영겁참」-이식,Human Oni 「Slash of the Eternal Future – Second Form」,人鬼「未来永劫斬 二ノ型」,人鬼「未来永劫斩」-二式,人鬼「未來永劫斬」-二式
+Skill/S_Youmu_Ex_R_3_2_Name,Text,,인귀「미래영겁참」-종식,Human Oni 「Slash of the Eternal Future – Final Form」,人鬼「未来永劫斬 終ノ型」,人鬼「未来永劫斩」-终式,人鬼「未來永劫斬」-終式
+Skill/S_Youmu_Ex_R_3_Description,Text,,"<color=#4D5AAF>스펠카드 소모: 5</color>
+방어력 무시.
+먼저 &a(공격력의 60%) 피해를 1회, 그 다음 &b(공격력의 29%) 피해를 16회, 마지막으로 &c(공격력의 500%) 피해를 1회 줍니다.
+시전이 끝난 후 대상이 살아있다면, 대상에게 보호 결계 방해 디버프를 부여합니다.","<color=#4D5AAF>Spell Card Cost: 5</color>
+Ignores DEF.
+First deal &a (60% attack power) damage once, then deal &b (29% attack power) damage 16 times, and finally deal &c (500% attack power) damage once.
+If target has action count, apply [Protective Barrier].","<color=#4D5AAF>符の消費: 5</color>
+防御力を無視する。
+&a (攻撃力の 60%) のダメージを1回与え、次に&b (攻撃力の29%) のダメージを16回与え、最後に&c (攻撃力の500%) のダメージを1回与える。
+その後、対象が行動カウントを持つ場合、[保護結界]を与える。","<color=#4D5AAF>符卡消耗：5</color>
+无视防御。
+先造成一次&a（60%攻击力）点伤害，再造成16次&b（29%攻击力）点伤害，最后造成一次&c（500%攻击力）点伤害。
+释放结束后，如果目标仍有行动，才会对目标施加保护结界干扰减益。","<color=#4D5AAF>符卡消耗：5</color>
+無視防禦。
+先造成一次&a(60%攻擊力)點傷害，再造成16次&b(29%攻擊力)點傷害，最後造成一次&c(500%攻擊力)點傷害。
+釋放結束後，如果目標仍有行動，才會對目標施加保護結界干擾減益。"
+Skill/S_Youmu_Ex_R_3_Name,Text,,인귀「미래영겁참」,Human Oni 「Slash of the Eternal Future」,人鬼「未来永劫斬」,人鬼「未来永劫斩」,人鬼「未來永劫斬」
+Skill/S_Youmu_LucyD_1_Description,Text,,"<color=#EfC0CB>스펠카드 진화 : 2 — 악령</color>
+스킬을 2개 뽑습니다. 요우무가 스펠카드를 1중첩 얻습니다.","<color=#EfC0CB>Spell Card Upgrade: 2 — Wicked Soul</color>
+Draw 2 skills. Youmu gains 1 [Spell Card] stack.","<color=#EfC0CB>スペルカード強化: 2——「悪し魂 」</color>
+スキルを2枚引き、魂魄妖夢が[符]を1ストック得る。 ","<color=#EfC0CB>符卡升级：2——恶魂</color>
+抽取2个技能，使妖梦获得1层符卡层数。","<color=#EfC0CB>符卡升級：2——惡魂</color>
+抽取2個技能，使妖夢獲得1層符卡層數。"
+Skill/S_Youmu_LucyD_1_Name,Text,,기묘한 반신,Strange Half-Body,奇び半身 ,奇妙半身,奇妙半身
+Skill/S_Youmu_P_0_Description,Text,,,,,,
+Skill/S_Youmu_P_0_Name,Text,,,Half-Phantom,半霊タックル,半灵撞击,
+Skill/S_Youmu_P_Description,Text,,,,,,
+Skill/S_Youmu_P_Name,Text,,반령충돌,Half-Phantom,半霊タックル,半灵撞击,半靈撞擊
+Skill/S_Youmu_R_1_Description,Text,,<color=#EfC0CB>스펠카드 진화 : 5 — 혼백「유명구문지총명의 법」</color>,"<color=#EfC0CB>Spell Card Upgrade: 5 — Konpaku 「Dharma of Gumonji Wisdom of the Living and Dead」</color>
+
+<color=#919191>The boundary between worlds holds unresolved sins. Truth lies beyond the veil - unknown yet unforgotten.</color>","<color=#EfC0CB>スペルカード強化: ５——「魂魄-幽明求聞持聡明の法  」</color>
+
+<color=#919191>この世とあの世は結界によって隔たれている。 多くの未解決殺人事件の真相はあの世にある。  たとえ知る人がいなくとも、罪はそこにある。</color>","<color=#EfC0CB>符卡升级：5——魂魄「幽明求闻持聪明之法」</color>
+
+<color=#919191>此世与彼世被幽明结界分割开来。到了彼世很多未解决的杀人事件都有了答案。就算不被任何人知道，罪孽仍旧存在。</color>","<color=#EfC0CB>符卡升級：5——魂魄「幽明求聞持聰明之法」</color>
+
+<color=#919191>此世與彼世被幽明結界分割開來。到了彼世很多未解决的殺人事件都有了答案。就算不被任何人知道，罪孽仍舊存在。</color>"
+Skill/S_Youmu_R_1_Name,Text,,혼부「유명의 고륜」,Soul Sign 「Wheel of Pain of the Living and Dead」,魂符「幽明の苦輪」,魂符「幽明的苦轮」,魂符「幽明的苦輪」
+Skill/S_Youmu_R_2_0_Name,Text,,형안검,Insightful Sword,炯眼剣 ,炯眼剑,炯眼劍
+Skill/S_Youmu_R_2_Description,Text,,"<color=#EfC0CB>스펠카드 진화 : 5 — 공관검「육근청정참」</color>
+이 스킬이 카운트되는 동안, 대상이 요우무나 양 옆의 파티원을 공격하면 그 피해를 0으로 만들고 &a(공격력 140%)의 피해를 1번 입힙니다.
+카운트되는 동안 요우무는 행동 불능 상태가 됩니다.
+공격을 성공적으로 막으면 스펠카드를 1중첩 얻고 다음 턴 시작 시 이 카드를 손으로 가져옵니다.","<color=#EfC0CB>Spell Card Upgrade: 5 — Voidness Sword 「Slash Clearing the Six Senses」""</color>
+During countdown: Nullify damage to Youmu/allies and then launch a counterattack that hit once for &a (130% attack power) damage.
+During countdown, Youmu Konpaku cannot act.
+Successful parry grants 1 [Spell Card] stack and adds ""Insightful Sword"" next turn.","<color=#EfC0CB>スペルカード強化: ５——「空観剣-六根清浄斬 」</color>
+カウントダウン中、対象の攻撃により魂魄妖夢かその左右の味方がダメージを受けたとき、そのダメージを0にして  &a(攻撃力の130%)のダメージを与える。
+カウントダウン中、魂魄妖夢は行動できない。 
+攻撃を防御した場合、[符]を1ストック得て、次のターン開始時「炯眼剣」を手札に加える。 ","<color=#EfC0CB>符卡升级：5——空观剑「六根清净斩」</color>
+倒计时内如果指向的敌方使用的技能的目标包括妖梦及其左右角色时，使该技能伤害变为0并造成&a（攻击力130%）点伤害。
+倒计时期间妖梦不可行动。
+如果成功格挡攻击，获得一层符卡层数，并在下一回合开始时将这张牌抽回手中。","<color=#EfC0CB>符卡升級：5——空觀劍「六根清淨斬」</color>
+倒計時內如果指向的敵方使用的技能的目標包括妖夢及其左右角色時，使該技能傷害變為0並造成&a(攻擊力130%)點傷害。
+倒計時期間妖夢不可行動。
+如果成功格擋攻擊，獲得一層符卡層數，並在下一回合開始時將這張牌抽回手中。"
+Skill/S_Youmu_R_2_Name,Text,,형안검,Insightful Sword,炯眼剣 ,炯眼剑,炯眼劍
+Skill/S_Youmu_R_3_Description,Text,,"<color=#EfC0CB>스펠카드 진화 : 5 — 인귀「미래영겁참」</color>
+대상이 살아있으면 보호결계 방해 디버프를 부여합니다.","<color=#EfC0CB>Spell Card Upgrade: 5 — Human Oni 「Slash of the Eternal Future」</color>
+If target has action count after activation, apply [Protective Barrier].","<color=#EfC0CB>スペルカード強化: ５——「人鬼-未来永劫斬 」</color>
+使用後、対象が行動カウントを持つ場合、[保護結界]を与える。","<color=#EfC0CB>符卡升级：5——人鬼「未来永劫斩」</color>
+释放结束后，如果目标仍有行动，才会对目标施加保护结界干扰减益。","<color=#EfC0CB>符卡升級：5——人鬼「未來永劫斬」</color>
+釋放結束後，如果目標仍有行動，才會對目標施加保護結界干擾減益。"
+Skill/S_Youmu_R_3_Name,Text,,인부「현세참」,Human Sign 「Slash of the Present World」,人符「現世斬」,人符「现世斩」,人符「現世斬」
+Skill/S_Youmu_R_EX_Description,Text,,<color=#red></color>,<color=#919191>A guardian's resolve transcends life and death. The sword still swings to protect.</color>,<color=#919191>生と死のサイクルを経ても、守護者の心は不滅のままであり、その手に握られた剣は今も守護ために振るわれる。</color>,<color=#919191>即使历经生死轮回，守护的心仍旧不灭，手中的剑仍为了守护之人挥舞。</color>,<color=#919191>即使歷經生死輪回，守護的心仍舊不滅，手中的劍仍為了守護之人揮舞。</color>
+Skill/S_Youmu_R_EX_Name,Text,,<color=red>「류 인 약 화」</color>,<color=red>”Flowing Blade-like Flame”</color>,<color=red>「流 刃 様 火」</color>,<color=red>「流 刃 似 火」</color>,<color=red>「流 刃 似 火」</color>
+Skill/S_Yuyuko_0_Description,Text,,"전장의 모든 대상에게 각 캐릭터 최대 체력의 80%에 해당하는 고통 피해를 줍니다(최소 20).
+Lunatic 난이도: 아군 유령에게는 피해를 주지 않습니다.","Deal Pain damage equal to 80% of all targets' max HP (min 20).
+Lunatic Difficulty: Doesn't damage allied Ghosts.","すべての敵味方を対象とし、対象に対象自身の最大体力の80%の苦痛ダメージを与える (最低で20)。 
+難易度ルナティック: 味方の幽霊にダメージを与えない。 ","对全场的目标造成相当于各个角色最大生命值80%的痛苦伤害（最低20点）。
+Lunatic难度：不会对友方的幽灵造成伤害。","對全場的目標造成相當於各個角色最大生命值80%的痛苦傷害(最低20點)。
+Lunatic難度：不會對友方的幽靈造成傷害。"
+Skill/S_Yuyuko_0_Name,Text,,망향「망아향 -자진-」,Dead Village 「Death of One's Home -Suicide-」,亡郷「亡我郷 -自尽-」,亡乡「亡我乡 -自尽-」,亡鄉「亡我鄉 -自盡-」
+Skill/S_Yuyuko_10_Description,Text,,누적 &a(최대 체력의 20%) 피해를 받으면 이 기술을 취소합니다. 현재 받은 피해: &b,"Cancel this skill after taking &a (20% max HP) damage. 
+Damage taken: &b","&a(最大体力の20%)のダメージを受けたとき、このスキルはキャンセルされる。 
+受けたダメージ:&b ","累计受到&a（最大体力值的20%）点伤害后，取消该技能。
+已受到伤害：&b","累計受到&a(最大體力值的20%)點傷害後，取消該技能。
+已受到傷害：&b"
+Skill/S_Yuyuko_10_Name,Text,,수명 「무수국으로의 약속 어음」,Lifespan 「Ticket to the Ageless Land」,寿命「无寿国への約束手形」,寿命「通向无寿国的期票」,壽命「通向無壽國的期票」
+Skill/S_Yuyuko_11_Description,Text,,"시전 시 전장의 모든 유령을 제거하고, 제거한 유령 1마리당 이 기술의 배율이 30% 증가하며 모든 적에게 공격력의 30%에 해당하는 고통 피해를 줍니다.",Kill all Ghosts. For each killed: +30% damage. Deal 30% ATK Pain damage to all enemies.,すべての幽霊を死亡させる。幽霊を1体死亡させるごとに、このスキルのダメージは30％増加する。すべての敵に攻撃力の30%の苦痛ダメージを与える。 ,释放时消灭场上所有的幽灵，每消灭1个该技能的倍率提升30%并对所有敌人造成30%攻击力的痛苦伤害。,釋放時消滅場上所有的幽靈，每消滅1個該技能的倍率提升30%並對所有敵人造成30%攻擊力的痛苦傷害。
+Skill/S_Yuyuko_11_Name,Text,,앵부「완전히 먹색으로 물든 벚꽃 -개화-」符「完全墨染的樱花 -开花-」,Cherry Blossom Sign 「Perfect Ink-Black Cherry Blossom -Bloom-」,桜符「完全なる墨染の桜 -開花-」,樱符「完全墨染的樱花 -开花-」,櫻符「完全墨染的櫻花 -開花-」
+Skill/S_Yuyuko_1_Description,Text,,,,,,
+Skill/S_Yuyuko_1_Name,Text,,화령「Butterfly Delusion」,Flowery Soul 「Butterfly Delusion」,華霊「バタフライディルージョン」,华灵「Butterfly Delusion」,華靈「Butterfly Delusion」
+Skill/S_Yuyuko_2_Description,Text,,"이 스킬의 카운트다운 중에 [호접몽의 춤] 버프를 얻습니다.
+이 스킬이 발동될 때, [호접몽의 춤]은 버프가 제거됩니다.
+Lunatic 난이도 : [호접몽의 춤]에 의한 버프가 대폭 증가합니다.","Gain the buff [Dance of Dreaming Butterfly] while this skill is counting down.
+When cast, remove [Dance of Dreaming Butterfly].
+Lunatic Difficulty: Greatly increase the buff stats from [Dance of Dreaming Butterfly].","このスキルがカウント欄にある間、[胡蝶夢の舞]を得る。
+このスキルが発動したとき、[胡蝶夢の舞]を除去する。
+難易度ルナティック：[胡蝶夢の舞]の効果が大幅に増加する。","该技能倒计时期间获得[蝴蝶梦之舞]增益。
+当该技能结算完成后，解除[蝴蝶梦之舞]增益。
+Lunatic难度：大幅度增加[蝴蝶梦之舞]的增益属性。","該技能倒計時期間獲得[蝴蝶夢之舞]增益。
+當該技能結算完成後，解除[蝴蝶夢之舞]增益。
+Lunatic難度：大幅度增加[蝴蝶夢之舞]的增益屬性。"
+Skill/S_Yuyuko_2_Name,Text,,앵부「Sense of Cherry Blossom」,Cherry Blossom Sign 「Sense of Cherry Blossom」,桜符「センスオブチェリーブロッサム」,樱符「Sense of Cherry Blossom」,櫻符「Sense of Cherry Blossom」
+Skill/S_Yuyuko_3_Description,Text,,,,,,
+Skill/S_Yuyuko_3_Name,Text,,영부「무수의 꿈」,Spirit Sign 「Ageless Dream」,霊符「无寿の夢」 ,灵符「无寿之梦」,靈符「無壽之夢」
+Skill/S_Yuyuko_4_Description,Text,,"전장에 유령 1마리를 소환합니다.
+Lunatic 난이도: 추가로 유령 1마리를 소환합니다.","Summon 1 Ghost. 
+Lunatic Difficulty: Summon another Ghost.","幽霊を1体召喚する。
+難易度ルナティック  ：さらに幽霊を1体召喚する。","在场上召唤一个幽灵。
+Lunatic难度：额外召唤一个幽灵。","在場上召喚一個幽靈。
+Lunatic難度：額外召喚一個幽靈。"
+Skill/S_Yuyuko_4_Name,Text,,재미「환상향의 황천 귀환」,Lost Again 「Gensokyo's Rise from Yomi」,再迷「幻想郷の黄泉還り」,再迷「幻想乡的黄泉归」,再迷「幻想鄉的黃泉歸」
+Skill/S_Yuyuko_5_Description,Text,,이 기술은 물리 피해 대신 고통 피해를 줍니다.,This skill deals Pain damage instead of regular damage.,このスキルはダメージの代わりに苦痛ダメージを与える。,这个技能将造成痛苦伤害而非物理伤害。,這個技能將造成痛苦傷害而非物理傷害。
+Skill/S_Yuyuko_5_Name,Text,,앵부「사이교우 벚꽃 폭풍」,Cherry Blossom Sign 「Saigyou Cherry Blossom Blizzard」,桜符「西行桜吹雪」,樱符「西行樱吹雪」,櫻符「西行櫻吹雪」
+Skill/S_Yuyuko_6_Description,Text,,"유령 1마리를 소환합니다.
+Lunatic 난이도: 추가로 유령 1마리를 소환합니다.","Summon 1 Ghost. 
+Lunatic Difficulty: Summon another Ghost.","幽霊を1体召喚する。
+難易度ルナティック：さらに幽霊を1体召喚する。","召唤1个幽灵。
+Lunatic难度：额外召唤1个幽灵。","召喚1個幽靈。
+Lunatic難度：額外召喚1個幽靈。"
+Skill/S_Yuyuko_6_Name,Text,,유접「Ghost Spot - 앵화-」,Ghostly Butterfly 「Ghost Spot -Cherry Blossoms-」,幽蝶「ゴーストスポット - 桜花 -」,幽蝶「Ghost Spot　- 樱花 -」,幽蝶「Ghost Spot　- 櫻花 -」
+Skill/S_Yuyuko_7_Description,Text,,,,,,
+Skill/S_Yuyuko_7_Name,Text,,망무「생자필멸지리 -마경-」,Deadly Dance 「Law of Mortality -Demon World-」,亡舞「生者必滅の理 -魔境-」,亡舞「生者必灭之理 -魔境-」,亡舞「生者必滅之理 -魔境-」
+Skill/S_Yuyuko_8_0_Name,Text,,접부「봉접문의 죽음의 창」,Butterfly Sign 「Deadly Lance of the Swallowtail Butterfly Crest」,蝶符「鳳蝶紋の死槍」,蝶符「凤蝶纹的死枪」,蝶符「鳳蝶紋的死槍」
+Skill/S_Yuyuko_8_Description,Text,,"공격 후, 대상이 빈사 상태가 아니라면 대상을 다시 공격합니다. 이 추가 공격은 고통 피해를 줍니다.","After attacking: If target isn't at Death's Door, repeat this attack as Pain damage.",攻撃後、対象が瀕死状態でない場合もう1回繰り返し発動し、この追加攻撃は苦痛ダメージを与える。,攻击后，若目标不是濒死状态，则再次攻击目标，这次额外的攻击将造成痛苦伤害。,攻擊後，若目標不是瀕死狀態，則再次攻擊目標，這次額外的攻擊將造成痛苦傷害。
+Skill/S_Yuyuko_8_Name,Text,,접부「봉접문의 죽음의 창」,Butterfly Sign 「Deadly Lance of the Swallowtail Butterfly Crest」,蝶符「鳳蝶紋の死槍」,蝶符「凤蝶纹的死枪」,蝶符「鳳蝶紋的死槍」
+Skill/S_Yuyuko_9_Description,Text,,살아있는 유령 1마리당 1회씩 반복 시전합니다.,Recast this skill once per living Ghost.,生存している幽霊1体ごとに、1回繰り返し発動する。,如果有幽灵存活，重复释放一次。,如果有幽灵存活，重复释放一次。。
+Skill/S_Yuyuko_9_Name,Text,,유곡「홍천에 묻히다 -신령-,Subtle Melody 「Repository of Hirokawa -Divine Spirit-」,幽曲「リポジトリ・オブ・ヒロカワ -神霊-」,幽曲「埋骨于弘川 -神灵-」,幽曲「埋骨於弘川 -神靈-」
+Skill/S_Yuyuko_Difficulty_0_Description,Text,,"슈팅 게임에 대해 보통 정도의 감각을 가진 사람을 위한 난이도입니다.
+<color=#919191>일반 난이도 탄막 정도의 유유코의 공격을 마주하게 됩니다.</color>","For players less familiar with danmaku games.
+
+<color=#919191>Yuyuko's attacks match Normal difficulty patterns.</color>","シューティングゲームが苦手な人向け。
+
+<color=#919191> 幽々子からの攻撃は通常難易度の弾幕と同じ。  </color>","面向对射击游戏感觉一般的人。
+
+<color=#919191>将面对相当于普通难度弹幕的程度的幽幽子的攻击。</color>","面向對射擊遊戲感覺一般的人。
+
+<color=#919191>將面對相當於普通難度彈幕的程度的幽幽子的攻擊。</color>"
+Skill/S_Yuyuko_Difficulty_0_Name,Text,,Normal 난이도,Normal difficulty,難易度ノーマル,Normal难度,Normal難度
+Skill/S_Yuyuko_Difficulty_1_Description,Text,,"유유코의 대부분 능력치가 상승하고, 일부 스펠카드가 강화됩니다. 특별한 사람들을 위한 난이도입니다.
+<color=#919191>Lunatic 난이도 탄막에 해당하는 유유코의 공격을 마주하게 됩니다. 물밀듯이 쏟아지는 공격 속에서 살아남으세요!</color>","Yuyuko's stats and select Spell Cards are enhanced. Designed for masochists.
+
+<color=#919191>Survive lunatic-tier danmaku onslaughts!</color>","幽々子のステータスのほとんどが強化され、一部のスペルカードが強化される。奇人向けの難易度になる。
+
+<color=#919191>狂った難易度の幽々子の弾幕攻撃を受ける。押し寄せる攻撃から生き残れ！</color>","幽幽子大部分的面板属性提升，部分符卡会被加强，面向奇特的人的难度。
+战斗结束后会获得额外奖励“西行妖之殇”。
+
+<color=#919191>将面对相当于疯狂难度弹幕的程度的幽幽子的攻击，在如潮水一般的攻击下生存下来吧！</color>","幽幽子大部分的面板屬性提升，部分符卡會被加強，面向奇特的人的難度。
+
+<color=#919191>將面對相當於瘋狂難度彈幕的程度的幽幽子的攻擊，在如潮水一般的攻擊下生存下來吧！</color>"
+Skill/S_Yuyuko_Difficulty_1_Name,Text,,Lunatic 난이도,Lunatic Difficulty,難易度ルナティック,Lunatic难度,Lunatic難度
+Skill/S_Yuyuko_Ghost_0_Name,Text,,유령 충돌,Ghost Attack,幽霊の攻撃,幽灵冲撞,幽靈衝撞
+Skill/S_Yuyuko_R_0_0_Name,Text,,「반혼접 -일분화-」,「Resurrection Butterfly -10% Reflowering-」,「反魂蝶 -一分咲-」,「反魂蝶 -一分咲-」,「反魂蝶 -一分咲-」
+Skill/S_Yuyuko_R_0_Description,Text,,동시에 대상의 좌우에 50%의 스플래시 피해를 줍니다.,Also deals 50% damage to adjacent targets.,対象の左右にも50%のダメージで同時に攻撃する。 ,同时对目标的左右造成50%的溅射伤害。,同時對目標的左右造成50%的濺射傷害。
+Skill/S_Yuyuko_R_0_Name,Text,,「반혼접 -일분화-」,「Resurrection Butterfly -10% Reflowering-」,「反魂蝶 -一分咲-」,「反魂蝶 -一分咲-」,「反魂蝶 -一分咲-」
+Skill/S_Yuyuko_R_1_Description,Text,,모든 적에게 &a(공격력의 50%)의 치명타가 가능한 고통 피해를 줍니다.,Deal &a (50% ATK) Critical-possible Pain damage to all enemies.,すべての敵にクリティカル可能な&a (攻撃力の50%)の苦痛ダメージを与える。,对所有敌人造成&a（50%攻击力）点可以暴击的痛苦伤害。,對所有敵人造成&a(50%攻擊力)點可以暴擊的痛苦傷害。
+Skill/S_Yuyuko_R_1_Name,Text,,「반혼접 -삼분화-」,「Resurrection Butterfly -30% Reflowering-」,「反魂蝶 -伍分咲-」,「反魂蝶 -三分咲-」,「反魂蝶 -三分咲-」
+Skill/S_Yuyuko_R_2_Description,Text,,명중한 대상에게 &a(공격력의 75%)의 치명타가 가능한 고통 피해를 줍니다.,Deal &a (75% ATK) Critical-possible Pain damage to hit targets.,命中した対象にクリティカル可能な&a (攻撃力の75%)の苦痛ダメージを与える。,对命中的目标造成&a（75%攻击力）点可以暴击的痛苦伤害。,對命中的目標造成&a(75%攻擊力)點可以暴擊的痛苦傷害。
+Skill/S_Yuyuko_R_2_Name,Text,,「반혼접 -오분화-」,「Resurrection Butterfly -50% Reflowering-」,「反魂蝶 -伍分咲-」,「反魂蝶 -五分咲-」,「反魂蝶 -五分咲-」
+Skill/S_Yuyuko_R_3_Description,Text,,명중한 대상에게 &a(공격력의 100%)의 치명타가 가능한 고통 피해를 줍니다.,Deal &a (100% ATK) Critical-possible Pain damage to hit targets.,命中した対象にクリティカル可能な&a (攻撃力の100%)の苦痛ダメージを与える。,对命中的目标造成&a（100%攻击力）点可以暴击的痛苦伤害。,對命中的目標造成&a(100%攻擊力)點可以暴擊的痛苦傷害。
+Skill/S_Yuyuko_R_3_Name,Text,,「반혼접 -팔분화-」,「Resurrection Butterfly -80% Reflowering-」,「反魂蝶 -八分咲-」,「反魂蝶 -八分咲-」,「反魂蝶 -八分咲-」
+Skill/S_Yuyuko_R_4_Description,Text,,"이 기술을 7회 반복 시전합니다.
+매번 시전할 때마다 명중한 대상에게 동시에 &a(공격력의 100%)의 고통 피해를 줍니다.
+<color=#EfC0CB>화려한 춤과 화려한 탄막이 가장 화려한 죽음을 가져올 것입니다.</color>","Recast 7 times: Deal &a (100% ATK) Pain damage to hit targets.
+
+<color=#EfC0CB>A splendid dance and a splendid barrage of bullets bring about a most splendid death. </color>","このスキルは7回、繰り返し発動する。 
+発動するたび、命中した対象に&a (攻撃力の100%)の苦痛ダメージを与える。 
+<color=#EfC0CB>華麗な舞踏と華麗な弾幕が最も華麗な死をもたらす。 </color> ","该技能将重复释放7次。
+每次释放时同时对命中的目标造成&a（100%攻击力）点的痛苦伤害。
+
+<color=#EfC0CB>华丽的舞蹈与华丽的弹幕，将会带来最华丽的死亡。</color>","該技能將重複釋放7次。
+每次釋放時同時對命中的目標造成&a(100%攻擊力)點的痛苦傷害。
+
+<color=#EfC0CB>華麗的舞蹈與華麗的彈幕，將會帶來最華麗的死亡。</color>"
+Skill/S_Yuyuko_R_4_Name,Text,,<color=#EfC0CB><i>「사이교우지 무여열반」</i></color>,<color=#EfC0CB><i>「Saigyouji Parinirvana」</i></color>,<color=#EfC0CB>「西行寺无余涅槃」</color>,<color=#EfC0CB><i>「西行寺无余涅槃」</i></color>,<color=#EfC0CB><i>「西行寺無餘涅槃」</i></color>
+SkillExtended/SE_Youmu_2_Name,Text,,,,,,
+SkillExtended/SE_Youmu_5_Name,Text,,,,,,
+SkillExtended/SE_Youmu_R_1_Des,Text,,이 기술 카드는 반령이 사용합니다.,"This skill is used by ""Half-Phantom"".",このスキルは「半霊」が使用する。,这张技能牌是由半灵出手的。,這張技能牌是由半靈出手的。
+SkillExtended/SE_Youmu_R_1_Name,Text,,반령 표식,Half-Phantom,半霊の記録,半灵标记,半靈標記
+SkillExtended/SkillEn_Youmu_0_Des,Text,,,,,,
+SkillExtended/SkillEn_Youmu_0_EnforceString,Text,,비용1 이상의 기술,<sprite name=비용1><sprite name=이상>,<sprite name=비용1><sprite name=이상>,<sprite name=비용1><sprite name=이상>,"<sprite name=""""비용1""""><sprite name=""""이상"""">"
+SkillExtended/SkillEn_Youmu_0_Name,Text,,"<color=#4D5AAF>스펠카드 소모: 1</color> - 비용 1을 회복하고, 손에 칼자루치기  1장을 추가합니다. 제외 효과가 붙습니다.",<color=#4D5AAF>Spell Card Cost: 1</color> — Recover 1 Mana and add a “Pommel Strike” with Exclude to your hand.,<color=#4D5AAF>符の消費: 1 </color>——マナを1回復し、除外を持つ「柄打ち」を手札に加える。,<color=#4D5AAF>符卡消耗：1</color>——恢复1点费用，往手中加入1张柄击，附带放逐。,<color=#4D5AAF>符卡消耗：1</color>——恢復1點費用，往手中加入1張柄擊，附帶放逐。
+SkillExtended/SkillEn_Youmu_1_EnforceString,Text,,,,,,
+SkillExtended/SkillEn_Youmu_1_Name,Text,,요우무가 스펠카드 중첩을 1 소모할 때마다 비용 소모가 1 감소합니다. 사용 시 요우무의 고정 능력을 갱신합니다.,Cost decreases by 1 per [Spell Card] stack consumed. Refreshes Fixed ability when used.,魂魄妖夢が[符]のストックを1消費するたびに、コストが1減少する。使用時、魂魄妖夢の固定能力が使用可能になる。,妖梦每消耗1层符卡层数，费用消耗降低1点。使用时刷新妖梦的固定能力。,妖夢每消耗1層符卡層數，費用消耗降低1點。使用時刷新妖夢的固定能力。
+SkillExtended/SkillEn_Youmu_P_EnforceString,Text,,,,,,
+SkillExtended/SkillEn_Youmu_P_Name,Text,,,,,,
+SkillExtended/Youmu_Ex_CounterEnemy_Des,Text,,,,,,
+SkillExtended/Youmu_Ex_CounterEnemy_EnforceString,Text,,,,,,
+SkillKeyword/Card_Desc,Text,,"표시된 중첩 수의 스펠카드를 가지고 있을 때, 이 카드가 고정 능력이 아니고 사용 후 제외되지 않는다면, 이 카드를 표시된 카드로 진화합니다.",Transforms into upgraded skill when [Spell Card] stacks meet requirement (non-Fixed/non-Exclude only).,所持する[符]のストック数が指定された数以上のとき、このスキルが固定能力ではなく使用後に除外されない場合、指定されたスキルに変化する。,拥有标识层数的符卡层数时，如果这张卡不是固定能力并且不会在使用后放逐，将这张卡升级成标识的卡。,擁有標識層數的符卡層數時，如果這張卡不是固定能力並且不會在使用後放逐，將這張卡升級成標識的卡。
+SkillKeyword/Card_Name,Text,,스펠카드 진화,Spell Card Upgrade,スペルカード強化,符卡升级,符卡升級
+SkillKeyword/SC_Cost_Desc,Text,,이 카드를 사용할 때 표시된 중첩 수의 스펠카드를 소모해야 합니다. 스펠카드 중첩이 부족하면 사용할 수 없으며 이전 등급의 카드로 강등됩니다.,Requires consuming [Spell Card] stacks to use. Reverts if insufficient stacks.,このスキルを使用するとき、[符]のストックを指定された数消費する。[符]のストックが不足している場合、このスキルは使用できず元のスキルに変化する。,这张牌在打出时需要消耗标记层数的符卡层数。如果符卡层数不足，将无法打出并降级回上一级的卡牌。,這張牌在打出時需要消耗標記層數的符卡層數。如果符卡層數不足，將無法打出並降級回上一級的卡牌。
+SkillKeyword/SC_Cost_Name,Text,,스펠카드 소모,Spell Card Cost,符の消費,符卡消耗,符卡消耗
+SkillKeyword/SC_Desc,Text,,이 기술로 입힌 피해는 스펠카드 에너지를 얻지 못합니다.,Damage from this skill doesn't generate Spell Card Energy.,このスキルで与えるダメージは[スペルカードエネルギー]を増加させない。,这个技能造成的伤害不会获得符卡能量。,這個技能造成的傷害不會獲得符卡能量。
+SkillKeyword/SC_Name,Text,,스펠카드,Spell Card,スペルカード,符卡,符卡

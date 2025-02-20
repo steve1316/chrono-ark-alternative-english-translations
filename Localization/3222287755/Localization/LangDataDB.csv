@@ -1,0 +1,263 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_mdx_0_Description,Text,,,"When self/linked ally is under Healing Gauge protection, increase Attack by 8% for the linked ally/self.",自身/リンク先の味方が回復ゲージ保護を持つ場合、リンク先の味方/自身の攻撃力を8%増加する。,"自身/链接端处于保护体力极限时，链接端友军/自身增加8%攻击力;
+",
+Buff/B_mdx_0_Name,Text,,,Deep Connection,深い交流,深度交流,
+Buff/B_mdx_10_0_Name,Text,,,Protected,保護されている,被保护,
+Buff/B_mdx_10_Description,Text,,,"Takes damage in place of the linked ally. 
+Each time damage is taken, reduce the Standby count of a random Tactical Equipment by 1 turn. If all Tactical Equipment are on Standby, deal &a physical damage to a random enemy.","リンク先の味方に代わってダメージを受ける。
+ダメージを受けるたびに、ランダムな殲滅戦用装備のクールタイムが1ターン減少する。すべての殲滅戦用装備が待機状態の場合、ランダムな敵1体に&aのダメージを与える。","代替链接端友军承受伤害.
+每次受到伤害随机令一战术装备冷却减少1回合,如果所有战术装备均待机,对随机敌人造成&a点物理伤害.",
+Buff/B_mdx_10_Name,Text,,,Sword and Shield of Resolve,決意の剣と盾,决心的剑盾,
+Buff/B_mdx_11_Description,Text,,,"When granting buffs to the linked ally, extend their duration by 2 turns. 
+At turn end, reduce duration of all Debuffs on self by 1 turn per ally with [Sensory Expansion]. 
+Removed when not linked.","リンク先の味方にバフを与えると、バフの持続時間が2ターン延長される。
+ターン終了時、[感覚拡張]を持つ味方1人につき、自身の持つすべてのデバフの持続時間が1ターン短縮される。
+リンクしていない場合は除去する。","为链接端的其它友军施加增益时,使增益的持续时间增加2回合.
+回合结束时,每有一名其它友军处于感知延展,自身的所有减益持续时间减少1.
+不处于链接时解除.",
+Buff/B_mdx_11_Name,Text,,,Sensory Expansion,感覚拡張,感知延展,
+Buff/B_mdx_1_Description,Text,,,Extends duration by 3 turns when stacks reach maximum.,ストック数が最大に達すると、持続時間が3ターン延長される。 ,达到满层时，持续时间延长3回合.,
+Buff/B_mdx_1_Name,Text,,,Injured,負傷 ,受创,
+Buff/B_mdx_2_Description,Text,,,"Target: &a 
+Reward: &b 
+Removed after completion.","対象とするスキル:&a
+達成後に得られるスキル:&b
+達成後に除去","目标:&a
+奖品:&b
+达成后解除",
+Buff/B_mdx_2_Name,Text,,,Mind Mapping,マインドマッピング,思维导图,
+Buff/B_mdx_3_Description,Text,,,"Non-standby Tactical Equipment are counted as 4. 
+When effect ends, increase Standby count of all Tactical Equipment by 2 turns.","休止状態でない殲滅戦用装備は4としてカウントされる。
+効果終了時、全ての殲滅戦用装備のクールタイムが2ターン増加する。
+","未休整战术装备数视为4
+效果结束时,所有战术装备冷却增加2回合.",
+Buff/B_mdx_3_Name,Text,,,Equipment Overdraft,設備借用,装备透支,
+Buff/B_mdx_4_Description,Text,,,"Deal 15% increased damage to enemies with 0 or lower Defense. 
+Gain 10% Defense Pierce per Tactical Equipment not on Standby.","防御力0以下の敵に与えるダメージが15%増加する。
+クールタイム中でない殲滅戦用装備1つごとに、防御力貫通が10%増加する。","对防御低于0的敌人造成伤害增加15%.
+每有一个战术装备未处于冷却状态,增加10%的穿透.",
+Buff/B_mdx_4_Name,Text,,,Annihilation Output,無差別破壊,歼灭出力,
+Buff/B_mdx_5_Description,Text,,,"Reduce damage taken by &a (loses 1 stack per damage instance). 
+Removed after taking damage &a times.","受けるダメージが&a減少する(ダメージを受けるとストックが1減少)
+&a回ダメージを受けると除去される。","受到伤害-&a;(每次受到伤害减少1)
+受到&a次伤害后解除.",
+Buff/B_mdx_5_Name,Text,,,Tactical Cover,戦術カバー ,战术掩护,
+Buff/B_mdx_6_Description,Text,,,"When taking damage, if the attacker has a buff with the same name as &a, suffer &b damage.",ダメージを受けたとき、攻撃者が&aと同名のバフを持つ場合、&bのダメージを受ける。,"受到伤害时,如果来源与&a有同名增益,受到&b点伤害.",
+Buff/B_mdx_6_Name,Text,,,Invisible Hand,見えざる手,无形之手,
+Buff/B_mdx_7_Description,Text,,,"Upon next using a skill from hand, also activate &a. 
+Removed after triggering.","次に手札から自身のスキルを使用するとき、&aも発動する。
+効果発動時に除去される。","自身下次从手上使用技能时,&a同样释放.
+触发后解除",
+Buff/B_mdx_7_Name,Text,,,Wave Synchronization,無線同期,电波同步,
+Buff/B_mdx_8_Description,Text,,,"After linked ally uses 2 skills total: If any Tactical Equipment is on Standby, reduce a random equipment's Standby count by 1 turn. 
+Otherwise, deal &a damage to a random enemy.","リンク先の味方がスキルを合計で2回使用すると、殲滅戦用装備が休止状態の場合、ランダムな殲滅戦用装備のクールタイムを1ターン減少する。
+それ以外の場合、ランダムな敵1体に&aのダメージを与える。","当链接端的友军累计使用2次技能后,如果有战术装备处于休整,则随机减少一个装备1回合冷却;
+否则对随机敌人造成&a点伤害.",
+Buff/B_mdx_8_Name,Text,,,Cohesive Consciousness,意識の結束 ,凝聚意识,
+Buff/B_mdx_9_0_Description,Text,,,,,,
+Buff/B_mdx_9_0_Name,Text,,,Action Impaired,行動不能,行动受制,
+Buff/B_mdx_9_Description,Text,,,"When a Taunt enemy acts, if any Tactical Equipment is not on Standby, activate ""Decapitation"".",挑発を持つ敵が行動したとき、休止状態でない殲滅戦用装備を持つ場合、「 斬首 」を発動する。,"当带嘲讽的敌人行动时,如果有未休整的装备,释放""念斩"".",
+Buff/B_mdx_9_Name,Text,,,Cogito Ergo Sum,私の考え,我思我在,
+Buff/B_mdx_e0_Description,Text,,,,,,
+Buff/B_mdx_e0_Name,Text,,,Defense Down,防御力減少,防御力下降,
+Buff/B_mdx_e1_Name,Text,,,Defense Pierce!,防御貫通！,防御穿透!,
+Buff/B_mdx_ip_0_Description,Text,,,"Add &a to hand during next combat, then remove this.",次の戦闘時、&aを手札に加えてこれを除去する。,"下次进入战斗时将&a加入手牌,然后解除",
+Buff/B_mdx_ip_0_Name,Text,,,Record,記録,记录,
+Buff/B_mdx_p0_Description,Text,,,Gain Healing Gauge protection when linked ally's Healing Gauge exceeds your own.,リンク先の味方の持つ回復ゲージが自身が持つ回復ゲージより多い場合、自身は回復ゲージ保護を得る。 ,"当链接端的友军的体力极限大于自身时,自身保护体力极限。",
+Buff/B_mdx_p0_Name,Text,,,Sensory Link,感覚リンク ,感知链接,
+Buff/B_mdx_p1_Description,Text,,,&a,&a,&a,
+Buff/B_mdx_p1_Name,Text,,,Tactical Equipment Status,殲滅戦用装備状態,战术装备面板,
+Buff/P_xushi_0_Description,Text,,,"When dealing damage to Investigators, deal +2% damage per stack of buff they have. 
+<Hard>: When taking damage from Investigators, reduce damage by 2% per buff stack on source (max 80%). Excess stacks heal 2% of damage taken per stack.",,"对调查员造成伤害时,其持有的每层增益额外增加2%的伤害.
+<Hard>:受到调查员的伤害时,来源每有1层增益使伤害降低2%,至多80%.超出部分每层回复2%当次伤害的体力.",
+Buff/P_xushi_0_Name,Text,,,Angry Meow!,,愤怒喵！,
+Buff/P_xushi_1_Description,Text,,,"@@@At the start of battle and every 2 turns, summon a Tactical Equipment. 
+Rosmontis' attacks will additionally target all Tactical Equipment. 
+<Hard>: Number of Equipment summoned at the start of battle +1.",,"战斗开始及每2回合,召唤一个战术装备
+迷迭香的攻击均会额外攻击所有的战术装备
+<Hard>:战斗开始时召唤的装备数+1.",
+Buff/P_xushi_1_Name,Text,,,Tactical Equipment Supply,,战术装备补给,
+Buff/P_xushi_2_Description,Text,,,"⭐: No incapacitated Investigators. 
+⭐: No Investigator entered Death's Door for 3 consecutive turns. 
+⭐: At least 1 Investigator never entered Death's Door. 
+Gain rewards post-battle based on conditions met.",,"⭐:没有陷入无法战斗的调查员.
+⭐:连续3个回合内,没有调查员进入濒死.
+⭐:有调查员始终未濒死.
+战斗结束后根据完成情况获得奖励.",
+Buff/P_xushi_2_Name,Text,,,Trial Mission,,测试任务,
+Character/Rosmontis_PassiveDes,Text,,,"At battle start, grant [Sensory Link] to self and random ally. 
+Starts with 4 Tactical Equipment. 
+Gains ""Rosmontis's Embrace"" at Level 6.","戦闘開始時、自身とランダムな味方1人に[感覚リンク]を与える。
+戦闘開始時、ロスモンティスは殲滅戦用装備を4つ所持している。
+ロスモンティスがレベル6になると「ロスモンティスの抱擁」を獲得する。","战斗开始时,给予自身和随机一名其它友军感知链接。
+战斗开始时,迷迭香携带4件战术装备,
+当迷迭香达到6级时,获得""迷迭香之拥""。
+",
+Character/Rosmontis_PassiveName,Text,,,Stabilized Perception,感覚リンク ,感知稳定,
+Character/Rosmontis_SelectInfo,Text,,,"A child-like Feline elite who arrived at the Ark through fragmented memories. 
+Despite her appearance, she wields devastating tactical equipment via telekinesis.","記憶をたどってアークにたどり着いた獣耳族は、小さな子供のような姿をした獣耳族のエリートだという。
+聞いたことのない種族だが、猫に似すぎだそうだ！
+ロスモンティスは強力な頭脳で殲滅戦用装備を操り戦う。
+","追随记忆来到方舟的兽耳族,明明看起来是个小孩子据说却是精英干员。
+听说是菲林这个没听说过的种族,不过实在是太像猫啦
+迷迭香以强大的念力操纵战术装备进行战斗。",
+Character/Rosmontis_Text_Battle_AllyND_0,Text,,,"If it hurts, you can scream. It might make you feel a little better.",痛ければ叫ぶといいよ、少しは楽になるから。 ,痛的话就叫出来，会好受些的。,
+Character/Rosmontis_Text_Battle_Cri_0,Text,,,"Surrender now, and you won't get hurt.",降参すれば怪我しなくて済むよ。 ,投降的话就不会受伤。,
+Character/Rosmontis_Text_Battle_Healed_0,Text,,,Well done. Thank you.,よくできたね、ありがとう。 ,,
+Character/Rosmontis_Text_Battle_Idle_0,Text,,,"Don't worry, I can control my Arts properly.",安心して、アーツのコントロールはちゃんとできるから。 ,,
+Character/Rosmontis_Text_Battle_Idle_1,Text,,,Give me orders. I'll execute them perfectly.,命令を出して、完璧にやってみせるから。 ,,
+Character/Rosmontis_Text_Battle_Kill_0,Text,,,I'll clean up the rest. It'll be over quickly.,残りは私が片付けておくよ。すぐに終わるから。 ,,
+Character/Rosmontis_Text_Battle_ND_0,Text,,,I'm scared...,怖いよ…… ,我很害怕.....,
+Character/Rosmontis_Text_Battle_Start_0,Text,,,Commencing.,始まる。,,
+Character/Rosmontis_Text_Field_GetItem_0,Text,,,Mission? Understood.,任務？　うん、わかっている。 ,我们去出任务吧？,
+Character/Rosmontis_Text_Field_Idle_0,Text,,,What am I reading? Uh... just some notes from earlier.,何を読んでるって？　ええっと、これはこの間のメモ。 ,,
+Character/Rosmontis_Text_Field_Potion_P_0,Text,,,Too sweet.,とても甘い 。,好甜,
+Character/Rosmontis_Text_PharosLeader_0,Text,,,"If you don't want to witness what happens next, stay back and don't look.",今から起きることを見たくないなら、離れてて、こっちを見ないでね。 ,不喜欢接下来的事情的话，就不要看这边。,
+Character/Rosmontis_Text_PharosLeader_1,Text,,,D-don't touch me! You'll get hurt.,さ、触らないで！　怪我しちゃうから。 ,不，不要碰我！......你会受伤的,
+Character/Rosmontis_Text_PharosLeader_2,Text,,,I won't let my family be harmed. I'll destroy anything that threatens them.,家族が傷つけられるのはいや。家族を傷つけそうなものは全部壊すよ。 ,我不想家人受到伤害。我会把可能伤害到家人的东西全毁掉。,
+Character/Rosmontis_name,Text,,,Rosmontis,ロスモンティス ,迷迭香,
+Enemy/Mdx_xushi_name,Text,,,Rosmontis - Mirage Grasp,,迷迭香-虚实之握,
+Item_Equip/E_mdx_0_Description,Text,,,"At turn start, reduce enemy Defense by 8% (<sprite=0>90%, 1/5). 
+When dealing damage, gain +10% Defense Pierce (1/10, 2 turns). 
+Deal 120% damage to enemies with ≤0 Defense or 100% Defense Pierce.","毎ターン開始時、敵の防御力を-8%(<sprite=0>90%、1/5)減少させる。
+ダメージを与えるとき、防御力貫通+10%(1/10、2ターン)
+防御力が0以下の敵を攻撃するとき、与えるダメージが120%増加する。防御力貫通力が100%に達したときにも同様に発動する。
+","每回合开始时，给予敌人防御-8%(<sprite=0>90%,1/5)的减益.
+造成伤害时,防御穿透+10%(1/10,2t);
+攻击防御少于等于0的敌人时,伤害提升至120%,防御穿透达到100%时同样触发。",
+Item_Equip/E_mdx_0_name,Text,,,"""Rosmontis's Embrace""",ロスモンティスの抱擁,"""迷迭香之拥""",
+Item_Equip/E_mdx_1_Description,Text,,,Guaranteed Critical hits when attacking enemies with ≤0 Defense.,防御力が0以下の敵を攻撃するとき、確実にクリティカルする。 ,"攻击防御少于等于0的敌人时,必定暴击",
+Item_Equip/E_mdx_1_name,Text,,,Tactical Equipment MINI,殲滅戦用装備MINI ,战术装备MINI,
+Item_Passive/Me_mdx_0_Description,Text,,,"At battle start, copy the last skill used from hand in this area's previous combat (excluding Lucy skills). 
+If this is the first combat, draw 1 additional skill instead.","戦闘開始時、このエリアでの最後の戦闘で最後に使用したスキルをコピーし、手札に加える。 (ルシースキルを除く）
+これが初めての戦闘の場合、スキルを1枚追加で引く。
+","战斗开始时,将本区域上次战斗最后一个从手上使用的技能复制并加入手牌.(露西技能除外)
+如果是首次战斗,改为额外抽取一个技能.",
+Item_Passive/Me_mdx_0_name,Text,,,"""Memorandum""",追憶 ,"""记事""",
+Item_Passive/Me_mdx_1_Description,Text,,,"Each turn, record first non-Lucy skill user.
+At turn end, heal 5 HP to allies sharing buffs/debuffs with recorded ally. 
+Current: &a","毎ターン、最初に使用されたルシースキル以外のスキルの所持者を記録する。 
+ターン終了時に(記録された味方)と同じバフ/デバフを持つ味方全員の体力を5回復し、 その後記録を消去する。
+現在：&a
+","每回合,记录首次出手的非露西技能的持有者.
+回合结束时,为所有与其有同名增益/减益的友军回复5点生命(来源为记录者),然后清除记录
+当前:&a",
+Item_Passive/Me_mdx_1_name,Text,,,"""Little Rabbit""",小さなうさぎ,"""小兔子""",
+Skill/S_mdx_0_0_Name,Text,,,Diffusion Attack,拡散攻撃,扩散攻击,
+Skill/S_mdx_0_Description,Text,,,"Attacks adjacent enemies for &a damage. 
+If single enemy, ignores Defense and guarantees hit.","隣接する敵を同時に攻撃し、&aのダメージを与える。
+敵が1体の場合は防御力を無視して必ず命中する。","同时攻击相邻敌人,造成&a点伤害.
+如果只有一个敌人,无视防御且必定命中.",刷新最靠前的战术装备,1回合最多触发1次.
+Skill/S_mdx_0_Name,Text,,,Cognitive Expansion,意識拡張,思维扩散,,
+Skill/S_mdx_10_Description,Text,,,"When used, if any Tactical Equipment are not on Standby, this skill can be reused this turn. Consumes Tactical Equipment sequentially. 
+If ≥2 Equipment are consumed via this skill in one turn, refresh the topmost Equipment once (max 1 trigger). 
+Tactical Equipment 1: Effect varies by current Equipment ID. &a","使用時に休止状態でない殲滅戦用装備があれば、このターン中に再度使用できる。 このスキルは殲滅戦用装備を順番に発動する。
+殲滅戦用装備1：現在使用している装備の番号によって、効果が異なる。 &a
+","释放时若有未休整的战术装备,本回合可以再次使用.此技能会依照顺序消耗战术装备.
+若本回合因此技能已消耗至少2件战术装备,释放时按顺序刷新最上方的一件战术装备,最多触发1次.
+战术装备1：根据当前使用的装备编号,附带不同效果.&a",,
+Skill/S_mdx_10_Name,Text,,,Tactical Strike,戦術攻撃 ,战术打击,,
+Skill/S_mdx_1_0_Name,Text,,,Sword Approaches!,剣が迫る！ ,剑来！,,
+Skill/S_mdx_1_Description,Text,,,"Tactical Equipment 2: Attack leftmost/rightmost enemies with ""Sword Approaches!"". Against single targets, apply 2 [Injured] instead.",殲滅戦用装備 2: 左端と右端の敵に「剣が迫る！」を1 回発動する。 敵が1体のときは発動せず代わりに、[負傷]を2ストック与える。 ,"战术装备2:向最左和最右的敌人释放一次""剑来"";只有一个敌人时,不追击但额外施加两次受创.",,
+Skill/S_mdx_1_Name,Text,,,"""Swing Blade""",剣を振るう,"""挥剑""",,
+Skill/S_mdx_2_Description,Text,,,"Refund Mana. Reveal 4 exclusive skills, choose 2. 
+When using chosen skills, spend 1 Mana to add unchosen skills to hand as 0-cost with Swiftness and Exclude.","消費したマナを返還し、専用スキルを4つ提示し、その中から2つを選択する。
+選択したスキルと同名のスキルを使用したとき、現在のマナが0でない場合マナを1消費して選択しなかったスキルを手札に加える。それはコスト0で迅速と除外を持つ。","返还消耗的法力,展示4个专属技能,选择其中2个.
+当自身释放选择的技能的同名技能时,如果法力不为0则消耗1点法力将另外2个技能加入手牌，变为0费，附带迅速和放逐.",,
+Skill/S_mdx_2_Name,Text,,,Mind Mapping,マインドマッピング,思维导图,,
+Skill/S_mdx_3_0_Name,Text,,,Peripheral n,末梢n,末梢n,,
+Skill/S_mdx_3_1_Name,Text,,,Peripheral P,末梢P,末梢P,,
+Skill/S_mdx_3_Description,Text,,,"Tactical Equipment 3: Launch ""Peripheral n"" twice. If linked ally has attack skills, use ""Peripheral P"" instead with +1 activation per qualifying ally.",殲滅戦用装備3：対象に「末梢n」を2回発動する。リンク先の味方が攻撃スキルを持っている場合、代わりに「末梢P」を発動し、条件を満たす味方1人につき発動回数が1増加する。,"战术装备3:对目标释放两次""末梢n"";如果有链接端的友军手上有攻击技能,改为释放""末梢P""，且每一名满足条件的友军都使释放次数增加1。",,
+Skill/S_mdx_3_Name,Text,,,Neural Disruption,神経遮断 ,末梢阻断,,
+Skill/S_mdx_4_Description,Text,,,Reduce Standby count of random Tactical Equipment by 2 turns if any are on Standby.,いずれかの殲滅戦用装備が休止状態の場合、ランダムな殲滅戦用装備のクールタイムを2ターン減少させる。 ,"如果有战术装备处于休整,减少其中随机一个战术装备冷却两回合.",,
+Skill/S_mdx_4_Name,Text,,,Annihilation Armament,殲滅戦用装備,歼灭武装,,
+Skill/S_mdx_5_Description,Text,,,Draw 1 skill if target is already linked.,対象がすでにリンクされている場合は、スキルを1枚引く。 ,"如果目标已经处于链接中,抽取一个技能.",,
+Skill/S_mdx_5_Name,Text,,,Neural Network,ニューラルネットワーク,神经网络,,
+Skill/S_mdx_6_Description,Text,,,"If any Tactical Equipment are on Standby, extend longest Standby by 2 turns. Grant [Tactical Cover] to self and lowest HP ally.",休止状態の殲滅戦用装備があれば、その中で最も長いクールタイムを2ターン増加し、自身と、自身以外の体力が最も低い対象に[戦術カバー]を与える。 ,"如果有休整中的战术装备,令其中冷却最长的一件延长2回合,然后给予自身和自身外体力最低的目标""战术掩护""的增益",,
+Skill/S_mdx_6_Name,Text,,,Cover,カバー,掩护,,
+Skill/S_mdx_7_Description,Text,,,Grant +1 [Invisible Hand] if ≥2 Tactical Equipment are on Standby.,2つ以上の殲滅戦用装備が休止状態の場合、対象に[見えざる手]を追加で与える。,"当至少两件战术装备处于休整时,额外给予目标1层""无形之手"".",,
+Skill/S_mdx_7_Name,Text,,,"""Dice Potatoes""",ジャガイモを切る,"""切土豆""",,
+Skill/S_mdx_8_Description,Text,,,"When self and target ally share ≥2 same buffs/debuffs, next skill used from hand triggers simultaneous activation.",自身と対象の味方が同名のバフ/デバフを2つ以上持つ場合、次に自身/対象の味方が手札のからスキルを使用するとき、対象の味方/自身も同時にスキルを発動する。,"当自身和目标友军有至少2个同名增益/减益时,自身/目标友军下次从手上使用技能时,目标友军/自身同样释放..",,
+Skill/S_mdx_8_Name,Text,,,Emotional Synchronization,感情同一化,情绪认同,,
+Skill/S_mdx_9_0_Name,Text,,,Rampant Consciousness,意識暴走,意识暴走,,
+Skill/S_mdx_9_Description,Text,,,,,,,
+Skill/S_mdx_9_Name,Text,,,Consciousness Entity,意識実体,意识实体,,
+Skill/S_mdx_lucy2_0_Description,Text,,,Reduce Standby count of all Standby Tactical Equipment by 1 turn.,すべての休止状態の殲滅戦用装備のクールタイムが1ターン減少する。 ,所有休整战术装备冷却减少1回合,,
+Skill/S_mdx_lucy2_0_Name,Text,,,Head Pat,頭を撫でる ,摸头,,
+Skill/S_mdx_lucy2_1_Description,Text,,,Immediately ready the Tactical Equipment with longest Standby count.,最も長いクールタイムを持つ殲滅戦用装備を即座に待機状態にする。,立刻重置一件最长休整回合的战术装备,,
+Skill/S_mdx_lucy2_1_Name,Text,,,Chin Scratch,顎を掻く ,挠下巴,,
+Skill/S_mdx_lucy2_2_Description,Text,,,Draw 1 skill. Restore 1 Mana.,スキルを1枚引き、マナを1回復する。 ,"抽取一个技能,回复1点法力",,
+Skill/S_mdx_lucy2_2_Name,Text,,,Lift High!,高く持ち上げる！ ,举高高!,,
+Skill/S_mdx_lucy_1_Description,Text,,,"Draw 1 skill. 
++1 draw per linked ally (excluding Rosmontis). 
+Restore 1 Mana if non-Standby Tactical Equipment ≥ linked allies.","スキルを1枚引く。
+ロスモンティスを除くリンクされた味方1人につき、スキルを1枚引く。
+ロスモンティスの休止状態でない殲滅戦用装備の数がリンクされている味方の人数以上の場合、マナを1回復する。","抽取一个技能
+除迷迭香以外每有一个处于链接中的调查员,抽取一个技能.
+迷迭香未休整战术装备数不少于处于链接的调查员的数量时，回复1点法力.",,
+Skill/S_mdx_lucy_1_Name,Text,,,Shared Memory,共有メモリ,共同记忆,,
+Skill/S_mdx_lucy_2_Description,Text,,,"Draw 2 skills. 
+If Rosmontis lives: Choose to reduce Standby count by 1 for all Standby Equipment / ready longest Standby Equipment. 
+Extra option if none are Standby.     ","スキルを2枚引き、ロスモンティスが生存している場合以下の効果が発動する。
+選択：休止状態のすべての殲滅戦用装備のクールタイムを1ターン減少させる／クールタイムが最も長い殲滅戦用装備を即座に待機状態にする。
+どの殲滅戦用装備も休止状態でない場合、追加の選択が表示される。
+","抽取两个技能,迷迭香存活时触发以下效果.
+选择:所有休整战术装备冷却减少1回合/冷却最长的战术装备立刻完成冷却。
+如果战术装备均未休整,出现额外选项.",,
+Skill/S_mdx_lucy_2_Name,Text,,,Feline Enigma,映画の謎,菲林奥妙,,
+Skill/S_mdx_r1_0_Description,Text,,,Prioritize non-Taunt enemies and apply Taunt.,挑発を持たない敵を優先して攻撃し、挑発を与える。,"优先攻击未处于嘲讽的敌人,令其获得嘲讽.",,
+Skill/S_mdx_r1_0_Name,Text,,,Sword Rain,剣の雨,剑雨,,
+Skill/S_mdx_r1_1_Description,Text,,,"Attack all Taunt enemies. 
++&a damage per Standby Tactical Equipment. 
+Put a random Tactical Equipment into Standby.","挑発を持つ敵を同時に攻撃する
+休止状態の殲滅戦用装備1つにつき、このスキルのダメージは&a増加する。
+ランダムな殲滅戦用装備を待機状態にする。","同时攻击所有处于嘲讽的敌人
+每一件休整战术装备令此技能伤害增加&a点.
+令随机战术装备回复待机",,
+Skill/S_mdx_r1_1_Name,Text,,,Decapitation,斬首 ,念斩,,
+Skill/S_mdx_r1_Description,Text,,,"Cost reduced by 1 per non-Standby Equipment. Activate ""Sword Rain"". 
+All Equipment enter Standby.","休止状態でない殲滅戦用装備1つにつきコストが1減少し、「剣の雨」を発動する。
+すべての殲滅戦用装備が休止状態になる。
+","根据未休整的装备数,每件使费用减少1,并释放一次""剑雨"".
+使所有战术装备进入休整.",,
+Skill/S_mdx_r1_Name,Text,,,"""As You Wish""",君が望むままに ,"""如你所愿""",,
+Skill/S_mdx_r2_0_Name,Text,,,Resolute Counter,反撃の決意 ,决心的反击,,
+Skill/S_mdx_r2_Description,Text,,,"Usable 3 times. 
+Gain +&a Barrier per non-Standby Equipment. 
+All Equipment enter Standby.","3回まで使用可能
+休止状態でない殲滅戦用装備1つにつき、バリアを&a増加させる。
+すべての殲滅戦用装備を休止状態にする。
+","可以使用3次
+每件未休整的战术装备令保护罩增加&a点.
+令所有战术装备进入休整.",,
+Skill/S_mdx_r2_Name,Text,,,Shielding Resolve,守る決意,保护的决心,,
+Skill/S_mdx_r3_Description,Text,,,"All allies with [Sensory Link] use random exclusive skill and gain [Sensory Expansion]. 
+All allies gain [Sensory Link].","[感覚リンク]を持つすべての味方はランダムな専用スキルを使用する。
+[感覚リンク]を持つすべての味方は[感覚拡張]を得る。
+すべての味方は[感覚リンク]を得る。","所有拥有感知链接的友军随机释放一个专属技能.
+所有拥有感知链接的友军获得""感知延展""增益.
+所有友军获得感知链接.",,
+Skill/S_mdx_r3_Name,Text,,,Inherited Memories,記憶の継承 ,记忆的延续,,
+Skill/S_xushi_Reward_Description,Text,,,"Draw 3 skills. 
+Convert Common skills into random Rare skills. 
+If any Rare skills exist, shuffle ""Vector Break"" into discard pile. 
+*Lucy skills excluded.",,"抽取3个技能
+将其中的普通技能变为持有者的随机稀有技能.
+若其中有稀有技能,将""矢量突破""洗入弃牌堆.
+*露西技能既不算普通技能,也不算稀有技能.",,
+Skill/S_xushi_Reward_Name,Text,,,Vector Break!,,矢量突破!,,
+SkillExtended/EX_mdx_use_Des,Text,,,Excluded after &a uses.,&a回使用すると除外される,使用&a次后放逐,,
+SkillExtended/EX_mdx_use_Name,Text,,,Prompt,提示,提示,,
+SkillExtended/S_ex_mdx_1_EnforceString,Text,,,Attack skills costing ≥1 Mana,コスト1以上の攻撃スキル,1费以上的攻击技能。,,
+SkillExtended/S_ex_mdx_1_Name,Text,,,Damage increases by 20% per ally with same buff.,このスキルで与えるダメージは、自身と同名のバフ持つ他の味方の人数に応じて、20%ずつ増加する。 ,根据场上与自身有同名增益的其它友军数量，每一名使此技能造成的伤害增幅20%.,,
+SkillExtended/S_ex_mdx_2_EnforceString,Text,,,Skills costing ≤2,コスト2以下のスキル,2费以下技能。,,
+SkillExtended/S_ex_mdx_2_Name,Text,,,"If no shared Debuffs among allies, restore 1 Mana. If no shared Buffs, draw 1 skill.",スキル使用時に、自身と他の味方に同名のデバフが存在しない場合はマナを1回復し、同名のバフが存在しない場合はスキルを1枚引く。,"如果释放此技能时，自身与所有其它友军之间均:没有同名减益，回复1点法力;没有同名增益,抽取1个技能.",,
+SkillKeyword/BattleuseEquip_Desc,Text,,,Activates when ≥X non-Standby Equipment. X/2 enter Standby after activation.,休止状態でない殲滅戦用装備がX以上あると発動し、発動するとXの半分が休止状態になる。 ,当未休整装备数至少为X时触发，触发后令X值一半的装备进入休整.,,
+SkillKeyword/BattleuseEquip_Name,Text,,,Tactical Equipment X,殲滅戦用装備X,战术装备X,,
+SkillKeyword/KEY_MDX_R3_Desc,Text,,,Buffs on linked allies last +2 turns. Reduce Debuff duration by number of expanded senses at turn end.,リンクされている他の味方にバフが与えられたとき、持続時間が 2ターン延長される。ターン終了時に、リンクしている人数に応じてデバフの持続時間が短縮される。,为其它链接中的友军施加增益增加2回合持续;回合结束根据延展人数减少减益持续时间,,
+SkillKeyword/KEY_MDX_R3_Name,Text,,,Sensory Expansion  ,感覚拡張,感知延展,,
+SkillKeyword/Key_mdx_10_Desc,Text,,,Sequence: Cost-1 → Ignore Taunt & reduce fixed ability cooldown by 1 turn → Draw 1 skill → Apply 1 [Injured].  ,順番:コスト-1: 挑発無視、固定能力のクールダウンを1ターン短縮: スキルを1枚引く: [負傷]を1ストック与える。,依次为:费用-1;无视嘲讽且令固定冷却减少1回合;抽取技能;施加受创.,,
+SkillKeyword/Key_mdx_10_Name,Text,,,Tactical Strike  ,戦術的攻撃,战术打击,,
+SkillKeyword/Key_mdx_yh_Desc,Text,,,"Each Tactical Equipment enters Standby for 1 turn after use. Reduce damage taken by 1 per Standby turn. When attacked, increase required Standby turns by 1.  ",殲滅戦用装備は使用されるたびに、1ターン休止状態になる。受けるダメージが1減少する。 攻撃を受けると休止状態が解除されるまでのターン数が1増加する。 ,"施加时战术装备每有一回合休整,受到伤害-1,受到攻击解除的次数增加1.",,
+SkillKeyword/Key_mdx_yh_Name,Text,,,Tactical Cover,戦術カバー ,战术掩护,,
+

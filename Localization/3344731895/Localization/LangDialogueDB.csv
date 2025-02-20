@@ -1,0 +1,241 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Dialogue/FS_Toujyou_Gift_Normal/001,Text,,,"*Tojo Tsukasa
+Huh? Is this for me?","*東城つかさ
+えっ？わたしにくれるの？","*東城司
+诶？这是给我的吗",
+Dialogue/FS_Toujyou_Gift_Normal/002,Text,,,"*Tojo Tsukasa
+I'm so happy!","*東城つかさ
+嬉しい～","*東城司
+好高兴",
+Dialogue/FS_Toujyou_Gift_Normal/003,Text,,,"*Tojo Tsukasa
+Unlike a certain game-obsessed person, you actually give me gifts. Thank you, Lucy.","*東城つかさ
+ゲームに夢中になっている誰かとは違って、私にプレゼントをくれるね。ありがとう、ルシー","*東城司
+和某个游戏宅不一样会送我礼物呢，谢谢你露西",
+Dialogue/FS_Toujyou_Gift_Cake/001,Text,,,"*Tojo Tsukasa
+Wow, I absolutely love cake! Did you know some cakes are extremely expensive? The Dallas Red Wedding Cake is decorated with jewels worth over $1 million.
+The curves are adorned with silver dust, ""glossy"" powdered sugar, and 1200-carat diamonds!","*東城つかさ
+わあ、私、ケーキが大好きだわ！知ってる？ケーキには特別高価なものもあるんだよ。ダラスの赤いウェディングケーキには、100万ドル以上の価値がある宝石が飾られているらしいよ。ケーキの曲線は銀粉で装飾されていて、銀色の「光沢」粉砂糖と1200カラットのダイヤモンドで飾られているんだって！","*東城司
+哇，我超级喜欢蛋糕，你知道吗，蛋糕也有特别昂贵的哦。据说达拉斯红色婚礼蛋糕就饰有价值超过100万美元的珠宝，
+蛋糕的曲线用银粉装饰，并装饰着银色的“光泽”灰尘糖霜和1200克拉的钻石。",
+Dialogue/FS_Toujyou_Gift_Cake/002,Text,,,"*Tojo Tsukasa
+I really want to eat it someday~","*東城つかさ
+たべたいな～","*東城司
+什么时候也想吃下这个蛋糕呢",
+Dialogue/FS_Toujyou_Gift_Cake/003,Text,,,"*Tojo Tsukasa
+Right... You can't eat jewels. Ah, what a pity~","*東城司
+そうだよね。宝石は食べられないよね、ああ、残念～","*東城司
+也对啊，珠宝是不能吃的。啊，好可惜",
+Dialogue/FS_Toujyou_Gift_Cake/004,Text,,,"*Tojo Tsukasa
+Thank you for the cake, Lucy. Let's all eat it together~","*東城つかさ
+でも、ケーキ、ありがとう。みんなで一緒に食べようよ。","*東城司
+谢谢你的蛋糕露西，大家一起来吃吧~",
+Dialogue/FS_Toujyou_Gift_Doll/001,Text,,,"*Tojo Tsukasa
+Aww~ It's adorable, thank you.","*東城つかさ
+ああ～可愛い,ありがとう。","*東城司
+啊~好可爱的玩偶，谢谢你",
+Dialogue/FS_Toujyou_Gift_Doll/002,Text,,,"*Tojo Tsukasa
+Wait, didn't we just defeat some of these earlier? Does the Ark sell matching plushies too?","*東城つかさ
+先ほど幾つが倒れそうけど、アークは同じデザインのぬいぐるみも出すのかな？","*東城司
+但是刚才好像打倒了几只欸，原来方舟还会推出同款玩偶吗",
+Dialogue/FS_Toujyou_Gift_Doll/003,Text,,,"*Tojo Tsukasa
+But three hedgehogs stacked together are so amusing. I wonder if there are other types?","*東城つかさ
+でも、三重グラスホーグって本当に面白いわ。別のタイプもあるのかな？","*東城司
+不过3只刺猬叠在一起好有意思，不知道还有没有其它类型的刺猬呢",
+Dialogue/FS_Toujyou_Drink_Tea/001,Text,,,"*Tojo Tsukasa
+Black tea. This fragrance reminds me of Ceylon tea...","*東城つかさ
+紅茶。この香り、セイロンティーを思い出させるね。","*東城司
+红茶，这香气让我想到了锡兰红茶…",
+Dialogue/FS_Toujyou_Drink_Tea/002,Text,,,"*Tojo Tsukasa
+Though extremely popular in Britain, Ceylon tea was originally a general term for teas produced in Sri Lanka.
+Sri Lanka once accounted for 10% of global tea production. Its subtle citrus aroma makes it highly recommended!","*東城つかさ
+イギリスではすごく国民に人気だけど、セイロンティーはかつてスリランカ産の紅茶の総称だったんだよ。
+スリランカは世界の茶の生産のうち10%を占めていて、ほのかな柑橘系の芳香があり、かなりおすすめだわ。","*東城司
+虽然在英国很受欢迎，但锡兰红茶是过去出产于斯里兰卡的茶的总称哦，
+斯里兰卡曾经占据了全世界茶生産量的10%。锡兰红茶一般散发着柑橘的清香，我很推荐哦",
+Dialogue/FS_Toujyou_Drink_Tea/003,Text,,,"*Tojo Tsukasa
+We can drink this here? Wonderful! Let's all have a tea party together when we return~","*東城つかさ
+ここで飲めるの？良かった！今回みんな一緒に茶会でもしない？","*東城司
+方舟里能喝到吗？太好了！这次回去大家一起喝下午茶吧~",
+Dialogue/FS_Toujyou_Gift_Mic/001,Text,,,"*Tojo Tsukasa
+A microphone... Come to think of it, I was in a band with everyone back in my original world.","*東城つかさ
+マイクね...そういえば、わたし、元の世界でみんなと一緒にバンドしてるよ。","*東城司
+话筒吗…说起来，我在那边还和大家一起在组乐队呢",
+Dialogue/FS_Toujyou_Gift_Mic/002,Text,,,"*Tojo Tsukasa
+It's true! And we even have two vocalists...","*東城つかさ
+本当だよ～しかも、ヴォーカルは二人...","*東城司
+是真的哦！而且主唱还有两位…",
+Dialogue/FS_Toujyou_Gift_Mic/003,Text,,,"*Tojo Tsukasa
+I want to hold LIVE performances with everyone again soon. Let's work hard to return quickly, Lucy!","*東城つかさ
+みんなと一緒にライブをやりたいな。 一刻も早く帰れるように、頑張ろう、ルシー！","*東城司
+好想早些回去和大家继续开LIVE，为了能够早些回去，加油吧露西！",
+Dialogue/FS_Toujyou_Lv1/001,Text,,,"Ms. Tojo, you came from a unit in another world... The Seraph Squad, was it?",東城さん、別の世界の部隊から来たと…確かに…セラフ部隊？,东城小姐，听说你是从另一个世界的部队过来的，好像叫…炽天使部队？,
+Dialogue/FS_Toujyou_Lv1/002,Text,,,"*Tojo Tsukasa
+Yes. In our world, humanity faces a dire crisis from monster attacks by beings called Cancers.","*東城つかさ
+ええ、私たちの世界は今、キャンサーという怪物の攻撃によって、巨大な危機が迫っている","*東城司
+是的，在我们的世界那边人类正在受到名叫星癌体的怪物攻击，正面临巨大的危机",
+Dialogue/FS_Toujyou_Lv1/003,Text,,,"*Tojo Tsukasa
+As members of Squad 31A, we're still fighting the Cancers to this day.","*東城つかさ
+私たちは一つのセラフ部隊のメンバーとして、キャンサーとの戦いが今でも続てるの。","*東城司
+我和我的队友作为其中的一支炽天使部队，专门和星癌体作战。",
+Dialogue/FS_Toujyou_Lv1/004,Text,,,"*Tojo Tsukasa
+But after trying on a strange store swimsuit, I somehow got transported to this world.","*東城つかさ
+でも、店の変な水着を試着したせいで、なぜかこの世界に来てしまったんだよ。","*東城司
+但是因为试穿了商店奇怪的泳装的缘故，不知怎么的就来到这个世界了",
+Dialogue/FS_Toujyou_Lv1/005,Text,,,"*Tojo Tsukasa
+Well, this has happened multiple times before. I'm quite accustomed to it~","*東城つかさ
+まあ、こういうことは何回もあったし、もう慣れてる。","*東城司
+不过之前也发生好几次了，我都习惯了~",
+Dialogue/FS_Toujyou_Lv1/006,Text,,,(Yet you still voluntarily try them on despite knowing the outcome? Best not to dwell on such fantastical logic...),（結果を知って以上まだ試着なの？なんかファンタシーようなこと。あまり考えないほうがいい...）,（明明知道会这样还要主动去穿吗，感觉是很玄幻的事儿还是不要深究的好…）,
+Dialogue/FS_Toujyou_Lv1/007,Text,,,"Ms. Tojo, weren't you the intelligence officer in your squad? You seem exceptionally sharp.",東城さんは確かに部隊で情報員を担当していたんだよね。なんか賢いの感じがする。,东城小姐好像在原来的部队是情报员担当来着，头脑一定特别好吧。,
+Dialogue/FS_Toujyou_Lv1/008,Text,,,"*Tojo Tsukasa
+Obviously! I'm the intelligence officer, after all. I have complete command over all battlefield-related matters!","*東城つかさ
+そう？それはそうだよね。情報員だもん。わたし、戦場に関わる問題は全て把握しているよ。","*東城司
+那当然！毕竟是情报员呢,和战场相关的问题我都了如指掌！",
+Dialogue/FS_Toujyou_Lv1/009,Text,,,"*Tojo Tsukasa
+Ask me anything you'd like~","*東城つかさ
+何でも聞いてね～","*東城司
+什么都可以来问我哦~",
+Dialogue/FS_Toujyou_Lv1/010,Text,,,"But Ms. Tojo, didn't you nearly get lost in the woods earlier... and misjudge the enemy's direction?",ありがとう、東城さん。でも、さっき森の中で迷ったり、敵の出た方位を間違えたりしたのけど...,但是刚才好像东城小姐还差点在树林里迷路了…还错误预估了敌人会出来的方向？,
+Dialogue/FS_Toujyou_Lv1/011,Text,,,"*Tojo Tsukasa
+You can even ask me about Cornish pasties~","*東城つかさ
+コーンウォール・パスティについても聞いてもいいわよ～","*東城司
+关于康沃尔肉馅饼的做法也可以来问我哦~",
+Dialogue/FS_Toujyou_Lv1/012,Text,,,(Weren't we discussing combat?) What's... a Cornish pasty?,（じゃ戦場のことは？？）コーン...パスティって何？？,（不是在讨论战斗相关的事儿吗？？）康…馅饼是什么啊？,
+Dialogue/FS_Toujyou_Lv2/001,Text,,,"*Tojo Tsukasa
+Lucy, did you know? Tea, sandwiches, cakes, and desserts are afternoon tea essentials.","*東城つかさ
+ルシー、知ってる？お茶、サンドイッチ、ケキ、そしてデザートはアフタヌーンティーの定番だよ。","*東城司
+露西，你知道吗？茶、三明治、蛋糕和甜点是下午茶必备的呢",
+Dialogue/FS_Toujyou_Lv2/002,Text,,,"*Tojo Tsukasa
+For tea, it must be black tea. The most classic sandwich fillings are cucumber, cheese, Scottish smoked salmon, ham with mustard.
+The signature dessert is scones...","*東城つかさ
+お茶なら紅茶、そしてもっともクラシックサンドイッチアジはきゅうり、チーズ、スコットランドのスモークサーモン、ハムとマスタード、デザートならスコーン......","*東城司
+茶一定得是红茶，最经典的三明治口味是黄瓜、芝士、苏格兰烟熏三文魚、火腿及黄芥末，
+最具有代表性的甜点是司康饼……",
+Dialogue/FS_Toujyou_Lv2/003,Text,,,Ms. Tojo seems well-versed in topics beyond combat.,東城さんは戦闘以外のことならよく知っているね。,东城小姐除了战斗之外知道的东西还挺多的呢,
+Dialogue/FS_Toujyou_Lv2/004,Text,,,"*Tojo Tsukasa
+That's part of being an intelligence officer~ I often get told that.","*東城つかさ
+情報員だもんね～よくそう言われるんだ。","*東城司
+毕竟是情报员呢~大家也经常说我知道的很多",
+Dialogue/FS_Toujyou_Lv2/005,Text,,,"(Shouldn't battlefield expertise be the focus...)
+What are your teammates like, Ms. Tojo?","（戦場の方が重点だろう...）
+東城さんのおチームメンバーたちはどうなひとなの？","（战斗方面才是重点吧…）
+东城小姐的队友都是怎么样的人呢",
+Dialogue/FS_Toujyou_Lv2/006,Text,,,"*Tojo Tsukasa
+Ah, they're all such fascinating individuals!","*東城つかさ
+ああ、とっても面白い人たちだよ！","*東城司
+啊，我的队友都很有趣哦！",
+Dialogue/FS_Toujyou_Lv2/007,Text,,,"*Tojo Tsukasa
+A genius singer who only tracks enemies with one eye, a glasses-wearing hacker who snarks even while asleep,  
+a landlubber ex-naval captain, and a dual-personality floof-girl who occasionally tries to murder me—<color=#6924EB>(*Author's note: Tsukasa's personal interpretation)</color>","*東城つかさ
+いつも片目だけで敵を見る天才歌手、寝てるでも誰かにツッコミを入れる眼鏡っ娘ハッカー、
+金槌な元艦長、そして時々私を殺そうとする二重人格のゆるふわケイ女の子ーー","*東城司
+常年只用一只眼看对手的天才歌手，睡着了还在吐槽别人的眼镜妹黑客，
+不会游泳的前海军舰长，还有时不时就想杀掉我的双重人格软妹妹——<color=#6924EB>（*来自作者：只有司小姐自己这么觉得）</color>",
+Dialogue/FS_Toujyou_Lv2/008,Text,,,"A comedy troupe?! Aside from the split-personality girl, none sound like proper soldiers—Wait! Having a teammate who wants to kill you is dangerously absurd!","お笑い団体なのか？！二重人格の方はともあれ、どこの部隊だよ？全然らしくないけれど？
+いやいや、いつか自分を殺そうとするメンバーがいると危険すぎない？","搞笑艺人团体吗？！
+除了双重人格的那位小姐怎么看都不像部队的人啊———不是！有个一直想杀掉你自己的队友也太危险了吧！",
+Dialogue/FS_Toujyou_Lv2/009,Text,,,"*Tojo Tsukasa
+Oh? Lucy's playing the straight-man role too?? How remarkable.  ","*東城つかさ
+えっ～ルシーもツッコむキャラなの？すごい。","*東城司
+诶诶露西原来也是吐槽役角色吗？？好厉害",
+Dialogue/FS_Toujyou_Lv2/010,Text,,,No! But I couldn't stay silent!  ,そうではないけど！我慢できない！,不是！但是实在忍不住了！,
+Dialogue/FS_Toujyou_Lv2/011,Text,,,"*Tojo Tsukasa
+But...","*東城つかさ
+でも...","*東城司
+不过…",
+Dialogue/FS_Toujyou_Lv2/012,Text,,,"*Tojo Tsukasa
+Though she occasionally tries to kill me, she's actually quite gentle normally.","*東城つかさ
+時々わたしを殺そうと言っても、普段は優しい人なんだね。","*東城司
+虽然时不时想杀掉我，但是感觉在平时还是很温柔呢",
+Dialogue/FS_Toujyou_Lv2/013,Text,,,"*Tojo Tsukasa
+Last time she even said something about...","*東城つかさ
+前にわ...わたしに「自分をお願い...できる」なんって","*東城司
+上次还说什么要…",
+Dialogue/FS_Toujyou_Lv2/014,Text,,,"*Tojo Tsukasa
+Wanting... to entrust herself to me... (whispers)","*東城つかさ
+聞ってくれて....","*東城司
+要…要把自己托付给我…（小声）",
+Dialogue/FS_Toujyou_Lv2/015,Text,,,(Seems Ms. Tojo's teammates are decent people after all...),（何かいい人かもしれね、東城さんの仲間って）,（东城小姐的队友看来是好人呢…）,
+Dialogue/FS_Toujyou_Lv2/016,Text,,,"*Tojo Tsukasa
+It's nothing, really! Let's keep doing our best together, Lucy!","*東城つかさ
+何でもない、何でもない。これからも一緒に頑張ろう、ルシー。","*東城司
+没什么没什么，接下来也一起加油吧露西！",
+Dialogue/FS_Toujyou_Lv3/001,Text,,,"Come to think of it, Ms. Tojo sometimes becomes remarkably dependable in battle—like a completely different person.",そういえば、東城さんは時々突然頼りになるって、まるで別人みたい。,说起来，东城小姐偶尔在战斗中也会有特别可靠的时候呢，感觉完全变了个人,
+Dialogue/FS_Toujyou_Lv3/002,Text,,,"*Tojo Tsukasa
+Perhaps now's the time I can tell you...","*東城つかさ
+今なら大丈夫かも...","*東城司
+现在的话告诉你应该可以了…",
+Dialogue/FS_Toujyou_Lv3/003,Text,,,"*Tojo Tsukasa
+I can enter an awakened state during combat, allowing me to reclaim sealed powers.","*東城つかさ
+わたし、戦闘中に覚醒できるよ、そして隠された力を取り戻すみたい。","*東城司
+我能够在战斗中觉醒哦，然后似乎就能取回尘封的力量",
+Dialogue/FS_Toujyou_Lv3/004,Text,,,Huh? Then why not maintain that form permanently? You look so cool that way...,えっ？じゃ何で覚醒状態を保って続かないの？かっこいいのに。,欸？那为什么不一直保持觉醒状态呢？明明很帅气…,
+Dialogue/FS_Toujyou_Lv3/005,Text,,,"*Tojo Tsukasa
+Various reasons—","*東城つかさ
+色々な原因だね。","*東城司
+各种各样的原因啦——",
+Dialogue/FS_Toujyou_Lv3/006,Text,,,"*Tojo Tsukasa
+I prefer staying as my current self whenever possible.","*東城つかさ
+やっぱり、今の自分のままでいたいんだよね。","*東城司
+果然还是想要尽可能保持现在的自己呢",
+Dialogue/FS_Toujyou_Lv3/007,Text,,,"*Tojo Tsukasa
+My awakened self represents my past—a version burdened by suffering.
+Yet through shared experiences with comrades, I've grown into who I am now.  ","*東城つかさ
+覚醒状態のわたしは過去の自分で、その時が多くの苦しみがあった。
+でもその後きっかけによって、仲間たちと一緒に進んできた、そして今のわたしになる。","*東城司
+觉醒状态的我是过去的我，过去经历了很多痛苦的事儿，
+之后因为一些契机，才有了如今的我",
+Dialogue/FS_Toujyou_Lv3/008,Text,,,"*Tojo Tsukasa
+After regaining those memories, I questioned whether maintaining this carefree attitude was appropriate—","*東城つかさ
+記憶を取り戻した後、このまま楽に過ごしていて本当にいいのかと迷いた時もあったけどーー","*東城司
+在想起事情的真相后，虽然也迷茫过自己是不是不应该继续抱着这样轻松的态度生活下去",
+Dialogue/FS_Toujyou_Lv3/009,Text,,,"*Tojo Tsukasa
+But since this path was chosen by my former self... I choose to trust in that decision.","*東城つかさ
+これも過去のわたしの選んだことだから、わたしは、自分を信じたい。","*東城司
+但这也是过去的我做出的选择，我想要相信自己…",
+Dialogue/FS_Toujyou_Lv3/010,Text,,,"*Tojo Tsukasa
+Also, awakening gives me terrible headaches. Best reserved for critical moments.","*東城つかさ
+そして覚醒後、ひどい頭痛があったため、重要な時以外は使わないようにしてるんだ。","*東城司
+另外觉醒之后头会很痛，所以不在关键时刻就不去使用啦。",
+Dialogue/FS_Toujyou_Lv3/011,Text,,,"I see... Even at personal cost, I'm sure Ms. Tojo selflessly supports her comrades in her world.",そうなんだね。自分が傷つくことがあっても、東城さんは自分の世界で、きっと迷わず仲間のために全てをしてあげるでしょうね。,这样啊，尽管自己会受伤，但是东城小姐在自己的世界也一定会毫不犹豫为战友付出一切吧。,
+Dialogue/FS_Toujyou_Lv3/012,Text,,,"*Tsukasa Tojo (Awakened)
+(Awakened) Naturally! We made a lifelong pact, after all.","*東城つかさ（覚醒）
+もちろん！お互いに一生で約束したんだから。","*東城司(觉醒)
+那当然！我们可是要一辈子在一起的",
+Dialogue/FS_Toujyou_Lv3/013,Text,,,"*Tsukasa Tojo (Awakened)
+(Awakened) Enough rest. She's waiting for me—we'll clean up swiftly and return.","*東城つかさ（覚醒）
+はいい、休憩時間が終わったわ。彼女がまだ待ってくれるし、さっさと片付けよう。","*東城司(觉醒)
+好了，休息够了，她还在等着我呢，要早点收拾干净回去了",
+Dialogue/FS_Toujyou_Lv3/014,Text,,,Don't awaken now of all times! You'll get a headache!,こんな時に覚醒しないでよ！頭痛くなるんじゃない。,不要在这种时候觉醒啊！不是会头痛吗！,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+

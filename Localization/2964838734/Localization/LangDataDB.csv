@@ -1,0 +1,369 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Ruby_0_Description,Text,,,"Cannot attack targets other than Ruby.
+Removed when attacking the target.","ルビーを優先的に攻撃する。 
+対象が攻撃すると除去される。","无法攻击红宝石以外的目标。
+攻击目标时解除",
+Buff/B_Ruby_0_Name,Text,,,Taunted,挑発,嘲讽,
+Buff/B_Ruby_0_S_Description,Text,,,"After taking damage, evasion rate +20%.
+Removed upon successful evasion.","ダメージを受けるたびに、回避率+20%。 
+回避時に除去される。","每次受到伤害后，闪避率+20%。
+成功闪避时解除。",
+Buff/B_Ruby_0_S_Name,Text,,,Adaptability,地の利,因地制宜,
+Buff/B_Ruby_10_Rare_1_Description,Text,,,Removed when attacked.,攻撃を受けると除去される。,受到攻击时消失。,
+Buff/B_Ruby_10_Rare_1_Name,Text,,,Endurance,忍耐,忍耐,
+Buff/B_Ruby_10_Rare_Description,Text,,,"Prevents health from dropping below 1. When triggered, removes this buff and all debuffs on self.",体力が1以下ならない。この効果が発動するとこのバフが除去され、自身のデバフが全て除去される。,防止体力值降到1以下，触发该效果时解除该增益并解除所有自身的减益。,
+Buff/B_Ruby_10_Rare_Name,Text,,,Last Stand,最後の抵抗,最后的抵抗,
+Buff/B_Ruby_12_S_Description,Text,,,"When hit by the next attack, immediately counter with the same skill used by the attacker.",次に攻撃を受けた時、即座にその対象が使用したスキルで反撃する。,当受到下一次攻击时，对敌人立即释放与所受伤害时敌人使用的技能相同的技能,
+Buff/B_Ruby_12_S_Name,Text,,,Crimson Thorn,赤い棘,红刺,
+Buff/B_Ruby_12_T_Description,Text,,,"Prioritizes attacking &target.
+Removed when attacking the target.","&targetを優先して攻撃する。
+対象が攻撃すると除去される","优先攻击&target               
+攻击该目标时解除",
+Buff/B_Ruby_12_T_Name,Text,,,Fear,恐怖,恐惧,
+Buff/B_Ruby_13_S_Description,Text,,,"When attacked, counterattacks for &a damage and applies ""Bleeding"" (<sprite=1>&b%) debuff to the target.",攻撃を受けた時、&aダメージで反撃し、対象に[出血] (<sprite=1>&b%) を与える。,受到攻击时以 &a 点伤害反击，并对目标施加“流血”(<sprite=1>&b%)减益。,
+Buff/B_Ruby_13_S_Name,Text,,,Vigilance,警告,戒备,
+Buff/B_Ruby_13_T_Description,Text,,,,,,
+Buff/B_Ruby_13_T_Name,Text,,,Bleeding,出血,流血,
+Buff/B_Ruby_2_Description,Text,,,,,,
+Buff/B_Ruby_2_Name,Text,,,Rival,ライバル,对手,
+Buff/B_Ruby_2_T_Description,Text,,,"Increases damage taken from ""Revolver Shot"", ""Double Shot"", ""Ricochet Shot"", and ""Intimidation Shot"" by &a%.",「リボルバー射撃」、「二連射」、「跳弾射撃」、「威嚇射撃」から受けるダメージが&a%増加する。,受到左轮射击、双击、跳弹射击、威吓射击的伤害增加&a%,
+Buff/B_Ruby_2_T_Name,Text,,,Duelist's Mark,闘士のマーク,角斗士的靶子,
+Buff/B_Ruby_4_Description,Text,,,,,,
+Buff/B_Ruby_4_Name,Text,,,Weak Spot,弱点,破绽,
+Buff/B_Ruby_6_Description,Text,,,,,,
+Buff/B_Ruby_6_Name,Text,,,Healing Gauge Protection,回復ゲージ保護,保护体力极限,
+Buff/B_Ruby_6_T_Description,Text,,,Removed after action.,行動後に除去される,行动后解除,
+Buff/B_Ruby_6_T_Name,Text,,,Bouncing Knife,飛び出しナイフ,弹刀,
+Buff/B_Ruby_7_S_Description,Text,,,"After being attacked, launches a ""Revolver Shot"" with a countdown of 2 at the attacker.",攻撃を受けた時、攻撃した対象にカウントダウン2の「リボルバー射撃」を発動する。,被攻击后对攻击自己的目标以倒计时2的形式释放一次左轮射击,
+Buff/B_Ruby_7_S_Name,Text,,,Close-Range Shot,近距離射撃,近身射击,
+Buff/B_Ruby_7_T_Description,Text,,,"Prioritizes attacking &target.
+Reduces by 1 stack when attacking the target.","&targetを優先的に攻撃する。
+対象が攻撃すると除去される。","优先攻击&target。
+攻击该目标时减少一层。",
+Buff/B_Ruby_7_T_Name,Text,,,Draw Attention,吸引注意,吸引注意,
+Buff/B_Ruby_9_Rare_1_Description,Text,,,Restores &a health at the end of the turn.,ターン終了時に体力を&a回復する。,回合结束时恢复&a点体力。,
+Buff/B_Ruby_9_Rare_1_Name,Text,,,Melody,楽士,乐章,
+Buff/B_Ruby_9_Rare_2_0_Description,Text,,,"Owner of the last skill used from hand: &a
+When another ally uses a skill from hand, immediately launches a ""Revolver Shot"" with a countdown of 2. This ""Revolver Shot"" applies ""Bleeding"" (<sprite=1>&b%) debuff.","最後に手札から使用したスキルの所持者：&a
+他の味方が手札からスキルを使用したとき、カウントダウン2の「リボルバー射撃」を発動する。 発動した「リボルバー射撃」は[出血](<sprite=1>&b%)を与える。","上一个从手中使用的技能的拥有者：&a
+其他角色使用手中的技能时，立即以倒计时2的形式释放一次左轮射击。以此释放的左轮射击附带流血(<sprite=1>&b%)减益。",
+Buff/B_Ruby_9_Rare_2_0_Name,Text,,,Blood Bullet,ブラッドバレット,血腥子弹,
+Buff/B_Ruby_9_Rare_2_1_Description,Text,,,,,,
+Buff/B_Ruby_9_Rare_2_1_Name,Text,,,Bleeding,出血,流血,
+Buff/B_Ruby_9_Rare_2_3_Description,Text,,,Non-pain damage taken is at least 10.,最低で10の非苦痛ダメージを受ける。,受到的非痛苦伤害至少为 10 点,
+Buff/B_Ruby_9_Rare_2_3_Name,Text,,,Marked,マークオン,锁定,
+Buff/B_Ruby_9_Rare_3_Description,Text,,,Health cannot drop below 1.,体力が1以下にならない,生命不会降低为1以下,
+Buff/B_Ruby_9_Rare_3_Name,Text,,,Indomitable,不屈,不屈,
+Buff/B_Ruby_9_Rare_4_Description,Text,,,Health cannot drop below 1.,体力が1以下にならない,生命不会降低为1以下,
+Buff/B_Ruby_9_Rare_4_Name,Text,,,Indomitable,不屈,不屈,
+Buff/B_Ruby_9_Rare_T_Description,Text,,,Only takes damage from single-target attacks.,単体攻撃でしかダメージを受けない。 ,只会由自身受到伤害。,
+Buff/B_Ruby_9_Rare_T_Name,Text,,,Stand Firm,勇往邁進,挺身而出,
+Buff/B_Ruby_P_Description,Text,,,"Loads a bullet each time a skill is drawn or an enemy's action countdown reaches 0.
+When bullets reach 6, reloads and fires a ""Revolver Shot"" with a countdown of 0 at a random enemy.","スキルを引くか、敵の行動カウントが0になるたびに、弾丸が1発装填される。
+弾丸が6に達するとリロードされ、ランダムな敵を対象にカウントダウン0の「リボルバー射撃」を発動する。","每抽取一个技能以及敌方行动倒计时为0时，装填一枚子弹
+子弹达到六枚后再次装填时，发射一次倒计时为0、以随机敌人为目标的左轮射击。",
+Buff/B_Ruby_P_Name,Text,,,Revolver Preparation,リボルバーの準備,左轮射击预备,
+Buff/B_Ruby_P_New2_Description,Text,,,"Loads a bullet each time a skill is drawn or an enemy's action countdown reaches 0.
+When bullets reach 6, reloads and fires a ""Revolver Shot"" with a countdown of 0 at a random enemy. This ""Revolver Shot"" applies ""Bleeding"" debuff.","スキルを引くか、敵の行動カウントが0になるたびに、弾丸が1発装填される。
+弾丸が6に達するとリロードされ、ランダムな敵を対象にカウントダウン0の「リボルバー射撃」を発動する。これで発動した「リボルバー射撃」は[出血]を与える。","每抽取一个技能以及敌方行动倒计时为0时，装填一枚子弹
+子弹达到六枚后再次装填时，发射一次倒计时为0、以随机敌人为目标的左轮射击。以此释放的左轮射击附带流血减益。",
+Buff/B_Ruby_P_New2_Name,Text,,,Revolver Preparation,リボルバーの準備,左轮射击预备,
+Character/Ruby_PassiveDes,Text,,,"Loads a bullet each time a skill is drawn or an enemy's action countdown reaches 0.
+When bullets reach 6, reloads and fires a ""Revolver Shot"" with a countdown of 0 at a random enemy.
+LV3 - Effect 1: When dealing damage with a skill, if the target has less than 5% health, instantly kills them and gains a stack of ""Rival"" buff. (Does not work on bosses.)
+LV5 - Effect 2: When dealing damage with a skill, if the target has less than 25% health, instantly kills them and gains a stack of ""Rival"" buff. (Does not work on bosses.)","スキルを引くか、敵の行動カウントが0になるたびに、弾丸が1発装填される。
+弾丸が6に達するとリロードされ、ランダムな敵を対象にカウントダウン0の「リボルバー射撃」を発動する 
+LV3以上-特殊効果1:スキルを使用してダメージを与えた後、対象の体力が5%未満の場合、対象は即死し、持っているバフを奪う。 (ボスには無効) 
+LV5以上-特殊効果2:スキルを使用してダメージを与えた後、対象の体力が25%未満の場合、対象は即死し、持っているバフを奪う。 (ボスには無効)","每抽取一个技能以及敌方行动倒计时为0时，装填一枚子弹
+子弹达到六枚后再次装填时，发射一次倒计时为0、以随机敌人为目标的左轮射击。
+LV3-等级1：自身打出技能造成伤害后若目标仅剩5%的生命，则直接将其斩杀并叠加一层对手增益。（无法对boss生效）
+ LV5-等级2：自身打出技能造成伤害后若目标仅剩25%的生命，则直接将其斩杀并叠加一层对手增益。（无法对boss生效）    ",
+Character/Ruby_PassiveName,Text,,,Cruelty of the Wilderness,残酷な荒野,荒野的残酷,
+Character/Ruby_SelectInfo,Text,,,"Memory data was not fully deleted, leaving behind residual replicas.
+Freed from the system's constraints, she arrived in the Twisted Land.
+She seeks to liberate all deleted memory replicas of the Crimson Wilderness from the infinite loop.
+She travels with the investigation team to activate the Clock Tower.
+
+The death loop of the Crimson Wilderness has made Ruby familiar with every combat style of the Crimson Wilderness.
+Ruby gains bonuses when enemies act during her countdown skills.
+Can execute non-boss units with low health.","メモリデータは、レプリカの名残を残し、完全には削除されなかった。
+ システムの制限から解き放たれて、歪みの地へやってきた、 無限ループの世界から赤い荒野を解放することを目指す削除された記憶のレプリカ。
+ 時計塔を起動させるために調査団と共に旅をする。 
+赤い荒野の死のループにより、ルビーは赤い荒野の全ての戦闘スタイルに熟知しており、カウントダウンスキルのカウントダウン中に敵が行動することによって追加効果を獲得する。 
+低体力の非ボスを即死させることができる。","记忆数据没有被完整删除保留残余的复制品。
+摆脱了系统的限制来到了扭曲之地。
+渴望将所有红色荒野的被删除记忆的复制品从无限循环的世界解放出来。
+与调查团志同道合，一同前往启动钟楼。
+
+在红色荒野的死亡循环使红宝石熟悉红色荒野每一位的战斗方式，
+红宝石通过打出倒计时技能时敌方行动来获得加成。
+可以斩杀低生命的非领袖单位。",
+Character/Ruby_SkinDesc,Text,,,Ruby's attire in the Crimson Wilderness is almost identical to that of the Wilderness Dual Swordsman. Don't mistake her for someone else.,紅の荒野でルビーが着ていた服は荒野の双剣士とほぼ同じなので間違えのないように。,红宝石在红色荒野穿着的服饰，与荒野双剑士相差无几，可别认错了人。,
+Character/Ruby_Text_Battle_AllyND_0,Text,,,"Hit me, you monster!",,来打我啊！怪物！,
+Character/Ruby_Text_Battle_AllyND_1,Text,,,Stand up! Pick up your weapon!,,站起来！拿起武器！,
+Character/Ruby_Text_Battle_Cri_0,Text,,,A fatal blow.,,绝命一击。,
+Character/Ruby_Text_Battle_Cri_1,Text,,,Right on target.,,正中靶心。,
+Character/Ruby_Text_Battle_Healed_0,Text,,,Thanks for the support.,,感谢支援。,
+Character/Ruby_Text_Battle_Healed_1,Text,,,Well done.,,做的不错。,
+Character/Ruby_Text_Battle_Idle_0,Text,,,Beware the wilderness grass.,,当心荒野的草丛。,
+Character/Ruby_Text_Battle_Kill_0,Text,,,Next target.,,下一个目标。,
+Character/Ruby_Text_Battle_Kill_1,Text,,,Leave none alive.,,一个都不留。,
+Character/Ruby_Text_Battle_Kill_2,Text,,,Slaughter them all.,,斩尽。,
+Character/Ruby_Text_Battle_ND_0,Text,,,Try to get past me.,,试试越过我。 ,
+Character/Ruby_Text_Battle_ND_1,Text,,,I still have a reason to live.,,我还没有死的理由。,
+Character/Ruby_Text_Battle_ND_2,Text,,,Only through battle can I survive.,,只有战斗才能活下去。,
+Character/Ruby_Text_Battle_Start_0,Text,,,Stand behind me.,,站在我身后。,
+Character/Ruby_Text_Battle_Start_1,Text,,,I won't let the enemy go.,,我不会放过敌人。,
+Character/Ruby_Text_Field_GetItem_0,Text,,,"If it's armor, please give me something light.",,如果是铠甲的话，还请给我一些轻便的装备。,
+Character/Ruby_Text_Field_GetItem_1,Text,,,Good luck.,,运气不错。,
+Character/Ruby_Text_Field_Idle_0,Text,,,My revolver is ready.,,我的左轮准备好了。,
+Character/Ruby_Text_Field_Idle_1,Text,,,Listen to the wind. Hoo~~.,,听听这风声。呼~~。,
+Character/Ruby_Text_Field_Potion_P_0,Text,,,Can you give me water instead?,,能给我换成水吗。,
+Character/Ruby_Text_Field_Potion_P_1,Text,,,Doesn't seem like poison.,,起来不像是毒药。,
+Character/Ruby_Text_PharosLeader_0,Text,,,Slaughter the enemies of the cult leader.,,斩尽教主的敌人。,
+Character/Ruby_Text_PharosLeader_1,Text,,,How could I...,,我怎么会... ,
+Character/Ruby_Text_PharosLeader_2,Text,,,"Next, who's it?",,下一个，到谁了。,
+Character/Ruby_UnlockString,Text,,,,,,
+Character/Ruby_name,Text,,,Ruby,ルビー,红宝石,
+Character_Skin/Ruby_V3_ SelectInfo,Text,,,"Memory data was not fully deleted, leaving behind residual replicas.
+Freed from the system's constraints, she arrived in the Twisted Land.
+She seeks to liberate all deleted memory replicas of the Crimson Wilderness from the infinite loop.
+She travels with the investigation team to activate the Clock Tower.
+
+The death loop of the Crimson Wilderness has made Ruby familiar with every combat style of the Crimson Wilderness.
+Ruby gains bonuses when enemies act during her countdown skills.
+Can execute non-boss units with low health.","メモリデータは、レプリカの名残を残し、完全には削除されなかった。
+ システムの制限から解き放たれて、歪みの地へやってきた、 無限ループの世界から赤い荒野を解放することを目指す削除された記憶のレプリカ。
+ 時計塔を起動させるために調査団と共に旅をする。 
+赤い荒野の死のループにより、ルビーは赤い荒野の全ての戦闘スタイルに熟知しており、カウントダウンスキルのカウントダウン中に敵が行動することによって追加効果を獲得する。 
+低体力の非ボスを即死させることができる。",记忆数据没有被完整删除保留残余的复制品。摆脱了系统的限制来到了扭曲之地。渴望将所有红色荒野的被删除记忆的复制品从无限循环的世界解放出来。与调查团志同道合，一同前往启动钟楼。在红色荒野的死亡循环使红宝石熟悉红色荒野每一位的战斗方式，红宝石通过打出倒计时技能时敌方行动来获得加成。可以斩杀低生命的非领袖单位。 ,
+Character_Skin/Ruby_V3_SkinDesc,Text,,,"Agility and cunning brought the sole ruler of the Crimson Wilderness. At dusk, the dress she wore sent shivers down one's spine.","柔軟性と狡猾さが、赤い荒野の唯一の支配者を生み出した。
+夕暮れの中で彼女が着ていたドレスは、不穏な雰囲気を漂わせていた。 ",灵活与诡计带来了红色荒野唯一的主人。黄昏下，她穿的这件衣服让人不寒而栗。,
+Character_Skin/Ruby_V3_SkinName,Text,,,Cunning Fox - Ruby,狡猾な狐 - ルビー ,狡狐-红宝石,
+Character_Skin/Ruby_V3_Text_Battle_AllyND_0,Text,,,Don't drag me down.,,别连累我。,
+Character_Skin/Ruby_V3_Text_Battle_AllyND_1,Text,,,"Death is not the end, it doesn't matter.",,死亡不是终点，无所谓的。,
+Character_Skin/Ruby_V3_Text_Battle_Cri_0,Text,,,Rest in peace.,,安息吧。,
+Character_Skin/Ruby_V3_Text_Battle_Cri_1,Text,,,Farewell.,,好走不送。,
+Character_Skin/Ruby_V3_Text_Battle_Healed_0,Text,,,Don't think you can buy me.,,别想收买我。,
+Character_Skin/Ruby_V3_Text_Battle_Healed_1,Text,,,This has nothing to do with helping you.,,这跟帮助你们没有关系。,
+Character_Skin/Ruby_V3_Text_Battle_Idle_0,Text,,,There's the smell of blood.,,有血的味道。,
+Character_Skin/Ruby_V3_Text_Battle_Kill_0,Text,,,Hope you can come up with something new next time.,,希望你下次能有点新花样。,
+Character_Skin/Ruby_V3_Text_Battle_Kill_1,Text,,,Don't be scared.,,可别吓坏了。,
+Character_Skin/Ruby_V3_Text_Battle_Kill_2,Text,,,Pierce your heart.,,刺穿你的心。,
+Character_Skin/Ruby_V3_Text_Battle_ND_0,Text,,,Death is fine too.,,死了也好。,
+Character_Skin/Ruby_V3_Text_Battle_Start_0,Text,,,Let's try something new this time.,,这次来点新花样吧。,
+Character_Skin/Ruby_V3_Text_Battle_Start_1,Text,,,The flowers here will bloom even redder.,,这里的花要开的更加鲜红了。,
+Character_Skin/Ruby_V3_Text_Field_GetItem_0,Text,,,I don't care for these.,,我不稀罕这些。,
+Character_Skin/Ruby_V3_Text_Field_GetItem_1,Text,,,So this is your equipment?,,这就是你们的装备么。,
+Character_Skin/Ruby_V3_Text_Field_Idle_0,Text,,,Follow the bloodstains to find the next one.,,顺着血迹，找到下一个人吧。,
+Character_Skin/Ruby_V3_Text_Field_Idle_1,Text,,,"Don't rely on me too much, you'll regret it.",,别太信赖我，你会吃苦头的。,
+Character_Skin/Ruby_V3_Text_Field_Potion_P_0,Text,,,What are you trying to do?,,你想做什么。,
+Character_Skin/Ruby_V3_Text_Field_Potion_P_1,Text,,,"Fine, I'll drink it.",,好吧，我同意喝。,
+Character_Skin/Ruby_V3_Text_PharosLeader_0,Text,,,A familiar feeling.,,熟悉的感觉。,
+Character_Skin/Ruby_V3_Text_PharosLeader_1,Text,,,What a pity.,,可惜。,
+Character_Skin/Ruby_V3_Text_PharosLeader_2,Text,,,Hehe...,,呵呵……,
+Item_Equip/Equip_Ruby_0_Description,Text,,,"When dealing damage with a skill, if the target has less than 5% health (25% if the wielder is female), instantly kills them and gains a stack of ""Rival"" buff. (Does not work on bosses)
+
+<color=#919191>Ruby's katana.</color>","攻撃でダメージを与えた後、対象の体力が5% (装備者が女性の場合は25%) 未満の場合、対象は即死し、持っているバフを奪う。 (ボスには無効)
+
+<color=#919191>ルビーのサイドアーム。</color>","技能造成伤害后若目标仅剩5%的生命（若持有者是女性则为25%），则直接将其斩杀并叠加一层对手增益。（无法对boss生效）
+
+<color=#919191>红宝石的随身武器。</color>",
+Item_Equip/Equip_Ruby_0_name,Text,,,Katana,武士の刀,武士刀,
+Item_Equip/Equip_Ruby_1_Description,Text,,,"At the start of each turn, the equipper adds a ""Revolver Shot"" to their hand with Banish, Countdown 2, Swiftness, Ignore Taunt, and a cost of 1.
+
+<color=#919191>A ""toy"" from the Crimson Wilderness.</color>","毎ターン開始時、装備者はコスト1で除外、カウントダウン2、迅速、挑発無視を持つ「リボルバー射撃」を手札に加える。
+
+<color=#919191>赤い荒野から来た「おもちゃ」。</color>","每当回合开始时，装备者将一张带有放逐、倒计时2、迅速、无视嘲讽且费用为1的“左轮射击”加入手牌。
+
+<color=#919191>来自红色荒野的""玩具""。</color>",
+Item_Equip/Equip_Ruby_1_name,Text,,,Revolver,リボルバー,左轮,
+Item_Passive/Relic_Ruby_Description,Text,,,"At the start of each turn, a random ally has a 10% chance to add a rare Wasteland Elite skill to their hand.
+If this is the 10th turn, it is guaranteed.
+
+<color=#919191>10-pull guarantee.</color>","毎ターン開始時、ランダムな味方は10%の確率で荒野エリートのレアスキルを手札に加える。このターンが10ターン目であれば必ず加える。
+
+<color=#919191>10連保証。</color>","每当回合开始时，随机一名队员有10%的概率将1张荒野精英的稀有技能加入手牌
+若本回合为第十个回合，必定拿到手中。
+
+<color=#919191>十连保底。</color>",
+Item_Passive/Relic_Ruby_name,Text,,,Important Memento,大切な記念品,重要的信物,
+SimpleCampDialogue/CampDial_Ruby_Amethyst_Dialogues_0,Text,,,"[A]Amethyst, remember to attack with me next time.",,[A]紫宝石，下次记得跟我一起进攻。,
+SimpleCampDialogue/CampDial_Ruby_Amethyst_Dialogues_1,Text,,,"[B]Okay, sis. Amethyst will always have your back.",,[B]好，姐姐。紫宝石一定会成为你的后盾。,
+SimpleCampDialogue/CampDial_Ruby_Azar_Dialogues_0,Text,,,[B]You shouldn't be here.,,[B]你不应该在这里。,
+SimpleCampDialogue/CampDial_Ruby_Azar_Dialogues_1,Text,,,[A]But I am here now.,,[A]但是我现在在。,
+SimpleCampDialogue/CampDial_Ruby_Blue_Dialogues_0,Text,,,[A]They say red and blue things create a chemical reaction when together.,,[A]据说红色的东西和蓝色的东西在一块会发生化学反应。,
+SimpleCampDialogue/CampDial_Ruby_Blue_Dialogues_1,Text,,,"[A]Hmm... not necessarily, right?",,[A]嗯……不一定吧？,
+SimpleCampDialogue/CampDial_Ruby_Charon_Dialogues_0,Text,,,[B]Your soul is quite unique... let me borrow a bit of your life force...,,[B]你的灵魂很新颖……让我借用一点你的生命力看看……,
+SimpleCampDialogue/CampDial_Ruby_Charon_Dialogues_1,Text,,,[A]My life is precious!,,[A]我的生命可是很宝贵的！,
+SimpleCampDialogue/CampDial_Ruby_Charon_Dialogues_2,Text,,,[B]Everyone's life is precious... and it's not like I won't return it.,,[B]每个人的生命都很宝贵……而且我又不是不还。,
+SimpleCampDialogue/CampDial_Ruby_Emerald_Dialogues_0,Text,,,[A]So pleasing to the eyes.,,[A]真养眼。,
+SimpleCampDialogue/CampDial_Ruby_Emerald_Dialogues_1,Text,,,[B](Why is she staring at me?),,[B]（为什么她在盯着我一直看）,
+SimpleCampDialogue/CampDial_Ruby_Emerald_Dialogues_2,Text,,,"[A]So cute, I want to protect you forever.",,[A]真可爱，想要一直保护你。,
+SimpleCampDialogue/CampDial_Ruby_Emerald_Dialogues_3,Text,,,[B]Don't say such cheesy things.,,[B]你别说这么肉麻的话。,
+SimpleCampDialogue/CampDial_Ruby_Hein_Dialogues_0,Text,,,[A]You don't seem too happy?,,[A]你似乎不太高兴？,
+SimpleCampDialogue/CampDial_Ruby_Hein_Dialogues_1,Text,,,"[B]So noisy, you gun-toting old hag.",,[B]吵死了，打枪的老太婆。,
+SimpleCampDialogue/CampDial_Ruby_Hein_Dialogues_2,Text,,,"[A]...Say that again, I dare you.",,[A]……再说一遍试试？,
+SimpleCampDialogue/CampDial_Ruby_Huz_Dialogues_0,Text,,,[A]Why does your whip keep hitting me?,,[A]为什么你的鞭子能抽到我。,
+SimpleCampDialogue/CampDial_Ruby_Huz_Dialogues_1,Text,,,"[B]Don't dodge the whip, it's a healing whip.",,[B]不要躲着鞭子，这可是能治疗的鞭子。,
+SimpleCampDialogue/CampDial_Ruby_Huz_Dialogues_2,Text,,,"[A]Uh, it looks a bit creepy.",,[A]呃，看着就有点诡异。,
+SimpleCampDialogue/CampDial_Ruby_Ilya_Dialogues_0,Text,,,[A]Two katanas? And with different attributes?,,[A]两把武士刀？还是带有不同属性的？,
+SimpleCampDialogue/CampDial_Ruby_Ilya_Dialogues_1,Text,,,"[B]If you want to use one, just take it...",,[B]想要用哪一把的话拿去便是……,
+SimpleCampDialogue/CampDial_Ruby_Ilya_Dialogues_2,Text,,,[A]I can't carry that many weapons.,,[A]我可拿不了那么多武器。,
+SimpleCampDialogue/CampDial_Ruby_Iron_Dialogues_0,Text,,,"[A]No need to protect me, I'll dodge the attacks myself.",,[A]不用保护我，我会自己闪开攻击的。,
+SimpleCampDialogue/CampDial_Ruby_Iron_Dialogues_1,Text,,,[B]Protecting everyone is my duty.,,[B]保护所有人是我的职责。,
+SimpleCampDialogue/CampDial_Ruby_Joey_Dialogues_0,Text,,,"[A]Joey, what happened in the wasteland?",,[A]乔伊，荒野上发生了什么。,
+SimpleCampDialogue/CampDial_Ruby_Joey_Dialogues_1,Text,,,[B]How should I know? There are no records of any wasteland in the Ark.,,[B]我怎么知道？方舟里面可没有关于你说的什么荒野的记录。,
+SimpleCampDialogue/CampDial_Ruby_Johan_Dialogues_0,Text,,,"[A]Which is faster, an arrow or a bullet?",,[A]箭和子弹，哪个比较快？,
+SimpleCampDialogue/CampDial_Ruby_Johan_Dialogues_1,Text,,,"[A]Including the time to aim, I'd say I'm faster.",,[A]算上瞄准的时间，应该是我更胜一筹。,
+SimpleCampDialogue/CampDial_Ruby_Leryn_Dialogues_0,Text,,,[B]I can't believe someone made it out of the wasteland.,,[B]竟然有人能踏出荒野。,
+SimpleCampDialogue/CampDial_Ruby_Leryn_Dialogues_1,Text,,,[A]Maybe I never belonged in the wasteland. The priority now is to activate the clocktower.,,[A]可能我本来就不属于荒野，当务之急是启动钟楼。,
+SimpleCampDialogue/CampDial_Ruby_Lian_Dialogues_0,Text,,,"[A]Senior Lian, we make a good pair.",,[A]莉安前辈，我和你很相配呢。,
+SimpleCampDialogue/CampDial_Ruby_Lian_Dialogues_1,Text,,,[B]A good pair... such words don't suit us.,,[B]般配什么的……这种词可不适合。,
+SimpleCampDialogue/CampDial_Ruby_Lian_Dialogues_2,Text,,,[B]But I do want to learn more about the combat skills of those who live outside the Ark.,,[B]不过我也想更多地了解一下生活在方舟之外的人的战斗技巧。,
+SimpleCampDialogue/CampDial_Ruby_Miss_Dialogues_0,Text,,,[A]The chainsaw starting up looks really cool.,,[A]电锯启动的样子真的很酷啊。,
+SimpleCampDialogue/CampDial_Ruby_Miss_Dialogues_1,Text,,,[B]But it's still quite heavy.,,[B]但是份量还是挺重的。,
+SimpleCampDialogue/CampDial_Ruby_Miss_Dialogues_2,Text,,,[B]I wish I could be as agile as Ruby.,,[B]要是我也会像红宝石一样那么灵活就好了。,
+SimpleCampDialogue/CampDial_Ruby_Momori_Dialogues_0,Text,,,[B]Can I borrow this gun for a bit?,,[B]这枪能借我玩下吗？,
+SimpleCampDialogue/CampDial_Ruby_Momori_Dialogues_1,Text,,,[A]Taking this gun means taking on the responsibility of protecting your comrades.,,[A]拿上这把枪，就等同于背负保护伙伴的责任。,
+SimpleCampDialogue/CampDial_Ruby_Momori_Dialogues_2,Text,,,[B]Piece of cake☆,,[B]小菜一碟☆,
+SimpleCampDialogue/CampDial_Ruby_Narhan_Dialogues_0,Text,,,[A]Do you know what I'm thinking right now?,,[A]你知道我现在想的是什么吗？,
+SimpleCampDialogue/CampDial_Ruby_Narhan_Dialogues_1,Text,,,[B]How to dodge mental attacks.,,[B]如何闪避精神攻击。,
+SimpleCampDialogue/CampDial_Ruby_Pheonix_Dialogues_0,Text,,,"[B](This guy came from that place, I need to be extra careful.)",,[B]（这家伙可是从那个地方出来的，我可得多加小心。）,
+SimpleCampDialogue/CampDial_Ruby_Pheonix_Dialogues_1,Text,,,"[A]Phoenix, is my massage comfortable?",,[A]凤凰，我的按摩舒服吗？,
+SimpleCampDialogue/CampDial_Ruby_Pheonix_Dialogues_2,Text,,,"[B]Keep going, don't stop.",,[B]再多摸会，不要停。,
+SimpleCampDialogue/CampDial_Ruby_Priest_Dialogues_0,Text,,,[A]This staff looks so much like a baseball bat.,,[A]这个法杖怎么那么像棒球棍。,
+SimpleCampDialogue/CampDial_Ruby_Priest_Dialogues_1,Text,,,"[B]If you say so, then I guess it's fine for me to purify you, right?",,[B]既然你这么说的话，那么让我净化一下也是无所谓的吧？。,
+SimpleCampDialogue/CampDial_Ruby_Priest_Dialogues_2,Text,,,[A]You'll have to hit me first.,,[A]那得等你打中了再说。,
+SimpleCampDialogue/CampDial_Ruby_Red_Dialogues_0,Text,,,"[A]Remember to stay away from the monsters, don't get too close, Helia.",,[A]记得离怪物们远点，不要太靠前，海拉。,
+SimpleCampDialogue/CampDial_Ruby_Red_Dialogues_1,Text,,,[B]Even monsters are naturally drawn to sunlight.,,[B]即便是怪物，被太阳光所吸引也很正常。,
+SimpleCampDialogue/CampDial_Ruby_Red_Dialogues_2,Text,,,[A]Don't cry when you get hit.,,[A]被打的时候可别喊疼。,
+SimpleCampDialogue/CampDial_Ruby_Red_Dialogues_3,Text,,,"[B]It's fine, Selena is here.",,[B]没事，还有赛琳娜呢。,
+SimpleCampDialogue/CampDial_Ruby_Sapphire_Dialogues_0,Text,,,[A]Would you like to be friends with me? I'm so happy.,,[A]你愿意跟我交朋友吗？好开心。,
+SimpleCampDialogue/CampDial_Ruby_Sapphire_Dialogues_1,Text,,,[B]I'm happy to get closer to you too.,,[B]能跟你变亲近，我也很开心哦。,
+SimpleCampDialogue/CampDial_Ruby_Sapphire_Dialogues_2,Text,,,"[A]Really, Sapphire, you're such a cute kid, let me hug you.",,[A]真是的，蓝宝石你这孩子，真的好可爱哦，让我抱抱你。,
+SimpleCampDialogue/CampDial_Ruby_Sapphire_Dialogues_3,Text,,,"[B]Wait! Ruby, you're acting weird.",,[B]等一下！红宝石，你好像怪怪的。,
+SimpleCampDialogue/CampDial_Ruby_SilverStein_Dialogues_0,Text,,,[A]You remind me of an opponent I once faced.,,[A]你很像我遇到过的一个对手。,
+SimpleCampDialogue/CampDial_Ruby_SilverStein_Dialogues_1,Text,,,[B]Do I look that generic?,,[B]我长得很大众吗？,
+SimpleCampDialogue/CampDial_Ruby_SilverStein_Dialogues_2,Text,,,[A]Maybe we're long-lost brothers.,,[A]大概是失散多年的亲兄弟吧。,
+SimpleCampDialogue/CampDial_Ruby_Sizz_Dialogues_0,Text,,,"[A]Such a cute toy, my toys are cute too.",,[A]好可爱的玩具，我的玩具也很可爱哦。,
+SimpleCampDialogue/CampDial_Ruby_Sizz_Dialogues_1,Text,,,[B]...Is that a toy? It might misfire!,,[B]……那是玩具吗？会走火的吧！,
+SimpleCampDialogue/CampDial_Ruby_Topaz_Dialogues_0,Text,,,[A]Does your church always use weapons like this for healing?,,[A]你们教会的都喜欢拿这样的武器治疗么。,
+SimpleCampDialogue/CampDial_Ruby_Topaz_Dialogues_1,Text,,,"[B]I'm not like her, I'm gentle.",,[B]我可不像她一样，我很温柔的。,
+SimpleCampDialogue/CampDial_Ruby_Topaz_Dialogues_2,Text,,,[A]...Look who's behind you.,,[A]……看看你背后是谁？,
+SimpleCampDialogue/CampDial_Ruby_Topaz_Dialogues_3,Text,,,"[B]...Ahem, she is indeed a bit less gentle, but only a bit.",,[B]……咳嗯，她确实相对不那么温柔了点，但是也就一点。,
+SimpleCampDialogue/CampDial_Ruby_Trisha_Dialogues_0,Text,,,[B]Your smoke grenade... seems to have a lot of impurities.,,[B]你这种烟雾弹……似乎杂质有点多。,
+SimpleCampDialogue/CampDial_Ruby_Trisha_Dialogues_1,Text,,,"[A]There's not much good stuff in the wasteland, as long as it works, it's fine.",,[A]荒野上没啥好东西，弄出来的东西能用就行。,
+SimpleCampDialogue/CampDial_Ruby_ViridEmerald_Dialogues_0,Text,,,[A]So pleasing to the eyes.,,[A]真养眼。,
+SimpleCampDialogue/CampDial_Ruby_ViridEmerald_Dialogues_1,Text,,,[B](Why is she staring at me?),,[B]（为什么她在盯着我一直看）,
+SimpleCampDialogue/CampDial_Ruby_ViridEmerald_Dialogues_2,Text,,,"[A]So cute, I want to protect you forever.",,[A]真可爱，想要一直保护你。,
+SimpleCampDialogue/CampDial_Ruby_ViridEmerald_Dialogues_3,Text,,,[B]Don't say such cheesy things.,,[B]你别说这么肉麻的话。,
+Skill/S_Ruby_0_Description,Text,,,Sets the target's current countdown to 1. Increases Standby count by 1.,対象の行動カウントを1にし、待機回数+1。,使指定目标当前倒计时变为1。增加一次等待次数,
+Skill/S_Ruby_0_Name,Text,,,Ready for Battle,準備完了,严阵以待,
+Skill/S_Ruby_10_Rare_Description,Text,,,,,,
+Skill/S_Ruby_10_Rare_Name,Text,,,Indomitable Will,不屈の意志,不屈意志,
+Skill/S_Ruby_11_Rare_Description,Text,,,"Upon use, generates a ""Flash Grenade"" skill with Banish.
+Repeats the effect on random enemies based on the number of skills in hand.","使用すると除外を持つ 「閃光手榴弾」を1枚生成する。 
+手札の枚数と同じ回数ランダムな敵に繰り返し発動する。","释放后生成“闪光弹”技能，附带放逐。
+根据手中技能的数量向随机敌人重复释放。",
+Skill/S_Ruby_11_Rare_Name,Text,,,Revolver Fanning,リボルバー・マスタリー,左轮精通,
+Skill/S_Ruby_12_Description,Text,,,"If the target has a Weaken debuff, randomly attacks adjacent targets.",対象が衰弱デバフを持っている場合、隣接する対象をランダムに攻撃する。,如果目标带有弱化减益，随机攻击相邻的目标。,
+Skill/S_Ruby_12_Name,Text,,,Crimson Slash,真紅切り,绯红斩,
+Skill/S_Ruby_13_0_Description,Text,,,,,,
+Skill/S_Ruby_13_0_Name,Text,,,"One Strike, Two Cuts",一刀両断,一刀两断,
+Skill/S_Ruby_13_Description,Text,,,Simultaneously attacks another enemy.,別の対象を同時に攻撃する。,同时攻击另一敌人。,
+Skill/S_Ruby_13_Name,Text,,,"One Strike, Two Cuts",一刀両断,一刀两断,
+Skill/S_Ruby_1_Description,Text,,,"During countdown, if an enemy's action countdown reaches 0, stuns the target upon activation (<sprite=2>&a).
+On hit, generates <b>Ready for Battle</b> with Banish.","カウントダウン中に敵の行動カウントが0になると、発動時に対象をスタンさせる (<sprite=2>&a)。 
+命中時に除外を持つ<b>「準備完了」</b>を生成する。","倒计时期间，若有敌方行动倒计时为0，则释放时对目标施加眩晕（<sprite=2>&a）。
+命中时，生成<b>严阵以待</b>，附带放逐。",
+Skill/S_Ruby_1_Name,Text,,,Downward Slash,下段切り,下劈斩,
+Skill/S_Ruby_2_0_Description,Text,,,"During the countdown, if an enemy's action count reaches 0, an additional attack is triggered upon activation.",カウントダウン中に敵の行動カウントが0になると、発動時に追加攻撃が発動する。,倒计时期间，若有敌方行动倒计时变为0，则释放后追加一次攻击。,
+Skill/S_Ruby_2_0_Name,Text,,,Double Tap,二連射,双击,
+Skill/S_Ruby_2_Description,Text,,,"During the countdown, if an enemy's action count reaches 0, an additional attack is triggered upon activation.",カウントダウン中に敵の行動カウントが0になると、発動時に追加攻撃が発動する。,倒计时期间，若有敌方行动倒计时变为0，则释放后追加一次攻击。,
+Skill/S_Ruby_2_Name,Text,,,Double Tap,二連射,双击,
+Skill/S_Ruby_3_Description,Text,,,"During the countdown, if an enemy's action count reaches 0, gain 1 stack of the enemy's buff. (Can only trigger once per use)
+After activation, target the enemy with the lowest HP and activate again.","カウントダウン中に敵の行動カウントが0になると、敵が持つバフを1ストック得る。 (1回ごとに最大1つ)
+発動後、体力が最も低い単体の敵を対象として再発動する。","倒计时期间，若有敌人的行动倒计时变为0，使自身获得1层对手增益。（每次使用至多触发1次）
+释放后，对体力值最低的敌人以单体形式再次释放。",
+Skill/S_Ruby_3_Name,Text,,,Intimidating Shot,威嚇射撃,威吓射击,
+Skill/S_Ruby_4_Description,Text,,,"During the countdown, if an enemy's action count reaches 0, generate <b>Revolver Shot</b> upon activation, with Exclude, and discard it after 1 turn. (Will not generate if the hand is full)",カウントダウン中に敵の行動カウントが0になると、 発動時に<b>「リボルバー射撃」</b>が生成され、それは除外と1ターン後に捨てられる持つ。 (手札が上限に達した場合は生成しない),倒计时期间，若有敌方行动倒计时为0，则释放时生成<b>左轮射击</b>，附带放逐、1回合后弃牌。（若手中的技能数量达到上限则不生成）,
+Skill/S_Ruby_4_Name,Text,,,Revolver Shot,リボルバー射撃,左轮射击,
+Skill/S_Ruby_5_0_Description,Text,,,"During the countdown, if an enemy's action count reaches 0, deal damage to a random adjacent target. If there is only one target, it will always crit.",カウントダウン中に敵の行動カウントが0になると、発動時に隣接するランダムな対象にもダメージを与える。対象が1体だけの場合はクリティカルする。,倒计时期间，若有敌方行动倒计时变为0，随机选择相邻的攻击目标再次造成伤害，若只有一个目标则必定暴击。,
+Skill/S_Ruby_5_0_Name,Text,,,Ricochet Shot,跳弾射撃,跳弹射击,
+Skill/S_Ruby_5_Description,Text,,,"During the countdown, if an enemy's action count reaches 0, deal damage to a random adjacent target upon activation. If there is only one target, it will always crit.",カウントダウン中に敵の行動カウントが0になると、発動時に隣接するランダムな対象にもダメージを与える。対象が1体だけの場合はクリティカルする。,倒计时期间，若有敌方行动倒计时为0，则释放时随机选择相邻的攻击目标再次造成伤害，若仅剩一个目标则必定暴击。,
+Skill/S_Ruby_5_Name,Text,,,Ricochet Shot,跳弾射撃,跳弹射击,
+Skill/S_Ruby_6_Description,Text,,,"During the countdown, if an enemy's action count reaches 0, immediately activate ""Stillness in Motion"" on that enemy.
+During the countdown, if an ally uses a skill from their hand, grant them Healing Gauge Protection for 2 turns.","カウントダウン中に敵の行動カウントが0になると、即座にその敵に「居合」を発動する。 
+カウントダウン中に味方が手札からスキルを使用した場合、2ターンの間、回復ゲージ保護を得る。","倒计时期间，有敌方行动倒计时变为0时，立即向该敌人释放以静制动。
+倒计时期间，若有友军从手中使用技能，则使其获得保护体力极限，持续2回合。",
+Skill/S_Ruby_6_Name,Text,,,Stillness in Motion,居合,以静制动,
+Skill/S_Ruby_7_Description,Text,,,,,,
+Skill/S_Ruby_7_Name,Text,,,Quick Draw,クイックドロー,快速拔枪,
+Skill/S_Ruby_8_Description,Text,,,,,,
+Skill/S_Ruby_8_Name,Text,,,Flashbang,閃光手榴弾,闪光弹,
+Skill/S_Ruby_9_Rare_0_Description,Text,,,"During the countdown, if an enemy's action count reaches 0, this skill's damage will ignore the target's defense.
+
+<color=#919191>Beware the wilderness grass.</color>","カウントダウン中に敵の行動カウントが0になると、このスキルで与えるダメージは対象の防御力を無視する。
+
+<color=#919191>荒野の草に気をつけろ。</color>","倒计时期间，若有敌方行动倒计时变为0，该技能造成的伤害将无视目标的防御力。
+
+<color=#919191>当心荒野的草丛。</color>,",
+Skill/S_Ruby_9_Rare_0_Name,Text,,,Sniper Support,狙撃支援,狙击支援,
+Skill/S_Ruby_9_Rare_1_Description,Text,,,"Discard all skills in hand and draw the same number of skills. The redrawn skills gain random enhancement effects.
+
+<color=#919191>Music can sometimes kill.</color>","手札のスキルをすべて捨て、同じ数のスキルを引き、引いたスキルはランダムな強化効果が与えられる。
+
+<color=#919191>音楽は時に人を殺す。</color>","丢弃手中所有的技能，抽取相同数量的技能，重新抽取的技能赋予随机强化效果。
+
+<color=#919191>音乐有时也可以杀人。</color>",
+Skill/S_Ruby_9_Rare_1_Name,Text,,,Da Capo Alfine,ダカーポ・アルフィーネ,从头再奏,
+Skill/S_Ruby_9_Rare_2_Description,Text,,,"During the countdown, when the target of this skill takes non-pain damage, they take at least 10 damage. When using a skill from hand, if the user is different from the last skill used, immediately activate a ""Revolver Shot"" with a countdown of 2. This ""Revolver Shot"" inflicts ""Bleeding"".
+Upon activation, reduce the cost of the top skill in hand to 0 and grant it Exclude.
+
+<color=#919191>Don't let them find a good position.</color>","カウントダウン中にスキルの対象が非苦痛ダメージを受けるとそれを最低で10ダメージを受けるように変更する。
+手札からスキルを使用する際、最後に使用したスキルと使用者が異なる場合、カウントダウン2の「リボルバー射撃」を発動させる。 発動した「リボルバー射撃」は[出血]を与える。 
+発動時、手札の一番上のスキルのコストを0にし、除外を与える。
+
+<color=#919191>いい場所を見つけさせないで。</color>","倒计时期间，该技能指定的目标受到非痛苦伤害时至少受到10点伤害，且从手中使用技能时，若其拥有者与上一个使用的技能不同，则立即以倒计时2的形式释放一次左轮射击。以此释放的左轮射击附带流血减益。
+释放时，使手中最上方的技能变为0费并赋予放逐。
+
+<color=#919191>别让他找到好位置。</color>",
+Skill/S_Ruby_9_Rare_2_Name,Text,,,Trigger Happy,トリガーハッピー,杀戮狂欢,
+Skill/S_Ruby_9_Rare_3_Description,Text,,,"Deal damage equal to the total damage taken by all allies during the countdown to the enemy.
+During the countdown, the user's HP cannot drop below 1, evasion is greatly reduced, and debuff resistance is greatly increased.
+
+<color=#919191>Wait for them to cool down before acting?</color>","カウントダウン中に味方が受けたダメージと同量のダメージを敵に与える。 
+カウントダウン中は使用者の体力は1以下にならず、回避率が大幅に減少し、デバフレジストが大幅に増加する。
+
+<color=#919191>冷めるまで待つ？</color>","根据倒计时内所有友军受到的伤害对敌人造成相等的额外伤害。
+处于倒计时时，释放者的生命不会降低为1以下,闪避极大幅度减少，减益抗性极大提升。
+
+<color=#919191>先等他消消气再动手？</color>",
+Skill/S_Ruby_9_Rare_3_Name,Text,,,Revenge Attack,リベンジアタック,复仇一击,
+Skill/S_Ruby_9_Rare_4_Description,Text,,,"Remove the selected target's Taunt.
+Immediately gain 2 Mana.
+
+<color=#919191>Where did it come from?</color>","選択した対象の挑発を取り除く。 
+即座にマナを2得る。
+
+<color=#919191>どこから来たの？</color>","解除所选目标的嘲讽。
+立即获得2点法力值。
+
+<color=#919191>它是从哪冒出来的？</color>",
+Skill/S_Ruby_9_Rare_4_Name,Text,,,Roll,ゴロゴロ,翻滚,
+Skill/S_Ruby_9_Rare_Description,Text,,,"Can be used up to 3 times.
+Randomly generate 1 rare skill from a Wilderness Elite, with Exclude.","3回まで使用可能。 
+除外を持つ荒野のエリートのレアスキルをランダムに1枚生成する。","最多可使用3次。
+随机生成1个荒野精英的稀有技能，附带放逐。",
+Skill/S_Ruby_9_Rare_Name,Text,,,Battle Memory,戦いの記憶,战斗记忆,
+Skill/S_Ruby_LucyD_Description,Text,,,"Draw 2 skills, immediately set all enemies' action counts to 1, and increase the number of Standby by 1.",スキルを2枚引く、敵全体の行動カウントを1にし、待機回数を1増加。,抽取2个技能，立即使所有敌人的所有倒计时都变为1，增加一次等待次数,
+Skill/S_Ruby_LucyD_Name,Text,,,Group Provocation,集団挑発,群体挑衅,
+SkillExtended/SkillEn_Ruby_0_Des,Text,,,,,,
+SkillExtended/SkillEn_Ruby_0_EnforceString,Text,,,"<sprite name=""비용1""><sprite name=""비용2"">, Attack Skill","<sprite name=""비용1""><sprite name=""비용2"">攻撃スキル ","<sprite name=""비용1""><sprite name=""비용2"">，攻击技能",
+SkillExtended/SkillEn_Ruby_0_Name,Text,,,"Upon activation, gain 1 stack of the enemy's buff.",使用すると、自身に対象が持つバフを1ストック与える。,释放时使自身获得1层对手增益。,
+SkillExtended/SkillEn_Ruby_1_Des,Text,,,,,,
+SkillExtended/SkillEn_Ruby_1_EnforceString,Text,,,Attack Skill costing 2 or more,コスト2以上の攻撃スキル,2费以上的攻击技能,
+SkillExtended/SkillEn_Ruby_1_Name,Text,,,"Upon activation, apply 1 stack of ""Duelist's Mark"" with 110% success rate to all enemies, and generate a ""Revolver Shot"" skill with Exclude.",使用すると敵全体に成功率110%で[剣闘士の標的]を与える。除外を持つ「リボルバー射撃」を生成する。,释放时对所有敌人施加1层弱化成功率110%的角斗士的靶子，并生成“左轮射击”技能，附带放逐。,
+,,,,,,,
+

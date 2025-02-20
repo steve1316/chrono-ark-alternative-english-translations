@@ -1,0 +1,252 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_zjk_T_0_Description,Text,,,"<color=#FFD700>Blades clashing, paired with wine.</color> <color=#DC143C>Blood debts repaid in blood.</color>",,<color=#FFD700>；刀光剑影，可作下酒</color>；<color=#DC143C>血债血偿</color>,
+Buff/B_zjk_T_0_Name,Text,,,<color=#FFD700>Exhilaration</color>,,<color=#FFD700>快意</color>,
+Buff/B_zjk_T_10_Description,Text,,,"All Critical hits trigger <sprite name=""zuiJianKeMod_B_zjk_T_9_Icon""><color=#778899>Critical Hit</color> (<color=#778899>Critical</color> base 100% damage increase, excess Critical rate added directly to this portion. <color=#dda0dd><sprite name=""zuiJianKeMod_B_zjk_T_7_Icon"">Bloodbloom Plumage</color> provides only 20%). For skills with original cost of 3 Mana or higher, non-base <sprite name=""zuiJianKeMod_B_zjk_T_9_Icon""><color=#778899>Critical</color> damage increase is halved.",,"所有暴击引发<sprite name=""zuiJianKeMod_B_zjk_T_9_Icon""><color=#778899>会心暴击</color>（<color=#778899>会心</color>基础100%增伤，溢出的暴击率直接加在这部分，<color=#dda0dd><sprite name=""zuiJianKeMod_B_zjk_T_7_Icon"">血绽红梅</color>仅提供20%）。
+对于原始费用为3费及以上的技能，<sprite name=""zuiJianKeMod_B_zjk_T_9_Icon""><color=#778899>会心</color>非基础增伤减半。",
+Buff/B_zjk_T_10_Name,Text,,,<color=#87CEEB>Nameless Swordsmanship</color>,,<color=#87CEEB>无名剑术</color>,
+Buff/B_zjk_T_11_Description,Text,,,"When dealing damage, apply 1 <sprite name=""zuiJianKeMod_B_zjk_T_7_Icon""><color=#dda0dd>Bloodbloom Plumage</color> and 1 <sprite name=""zuiJianKeMod_B_zjk_T_8_Icon""><color=#DC143C>Bleeding</color>. Excess <sprite name=""zuiJianKeMod_B_zjk_T_8_Icon""><color=#DC143C>Bleeding</color> immediately deals &a damage.",,"造成伤害时，施加1<sprite name=""zuiJianKeMod_B_zjk_T_7_Icon""><color=#dda0dd>血绽红梅</color>与1<sprite name=""zuiJianKeMod_B_zjk_T_8_Icon""><color=#DC143C>出血</color>，溢出的<sprite name=""zuiJianKeMod_B_zjk_T_8_Icon""><color=#DC143C>出血</color>立刻造成&a点伤害。",
+Buff/B_zjk_T_11_Name,Text,,,<color=#9400D3>Flaying</color>,,<color=#9400D3>磔</color>,
+Buff/B_zjk_T_1_Name,Text,,,Split Robes,,裂袍,
+Buff/B_zjk_T_2_Description,Text,,,,,,
+Buff/B_zjk_T_2_Name,Text,,,Hemorrhage,,血崩,
+Buff/B_zjk_T_3_Description,Text,,,Cannot act. Removed when attacked.,,无法行动，受到攻击时解除,
+Buff/B_zjk_T_3_Name,Text,,,Paralysis,,麻痹,
+Buff/B_zjk_T_4_Description,Text,,,Fragile - Do not touch.,,易碎品 勿触,
+Buff/B_zjk_T_4_Name,Text,,,Flesh and Bone Severance,,肉斩骨断,
+Buff/B_zjk_T_5_Description,Text,,,"Attacks always miss.
+<sprite name=""zuiJianKeMod_Ex_zjk_0_Icon""><color=#9400D3>Flaying Execution</color> always crits.
+<sprite name=""zuiJianKeMod_B_zjk_T_9_Icon""><color=#778899>Critical</color> damage fixed at 80%.
+<color=#FFD700><sprite name=""zuiJianKeMod_j1QNlI5rYT"">Exhilaration</color> effect becomes 1.5x.
+Using held attack skills inflicts &a (14% max HP) Pain damage.
+<color=#4169E1>A swordsman's wrath leaves no survivors within ten paces.</color>",,"攻击必定未命中
+<sprite name=""zuiJianKeMod_Ex_zjk_0_Icon""><color=#9400D3>磔诛</color>必定暴击
+<sprite name=""zuiJianKeMod_B_zjk_T_9_Icon""><color=#778899>会心</color>增伤固定为80%
+<color=#FFD700><sprite name=""zuiJianKeMod_j1QNlI5rYT"">快意</color>的效果变为1.5倍
+释放自己手中的攻击技能时受到&a(14%最大生命值)点痛苦伤害。
+<color=#4169E1>剑客一怒，十步无存</color>",
+Buff/B_zjk_T_5_Name,Text,,,"<color=#0000FF><sprite name=""zuiJianKeMod_B_zjk_T_5_Icon"">Wrath</color>",,"<color=#0000FF><sprite name=""zuiJianKeMod_B_zjk_T_5_Icon"">怒</color>",
+Buff/B_zjk_T_6_Description,Text,,,+1 Overload per turn.,,每回合过载+1,
+Buff/B_zjk_T_6_Name,Text,,,Exhaustion,,力竭,
+Buff/B_zjk_T_7_Description,Text,,,"When crit, gain <sprite name=""zuiJianKeMod_B_zjk_T_8_Icon""><color=#DC143C>Bleeding</color> based on stacks.
+<color=#dda0dd>Plum blossoms bloom on the blade, their fragrance lingers.</color>",,"被暴击时根据层数获得<sprite name=""zuiJianKeMod_B_zjk_T_8_Icon""><color=#DC143C>出血</color>
+<color=#dda0dd>剑锋绽梅，其香悠然</color=#dda0dd>",
+Buff/B_zjk_T_7_Name,Text,,,"<color=#dda0dd><sprite name=""zuiJianKeMod_B_zjk_T_7_Icon"">Bloodbloom Plumage</color>",,"<color=#dda0dd><sprite name=""zuiJianKeMod_B_zjk_T_7_Icon"">血绽红梅</color>",
+Buff/B_zjk_T_8_Description,Text,,,,,,
+Buff/B_zjk_T_8_Name,Text,,,<color=#DC143C>Bleeding</color>,,<color=#DC143C>出血</color>,
+Buff/B_zjk_T_9_Description,Text,,,"Critical strikes trigger <sprite name=""zuiJianKeMod_B_zjk_T_9_Icon""><color=#778899>Critical Hit</color> (<color=#778899>Critical</color> base 120% damage increase, excess Critical rate added directly. <color=#dda0dd><sprite name=""zuiJianKeMod_B_zjk_T_7_Icon"">Bloodbloom Plumage</color> provides only 20%).
+<color=#778899>Peerless yet unremarkable.</color>",,"致命攻击引发<sprite name=""zuiJianKeMod_B_zjk_T_9_Icon""><color=#778899>会心暴击</color>（<color=#778899>会心</color>基础120%增伤，溢出的暴击率直接加在这部分，<color=#dda0dd><sprite name=""zuiJianKeMod_B_zjk_T_7_Icon"">血绽红梅</color>仅提供20%）。
+<color=#778899>天下无双，何足挂齿</color>",
+Buff/B_zjk_T_9_Name,Text,,,<color=#778899>Nameless Swordsmanship</color>,,<color=#778899>无名剑术</color>,
+Character/zjk_CampSelectWord,Text,,,,,,
+Character/zjk_PassiveDes,Text,,,"When missing attacks, gain <sprite name=""zuiJianKeMod_j1QNlI5rYT""><color=#FFD700>Exhilaration</color> (increases Critical damage).
+At battle start, gain <sprite name=""zuiJianKeMod_B_zjk_T_9_Icon""><color=#778899>Nameless Swordsmanship</color> (enhances Critical hits).
+Non-exclusive 2+ Mana skills gain <sprite name=""zuiJianKeMod_S_zjk_1_0_Icon""><color=#87CEEB>Breathing Technique</color> (guaranteed hit, Critical).
+All deck skills gain <sprite name=""zuiJianKeMod_Ex_zjk_0_Icon""><color=#9400D3>Flaying Execution</color> (half damage on miss, full on crit).
+Base Critical damage starts at 100%. Non-base Hit Rate converts to double Critical Rate. Non-base Critical Rate converts to Attack (max 30%).",,"每次未命中时，获得<sprite name=""zuiJianKeMod_j1QNlI5rYT""><color=#FFD700>快意（增加暴击伤害）</color>
+战斗开始时，获得<sprite name=""zuiJianKeMod_B_zjk_T_9_Icon""><color=#778899>无名剑术（强化致命暴击）</color>
+2费及以上的非专属技能被<sprite name=""zuiJianKeMod_S_zjk_1_0_Icon""><color=#87CEEB>呼吸法（必中，致命）</color>加持
+所有牌库内技能附带<sprite name=""zuiJianKeMod_Ex_zjk_0_Icon""><color=#9400D3>磔诛（未命中仍造成一半伤害，暴击时满额伤害）</color>
+战斗开始时，基础暴击伤害变为100%，非基础命中率转而提升两倍的暴击率，非基础暴击率转而提升攻击力（最高30%）",
+Character/zjk_PassiveName,Text,,,Drunken Swordmaster,,倚剑独醉,
+Character/zjk_SelectInfo,Text,,,"The swordsman calls himself ""Blade Pilgrim,"" emerging from crimson mists. During a Twisted Lands investigation, the team encountered him.
+
+Scarlet hills, blood-streams, and a sword-bearing figure formed their first impression.
+
+""This damned place—full of beasts that don't speak.""
+He stepped over corpses.
+The team watched him approach... 
+
+""Fight to know.""
+Later, he said.
+
+His style adapts, Critical-focused. Excels in single-target damage and amplifying allies' Criticals.
+Can lead or support.",,"执剑者自称“剑客”，自血雾中而来。
+某次，在对扭曲之地的调查中，调查团遇见了“剑客”。
+
+猩红色的土丘，鲜血汇成的数条溪流，举着葫芦沉吟的执剑者，构成了调查团对他的最初印象。
+
+“鬼地方，尽是些不通人言的。”
+言罢，踱步越过遍野的尸骸。
+调查团看到“剑客”提剑缓缓走来....
+
+“不打不相识。”
+后来，“剑客”是这么说的。
+
+剑客的招式灵活，战斗风格多变，以暴击作为唯一的输出底色。
+拥有提供极大量单体输出，同时兼备增幅队友暴击的能力，可以选择作为团队的主攻手或掠阵者。",
+Character/zjk_Text_Battle_AllyND_0,Text,,,"No, no. I'll teach you a move or two later.",,不可不可，回头我教你两式。,
+Character/zjk_Text_Battle_AllyND_1,Text,,,Wine numbs pain—take it.,,酒可止痛，拿去便是。,
+Character/zjk_Text_Battle_Cri_0,Text,,,This blade claims lives in three steps.,,此剑取命，三步。,
+Character/zjk_Text_Battle_Cri_1,Text,,,Breathe deep—the blade is swift.,,深呼吸，剑很快。,
+Character/zjk_Text_Battle_Cri_2,Text,,,Exhilarating!,,快哉！,
+Character/zjk_Text_Battle_Healed_0,Text,,,Hell's bailiffs can't keep me—how dare Death claim you?,,阴差难留我，阎王怎许你活！,
+Character/zjk_Text_Battle_Healed_1,Text,,,I owe you one—will repay it soon.,,人情我记下了，不日定还。,
+Character/zjk_Text_Battle_Idle_0,Text,,,Hesitation is the bane of swordsmanship!,,踌躇之于剑术，乃是大忌！,
+Character/zjk_Text_Battle_Idle_1,Text,,,Amateurs watch the blade—masters strike.,,小成用眼，大成用刺。,
+Character/zjk_Text_Battle_Idle_2,Text,,,Doubt not—I stand here.,,毋需迟疑，吾在此处。,
+Character/zjk_Text_Battle_Kill_0,Text,,,This was necessary.,,此乃应做之事。,
+Character/zjk_Text_Battle_Kill_1,Text,,,The dishonorable deserve no mercy in death.,,不仁无义者，死亦不足惜。,
+Character/zjk_Text_Battle_ND_0,Text,,,Haaa... Haaa...,,呼——嘶....呼————,
+Character/zjk_Text_Battle_ND_1,Text,,,Another trip through Hell's gates...,,走一遭鬼门关又如何....,
+Character/zjk_Text_Battle_Start_0,Text,,,Such marvels are common here? Fascinating...,,如此奇人异兽，于此地竟算不得稀罕，有趣....,
+Character/zjk_Text_Battle_Start_1,Text,,,Wilderness perfect for graves...,,荒郊野岭，人迹罕至....此地最宜埋尸。,
+Character/zjk_Text_Battle_Start_2,Text,,,Blades have no eyes—stay sharp.,,刀剑无眼，留神了。,
+Character/zjk_Text_Field_GetItem_0,Text,,,Swords suit me best—these are for comrades.,,剑最趁手，这些交予同道罢。,
+Character/zjk_Text_Field_GetItem_1,Text,,,Hiding weapons in corners—planning rebellion?,,此地将起事么？何故将兵刃藏于角落。,
+Character/zjk_Text_Field_GetItem_2,Text,,,Adequate quality.,,倒也称得上良品。,
+Character/zjk_Text_Field_Idle_0,Text,,,No need to rush.,,慢些亦无妨。,
+Character/zjk_Text_Field_Idle_1,Text,,,Steady your breath.,,呼吸莫要乱。,
+Character/zjk_Text_Field_Idle_2,Text,,,This place... not what I imagined.,,此地....不似我所想那般。,
+Character/zjk_Text_Field_Idle_3,Text,,,Unreal. Strange.,,不真，怪哉。,
+Character/zjk_Text_Field_Idle_4,Text,,,"Wandering free, leaving no ties behind.",,愿做人间逍遥客，从此江湖无故人。,
+Character/zjk_Text_Field_Idle_5,Text,,,"After battle, we drink.",,战罢，当醉一场。,
+Character/zjk_Text_PharosLeader_0,Text,,,Why persist? Only one leaves alive.,,何苦来哉，恩怨算罢，你我只好活一个了。,
+Character/zjk_Text_PharosLeader_1,Text,,,To be manipulated by villains...,,竟为奸人所驱....,
+Character/zjk_Text_PharosLeader_2,Text,,,Hmph. Another feud settled... vexing.,,哼，了却一桩江湖事....烦心，烦心。,
+Character/zjk_Text_Witch_0,Text,,,Tolerable—less harsh than hunger or cold.,,无妨，尚不及饥寒伤病，不过尔尔。,
+Character/zjk_Text_Witch_1,Text,,,Haaa... Haaa...,,呼——嘶....呼————,
+Character/zjk_name,Text,,,Blade Pilgrim,,剑客,
+Character_Skin/zjk_ai_skin_SkinName,Text,,,Xia Nü (Female Knight-Errant),,侠女,
+SimpleCampDialogue/CampDial_HakureiReimu_Azar_Dialogues_0,Text,,,[B]Who are you really?,,[B]你究竟是谁？,
+SimpleCampDialogue/CampDial_HakureiReimu_Azar_Dialogues_1,Text,,,"[A]In this foreign land, call me Blade Pilgrim.",,[A]此地异乡，唤我剑客就好。,
+SimpleCampDialogue/CampDial_HakureiReimu_Azar_Dialogues_2,Text,,,"[B]Ugh, never mind.",,[B]唉，我不是说这个，算了。,
+SimpleCampDialogue/CampDial_HakureiReimu_Control_Dialogues_0,Text,,,[B]Blade Pilgrim... Do you kill as easily as breathing?,,[B]剑客....你把杀人当作喝水吃饭吗。,
+SimpleCampDialogue/CampDial_HakureiReimu_Control_Dialogues_1,Text,,,[A]Killing serves justice.,,[A]杀人虽取次，事为公平。,
+SimpleCampDialogue/CampDial_HakureiReimu_Hein_Dialogues_0,Text,,,[A]A blade should dull—too sharp harms wielder and foe.,,[A]剑总归要钝些，锋芒太盛，易伤人伤己。,
+SimpleCampDialogue/CampDial_HakureiReimu_Hein_Dialogues_1,Text,,,[B]Nonsense! A sword that can't kill is useless!,,[B]啰里啰唆！拿剑砍不死人还有什么用！,
+SimpleCampDialogue/CampDial_HakureiReimu_Hein_Dialogues_2,Text,,,[A]Merely slaughtering livestock—a sharp blade suffices.,,[A]杀鸡屠狗而已，利剑只算趁手。,
+SimpleCampDialogue/CampDial_HakureiReimu_Lian_Dialogues_0,Text,,,"[B]For a newcomer, you're absurd...",,[B]作为新人，未免也太夸张了....,
+SimpleCampDialogue/CampDial_HakureiReimu_Lian_Dialogues_1,Text,,,[A]State your business.,,[A]有何贵干，但说无妨。,
+SimpleCampDialogue/CampDial_HakureiReimu_Lian_Dialogues_2,Text,,,[B]...Can you teach others your techniques?,,[B]....你的技术，也能教给其他调查员吗？,
+SimpleCampDialogue/CampDial_HakureiReimu_Lian_Dialogues_3,Text,,,[A]This style has no master—teach freely.,,[A]这剑术师出无门，没甚忌讳，自是可行。,
+SimpleCampDialogue/CampDial_HakureiReimu_MissChain_Dialogues_0,Text,,,[B]Wow! Can you teach me swordsmanship?,,[B]哇！你也能教我用剑吗？,
+SimpleCampDialogue/CampDial_HakureiReimu_MissChain_Dialogues_1,Text,,,[A]Why? Your weapon is uniquely lethal.,,[A]为何学剑，你那兵器奇绝险绝，恐难逢敌手。,
+SimpleCampDialogue/CampDial_HakureiReimu_MissChain_Dialogues_2,Text,,,[B]Whoa! So I'm strong too? Trade lessons for chainsaw skills?,,[B]哇塞！是说我也很强的意思吗，那我教你用电锯怎么样？,
+SimpleCampDialogue/CampDial_HakureiReimu_MissChain_Dialogues_3,Text,,,[A]Splendid! My thanks.,,[A]如此甚好！那便谢过了。,
+SimpleCampDialogue/CampDial_HakureiReimu_Phoenix_Dialogues_0,Text,,,[B]You're interesting.,,[B]你这家伙，还挺有意思的。,
+SimpleCampDialogue/CampDial_HakureiReimu_Phoenix_Dialogues_1,Text,,,[A]A talking bird? Must be drunk...,,[A]怪哉，大鸟开口能言....定是醉了。,
+SimpleCampDialogue/CampDial_HakureiReimu_Phoenix_Dialogues_2,Text,,,[B]Hey! Watch your tone!,,[B]喂！你这人什么态度！,
+SimpleCampDialogue/CampDial_HakureiReimu_Priest_Dialogues_0,Text,,,[B]Believe in God—He eradicates evil.,,[B]信仰神吧，神会消除所有的恶。,
+SimpleCampDialogue/CampDial_HakureiReimu_Priest_Dialogues_1,Text,,,[A]Absurd. My blade has righted countless wrongs—where was God?,,[A]可笑，某平生仗剑，已雠不义难数，未见所谓神助耶？,
+SimpleCampDialogue/CampDial_HakureiReimu_Priest_Dialogues_2,Text,,,[B]...You walk His path already.,,[B]....您已走在了神的路途上。,
+SimpleCampDialogue/CampDial_HakureiReimu_Priest_Dialogues_3,Text,,,[A]The mortal world needs no gods meddling.,,[A]哼，人间唯正道一途，难容神鬼染指。,
+SimpleCampDialogue/CampDial_HakureiReimu_Priest_Dialogues_4,Text,,,[B]I'll... keep trying to convince you.,,[B]嗯....我会努力说服您的,
+SimpleCampDialogue/CampDial_HakureiReimu_Prime_Dialogues_0,Text,,,[B]You attack. I'll defend.,,[B]你只管进攻。我来防御就好。,
+SimpleCampDialogue/CampDial_HakureiReimu_Prime_Dialogues_1,Text,,,[A]Entrusting my blind spot to others? Unwise.,,[A]某空将一剑行于江湖，空门托予他人，不擅。,
+SimpleCampDialogue/CampDial_HakureiReimu_Queen_Dialogues_0,Text,,,[A]Healing through pain—miraculous.,,"[A]以痛止痛,而肉白骨....神乎其技。",
+SimpleCampDialogue/CampDial_HakureiReimu_Queen_Dialogues_1,Text,,,"[A]In my world, this skill could buy countless lives.",,[A]若在江湖，此技可买人命不数。,
+SimpleCampDialogue/CampDial_HakureiReimu_Queen_Dialogues_2,Text,,,[B]Huh? You mean saving people?,,[B]啊？是说救人的意思吗？,
+SimpleCampDialogue/CampDial_HakureiReimu_Queen_Dialogues_3,Text,,,[A]Not entirely. Let the past rest.,,[A]不尽然，罢了，往事耳。,
+SimpleCampDialogue/CampDial_HakureiReimu_ShadowPriest_Dialogues_0,Text,,,[B]S-scary...,,[B]好....好可怕....,
+SimpleCampDialogue/CampDial_HakureiReimu_ShadowPriest_Dialogues_1,Text,,,[A]What's to fear here?,,[A]此地无物，何惧？,
+SimpleCampDialogue/CampDial_HakureiReimu_ShadowPriest_Dialogues_2,Text,,,[B]N-nothing! Saw nothing!,,[B]没....没什么，我什么都没看见！,
+SimpleCampDialogue/CampDial_HakureiReimu_ShadowPriest_Dialogues_3,Text,,,[A]Strange.,,[A]怪哉。,
+SimpleCampDialogue/CampDial_HakureiReimu_SilverStein_Dialogues_0,Text,,,"[B]Damn, friend—what monster spawned you?",,[B]见鬼，朋友，你是打哪儿来的怪物。,
+SimpleCampDialogue/CampDial_HakureiReimu_SilverStein_Dialogues_1,Text,,,[A]Hm? We've no quarrel.,,[A]嗯？何出此言？我与阁下并无瓜葛。,
+SimpleCampDialogue/CampDial_HakureiReimu_SilverStein_Dialogues_2,Text,,,[B]I can't even aim... How many have you killed?,,[B]我都来不及瞄准....你用剑杀过多少人？,
+SimpleCampDialogue/CampDial_HakureiReimu_SilverStein_Dialogues_3,Text,,,"[A]Once, over seventy swordsmen.",,[A]某次，执剑者七十有余。,
+SimpleCampDialogue/CampDial_HakureiReimu_SilverStein_Dialogues_4,Text,,,[B]...Why did they bring me then?,,[B]....那他们为什么还要带上我。,
+SimpleCampDialogue/CampDial_HakureiReimu_Sizz_Dialogues_0,Text,,,[A]Puppets move beyond their strings.,,[A]人偶的行迹，有时似乎同那些丝线无关。,
+SimpleCampDialogue/CampDial_HakureiReimu_Sizz_Dialogues_1,Text,,,[B]Huh?! N-no!,,[B]啊？！...有...有吗？,
+SimpleCampDialogue/CampDial_HakureiReimu_Sizz_Dialogues_2,Text,,,[B]Eve!?,,[B]伊!伊芙!?,
+SimpleCampDialogue/CampDial_HakureiReimu_Trisha_Dialogues_0,Text,,,"[A]Assassins I know are bold—abandoning half a life to kill one, content with a single知己 (kindred spirit).",,[A]我所闻的刺客大都豪迈洒脱，弃半生，杀一人，凭一字知己足矣。,
+SimpleCampDialogue/CampDial_HakureiReimu_Trisha_Dialogues_1,Text,,,[B]...I'm not that kind of assassin.,,[B]....我不是那样的刺客。,
+SimpleCampDialogue/CampDial_HakureiReimu_Trisha_Dialogues_2,Text,,,[A]Who knows? Kindred spirits recognize each other.,,[A]呵呵，谁说的准，若人在天底下存着知己，一眼便可知。,
+SimpleCampDialogue/CampDial_HakureiReimu_Trisha_Dialogues_3,Text,,,[B]...,,[B]....,
+Skill/S_zjkLuck_0_Description,Text,,,"Prioritize drawing 2 attack skills from deck. User gains 1 <sprite name=""zuiJianKeMod_j1QNlI5rYT""><color=#FFD700>Exhilaration</color>.",,"从牌库中优先抽取2个攻击技能，使技能拥有者获得1<sprite name=""zuiJianKeMod_j1QNlI5rYT""><color=#FFD700>快意</color>。",
+Skill/S_zjkLuck_0_Name,Text,,,Shared Drink,,共饮,
+Skill/S_zjk_0_Description,Text,,,"If missed, may recast this turn and draw 1 card.
+Only usable after casting 1+ Mana skills.
+(Cannot crit on hit)",,"未命中时，本回合内可重复释放，同时抽一张牌
+仅在释放手中一费以上技能后可用
+（命中时无法暴击）。",
+Skill/S_zjk_0_Name,Text,,,Robe-Splitting,,裂衣袍,
+Skill/S_zjk_10_Description,Text,,,"For this battle, grant adjacent attack skills <sprite name=""zuiJianKeMod_S_zjk_1_0_Icon""><color=#87CEEB>Breathing Technique</color>.
+User gains <sprite name=""zuiJianKeMod_B_zjk_T_9_Icon""><color=#87CEEB>Nameless Swordsmanship</color>. If failed, take &a (25% max HP) Pain damage and draw 1 card.",,"本场战斗内，为相邻攻击技能附加<sprite name=""zuiJianKeMod_S_zjk_1_0_Icon""><color=#87CEEB>呼吸法</color>，并使技能的拥有者获得<sprite name=""zuiJianKeMod_B_zjk_T_9_Icon""><color=#87CEEB>无名剑术</color>。
+若未附加<sprite name=""zuiJianKeMod_S_zjk_1_0_Icon""><color=#87CEEB>呼吸法</color>，则转而受到&a(最大生命值25%)点痛苦伤害，并且抽一张牌。
+",
+Skill/S_zjk_10_Name,Text,,,<color=#87CEEB>Breathing Technique</color>,,<color=#87CEEB>呼吸法</color>,
+Skill/S_zjk_11_Description,Text,,,"Play immediately when drawn.
+<color=#FFD700><sprite name=""zuiJianKeMod_j1QNlI5rYT"">Exhilaration</color> instead increases <sprite name=""zuiJianKeMod_B_zjk_T_7_Icon""><color=#dda0dd>Bloodbloom Plumage</color> stack cap.",,"抽到时立即释放。
+<color=#FFD700><sprite name=""zuiJianKeMod_j1QNlI5rYT"">快意</color>转而提升<sprite name=""zuiJianKeMod_B_zjk_T_7_Icon""><color=#dda0dd>血绽红梅</color>层数上限。",
+Skill/S_zjk_11_Name,Text,,,<color=#9400D3>Vendetta</color>,,<color=#9400D3>仇</color>,
+Skill/S_zjk_1_1_Description,Text,,,,,,
+Skill/S_zjk_1_1_Name,Text,,,Sword Flourish-0,,撩剑乱-0,
+Skill/S_zjk_1_Description,Text,,,"If missed, perform an additional attack with doubled base Critical rate and <sprite name=""zuiJianKeMod_S_zjk_1_0_Icon""><color=#87CEEB>Breathing Technique</color>.",,"未命中时，额外追加一次基础暴击率翻倍且附带<sprite name=""zuiJianKeMod_S_zjk_1_0_Icon""><color=#87CEEB>呼吸法</color>的攻击。",
+Skill/S_zjk_1_Name,Text,,,Sword Flourish,,撩剑乱,
+Skill/S_zjk_2_Description,Text,,,"<color=#9400D3><sprite name=""zuiJianKeMod_Ex_zjk_0_Icon"">Flaying Execution</color> deals full damage.
+Attack adjacent enemies.
+On hit/fix, add 1 <sprite name=""zuiJianKeMod_B_zjk_T_7_Icon""><color=#dda0dd>Bloodbloom Plumage</color>.",,"<color=#9400D3><sprite name=""zuiJianKeMod_Ex_zjk_0_Icon"">磔诛</color>造成满额伤害。
+同时攻击目标两侧的敌人。
+命中或固定时额外添加一层<sprite name=""zuiJianKeMod_B_zjk_T_7_Icon""><color=#dda0dd>血绽红梅</color>。",
+Skill/S_zjk_2_Name,Text,,,Fallen Petals,,扫落花,
+Skill/S_zjk_3_Description,Text,,,"If this skill hits, may recast this turn.
+Any skill crit grants this skill <sprite name=""zuiJianKeMod_S_zjk_1_0_Icon""><color=#87CEEB>Breathing Technique</color>.",,"本技能命中时，本回合内可再次释放。
+任意技能暴击时，该技能获得<sprite name=""zuiJianKeMod_S_zjk_1_0_Icon""><color=#87CEEB>呼吸法</color>。
+",
+Skill/S_zjk_3_Name,Text,,,Phantom Step,,行步穿,
+Skill/S_zjk_4_Description,Text,,,Inflict 1/3 of target's total Pain buff damage.,,附加目标一回合痛苦增益伤害总和的三分之一。,
+Skill/S_zjk_4_Name,Text,,,Throat-Slashing Strike,,斩封喉,
+Skill/S_zjk_5_Description,Text,,,"Grant Swiftness to a skill. User gains +1 Overload.
+If no owned skills in hand, draw 1. When played from hand, prioritize drawing 1 attack skill and grant it Exclude.
+Consume 1 <sprite name=""zuiJianKeMod_j1QNlI5rYT""><color=#FFD700>Exhilaration</color> to draw +1 attack card.",,"选择一个技能变为迅速，技能的拥有者过载+1。
+若手中没有自己的技能，则抽1个自己的技能。
+在手中打出时，改为优先抽取1个攻击技能，并将自身放逐，若可消耗1<sprite name=""zuiJianKeMod_j1QNlI5rYT""><color=#FFD700>快意</color>，则消耗，多抽1张攻击牌。",
+Skill/S_zjk_5_Name,Text,,,Nine Steps,,九宫步,
+Skill/S_zjk_6_Description,Text,,,"If target isn't Blade Pilgrim, grant 1 <sprite name=""zuiJianKeMod_j1QNlI5rYT""><color=#FFD700>Exhilaration</color> and Stun.",,"若目标非剑客，令其额外获得一层<sprite name=""zuiJianKeMod_j1QNlI5rYT""><color=#FFD700>快意</color>，并且陷入眩晕。</color>",
+Skill/S_zjk_6_Name,Text,,,Immortal's Brew,,醉仙酿,
+Skill/S_zjk_7_0_Description,Text,,,Follow with Flesh Severance attacks equal to cost,,追加肉斩消耗费用次攻击,
+Skill/S_zjk_7_0_Name,Text,,,Bone Severance,,骨断,
+Skill/S_zjk_7_1_Name,Text,,,Bone Severance-1,,骨断-1,
+Skill/S_zjk_7_2_Description,Text,,,"<color=#87CEEB>[Breathing Technique]</color>
+Repeat <color=#DC143C>Flesh Severance</color> attacks equal to cost.",,"<color=#87CEEB>【呼吸法】</color>
+重复<color=#DC143C>肉斩</color>消耗费用次攻击。",
+Skill/S_zjk_7_2_Name,Text,,,<color=#DC143C>Bone Severance</color>,,<color=#DC143C>骨断</color>,
+Skill/S_zjk_7_Description,Text,,,"<color=#87CEEB>[Breathing Technique]</color>
+If enemies prepare to attack during countdown, immediately cast <color=#DC143C>Flesh and Bone Severance</color> and gain +1 Overload per turn for 3 turns.
+
+<color=#DC143C>Flesh cleaved, bones severed.</color>",,"<color=#87CEEB>【呼吸法】</color>
+若在倒计时期间有敌人将要发动攻击，则立刻转而释放<color=#DC143C>肉斩骨断</color>，且回合开始过载+1，持续三回合。
+
+<color=#DC143C>剔骨剔肉，肉斩骨断</color>",
+Skill/S_zjk_7_Name,Text,,,<color=#DC143C>Flesh Severance</color>,,<color=#DC143C>肉斩</color>,
+Skill/S_zjk_8_Description,Text,,,"Grant all damage skills <sprite name=""zuiJianKeMod_Ex_zjk_0_Icon""><color=#9400D3>Flaying Execution</color>.
+When played from hand, <sprite name=""zuiJianKeMod_B_zjk_T_5_Icon""><color=#4169E1>Wrath</color> lasts 1 turn. Gain +1 Mana per <sprite name=""zuiJianKeMod_S_zjk_1_0_Icon""><color=#87CEEB>Breathing Technique</color> skill in hand.",,"为自身所有伤害技能附加<sprite name=""zuiJianKeMod_Ex_zjk_0_Icon""><color=#9400D3>磔诛</color>。
+从手中打出时，<sprite name=""zuiJianKeMod_B_zjk_T_5_Icon""><color=#4169E1>怒</color>仅为1回合，手中每有一个<sprite name=""zuiJianKeMod_S_zjk_1_0_Icon""><color=#87CEEB>呼吸法</color>技能，回复1点费用。",
+Skill/S_zjk_8_Name,Text,,,Wrath,,怒,
+Skill/S_zjk_9_0_Name,Text,,,Stab-0,,刺-0,
+Skill/S_zjk_9_Description,Text,,,"<color=#87CEEB>[Breathing Technique]</color>
+When using 2+ Mana skills from hand, grant them <sprite name=""zuiJianKeMod_S_zjk_1_0_Icon""><color=#87CEEB>Breathing Technique</color>, -3 Mana, 100% Critical rate, and +1 base damage.
+
+Any skill crit consumes its <sprite name=""zuiJianKeMod_S_zjk_1_0_Icon""><color=#87CEEB>Breathing Technique</color>, +1 Mana, and adds a guaranteed non-crit <color=#DC143C>Stab</color>.
+
+<color=#DC143C>Amateurs watch the blade—masters strike.</color>",,"<color=#87CEEB>【呼吸法】</color>
+从手中使用2费及以上的技能时，该技能获得<sprite name=""zuiJianKeMod_S_zjk_1_0_Icon""><color=#87CEEB>呼吸法</color>，同时 -3费，获得100%暴击率与1点基础伤害。
+
+任意技能暴击时，立刻消耗此技能的<sprite name=""zuiJianKeMod_S_zjk_1_0_Icon""><color=#87CEEB>呼吸法</color>，同时+1费，追加一次必中且无法暴击的<color=#DC143C>刺</color>。
+
+<color=#DC143C>小成用眼，大成用刺。</color=#DC143C>",
+Skill/S_zjk_9_Name,Text,,,<color=#DC143C>Stab</color>,,<color=#DC143C>刺</color>,
+SkillExtended/Ex_zjk_0_Des,Text,,,<color=#9400D3>Deals half damage on miss. A thousand cuts flay flesh.</color>,,"<color=#9400D3>未命中时造成一半的伤害
+千剜加身，皮肉皆散</color>",
+SkillExtended/Ex_zjk_0_Name,Text,,,<color=#9400D3>Flaying Execution</color>,,<color=#9400D3>磔诛</color>,
+SkillExtended/S_zjk_1_0_Des,Text,,,"<color=#87CEEB>[Guaranteed Hit][Critical]
+Grants Nameless Swordsmanship.
+Spirit focused, blade drawn—enemy perishes.</color>",,"<color=#87CEEB>【必中】【致命】
+使用后，获得无名剑术
+神凝于气，剑出，敌，立毙。</color>",
+SkillExtended/S_zjk_1_0_EnforceString,Text,,,,,,
+SkillExtended/S_zjk_1_0_Name,Text,,,<color=#87CEEB>Breathing Technique</color>,,<color=#87CEEB>呼吸法</color>,
+SkillExtended/Zjk_Ex_0_Des,Text,,,,,,
+SkillExtended/Zjk_Ex_0_EnforceString,Text,,,Attack skills costing 1 Mana or less,,不高于1费的攻击技能,
+SkillExtended/Zjk_Ex_0_Name,Text,,,"On skill hit, apply 1 <color=#dda0dd>Bloodbloom Plumage</color>",,技能命中，对目标施加一层<color=#dda0dd>血绽红梅</color>,
+SkillExtended/Zjk_Ex_1_Des,Text,,,[Breathing Technique],,【呼吸法】,
+SkillExtended/Zjk_Ex_1_EnforceString,Text,,,Overload attack skills,,过载的攻击技能,
+SkillExtended/Zjk_Ex_1_Name,Text,,,<color=#87CEEB>[Breathing Technique]</color>,,<color=#87CEEB>【呼吸法】</color>,
+SkillKeyword/S_zjk_K_7_Desc,Text,,,"<color=#87CEEB>[Breathing Technique]</color> Multiplier: 50%.
+Perform follow-up attacks based on Flesh Severance's cost.
+Paralysis: Cannot act, -100% Dodge Rate, +100% Critical Received Rate, lasts for one action.  ",,"<color=#87CEEB>【呼吸法】</color>倍率：50%
+根据肉斩消耗费用进行追击
+麻痹：无法行动，闪避率-100%，被暴击率+100%，持续一次行动",
+SkillKeyword/S_zjk_K_7_Name,Text,,,Bone Severance,,骨断,
+

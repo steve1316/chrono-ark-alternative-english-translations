@@ -1,0 +1,342 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Rust_10_Description, Text,,대상에게 파갑 최대 중첩 횟수 +2,"Increases the maximum stacks of the ""Armor Break"" debuff on the target by 2.",このキャラクターの「破甲」階数の上限+2,该角色身上的“破甲”减益层数上限+2,
+Buff/B_Rust_10_Name, Text,,파괴,BREAK,しんどう,震荡,
+Buff/B_Rust_6_Description, Text,,공격 후 해제,Removed after attacking.,攻撃後に解除,攻击后解除,
+Buff/B_Rust_6_Name, Text,,방해,Interference,妨害される,被干扰,
+Buff/B_Rust_9_Description, Text,,"라운드 시작 시 획득하는 탄약 장전: 1
+적 사망 시 획득하는 탄약 장전: 1
+","Gain 1 ""Bullet Reload"" at the start of the turn.
+Gain 1 ""Bullet Reload"" when an enemy dies.","ターン開始時の弾丸装填：1
+敵が死亡した場合の弾丸装填：1
+","回合开始时获得子弹装填：1
+有敌人死亡时获得子弹装填：1
+",
+Buff/B_Rust_9_Name, Text,,탄약 개량,Ammo Enhancement,弾薬改良,弹药改良,
+Buff/B_Rust_BulletClip_Description, Text,,탄창에 탄약이 있을 경우 손의 스킬 중 아래에서부터 탄약을 장전할 수 있는 스킬에 강화탄 버프를 추가합니다. 탄약 종류별로 3개까지 저장할 수 있습니다.,"When there are bullets remaining in the clip, adds a special bullet buff to the lowest skill in your hand that doesn't already have this buff. Each bullet type can be stored up to 3 times.",この中に弾が残っている場合、自分の手札の一番下にこの弾がない技に特殊弾を付加する。各弾は最大3発貯蔵される。,当储弹中有剩余子弹时，会为自己手牌中最下方无此增益的技能附加特殊子弹增益。每种子弹最多储存3枚。,
+Buff/B_Rust_BulletClip_Name, Text,,탄창,Bullet Clip,貯弾,储弹,
+Buff/B_Rust_Bullet_1_Name, Text,,파갑,Armor Break,破甲,破甲,
+Buff/B_Rust_Bullet_4_Description, Text,,"사용자의 능력에 따라 약화, 방해, 고통 저항 수치를 감소시킵니다.","Reduces the target's resistance values (Weaken, CC, Pain Resistance) based on the user's corresponding abilities.",使用者の弱化、干渉、苦痛抵抗力の能力に応じて抵抗力に対応する数値を下げる。,根据使用者的弱化、干扰、痛苦抵抗力的能力降低对应抵抗力的数值。,
+Buff/B_Rust_Bullet_4_Name, Text,,감전,Electrified,ぎらぎら光る,眩光,
+Buff/B_Rust_Bullet_5_Name, Text,,녹슴,Rust,さび,锈蚀,
+Buff/B_Rust_R1_Description, Text,,"강화탄을 장전한 스킬을 사용할 경우, 러스트의 스킬을 우선으로 하여 덱에서 1장을 뽑습니다.","When using a skill that has been loaded with a bullet, prioritize drawing 1 of your own skills.",弾を装填した自分のスキルを出す場合は、自分のスキルを1つ優先的に抽出します。,打出已经装填子弹的自己的技能时，优先抽取1个自己的技能。,
+Buff/B_Rust_R1_Name, Text,,흑장미 작전계획,Black Rose Operation Plan,黒バラ作戦計画,黑玫瑰作战计划,
+Buff/B_Rust_R2_Description, Text,,재장전시 녹슨 탄을 장전할 수 있습니다.,"Adds ""Rusty Bullet"" to the bullet reload options.",弾丸装填オプションにさび弾を加えて装填する。,在子弹装填选项中加入锈蚀子弹装填。,
+Buff/B_Rust_R2_Name, Text,,녹슨 탄 장전,Rusty Bullet Reload,さび弾装填,锈蚀子弹装填,
+Character/Rust_PassiveDes, Text,,"탄약 장전과 탄약 소모를 손에 있는 러스트의 스킬에서 수행할 수 있습니다.
+전투 시작 시 무작위로 2회 탄약 장전: 1
+
+탄약 장전: 이 버프를 획득할 때, 강화탄 버프를 선택하여 자신의 손패 중 가장 아래에 이 버프가 없는 스킬에 강화탄 버프를 추가합니다.
+탄약 소모: 이번 라운드 안에 러스트의 과부하가 3에 도달하면, 손의 모든 강화탄이 장전된 스킬을 시전합니다. 사용시 특수 효과를 적용합니다.(탄약 버프를 소모합니다)","Can perform special ""Bullet Reload"" and ""Unload Ammo"" on exclusive skills in hand.
+At the start of battle, randomly reload bullets twice: 1
+
+[Bullet Reload]: When gaining this buff, choose a special bullet buff and add it to the lowest skill in your hand that doesn't already have this buff.
+[Unload Ammo]: When your Overload stacks reach 3 in this turn, remove all bullet reload buffs from skills in your hand, triggering their special effects upon removal. (Counts as consuming stacks)","手札の中の専属技能は特殊な「弾丸装填」と「弾薬除去」を行う。
+戦闘開始時に無作為に2回の弾丸装填を行う：1
+
+【弾丸装填】：この利得を得る時、特殊弾丸利得を選択し、自分の手札の中で最も下にこの利得がない技能に特殊弾丸利得を付加する。
+【弾薬除去】：このターン内に、自身の過負荷層数が3に達した場合、手札中のすべての技能弾丸装填利得を解除し、解除時にこの特殊効果をトリガする。（消費層数とみなす）","可以对手牌中的专属技能进行特殊【子弹装填】和【卸除弹药】。
+战斗开始时随机进行两次子弹装填：1
+
+【子弹装填】：获得此增益时，选择一种特殊子弹增益，为自己手牌中最下方无此增益的技能附加特殊子弹增益。
+【卸除弹药】：本回合内，自身过载层数达到3时，解除手牌中所有的技能子弹装填增益，解除时触发该特殊效果。（视为消耗层数）",
+Character/Rust_PassiveName, Text,,녹슨 음각탄,Rust-Engraved Bullet,さび銘弾,锈蚀铭刻弹,
+Character/Rust_SelectInfo, Text,,"방주 조사단 후방 장비부 책임자.
+
+컬러 화요일 사건 이후 전선에서 철수한 이후 조사단의 물질 운송과 보장에 주력해 왔다.그녀의 총은 이번 사건 이후 총관에서 검은 장미 한 송이가 자라나 총강 구조도 녹슬었다.
+
+그 후 새로운 총관 구조에 적응하기 위해 특수한 녹슨 총알을 자체 개발하여 사용하였다 (사실상, 이것들은 실제로 녹이 슨 것이 아니다. 단지 그녀가 대외적으로 공언한 것일 뿐이다).
+
+그녀의 특수 장전 탄환은 자신의 전속 기술에 추가 공격 효과를 부여할 수 있다.","Head of the Logistics and Equipment Department of the Ark Investigation Team.
+
+After withdrawing from the front lines following the ""Color Tuesday"" incident, she has been dedicated to material transportation and support for the investigation team. Her gun grew a black rose from its barrel after the incident, and its structure became ""rusted"".
+
+Later, to adapt to the new barrel structure, she developed special rusted bullets for use (though they aren't actually rusted—she just claims they are).
+
+Her special loaded bullets grant additional attack effects to her exclusive skills.","方舟調査団後方勤務装備部責任者。
+
+「カラー・チューズデー」事件後に前線から撤退して以来、調査団の物質輸送と保障に力を入れてきた。彼女の配銃は今回の事件後、銃管から黒いバラが成長し、銃器の構造も「錆化」した。
+
+その後、新しい銃管構造に適応するために、独自に特殊なさび弾を開発して使用した（実際には、これらは実際にさびたのではなく、彼女が公言しているだけ）。
+
+彼女の特殊装填弾は自分の専属スキルに追加の攻撃効果を与えることができる。とができる。","方舟调查团后勤装备部负责人。
+
+自从“彩色星期二”事件后从前线撤离下来，后一直致力于为调查团的物质运输与保障。她的配枪在这次事件后从枪管中生长出了一朵黑色玫瑰，枪膛结构也随之“锈蚀化”。
+
+后来为了适应新的枪管结构，自行研发了特殊的锈蚀子弹以供使用（事实上，这些并不是真正的生锈了，只是她对外宣称的而已）。
+
+她的特殊装填子弹可以给自己的专属技能赋予额外的攻击效果。",
+Character/Rust_Text_Battle_AllyND_0, Text,,엄호!,Cover me!,おおい隠す!,掩护！,
+Character/Rust_Text_Battle_AllyND_1, Text,,뒤를 조심해라！,Watch your six!,Watch your six！,Watch your six！,
+Character/Rust_Text_Battle_Cri_0, Text,,일격에 죽다.,One-shot kill.,一撃で命を落とす。,一击毙命。,
+Character/Rust_Text_Battle_Cri_1, Text,,목표를 제압하였습니다!,Target suppressed!,目標を制圧しました！,已压制目标！,
+Character/Rust_Text_Battle_Cri_2, Text,,장전 완료!,Reload complete!,装填完了！,装填完成！,
+Character/Rust_Text_Battle_Healed_0, Text,,…고맙군,…Thanks.,……感謝,……感谢,
+Character/Rust_Text_Battle_Idle_0, Text,,물자 분배 완료. 언제든 전투를 시작할 수 있다.,"Supplies checked, ready for combat at any time.",物資の点検が終わり、いつでも作戦の準備をする。,物资清点完毕，随时准备作战。,
+Character/Rust_Text_Battle_Idle_1, Text,,경계 유지.,Stay alert.,警戒を保つ。,保持警戒。,
+Character/Rust_Text_Battle_Kill_0, Text,,재장전！,Reloading!,Reloading！,Reloading！,
+Character/Rust_Text_Battle_Kill_1, Text,,목표물 처치 확인.,Target confirmed eliminated.,ターゲットは殺されたことを確認した。,目标确认已被击杀。,
+Character/Rust_Text_Battle_ND_0, Text,,…지원 필요,…Need backup.,……支援が必要,……需要支援,
+Character/Rust_Text_Battle_ND_1, Text,,…난 쓰러질 수 없어.,…I can't fall here.,…私は倒れることができません,……我不能倒下,
+Character/Rust_Text_Battle_Start_0, Text,,"목표물 발견, 전투 개시!","Target spotted, moving into combat position!",目標を発見して、戦闘位置に入ります！,发现目标，进入战斗位置！,
+Character/Rust_Text_Battle_Start_1, Text,,"적습, 시야를 확보하라!","Enemy attack, maintain clear sightlines!",敵が襲い、視界を良好に保つ！,敌袭，保持良好视野！,
+Character/Rust_Text_Field_GetItem_0, Text,,물자는 내가 점검하겠다.,Leave the supplies to me for inventory.,物資は私に任せて点検してください。,物资交给我来清点吧。,
+Character/Rust_Text_Field_Idle_0, Text,,물자는 충분하다. 전진하자.,"Supplies are plentiful, let's keep moving.",物資に余裕があるので、引き続き前進しましょう。,物资充裕，我们继续前进吧。,
+Character/Rust_Text_Field_Idle_1, Text,,내 수류탄으로도 길을 열 수 있지.,"If all else fails, my grenades can clear the way.",私の手雷も道を開くことができます。,实在不行我的手雷也可用做开路。,
+Character/Rust_Text_Field_Potion_P_0, Text,,…고맙군,"Thanks, want a sip?",感謝,谢谢，你也要来一口吗？,
+Character/Rust_Text_PharosLeader_0, Text,,그'검은 장미'를 내놓아라!,"Hand over that ""Black Rose""!",その「黒いバラ」を差し出せ！,交出那朵“黑玫瑰”！,
+Character/Rust_Text_PharosLeader_1, Text,,다시...,Again… tsk.,もう一度...,又是这样吗…啧,
+Character/Rust_Text_PharosLeader_2, Text,,내가 총알의 지배자다!,I am the master of bullets!,私は弾丸の支配者だ！,我即是子弹主宰！,
+Character/Rust_name, Text,,러스트,Rust,さび,锈,
+Item_Active/Item_Rust_ATR_Description, Text,,"를 사용하여 단일 장전과 단일 종류의 탄환 장전 모드를 전환합니다.
+단일 종류의 탄환 장전 모드가 시작되면 탄환 저장 상한선을 취소합니다.
+모드를 전환하면 탄환에 저장된 탄환이 손실됩니다.","Use to switch between single-shot reload and single-type ""Bullet Reload"" modes.
+When single-type bullet reload mode is active, the bullet clip limit is removed.
+Bullets in the clip are lost when switching modes.","使用して単発装填と単種類弾丸装填モードを切り替える。
+単種類弾装填モードが起動した場合、貯弾上限を廃止する。
+モードを切り替えると、貯弾中の弾が失われます。","使用来切换单发装填与单种类子弹装填模式。
+单种类子弹装填模式启动时，取消储弹上限。
+切换模式时，储弹中的子弹会丢失。",
+Item_Active/Item_Rust_ATR_name, Text,,ATR - 자동 장전 시스템,ATR - Automatic Loading System,ATR-自動装弾システム,ATR-自动装填系统,
+Item_Passive/Relic_Rust_1_Description, Text,,"치명타 확률 +18%
+치명타 피해+32%
+치명타 회복+12%
+
+<color=#919191>포인터는 Tues, 32° 181'28'의 회중시계에 머물렀다.</color>","Critical Rate +18%
+Critical Damage +32%
+Critical Healing +12%
+
+<color=#919191>The pointer stops at Tues, 32°181'28'' on the pocket watch.</color>","クリティカル率+18%
+クリティカルダメージ+32%
+致命的な一撃回復量+12%
+
+<color=#919191>ポインタはTues、32°181'28''の懐中時計に留まっています。</color>","暴击率+18%
+暴击伤害+32%
+暴击恢复+12%
+
+<color=#919191>指针停留在Tues，32°181'28''的怀表。</color>",
+Item_Passive/Relic_Rust_1_name, Text,,화요일의 회중시계,Tuesday's Pocket Watch,火曜日の懐中時計,星期二的怀表,
+SimpleCampDialogue/CampDial__Azar_Dialogues_0,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__Azar_Dialogues_1,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Azar_Dialogues_2,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Blue_Dialogues_0,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Blue_Dialogues_1,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__Blue_Dialogues_2,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__Blue_Dialogues_3,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Dusk_Dialogues_0,Text,,,[B]Your scythe is perfect for reshaping the terrain.,,[B]你的镰刀很适合拿来改造地形。,
+SimpleCampDialogue/CampDial__Dusk_Dialogues_1,Text,,,[A]That's not what my scythe is for!,,[A]我的镰刀不是这么用的！,
+SimpleCampDialogue/CampDial__Dusk_Dialogues_2,Text,,,[B]It can be used this way too.,,[B]拿来这么用也可以。,
+SimpleCampDialogue/CampDial__Dusk_Dialogues_3,Text,,,[A]Hmph…,,[A]哼…,
+SimpleCampDialogue/CampDial__Huz_Dialogues_0,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Huz_Dialogues_1,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__Huz_Dialogues_2,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Ilya_Dialogues_0,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Ilya_Dialogues_1,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__Ilya_Dialogues_2,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Ilya_Dialogues_3,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Joey_Dialogues_0,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__Joey_Dialogues_1,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Johan_Dialogues_0,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__Johan_Dialogues_1,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Johan_Dialogues_2,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__Leryn_Dialogues_0,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__Leryn_Dialogues_1,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Leryn_Dialogues_2,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__Leryn_Dialogues_3,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Lian_Dialogues_0,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__Lian_Dialogues_1,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Narhan_Dialogues_0,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__Narhan_Dialogues_1,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__Pheonix_Dialogues_0,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Pheonix_Dialogues_1,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__Priest_Dialogues_0,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__Priest_Dialogues_1,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__Priest_Dialogues_2,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Rainbow_Dialogues_0,Text,,,"[B]My bullets are specially modified,",,[B]我的子弹经过特殊改装，,
+SimpleCampDialogue/CampDial__Rainbow_Dialogues_1,Text,,,[B]Wind and rain have little effect on their trajectory.,,[B]大风大雨对子弹轨迹影响很小的。,
+SimpleCampDialogue/CampDial__Rainbow_Dialogues_2,Text,,,[B]No need to worry about me.,,[B]不必担心我的问题。,
+SimpleCampDialogue/CampDial__Rainbow_Dialogues_3,Text,,,[A]Wow… so advanced.,,[A]哇哦…好高级呀。,
+SimpleCampDialogue/CampDial__Red_Dialogues_0,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Red_Dialogues_1,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__SilverStein_Dialogues_0,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__SilverStein_Dialogues_1,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__SilverStein_Dialogues_2,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__SilverStein_Dialogues_3,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Sizz_Dialogues_0,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Sizz_Dialogues_1,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__Sizz_Dialogues_2,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Sizz_Dialogues_3,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Trisha_Dialogues_0,Text,,,[B],,[B],
+SimpleCampDialogue/CampDial__Trisha_Dialogues_1,Text,,,[A],,[A],
+SimpleCampDialogue/CampDial__Trisha_Dialogues_2,Text,,,[A],,[A],
+Skill/S_Rust_10_Description, Text,,"특수 탄환 장전에 따라 다른 효과를 얻는다.
+<color=#F62817>작열탄</color>：연소 상태이상 부여
+<color=#3090C7>빙결탄</color>：이 스킬이 신속 획득, 사용 후 과부하 +1
+<color=#FFDB58>섬광탄</color>：기절
+<color=#8D38C9>철갑탄</color>：철갑탄이 부여하는 디버프 최대 중첩 +2.
+<color=#C58917>녹슨 탄환</color>：덱에서 자신의 스킬을 우선적으로 뽑습니다.","Gains different effects based on the special bullet loaded:
+
+<color=#F62817>Flaming Bullet</color>: Applies Burn debuff.
+<color=#3090C7>Frost Bullet</color>: Grants Swiftness, Overload +1 after use.
+<color=#FFDB58>Electrified Bullet</color>: Applies Stun debuff.
+<color=#8D38C9>Armor-Piercing Bullet</color>: Increases the maximum stacks of Armor Break debuff by 2.
+<color=#C58917>Rusty Bullet</color>: Prioritizes drawing one of your own skills.","特殊な弾丸装填によって異なる効果が得られる。
+<color=#F62817>火炎弾</color>：燃焼を与える
+<color=#3090C7>凍結弾丸</color>：このスキルは迅速に取得され、解放後に追加の+1をオーバーチャージが
+<color=#FFDB58>光弾丸</color>：めまいを与える
+<color=#8D38C9>破甲弾</color>：破甲弾が与える減益層数上限＋2。
+<color=#C58917>さび弾</color>：自分のスキルを優先的に抽出する。","根据不同的特殊子弹装填获得不同的效果。
+<color=#F62817>火焰子弹</color>：给予燃烧减益
+<color=#3090C7>冰霜子弹</color>：该技能获得迅速，释放后过载额外+1
+<color=#FFDB58>眩光子弹</color>：给予眩晕减益
+<color=#8D38C9>破甲子弹</color>：破甲子弹给予的减益层数上限+2。
+<color=#C58917>锈蚀子弹</color>：优先抽取自己的一个技能。",
+Skill/S_Rust_10_Name, Text,,Mk2 수류탄,Mk2 Grenade,Mk2型手雷,Mk2型手雷,
+Skill/S_Rust_1_Description, Text,,"대상과 도발 여부가 같은 적을 동시에 공격합니다.
+탄약 장전: 2
+탄약 소모: 랜덤으로 자신의 스킬을 1개 생성하고, 신속과 제외를 부여합니다.","Attacks all enemies with the same Taunt status as the target.
+Bullet Reload: 2
+Unload Ammo: Randomly generates 1 of your own skills, granting Swiftness and Exclude.","同時に標的の風刺状態と同じ敵を攻撃する。
+弾丸装填：2
+弾薬除去：ランダムに自分のスキルを1つ生成し、迅速と追放を付属する","同时攻击与目标嘲讽状态相同的敌人。
+子弹装填：2
+卸除弹药：随机生成1个自己的技能，附带迅速和放逐",
+Skill/S_Rust_1_Name, Text,,교차 제압 사격,Cross Suppression Fire,クロスプレス射撃,交叉压制射击,
+Skill/S_Rust_2_Description, Text,,"이 스킬에 이미 장전된 탄약을 제외한 모든 탄약을 소모하고, 소모한 탄약마다 15%의 피해를 증가시킵니다. (+&a)
+손에 있는 스킬이 탄약을 소모할 때 마다 10%의 피해를 증가시킵니다.(+&b)","Consumes all bullets except those already loaded in this skill. For each stack consumed, damage increases by 15% (+&a).
+For each ammo stack removed from skills in hand, this skill's damage increases by an additional 10% (+&b).","このスキルが装填されている弾を除いて、すべての弾を消費し、1階を消費するごとにダメージが15%増加(+&a)
+手札の中の技能は1階の弾薬を取り除くごとに、この技能の傷害はさらに10%増加する（+&b）","除此技能已经装填的子弹之外，消耗所有的子弹，每消耗1层，造成的伤害增加15%（+&a）
+手牌中的技能每卸除1层弹药，此技能伤害额外增加10%（+&b）",
+Skill/S_Rust_2_Name, Text,,네이팜탄,Napalm Grenade,凝固ガソリン弾,凝固汽油弹,
+Skill/S_Rust_3_Description, Text,,"모든 적의 도발 상태를 해제합니다.
+탄약 장전: 3
+탄약 소모: 이 스킬을 버리고 동시에 무작위로 적 하나를 기절시킵니다.(<sprite=2>90%)","Removes Taunt from all enemies.
+Bullet Reload: 3
+Unload Ammo: Discards this skill and stuns a random enemy (<sprite=2>90%).","すべての敵の風刺状態を解除する
+弾丸装填：3
+弾薬除去：このスキルを廃棄し、ランダムに敵をめまいさせる（<sprite=2>90%）","解除所有敌人的嘲讽状态
+子弹装填：3
+卸除弹药:丢弃此技能，随机眩晕一个敌人(<sprite=2>90%)",
+Skill/S_Rust_3_Name, Text,,MK3 빙결류탄,Mk3 Freeze Grenade,MK3凍結型手雷,MK3冰冻型手雷,
+Skill/S_Rust_4_0_Description, Text,,"대상이 행동 카운트를 보유하고 있으면, 비용 0인 아음속탄을 생성하고 1턴 후 제외합니다.
+1번 더 생성할 수 있습니다.","If the target has an action countdown, generates a 0-cost ""Subsonic Bullet"" with Discard after 1 turn.
+Can generate 1 more time.","目標に行動カウントダウンが存在すると、0費の亜音速弾が生成され、1ラウンド後に放棄される。
+1回生成することもできます。","若目标存在行动倒计时，则生成一张0费的亚音速弹，附带1回合后弃牌。
+还可生成1次。",
+Skill/S_Rust_4_0_Name, Text,,아음속탄,Subsonic Bullet,亜音速弾,亚音速弹,
+Skill/S_Rust_4_1_Description, Text,,"대상이 행동 카운트를 보유하고 있으면, 비용 0인 아음속탄을 생성하고 1턴 후 제외합니다.
+0번 더 생성할 수 있습니다.","If the target has an action countdown, generates a 0-cost ""Subsonic Bullet"" with Discard after 1 turn.
+Can generate 0 more times.","目標に行動カウントダウンが存在すると、0費の亜音速弾が生成され、1ラウンド後に放棄される。
+0回生成することもできます。","若目标存在行动倒计时，则生成一张0费的亚音速弹，附带1回合后弃牌。
+还可生成0次。",
+Skill/S_Rust_4_1_Name, Text,,아음속탄,Subsonic Bullet,亜音速弾,亚音速弹,
+Skill/S_Rust_4_Description, Text,,"대상이 행동 카운트를 보유하고 있으면, 비용 0인 아음속탄을 생성하고 1턴 후 제외합니다.
+2번 더 생성할 수 있습니다.","If the target has an action countdown, generates a 0-cost ""Subsonic Bullet"" with Discard after 1 turn.
+Can generate 2 more times.","目標に行動カウントダウンが存在すると、0費の亜音速弾が生成され、1ラウンド後に放棄される。
+2回生成することもできます。","若目标存在行动倒计时，则生成一张0费的亚音速弹，附带1回合后弃牌。
+还可生成2次。",
+Skill/S_Rust_4_Name, Text,,아음속탄,Subsonic Bullet,亜音速弾,亚音速弹,
+Skill/S_Rust_5_Description, Text,,"대상이 행동 카운트를 보유하고 있으면, 동일한 유형의 탄환을 1개 획득합니다.
+탄약 장전: 1
+탄약 제거: 이 스킬의 치명타 확률 +10%, 추적, 치명, 도발 무시를 획득합니다.","If the target has an action countdown, gain 1 stack of the same bullet type and Bullet Reload: 1.
+Unload Ammo: This skill gains +10% Critical Rate, Tracking, Critical, and Ignore Taunt.","ターゲットに行動カウントダウンが存在する場合、リリース時に1層の同型弾を獲得し、弾丸装填：1
+弾薬除去：このスキルの致命的な一撃率は+10%で、同時に追跡を得て、致命的で、皮肉を無視します。","若目标存在行动倒计时，释放时获得1层同类型子弹并子弹装填：1
+卸除弹药：此技能暴击率+10%并获得追踪，致命，无视嘲讽。",
+Skill/S_Rust_5_Name, Text,,약점 사격,Weakness Shot,弱点射撃,弱点射击,
+Skill/S_Rust_6_Description, Text,,"탄환 장전: 2
+탄약 제거: 이 스킬을 카운트 1로 사용하고 모든 적을 동시에 공격합니다.","Bullet Reload: 2
+Unload Ammo: Cast this skill with a countdown of 1, attacking all enemies simultaneously.","弾丸装填：2
+弾薬除去：このスキルをカウントダウン1としてリリースし、同時にすべての敵を攻撃します。","子弹装填：2
+卸除弹药：将这个技能以倒计时1的形式释放，并同时攻击所有敌人。",
+Skill/S_Rust_6_Name, Text,,미끼탄,Decoy Bullet,えさ弾,诱饵弹,
+Skill/S_Rust_7_Description, Text,,"이 스킬은 특수탄 장전 시 30%의 추가 피해를 입힙니다.
+대상이 행동 카운트를 보유하고 있으면 30%의 추가 피해를 입힙니다.
+탄약 제거: 탄약 장전: 2.","If this skill has a special bullet loaded, deals an additional 30% damage.
+If the target has an action countdown, deals an additional 30% damage.
+Unload Ammo: Bullet Reload: 2.","このスキルには特殊な弾丸が装填されている場合、追加で30%のダメージが与えられます。
+目標に行動カウントダウンがある場合、追加で30%のダメージを与えます。
+弾薬除去：弾丸装填：2。","此技能有特殊子弹装填时，额外造成30%的伤害。
+目标有行动倒计时时，额外造成30%的伤害。
+卸除弹药：子弹装填：2。",
+Skill/S_Rust_7_Name, Text,,헤드샷,Headshot,ばくはつしゃげき,爆头射击,
+Skill/S_Rust_8_Description, Text,,"특수탄을 장전했을 경우 신속을 획득합니다.
+탄약 장전: 1
+탄약 제거: 이 스킬의 비용이 0이 됩니다.","If this skill has a special bullet loaded, it gains Swiftness.
+Bullet Reload: 1
+Unload Ammo: This skill's cost becomes 0.","このスキルに特殊な弾丸装填があれば、このスキルは迅速に取得されます。
+弾丸装填：1
+弾薬除去：このスキルの消費は0になる.","若此技能有特殊子弹装填，此技能获得迅速。
+子弹装填：1
+卸除弹药：该技能消耗变为0.",
+Skill/S_Rust_8_Name, Text,,지원사격,Support Fire,支援射撃,支援射击,
+Skill/S_Rust_9_Description, Text,,탄환 장전: 1,Bullet Reload: 1,弾丸装填：1,子弹装填：1,
+Skill/S_Rust_9_Name, Text,,탄약 개량,Ammo Enhancement,弾薬改良,弹药改良,
+Skill/S_Rust_ATR_Description,Text,,,,,,
+Skill/S_Rust_ATR_Name, Text,,ATR - 자동 장전 시스템,ATR - Automatic Loading System,ATR-自動装弾システム,ATR-自动装填系统,
+Skill/S_Rust_Bullet_0_Description, Text,,자동 장전 모드 중지,Stops automatic reload mode.,自動装填停止モード,停止自动装弹模式,
+Skill/S_Rust_Bullet_0_Name, Text,,ATR 종료,ATR Off,ATRオフ,ATR关闭,
+Skill/S_Rust_Bullet_1_Description, Text,,이 스킬은 적에게 파갑 디버프를 부여합니다.,"This skill applies the ""Armor Break"" debuff to enemies.",このスキルは敵に破甲弱体化を与える。,该技能将给予敌人破甲弱化减益。,
+Skill/S_Rust_Bullet_1_Name, Text,,<color=#8D38C9>철갑탄</color>,<color=#8D38C9>Armor-Piercing Bullet</color>,<color=#8D38C9>破甲弾</color>,<color=#8D38C9>破甲子弹</color>,
+Skill/S_Rust_Bullet_2_Description, Text,,"방어력을 무시합니다.
+대상에게 피해량 -15%를 적용하고, 동시에 목표의 좌우 양쪽 적에게 25%의 피해를 줍니다.","Ignores defense.
+Deals 15% less damage to the target but deals 25% damage to enemies adjacent to the target.","无防御を無視する
+ダメージ－15%、同時にターゲット左右の敵に25%のダメージ値を与える","无视防御
+伤害﹣15%，同时对目标左右两边敌人造成25％的伤害值",
+Skill/S_Rust_Bullet_2_Name, Text,,<color=#F62817>작열탄</color>,<color=#F62817>Flaming Bullet</color>,<color=#F62817>火炎弾</color>,<color=#F62817>火焰子弹</color>,
+Skill/S_Rust_Bullet_3_Description, Text,,"치명, 치명타 확률 +30%
+적중시 과부하 +2","Gains Critical, Critical Rate +30%.
+On hit, Overload +2.","致命的、致命的な打率+30%
+ヒット時オーバーチャージが+2","致命，暴击率+30%
+命中时过载+2",
+Skill/S_Rust_Bullet_3_Name, Text,,<color=#3090C7>빙결탄</color>,<color=#3090C7>Frost Bullet</color>,<color=#3090C7>凍結弾丸</color>,<color=#3090C7>冰霜子弹</color>,
+Skill/S_Rust_Bullet_4_Description, Text,,"사용시 과부하 -1
+대상에게 감전 디버프를 부여합니다.","On use, Overload -1.
+This skill applies the ""Electrified"" debuff.","リリース時オーバーチャージが-1
+このスキルはターゲットdebuffに与えられます。","释放时过载-1
+该技能将给予眩光弱化减益。",
+Skill/S_Rust_Bullet_4_Name, Text,,<color=#FFDB58>섬광탄</color>,<color=#FFDB58>Electrified Bullet</color>,<color=#FFDB58>光弾丸</color>,<color=#FFDB58>眩光子弹</color>,
+Skill/S_Rust_Bullet_5_Description, Text,,대상에게 녹 디버프를 부여합니다.,"This skill applies the ""Rust"" debuff to enemies.",このスキルは敵に錆debuffを与える。,该技能将给予敌人锈蚀弱化减益。,
+Skill/S_Rust_Bullet_5_Name, Text,,<color=#C58917>녹슨 탄</color>,<color=#C58917>Rusty Bullet</color>,<color=#C58917>さび弾</color>,<color=#C58917>锈蚀子弹</color>,
+Skill/S_Rust_LucyD_Description, Text,,"스킬을 2장 뽑습니다.
+탄약 장전: 3","Draw 2 skills.
+Bullet Reload: 3","2つのスキルを抽出
+弾丸装填：3","抽取两个技能
+子弹装填：3",
+Skill/S_Rust_LucyD_Name, Text,,긴급 장전,Emergency Reload,弾丸緊急装填,子弹紧急装填,
+Skill/S_Rust_R1_Name, Text,,<color=#800517>흑장미</color> 작전계획,<color=#800517>Black Rose</color> Operation Plan,<color=#800517>黒バラ</color>作戦計画,<color=#800517>黑玫瑰</color>作战计划,
+Skill/S_Rust_R2_Description, Text,,"전투가 시작될 때 덱의 맨 위에 놓습니다.
+즉시 [녹슨 탄환] 한 발을 장전합니다.","At the start of combat, place this at the top of the deck.
+Immediately load one ""Rusty Bullet"".","戦闘開始時は牌庫の一番上に置く。
+直ちに「さび弾」を装填する。","战斗开始时放在牌库最上方。
+立即装填一枚锈蚀子弹。",
+Skill/S_Rust_R2_Name, Text,,<color=#C58917>녹슨 탄환</color> 장전,<color=#C58917>Rusty</color> Bullet Reload,<color=#C58917>さび弾</color>装填,<color=#C58917>锈蚀</color>子弹装填,
+SkillExtended/Ex_Rust_Bullet_1_Des, Text,,이 스킬은 적에게 파갑 디버프를 부여합니다.,"This skill applies an ""Armor Break"" debuff to the enemy.",このスキルは敵に破甲弱体化を与える。,该技能将给予敌人破甲弱化减益。,
+SkillExtended/Ex_Rust_Bullet_1_Name, Text,,<color=#8D38C9>철갑탄</color>,<color=#8D38C9>Armor-Piercing Bullet</color>,<color=#8D38C9>破甲弾</color>,<color=#8D38C9>破甲子弹</color>,
+SkillExtended/Ex_Rust_Bullet_2_Des, Text,,"방어력을 무시합니다.
+대상에게 피해량 -15%를 적용하고, 동시에 목표의 좌우 양쪽 적에게 25%의 피해를 줍니다.","Ignores defense.
+Deals 15% less damage to the target, but deals 25% damage to enemies on the left and right of the target.","无防御を無視する
+ダメージ－15%、同時にターゲット左右の敵に25%のダメージ値を与える","无视防御
+伤害﹣15%，同时对目标左右两边敌人造成25％的伤害值",
+SkillExtended/Ex_Rust_Bullet_2_Name, Text,,<color=#F62817>화염탄환</color>,<color=#F62817>Flaming Bullet</color>,<color=#F62817>火炎弾</color>,<color=#F62817>火焰子弹</color>,
+SkillExtended/Ex_Rust_Bullet_3_Des, Text,,"치명, 치명타 확률 +30%
+적중시 과부하 +2","Gains Critical, Critical Rate +30%.
+On hit, Overload +2.","致命的、致命的な打率+30%
+ヒット時オーバーチャージが+2","致命，暴击率+30%
+命中时过载+2",
+SkillExtended/Ex_Rust_Bullet_3_Name, Text,,<color=#3090C7>빙결탄</color>,<color=#3090C7>Frost Bullet</color>,<color=#3090C7>凍結弾丸</color>,<color=#3090C7>冰霜子弹</color>,
+SkillExtended/Ex_Rust_Bullet_4_Des, Text,,"사용시 과부하 -1
+대상에게 감전 디버프를 부여합니다.","On use, Overload -1.
+This skill applies a ""Electrified"" debuff to the target.","リリース時オーバーチャージが-1
+このスキルはターゲットdebuffに与えられます。","释放时过载-1
+该技能将给予眩光弱化减益。",
+SkillExtended/Ex_Rust_Bullet_4_Name, Text,,<color=#FFDB58>섬광탄</color>,<color=#FFDB58>Electrified bullet</color>,<color=#FFDB58>光弾丸</color>,<color=#FFDB58>眩光子弹</color>,
+SkillExtended/Ex_Rust_Bullet_5_Des, Text,,대상에게 녹 디버프를 부여합니다.,"This skill applies a ""Rust"" debuff to the enemy.",このスキルは敵に錆debuffを与える。,该技能将给予敌人锈蚀弱化减益。,
+SkillExtended/Ex_Rust_Bullet_5_Name, Text,,<color=#C58917>녹슨 탄</color>,<color=#C58917>Rusty Bullet</color>,<color=#C58917>さび弾</color>,<color=#C58917>锈蚀子弹</color>,
+SkillExtended/Ex_Rust_Enforce_1_EnforceString, Text,,비용 1~4의 공격 스킬,Attack skills with a cost of 1 to 4.,費用が1～4の攻撃スキル,费用为1至4的攻击技能,
+SkillExtended/Ex_Rust_Enforce_1_Name, Text,,강화탄을 장전합니다. 탄약 소모 : 이 스킬을 즉시 시전합니다.,"Can be loaded with ammunition.
+Unload Ammo: Cast this skill.",弾薬を装填することができる。弾薬除去：このスキルを解放する,可以被装填弹药。卸除弹药：释放此技能,
+SkillExtended/Ex_Rust_Enforce_2_EnforceString, Text,,비용 1+,Cost 1 or higher.,Cost 1+,费用1以上,
+SkillExtended/Ex_Rust_Enforce_2_Name, Text,,탄약 장전:2,Bullet Reload: 2,弾丸装填:2,子弹装填：2,
+SkillKeyword/KeyWord_Rust_Add_Desc, Text,,강화탄을 선택하여 탄창에 장전합니다. 탄창의 탄약은 손에 있는 강화탄 버프가 없는 가장 아래의 스킬에 강화탄 버프를 추가합니다.,Select a special bullet to add to the magazine. The bullets in the magazine will apply a special bullet buff to the bottommost skill in your hand that does not already have this buff.,特殊弾を選択して貯弾に加えると、【貯弾】の弾は自分の手札の一番下にこのゲインがない技能に特殊弾ゲインを付加する。,选择一种特殊子弹加入储弹中，储弹中的子弹会为自己手牌中最下方无此增益的技能附加特殊子弹增益。,
+SkillKeyword/KeyWord_Rust_Add_Name, Text,,탄약 장전,Bullet Reload,弾丸装填,子弹装填,
+SkillKeyword/KeyWord_Rust_Del_Desc, Text,,강화탄 버프를 가진 스킬을 사용할 때 발동합니다.,Triggers an effect when the special bullet held by this skill is removed.,このスキルが持つ特殊弾が除去されたときにトリガー効果が発生します。,该技能持有的特殊子弹被移除时触发效果。,
+SkillKeyword/KeyWord_Rust_Del_Name, Text,,탄약 소모,Unload Ammo,弾薬除去,卸除弹药,

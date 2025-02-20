@@ -1,0 +1,12 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Skill/S_Toujyou_FullEnhance_State_1,Text,,,"<color=#F12B00>Blazing Field:</color> Amplifies all allies' Field effects: +0.5 Attack/Healing Power, +4% Critical Rate/Damage/Healing.",<color=#F12B00>炎のフィールド</color>：全ての味方のフィールドが増幅されます：攻撃力と治癒力が0.5アップし、クリティカル率、クリティカルダメージ及びクリティカルヒーリングが４％アップされます,<color=#F12B00>炎の场：</color>：所有成员的场地获得增幅效果：攻击力、治疗力+0.5，暴击率、暴击伤害、暴击治疗４％,
+Skill/S_Toujyou_FullEnhance_State_2,Text,,,"<color=#6924EB>Abyssal Field:</color> Targets attack skill in hand. Grants 2 <color=#1284F6>""Combo: Major""</color> stacks, Taunt Ignore, then draw 1 card.",<color=#6924EB>闇のフィールド：</color>手札の攻撃スキルを対象にする。選ばれたスキルに「連撃・大」を２回付与し、挑発無視を与え、さらにカード一枚ドロー,<color=#6924EB>闇の场：</color>：指向手中攻击技能，添加2次「連撃・大」，获得「无视嘲讽」，抽一张牌,
+Skill/S_Toujyou_FullEnhance_State_3,Text,,,<color=#EDF40A>Luminous Field:</color> Heals single ally for 120% Healing Power (&a). Choose to switch Fields – retaining Luminous Field grants random potion.,<color=#EDF40A>光のフィールド：</color>味方の1人を対象にする。治療力に基づいてその対象を癒します(120%，&a)。その後、フィールドのスイッチ選択を行い、光のフィールドをたもつ場合、ランダム薬水を一つ与えられます,<color=#EDF40A>光の场：</color>治疗单体友军120%（&a），之后选择切换场地，保持光の场不变时获得一瓶药水,
+Skill/S_Toujyou_RenGeki_1_state,Text,,,"<color=#1284F6>""Combo: Major""</color>: Exclusive to attack skills (Max 6 stacks). After casting, executes follow-up attacks per stack at 40% potency. These count as caster's skill.",「連撃・大」：攻撃スキルだけ、最大６回まで付与できます。このスキルのリリース後、連撃回数と攻撃力（４０％）に基づいて、目標を追撃します。この追撃は、攻撃者がスキルをリリースしたものとして扱います,"「連撃・大」：仅能附加给攻击技能，在释放该攻击技能后，按照增益层数以40%倍率对敌方进行追击，这些追击视为释放了攻击者的技能。"",",
+Skill/S_Toujyou_State_0,Text,,,<color=#919191>This skill's effects change based on <color=#1F45FC>Field</color>... (Hold Shift for details)</color>,<color=#919191>このスキルの効果は<color=#1F45FC>フィールド</color>に応じて変化する…（shiftを押してそれそれの効果をご覧ください）</color>,此技能的效果因场地的不同而有所不同，按下shift来查看详细说明,
+System/Toujyou_FieldChange,Text,,,Please select a Field,フィールドを選でください,请选择场地,
+System/Toujyou_Passive_icon1,Text,,,Skills used:,ただいまリリースしたスキルの数量：,当前已经释放的技能数：,
+System/Toujyou_Passive_icon2,Text,,,"Remaining ""Awakening"" charges:",残った貰える「覚醒」の数量：,剩余触发的觉醒次数：,
+System/Toujyou_R3_msg1,Text,,,Active,有効,生效,
+System/Toujyou_R3_msg2,Text,,,Inactive,無効,无效,
+

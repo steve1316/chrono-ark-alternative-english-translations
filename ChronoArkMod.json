@@ -1,0 +1,16 @@
+{
+    "id": "Alternative_English_Translations",
+    "Uploader": "Dante",
+    "Visibility": "Private",
+    "Title": "Alternative English Translations",
+    "Author": "Dante",
+    "Version": "1.0.3",
+    "Description": "WARNING: Enabling this mod does nothing! You need to copy the localization folders to their respective mod folders manually. Refer to the Steam mod description for instructions. Chrono Ark does not have an automatic way to do this so we are forced to do it this way.\n\nIn the same vein as Testament1234's collection pack translating mods to Japanese, this collection pack will do the same but for English. For the mods that already have English translations, this provides an alternative translation along with grammar and spelling fixes.\n\nNote: all translations are done using DeepSeek R1.",
+    "TagList": [
+        "Localization",
+        "English"
+    ],
+    "Cover": "Alternative_English_TranslationsCover.png",
+    "WorkShopId": "3427597117",
+    "OnlyUploadFiles": true
+}

@@ -1,0 +1,178 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Aurora_P_Description,Text,,"오로라가 적을 쓰러뜨렸을 때,
+덱 또는 버려진 덱에서 「.hana」를 가진 스킬을 1장 선택하여 
+그 스킬의  <color=#cd85da>활성 모듈</color>을 갱신 후, 뽑습니다.
+그 후 이 버프를 제거합니다.","When AURORA defeats an enemy, select a skill with "".hana"" from the deck or discard pile, refresh its <color=#cd85da>Active Module</color>, and draw it. Then, remove this buff.",自身の攻撃で敵を倒したとき、デッキまたは捨て札から「.hana」を持つスキルを1枚選び、その<color=#cd85da>アクティブモジュール</color>を更新して引く。その後これを除去する。,由自身击杀敌人时，选择抽牌堆或弃牌堆中的一张.hana技能，刷新其<color=#cd85da>主动模块</color>的效果并抽取。然后解除。,由自身擊殺敵人時，選擇抽牌堆或棄牌堆中的一張.hana技能，刷新其<color=#cd85da>主動模塊</color>的效果並抽取。然後解除。
+Buff/B_Aurora_P_Name,Text,,흩날리는 벚꽃,Scattered Cherry Blossoms,舞い散る桜,樱花散漫,樱花散漫
+Buff/B_Aurora_R2_Description,Text,,"패의 모든 스킬에 '신속'을 부여합니다.(「정적」 제외)
+패의 스킬 사용 시, 1중첩 소모됩니다.","Grants ""Swiftness"" to all skills in hand (excluding ""Tranquility"").
+Consumes 1 stack when using a skill from hand.","手札のスキルは全て迅速を得る（「静寂」を除く）。
+手札からスキルを使用する度にストックを1消費する。","手中所有技能获得迅速（除了“宁静”）。
+使用手中的技能时消耗1层。","手中所有技能獲得迅速（除了「寧靜」）。
+使用手中的技能時消耗1層。"
+Buff/B_Aurora_R2_Name,Text,,정적,Tranquility,静寂,宁静点数,寧靜點數
+Character/Aurora_PassiveDes,Text,,"탐험 시작 시, 기본스킬이 기본「.hana」스킬로 변경됩니다.
+기본「.hana」스킬 : 태도.hana, 장궁.hana, 쿠나이.hana
+자신의 공격으로 적을 쓰러뜨리면, 덱이나 버려진 덱에 있는 「.hana」스킬을 1개 선택하여<color=#cd85da>활성 모듈</color>을 갱신하고 뽑습니다.(1턴당 1회)
+
+<color=#cd85da>활성 모듈</color>: 오로라의 스킬에는 클릭 시 발동되는 '활성 모듈'을 가지고 있습니다.
+클릭하여 '활성 모듈'을 발동하면, 그 '활성 모듈'은 그 전투 중 사용할 수 없고(만료됨),
+1턴 후 버려집니다.
+'활성 모듈'을 가진 스킬에 '신속'이 없을 경우, 클릭하여 '활성 모듈'을 발동하면,
+적 전체의 행동카운트가 -1 되고, 오로라의 과부하가 1 증가합니다.","At the start of the adventure, the basic skills are replaced with basic "".hana"" skills: Sword.hana, Longbow.hana, Kunai.hana.
+
+When you defeat an enemy with your attack, select one "".hana"" skill from the deck or discard pile to refresh its <color=#cd85da>Active Module</color> and draw it (once per turn).
+
+<color=#cd85da>Active Module</color>: AURORA's skills have an ""Active Module"" that triggers when clicked. Once triggered, the ""Active Module"" cannot be used again in the same battle (it expires) and is discarded after 1 turn. If a skill with an ""Active Module"" does not have ""Swiftness"", clicking to use the ""Active Module"" reduces all enemies' action count by 1 and Aurora's overload increases by 1.","ゲーム開始時に所持する基本スキルは、基本「.hana」スキルに置き換えられる：「太刀.hana」、「長弓.hana」、「苦無.hana」。
+自身の攻撃で敵を倒すと、デッキか捨て札にある「.hana」を持つスキルを1つ選び、そのアクティブモジュールを更新して引く (1ターンに1回まで）
+<color=#cd85da>アクティブモジュール</color>：オーロラのスキルには、クリックすることで発動するアクティブモジュールを持つものがある。 クリックしてアクティブモジュールを発動すると、そのアクティブモジュールはその戦闘中無効になる（クリックして再発動することはできない）。 アクティブモジュールを持つスキルが迅速を持たない場合、クリックしてアクティブモジュールを発動すると、敵全体の行動カウントが-1される。","游戏开始时的基础技能被替换成基础.hana技能：太刀.hana，长弓.hana，苦无.hana。
+每当由自身击杀敌人时，选择抽牌堆或弃牌堆中的一张.hana技能，刷新其主动模块的效果并抽取。（每回合限触发1次）
+主动模块：奥萝拉的部分技能带有可以通过点击触发的主动模块。点击使用主动模块会使主动模块在本场战斗中失效（不可再通过点击使用），且使其所在技能获得1回合后弃牌。除非该主动模块的所属技能拥有迅速，否则点击使用主动模块会使所有敌人的行动倒计时-1，并使自身过载+1。","遊戲開始時的基礎技能被替換成基礎.hana技能：太刀.hana，長弓.hana，苦無.hana。
+每當由自身擊殺敵人時，選擇抽牌堆或棄牌堆中的一張.hana技能，刷新其主動模塊的效果並抽取。（每回合限觸發1次）
+主動模塊：奧蘿拉的部分技能帶有可以通過點擊觸發的主動模塊。點擊使用主動模塊會使主動模塊在本場戰鬥中失效（不可再通過點擊使用），且使其所在技能獲得1回合後棄牌。除非該主動模塊的所屬技能擁有迅速，否則點擊使用主動模塊會使所有敵人的行動倒計時-1，並使自身過載+1。"
+Character/Aurora_PassiveName,Text,,흩날리는 벚꽃,Scattered Cherry Blossoms,舞い散る桜,樱花散漫,樱花散漫
+Character/Aurora_SelectInfo,Text,,"네스코라 오너의 딸인 그녀는 가업을 물려받을 '요조숙녀'로 성장했습니다. 
+그녀는 다른 회사 이사들 앞에서 착하고 복종적으로 행동할 것을 요구 당했으며, 
+이는 그녀의 자연스러운 아름다움과 상승작용을 일으켜 그녀가 원하는 것을 쉽게 얻을 수 있게 해주었습니다. 
+그러나 그녀는 이를 거부하고 좀 더 살아있음을 느끼길 갈망했고, 우연히 배운 프로그래밍을 통해 실력 기반의 해킹 세계에 매력을 느꼈습니다.
+이제는 퀸이 이끄는 퀀텀에 합류하여 뒤틀린 땅의 흐트러진 데이터의 흐름을 조사하는 그녀를 따르고 있습니다.","The daughter of the owner of Nescora, she was raised as a ""proper lady"" to inherit the family business.
+She was expected to behave obediently and submissively in front of other company directors, which, combined with her natural beauty, allowed her to easily get what she wanted.
+However, she rejected this and longed for something more real, learning programming by chance and becoming fascinated by the skill-based hacking world.
+She has now joined Quantum, led by QUEEN, to investigate the chaotic data streams of the Twisted Lands.","ネスコラのオーナーの娘である彼女は、家業を継ぐのに「ふさわしい女性」として育てられた。
+彼女は他の会社取締役の前ではおとなしく従順に見えることが求められ、それが生来な美しさと相まって、彼女が望むものを簡単に手に入れることができた。 
+しかし、彼女はこれを拒否し、より現実的なものを渇望し、プログラミングの方法を学び、実績に基づくハッキングの世界に引き込まれた。
+現在はクイーン率いるクオンタムに加わり、歪みの地で乱れたデータの流れを調査する彼女に従う。","奈斯柯拉的拥有者的女儿，她被培养成一个“正确的女子”以继承家业。她被要求在其他公司董事面前表现得乖巧顺从，这与她的天生红颜相配合，让她能轻易得到她想要的东西。
+但她拒绝这样，并渴求一些更真实的东西，她学会了如何编程，并被基于成绩的黑客世界所吸引。
+现加入女王带领的量子，跟随女王调查扭曲之地的紊乱数据流。","奈斯柯拉的擁有者的女兒，她被培養成一個「正確的女子」以繼承家業。她被要求在其他公司董事面前表現得乖巧順從，這與她的天生紅顏相配合，讓她能輕易得到她想要的東西。
+但她拒絕這樣，並渴求一些更真實的東西，她學會了如何編程，並被基於成績的黑客世界所吸引。
+現加入女王帶領的量子，跟隨女王調查扭曲之地的紊亂數據流。"
+Character/Aurora_name,Text,,오로라,AURORA,オーロラ ,奥萝拉,奧蘿拉
+Skill/S_Aurora_1_Description,Text,,"<b>기본「.hana」스킬</b>을 무작위로 1장 생성합니다. 
+<color=#cd85da>활성 모듈 : 덱에서 <b>기본「.hana」스킬</b>을 우선적으로 1장 뽑습니다.</color>","Randomly generate 1 <b>basic "".hana"" skill</b>. <color=#cd85da>Active Module: Prioritize drawing 1 basic "".hana"" skill from the deck.</color>","<b>基本「.hana」スキル</b>を1枚生成する。
+<color=#cd85da>アクティブモジュール：デッキから基本「.hana」スキルを優先して1枚引く。","随机生成一张<b>基础.hana技能</b>技能。
+<color=#cd85da>主动模块：从牌库中优先抽取一张<b>基础.hana技能</b>。</color>","隨機生成一張<b>基礎.hana技能</b>技能。
+<color=#cd85da>主動模塊：從牌庫中優先抽取一張<b>基礎.hana技能</b>。</color>"
+Skill/S_Aurora_1_Name,Text,,등불.hana,Lantern.hana,提灯.hana,提灯.hana,提燈.hana
+Skill/S_Aurora_2_Description,Text,,패에 있는 모든 <color=#cd85da>활성 모듈</color>을 발동합니다.(만료됨 무시),Activate all <color=#cd85da>Active Modules</color> in hand (ignoring expiration).,手札のスキルが持つすべての<color=#cd85da>アクティブモジュール</color>効果を発動する。（使用状況は無視する）,触发手中所有的<color=#cd85da>主动模块</color>（无视失效情况）,觸發手中所有的<color=#cd85da>主動模塊</color>（無視失效情況）
+Skill/S_Aurora_2_Name,Text,,개화.hana,Bloom.hana,桜咲.hana,绽樱.hana,綻櫻.hana
+Skill/S_Aurora_3_Description,Text,,"사용불가.
+이 스킬의 위에 있는 <b>기본「.hana」스킬</b>의 <color=#cd85da>활성 모듈</color>을 클릭하여 발동시킬 때, 2회 시전됩니다.","Unavailable. When you click to activate the <color=#cd85da>Active Module</color> of the <b>basic "".hana"" skill</b> above this skill, it triggers twice.","使用不可。
+このスキルの上にある<b>「基本.hana」スキル</b>が持つ<color=#cd85da>アクティブモジュール</color>をクリックして発動させるとき、それももう2度発動させる。","无法使用。
+<b>点击使用</b>此技能上方的<b>基础.hana技能</b>的<color=#cd85da>主动模块</color>时，额外触发两次效果。","無法使用。
+<b>點擊使用</b>此技能上方的<b>基礎.hana技能</b>的<color=#cd85da>主動模塊</color>時，額外觸發兩次效果。"
+Skill/S_Aurora_3_Name,Text,,토리이.hana,Torii.hana,鳥居.hana,鸟居.hana,鳥居.hana
+Skill/S_Aurora_4_Description,Text,,패에 있는 <color=#cd85da>활성 모듈</color>을 무작위로 하나 발동시킵니다.(만료됨 무시),Randomly activate one <color=#cd85da>Active Module</color> in hand (ignoring expiration).,手札のスキルが持つ<color=#cd85da>アクティブモジュール</color>効果をランダムに1つ発動する。（使用状況は無視する）,随机触发手中的一个<color=#cd85da>主动模块</color>（无视失效情况）。,隨機觸發手中的一個<color=#cd85da>主動模塊</color>（無視失效情況）。
+Skill/S_Aurora_4_Name,Text,,자객'사야'.hana,Assassin Saya.hana,刺客沙耶.hana,刺客沙耶.hana,刺客沙耶.hana
+Skill/S_Aurora_5_Description,Text,,「.hana」스킬을 1장 뽑습니다.,"Draw 1 "".hana"" skill.",「.hana」スキルを1枚引く。,抽取1个.hana技能。,抽取1個.hana技能。
+Skill/S_Aurora_5_Name,Text,,무사'이시다'.hana,Samurai Ishida.hana,武士石田.hana,武士石田.hana,武士石田.hana
+Skill/S_Aurora_6_Description,Text,,"만료된 <color=#cd85da>활성 모듈</color>이 정확히 2개 있을 경우만 사용가능.
+손에 있는 모든 <color=#cd85da>활성 모듈</color>을 갱신하고, 모든 적의 행동 카운트를 3만큼 지연시킵니다.","Can only be used when there are exactly 2 expired <color=#cd85da>Active Modules</color> in hand.
+Refresh all <color=#cd85da>Active Modules</color> in hand and delay all enemies' action counts by 3.","手札に使用不可能な<color=#cd85da>アクティブモジュール</color>が2つある時のみ使用可能。
+手札のスキルが持つすべての<color=#cd85da>アクティブモジュール</color>を更新して敵の行動カウントを3延長する。","仅当手中恰好有2个已失效的<color=#cd85da>主动模块</color>时才能使用。
+刷新手中所有的<color=#cd85da>主动模块</color>，延迟所有敌人的行动倒计时3。","僅當手中恰好有2個已失效的<color=#cd85da>主動模塊</color>時才能使用。
+刷新手中所有的<color=#cd85da>主動模塊</color>，延遲所有敵人的行動倒計時3。"
+Skill/S_Aurora_6_Name,Text,,무녀'치요'.hana,Miko Chiyo.hana,巫女千依.hana,巫女千依.hana,巫女千依.hana
+Skill/S_Aurora_7_Description,Text,,"패에 있는 <color=#cd85da>활성 모듈</color>을 <b>클릭하여 사용</b>했을 때, 
+이 스킬은 그 <color=#cd85da>활성 모듈</color>을 얻고 시전 시 그것을 발동합니다.","When you <b>click to use</b> an <color=#cd85da>Active Module</color> in hand, this skill gains that <color=#cd85da>Active Module</color> and activates it upon casting.",手札のスキルが持つ<color=#cd85da>アクティブモジュール</color>をクリックして発動させた時、このスキルはその<color=#cd85da>アクティブモジュール</color>を得て使用時にそれを発動する。,<b>点击使用</b>手中的<color=#cd85da>主动模块</color>时，此技能获得该<color=#cd85da>主动模块</color>的效果作为自身的释放效果。,<b>點擊使用</b>手中的<color=#cd85da>主動模塊</color>時，此技能獲得該<color=#cd85da>主動模塊</color>的效果作為自身的釋放效果。
+Skill/S_Aurora_7_Name,Text,,닌자'미라'.hana,Ninja Mira.hana,忍者美莉愛.hana,忍者美罗.hana,忍者美羅.hana
+Skill/S_Aurora_8_Description,Text,,"이 스킬을 뽑을 때, 이 스킬은 패에 있는 무작위 <color=#cd85da>활성 모듈</color>을 1개 얻습니다.
+(최대 2개, <color=#cd85da>활성 모듈</color>중복 불가)
+이 스킬은 <color=#cd85da>활성 모듈</color>을 클릭하여 사용해도 '1턴후 버려짐'을 얻지 않습니다.","When drawing this skill, it gains a random <color=#cd85da>Active Module</color> from your hand. (Maximum 2, cannot have duplicate <color=#cd85da>Active Modules</color>)
+This skill does not gain ""discarded after 1 turn"" when clicking to use the Active Module.","このスキルを引いたとき、このスキルは手札のスキルが持つランダムな<color=#cd85da>アクティブモジュール</color>を1つ得る。（<color=#cd85da>アクティブモジュール</color>は2つまで所持でき、同名の<color=#cd85da>アクティブモジュール</color>を所持することはできない）
+このスキルは<color=#cd85da>アクティブモジュール</color>をクリックしても1ターン後に捨てられるを得ることはない。","此技能被抽取时，获得手中随机一个<color=#cd85da>主动模块</color>。（至多拥有两个<color=#cd85da>主动模块</color>，不可拥有同名<color=#cd85da>主动模块</color>）
+此技能不会因点击使用主动模块而获得1回合后弃牌效果。","此技能被抽取時，獲得手中隨機一個<color=#cd85da>主動模塊</color>。（至多擁有兩個<color=#cd85da>主動模塊</color>，不可擁有同名<color=#cd85da>主動模塊</color>）
+此技能不會因點擊使用主動模塊而獲得1回合後棄牌效果。"
+Skill/S_Aurora_8_Name,Text,,총사'사키오'.hana,Gunslinger Sakio.hana,铳士崎吾.hana,铳士崎吾.hana,銃士崎吾.hana
+Skill/S_Aurora_Lucy_Description,Text,,"스킬을 1장 뽑습니다.
+손에 있는 만료된 각기 다른 <color=#cd85da>활성 모듈</color>마다 스킬을 추가로 뽑습니다.
+무작위 <color=#cd85da>활성 모듈</color>을 하나 갱신합니다.","Draw 1 skill.
+For each unique expired <color=#cd85da>Active Module</color> in hand, draw an additional skill.
+Refresh 1 random Active Module.","スキルを1枚引く。
+手札の使用不可能な<color=#cd85da>アクティブモジュール</color>を持つスキル1つにつき、さらにスキルを1枚引く。
+手札のランダムな<color=#cd85da>アクティブモジュール</color>を1つ更新する。","抽取1个技能。
+手中每有一个已失效的<color=#cd85da>主动模块</color>，再抽取1个技能。
+随机刷新1个主动模块。","抽取1個技能。
+手中每有一個已失效的<color=#cd85da>主動模塊</color>，再抽取1個技能。
+隨機刷新1個主動模塊。"
+Skill/S_Aurora_Lucy_Name,Text,,리프로그래밍.aurora,Reprogramming.aurora,リプログラム.aurora,重编程.aurora,重編程.aurora
+Skill/S_Aurora_R1_Description,Text,,"이 스킬을 뽑으면, 이 스킬의 <color=#cd85da>활성 모듈</color>이 갱신됩니다.
+<color=#cd85da>활성 모듈 : 패에 있는 모든 스킬의 활성 모듈을 발동됩니다.(만료됨 무시)
+(활성 모듈 : 다이묘'코보'.hana 제외)</color>","When you draw this skill, its <color=#cd85da>Active Module</color> is refreshed.
+<color=#cd85da>Active Module: Activate all Active Modules in hand (ignoring expiration) (excluding Active Module: Daimyo Kobo.hana).</color>","このスキルを引いたとき、このスキルが持つ<color=#cd85da>アクティブモジュール</color>を更新する。
+<color=#cd85da>アクティブモジュール：手札にあるスキルが持つアクティブモジュールの効果をすべてて発動する（使用状況は無視する）（「大名小保.hana」が持つアクティブモジュールは除く）。</color>","抽取此技能时刷新此技能的主动模块。
+<color=#cd85da>主动模块：触发手中所有技能的主动模块（无视失效情况）（除了主动模块：大名小保.hana）。</color>","抽取此技能時刷新此技能的主動模塊。
+<color=#cd85da>主動模塊：觸發手中所有技能的主動模塊（無視失效情況）（除了主動模塊：大名小保.hana）。</color>"
+Skill/S_Aurora_R1_Name,Text,,다이묘'코보'.hana,Daimyo Kobo.hana,大名小保.hana,大名小保.hana,大名小保.hana
+Skill/S_Aurora_R2_Description,Text,,패에 있는 모든스킬들의 <color=#cd85da>활성 모듈</color>을 갱신합니다.,Refresh all <color=#cd85da>Active Modules</color> in hand.,手札のスキルが持つ<color=#cd85da>アクティブモジュール</color>をすべて更新する。,刷新手中所有<color=#cd85da>主动模块</color>。,刷新手中所有<color=#cd85da>主動模塊</color>。
+Skill/S_Aurora_R2_Name,Text,,정적,Tranquility,静寂,宁静,寧靜
+Skill/S_Aurora_S1_0_Name,Text,,,,,,
+Skill/S_Aurora_S1_Description,Text,,<color=#cd85da>활성 모듈 : 무작위 적에게 &a의 피해를 줍니다.</color>,<color=#cd85da>Active Module: Deal &a damage to a random enemy.</color>,<color=#cd85da>アクティブモジュール：ランダムな敵1体に&aのダメージを与える。</color>,<color=#cd85da>主动模块：对随机敌人造成&a点伤害</color>,<color=#cd85da>主動模塊：對隨機敵人造成&a點傷害</color>
+Skill/S_Aurora_S1_Name,Text,,태도.hana,Sword.hana,太刀.hana,太刀.hana,太刀.hana
+Skill/S_Aurora_S2_0_Name,Text,,,,,,
+Skill/S_Aurora_S2_Description,Text,,<color=#cd85da>활성 모듈 : 무작위 적에게 &a의 피해를 줍니다.</color>,<color=#cd85da>Active Module: Deal &a damage to a random enemy.</color>,<color=#cd85da>アクティブモジュール：ランダムな敵1体に&aのダメージを与える。</color>,<color=#cd85da>主动模块：对随机敌人造成&a点伤害</color>,<color=#cd85da>主動模塊：對隨機敵人造成&a點傷害</color>
+Skill/S_Aurora_S2_Name,Text,,장궁.hana,Longbow.hana,長弓.hana,长弓.hana,長弓.hana
+Skill/S_Aurora_S3_Description,Text,,<color=#cd85da>활성 모듈 : 모든 적에게 &a의 피해를 줍니다.</color>,<color=#cd85da>Active Module: Deal &a damage to all enemies.</color>,<color=#cd85da>アクティブモジュール：敵全体に&aのダメージを与える。</color>,<color=#cd85da>主动模块：对所有敌人造成&a点伤害</color>,<color=#cd85da>主動模塊：對所有敵人造成&a點傷害</color>
+Skill/S_Aurora_S3_Name,Text,,쿠나이.hana,Kunai.hana,苦無.hana,苦无.hana,苦無.hana
+SkillExtended/Ex_Aurora_1_Des,Text,,,,,,
+SkillExtended/Ex_Aurora_1_Name,Text,,,,,,
+SkillExtended/Ex_Aurora_1_Off_Des,Text,,활성 모듈(만료됨) : 덱에서 기본「.hana」스킬을 우선으로 1장 뽑습니다.,"<color=#cd85da>Active Module (expired): Prioritize drawing 1 basic "".hana"" skill from the deck.",アクティブモジュール(失効)：デッキから基本「.hana」スキルを優先して1枚引く。,主动模块（已失效）：从牌库优先抽取1个基础.hana技能,主動模塊（已失效）：從牌庫優先抽取1個基礎.hana技能
+SkillExtended/Ex_Aurora_1_Off_Name,Text,,활성 모듈 : 등불.hana,Active Module: Lantern.hana,アクティブモジュール：提灯.hana,主动模块：提灯.hana,主動模塊：提燈.hana
+SkillExtended/Ex_Aurora_1_On_Des,Text,,클릭 시 발동 : 덱에서 기본「.hana」스킬을 우선으로 1장 뽑습니다.,"Click to activate: Prioritize drawing 1 basic "".hana"" skill from the deck.",クリックして発動する：デッキから「基本.hana」スキルを優先して1枚引く。,点击以生效：从牌库优先抽取1个基础.hana技能,
+SkillExtended/Ex_Aurora_1_On_Name,Text,,활성 모듈 : 등불.hana,Active Module: Lantern.hana,アクティブモジュール：提灯.hana,主动模块：提灯.hana,
+SkillExtended/Ex_Aurora_7_1_Des,Text,,"시전 시, 덱에서 기본「.hana」스킬을 우선으로 1장 뽑습니다.","When activated, prioritize drawing 1 basic "".hana"" skill from the deck.",発動時、基本「.hana」スキルを優先して1枚引く。,释放时，优先抽取1个基础.hana技能,釋放時，優先抽取1個基礎.hana技能
+SkillExtended/Ex_Aurora_7_1_Name,Text,,효과 : 등불.hana,Effect: Lantern.hana,效果：提灯.hana,效果：提灯.hana,效果：提燈.hana
+SkillExtended/Ex_Aurora_7_R1_Des,Text,,"시전 시, 패에 있는 모든 스킬들의 활성 모듈 효과가 발동합니다.
+(활성 모듈 : 다이묘'코보'.hana 제외)","Upon casting, activate all Active Modules in hand (excluding Active Module: Daimyo Kobo.hana).",発動時、手札にあるスキルが持つアクティブモジュールの効果をすべてて発動する（「大名小保.hana」が持つアクティブモジュールは除く）。,释放时，触发手中所有主动模块的效果（除了主动模块：大名小保.hana）,釋放時，觸發手中所有主動模塊的效果（除了主動模塊：大名小保.hana）
+SkillExtended/Ex_Aurora_7_R1_Name,Text,,효과 : 다이묘'코보'.hana,Effect: Daimyo Kobo.hana,效果：大名小保.hana,效果：大名小保.hana,效果：大名小保.hana
+SkillExtended/Ex_Aurora_7_S1_Des,Text,,"시전 시, 무작위 적에게 &a의 피해를 줍니다.","Upon casting, deal &a damage to a random enemy.",発動時、ランダムな敵1体に&aのダメージを与える。,释放时，对随机敌人造成&a点伤害,釋放時，對隨機敵人造成&a點傷害
+SkillExtended/Ex_Aurora_7_S1_Name,Text,,효과 : 태도.hana,Effect: Sword.hana,效果：太刀.hana,效果：太刀.hana,效果：太刀.hana
+SkillExtended/Ex_Aurora_7_S2_Des,Text,,"시전 시, 무작위 적에게 &b의 피해를 줍니다.","Upon casting, deal &b damage to a random enemy.",発動時、ランダムな敵1体に&bのダメージを与える。,释放时，对随机敌人造成&b点伤害,釋放時，對隨機敵人造成&b點傷害
+SkillExtended/Ex_Aurora_7_S2_Name,Text,,효과 : 장궁.hana,Effect: Longbow.hana,効果：長弓.hana,效果：长弓.hana,效果：長弓.hana
+SkillExtended/Ex_Aurora_7_S3_Des,Text,,"시전 시, 모든 적에게 &c의 피해를 줍니다.","Upon casting, deal &c damage to all enemies.",発動時、敵全体に&cのダメージを与える。,释放时，对所有敌人造成&c点伤害,釋放時，對所有敵人造成&c點傷害
+SkillExtended/Ex_Aurora_7_S3_Name,Text,,효과 : 쿠나이.hana,Effect: Kunai.hana,效果：苦無.hana,效果：苦无.hana,效果：苦無.hana
+SkillExtended/Ex_Aurora_R1_Des,Text,,,,,,
+SkillExtended/Ex_Aurora_R1_Name,Text,,,,,,
+SkillExtended/Ex_Aurora_R1_Off_Des,Text,,"활성 모듈(만료됨) : 패에 있는 모든 스킬들의 활성 모듈 효과가 발동됩니다.(만료됨 무시)
+(활성 모듈 : 다이묘'코보'.hana 제외)",Active Module (expired): Activate all Active Modules in hand (ignoring expiration) (excluding Active Module: Daimyo Kobo.hana).,アクティブモジュール(失効)：手札にあるスキルが持つアクティブモジュールの効果をすべてて発動する（使用状況は無視する）（「大名小保.hana」が持つアクティブモジュールは除く）。,主动模块（已失效）：触发手中所有技能的主动模块（无视失效情况）（除了主动模块：大名小保.hana）,主動模塊（已失效）：觸發手中所有技能的主動模塊（無視失效情況）（除了主動模塊：大名小保.hana）
+SkillExtended/Ex_Aurora_R1_Off_Name,Text,,활성 모듈 : 다이묘'코보'.hana,Active Module: Daimyo Kobo.hana,アクティブモジュール：大名小保.hana,主动模块：大名小保.hana,主動模塊：大名小保.hana
+SkillExtended/Ex_Aurora_R1_On_Des,Text,,"클릭 시 발동 : 패에 있는 모든 스킬들의 활성 모듈 효과가 발동됩니다.(만료됨 무시)
+(활성 모듈 : 다이묘'코보'.hana 제외)",Click to activate: Activate all Active Modules in hand (ignoring expiration) (excluding Active Module: Daimyo Kobo.hana).,クリックして発動する：手札にあるスキルが持つアクティブモジュールの効果をすべてて発動する（使用状況は無視する）（「大名小保.hana」が持つアクティブモジュールは除く）。,点击以生效：触发手中所有技能的主动模块（无视失效情况）（除了主动模块：大名小保.hana）,點擊以生效：觸發手中所有技能的主動模塊（無視失效情況）（除了主動模塊：大名小保.hana）
+SkillExtended/Ex_Aurora_R1_On_Name,Text,,활성 모듈 : 다이묘'코보'.hana,Active Module: Daimyo Kobo.hana,アクティブモジュール：大名小保.hana,主动模块：大名小保.hana,主動模塊：大名小保.hana
+SkillExtended/Ex_Aurora_R2_Name,Text,,,,,,
+SkillExtended/Ex_Aurora_S1_Des,Text,,,,,,
+SkillExtended/Ex_Aurora_S1_Name,Text,,,,,,
+SkillExtended/Ex_Aurora_S1_Off_Des,Text,,활성 모듈(만료됨) : 무작위 적에게 &a의 피해를 줍니다.,Active Module (expired): Deal &a damage to a random enemy.,アクティブモジュール(失効)：ランダムな敵1体に&aのダメージを与える。,主动模块（已失效）：对随机敌人造成&a点伤害,主動模塊（已失效）：對隨機敵人造成&a點傷害
+SkillExtended/Ex_Aurora_S1_Off_Name,Text,,활성 모듈 : 태도.hana,Active Module: Sword.hana,アクティブモジュール：太刀.hana,主动模块：太刀.hana,主動模塊：太刀.hana
+SkillExtended/Ex_Aurora_S1_On_Des,Text,,클릭 시 발동 : 무작위 적에게 &a의 피해를 줍니다.,Click to activate: Deal &a damage to a random enemy.,クリックして発動する：ランダムな敵1体に&aのダメージを与える。,点击以生效：对随机敌人造成&a点伤害,點擊以生效：對隨機敵人造成&a點傷害
+SkillExtended/Ex_Aurora_S1_On_Name,Text,,활성 모듈 : 태도.hana,Active Module: Sword.hana,アクティブモジュール：太刀.hana,主动模块：太刀.hana,主動模塊：太刀.hana
+SkillExtended/Ex_Aurora_S2_Des,Text,,,,,,
+SkillExtended/Ex_Aurora_S2_Name,Text,,,,,,
+SkillExtended/Ex_Aurora_S2_Off_Des,Text,,활성 모듈(만료됨) : 무작위 적에게 &a의 피해를 줍니다.,Active Module (expired): Deal &a damage to a random enemy.,アクティブモジュール(失効)：ランダムな敵1体に&aのダメージを与える。,主动模块（已失效）：对随机敌人造成&a点伤害,主動模塊（已失效）：對隨機敵人造成&a點傷害
+SkillExtended/Ex_Aurora_S2_Off_Name,Text,,활성 모듈 : 장궁.hana,Active Module: Longbow.hana,アクティブモジュール：長弓.hana,主动模块_长弓.hana,主動模塊_長弓.hana
+SkillExtended/Ex_Aurora_S2_On_Des,Text,,클릭 시 발동 : 무작위 적에게 &a의 피해를 줍니다.,Click to activate: Deal &a damage to a random enemy.,クリックして発動する：ランダムな敵1体に&aのダメージを与える。,点击以生效：对随机敌人造成&a点伤害,點擊以生效：對隨機敵人造成&a點傷害
+SkillExtended/Ex_Aurora_S2_On_Name,Text,,활성 모듈 : 장궁.hana,Active Module: Longbow.hana,アクティブモジュール：長弓.hana,主动模块：长弓.hana,主動模塊_長弓.hana
+SkillExtended/Ex_Aurora_S3_Des,Text,,,,,,
+SkillExtended/Ex_Aurora_S3_Name,Text,,,,,,
+SkillExtended/Ex_Aurora_S3_Off_Des,Text,,활성 모듈(만료됨) : 모든 적에게 &a의 피해를 줍니다.,Active Module (expired): Deal &a damage to all enemies.,アクティブモジュール(失効)：ランダムな敵1体に&aのダメージを与える。,主动模块（已失效）：对所有敌人造成&a点伤害,主動模塊（已失效）：對所有敵人造成&a點傷害
+SkillExtended/Ex_Aurora_S3_Off_Name,Text,,활성 모듈 : 쿠나이.hana,Active Module: Kunai.hana,アクティブモジュール：苦無.hana,主动模块：苦无.hana,主動模塊：苦無.hana
+SkillExtended/Ex_Aurora_S3_On_Des,Text,,클릭 시 발동 : 모든 적에게 &a의 피해를 줍니다.,Click to activate: Deal &a damage to all enemies.,クリックして発動する：敵全体に&aのダメージを与える。,点击以生效：对所有敌人造成&a点伤害,點擊以生效：對所有敵人造成&a點傷害
+SkillExtended/Ex_Aurora_S3_On_Name,Text,,활성 모듈 : 쿠나이.hana,Active Module: Kunai.hana,アクティブモジュール：苦無.hana,主动模块：苦无.hana,主動模塊：苦無.hana
+SkillExtended/Ex_Aurora_Stun_Des,Text,,비활성'(만료됨) 상태에서는 클릭하여 '활성 모듈'을 사용 할 수 없습니다.,"Inactive (expired) state: Cannot click to use ""Active Modules"".",スタンな状態ではアクティブモジュールを使用できない。,处于无法行动状态，无法点击使用主动模块。,
+SkillExtended/Ex_Aurora_Stun_Name,Text,,행동불가,Inactive,行動不可,无法行动,無法行動
+SkillExtended/SkillEn_Aurora_1_EnforceString,Text,,비용이 2 이상인 스킬,Skills costing 2 or more,コスト2以上のスキル,2费及以上技能,2費及以上技能
+SkillExtended/SkillEn_Aurora_1_Name,Text,,"덱, 혹은 버려진 덱에서 기본「.hana」스킬을 1장 뽑고,
+그 스킬의'활동 모듈'을 갱신합니다.","Draw 1 basic "".hana"" skill from the deck or discard pile and refresh its Active Module.",デッキか捨て札から基本「.hana」スキルを1枚引き、そのアクティブモジュールを更新する,从牌库或弃牌库选择抽取1个基础.hana技能，刷新其主动模块。,從牌庫或棄牌庫選擇抽取1個基礎.hana技能，刷新其主動模塊。
+SkillExtended/SkillEn_Aurora_2_EnforceString,Text,,,,,,
+SkillExtended/SkillEn_Aurora_2_Name,Text,,"패에 있는 무작위 스킬의 '활성 모듈'을 갱신하고, 오로라의 과부하를 제거합니다.",Refresh a random skill in hand with an Active Module and remove AURORA's overload.,手札にあるランダムなアクティブモージュールを持つスキルを更新し、オーロラのオーバーロードを除去する。,刷新手中随机技能的主动模块，解除奥萝拉的过载。,刷新手中隨機技能的主動模塊，解除奧蘿拉的過載。
+SkillKeyword/Keyword_Aurora_Basic_Desc,Text,,"「태도.hana」,「장궁.hana」,「쿠나이.hana」가 포함됩니다.","The basic skills at the start of the game are replaced with ""Sword.hana"", ""Longbow.hana"", ""Kunai.hana"".",「太刀.hana」「長弓.hana」「苦無.hana」を含む,包含“太刀.hana”“长弓.hana”“苦无.hana”,包含「太刀.hana」「長弓.hana」「苦無.hana」
+SkillKeyword/Keyword_Aurora_Basic_Name,Text,,기본「.hana」스킬,"Basic "".hana"" skills",基本.hanaスキル,基础.hana技能,基礎.hana技能
+SkillKeyword/Keyword_Aurora_Refresh_Desc,Text,,활성 모듈이 갱신되면 만료된 활성 모듈이 클릭 가능한 상태로 변경됩니다.,Refreshing the Active Module makes expired Active Modules clickable again.,アクティブモジュールを更新すると、使用不可なアクティブモジュールを再びクリックできるようになる。,刷新主动模块会将失效的主动模块重置为可点击使用的状态。,刷新主動模塊會將失效的主動模塊重置為可點擊使用的狀態。
+SkillKeyword/Keyword_Aurora_Refresh_Name,Text,,갱신,Refresh,更新,刷新,刷新
+SkillKeyword/Keyword_Hana_Desc,Text,,"오로라의 스킬에는 클릭 시 발동되는 '활성 모듈'을 가지고 있습니다.
+클릭하여 '활성 모듈'을 발동하면, 그 '활성 모듈'은 그 전투 중 사용할 수 없고(만료됨),
+1턴 후 버려집니다.
+'활성 모듈'을 가진 스킬에 '신속'이 없을 경우, 클릭하여 '활성 모듈'을 발동하면,
+적 전체의 행동카운트가 -1 되고, 오로라의 과부하가 1 증가합니다.","AURORA's skills have ""Active Modules"" that trigger when clicked. Once triggered, the ""Active Module"" cannot be used again in the same battle (it expires) and is discarded after 1 turn. If a skill with an ""Active Module"" does not have ""Swiftness"", clicking to use the ""Active Module"" reduces all enemies' action count by 1 and Aurora's overload increases by 1.",スキルには、クリックすることで発動できるアクティブモジュールを持つ。 クリックしてアクティブモジュールを発動すると、そのアクティブモジュールはその戦闘中無効になり（クリックして再使用することはできない）、1ターン後に捨てられるを得る。 アクティブモジュールを持つスキルが迅速を持たない場合、クリックしてアクティブモジュールを発動すると、敵全体の行動カウントが-1され、自身のオーバーロードが1増加する。,技能带有可以通过点击触发的主动模块。点击使用主动模块会使主动模块在本场战斗中失效（不可再通过点击使用），且使其所在技能获得1回合后弃牌。除非该主动模块的所属技能拥有迅速，否则点击使用主动模块会使所有敌人的行动倒计时-1，并使自身过载+1。,技能帶有可以通過點擊觸發的主動模塊。點擊使用主動模塊會使主動模塊在本場戰鬥中失效（不可再通過點擊使用），且使其所在技能獲得1回合後棄牌。除非該主動模塊的所屬技能擁有迅速，否則點擊使用主動模塊會使所有敵人的行動倒計時-1，並使自身過載+1。
+SkillKeyword/Keyword_Hana_Name,Text,,활성 모듈,Active Module,アクティブモジュール,主动模块,主動模塊
+,,,,,,,
+

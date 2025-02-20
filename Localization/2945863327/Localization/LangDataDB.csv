@@ -1,0 +1,221 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Roland_2_Plus_D_Description,Text,,,,,,
+Buff/B_Roland_2_Plus_D_Name,Text,,출혈,Bleeding,出血,流血,
+Buff/B_Roland_2_S_Description,Text,,"단일 대상을 공격하는 경우,적에게 입히는 피해량 &a추가하고 <sprite=1>&b%의 성공률으로 출혈""고통디버스를 부여합니다.발생한 후 1중첩 감소합니다.""","When attacking a single target, adds &a additional damage and applies the ""Bleeding"" debuff with a <sprite=1> &b% chance of success.
+After activation, 1 stack is reduced.","スキルを使って敵一体を攻撃する度に、 &a の追加ダメージを与えて、 <sprite=1> &b% 確率で出血を与える。
+発動するとスタックが1減る。","每当释放单体攻击技能时，对目标追加 &a 点伤害,并以 <sprite=1> &b% 的成功率施加“流血”减益
+触发时减少一层",
+Buff/B_Roland_2_S_Name,Text,,랑아 공방,Wolf Fang Workshop,狼牙工房,琅琊工坊,
+Buff/B_Roland_3_T_Description,Text,,,,,,
+Buff/B_Roland_3_T_Name,Text,,늙은소년 공방,Old Boy Workshop,老いた少年工房,老男孩工坊,
+Buff/B_Roland_4_S_Description,Text,,,,,,
+Buff/B_Roland_4_S_Name,Text,,보호막,Shield,バリア,保护罩,
+Buff/B_Roland_4_T_Description,Text,,공격를 받거나 공격를 받으면 1중첩 감소합니다.,"When attacked or when attacking, 1 stack is reduced.",攻撃を受けるや攻撃する度、スタックが1減る。,受到攻击或者进行攻击后减少一层,
+Buff/B_Roland_4_T_Name,Text,,알라스 공방,Alas Workshop,アラス工房,阿拉斯工坊,
+Buff/B_Roland_6_T_Description,Text,,"로직 아틀리에""와 그가 관련된 스킬의 공격을 받을 때마다,
+받는 치명타 확률 10%,
+받는 치명타 피해 25% 증가합니다.","When receiving an attack from ""Logic Atelier"" or related skills, critical hit chance is increased by 10% and critical hit damage is increased by 25%.",「ロジックアトリエ」やそれに関するスキルからの攻撃を受ける時、被クリティカル率が10%、被クリティカルダメージが25%アップ。,受到技能“逻辑工作室”及其衍生技能的攻击时，受暴击率增加10%，受到的暴击伤害增加25%,
+Buff/B_Roland_6_T_Name,Text,,로직 아틀리에,Logic Atelier,ロジックアトリエ,逻辑工作室,
+Buff/B_Roland_7_S_Description,Text,,,,,,
+Buff/B_Roland_7_S_Name,Text,,뒤랑달,Durandal,デュランダル,杜兰达尔,
+Buff/B_Roland_8_S_Description,Text,,회피 성공하면 제거합니다.,"If the attack is evaded, the effect is removed.",攻撃を回避すると解除される。,成功闪避时解除,
+Buff/B_Roland_8_S_Name,Text,,크리스탈 아틀리에,Crystal Atelier,クリスタルアトリエ,卡莉斯塔工作室,
+Buff/B_Roland_9_S_Description,Text,,공격을 받으면 1중첩 감소합니다.,"When attacked, 1 stack is reduced.",攻撃を受けるとスタックが1減る。,受到攻击时减少一层,
+Buff/B_Roland_9_S_Name,Text,,휠스 이더스트리,Wheels Industry,ホイールズ·インダストリー,轮盘重工,
+Buff/B_Roland_Equip_0_Description,Text,,"2중첩이 되면 다음 내는 스킬의 공격, 회복 스킬 수치 20%증가","When the stack reaches 2, the next attack or healing skill's damage/healing amount increases by 20%.",2スタックになると、次の攻撃、回復スキル数値が20%アップ。,叠加至2层时下一个自己的攻击/治疗技能的伤害/治疗量+20%,
+Buff/B_Roland_Equip_0_Name,Text,,검은 장검,Black Longsword,黒い長剣,漆黑长剑,
+Buff/B_Roland_LucyD_S_Description,Text,,"다음 번의 검은 침묵의 장갑""은 모든 전용 스킬을 제시합니다.""","The next use of ""Black Silence Gloves"" will display all exclusive skills.",次に使う「黒い沈黙の手袋」の全専用スキルを確認できる,下一次释放“漆黑噤默的手套”时将会展示所有专属技能,
+Buff/B_Roland_LucyD_S_Name,Text,,"자아""""","""Self""",「自己」,“自我”,
+Buff/B_Roland_P_RES_Description,Text,,"검은 침묵의 장갑""의비용이 1 증가합니다.""","The cost of ""Black Silence Gloves"" increases by 1.",「黒い沈黙の手袋」のコストが1上がる。,“漆黑噤默的手套”的费用+1,
+Buff/B_Roland_P_RES_Name,Text,,차원 피로,Dimensional Fatigue,次元疲労,次元疲劳,
+Buff/B_Roland_R10_Name,Text,,,Furioso,,,
+Buff/B_Roland_Rare_S_Description,Text,,"자기의 전용 일반 스킬을 사용하면 검은 계수"" 1중첩 획득한다.(매 스킬이 최대 1중첩만 획득)""","When using Roland's exclusive general skill, gains 1 stack of ""Black Count"" (each skill can gain up to 1 stack).",ローランの専用一般スキルを使う時、「黒い計数」のスタックが1上がる。（スキル1枚につきスタックが1上がる）,使用自己的专属普通技能时获得1层“漆黑计数”（每种技能至多获得1层）,
+Buff/B_Roland_Rare_S_Name,Text,,검은 계수,Black Count,黒い計数,漆黑计数,
+Buff/B_Roland_Relic_Name,Text,,기억-도서관,Memory - Library,回想-図書館,追忆·图书馆,
+Character/Roland_CampSelectWord,Text,,"허, 이것은 정말 신기한 체험이다.","Hah, this is really a rare experience.",へえ、これは本当に珍しい体験ですね。,嚯，这可真是一次新奇的体验。,
+Character/Roland_PassiveDes,Text,,"고정 능력을 검은 침묵의 장갑""으로 고정합니다.사용시 무작위 전용 스킬 3개를 제시하고 그중 1개를 선택하여 뽑습니다.""","Fixed ability is locked with ""Black Silence Gloves"". Upon use, 3 random exclusive skills are shown, and 1 is selected to be used.",固定能力を「黒い沈黙の手袋」に確定し、使用するとを専用スキルをランダムに3枚確認できで、そのながの1枚を選択し、作成する。,固定能力锁定为“漆黑噤默的手套”，释放时可展示随机3个专属技能，并从中选择一个生成。,
+Character/Roland_PassiveName,Text,,검은 침묵,Black Silence,黒い沈黙,漆黑噤默,
+Character/Roland_SelectInfo,Text,,"“뜻밖에 다른 세계에서 뒤틀린 땅에 온 해결사? 사서? 시종? 상관없어. 모두 그를 가리키니까. 도서관으로 돌아가고 친구와의 약속을 지키기 위해 조사단과 동행하고 뒤틀린 땅을 탐색하기로 했다.
+
+롤랑은 ‘검은 침묵의 장갑’을 통해 전장의 정세에 가장 적합한 스킬을 뽑는 자유도가 매우 높은 공격 역할군입니다.”","Unexpectedly, a fixer? A librarian? A servant? It doesn't matter; it's all referring to him. He decided to travel with the investigation team to explore the twisted land and keep his promise to his ""friend"" by returning to the library.
+
+Roland is a flexible attacker with high freedom to select the most suitable skill for the battle situation using ""Black Silence Gloves"".","別世界の図書館と呼ぶ所で偶然ここえたどり着いた…フィクサー？司書？従者？とにかく、どっちでも彼のことだ。
+図書館に帰って「友達」どの約束を果たすため、彼は調査団と共に歪みの地を探索することを決めた。
+
+ローランは「黒い沈黙の手袋」によって最もバトルに似合うスギルを作成することが出来る、自由度の高いなアタッカーだ。","自另一方世界的图书馆意外来到扭曲之地的……收尾人？司书？侍从？无所谓，这些身份都是指他。
+为了找到回到图书馆的方法，完成与“朋友”的约定，他决定与调查团同行，一并探索扭曲之地。
+
+罗兰可以通过使用“漆黑噤默的手套”来获取最适合战场局势的技能，是自由度极高的输出型角色。",
+Character/Roland_Text_Battle_AllyND_0,Text,,조바심내지 말고 천천히 시작해보자고.(여기는 도서관이 아니라고…),Don’t rush; let’s take it slow. (This isn’t the library…),気をつけろ、自分の身を大事にしなきゃね。（ここは図書館じゃないもんな。）,小心，要顾好自己的身体。（这里可不是图书馆……）,
+Character/Roland_Text_Battle_AllyND_1,Text,,…빨리 일 끝내고 쉬자고.,...Let’s finish quickly and rest.,…さっさと終わらせよぅが。,……早点结束这场战斗吧。,
+Character/Roland_Text_Battle_Cri_0,Text,,약점이다!,It's a weak point!,弱点だ！,这里是弱点！,
+Character/Roland_Text_Battle_Cri_1,Text,,당신의 공세는 내가 두세 번 하면 풀릴 수 있지?,"Your assault, I can nullify it easily, right?",お前の攻撃を余裕を持って打ち消せるみでぇだな。,你的攻势，我三两下就能化解吧？,
+Character/Roland_Text_Battle_Healed_0,Text,,오~큰 도움이 주내.,Oh~ you’ve been a great help.,おぉ~助かったぞ。,哦~帮大忙了。,
+Character/Roland_Text_Battle_Healed_1,Text,,이건 무슨 특이점 기술인가?,What kind of singularity technique is this?,何らかの特異点なのか？,这是什么奇点技术吗？,
+Character/Roland_Text_Battle_Idle_0,Text,,"자,따라 해보세요.숨을 들이쉬구~~내쉬구~~","Come, follow me. Inhale~~ Exhale~~",さぁ、俺について…ひ~ひ~ふ~~,来，跟我做：吸气~~呼气~~,
+Character/Roland_Text_Battle_Kill_0,Text,,"그건 그거구,이건 이거다.","That’s that, and this is this.",それはそれで、これはこれだ。,"一码,归一码。",
+Character/Roland_Text_Battle_Kill_1,Text,,이럴 때일수록 침착하고 냉정하게 판단했어.,"At times like this, it’s important to stay calm and make a rational judgment.",こういう時ごそ、冷静に判断すべきだ。,越是这种时候，越要沉着冷静地判断。,
+Character/Roland_Text_Battle_Kill_2,Text,,휴~아까 맞을 뻔했어.,Whew~ that was close.,ふぅ~さっきは危なかった。,咻~刚才差点就挨揍了。,
+Character/Roland_Text_Battle_ND_0,Text,,"이런, 순간 방심했나…완전 망신이구만.","Oh no, I let my guard down… this is embarrassing.",油断したか…俺としたことが。,一时大意了吗…不像话呀，真不像话。,
+Character/Roland_Text_Battle_ND_1,Text,,내가…이렇게 몰리다니…? 부끄러운 일 날 뻔했어…,I… I can’t believe I’m being cornered like this… how embarrassing…,俺が、こんなに追い込まれるなんで…恥ずかしいな、実に…,我…居然会被逼成这样…？丢人啦，丢人…,
+Character/Roland_Text_Battle_ND_2,Text,,만약 여기에서 죽으면…,If I die here…,もしここで死んだら…,要是在这里死了的话……,
+Character/Roland_Text_Battle_Start_0,Text,,"한없이 깊은 두려움에 벌벌 떨어라. …크, 왠지 이런 말 해보고 싶었어.","""Tremble in endless fear!""—Ah, I suddenly felt like saying something like that again.",「無限の恐怖さの前で怯えろ！」で…またこんなセリフを言ってみたくなった。,“在无尽的恐惧中战栗吧!”——啊，又突然想说这种话了。,
+Character/Roland_Text_Battle_Start_1,Text,,"그럼,미련 없이 한번 싸우자구!","Then, let’s fight without any hesitation!",おっ、やってやろうか！,那好，放手一搏吧！,
+Character/Roland_Text_Field_GetItem_0,Text,,혹시 책 몇 권 가지고 갈 수 있나요?,Maybe I can bring a few books back?,本を何冊もちかえれそうだな。,或许可以带几本书回去？,
+Character/Roland_Text_Field_GetItem_1,Text,,좋은 물건인 것 같아요.,This seems like a good item.,いいものみたいだ。,看起来像是好东西。,
+Character/Roland_Text_Field_Idle_0,Text,,이 풍경은 교외보다 훨씬 좋내.,This scenery is way better than the suburbs.,この風景は廃墟よりよほどいいんだな。,这风景可比郊区好多了。,
+Character/Roland_Text_Field_Idle_1,Text,,도서관은 지금 어떤지 모르겠어……,I wonder what’s going on with the library now...,図書館は今どうなったでしょうが…,不知道图书馆那边现在是怎样……,
+Character/Roland_Text_Field_Potion_P_0,Text,,키야~,Kyah~,キヤ~,劲啊！,
+Character/Roland_Text_Field_Potion_P_1,Text,,맥주가 있었으면 더 좋았을텐데.,It would have been better if there was some beer.,ビールがありゃもっと良かったのにな。,要是有啤酒就更好了。,
+Character/Roland_Text_PharosLeader_0,Text,,"…난 당신의 시종이야,교주님.","...I’m your servant, my lord.",…俺はあなたの従者だ、教主様。,……我是您的侍从，教主。,
+Character/Roland_Text_PharosLeader_1,Text,,"…그 물건""과 동화되는 정도예요.""","...It's like merging with ""those things"".",…まるで「あやつら」と同化した時みてぇだ。,……堪比跟那些“东西”同化的体验。,
+Character/Roland_Text_PharosLeader_2,Text,,"…그건 …그거구,이건 …이거다.",That's that... and this is this.,…それはそれで…これはこれだから。,…一码，归…一码。,
+Character/Roland_name,Text,,롤랑,Roland,ローラン,罗兰,
+Item_Equip/Equip_Roland_0_Description,Text,,"자기의 공격이나 회복 스킬을 사용할 경우,중접 1 증가합니다.2중첩이 되면 다음 내는 스킬의 공격, 회복 스킬 수치 20%증가하고 중첩이 초기화됩니다.
+
+<color=#919191>이 장검만이 진짜로 그의 것입니다.</color>","When using your attack or healing skills, increase stack by 1. When it reaches 2 stacks, the next attack or healing skill's damage/healing amount increases by 20%, and the stack is reset.
+
+<color=#919191>Only this longsword truly belongs to him.</color>","攻撃/治癒スキルを使う度、スタックが1上がる、2スタックになると、次の攻撃、回復スキル数値が20%アップを，スタック全て消耗する。
+
+<color=#919191>この長剣だけが本当に彼のものだ。</color>","每次从手中释放自己的攻击/治疗技能时增加1层计数，计数达到2时下一个自己的攻击/治疗技能的伤害/治疗量+20%并清空计数
+
+<color=#919191>只有这把长剑才是真正属于他的。</color>",
+Item_Equip/Equip_Roland_0_name,Text,,검은 장검,Black Longsword,黒い長剣,漆黑长剑,
+Item_Equip/Equip_Roland_1_Description,Text,,"전투 시작시 스킬 하나를 뽑습니다.
+
+<color=#919191>가면를 쓰고 구토하는 것이 어떤 느낌인지 아세요?</color>","At the start of combat, draw one of your skills.
+
+<color=#919191>Do you know what it feels like to vomit while wearing a mask?</color>","戦闘開始時、自分のスキルを1枚引く。
+
+<color=#919191>仮面をしたまま吐くってどんな気分かわかるか？</color>","战斗开始时，抽取一个自己的技能
+
+<color=#919191>你知道戴着面具呕吐是什么感觉吗？</color>",
+Item_Equip/Equip_Roland_1_name,Text,,인격저해 가면,Cognitive Disruption Mask,認識阻害の面,认知阻碍面具,
+Item_Passive/Relic_Roland_Description,Text,,"전투 첫 번째 턴에 모든 아군의 공격력,치유량,방어력,회피율 25%증가
+
+<color=#919191>“환영합니다,손님.저는 도서관의 관장이나 사서,엔젤라입니다.”</color>","At the start of the first turn, increase all allies' attack, healing, defense, and evasion by 25%.
+
+<color=#919191>""Welcome, guests. I am Angela, the librarian and director of the library.""</color>","最初のターンで、味方全体の攻撃力、回復力、防御力、回避率が25%アップ。
+
+<color=#919191>「歓迎します、ゲストの皆様。私は図書館の館長兼司書、アンジェラと申します。」</color>","战斗开始第一回合时，所有友军的攻击力、治疗力、防御力、闪避率+25%
+
+<color=#919191>“欢迎各位来宾，我是这里的馆长兼司书，安吉拉”</color>",
+Item_Passive/Relic_Roland_name,Text,,빈 초대징,Empty Invitation,空白の招待状,空白的邀请函,
+SimpleCampDialogue/CampDial_Roland_Azar_Dialogues_0, Text,,[B]너무 이상해...넌 도대체 어떻게 거기에 왔를가…,[B]Strange... how did you even get here?,[B]妙だな…君は一体どうやってここにたどり着いたのか…,[B]太奇怪了……你到底是怎么来到这里的……,
+SimpleCampDialogue/CampDial_Roland_Azar_Dialogues_1, Text,,[A]좋은 문제이네.하지만 나도 몰라.,"[A]Good question, but I don't know.",[A]いい質問ね、でも俺も知らないんだ。,[A]好问题，但是我也不知道。,
+SimpleCampDialogue/CampDial_Roland_Azar_Dialogues_2, Text,,[A]나도 이런 일이 처음은 아니지만.,[A]Though it's not the first time something like this has happened.,[A]こんなことを経験するのも初めてではないけどね。,[A]虽说我也不是第一次遭遇这种事就是了。,
+SimpleCampDialogue/CampDial_Roland_Blue_Dialogues_0, Text,,[A]마법이란...너희들은 어떻게 배웠어?,[A]Magic... how did you learn it?,[A]魔法ね…そんなもんどうやって学べたの？,[A]魔法啊……这种东西你们是怎么学会的？,
+SimpleCampDialogue/CampDial_Roland_Blue_Dialogues_1, Text,,[B]응...사실 배운 게 아니라...,[B]Well... it's not exactly learned...,[B]う―ん…学べたじゃないんだ…,[B]嗯……其实不算是学的……,
+SimpleCampDialogue/CampDial_Roland_Blue_Dialogues_2, Text,,[B]확실이 말하면 주운거예요?,[B]More like... picked up?,[B] 正確には、拾った？,[B]准确来说，应该是捡到的？,
+SimpleCampDialogue/CampDial_Roland_Blue_Dialogues_3, Text,,[A]하?,[A]Huh?,[A]はぁ？,[A]哈？,
+SimpleCampDialogue/CampDial_Roland_Charon_Dialogues_0, Text,,"[B]아저씨,넌 몸에는 어둠의 기운이 가득하요.","[B]Mister, you're filled with dark energy.",[B]おじさんで、身体中闇の匂いが満ち溢れているね。,[B]大叔，你身上满是黑暗的气息啊。,
+SimpleCampDialogue/CampDial_Roland_Charon_Dialogues_1, Text,,[A]아~나도 아저씨라고 불릴 나이가 될 줄 몰랐어...,"[A]Ah~ I didn't think I'd reach the age of being called ""mister""...",[A]あぁ~俺もおじさんになったな…,[A]啊~没想到我也到了被称为大叔的年纪了啊……,
+SimpleCampDialogue/CampDial_Roland_Charon_Dialogues_2, Text,,[B]주의한 점이 이거라니?!,[B]That's what you focus on!?,[B]そこを気になるのかい！,[B]关注点竟然是这个吗！,
+SimpleCampDialogue/CampDial_Roland_Hein_Dialogues_0, Text,,[A]혈액을 조종한 전투 방식...,[A]A fighting style that manipulates blood...,[A]血液を操る戦い方…,[A]操控血液的战斗方式……[A],
+SimpleCampDialogue/CampDial_Roland_Hein_Dialogues_1, Text,,"[B]허,그걸 광기의 영향을 받은 대상일뿐이야.","[B]Heh, just a side effect of being influenced by madness.",[B]ふっ、狂気に影響されたちょっとした代償だよ。,[B]呵，不过是受狂气影响的一点代偿罢了。,
+SimpleCampDialogue/CampDial_Roland_Huz_Dialogues_0, Text,,[A]어떻게 누군가가 채찍으로 치료할수 있는까!,[A]How can someone heal with a whip!?,[A]誰か鞭で治療するんだよ！,[A]怎么会有人用鞭子来治疗啊！,
+SimpleCampDialogue/CampDial_Roland_Huz_Dialogues_1, Text,,"[B]너무 신기해,그렇지!그래서 함부로 비켜서 말라구!","[B]Amazing, right? So don't dodge it!",[B]すごいでしょう？だから勝手に避けるな！,[B]很神奇对吧！所以说不要随便躲开！,
+SimpleCampDialogue/CampDial_Roland_Huz_Dialogues_2, Text,,[A](여기가 도시가 아니었다면 내가 그 채찍은 어느 공방의 무기이런 걸 의심한다.),"[A](If this were the City, I'd suspect that whip was a workshop weapon.)",[A]（もしここが都市なら、あの鞭はどっかの工房の武器なのだろうかと疑いくらいだ。）,[A]（要不是这里不是都市，我都有点怀疑那鞭子是不是哪家的工坊武器了。）,
+SimpleCampDialogue/CampDial_Roland_Ilya_Dialogues_0, Text,,"[A]스으,술냄새가 너무 짙서.","[A]Ugh, the smell of alcohol is too strong.",[A]う-ん、何と強烈な酒の匂いだ。,[A]嘶——好浓烈的酒味。,
+SimpleCampDialogue/CampDial_Roland_Ilya_Dialogues_1, Text,,[B]보드카일 뿐이야.한잔해요?,[B]It's just vodka. Want a bottle?,[B]ただのウォッカよ。一本どうですか？,[B]只是伏特加而已。你要来一瓶吗？,
+SimpleCampDialogue/CampDial_Roland_Ilya_Dialogues_2, Text,,[A]내가 이런 독한 술은 잘 못 마시거든...,[A]I'm not used to such strong liquor...,[A]この純度の酒は飲み慣れねぇかもしれないけど…,[A]这个纯度的话我可能喝不惯——,
+SimpleCampDialogue/CampDial_Roland_Ilya_Dialogues_3, Text,,"[A]됐어,마셔 봐도 돼.","[A]Fine, I'll give it a try.",[A]まぁ、試しに一本いただこうか。,[A]算了，试试也不是不行。,
+SimpleCampDialogue/CampDial_Roland_Iron_Dialogues_0, Text,,[A](이 쇠통조림의 방어력은...Zwei협회와 비교할 될까 봐.),[A](This tin can's defense... might rival the Zwei Association.),[A]（この缶詰めの防御力…ツヴァイ協会と比べられるかもしれねぇ。）,[A]（这个铁罐头的防御能力……怕不是能跟Zwei协会的人拼一拼。）,
+SimpleCampDialogue/CampDial_Roland_Iron_Dialogues_1, Text,,[B]내가 어떻게 이렇게 많은 공격에 저항한 걸 생각하니?,[B]Wondering how I withstand so many attacks?,[B]どうやってこんなに沢山の攻撃を受け取ったのか気になるかい？,[B]是在想我怎么扛下这么多攻击吗？,
+SimpleCampDialogue/CampDial_Roland_Iron_Dialogues_2, Text,,[B]그건 내가 용병부대의 대장인 비장의 수법이야!,[B]It's my secret technique as the leader of the mercenary corps!,[B]これは傭兵部隊の隊長としての奥の手だ！,[B]这可是我作为佣兵部队队长的看家本领！,
+SimpleCampDialogue/CampDial_Roland_Joey_Dialogues_0, Text,,[B]또 방주이외에서 왔는 자인가...넌 내가 계속 지켜보고 있을 거야.,[B]Another outsider from beyond the Ark... I'll be keeping an eye on you.,[B]まだアークの外から来た人が…ちゃんとあんだを見張っているぞ。,[B]怎么又是从方舟外面过来的人……我会盯着你的。,
+SimpleCampDialogue/CampDial_Roland_Joey_Dialogues_1, Text,,[A]만나서마자 내 팔다리를 절단하지 않아서 참 고맙다구~,[A]Thanks for not cutting off my limbs the moment we met~,[A]初対面で俺の手足を切除してくれないとは実にありがたいな~,[A]您没有见面就把我手脚拆了我可太感激了您呐~,
+SimpleCampDialogue/CampDial_Roland_Johan_Dialogues_0, Text,,[B]갑자기 이런 직감이 있어.우리는 같은 사람이라는 가능성이 있는걸.,[B]I have a feeling... we might be the same kind of person.,[B]ふっと感があっでね、君は私と同じかもしれない。,[B]我突然有股直觉：你和我可能是一样的人。,
+SimpleCampDialogue/CampDial_Roland_Johan_Dialogues_1, Text,,[A]설마 너도 뜬금없이 거기에 온 사람이겠지?,[A]Don't tell me you also ended up here out of nowhere?,[A]まさかあんだもよく知らないままここへ来たのか。,[A]总不可能你也是莫名其妙来到这里的人吧?,
+SimpleCampDialogue/CampDial_Roland_Johan_Dialogues_2, Text,,[B]그건 아닌데.,[B]Not exactly.,[B]そうじゃないけど。,[B]这个倒不是。,
+SimpleCampDialogue/CampDial_Roland_Leryn_Dialogues_0, Text,,"[B]죄송하지만 당신이 시공간 루프""에 대해서 어떻게 생각해요?""","[B]Sorry to be abrupt, but what do you think about ""time loops""?",[B]突然で申し訳ありませんが、「時空のループ」という概念についてどう思いますか？,[B]抱歉有点突兀，不过请问一下你对“时空循环”这个概念有什么看法？,
+SimpleCampDialogue/CampDial_Roland_Leryn_Dialogues_1, Text,,[A]사실 제 친구가 그런 적 있거든요.,"[A]Actually, I have a friend who experienced that.",[A]実際、これを経験した友人がいるんだ。,[A]实际上，我有个朋友的确经历过这种事。,
+SimpleCampDialogue/CampDial_Roland_Leryn_Dialogues_2, Text,,[B]그럼 그가 어떻게 생각해요?,[B]What did they think about it?,[B]じゃあの人はこれについてどう思いますか？,[B]那么那个人对这件事的想法是怎样的呢？,
+SimpleCampDialogue/CampDial_Roland_Leryn_Dialogues_3, Text,,[A]...최악이에요.,[A]...It was the worst.,[A]…最悪だった。,[A]……很糟糕。,
+SimpleCampDialogue/CampDial_Roland_Lian_Dialogues_0, Text,,[B]너의 전투기교는 능숙한다.,[B]Your combat skills are impressive.,[B]君の戦闘技術は優れている。,[B]你的战斗技艺很娴熟。,
+SimpleCampDialogue/CampDial_Roland_Lian_Dialogues_1, Text,,[A]고맙다 그런 칭한 해줘서.,[A]Thank you for the compliment.,[A]ありがとうございます。,[A]承蒙夸奖。,
+SimpleCampDialogue/CampDial_Roland_Miss_Dialogues_0, Text,,[A]참 뜨거워…,[A]So hot...,[A]あちぃな…,[A]真火热啊……,
+SimpleCampDialogue/CampDial_Roland_Miss_Dialogues_1, Text,,[B]앗!내가 실수로 너를 데였니?,"[B]Oops, did I accidentally burn you?",[B]ありゃ、うっかり焼けちゃったの？,[B]啊勒，我不小心烫到你了吗？,
+SimpleCampDialogue/CampDial_Roland_Miss_Dialogues_2, Text,,[A]이 온도는 별로 뜨겁지 않소…,[A]This temperature isn't that hot...,[A]このくらいで熱いとは言えないけど…,[A]这点温度还不至于说烫……,
+SimpleCampDialogue/CampDial_Roland_Miss_Dialogues_3, Text,,"[A]난 오히려 다른 한 열정적""인 사람이 생각났소.""","[A]Just reminded me of another ""fiery"" person.",[A] とある「熱い」人を思い出させただけだ。,[A]倒是让我想到另外一个很“热情”的人。,
+SimpleCampDialogue/CampDial_Roland_Narhan_Dialogues_0, Text,,[B](이 사람은 생각 밖에 더 검은 과거가 있을가...),[B](This guy has a darker past than I thought...),[B]（こいつ、こんなに暗い過去があるなんで…）,[B]（这个人竟然有如此漆黑的过去……）,
+SimpleCampDialogue/CampDial_Roland_Narhan_Dialogues_1, Text,,[B](재밌어.),[B](Interesting.),[B]（面白い。）,[B]（有意思。）,
+SimpleCampDialogue/CampDial_Roland_Pheonix_Dialogues_0, Text,,[A]말하는...새?누군가의 펫인가?,[A]A talking... bird? Someone's pet?,[A]鳥が…喋った？誰のペットか？,[A]会说话的……鸟？是谁家的宠物吗？,
+SimpleCampDialogue/CampDial_Roland_Pheonix_Dialogues_1, Text,,[B]너야말로 펫!난 전설의 피닉스야!,[B]I'm no pet! I'm the legendary Phoenix!,[B]ふざけるな！こっちは伝説のフェニックス様だ！,[B]你才宠物呢！我可是传说中的凤凰！,
+SimpleCampDialogue/CampDial_Roland_Priest_Dialogues_0, Text,,[B]어려운 걸음을 하신 당신의 몇 분간의 시간을 지체해 주서겠습니까...,"[B]Sir, could I trouble you for a moment...",[B]遠くから来た貴方様、少しお時間をいただけませんか…,[B]这位远道而来的先生，能不能耽误您几分钟的时间……,
+SimpleCampDialogue/CampDial_Roland_Priest_Dialogues_1, Text,,[B]제가 우리의 주님을  당신한테 소게하겠습니다--,[B]Let me introduce you to our Lord—,[B]我が主を紹介しておきたい―,[B]请允许我向您介绍一下我们的主——,
+SimpleCampDialogue/CampDial_Roland_Priest_Dialogues_2, Text,,[A]죄송하지만 저는 종교 이런 걸 욕심 없는데.,"[A]Sorry, I'm not interested in religion.",[A]すまんな、宗教に興味はないんだ。,[A]抱歉，我对宗教不感兴趣。,
+SimpleCampDialogue/CampDial_Roland_Red_Dialogues_0, Text,,[A]역시 쌍둥이라고 해야 할가...쏙 빼닮았지만 성격은 판이하게 다른걸.,"[A]As expected of twins... they look so alike, but their personalities are completely different.",[A]さすが双子というべきか…顔はそっくりけど、性格は全然似ていないな。,[A]该说不愧是双胞胎吗……长得这么像，性格差距却这么大。,
+SimpleCampDialogue/CampDial_Roland_Red_Dialogues_1, Text,,[B]설마 넌 해와 달이 같다고 생각하니?,"[B]You wouldn't think the sun and moon are the same, would you?",[B]太陽と月を同じものとして思いますか？,[B]你会认为太阳跟月亮是同一种东西吗？,
+SimpleCampDialogue/CampDial_Roland_SilverStein_Dialogues_0, Text,,[B]과녁을 겨룰까?긴장을 풀었다고 치고.,[B]Want to try target practice? Just to relax.,[B]暇つぶしとしで標的射撃で競争してみるか？,[B]要不要来比一下打靶？就当是消遣。,
+SimpleCampDialogue/CampDial_Roland_SilverStein_Dialogues_1, Text,,[A]싫어.탄약을 사는 돈이 부족해요.,"[A]No, I don't have enough money to buy ammo.",[A]遠慮するよ、弾丸を買う金があまりないんだから。,[A]这个就算了，我可没多少钱买子弹。,
+SimpleCampDialogue/CampDial_Roland_SilverStein_Dialogues_2, Text,,[B]특수한 탄약이예요?,[B]Special ammo?,[B]特製の弾丸か？,[B]是特制的子弹吗？,
+SimpleCampDialogue/CampDial_Roland_SilverStein_Dialogues_3, Text,,"[A]아니,그냥 너부 비싸서니까.","[A]No, it's just too expensive...",[A]単に値段が高いだけだ…,[A]只是单纯的贵而已……,
+SimpleCampDialogue/CampDial_Roland_Sizz_Dialogues_0, Text,,[A]인형사...,[A]Puppeteer...,[A]人形使い…,[A]人偶师……,
+SimpleCampDialogue/CampDial_Roland_Sizz_Dialogues_1, Text,,"[B]뭐예요,롤란씨?내 몸에 뭐 묻었어요?","[B]What's wrong, Roland? Is there something on me?",[B]どうしましたか、ローランさん。私の顔に何かついていますか？,[B]怎么了，罗兰先生？我身上沾了什么东西了吗？,
+SimpleCampDialogue/CampDial_Roland_Sizz_Dialogues_2, Text,,"[A]아,아무것도 없어.","[A]No, nothing.",[A]いや、何でもない。,[A]啊，没什么。,
+SimpleCampDialogue/CampDial_Roland_Sizz_Dialogues_3, Text,,[A]별로 유쾌하지 않은 기억이 떠올랐을 뿐이예요.,[A]Just remembered something unpleasant.,[A]ちょっと不愉快なことを思い出しただけだ。,[A]想起了一些不怎么愉快的记忆而已。,
+SimpleCampDialogue/CampDial_Roland_Trisha_Dialogues_0, Text,,[B]저장 공간이 있는 장갑?잠행 임무에 대하여 큰 보조 작용이 있는 것 같해.,[B]Gloves with storage space? Seems useful for stealth missions.,[B]収納スペースがある手袋？潜行ミッションのサポートになりそうだ。,[B]自带存储空间的手套？看起来对潜行任务有很大的辅助作用。,
+SimpleCampDialogue/CampDial_Roland_Trisha_Dialogues_1, Text,,[A]아...그래.,[A]Ah... yeah.,[A]あぁ…そうだな。,[A]啊……是啊。,
+SimpleCampDialogue/CampDial_Roland_Trisha_Dialogues_2, Text,,[A]사실 나 자신은 잠행과 조금도 관계가 없을 탠 대.,[A]Though I personally have nothing to do with stealth.,[A]俺自身は潜行なんでとまったく関係ねぇけどな。,[A]虽说我自己跟潜行没有半个眼的关系就是了。,
+Skill/Equip_Roland_1_EX_Name,Text,,인격저해 가면,Cognitive Disruption Mask,認識阻害の面,认知阻碍面具,
+Skill/S_Roland_1_Description,Text,,사용 시 무작위 한 스킬이 신속을 얻습니다.,"When used, grants Haste to a random skill.",使用すると、手札のランダムな攻撃スキルに迅速を与える。,释放时，使手中的随机一个攻击技能附带迅速,
+Skill/S_Roland_1_Name,Text,,느티나무 공방,Zelkova Workshop,ケヤキ工房,榉树工坊,
+Skill/S_Roland_2_Description,Text,,,,,,
+Skill/S_Roland_2_Name,Text,,랑아 공방,Langya Workshop,狼牙工房,琅琊工坊,
+Skill/S_Roland_2_Plus_Description,Text,,,,,,
+Skill/S_Roland_2_Plus_Name,Text,,랑아 공방,Langya Workshop,狼牙工房,琅琊工坊,
+Skill/S_Roland_3_Description,Text,,모든 적의 도발 상태를 변경하고 우선으로 자기의 스킬을 1개 뽑습니다.,Changes the Taunt status of all enemies and prioritizes drawing one of your skills.,敵全体の挑発状態を変更し、自分のスキルを優先的に1枚引く。,"改变所有敌人的嘲讽状态,并优先抽取1张自己的技能",
+Skill/S_Roland_3_Name,Text,,늙은소년 공방,Old Boys Workshop,老いた少年工房,老男孩工坊,
+Skill/S_Roland_4_Description,Text,,시전시 절반 회복량 만큼 보호막 획득한다.,Grants a shield equal to half of the healing amount when cast.,このスキルを使うと攻撃力の半分のバリアを得る。,释放时，获得等同于一半攻击力的保护罩,
+Skill/S_Roland_4_Name,Text,,늙은소년 공방,Allas Workshop,アラス工房,阿拉斯工坊,
+Skill/S_Roland_5_Description,Text,,"적을 처치할 경우,소모한 마나를 돌려받습니다.",Restores spent Mana when an enemy is defeated.,敵を倒すと消費したマナを回復する。,击杀敌人时返还消耗的法力值,
+Skill/S_Roland_5_Name,Text,,묵 공방,Mook Workshop,ムク工房,墨工坊,
+Skill/S_Roland_6_Description,Text,,"시전시 로직 아틀리에:연발""스킬을 생성하여 제외와 2턴 후 버려짐을 부여합니다.""","When cast, creates a ""Logic Atelier: Rapid Fire"" skill, granting Exclude and discarding it after 2 turns.",このスキルを使うと「ロジックアトリエ・連発」を作成する、除外を与えて、2ターン後に捨てられる。,释放时，生成一张“逻辑工作室·连射”，附带放逐，2回合后弃牌,
+Skill/S_Roland_6_Name,Text,,로직 아틀리에,Logic Atelier,ロジックアトリエ,逻辑工作室,
+Skill/S_Roland_6_Plus_0_Description,Text,,"시전시 로직 아틀리에:산탄""스킬을 생성하여 제외와 2턴 후 버려짐을 부여합니다. ""","When cast, creates a ""Logic Atelier: Scatter Shot"" skill, granting Exclude and discarding it after 2 turns.",このスキルを使うと「ロジックアトリエ・散弾」を作成する、除外を与えて、2ターン後に捨てられる。,释放时，生成一张“逻辑工作室·散弹”，附带放逐，2回合后弃牌,
+Skill/S_Roland_6_Plus_0_Name,Text,,로직 아틀리에:연발,Logic Atelier: Rapid Fire,ロジックアトリエ·連発,逻辑工作室·连射,
+Skill/S_Roland_6_Plus_1_Description,Text,,"선택한 적의 절반 방어력을 무시합니다.
+대상이 '로직 아틀리에' 약화 디버프를 가지고 있다면 피해량이 25% 증가합니다.","Ignores half of the target's Defense.
+Damage is increased by 25% if the target has the ""Logic Atelier"" weakening debuff.","半分の防御力を無視する
+「ロジックアトリエ」弱体化効果を持っている敵をターゲットにする場合、ダメージが25%アップ。","无视目标一半的防御力
+以带有“逻辑工作室”弱化减益的敌人为目标时伤害提升25%",
+Skill/S_Roland_6_Plus_1_Name,Text,,로직 아틀리에:산탄,Logic Atelier: Scatter Shot,ロジックアトリエ·散弾,逻辑工作室·散弹,
+Skill/S_Roland_7_Description,Text,,,,,,
+Skill/S_Roland_7_Name,Text,,뒤랑달,Durandal,デュランダル,杜兰达尔,
+Skill/S_Roland_8_Description,Text,,"적을 처지하거나 단일 대상을 공격하는 경우,한 번 더 시전할 수 있습니다.","If an enemy is defeated or only a single target is attacked, can be cast again with half damage.",敵を倒すや敵1体を攻撃すると半分のダメージでもう一度使用する。,击杀敌人或仅攻击一个敌人时以一半的伤害再次释放,
+Skill/S_Roland_8_Name,Text,,크리스탈 아틀리에,Crystal Atelier,クリスタルアトリエ,卡莉斯塔工作室,
+Skill/S_Roland_8_Plus_Description,Text,,,,,,
+Skill/S_Roland_8_Plus_Name,Text,,크리스탈 아틀리에,Crystal Atelier,クリスタルアトリエ,卡莉斯塔工作室,
+Skill/S_Roland_9_Description,Text,,"선택한 적의 행동카운트가 1 혹은 9이상일 경우,기절 성공률이 <sprite=2> &a%으로 증가합니다.","If the target's action count is 1 or 9+, the Stun success rate increases to <sprite=2> &a%.",ターゲットの行動カウントが1もしくは9+の場合、 <sprite=2> &a%の確率でスタン状態となる。,以倒计时为1或9+的敌人为目标时，晕眩成功率提升至 <sprite=2> &a%,
+Skill/S_Roland_9_Name,Text,,휠스 이더스트리,Wheels Industry,ホイールズ·インダストリー,轮盘重工,
+Skill/S_Roland_LucyD_Description,Text,,"스킬을 2개 뽑습니다.
+대상은 롤랑의 경우,그가 '자아'""버프를 받고 아니면 다음 번 고정능력 시전시 '비용 1 감소'를 부여합니다.""","Draw 2 skills.
+If the target is Roland, grants the ""Self"" buff; otherwise, reduces the cost of the next fixed skill by 1.","スキルを2枚引く
+ターゲットがローランなら「自己」効果を得る、それと違う場合、次に使う固定能力のコストが1ダウンする。","抽取两个技能
+若目标为罗兰则使其获得“‘自我’”增益，否则使其下一次固定技能释放时费用-1",
+Skill/S_Roland_LucyD_Name,Text,,"자아""""","""Self""",「自己」,“自我”,
+Skill/S_Roland_P_Description,Text,,무작위 전용 일반 스킬 3개를 제시하고 그중 1개를 선택하고 생성하여 제외와 2턴 후 버려짐를 부여합니다. ,"Randomly presents 3 exclusive normal skills, selects one to create, granting Exclude and discarding it after 2 turns.",専用一般スキルをランダムに3枚確認できで、そのながの1枚を選択して作成し、除外を与えて、2ターン後に捨てられる。,随机展示3张专属普通技能，选择其中一张生成，附带放逐、2回合后弃牌,
+Skill/S_Roland_P_Name,Text,,"검은 침묵의 장갑""""","""Black Silence's Gloves""",黒い沈黙の手袋,漆黑噤默的手套,
+Skill/S_Roland_R10_Description,Text,,"이 스킬을 사용한 후 전투 시작 시 검은 계수를 획득합니다.
+선택한 적의 절반 방어력을 무시합니다.
+시전 시 현재의 ""검은 계수"" 중첩 만큼 반복 시전합니다. 그 후에 ""검은 계수""의 중첩과 중첩 확률이 초기화됩니다.","After using this skill, gain ""Black Count"" at the start of battle.
+Ignores half of the target's Defense.
+When cast, repeats the skill based on the current ""Black Count"" stacks, then resets the ""Black Count"" stacks and its probability.","このスキルを獲得すると、戦闘開始時に「黒い計数」を得る。
+ターゲットの防御力を半分無視する
+このスキルを使うと「黒い計数」のスタック分だけ繰り返す、「黒い計数」のスタックをリセットして「黒い計数」が再び得られようになる。","拥有该技能时，战斗开始时获得“漆黑计数”
+无视目标一半防御力
+释放后，根据当前的“漆黑计数”层数重复释放，而后重置“漆黑计数”层数并重置技能获得“漆黑计数”的效果",
+Skill/S_Roland_R10_Name,Text,,Furioso,Furioso,Furioso,Furioso,
+Skill/S_Roland_R10_Plus_Description,Text,,,,,,
+Skill/S_Roland_R10_Plus_Name,Text,,,,,,
+SkillExtended/Roland_Rare_Icon_Des,Text,,,使用时，可获得“漆黑计数”,,,
+SkillExtended/Roland_Rare_Icon_EnforceString,Text,,,,,,
+SkillExtended/Roland_Rare_Icon_Name,Text,,"사용할 경우,검은 계수""의 효과가 획득합니다.""","When used, gains the effect of ""Black Count"".",使用すると「黒い計数」を得る。,使用时，可获得“漆黑计数”,
+SkillExtended/SkillEn_Roland_0_Des,Text,,,,,,
+SkillExtended/SkillEn_Roland_0_EnforceString,Text,,"<sprite name=비용2""><sprite name=""이상"">""","<sprite name=""비용2""><sprite name=""이상"">",,"<sprite name=""비용2""><sprite name=""이상"">",
+SkillExtended/SkillEn_Roland_0_Name,Text,,무작위 전용 일반 스킬 3개를 제시하고 그중 1개를 선택하고 생성하여 제외를 부여합니다. ,"Randomly presents 3 exclusive normal skills, selects one to create, granting Exclude.",自分のスキルをランダムに3枚確認できで、そのながの1枚を選択して作成し、除外を与える。,随机展示3个自己的技能，从中选择一个技能生成，附带放逐,
+SkillExtended/SkillEn_Roland_1_Des,Text,,,,,,
+SkillExtended/SkillEn_Roland_1_EnforceString,Text,,비용은 1이상 혹은 신속이 없는 0비용 스킬,"Skills with a cost of 1 or more, or 0-cost skills without Haste.",コスト1以上、もうしくは「迅速」ではないコスト0のスキル。,1 费以上，或非迅速的 0 费技能,
+SkillExtended/SkillEn_Roland_1_Name,Text,,다음 번 자기의 고정능력 시전시 '비용 1 감소'과 신속을 부여합니다.(사용후 초기화됩니다.),"On the next use of a fixed skill, reduces cost by 1 and grants Haste (resets after use).",次に固定能力を使うと、コストが1ダウンし、迅速を与える（使うと初期化する）,下一次使用自己的固定技能时，费用-1，附带迅速（使用后复原）,
+

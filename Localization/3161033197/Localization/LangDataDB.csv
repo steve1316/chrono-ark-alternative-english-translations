@@ -1,0 +1,123 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Lumiore_12Rare_Description,Text,,,"Each time a skill in hand is exchanged or discarded, deal %a damage to a random enemy and restore %b Healing Gauge to the ally with the lowest HP. Can trigger up to 20 times per turn.",,每次手中的技能被交换/丢弃时，对随机敌人造成 %a 点伤害，恢复体力最低的队友 %b 点体力。1回合最多触发20次。,
+Buff/B_Lumiore_12Rare_Name,Text,,,Raging Plesiosaur,,狂涛蛇颈龙,
+Buff/B_Lumiore_13Rare_Description,Text,,,"Each time a skill in hand is exchanged or discarded, deal %a damage to all enemies. Can trigger up to 20 times per turn.",,每次手中的技能被交换/丢弃时，对所有敌人造成 %a 点伤害。1回合最多触发20次。,
+Buff/B_Lumiore_13Rare_Name,Text,,,Golden Prestige,,金色威信,
+Buff/B_Lumiore_14Rare_Description,Text,,,Grants Healing Gauge Protection. All damage received becomes 0.,,保护体力极限，受到的伤害转变为0。,
+Buff/B_Lumiore_14Rare_Name,Text,,,Last Stand,,背水一战,
+Buff/B_Lumiore_5_Description,Text,,,,,,
+Buff/B_Lumiore_5_Name,Text,,,Dragon’s Revelation,,龙之启示,
+Buff/B_Lumiore_6_Description,Text,,,Grants Healing Gauge Protection. Increases all resistances.,,保护体力极限。全抗性增加。,
+Buff/B_Lumiore_6_Name,Text,,,Black and White Frenzy,,黑白乱舞,
+Buff/B_Lumiore_P_Description,Text,,,,,,
+Buff/B_Lumiore_P_Name,Text,,,Discard Count,,弃牌次数,
+Character/Lumiore_CampSelectWord,Text,,,,,,
+Character/Lumiore_PassiveDes,Text,,,"At the start of battle, gain 1 Max Mana. If Awakened (Max Mana exceeds 7), some cards gain additional effects. 
+Awakened: Draw 1 additional skill at the start of battle.",,"战斗开始时，获得1点最大法力值。如果觉醒（最大法力值超过7点），部分卡片会有额外效果。
+觉醒：战斗开始时，额外抽取1张技能。",
+Character/Lumiore_PassiveName,Text,,,Dragon’s Revelation,,龙之启示,
+Character/Lumiore_SelectInfo,Text,,,"Being a single wing is unusual—I’ve grown tired of hearing that. 
+But... being unusual means being the most special! 
+I’ll prove it. As your elder sister, as everyone’s role model! 
+Now, my adorable siblings! Leave the rest to your big sister!",,"單翼就是不尋常，這句話我都聽膩了呢。
+但是……不尋常就代表是最特別的！
+就由我來證明。作為姊姊、作為大家的範本！
+那麼，可愛的弟妹們！之後就交給姊姊大人我吧！",
+Character/Lumiore_name,Text,,,Lumiore,,璐米欧儿,
+Character_Skin/LumioreSkin_SkinDesc,Text,,,"Unlike my plain older brother, your big sister still shines bright today! 
+—Silver Purity: Arjent. 
+If you think I’m a cute little brother, then stop making me run errands!? 
+—The Eldest Son with the Black Single Wing: Noir.",,"跟樸素的哥哥大人不同，姊姊大人今天依然耀眼啊！
+──銀色清純‧雅爾貞特
+如果覺得我是可愛的弟弟，那就別叫我去跑腿喔！？
+──擁有漆黑單翼的長男‧諾爾",
+Character_Skin/LumioreSkin_SkinName,Text,,,Golden Prestige,,金色威信,
+Skill/S_Lumiore_0_Description,Text,,,Discard the bottommost skill in hand and draw 1 skill.,,丢弃1个手中最下面的技能，抽1个技能。,
+Skill/S_Lumiore_0_Name,Text,,,Soaring Dragonkin,,翱翔的龙人,
+Skill/S_Lumiore_10_Description,Text,,,Awakened - Restore 2 Mana.,,觉醒 - 回复2点法力。,
+Skill/S_Lumiore_10_Name,Text,,,Tyrannical Dragonkin,,暴戾龙人,
+Skill/S_Lumiore_12Rare_0_Description,Text,,,,,,
+Skill/S_Lumiore_12Rare_0_Name,Text,,,Raging Plesiosaur,,狂涛蛇颈龙,
+Skill/S_Lumiore_12Rare_Description,Text,,,Discard 1 skill and draw 2 skills.,,丢弃1个技能，抽取2个技能。,
+Skill/S_Lumiore_12Rare_Name,Text,,,Raging Plesiosaur,,狂涛蛇颈龙,
+Skill/S_Lumiore_13Rare_0_Description,Text,,,,,,
+Skill/S_Lumiore_13Rare_0_Name,Text,,,Golden Prestige·Lumiore,,金色威信·璐米欧儿,
+Skill/S_Lumiore_13Rare_Description,Text,,,"Restore 2 Mana. 
+If [Number of times cards were discarded this battle] exceeds 4, discard 2 skills and draw 3 skills.",,"回复2点AP。
+若[本场战斗中，丢弃手牌的次数]大于4次，丢弃2个技能，抽取3个技能。",
+Skill/S_Lumiore_13Rare_Name,Text,,,Golden Prestige·Lumiore,,金色威信·璐米欧儿,
+Skill/S_Lumiore_14Rare_0_Description,Text,,,"Reduce own HP to 1. All party members gain the [Last Stand] buff for 1 turn: Grants Healing Gauge Protection. All damage received becomes 0. 
+Enchant 1 - Add 1 copy of The Great Mediator·Zoe (Cost 4, no Enchant effect) to the deck. Draw 1 skill.",,自己的体力降为1点。所有队员获得1回合BUFF[背水一战]：保护体力极限，受到的伤害转变为0。,
+Skill/S_Lumiore_14Rare_0_Name,Text,,,The Great Mediator·Zoe,,伟大的调停者·佐伊,
+Skill/S_Lumiore_14Rare_Description,Text,,,Reduce own HP to 1. All party members gain the [Last Stand] buff for 1 turn: Grants Healing Gauge Protection. All damage received becomes 0.,,"自己的体力降为1点。所有队员获得1回合BUFF[背水一战]：保护体力极限，受到的伤害转变为0。
+激奏1 - 增加1张费用为4且没有激奏效果的伟大的调停者·佐伊到牌库中。抽取1个技能。",
+Skill/S_Lumiore_14Rare_Name,Text,,,The Great Mediator·Zoe,,伟大的调停者·佐伊,
+Skill/S_Lumiore_1_Description,Text,,,Discard 1 skill and draw 1 skill.,,丢弃1个技能，抽取1个技能。,
+Skill/S_Lumiore_1_Name,Text,,,Anvil Rock Dragon,,甲槌岩龙,
+Skill/S_Lumiore_2_0_Description,Text,,,"If [Number of times cards were discarded this turn] is 1 or more, deal &a damage to a random enemy.",,若[本回合中，丢弃手牌的次数]大于等于1次，对随机敌人造成&a伤害。,
+Skill/S_Lumiore_2_0_Name,Text,,,Diamond Pachycephalosaurus,,金刚钻厚头龙,
+Skill/S_Lumiore_2_Description,Text,,,"If [Number of times cards were discarded this turn] is 1 or more, deal &a damage to a random enemy.",,若[本回合中，丢弃手牌的次数]大于等于1次，对随机敌人造成&a伤害。,
+Skill/S_Lumiore_2_Name,Text,,,Diamond Pachycephalosaurus,,金刚钻厚头龙,
+Skill/S_Lumiore_3_0_Description,Text,,,Discard 1 skill. Awakened - Draw 1 skill.,,"丢弃1个技能。
+觉醒 - 抽取1个技能。",
+Skill/S_Lumiore_3_0_Name,Text,,,Crushing Dragon (Enchant),,碎石龙（激奏）,
+Skill/S_Lumiore_3_Description,Text,,,"Enchant 1 - Discard 1 skill and draw 1 skill. 
+Awakened - Draw 2 skills instead.",,"激奏1 - 丢弃1个技能，抽取1个技能。
+觉醒 - 改为抽取2个技能。",
+Skill/S_Lumiore_3_Name,Text,,,Crushing Dragon,,碎石龙,
+Skill/S_Lumiore_4_0_Description,Text,,,Discard 1 skill and draw 1 skill.,,丢弃1个技能，抽取1个技能。,
+Skill/S_Lumiore_4_0_Name,Text,,,Mystic Crab (Enchant),,魔石巨蟹（激奏）,
+Skill/S_Lumiore_4_1_Description,Text,,,,,,
+Skill/S_Lumiore_4_1_Name,Text,,,Fortress Crab,,城塞巨蟹,
+Skill/S_Lumiore_4_Description,Text,,,"Add 1 copy of Fortress Crab (0 Cost, deals &a damage) with Exclude to hand. 
+Enchant 2 - Swiftness; Discard 1 skill and draw 2 skills.",,"将1张附带放逐的[城塞巨蟹]（0费，造成&a伤害。）加入手中。
+激奏2 - 迅速；丢弃1个技能，抽取2个技能。",
+Skill/S_Lumiore_4_Name,Text,,,Mystic Crab,,魔石巨蟹,
+Skill/S_Lumiore_5_Description,Text,,,"When played, discard 2 of your skills and gain 1 Max Mana. 
+If [Number of times cards were discarded this battle] exceeds 2 (excluding this skill), draw 3 skills.       ",,"打出时舍弃自己2个技能，使自己最大法力值+1。
+若[这张战斗中，丢弃手牌的次数]大于2次（不包括这个技能），则会抽取3个技能。",
+Skill/S_Lumiore_5_Name,Text,,,Silver Purity·Arjent,,银色清纯·雅尔贞特,
+Skill/S_Lumiore_6_0_Description,Text,,,Awakened - Deal &a damage instead. Gain the [Black and White Frenzy] buff for 1 turn: Protects Healing Gauge. Increases all resistances.,,觉醒 - 改为造成&a伤害。获得1回合BUFF：保护体力极限。全抗性增加。,
+Skill/S_Lumiore_6_0_Name,Text,,,Black and White Frenzy·Noir and Brun,,黑白乱舞·诺尔与卜朗,
+Skill/S_Lumiore_6_Description,Text,,,"Discard - Add 1 copy of Black and White Frenzy·Noir and Brun (0 Cost, Exclude) to hand, dealing &a damage instead. 
+Awakened - Deal &b damage instead. Gain the [Black and White Frenzy] buff for 1 turn: Grants Healing Gauge Protection. Increases all resistances.",,"弃牌 - 将1张0费的、附带放逐的黑白乱舞·诺尔与卜朗加入手牌，改为造成&a伤害。
+觉醒 - 改为造成&b伤害。获得1回合BUFF：保护体力极限。全抗性增加。",
+Skill/S_Lumiore_6_Name,Text,,,Black and White Frenzy·Noir and Brun,,黑白乱舞·诺尔与卜朗,
+Skill/S_Lumiore_7_0_Description,Text,,,Gain 1 Max Mana.,,使自己最大法力值+1。,
+Skill/S_Lumiore_7_0_Name,Text,,,Rowen’s Roar,,罗文的咆哮,
+Skill/S_Lumiore_7_1_Description,Text,,,Deal &a damage to a random enemy.,,对随机一个敌人造成&a伤害。,
+Skill/S_Lumiore_7_1_Name,Text,,,Beyd’s Minion,,拜迪的爪牙,
+Skill/S_Lumiore_7_Description,Text,,,"Choose - Play either [Rowen’s Roar] or [Beyd’s Minion]. 
+Awakened - Play both instead. 
+
+Rowen’s Roar: Gain 1 Max Mana. 
+Beyd’s Minion: Deal &a damage to a random enemy.   ",,"选择 - 从[罗文的咆哮][拜迪的爪牙]中选1张打出。
+觉醒 - 从[选择]改为[同时打出]。
+
+罗文的咆哮：使自己最大法力值+1。
+拜迪的爪牙：对随机一个敌人造成&a伤害。",
+Skill/S_Lumiore_7_Name,Text,,,Dragon’s Wrath,,龙之嗔怒,
+Skill/S_Lumiore_8_Description,Text,,,"Gain 1 Max Mana. 
+Awakened - Restore &a HP. Draw 2 skills.",,"使自己最大法力值+1。
+觉醒 - 治疗自己&a。抽取2个技能。",
+Skill/S_Lumiore_8_Name,Text,,,Dragon’s Blessing,,龙之恩泽,
+Skill/S_Lumiore_9_0_Description,Text,,,"If the enemy is already damaged, deal an additional &a damage.",,若敌人已受伤，额外造成&a伤害。,
+Skill/S_Lumiore_9_0_Name,Text,,,Silverfrost Breath,,银冰吐息,
+Skill/S_Lumiore_9_Description,Text,,,Add 1 copy of [Silverfrost Breath] to hand.,,增加1张[银冰吐息]到手牌中。,
+Skill/S_Lumiore_9_Name,Text,,,Silverfrost Dragonkin·Phyllin,,银冰龙人·菲琳,
+Skill/S_Lumiore_LucyD_Description,Text,,,"Prioritize drawing 2 highest-Cost skills from the deck. 
+Awakened - Draw 3 instead.",,"优先抽取2张牌堆中费用最高的技能。
+觉醒 - 从2张改为3张。",
+Skill/S_Lumiore_LucyD_Name,Text,,,Dragon’s Convocation,,聚龙之唤,
+SkillExtended/SkillEn_Lumiore_0_Des,Text,,,,,,
+SkillExtended/SkillEn_Lumiore_0_EnforceString,Text,,,,,,
+SkillExtended/SkillEn_Lumiore_0_Name,Text,,,Gain 1 Max Mana after playing.,,打出后最大法力值+1。,
+SkillExtended/SkillEn_Lumiore_1_Des,Text,,,,,,
+SkillExtended/SkillEn_Lumiore_1_EnforceString,Text,,,,,,
+SkillExtended/SkillEn_Lumiore_1_Name,Text,,,Awakened: Cost -2.,,觉醒：费用-2。,
+SkillKeyword/KeyWord_Excitement_Desc,Text,,,Skills with the [Enchant] keyword can be cast at a lower Mana cost with weaker effects when current Mana is insufficient.,,带有[激奏]词缀的技能在当前法力值不足时，可以以低法力值释放较弱的技能效果。,
+SkillKeyword/KeyWord_Excitement_Name,Text,,,Enchant,,激奏,
+SkillKeyword/KeyWord_LumioreWake_Desc,Text,,,Skills with the [Awakened] keyword gain additional effects when Max Mana is 7 or higher.,,带有[觉醒]词缀的技能在最大法力值大于等于7时获得额外效果。,
+SkillKeyword/KeyWord_LumioreWake_Name,Text,,,Awakened,,觉醒,
+SkillKeyword/KeyWord_LumioreWaste_Desc,Text,,,Skills with the [Discard] keyword trigger additional effects when discarded.,,带有[弃牌]词缀的技能在被丢弃时会触发额外效果。,
+SkillKeyword/KeyWord_LumioreWaste_Name,Text,,,Discard,,弃牌,

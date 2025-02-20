@@ -1,0 +1,35 @@
+{
+    "S_PLANA_6": {
+        "UseAp": 2,
+        "Target": "all_ally",
+        "Particle": "Particle/Battle_Uncurse",
+        "Effect_Target": "SE_PLANA_6",
+        "Name": "不变的事物",
+        "Description": "将所有手牌洗回牌堆后，抽取等量的牌，根据抽取数量追加治疗HP。",
+        "SkillExtended": [
+            "PLANA.S_PLANA_6"
+        ],
+        "NotCount": true,
+        "ViewBuff": true,
+        "HealSkill": true,
+        "User": "PLANA",
+        "Image_2": "S_PLANA_6\\S_PLANA_6_Image_2.png",
+        "Image_1": "S_PLANA_6\\S_PLANA_6_Image_1.png",
+        "Image_0": "S_PLANA_6\\S_PLANA_6_Image_0.png",
+        "_gdeSchema": "Skill",
+        "Category": "null",
+        "Rare": false,
+        "NODOD": false,
+        "NotChuck": false,
+        "Disposable": false,
+        "NoDrop": false,
+        "IgnoreTaunt": false,
+        "Except": false,
+        "NoBasicSkill": false,
+        "Basic": false,
+        "Track": false,
+        "Fatal": false,
+        "EnemyPreview": false,
+        "UnknownTarget": false
+    }
+}

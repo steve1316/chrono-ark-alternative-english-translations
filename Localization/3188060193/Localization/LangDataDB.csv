@@ -1,0 +1,216 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Chtholly_0_Description,Text,,,"For each stack of Amnesia, ATK +3% and Critical Rate +3%.
+When Amnesia stacks are 6 or more, bonuses are doubled. Each time Amnesia stacks increase, gain 1 additional stack. All skills ignore Taunt.
+When Amnesia reaches 10, enter Sleepwalking until stacks are reduced to 0.",,"每有1层失忆，攻击力+3%，暴击率+3%
+当失忆层数不少于6时，翻倍加成，失忆层数增加时额外获得1层,所有技能无视嘲讽.
+失忆达到10时，进入梦游，直到失忆层数清0为止。",
+Buff/B_Chtholly_0_Name,Text,,,Amnesia,,失忆,
+Buff/B_Chtholly_1_Description,Text,,,Cannot act. Removed when Amnesia stacks are reduced to 0.,,无法行动，失忆清0时解除。,
+Buff/B_Chtholly_1_Name,Text,,,Sleepwalking,,梦游,
+Buff/B_Chtholly_2_Description,Text,,,Increases damage taken by 2% per stack of debuffs on the inflicter.,,根据施加者的减益层数使受到伤害增加，每有1层使受到伤害增加2%。,
+Buff/B_Chtholly_2_Name,Text,,,Bloom,,开花,
+Buff/B_Chtholly_3_Description,Text,,,"At the end of the turn, remove this effect and draw cards until hand size equals Amnesia stacks (max 6).",,回合结束时，解除此效果，将手牌抽到与失忆层数相同。（最多抽至6张）,
+Buff/B_Chtholly_3_Name,Text,,,Seeking,,寻觅,
+Buff/B_Chtholly_4_Description,Text,,,"Whenever an Investigator is inflicted with a debuff, take &a damage.
+Each time Amnesia exceeds 6 stacks, duration increases by 1 turn.     ",,"每当有调查员被施加减益效果，受到&a点伤害。
+每当失忆突破6，持续时间增加1回合.",
+Buff/B_Chtholly_4_Name,Text,,,Death's Erosion,,死亡侵蚀,
+Buff/B_Chtholly_5_Description,Text,,,"Can use skills while unable to act.
+When this effect is removed, take 3 Pain damage for each stack of Amnesia gained during this effect (total once).
+Incoming damage: &a",,"自身可以在无法行动时使用技能。
+此效果解除时，在此效果期间每获得过一层失忆，受到3痛苦伤害（只结算总和）。
+即将受到的伤害：&a",
+Buff/B_Chtholly_5_Name,Text,,,Unyielding Resolve,,愈战愈勇,
+Buff/B_Chtholly_6_Description,Text,,,"When gaining Amnesia, draw a Redemption from the discard pile/deck, reduce its cost by 1, then remove this effect.",,获得失忆时，从弃牌堆/牌库中抽取一个救赎令其打出前的费用-1然后解除此效果。,
+Buff/B_Chtholly_6_Name,Text,,,Remembrance,,铭记,
+Buff/B_Chtholly_7_Description,Text,,,"Amnesia cap becomes 9.
+When Amnesia stacks are 6 or more, gain 1 Mana at the start of each turn and prioritize drawing a personal skill.   ",,"失忆上限变为9.
+失忆层数不少于6时，每回合开始时获得1点法力，优先抽取一个自身的技能。",
+Buff/B_Chtholly_7_Name,Text,,,Carved in Memory,,刻骨铭心,
+Buff/B_Chtholly_8_Description,Text,,,"For each stack of Amnesia gained in this area, Max HP +1 (including pre-buff gains).
+Each time a non-Retrospect skill is used, ATK +1 this turn.
+When healed, another random ally heals for the same amount.",,"本区域内每获得过1层失忆，最大生命值增加1（包括获得增益之前的）
+每次使用非回忆技能，使本回合的攻击力+1。
+受到治疗时，使随机一个其他友军获得等量治疗。",
+Buff/B_Chtholly_8_Name,Text,,,Reversal of Fate,,扭转乾坤,
+Buff/B_Chtholly_9_Description,Text,,,"Can use 1 skill per turn while unable to act.
+Excess Amnesia deals 2 damage to a random unit. While Sleepwalking, each time Amnesia changes for the first time each turn, cast a random exclusive skill (excluding Unique skills).
+Remove this buff when Sleepwalking ends.
+Current: &a",,"每回合可以在无法行动状态下使用一个技能，溢出的失忆会对随机单位造成2点伤害。
+处于梦游时，每回合失忆首次变化时，随机释放一个专属技能(唯一技能的同名技能除外)。
+解除梦游时，同时解除此增益。
+当前：&a",
+Buff/B_Chtholly_9_Name,Text,,,Astral Form,,星神形态,
+Buff/B_Chtholly_Icake_Name,Text,,,Heal 4 HP,,回复4生命,
+Buff/B_Chtholly_R2d_Name,Text,,,Death's Door Draw,,濒死抽取,
+Buff/B_Chtholly_S0_Name,Text,,,Dream Return,,梦回,
+Buff/B_Chtholly_Unique_1_Description,Text,,,Current: &a,,当前：&a,
+Buff/B_Chtholly_Unique_1_Name,Text,,,Uniques Used,,已使用的唯一,
+Buff/B_Chtholly_e1_Description,Text,,,Only effective when only Weakness or Disruption debuffs are present.,,仅存在弱化或干扰减益时生效。,
+Buff/B_Chtholly_e1_Name,Text,,,Maintain State,,保持状态,
+Buff/B_Chtholly_e2_Description,Text,,,Removed at the end of the turn.,,回合结束时解除,
+Buff/B_Chtholly_e2_Name,Text,,,Lowered Brim,,压低帽檐,
+Buff/B_Chtholly_wujud_Description,Text,,,,,,
+Buff/B_Chtholly_wujud_Name,Text,,,Fearless Draw,,无惧抽牌,
+Character/Chtholly_PassiveDes,Text,,,"Chtholly fights at the cost of her memories.
+After using a non-Retrospect skill, gain 1 stack of Amnesia.
+Using a Retrospect skill reduces Amnesia by 1 stack.",,"珂朵莉战斗以记忆为代价。
+释放珂朵莉的非回忆技能后，获得1层失忆。
+使用回忆技能时，减少1层失忆。
+",
+Character/Chtholly_PassiveName,Text,,,Seniorious,,圣剑瑟尼欧尼斯,
+Character/Chtholly_SelectInfo,Text,,,"The Happiest Girl in the World
+
+Chtholly possesses strong physical output and Pain debuffs, but must carefully manage Amnesia.",,"世界上最幸福的女孩
+
+珂朵莉拥有强大物理输出和痛苦减益，但作为代价，需要注意控制失忆的程度。",
+Character/Chtholly_name,Text,,,Chtholly,,珂朵莉,
+Item_Equip/E_Chtholly_1_Description,Text,,,"If the wearer is under a Weakness or Disruption debuff, Weakness/Disruption resistance +300%.",,装备者若正受到弱化或干扰减益，弱化和干扰抵抗+300%。,
+Item_Equip/E_Chtholly_1_name,Text,,,Hibils,,希比尔斯,
+Item_Equip/E_Chtholly_2_Description,Text,,,"After the wearer is debuffed, damage taken this turn -25%.",,装备者受到减益后，本回合受到伤害-25%。,
+Item_Equip/E_Chtholly_2_name,Text,,,Hood,,兜帽,
+Item_Equip/E_Chtholly_3_Description,Text,,,Deal 40% increased damage to Pharos enemies.,,对法洛斯敌人造成的伤害增加40%,
+Item_Equip/E_Chtholly_3_name,Text,,,Disparatio,,迪斯佩拉提奥,
+Item_Passive/I_Chtholly_1_Description,Text,,,"At combat start, grant the ally with the lowest HP 1 stack of Debuff Resistance.
+Each turn, the first time an ally is debuffed, gain 1 Mana.
+
+----Witness",,"战斗开始时，使生命值最低的一个友军获得1层“抵抗减益”的增益。
+我方每回合首次受到减益时，获得1点法力.
+
+----见证",
+Item_Passive/I_Chtholly_1_name,Text,,,Crystal Brooch,,水晶胸针,
+Item_Passive/i_Chtholly_2_Description,Text,,,"At the end of each turn, heal 4 HP to Investigators debuffed this turn.",,每回合结束时，为本回合受到过减益的调查员回复4点体力。,
+Item_Passive/i_Chtholly_2_name,Text,,,Butter Cake,,黄油蛋糕,
+Skill/S_Chtholly_0_Description,Text,,,"<b>Retrospect</b>
+Can be used while unable to act.
+If Amnesia stacks are 5 or fewer, lose 2 additional stacks.
+Can use skills while unable to act this turn.",,"<b>回忆</b>
+处于无法行动时也可以使用。
+当失忆层数不超过5时，额外失去2层。
+本回合可以在无法行动状态使用技能。
+",
+Skill/S_Chtholly_0_Name,Text,,,Dream Return,,梦回,
+Skill/S_Chtholly_10_Description,Text,,,<b>Retrospect</b>,,<b>回忆</b>,
+Skill/S_Chtholly_10_Name,Text,,,Redemption,,救赎,
+Skill/S_Chtholly_11_0_Name,Text,,,Do Not Attack,,不攻击,
+Skill/S_Chtholly_11_1_Name,Text,,,Attack Once,,攻击1次,
+Skill/S_Chtholly_11_2_Name,Text,,,Attack Twice,,攻击两次,
+Skill/S_Chtholly_11_3_Name,Text,,,Fairy Chain Slash,,妖精连斩,
+Skill/S_Chtholly_11_Description,Text,,,"When cast, if Amnesia stacks are not 10 or 0, you may attack up to 2 additional times (random targets). Each extra attack grants 1 Amnesia.
+If this causes Amnesia to reach 10, Exclude this skill.",,"释放时，如果失忆层数不为10且不为0，可以选择额外攻击至多2次（目标随机），每次额外攻击获得1层失忆。
+然后如果因此效果失忆变为10，放逐此技能。",
+Skill/S_Chtholly_11_Name,Text,,,Fairy Chain Slash,,妖精连斩,
+Skill/S_Chtholly_1_Description,Text,,,"When Amnesia stacks are 3 or more, this skill ignores Taunt, gains Swiftness, Critical and Tracking, and draws a skill.",,失忆层数不少于3时，此技能无视嘲讽，变为迅速，获得致命和追踪，使用时抽取一个技能。,
+Skill/S_Chtholly_1_Name,Text,,,Battle-Hardened,,身经百战,
+Skill/S_Chtholly_2_Description,Text,,,<b>Retrospect</b>,,<b>回忆</b>,
+Skill/S_Chtholly_2_Name,Text,,,Retrace,,追溯,
+Skill/S_Chtholly_3_Description,Text,,,"Using this skill does not increase Amnesia.
+If current Amnesia ≤5, double stacks; otherwise increase up to 10.",,"此技能释放后不会增加失忆。
+如果当前失忆层数不超过5，翻倍当前层数；否则最多增加到10.",
+Skill/S_Chtholly_3_Name,Text,,,Fearless Charge,,奋不顾身,
+Skill/S_Chtholly_4_Description,Text,,,"<b>Retrospect</b>
+Reveal 3 non-Retrospect exclusive skills, then choose one to cast.
+If Amnesia was ≥2 before casting and higher after, add the chosen skill to hand.",,"<b>回忆</b>
+展示自身的3个非回忆的专属技能，然后选择一个释放。
+如果使用此技能前失忆层数不少于2且在释放选择的技能后层数更多，将选择的技能拿在手里。",
+Skill/S_Chtholly_4_Name,Text,,,Past and Present,,前世今生,
+Skill/S_Chtholly_5_Description,Text,,,"Deal +&a damage per Amnesia stack.
+After hitting, if target's HP is below 1/10 of damage dealt, reduce their HP to 0.
+If Amnesia is ≤5, increase to 5.
+Current bonus: &b",,"每有1层失忆,伤害增加&a点.
+命中后,若目标剩余体力低于本次造成的伤害的1/10,将其体力变为0.
+如果有失忆但不超过5层，将失忆提升至5层。
+当前额外伤害：&b",
+Skill/S_Chtholly_5_Name,Text,,,Severance,,断舍离,
+Skill/S_Chtholly_6_Description,Text,,,"If no <b>Retrospect</b> skills are in hand, apply 1 stack of Death's Erosion to all enemies.",,手上没有<b>回忆</b>技能时，额外为所有敌人施加一层死亡侵蚀。,
+Skill/S_Chtholly_6_Name,Text,,,Death Slash,,死斩,
+Skill/S_Chtholly_7_Description,Text,,,"<b>Retrospect</b>
+Add ""Retrospect"" effect to 2 random skills in discard/deck/hand.
+(Retrospect: Treated as <b>Retrospect</b>; returns to hand if not Excluded; removed after play)",,"<b>回忆</b>
+为弃牌堆，手牌，牌库中随机2个自身的技能增加”回眸“效果。
+（回眸：视为<b>回忆</b>技能;释放后若未被放逐，将其拿回手牌;打出后解除）<b></b><b>",
+Skill/S_Chtholly_7_Name,Text,,,Retrospect,,回首,
+Skill/S_Chtholly_8_Description,Text,,,Deal Pain damage equal to each enemy's debuff damage per Amnesia stack. Reduce ally debuff durations by 1 turn. Take 2 Pain damage.        ,,根据自身当前的失忆层数，每一层使所有敌人受到等同于其每回合减益伤害的痛苦伤害，使我方的减益持续时间减少1回合，使自身受到2点痛苦伤害。,
+Skill/S_Chtholly_8_Name,Text,,,Memory Tide,,记忆潮汐,
+Skill/S_Chtholly_9_Description,Text,,,"Unique
+When unable to act, add this skill to hand from discard/deck.
+Grants ""Unyielding Resolve"".
+Can be used while unable to act.",,"唯一
+当自身陷入无法行动状态时将此技能从弃牌堆/牌库中加入手牌。
+给予自身“愈战愈勇”
+处于无法行动也可以使用。",
+Skill/S_Chtholly_9_Name,Text,,,Unyielding to Death,,无惧生死,
+Skill/S_Chtholly_Lucy1_Description,Text,,,"Draw two skills.
+Triggers while Chtholly is alive:
+Choose: Reminisce (Lose 2 Amnesia)/Forget (Gain 2 Amnesia).",,"抽取两个技能
+珂朵莉存活时触发以下效果
+选择：追忆(失去2失忆。)/忘却(增加2失忆。)。",
+Skill/S_Chtholly_Lucy1_Name,Text,,,Scarborough Fair,,斯卡布罗集市,
+Skill/S_Chtholly_exp1_Name,Text,,,Unyielding Resolve,,愈战愈勇,
+Skill/S_Chtholly_exp2_Name,Text,,,Carved in Memory,,刻骨铭心,
+Skill/S_Chtholly_exp3_Name,Text,,,Reversal of Fate,,扭转乾坤,
+Skill/S_Chtholly_exp4_Name,Text,,,Astral Form,,星神形态,
+Skill/S_Chtholly_lucy1_0_Description,Text,,,Lose 2 Amnesia.,,失去2失忆。,
+Skill/S_Chtholly_lucy1_0_Name,Text,,,Reminisce,,追忆,
+Skill/S_Chtholly_lucy1_1_Description,Text,,,Gain 2 Amnesia,,增加2失忆,
+Skill/S_Chtholly_lucy1_1_Name,Text,,,Forget,,忘却,
+Skill/S_Chtholly_lucy2_Description,Text,,,"Draw two skills.
+If Chtholly is unable to act, she can use skills while unable to act this turn.",,"抽取两个技能
+如果珂朵莉处于无法行动状态，本回合令其可以在无法行动状态下使用技能。",
+Skill/S_Chtholly_lucy2_Name,Text,,,Treasure,,珍宝,
+Skill/S_Chtholly_r1_Description,Text,,,"<b>Retrospect</b>, Unique
+Can be used while unable to act.
+Reset Amnesia to 0, prioritize drawing 3 personal skills, gain ""Carved in Memory"".",,"<b>回忆</b>,唯一
+处于无法行动时也可以使用。
+失忆层数归0，优先抽取3个自身的技能,自身获得“刻骨铭心”增益",
+Skill/S_Chtholly_r1_Name,Text,,,Carved in Memory,,刻骨铭心,
+Skill/S_Chtholly_r2_Description,Text,,,"Cannot be used.
+If Sleepwalking at combat start, Exclude this skill, reset Amnesia, and gain Reversal of Fate.
+Draw this skill when entering Death's Door.
+When in hand and attacked while in Death's Door, Exclude this skill, prevent damage, reset Amnesia, fully heal, and gain Reversal of Fate.
+Current zone Amnesia: &a",,"无法使用。
+如果战斗开始时自身处于梦游，放逐此技能，失忆层数归0然后获得扭转乾坤。
+自身进入濒死时从弃牌堆/牌库中抽取此技能。
+在手上时，当自身于濒死状态受到攻击时放逐此技能，然后防止伤害，失忆层数归0，回复所有体力，获得扭转乾坤.
+当前区域的失忆数：&a；",
+Skill/S_Chtholly_r2_Name,Text,,,Nirvana Rebirth,,涅槃重生,
+Skill/S_Chtholly_r3_Description,Text,,,"Unique
+Restore all Mana, clear Overload, increase Amnesia by 10 (stops upon Sleepwalking).
+Attack +1 time per skill in hand.
+Grants ""Astral Form"".",,"唯一
+回复所有法力，清除所有过载，失忆层数增加10(出现梦游后立刻停止)。
+手上每有一个自身技能，额加攻击1次。
+给予自身“星神形态”",
+Skill/S_Chtholly_r3_Name,Text,,,Astral Power·Ephemeral Bloom,,星神的魔力·昙花一现,
+Skill/S_Chtholly_r3_x_Name,Text,,,Ephemeral Bloom,,昙花一现,
+Skill/S_Lucy_public0_Description,Text,,,"When no other Lucy skills are in hand, draw 3 skills; otherwise draw 2.",,当手上没有其它露西技能时，抽取3个技能，否则抽取2个技能。,
+Skill/S_Lucy_public0_Name,Text,,,Crossing the Bridge,,过桥,
+Skill/S_Lucy_public1_Description,Text,,,"Draw 4 skills.
+Discard any Lucy skills.",,"抽取4个技能；
+丢弃其中的露西技能。",
+Skill/S_Lucy_public1_Name,Text,,,Emergency Search,,紧急翻找,
+SkillExtended/EX_Chtholly_kioku_EnforceString,Text,,,,,,
+SkillExtended/EX_Chtholly_kioku_Name,Text,,,kioku,,kioku,
+SkillExtended/EX_Chtholly_unique_Name,Text,,,unique,,unique,
+SkillExtended/EX_Chtholly_usec_Name,Text,,,usec,,usec,
+SkillExtended/EX_Chtholly_usex_Name,Text,,,Astral Ignore,,星神用无视,
+SkillExtended/EX_P_DMG_Des,Text,,,,,,
+SkillExtended/EX_P_DMG_Name,Text,,,Increase Base Damage,,增加基础伤害,
+SkillExtended/S_EX_Chtholly_1_Des,Text,,,,,,
+SkillExtended/S_EX_Chtholly_1_EnforceString,Text,,,Cost ≥2,,费用不少于2,
+SkillExtended/S_EX_Chtholly_1_Name,Text,,,"When Chtholly has ≥2 Amnesia, cost -1; ≥6 stacks, cost -3 instead.",,珂朵莉的失忆不少于2时，费用-1；当珂朵莉的记忆不少于6时，改为费用-3.,
+SkillExtended/S_EX_Chtholly_2_EnforceString,Text,,,Cost ≥1 attack skills.,,费用不少于1的攻击技能。,
+SkillExtended/S_EX_Chtholly_2_Name,Text,,,"When Chtholly isn't Sleepwalking, damage +30%; else, reduce Amnesia by 2.",,珂朵莉未处于梦游时，伤害+30%；否则，减少2失忆.,
+SkillExtended/S_EX_Huim_Des,Text,,,This skill is treated as Retrospect; returns to hand if not Excluded; removed after play.,,此技能视为回忆技能；释放后若未被放逐，重新拿回手上；打出后解除。,
+SkillExtended/S_EX_Huim_EnforceString,Text,,,,,,
+SkillExtended/S_EX_Huim_Name,Text,,,Retrospect,,回眸,
+SkillKeyword/Kioku_Desc,Text,,,Chtholly's unique trait.,,珂朵莉的特有标签,
+SkillKeyword/Kioku_Name,Text,,,Retrospect,,回忆,
+SkillKeyword/Unique_Desc,Text,,,"After first use each combat, subsequent uses/casts of same-named skills instead cast random exclusive skills (excluding Unique/same-named skills).",,每次战斗第一次使用后，之后使用或释放同名技能均改为释放自身的随机专属技能。（带有唯一的技能及其同名技能除外）,
+SkillKeyword/Unique_Name,Text,,,Unique,,唯一,
+SkillKeyword/onlyo_Desc,Text,,,"After first use each combat, subsequent uses/casts of same-named skills cast random exclusive skills (excluding Unique skills).",,此技能每次战斗第一次使用后，之后使用或释放同名技能均改为释放自身的随机专属技能（带有唯一的技能除外).,
+SkillKeyword/onlyo_Name,Text,,,Unique,,唯一,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+

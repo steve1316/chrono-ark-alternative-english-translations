@@ -1,0 +1,215 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_ShopKeeper_2_Description,Text,,<color=#919191></i>오늘 퇴근했어요.</i></color>,<color=#919191><i>Already closed for today.</i></color>,<color=#919191></i>今日はもう仕事が終わった</i></color>,<color=#919191></i>今天已经下班了</i></color>,
+Buff/B_ShopKeeper_2_Name,Text,,폐점,Closing Time,店じまいをする,打烊了,
+Buff/B_ShopKeeper_4_Description,Text,,공격과 행동을 받을 때마다 10G를 획득한다.,Gains 10G when attacked or targeted by actions.,攻撃と行動を受けるたびに10Gを獲得する。,每次受到攻击和行动时，获得10G。,
+Buff/B_ShopKeeper_4_Name,Text,,팁,Tip,にチップをやる,小费,
+Buff/B_ShopKeeper_5_Description,Text,,"스킬을 풀어 지급해야 하는 골드는 해당 캐릭터의 체력치로 대신 지급됩니다.
+지불하는 체력치는 필요한 금화 수치의 절반입니다.","Skills consume HP instead of Gold while active.
+HP cost = 50% of required Gold.     ","スキルを解放するために支払わなければならない金貨は、そのキャラクターの体力値に代えて支払われます。
+支払った体力値は必要な金貨の数値の半分である。","释放技能需要支付的金币将以该角色体力值代为支付。
+支付的体力值为所需金币数值的一半。",
+Buff/B_ShopKeeper_5_Name,Text,,신용 연체,Credit Overdue,債務超過,信用逾期,
+Buff/B_ShopKeeper_R2_Description,Text,,기술 사용 시 10G가 소모됩니다.,Consumes 10G per skill use.,スキル使用時に10G消費する。,使用技能时消耗10G。,
+Buff/B_ShopKeeper_R2_Name,Text,,보너스,Commission,ボーナス,提成,
+Buff/B_ShopKeeper_R3_0_Description,Text,,라운드 시작 시 스킬을 하나 뽑습니다.,Draw 1 skill at round start.,ラウンド開始時にスキルを抽出する。,回合开始时抽取一个技能。,
+Buff/B_ShopKeeper_R3_0_Name,Text,,카드를 뽑다,Draw,ドロー,抽卡,
+Buff/B_ShopKeeper_R3_1_Description,Text,,"'신제품 출시'의 금화 소모가 증가하여 층당 10G 증가
+부채 상태 시 층당 공격력 +12% 제공
+카드 세탁 시 2 층 감소.","Increases ""New Product Launch"" Gold cost by +10G per stack.
+When in Debt: +12% damage per stack.
+Reduces stacks by 2 when shuffling.",,,
+Buff/B_ShopKeeper_R3_1_Name,Text,,돈을 내다,Payment Upfront,金を納める,一手交钱,
+Buff/B_ShopKeeper_R3_2_Description,Text,,"부채 상태가 아닐 때, 각 층은 손패 중 스킬 골드를 -5G, 최저 0G를 소모합니다.",When not in Debt: Reduces Gold cost of skills in hand by 5G per stack (min 0G).     ,負債状態にない場合、各レイヤーは手札中の技能金貨を-5G消費させ、最低は0Gとする。,未处于负债状态时，每层使手牌中技能金币消耗-5G，最低为0G。,
+Buff/B_ShopKeeper_R3_2_Name,Text,,화물을 취득하다,Goods Delivery,貨物を取得する,一手交货,
+Character/ShopKeeper_PassiveDes,Text,,"'점장님' 의 전속 스킬은 <color=#FDD017>골드</color>를 소모합니다.
+-50% 할인된 가격으로 상점에서 물건을 구입합니다.
+
+물품 구매 시 금화 구매 제한을 무시할 수 있으며, 금화가 마이너스일 경우 부채 상태에 들어간다.
+부채 상태가 루시 스킬을 추출하면 루시 스킬이 추방되어점장""의 특수 스킬이 생성됩니다.","Shopkeeper's exclusive skills consume <color=#FDD017>Gold</color>.
+Purchases in shops are 50% off.
+
+Can ignore Gold purchase limits. Enter Debt if Gold is negative.
+Drawing Lucy's skills while in Debt exiles them and creates Shopkeeper's unique skills.
+
+Items converted to Gold yield 50% value.
+Mana is reduced during Debt.",,,
+Character/ShopKeeper_PassiveName,Text,,두 번째 잔의 반값,Second Round Half-Price,2杯目は半額,第二杯半价,
+Character/ShopKeeper_SelectInfo,Text,,"제비꽃.
+사계절 술집의 점장, 바텐더.
+일상적인 취미는 술을 조리하고 장사를 하는 것이다.사계절 술집은 계절풍 어촌에 자리 잡고 있기 때문에 제비꽃은 다양한 사람들을 자주 만날 수 있다.
+어촌 전염병의 출현으로 장사가 점점 나빠져 가게에 온 사람도 아는 옛 친구 몇 명밖에 남지 않았다.
+현재 술집 이전의 새 주소를 찾기 위해 고민하고 있다.","Violet
+Bartender of Four Seasons Tavern.
+Hobbies: Mixing drinks and business. Regularly interacts with diverse patrons.
+Plague outbreak ruined business. Only old friends remain as customers.
+Currently seeking new location to relocate tavern.","スミレ。
+四季酒場の店長、バーテンダー。
+日常の趣味は酒の調合と商売です。四季酒場は季節風漁村にあるので、スミレはいろいろな人によく出会うことができます。
+漁村疫病の発生で商売が悪くなり、店に着いたのも知り合いの旧友が数人しか残っていない。
+酒場の移転先を探して悩んでいる。","堇。
+四季酒馆的店长，调酒师。
+日常爱好就是调酒和做买卖。因为四季酒馆坐落在季风渔村，所以堇能经常遇到各式各样的人。
+渔村疫病的出现导致生意越来越差，到店的也只剩几个认识的老朋友了。
+目前正在为寻找酒馆搬迁的新地址发愁。",
+Character/ShopKeeper_Text_Battle_AllyND_0,Text,,조심,Careful.,気をつけてください。,小心。,
+Character/ShopKeeper_Text_Battle_Cri_0,Text,,좋아요.,Hmm.,よし,嗯。,
+Character/ShopKeeper_Text_Battle_Healed_0,Text,,좋아요.,Good.,よし,好。,
+Character/ShopKeeper_Text_Battle_Idle_0,Text,,뭐 마실래?,Care for a drink?,何を飲みますか。,喝一杯吗。,
+Character/ShopKeeper_Text_Battle_Kill_0,Text,,계약서에 이렇게 적혀있어요.,As stipulated in the contract.,契約書にはそう書かれています。,合同上面就是这么写的。,
+Character/ShopKeeper_Text_Battle_ND_0,Text,,폐점해야겠어요.,Need to close up.,閉店しなければなりません。,需要打烊了。,
+Character/ShopKeeper_Text_Battle_Start_0,Text,,폐점했으니 내일 다시 오세요.,We're closed. Come back tomorrow.,閉店したので、明日また来ましょう。,打烊了，明天再来吧。,
+Character/ShopKeeper_Text_Battle_Start_1,Text,,오늘은 쉬어요.,Closed today.,今日は休みです。,今天休息。,
+Character/ShopKeeper_Text_Field_GetItem_0,Text,,창고는 아직 놓을 수 있습니까?,Can the warehouse still hold this?,倉庫はまだ置けますか。,仓库还放得下吗。,
+Character/ShopKeeper_Text_Field_Idle_0,Text,,한가한 틈을 타서 너에게 술 한 잔을 만들어 줄게.,Let me mix you a drink while I'm free.,暇なうちに、一杯お酒をあげましょう。,趁着空闲，给你调一杯吧。,
+Character/ShopKeeper_Text_Field_Idle_1,Text,,"됐어, 잔 안 가져왔어.","Nevermind, forgot my shaker.",まあ、カップは持っていません。,算了，没带雪克杯。,
+Character/ShopKeeper_Text_PharosLeader_0,Text,,문을 열고 손님을 맞이하다.,Open for business.,ドアを開けて客を迎える。,开门迎客。,
+Character/ShopKeeper_Text_PharosLeader_1,Text,,…,...,…,…,
+Character/ShopKeeper_Text_PharosLeader_2,Text,,외상은 안 됩니다.,No credit allowed.,掛け売りはできません。,不能赊账。,
+Character/ShopKeeper_name,Text,,점장님,Shopkeeper,「店長」,“店长”,
+Skill/S_ShopKeeper_1_Description,Text,,"현재 보유한 금화 수÷100의 데미지를 추가로 입힙니다.
+부채 상태일 때는 금화 수 ÷(-250)로 바뀐다.","Deals additional damage equal to current Gold ÷100.
+When in Debt, changes to Gold ÷(-250).","追加で現在所持している金貨数÷100のダメージを与える。
+負債状態の場合、金貨数÷（-250）となります。","额外造成当前拥有金币数÷100的伤害。
+负债状态时改为金币数÷(-250)。",
+Skill/S_ShopKeeper_1_Name,Text,,한잔 하시죠,Have a Drink,一杯おごる,请你一杯,
+Skill/S_ShopKeeper_2_Description,Text,,"금화를 소모/획득할 때마다 이 스킬이 소모하는 금화 수 -10G, 추가 &a(10%)의 데미지를 입힙니다.
+부채 상태 시, 매번 금화를 소모/획득 시, 이 스킬이 소모한 금화 수 +10G, 추가로 &a(10%)의 데미지를 입힘, 방출 후 라운드가 종료됩니다.","Each time Gold is spent/gained, this skill's Gold cost -10G and deals an additional &a(10%) damage.
+When in Debt, each time Gold is spent/gained, this skill's Gold cost +10G and deals &a(10%) damage. Ends turn after cast.","金貨を消費/獲得するたびに、このスキルが消費する金貨の数は-10 Gで、さらに&a（10%）のダメージを与えます。
+負債状態の場合、金貨を消費/獲得するたびに、このスキルが消費する金貨の数は+10 Gで、さらに&a（10%）のダメージを与え、リリース後にラウンドを終了します。","每次消耗/获得金币时，此技能消耗的金币数-10G，额外造成&a（10%）的伤害。
+负债状态时，每次消耗/获得金币时，此技能消耗的金币数+10G，额外造成&a（10%）的伤害，释放后将结束回合。",
+Skill/S_ShopKeeper_2_Name,Text,,폐점,Closing Time,店じまいをする,今天打烊,
+Skill/S_ShopKeeper_3_Description,Text,,"부채 상태에서 이 스킬을 뽑을 때 30G를 소모하고 스킬 1개를 뽑습니다.
+추출한 스킬을 시전 시 20G가 소모됩니다.","When drawing this skill while in Debt, spend 30G and draw 1 skill.
+Casting the drawn skill consumes 20G.","負債状態このスキルを抽出する場合、30 Gを消費し、1つのスキルを抽出します。
+抽出したスキルを解放するには20 Gを消費する必要があります。","负债状态抽取此技能时，消耗30G，抽取1个技能。
+抽取的技能释放时需要消耗20G。",
+Skill/S_ShopKeeper_3_Name,Text,,칵테일,Cocktail,カクテル,喝一杯吧,
+Skill/S_ShopKeeper_4_Description,Text,,"부채 상태 시 1회성을 잃고, 시전 시 최대 2 포인트의 마법치를 소모, 1 포인트의 마법치를 소모할 때마다 1 스킬을 추출, 이로써 추출한 스킬을 시전 시 10 골드를 추가로 소모합니다.","Loses Exhaust when in Debt. Consume up to 2 Mana when played - for each Mana spent, draw 1 skill. Casting drawn skills consumes +10G.      ",負債状態時に一度を失い、打出時に最大2点の法力値を消費し、法力値を消費するごとに技能を抽出し、それによって抽出された技能を解放する際に追加で10金貨を消費する必要がある。,"负债状态时失去一次性，打出时消耗最多2点法力值,每消耗一点法力值便抽取一个技能,以此抽取的技能释放额外消耗10G。",
+Skill/S_ShopKeeper_4_Name,Text,,퇴근하다,Clock Out,退勤,下班收工,
+Skill/S_ShopKeeper_5_Description,Text,,부채 상태 시 100G 소모.,Consumes 100G when in Debt.,負債状態の場合は100Gを消費する。,负债状态时消耗100G。,
+Skill/S_ShopKeeper_5_Name,Text,,신용 연체,Credit Overdue,債務超過,信用逾期,
+Skill/S_ShopKeeper_6_Description,Text,,"적을 명중시키면 1 포인트의 마법력을 획득합니다.
+부채 상태에서는 금화를 소모하지 않고 신속과 무시 조롱을 곁들이지만 법력치를 얻을 수 없다.","On hit, gain 1 Mana.
+When in Debt: Does not consume Gold, grants Swiftness and Ignores Taunt, but cannot gain Mana.","敵に命中した場合、1点の法力値を得る。
+負債状態の時は金貨を消費せず、迅速さと無視皮肉を伴うが、法力値は得られない。","命中敌人时，获得1点法力值。
+负债状态时不消耗金币，附带迅速与无视嘲讽，但是无法获得法力值。",
+Skill/S_ShopKeeper_6_Name,Text,,정보 수집,Intel Gathering,情報収集,情报收集,
+Skill/S_ShopKeeper_7_Description,Text,,"적중 시 10G를 획득.
+적중 수가 많을수록 획득하는 금화량이 증가합니다.","Gain 10G on hit.
+Gains more Gold based on number of enemies hit.","ヒットした場合、10 Gを取得します。
+命中した敵の数が多ければ多いほど、獲得した金貨の量が増える。","命中时，获得10G。
+命中敌人数越多，获得的金币量会增多。",
+Skill/S_ShopKeeper_7_Name,Text,,매일 문을 닫다,Daily Closing,毎日閉店する,天天打烊,
+Skill/S_ShopKeeper_8_Description,Text,,"적중 후 현재 목표의 남은 체력치를 획득하는 금화. 최대 30G를 초과하지 않습니다.
+부채 상태 시 일반 아이템 1개를 추가로 획득, 방출 후 2 흑무 라운드 수를 추진.","On hit, gain Gold equal to target's remaining HP (max 30G).
+When in Debt: Gain 1 additional Common item. Advances 2 <color=#8EEC90>Black Fog</color> rounds after cast.","命中すると、現在の目標余剰体力値の金貨が手に入ります。最大30 Gまでです。
+負債状態の時に普通の道具を追加して獲得し、リリース後に2黒霧ラウンド数を推進する。","命中后，获得当前目标剩余体力值的金币。最多不超过30G。
+负债状态时额外获得一个普通道具，释放后推进2黑雾回合数。",
+Skill/S_ShopKeeper_8_Name,Text,,사기 계약,Fraudulent Contract,不正契約,欺诈合同,
+Skill/S_ShopKeeper_9_0_Name,Text,,재고를 점검하다-,Inventory Check-,倉庫を点検する-,清点库存-,
+Skill/S_ShopKeeper_9_1_Name,Text,,재고를 점검하다-,Inventory Check-,倉庫を点検する-,清点库存-,
+Skill/S_ShopKeeper_9_2_Name,Text,,재고를 점검하다-,Inventory Check-,倉庫を点検する-,清点库存-,
+Skill/S_ShopKeeper_9_Description,Text,,"적중 시 목표 사이에서 무작위로 3회 점프하여 매번 데미지를 50% 감소시킵니다.
+부채 상태 시 점프하지 않지만 치명타 확률 +50%, 치명타 피해 +50%.놓으면 마법 값이 0이 됩니다.","On hit, randomly jumps between targets 3 times, reducing damage by 50% each jump.
+When in Debt: No jumping. Instead, +50% Critical Chance and +50% Critical Damage. Resets Mana to 0 after cast.","命中すると、ターゲット間でランダムに3回ジャンプし、ダメージが50%減少する。
+負債状態の時はジャンプしないが、致命的な一撃率+50%、致命的な一撃ダメージ+50%である。法力値は0になります。","命中时，将在目标之间随机跳跃三次，每次伤害降低50%。
+负债状态时不再跳跃，但暴击率+50%，暴击伤害+50%。释放后法力值变为0。",
+Skill/S_ShopKeeper_9_Name,Text,,재고를 점검하다,Inventory Check,倉庫を点検する,清点库存,
+Skill/S_ShopKeeper_NC_Name,Text,,S_ShopKeeper_NC,S_ShopKeeper_NC,S_ShopKeeper_NC,S_ShopKeeper_NC,
+Skill/S_ShopKeeper_OL_Name,Text,,S_ShopKeeper_OL,S_ShopKeeper_OL,S_ShopKeeper_OL,S_ShopKeeper_OL,
+Skill/S_ShopKeeper_P_0_Description,Text,,방출 후 자신의 모든 과부하를 제거합니다.과부하가 한 층 소모될 때마다 자신의 스킬을 우선적으로 뽑습니다.추출한 스킬 금화 소모가 0이 됩니다.,"On cast: Remove all Overload. For each Overload removed, prioritize drawing your skills. Drawn skills cost 0 Gold.",リリース後、自身のすべての過負荷を解消します。オーバーロードを消費するごとに、自分のスキルを優先的に抽出します。抽出されたスキル金貨の消費は0になります。,释放后，消除自身所有过载。每消耗一层过载，优先抽取自己的一个技能。抽取的技能金币消耗变为0。,
+Skill/S_ShopKeeper_P_0_Name,Text,,금화,Gold Coin,金貨,金币,
+Skill/S_ShopKeeper_P_1_Description,Text,,석방 후 대상의 모든 과부하를 지웁니다.한 층의 과부하를 제거할 때마다 스킬을 뽑습니다.추출한 스킬 방출에 50G가 추가로 소모됩니다.,"On cast: Clear target's Overload. For each Overload cleared, draw 1 skill. Drawn skills cost +50G to cast.",リリース後、ターゲットのすべての過負荷をクリアします。レイヤーの過負荷を解消するごとにスキルを抽出します。抽出されたスキルは追加消費50 Gを解放する。,释放后，清除目标的所有过载。每消除一层过载，抽取一个技能。抽取的技能释放额外消耗50G。,
+Skill/S_ShopKeeper_P_1_Name,Text,,은화,Silver Coin,銀貨,银币,
+Skill/S_ShopKeeper_P_2_Description,Text,,"마법력 값을 소모하면 해당 스킬의 X라운드 후 카드 포기 수가 -1이 됩니다.
+이 스킬이 추방되었을 때 라운드를 끝내고 스킬을 하나 뽑습니다.","Consuming Mana reduces this skill's future Discard count by 1 per X rounds.
+If excluded, end turn and draw 1 skill.","法力値を消費すると、そのスキルのXターン後にカードカウント-1を破棄します。
+このスキルが追放された時にラウンドを終了し、スキルを抽出する。","消耗法力值时会使该技能的X回合后弃牌计数-1。
+这个技能被放逐时结束回合，抽取一个技能。",
+Skill/S_ShopKeeper_P_2_Name,Text,,동전,Copper Coin,銅貨,铜币,
+Skill/S_ShopKeeper_R1_Description,Text,,"적중 시 88%의 확률로 88G를 획득합니다.
+8% 확률로 88 데미지를 추가로 입힙니다.","88% chance to gain 88G on hit.
+8% chance to deal +88 damage.","命中すると88%の確率で88 Gが得られる。
+8%の確率で88ダメージが追加されます。","命中时，有88%的概率获得88G。
+有8%的概率额外造成88点伤害。",
+Skill/S_ShopKeeper_R1_Name,Text,,恭喜发财,Prosperity Greetings,恭喜发财,恭喜发财,
+Skill/S_ShopKeeper_R2_Description,Text,,"손에 든 모든 기술의 복제를 카드 추첨 더미 꼭대기에 세척한다.그리고 수중의 모든 스킬에 추가: 추방, 2라운드 후 카드 포기, 신속, 그리고 금화 사용으로 변경, 금화 소모는 마법치 *10입니다.","Shuffle copies of all held skills into draw pile. Add ""Exclude"", ""Discard after 2 rounds"", ""Swiftness"", and convert costs to Gold (Mana×10) to all held skills.",手にしたすべてのスキルのコピーをドロースタックトップにクリーニングします。そして、手にしたすべてのスキルに追加します：放逐、2ラウンド後にカードを捨てる、迅速、そして金貨を使うことに変更して、金貨は法力値*10に消耗します。,将手中所有技能的复制洗入抽牌堆顶。然后为手中所有技能添加放逐、2回合后弃牌、迅速并改为使用金币，金币消耗为法力值*10。,
+Skill/S_ShopKeeper_R2_Name,Text,,돈이 있다,Wealth Talks,金がある,有钱能使鬼推磨,
+Skill/S_ShopKeeper_R3_Description,Text,,"손패 맨 위에 있는 3개 스킬을 버리고 3개 스킬을 뽑습니다.
+3개의 스킬을 버리면 이 스킬은 추첨 더미에 추가됩니다.","Discard top 3 skills in hand and draw 3 skills.
+If 3 skills were discarded, shuffle this skill into draw pile.","手札の一番上にある3つのスキルを捨てて、3つのスキルを抽出します。
+3つのスキルを破棄すると、本スキルはドロースタックに追加されます。","丢弃手牌最上面的3个技能，抽取3个技能。
+如果丢弃了3个技能，本技能洗入抽牌堆。",
+Skill/S_ShopKeeper_R3_Name,Text,,신상품 출시,New Product Launch,新品発売,新品上市,
+SkillExtended/Ex_ShopKeeper_1_EnforceString,Text,,비용 1 이상의 스킬,Skills costing ≥1,費用1以上のスキル,费用1以上的技能,
+SkillExtended/Ex_ShopKeeper_1_Name,Text,,"일회용
+방출 후, 모든 유물 수가 +1, 라운드 시작\라운드 종료\라운드 종료 버튼을 한 번 누르는 효과를 촉발합니다.","Disposable
+After cast: +1 to all Relic counters. Triggers Round Start\Round End\End Turn button effects once.","1回限り
+リリース後、すべての遺物をカウント+1し、1回のラウンド開始/ラウンド終了/ラウンド終了ボタンを押す効果をトリガします。","一次性
+释放后，所有遗物计数+1，并触发一次回合开始\回合结束\按下回合结束按钮的效果。",
+SkillExtended/Ex_ShopKeeper_C_Des,Text,,이 스킬 시전 시 추가 금화를 지불해야 합니다,Pays extra Gold when casting this skill.,このスキルをリリースするには追加の金貨を支払う必要があります,打出这个技能时会额外支付金币,
+SkillExtended/Ex_ShopKeeper_C_Name,Text,,Tip,Tip,Tip,小费,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

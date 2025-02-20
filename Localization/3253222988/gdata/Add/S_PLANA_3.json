@@ -1,0 +1,34 @@
+{
+    "S_PLANA_3": {
+        "UseAp": 1,
+        "Target": "enemy",
+        "Particle": "Particle/Control/Control_2",
+        "Effect_Target": "SE_PLANA_3",
+        "Name": "战术锁定",
+        "Description": "锁定攻击目标，使其受到伤害增加&a%和攻防降低\n减益值根据治疗力比例增加。",
+        "SkillExtended": [
+            "PLANA.S_PLANA_3"
+        ],
+        "NotCount": true,
+        "IgnoreTaunt": true,
+        "User": "PLANA",
+        "Image_2": "S_PLANA_3\\S_PLANA_3_Image_2.png",
+        "Image_1": "S_PLANA_3\\S_PLANA_3_Image_1.png",
+        "Image_0": "S_PLANA_3\\S_PLANA_3_Image_0.png",
+        "_gdeSchema": "Skill",
+        "Category": "null",
+        "Rare": false,
+        "NODOD": false,
+        "NotChuck": false,
+        "HealSkill": false,
+        "Disposable": false,
+        "NoDrop": false,
+        "Except": false,
+        "NoBasicSkill": false,
+        "Basic": false,
+        "Track": false,
+        "Fatal": false,
+        "EnemyPreview": false,
+        "UnknownTarget": false
+    }
+}

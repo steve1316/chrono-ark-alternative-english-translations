@@ -1,0 +1,203 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Amethyst_10_Description,Text,,,"Whenever the deck changes from odd to even, the character with this status takes damage each turn equal to the number of stacks.",,每当牌库从奇数变为偶数时，使持有该状态的角色受到该状态的每回合伤害。,
+Buff/B_Amethyst_10_Name,Text,,,Burn,,灼烧,
+Buff/B_Amethyst_5_0_Description,Text,,,"When any ally plays a Countdown skill from hand, release a copy without Countdown. 
+Removes this status when any Countdown skill is played.",,"所有友军从手中打出倒计时技能时，释放一个没有倒计时的复制。
+打出任意倒计时技能时解除该状态",
+Buff/B_Amethyst_5_0_Name,Text,,,Star,,星星,
+Buff/B_Amethyst_5_1_Description,Text,,,"When this status ends, heal 30% of all damage taken during its duration. 
+(Currently healable: &a)",,"该状态结束时自身回复期间所受所有伤害的30%。
+（当前可回复&a点）",
+Buff/B_Amethyst_5_1_Name,Text,,,Microcosm,,小宇宙,
+Buff/B_Amethyst_6_0_Description,Text,,,"When a Countdown skill is played, heal self for three times the Countdown value (max 15).",,打出倒计时技能时，回复自身该技能倒计时数三倍（最大为15点）的生命值。,
+Buff/B_Amethyst_6_0_Name,Text,,,Wheel of Fortune,,命运之轮,
+Buff/B_Amethyst_6_1_Description,Text,,,Damage taken reduced by 20%.,,受到伤害减少20%。,
+Buff/B_Amethyst_6_1_Name,Text,,,Wheel of Fortune,,命运之轮,
+Buff/B_Amethyst_9_0_Description,Text,,,Refunds the cost of the next Countdown skill.,,返还下一个倒计时技能的费用。,
+Buff/B_Amethyst_9_0_Name,Text,,,Stellar Shift,,星移相位,
+Buff/B_Amethyst_9_1_Description,Text,,,"When removed, heal 120% of all damage taken during this status. (Currently healable: &a)",,"解除时回复该状态期间所受所有伤害的120%的生命值。
+（当前可回复&a点）",
+Buff/B_Amethyst_9_1_Name,Text,,,Lightspeed,,光速,
+Buff/B_Amethyst_R1_Description,Text,,,"Whenever the deck changes from odd to even, gain &a Shield for 1 turn.",,每当牌库从奇数变为偶数时，获得&a点防护罩持续1回合。,
+Buff/B_Amethyst_R1_Name,Text,,,Starlight,,星光,
+Character/Amethyst_PassiveDes,Text,,,Gain an exclusive consumable.,,获得一个专属消耗品。,
+Character/Amethyst_PassiveName,Text,,,Amethyst,,紫色宝石,
+Character/Amethyst_SelectInfo,Text,,,"Amethyst is an astronomy enthusiast who often observes celestial phenomena using her homemade telescope from the town's watchtower.
+She has deep knowledge of astrology, naming all observed stars after familiar terms from her mind.
+To ""protect the town's safety"" (self-proclaimed), she ventures to the clocktower to study stars from new angles.
+
+A star-manipulating maiden who enhances skills through odd/even deck mechanics, excelling in Countdown strategies.",,"紫宝石是一位天文爱好者，经常在小镇的瞭望台上利用自制望远镜观望天象。
+对于占星术颇有研究，观察的所有星星都会已自己脑海中熟悉的名字来命名。
+为了小镇的安全（自称），决定前往钟楼从不同角度观察星星。
+
+操控星星能力的星之少女，通过奇偶抽牌堆来增强技能的效果，非常擅长倒计时。",
+Character/Amethyst_SkinDesc,Text,,,Amethyst's casual outfit worn while stargazing.,,紫宝石平时看星星时穿的的衣服。,
+Character/Amethyst_Text_Battle_AllyND_0,Text,,,You don't look so well.,,你看起来气色不太好。,
+Character/Amethyst_Text_Battle_AllyND_1,Text,,,Beg me if you need help.,,需要我的帮助就求我吧。,
+Character/Amethyst_Text_Battle_Cri_0,Text,,,Perfect.,,就是这样。,
+Character/Amethyst_Text_Battle_Cri_1,Text,,,Heh.,,呵呵。,
+Character/Amethyst_Text_Battle_Healed_0,Text,,,Thanks~,,谢谢咯。,
+Character/Amethyst_Text_Battle_Healed_1,Text,,,Not bad.,,做的不错嘛。,
+Character/Amethyst_Text_Battle_Idle_0,Text,,,The stars are falling!,,星星要掉下来了！,
+Character/Amethyst_Text_Battle_Idle_1,Text,,,Hurry up.,,快点动起来。,
+Character/Amethyst_Text_Battle_Kill_0,Text,,,Precision.,,精准。,
+Character/Amethyst_Text_Battle_Kill_1,Text,,,Phase.,,相位。,
+Character/Amethyst_Text_Battle_Kill_2,Text,,,Calamity.,,灾祸。,
+Character/Amethyst_Text_Battle_ND_0,Text,,,All part of the cosmic dream.,,这都是星梦。,
+Character/Amethyst_Text_Battle_ND_1,Text,,,Macrocosm.,,大宇宙。,
+Character/Amethyst_Text_Battle_ND_2,Text,,,"Descend faster, my stars.",,下降得再快一些，星星们。,
+Character/Amethyst_Text_Battle_Start_0,Text,,,Don’t die before me—it’d be troublesome.,,可别死在我前面，我会很苦恼的。,
+Character/Amethyst_Text_Battle_Start_1,Text,,,I can see the future in my crystal ball.,,在水晶球中我能看到未来。,
+Character/Amethyst_Text_Field_GetItem_0,Text,,,Time to give it a new name.,,该起个新名字了。,
+Character/Amethyst_Text_Field_GetItem_1,Text,,,So shiny~,,金光闪闪呢。,
+Character/Amethyst_Text_Field_Idle_0,Text,,,Gaze at the sky properly.,,好好看看天空吧。,
+Character/Amethyst_Text_Field_Idle_1,Text,,,Slow down—I’m not athletic.,,慢一点各位，我不擅长运动。,
+Character/Amethyst_Text_Field_Potion_P_0,Text,,,I’m no lab rat.,,我可不是实验品。,
+Character/Amethyst_Text_Field_Potion_P_1,Text,,,You call this... star potion?,,你说这是...星星药水？,
+Character/Amethyst_Text_PharosLeader_0,Text,,,Look above you.,,看看你们的头顶吧。,
+Character/Amethyst_Text_PharosLeader_1,Text,,,"The stars did this, not me.",,是星星干的，不是我。,
+Character/Amethyst_Text_PharosLeader_2,Text,,,How’s getting crushed by a star?,,被星星砸扁的感觉如何。,
+Character/Amethyst_name,Text,,,Amethyst,,紫宝石,
+Character_Skin/AmethystSkin_SkinDesc,Text,,,Amethyst's star-speckled outfit for cosmic chatter☆.,,紫宝石平时说话带星星时穿的的衣服☆。,
+Character_Skin/AmethystSkin_SkinName,Text,,,Amethyst☆,,紫宝石☆,
+Character_Skin/AmethystSkin_UnlockString,Text,,,Amethyst’s own outfit—no unlocking needed!,,紫宝石自己带的衣服，不用解锁！,
+Item_Consume/Amethyst_PassiveConsume_Description,Text,,,"Grants special enhancements to non-Amethyst allies’ skills. 
+Max HP +2. 
+Limited to 1 per character.",,"赋予除紫宝石外其他角色技能特殊强化。
+使其最大生命值+2。
+每名角色限制1次。",
+Item_Consume/Amethyst_PassiveConsume_name,Text,,,Amethyst,,紫宝石,
+Item_Equip/Equip_Amethyst_1_Description,Text,,,"After the deck changes from odd to even 4 times, inflict Burn with 100% Pain success on a random enemy.",,每当牌库从奇数变为偶数4次时，赋予随机敌人痛苦成功率100%的灼烧状态。,
+Item_Equip/Equip_Amethyst_1_name,Text,,,Witch’s Hat,,魔法帽,
+Item_Equip/Equip_Amethyst_2_Description,Text,,,"At battle start, temporarily grant positive enchantments to all other unequipped gear.",,战斗开始时，使所有其他未附魔的正在佩戴的装备临时获得正面附魔。,
+Item_Equip/Equip_Amethyst_2_name,Text,,,Astrology Tome,, 占星书,
+Item_Passive/Relic_Amethyst_1_Description,Text,,,"Relic display capacity +1. When playing a Countdown skill, heal three times the Countdown value.",,遗物台展示最大数+1，打出倒计时技能时，回复自身该技能倒计时数三倍的生命值。,
+Item_Passive/Relic_Amethyst_1_name,Text,,,Crystal Ball,,水晶球,
+Item_Passive/Relic_Amethyst_2_Description,Text,,,"When playing a Countdown skill, reduce a random skill’s cost by 1 this turn.",,每当打出倒计时技能，使手中的一个随机技能于本回合内减少1点费用。,
+Item_Passive/Relic_Amethyst_2_name,Text,,,Stellar Sigil,,星星印记,
+SimpleCampDialogue/CampDial_Amethyst_10_Dialogues_0,Text,,,[A]You can’t see stars inside a shell.,,[A]待在壳里面可看不见星星哦。,
+SimpleCampDialogue/CampDial_Amethyst_10_Dialogues_1,Text,,,[B]This armor lets me see everything inside.,,[B]这身铠甲在里面可是看的一清二楚。,
+SimpleCampDialogue/CampDial_Amethyst_10_Dialogues_2,Text,,,[A]What kinda tech is this?,,[A]喂这是什么科技。,
+SimpleCampDialogue/CampDial_Amethyst_11_Dialogues_0,Text,,,"[A]Dark Priestess, what’s in that cauldron?",,[A]黑暗祭祀，这炉里面装的都是什么。,
+SimpleCampDialogue/CampDial_Amethyst_11_Dialogues_1,Text,,,[B]Souls.,,[B]灵魂。,
+SimpleCampDialogue/CampDial_Amethyst_11_Dialogues_2,Text,,,[A]So fun!,,[A]好好玩。,
+SimpleCampDialogue/CampDial_Amethyst_11_Dialogues_3,Text,,,"[B]Not scared, huh?",,[B]竟然没被吓到吗。,
+SimpleCampDialogue/CampDial_Amethyst_12_Dialogues_0,Text,,,"[A]Silverstein, alone here?",,[A]希尔弗斯坦，一个人在这做什么呢。,
+SimpleCampDialogue/CampDial_Amethyst_12_Dialogues_1,Text,,,[B]This area’s near monster territory. Stay alert.,,[B]这里快到怪物活动的区域了，注意安全。,
+SimpleCampDialogue/CampDial_Amethyst_12_Dialogues_2,Text,,,[A]Got it~,,[A]好的~,
+SimpleCampDialogue/CampDial_Amethyst_13_Dialogues_0,Text,,,"[A]Hanako, let’s swap outfits!",,[A]卉子和我换身衣服吧。,
+SimpleCampDialogue/CampDial_Amethyst_13_Dialogues_1,Text,,,[B]Magic robes don’t suit me.,,[B]魔法服装不太适合我。,
+SimpleCampDialogue/CampDial_Amethyst_13_Dialogues_2,Text,,,[A]My outfit’s versatile~,,[A]我这身衣服可是百搭哦。,
+SimpleCampDialogue/CampDial_Amethyst_14_Dialogues_0,Text,,,"[A]Ah, the sun—so bright!",,[A]啊，太阳，好大的太阳。,
+SimpleCampDialogue/CampDial_Amethyst_14_Dialogues_1,Text,,,[B]What nonsense... Shameless.,,[B]你在说什么呢...真是不害臊。,
+SimpleCampDialogue/CampDial_Amethyst_15_Dialogues_0,Text,,,[A]Selena! Such an adorable witch too.,,[A]赛琳娜！也是个好可爱的魔女。,
+SimpleCampDialogue/CampDial_Amethyst_15_Dialogues_1,Text,,,[B]Don’t hug me suddenly—others are watching!,,[B]不要突然冲过来抱我啊，还有其他人呢。,
+SimpleCampDialogue/CampDial_Amethyst_16_Dialogues_0,Text,,,[B]Today’s the first day heading to the clocktower to observe stars.,,[B]今天是启程去钟楼看星星的第一天。,
+SimpleCampDialogue/CampDial_Amethyst_16_Dialogues_1,Text,,,[A]Stop reading my mind—and saying it aloud!,,[A]别随便读人心啊！还说出来。,
+SimpleCampDialogue/CampDial_Amethyst_16_Dialogues_2,Text,,,[B]Today’s the first day to activate the clocktower.,,[B]今天是启程去启动钟楼的第一天。,
+SimpleCampDialogue/CampDial_Amethyst_16_Dialogues_3,Text,,,[A]Quit exposing me!,,[A]别再揭我短了。,
+SimpleCampDialogue/CampDial_Amethyst_17_Dialogues_0,Text,,,"[A]John, look up—a star’s falling!",,[A]约翰，快看头顶，有星星要掉下来了。,
+SimpleCampDialogue/CampDial_Amethyst_17_Dialogues_1,Text,,,[B]Trying to sneak my bow again?,,[B]又想偷偷玩我的弓了。,
+SimpleCampDialogue/CampDial_Amethyst_18_Dialogues_0,Text,,,[A]Ilya’s so useless.,,[A]伊利亚真是没什么用呢。,
+SimpleCampDialogue/CampDial_Amethyst_18_Dialogues_1,Text,,,[B]Yes... Yes...,,[B]是的…是的…,
+SimpleCampDialogue/CampDial_Amethyst_18_Dialogues_2,Text,,,[A]What even happened to you...,,[A]你到底经历了什么…,
+SimpleCampDialogue/CampDial_Amethyst_19_Dialogues_0,Text,,,"[B]The stars above are fake, you know.",,[B]据我所知，天上的星星都是假的。,
+SimpleCampDialogue/CampDial_Amethyst_19_Dialogues_1,Text,,,[A]Impossible—are you from the stars?,,[A]不可能，你难道是从星星上下来的吗。,
+SimpleCampDialogue/CampDial_Amethyst_1_Dialogues_0,Text,,,[A]Staring------,,[A]盯------,
+SimpleCampDialogue/CampDial_Amethyst_1_Dialogues_1,Text,,,[B]Try that again.,,[B]再看我一眼试试。,
+SimpleCampDialogue/CampDial_Amethyst_1_Dialogues_2,Text,,,"[A]So mean, scary~",,[A]哇，好凶，好可怕。,
+SimpleCampDialogue/CampDial_Amethyst_20_Dialogues_0,Text,,,[A]Why do you talk with ☆s? So fun!,,[A]为什么你说话会带☆，好好玩。,
+SimpleCampDialogue/CampDial_Amethyst_20_Dialogues_1,Text,,,"[B]It’s my special ☆ power. Heh, worship ☆ me!",,[B]这是我的特殊☆能力，哼哼，崇拜☆我吧。,
+SimpleCampDialogue/CampDial_Amethyst_20_Dialogues_2,Text,,,"[A]I’m ☆ the Star ☆ Witch, sent from the ☆ skies to aid ☆ you!",,[A]我☆就是星☆星魔女，从天☆而来帮助☆你们。,
+SimpleCampDialogue/CampDial_Amethyst_20_Dialogues_3,Text,,,[B]Ahem☆ Momori’s charm got copied☆ But Amethyst’s cuter☆,,[B]咳嗯☆桃梨的独特魅力被学走了☆不过紫宝石真可爱☆,
+SimpleCampDialogue/CampDial_Amethyst_2_Dialogues_0,Text,,,[A]Joey’s mask makes him look like...,,[A]乔伊带着面具，很像...,
+SimpleCampDialogue/CampDial_Amethyst_2_Dialogues_1,Text,,,[B]I’m elite—my novels too...,,[B]毕竟我是精英，我的小说也是...。,
+SimpleCampDialogue/CampDial_Amethyst_2_Dialogues_2,Text,,,[A]...A gas-addicted freak.,,[A]很像吸毒气长大的。,
+SimpleCampDialogue/CampDial_Amethyst_3_Dialogues_0,Text,,,[A]I wanna be carried by Sith like Eve.,,[A]好想像伊芙一样被西斯抱着。,
+SimpleCampDialogue/CampDial_Amethyst_3_Dialogues_1,Text,,,"[B]You want that too, Amethyst?",,[B]紫宝石也想变成这样吗。,
+SimpleCampDialogue/CampDial_Amethyst_3_Dialogues_2,Text,,,[A]Not what I meant!,,[A]我说的不是这个意思。,
+SimpleCampDialogue/CampDial_Amethyst_4_Dialogues_0,Text,,,[A]No one’ll like you with that veil.,,[A]天天戴着面纱会没人喜欢的哦。,
+SimpleCampDialogue/CampDial_Amethyst_4_Dialogues_1,Text,,,[B]Assassins can’t reveal themselves.,,[B]刺客不能暴露自己的面目。,
+SimpleCampDialogue/CampDial_Amethyst_4_Dialogues_2,Text,,,[A]So mysterious~,,[A]很神秘嘛。,
+SimpleCampDialogue/CampDial_Amethyst_5_Dialogues_0,Text,,,[B]Chainsaw scared you?,,[B]电锯声吓到你了吗？,
+SimpleCampDialogue/CampDial_Amethyst_5_Dialogues_1,Text,,,[A]Saw a horror movie like this... Terrifying.,,[A]我好像看过类似的电影，好可怕。,
+SimpleCampDialogue/CampDial_Amethyst_5_Dialogues_2,Text,,,[B]What’s a movie?,,[B]电影是什么？,
+SimpleCampDialogue/CampDial_Amethyst_6_Dialogues_0,Text,,,[A]Stargazing alone?,,[A]一个人在看星星吗。,
+SimpleCampDialogue/CampDial_Amethyst_6_Dialogues_1,Text,,,[B]...,,[B]…,
+SimpleCampDialogue/CampDial_Amethyst_7_Dialogues_0,Text,,,"[A]Leanne, what’s tactical coordination?",,[A]莉安，战术配合是什么。,
+SimpleCampDialogue/CampDial_Amethyst_7_Dialogues_1,Text,,,"[B]Hold formation: one flank attacks, one defends...",,[B]保持阵型，一人侧面进攻，一人防守...,
+SimpleCampDialogue/CampDial_Amethyst_7_Dialogues_2,Text,,,"[A]Ugh, too complicated.",,[A]啊，好难懂。,
+SimpleCampDialogue/CampDial_Amethyst_8_Dialogues_0,Text,,,"[A]Chickie, want this bread?",,[A]小鸡，想吃这块面包吗,
+SimpleCampDialogue/CampDial_Amethyst_8_Dialogues_1,Text,,,[B]Mhm! Amethyst’s so kind.,,[B]嗯！紫宝石人真好。,
+SimpleCampDialogue/CampDial_Amethyst_8_Dialogues_2,Text,,,"[A]Beg more cutely, and I’ll give it~",,[A]再多摇摇尾巴求求我，我就给你吃。,
+SimpleCampDialogue/CampDial_Amethyst_8_Dialogues_3,Text,,,[B]Feels like a joke...,,[B]感觉被愚弄了...,
+SimpleCampDialogue/CampDial_Amethyst_9_Dialogues_0,Text,,,[B]Join the church? Believe in God.,,[B]要不要考虑加入教会，信仰神。,
+SimpleCampDialogue/CampDial_Amethyst_9_Dialogues_1,Text,,,[A]Nah—churches hate witches.,,[A]算了，教会应该很讨厌魔女吧。,
+Skill/S_Amethyst_10_Description,Text,,,"While active, inflicts Burn on random enemies whenever the deck changes from odd to even. 
+If the deck has an odd number of skills on hit, extend target’s debuffs by 1 turn.",,"倒计时期间每当牌库从奇数变为偶数时，赋予随机敌人灼烧状态。
+命中时，若为牌库中技能数量为奇数，使目标的减益状态延长1回合。",
+Skill/S_Amethyst_10_Name,Text,,,Mars,,火星,
+Skill/S_Amethyst_1_Description,Text,,,"Heals target’s left and right allies for &a (50% Heal Power). 
+During Countdown, heals the last attacked ally instead.",,"该技能将同时治疗目标左侧与右侧友方&a(50%治疗力)点生命。
+倒计时期间，该技能将变更目标治疗最后受到攻击的角色。",
+Skill/S_Amethyst_1_Name,Text,,,Comet,,彗星,
+Skill/S_Amethyst_2_Description,Text,,,"Cleanse one debuff from target. If deck size is even, play a random Countdown skill from deck.",,"解除所选目标的一个减益状态。
+若牌堆数量为偶数，将一个随机的倒计时技能从牌库抽取并释放。",
+Skill/S_Amethyst_2_Name,Text,,,Mercury,,水星,
+Skill/S_Amethyst_3_Description,Text,,,"Reveal 4 exclusive skills from all healers except Amethyst. 
+Choose one to shuffle into deck with a random Amethyst enhancement. 
+Draw a skill.",,"展示四个除紫宝石角色外所有治疗角色的专属技能，选择将其中一个洗入牌库并附带随机的紫宝石专属强化。
+抽取一个技能。",
+Skill/S_Amethyst_3_Name,Text,,,Amethyst,,紫宝石,
+Skill/S_Amethyst_4_Description,Text,,,"Damage dealt equally heals the lowest HP ally. 
+At turn end, if a Countdown skill was played, replay it from deck (only once per skill type).",,"造成的伤害将等量治疗生命值最低的友军。
+按下结束回合按钮时，若本回合内打出了拥有倒计时技能，将该技能从牌库抽取并释放。（多个相同技能一次只有一个发动）",
+Skill/S_Amethyst_4_Name,Text,,,Calamity Star,,灾星,
+Skill/S_Amethyst_5_Description,Text,,,"If deck is odd, shuffle an Excluded Calamity Star. 
+If even, shuffle an Excluded Catastrophe Star.",,"若牌堆数量为奇数，将一张附带放逐的灾星洗入抽牌堆。
+若牌堆数量为偶数，将一张附带放逐的祸星洗入抽牌堆。",
+Skill/S_Amethyst_5_Name,Text,,,Macrocosm,,大宇宙,
+Skill/S_Amethyst_6_Description,Text,,,"Give two allies Excluded Countdown skills that discard after 2 turns. 
+All allies take 20% less damage during Countdown.",,"随机两个友军生成附带放逐、两回合后弃牌的倒计时技能。
+倒计时期间，所有友军受到伤害减少20%。",
+Skill/S_Amethyst_6_Name,Text,,,Wheel of Fortune,,命运之轮,
+Skill/S_Amethyst_7_Description,Text,,,"Damage dealt generates equal Shield. 
+If 3+ Countdown skills are played this turn, replay one from deck (once per skill type).",,"造成的伤害等量生成防护墙。
+本回合从手中打出的倒计时技能达到3的倍数时，将该技能从牌库抽取并释放。（多个相同技能一次只有一个发动）",
+Skill/S_Amethyst_7_Name,Text,,,Catastrophe Star,,祸星,
+Skill/S_Amethyst_8_Description,Text,,,"If target’s HP is below draw pile size, draw a skill and shuffle one into draw pile.",,目标的生命小于抽牌堆数量时，抽取一个技能，选择将一个技能洗入抽牌堆。,
+Skill/S_Amethyst_8_Name,Text,,,Lucky Star,,福星,
+Skill/S_Amethyst_9_Description,Text,,,Refund the next Countdown skill’s cost. Increase target’s buff duration by 1 turn.,,"返还下一个倒计时技能的费用。
+使目标的增益状态增加一回合持续时间。",
+Skill/S_Amethyst_9_Name,Text,,,Lightspeed,,光速,
+Skill/S_Amethyst_Lucy_Description,Text,,,Reveal the top 5 skills in deck. Choose one to give Countdown 1 (if none). Draw all Countdown skills.,,查看牌库顶的5个技能，选择一个其中技能在本场战斗中赋予倒计时1，如果已经有倒计时则不附加，然后抽取所有带有倒计时的技能。,
+Skill/S_Amethyst_Lucy_Name,Text,,,Foresight,,预知未来,
+Skill/S_Amethyst_R1_Description,Text,,,"After casting, re-cast with Countdown 2 and Exclude to heal random allies until turn end. 
+During Countdown, heals last attacked ally.    ",,"释放后再次以倒计时2、放逐再次治疗随机友军直到点击回合结束按钮。
+倒计时期间，该技能将变更目标治疗最后受到攻击的角色。",
+Skill/S_Amethyst_R1_Name,Text,,,Stellar Path,,星光大道,
+Skill/S_Amethyst_R2_Description,Text,,,"Reduce Countdown skill costs by 1 when played. 
+Cast 9 unique attack skills with Countdown 1-9.",,"本场战斗每当从手中使用倒计时技能时，使这个技能减少1点费用。
+以倒计时1、2、3、4、5、6、7、8、9释放9个随机的各不相同的攻击技能。",
+Skill/S_Amethyst_R2_Name,Text,,,Nine-Star Alignment,,九星连珠,
+Skill/S_Amethyst_R3_Description,Text,,,"Reveal all Countdown skills in deck. 
+Choose one, then pick another with a different Countdown. 
+Draw and spend 1 Mana to cast until choices or Mana deplete.",,"将抽牌堆中所有倒计时技能展示。
+选择一个倒计时技能，再选择一个与上一次倒计时回合不相同的技能。
+抽取并消耗一点法力释放直到无法再次选择或者费用为0。",
+Skill/S_Amethyst_R3_Name,Text,,,Celestial Gateway,,星天开门,
+SkillExtended/Ex_Amethyst_Enforce1_EnforceString,Text,,,Any skill,,任意技能,
+SkillExtended/Ex_Amethyst_Enforce1_Name,Text,,,Countdown 2. On play: +1 Standby. On cast: +1 swap.,,倒计时2，打出时等待次数+1，释放时交换次数+1。,
+SkillExtended/Ex_Amethyst_Enforce2_EnforceString,Text,,,Skills with 2-3 cost,,2、3点消耗的技能,
+SkillExtended/Ex_Amethyst_Enforce2_Name,Text,,,Countdown 3. Play a random Countdown skill from deck.,,倒计时3、将一个随机的倒计时技能从牌库抽取并打出。,
+SkillExtended/Ex_Amethyst_Passive1_EnforceString,Text,,,Any skill,,任意技能,
+SkillExtended/Ex_Amethyst_Passive1_Name,Text,,,"Countdown 1. 
+If deck is even, draw 2 skills and shuffle one.",,"倒计时1
+释放时若牌库为偶数，抽取两个技能并洗入一个技能。",
+SkillExtended/Ex_Amethyst_Passive2_EnforceString,Text,,,Any skill,,任意技能,
+SkillExtended/Ex_Amethyst_Passive2_Name,Text,,,"Countdown 1. 
+If deck is odd: Cost -1. On play: +1 Standby.",,"倒计时1
+若牌库为奇数，费用-1。打出时等待次数+1。",
+SkillExtended/Ex_Amethyst_Relic2_Des,Text,,,Cost -1,,费用-1,
+SkillExtended/Ex_Amethyst_Relic2_Name,Text,,,Stellar Sigil,,星星印记,
+

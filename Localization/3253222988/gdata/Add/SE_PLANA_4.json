@@ -1,0 +1,22 @@
+{
+    "SE_PLANA_4": {
+        "DMG_Per": 0,
+        "Buffs": [
+            "B_PLANA_3",
+            "B_PLANA_5"
+        ],
+        "CRI": 0,
+        "BuffPlusTagPer": [
+            30,
+            0
+        ],
+        "_gdeSchema": "SkillEffect",
+        "HIT": 100,
+        "DMG_Base": 0,
+        "HEAL_MaxHpPer": 0,
+        "HEAL_Per": 80,
+        "HEAL_Base": 0,
+        "ForceHeal": false,
+        "ChainHeal": false
+    }
+}

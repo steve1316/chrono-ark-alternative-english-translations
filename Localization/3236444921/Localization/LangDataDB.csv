@@ -1,0 +1,388 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_SuzakuinTsubaki_1_Description,Text,,"
+  Buff 를 누르면 가장 낮은 기술 중 하나를 폐기하고, 손에 단 하나의 기술만 있으면
+  효과가 없습니다
+  ","When activated, discard the bottommost skill. If only one skill is in hand, this effect does not trigger.",buffを押すと、一番下のスキルを破棄し、手にスキルが1つしかないと効果がありません,"按下buff,弃置最下方的一个技能,若手中只有一个技能则不会生效","按下buff,弃置最下方的一个技能,若手中只有一个技能则不会生效"
+Buff/B_SuzakuinTsubaki_1_Name,Text,,"
+  목욕불
+  ",Blazing Flame,"
+  火を浴びる
+  ",浴火,浴火
+Buff/B_SuzakuinTsubaki_2_Description,Text,,"
+  3 층에 도달하면 모든 층을 제거하여 적의 공격력 120% 의 고통스러운 피해를
+  입힙니다
+  ","At 3 stacks, consume all stacks to deal Pain damage equal to 120% of the enemy's Attack.","
+  三階に達した場合、すべての階数をクリアし、敵の攻撃力120%の苦痛ダメージを与える
+  ",达到三层时，清除所有层数，造成敌人攻击力120%的痛苦伤害,达到三层时，清除所有层数，造成敌人攻击力120%的痛苦伤害
+Buff/B_SuzakuinTsubaki_2_Name,Text,,"
+  욕화의 상처
+  ",Blazing Scars,"
+  浴火の傷
+  ","浴火之伤
+","浴火之伤
+"
+Buff/B_SuzakuinTsubaki_3_Description,Text,,"
+  다음에 석방되는 기술은 두 번 석방되는 것으로 바뀌었고, 자신에게 최대 생명값의 20% 를 초래하는 고통스러운 피해를 입혔다.
+  ",Recast the next skill played from hand and take <color=purple>Pain damage</color> equal to 20% of Max Health.,"
+  次のリリースのスキルは2回リリースに変更され、自身に最大20%の生命値の苦痛を与えます。
+  ",下一次释放的技能改为释放两次，并对自身造成20%最大生命值的痛苦伤害。,下一次释放的技能改为释放两次，并对自身造成20%最大生命值的痛苦伤害。
+Buff/B_SuzakuinTsubaki_3_Name,Text,,"
+  두 칼의 기세.
+  ",Dual Blade Stance,"
+  二刀勢
+  ",二刀势,二刀势
+Buff/B_SuzakuinTsubaki_4_Description,Text,,"
+  2 층을 누적한 후, 모든 층을 지우고, 1 시
+  법력을 회복한다.
+  ","After accumulating 2 stacks, consume all stacks to recover 1 Mana.","
+  二階を累計した後、すべての階数をクリアし、法力値を1点戻す
+  ",累计二层后，清除所有层数，回复1点法力值,累计二层后，清除所有层数，回复1点法力值
+Buff/B_SuzakuinTsubaki_4_Name,Text,,"
+  명의가 없는 상처
+  ",Nameless Scar,"
+  無銘の傷
+  ",无铭之伤,无铭之伤
+Buff/B_SuzakuinTsubaki_5_Description,Text,,"
+  받은 고통피해를 0 시로 바꾸고, 고통피해를
+  입었을 때 카드 1 장을 뽑아서 1 층을 소모한다
+  ","Converts received Pain damage to 0. Draw 1 card when receiving Pain damage, consuming 1 stack.","
+  受け取った苦痛ダメージを0ポイントにし、苦痛ダメージを受けた時にカードを1枚抜き取り、1階を消費する
+  ",将收到的痛苦伤害变为0点，在受到痛苦伤害时抽取1张牌，并消耗一层,将收到的痛苦伤害变为0点，在受到痛苦伤害时抽取1张牌，并消耗一层
+Buff/B_SuzakuinTsubaki_5_Name,Text,,"
+  사이렌
+  ",Spirit Manifestation,"
+  妖怪に化ける
+  ",化妖,化妖
+Character/SuzakuinTsubaki_CampSelectWord,Text,,,,,,
+Character/SuzakuinTsubaki_PassiveDes,Text,,"
+  매 라운드가 시작될 때, 한 층의 목욕불을 얻다.
+  ","At the start of each turn, gain 1 stack of Blazing Flame.","
+  ラウンドが始まるたびに、1階の風呂火を手に入れる
+  ",每回合开始时，获得一层浴火,每回合开始时，获得一层浴火
+Character/SuzakuinTsubaki_PassiveName,Text,,"
+  불새를 목욕하다
+  ",Blazing Phoenix,"
+  火を浴びる鳥
+  ",浴火鸟,浴火鸟
+Character/SuzakuinTsubaki_SelectInfo,Text,,"
+  주작원 네 자매 중 네 자매,' 칼날도' 기술이
+  군웅을 압도하는 학원 최강 검객.
+  왜곡된 땅에 온 뒤 이칼류를 수사단의 전력으로 삼았다
+  ","The youngest of the Suzakuin family's four sisters, the academy's strongest swordsmaster who dominates all in ""Blade Arts"".
+After arriving in the Twisted Lands, she serves as the expedition's dual-wielding combatant.","
+  朱雀院家の四姉妹のうち四人の妹で、「刃道」の技が群雄を圧倒する学園最強の剣士。
+  ねじれの地に来て二刀流を調査団の戦力とする
+  ","朱雀院家四姐妹中的四妹,「刃道」技压群雄的学园最强剑士。
+来到扭曲之地后以二刀流作为调查团的战力
+","朱雀院家四姐妹中的四妹,「刃道」技压群雄的学园最强剑士。
+来到扭曲之地后以二刀流作为调查团的战力
+"
+Character/SuzakuinTsubaki_Text_Battle_AllyND_0,Text,,"
+  괜찮아?
+  ",Are you alright?,"
+  大丈夫ですか
+  ",不要紧吧,不要紧吧
+Character/SuzakuinTsubaki_Text_Battle_Healed_0,Text,,"
+  감사합니다
+  ",My gratitude.,"
+  ありがとうございます
+  ",感谢,感谢
+Character/SuzakuinTsubaki_Text_Battle_Healed_1,Text,,"
+  다시 싸울 수 있다
+  ",Can still fight on.,"
+  また戦える
+  ",还能再战,还能再战
+Character/SuzakuinTsubaki_Text_Battle_Idle_0,Text,,"
+  준비. 칼을 뽑다
+  ",Preparing... to draw blades.,"
+  ナイフを抜く準備をする
+  ",准备...拔刀,准备...拔刀
+Character/SuzakuinTsubaki_Text_Battle_Kill_0,Text,,"
+  주작원의 이름으로!
+  ",By the name of Suzakuin!,"
+  朱雀院の名で！
+  ",以朱雀院之名！,以朱雀院之名！
+Character/SuzakuinTsubaki_Text_Battle_Kill_1,Text,,"
+  참수!
+  ",Slash!,"
+  斬れ！
+  ",斩！,斩！
+Character/SuzakuinTsubaki_Text_Battle_ND_0,Text,,"
+  어 ...
+  ",Ugh...,"
+  えっと
+  ..
+  ",呃...,呃...
+Character/SuzakuinTsubaki_Text_Battle_ND_1,Text,,"
+  아직 쓰러질 수 없다 ....
+  ",Can't collapse yet...,"
+  まだ倒れてはいけない ......
+  ",还不能倒下....,还不能倒下....
+Character/SuzakuinTsubaki_Text_Battle_Start_0,Text,,"
+  이번에는 지지 않을 것이다
+  ","This time, I won't lose.","
+  今回は、負けない
+  ",这次，不会输的,这次，不会输的
+Character/SuzakuinTsubaki_Text_Battle_Start_1,Text,,"
+  경기처럼
+  ",Just like in tournaments.,"
+  試合のように
+  ",就如同比赛一样,就如同比赛一样
+Character/SuzakuinTsubaki_Text_Field_GetItem_0,Text,,"
+  와우
+  ",Whoa,"
+  ワーオ
+  ",哇偶,哇偶
+Character/SuzakuinTsubaki_Text_Field_Idle_0,Text,,"
+  목욕불새. 떨다
+  ",The Blazing Phoenix... is resonating.,"
+  火の鳥が震えている
+  ",浴火鸟...在颤动,浴火鸟...在颤动
+Character/SuzakuinTsubaki_Text_Field_Idle_1,Text,,"
+  지금. 아직 두 번째 칼을 칼집에서 꺼내지 않아도 된다.
+  ",For now... the second blade remains sheathed.,"
+  今はまだ2本目の刀を鞘から出す必要はない
+  ",现在...还不用第二把刀出鞘,现在...还不用第二把刀出鞘
+Character/SuzakuinTsubaki_Text_Field_Potion_P_0,Text,,"
+  회복되었습니다
+  ",Recovered.,"
+  回復しました
+  ",恢复了,恢复了
+Character/SuzakuinTsubaki_Text_PharosLeader_0,Text,,"
+  얄밉다 ...
+  ",Dammit...,"
+  くそったれ ..
+  ",可恶...,可恶...
+Character/SuzakuinTsubaki_Text_PharosLeader_1,Text,,"
+  죄송합니다 ...
+  ",I'm sorry...,"
+  すみません ..
+  ",对不起...,对不起...
+Character/SuzakuinTsubaki_Text_PharosLeader_2,Text,,"
+  안돼 ...
+  ",Don't...,"
+  いらない ..
+  ",不要...,不要...
+Character/SuzakuinTsubaki_name,Text,,"
+  주작원
+  ",Suzakuin Tsubaki,"
+  朱雀院椿
+  ",朱雀院椿,朱雀院椿
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Azar_Dialogues_0,Text,,,[A]Victory through numbers? Quite effective indeed.,,[A]以数量取胜吗，倒也是很有效呢。,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Azar_Dialogues_1,Text,,,[B]Phantom Sword has more applications than this.,,[B]幻影剑可不止这一种用法哦。,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Blue_Dialogues_0,Text,,,[A]Is Selina your elder sister?,,[A]赛琳娜是姐姐吗。,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Blue_Dialogues_1,Text,,,"[A]I'm the youngest of four sisters, still far behind my elders.",,[A]我是四个姐妹里最小的，和我的几个姐姐还有很大差距呢。,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Charon_Dialogues_0,Text,,,[B]I sense... dark blood within you.,,[B]我能感觉到，你身上暗黑的血脉...,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Charon_Dialogues_1,Text,,,[A]N-no! Fox ears? Absolutely not!,,[A]啊，我不是我没有，狐狸耳朵什么的更没有啊！,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Hein_Dialogues_0,Text,,,[B]Is that blood on your blade?,,[B]你刀上的是血？,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Hein_Dialogues_1,Text,,,"[A]Ah, no—it's quenching patterns.",,[A]呃，是淬火的纹路。,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Huz_Dialogues_0,Text,,,"[B]Now, crack the whip! Heal!",,[B]来，挥鞭，治疗！,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Huz_Dialogues_1,Text,,,[A]Your healing methods are terrifying...,,[A]你的治疗方式太可怕了吧...,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Huz_Dialogues_2,Text,,,[B]Even your sister isn't afraid!,,[B]你姐姐都不怕的！,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Ilya_Dialogues_0,Text,,,[A]You use dual blades too!,,[A]你也是二刀流诶,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Ilya_Dialogues_1,Text,,,[B]Well... my two blades lack synergy...,,[B]嗯，不过两把刀之间没有什么配合就是了...,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Ilya_Dialogues_2,Text,,,[A]I'm often told I rely on brute strength anyway...,,[A]很多时候我也被说靠力量取胜就是了...,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Iron_Dialogues_0,Text,,,[B]Such light armor provides defense? Did I ask this before?,,[B]如此轻便的护甲也有防御...我是不是问过一遍了,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Iron_Dialogues_1,Text,,,[A]Believe in origami craftsmanship!,,[A]相信折纸工艺！,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Joey_Dialogues_0,Text,,,[A]You too bear the duty of elites.,,[A]你也是一样啊，背负着精英的职责。,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Joey_Dialogues_1,Text,,,[B]Naturally. Elite status demands it.,,[B]那当然了。谁叫我是精英呢。,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Johan_Dialogues_0,Text,,,[A]Do you fight to find a loved one?,,[A]你是为了寻找爱人而战斗吗？,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Johan_Dialogues_1,Text,,,"[B]Yes, searching for Alice.",,[B]是啊，为了寻找爱丽丝。,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Johan_Dialogues_2,Text,,,[A]May you reunite soon... Where is Tohki-kun...?,,[A]希望你们早日重逢，刀辉君又在哪里呢...,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Leryn_Dialogues_0,Text,,,"[B]Similar craftsmanship to Miss Momiji's gear, yet more advanced?",,[B]和红叶小姐的装备工艺很相近，好像还要先进一些？,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Leryn_Dialogues_1,Text,,,[A]Over a decade of progress...,,[A]毕竟又过去了十几年...,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Lian_Dialogues_0,Text,,,[B]I admire your dedication to training.,,[B]你对训练的认真程度，我很佩服,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Lian_Dialogues_1,Text,,,[A]Training is essential for growth.,,[A]若要变强，训练一定是最重要的。,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Miss_Dialogues_0,Text,,,[B]You're burning too!,,[B]你也在燃烧诶！,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Miss_Dialogues_1,Text,,,"[A]When using Blazing Phoenix, I do feel aflame.",,[A]嗯，使用浴火鸟的时候，我确实有种燃烧起来的感觉。,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Momori_Dialogues_0,Text,,,"[B]So boring, always being so serious.",,[B]啊，无聊，总是一幅正经的样子诶,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Momori_Dialogues_1,Text,,,[A]This is necessary for combat focus.,,[A]这只是战斗必要的状态吧。,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Narhan_Dialogues_0,Text,,,[B]Hmm? Your sword seems to...,,[B]嗯？我好像能听到你的刀在..,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Narhan_Dialogues_1,Text,,,[A]Eh? The Blazing Phoenix...?,,[A]诶，是...是浴火鸟吗？,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Pheonix_Dialogues_0,Text,,,[A]Is this some Spirit Manifestation?,,[A]这是哪种化妖吗？,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Pheonix_Dialogues_1,Text,,,[B]Manifestation? I'm a glorious phoenix!,,[B]什么化妖，本大人可是的凤凰！,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Priest_Dialogues_0,Text,,,[A]Reminds me of my tournament teammate.,,[A]想起我在赛场上的那个队友了呢,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Priest_Dialogues_1,Text,,,[B]Was she a priestess too?,,[B]她也是祭司吗？,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Red_Dialogues_0,Text,,,[B]Blazing Flame... Too risky for me.,,[B]浴火吗...我干不出这么危险的事情。,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Red_Dialogues_1,Text,,,[A]Just blade flames during use.,,[A]只是使用时的刀焰而已啦。,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_SilverStein_Dialogues_0,Text,,,[B]Your sword can... Nevermind.,,[B]你的刀能...诶算了不问了,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_SilverStein_Dialogues_1,Text,,,[A]Huh?!,,[A]欸欸,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Sizz_Dialogues_0,Text,,,[B]Did I provide proper support?,,[B]我有做好支援吗？,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Sizz_Dialogues_1,Text,,,[A]Your backup was timely in that battle.,,[A]刚才的战斗，支援很及时哦。,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Trisha_Dialogues_0,Text,,,[B]Concealing another blade is wise.,,[B]藏着另一对刀，是好事。,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_Trisha_Dialogues_1,Text,,,[A]Strong foes demand dual blades.,,[A]面对强敌还是得以双刀对敌啊。,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_hlshj_Dialogues_0,Text,,,[A]Spirit Slash? Unfamiliar swordsmanship.,,[A]气刃斩？从未见过的剑法啊。,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_hlshj_Dialogues_1,Text,,,"[B]Haha, your blade arts are superb.",,[B]哈哈，你们的剑术也是相当精湛啊。,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_ysml_Dialogues_0,Text,,,[A]Floating mid-air? Amazing.,,[A]是在空中漂浮吗，好神奇。,
+SimpleCampDialogue/CampDial_SuzakuinTsubaki_ysml_Dialogues_1,Text,,,[B]Our arts go far beyond this.,,[B]我们的技艺还远不止于此。,
+Skill/S_SuzakuinTsubaki_1_0_Description,Text,,,,,,
+Skill/S_SuzakuinTsubaki_1_0_Name,Text,,,,,,
+Skill/S_SuzakuinTsubaki_1_Description,Text,,"
+  적군이 무명의 부상을 입는다면 5 차례 공격 (20 시 부상) 을 추가한다
+  < color=#FFA636FF > 납칼: 쌍칼 기세로 들어가 약간의
+  마나 값 복원 < /color >
+  ","If enemy has Nameless Scar, launch 5 additional attacks (20 damage). 
+<color=#FFA636FF>Sheathing: Enter Dual Blade Stance and recover 1 Mana.</color>","
+  敵が無銘の傷を持っている場合は、5回追加攻撃（20時ダメージ））。
+  <color=#FFA636FF>納刀:両刀勢に入り、法力値を少し戻す</color>
+  ","若敌方带有无铭之伤，追加5次攻击(20点伤害）
+<color=#FFA636FF>纳刀：进入双刀势，回复一点法力值</color>","若敌方带有无铭之伤，追加5次攻击(20点伤害）
+<color=#FFA636FF>纳刀：进入双刀势，回复一点法力值</color>"
+Skill/S_SuzakuinTsubaki_1_Name,Text,,"
+  무명이 번쩍이다
+  ",Nameless Flash,"
+  無銘一閃
+  ",无铭一闪,无铭一闪
+Skill/S_SuzakuinTsubaki_2_Description,Text,,"
+  < color=#FFA636FF > 납칼: 모든 적들에게 무명의 상처를
+  입히고 2 칼 기세로 들어간다. < /color >
+  ",<color=#FFA636FF>Sheathing: Apply 1 stack of Nameless Scar to all enemies and enter Dual Blade Stance.</color>,"
+  <color=#FFA636FF>納刀:すべての敵に無銘の傷を負って、二刀勢に入る。 </color>
+  ",<color=#FFA636FF>纳刀：对所有敌人施加一层无铭之伤，进入二刀势。</color>,<color=#FFA636FF>纳刀：对所有敌人施加一层无铭之伤，进入二刀势。</color>
+Skill/S_SuzakuinTsubaki_2_Name,Text,,"
+  무명 끊기
+  ",Nameless Severance,"
+  無銘・断
+  ",无铭·断,无铭·断
+Skill/S_SuzakuinTsubaki_3_Description,Text,,"
+  < color=#FFA636FF > 납칼: 이 기술을 발휘하여 목욕 불을
+  얻습니다
+  ","<color=#FFA636FF>Sheathing: When casting this skill, gain 1 stack of Blazing Flame.</color>","
+  <color=#FFA636FF>
+  ",<color=#FFA636FF>纳刀：释放该技能，获得一层浴火,<color=#FFA636FF>纳刀：释放该技能，获得一层浴火
+Skill/S_SuzakuinTsubaki_3_Name,Text,,"
+  목욕 화재 컷
+  ",Blazing Slash,"
+  浴火・斬
+  ",浴火·斩,浴火·斩
+Skill/S_SuzakuinTsubaki_4_Description,Text,,"
+  적을 죽일 때 목욕 불을 얻으십시오.
+  < color=#FFA636FF > 납칼: 이 기술을 발휘하여 목욕 불
+  한 층을 확보하십시오 < /color >
+  ","Gain 1 stack of Blazing Flame upon defeating an enemy. 
+<color=#FFA636FF>Sheathing: When casting this skill, gain 1 stack of Blazing Flame.</color>","
+  敵を撃った時、風呂の火を手に入れた。
+  <color=#FFA636FF>納刀:この技能を解放して、一階の浴火を得る</color>
+  ","击杀敌人时，获得一层浴火.
+<color=#FFA636FF>纳刀：释放该技能，获得一层浴火</color>","击杀敌人时，获得一层浴火.
+<color=#FFA636FF>纳刀：释放该技能，获得一层浴火</color>"
+Skill/S_SuzakuinTsubaki_4_Name,Text,,"
+  목욕 화재 비행 컷
+  ",Blazing Soar,"
+  浴火・飛斬
+  ",浴火·飞斩,浴火·飞斩
+Skill/S_SuzakuinTsubaki_5_Description,Text,,"
+  < color=#FFA636FF > 납칼: 이 기술을 발휘하여 2 칼 기세로 들어갑니다. < /color >
+  ","<color=#FFA636FF>Sheathing: When casting this skill, enter Dual Blade Stance.</color>","
+  <color=#FFA636FF>納刀:この技能を解放し、二刀勢に入る。 </color>
+  ",<color=#FFA636FF>纳刀：释放该技能，进入二刀势。</color>,<color=#FFA636FF>纳刀：释放该技能，进入二刀势。</color>
+Skill/S_SuzakuinTsubaki_5_Name,Text,,"
+  무명 폭풍
+  ",Nameless Tempest,"
+  無銘・暴風
+  ",无铭·暴风,无铭·暴风
+Skill/S_SuzakuinTsubaki_6_Description,Text,,"
+  < color=#FFA636FF > 나칼: 모든 적들에게 한 층의 욕화를
+  가하여 한 층의 욕화를 얻는다. < /color >
+  ",<color=#FFA636FF>Sheathing: Apply 1 stack of Blazing Scars to all enemies and gain 1 stack of Blazing Flame.</color>,"
+  <color=#FFA636FF>納刀:すべての敵に一階の浴火の傷をつけ、一階の浴火を得る。 </color>
+  ",<color=#FFA636FF>纳刀：对所有敌人施加一层浴火之伤，获得一层浴火。</color>,<color=#FFA636FF>纳刀：对所有敌人施加一层浴火之伤，获得一层浴火。</color>
+Skill/S_SuzakuinTsubaki_6_Name,Text,,"
+  목욕 불 타오르는 불꽃
+  ",Blazing Inferno,"
+  湯火・熾炎
+  ",浴火·炽焰,浴火·炽焰
+Skill/S_SuzakuinTsubaki_7_Description,Text,,"
+  목욕불의 상처가 있는 적을 명중하면 반드시 폭행을 당할 것이다.
+  < color=#FFA636FF > 납칼: 이 기술을 해제합니다. < /color >
+  ","Guaranteed Critical against enemies with Blazing Scars. 
+<color=#FFA636FF>Sheathing: Cast this skill.</color>","
+  浴火の傷を負った敵に命中すると、必ず暴撃する。
+  <color=#FFA636FF>納刀:この技能を解放する。 </color>
+  ","命中带有浴火之伤的敌人，则必定暴击。
+<color=#FFA636FF>纳刀：释放该技能。</color>","命中带有浴火之伤的敌人，则必定暴击。
+<color=#FFA636FF>纳刀：释放该技能。</color>"
+Skill/S_SuzakuinTsubaki_7_Name,Text,,"
+  오신수 주유우
+  ",Secret Art: Vermilion Edge,"
+  蕴奥神髄・朱铗
+  ",蕴奥神髓·朱铗,蕴奥神髓·朱铗
+Skill/S_SuzakuinTsubaki_8_Description,Text,,,,,,
+Skill/S_SuzakuinTsubaki_8_Name,Text,,"
+  사이렌
+  ",Spirit Manifestation,"
+  妖怪に化ける
+  ",化妖,化妖
+Skill/S_SuzakuinTsubaki_9_Description,Text,,,,,,
+Skill/S_SuzakuinTsubaki_9_Name,Text,,"
+  두 칼의 기세.
+  ",Dual Blade Stance,"
+  二刀勢
+  ",二刀势,二刀势
+Skill/S_SuzakuinTsubaki_R1_Description,Text,,"
+  적을 쳐죽일 때, 목욕 불을 한 층 얻다.
+  < color=#FFA636FF > 납칼: 무작위 적을 석방한 후 이
+  기술을 다시 손에 넣는다. < /color >
+  ","Gain 1 stack of Blazing Flame upon defeating an enemy. 
+<color=#FFA636FF>Sheathing: After casting on random enemy, return this skill to hand.</color>","
+  敵を撃った時、風呂の火を1階得た。
+  <color=#FFA636FF>納刀:ランダムな敵に対して解放した後、再びこの技を手に入れる。 </color>
+  ","击杀敌人时，获得一层浴火。
+<color=#FFA636FF>纳刀：对随机敌人释放后再次将此技能拿到手中。</color>","击杀敌人时，获得一层浴火。
+<color=#FFA636FF>纳刀：对随机敌人释放后再次将此技能拿到手中。</color>"
+Skill/S_SuzakuinTsubaki_R1_Name,Text,,"
+  불새 () 를 목욕하고 칼을 뽑다.
+  ",Blazing Phoenix: Draw Blade,"
+  浴火鳥抜刀
+  ",浴火鸟·拔刀,浴火鸟·拔刀
+Skill/S_SuzakuinTsubaki_R2_1_Description,Text,,,,,,
+Skill/S_SuzakuinTsubaki_R2_1_Name,Text,,,,,,
+Skill/S_SuzakuinTsubaki_R2_Description,Text,,"
+  기술이 교환되거나 폐기될 때마다 이 기술의 비용이 1 포인트 줄어든다.
+  납도: 이 기술의 비용에 따라 무작위 적에 대한 추가 공격 (욕화부상 포함) 으로 매번
+  &a 점 피해를 입힙니다. 2 층 목욕불을 얻다.
+  ","Cost reduced by 1 whenever skills are exchanged or discarded. 
+Sheathing: Perform additional attacks equal to this skill's Cost against random enemies (applies Blazing Scars), each dealing &a damage. Gain 2 stacks of Blazing Flame.","
+  スキルが交換または廃棄されるたびに、このスキルの費用は1ポイント削減されます。
+  納刀（この技の費用によってランダムな敵に追加攻撃（浴火の傷付き）、毎回）ポイントダメージを与える。
+  二重の浴火を手に入れる。
+  ","每当有技能被交换或丢弃时此技能的费用减少1点。
+ 纳刀：根据此技能的费用对随机敌人追加攻击（附带浴火之伤），每次造成&a点伤害。获得两层浴火。","每当有技能被交换或丢弃时此技能的费用减少1点。
+ 纳刀：根据此技能的费用对随机敌人追加攻击（附带浴火之伤），每次造成&a点伤害。获得两层浴火。"
+Skill/S_SuzakuinTsubaki_R2_Name,Text,,"
+  리옌희
+  ",Hidden Flame Dancer,"
+  里炎姫
+  ",里炎姬,里炎姬
+Skill/S_SuzakuinTsubaki_lucy_Description,Text,,"
+  두 가지 기술을 추출하여 한 층의 목욕불을 얻다.
+  ",Draw 2 skills. Gain 1 stack of Blazing Flame.,"
+  2つの技能を抽出して、1階の風呂火を手に入れる。
+  ",抽取两个技能，获得一层浴火。,抽取两个技能，获得一层浴火。
+Skill/S_SuzakuinTsubaki_lucy_Name,Text,,"
+  머리털
+  ",Blossom Draw,"
+  椿を鳴らす
+  ",发椿,发椿
+SkillExtended/Ex_SuzakuinTsubaki_1_EnforceString,Text,,"
+  임의 기술
+  ",Any skill,"
+  任意のスキル
+  ",任意技能,任意技能
+SkillExtended/Ex_SuzakuinTsubaki_1_Name,Text,,"
+  < color=#FFA636FF > 납칼: 이 기술을 발휘하고 목욕 불을
+  얻습니다. < /color >
+  ",<color=#FFA636FF>Sheathing: Cast this skill and gain 1 stack of Blazing Flame.</color>,"
+  <color=#FFA636FF>
+  </color>
+  ",<color=#FFA636FF>纳刀：释放该技能，并获得一层浴火。</color>,<color=#FFA636FF>纳刀：释放该技能，并获得一层浴火。</color>
+SkillExtended/Ex_SuzakuinTsubaki_2_EnforceString,Text,,"
+  임의 기술
+  ",Any skill,"
+  任意のスキル
+  ",任意技能,任意技能
+SkillExtended/Ex_SuzakuinTsubaki_2_Name,Text,,"
+  < color=#FFA636FF > 납칼: 이 기술을 발휘하여 2 칼 기세로 들어갑니다. < /color >
+  ",<color=#FFA636FF>Sheathing: Cast this skill and enter Dual Blade Stance.</color>,"
+  <color=#FFA636FF>納刀:この技能を解放し、二刀勢に入る。 </color>
+  ",<color=#FFA636FF>纳刀：释放该技能，进入二刀势。</color>,<color=#FFA636FF>纳刀：释放该技能，进入二刀势。</color>

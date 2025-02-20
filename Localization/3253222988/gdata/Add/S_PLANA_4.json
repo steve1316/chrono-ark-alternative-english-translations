@@ -1,0 +1,35 @@
+{
+    "S_PLANA_4": {
+        "UseAp": 2,
+        "Target": "ally",
+        "Particle": "Particle/flare_lv1",
+        "Effect_Target": "SE_PLANA_4",
+        "Name": "两人的秘密",
+        "Description": "解除目标的随机1个减益，给予目标\"L.O.V.E\"和\"休憩时间\"",
+        "SkillExtended": [
+            "PLANA.S_PLANA_4"
+        ],
+        "NotCount": true,
+        "ViewBuff": true,
+        "HealSkill": true,
+        "User": "PLANA",
+        "Image_2": "S_PLANA_4\\S_PLANA_4_Image_2.png",
+        "Image_1": "S_PLANA_4\\S_PLANA_4_Image_1.png",
+        "Image_0": "S_PLANA_4\\S_PLANA_4_Image_0.png",
+        "_gdeSchema": "Skill",
+        "Category": "null",
+        "Rare": false,
+        "NODOD": false,
+        "NotChuck": false,
+        "Disposable": false,
+        "NoDrop": false,
+        "IgnoreTaunt": false,
+        "Except": false,
+        "NoBasicSkill": false,
+        "Basic": false,
+        "Track": false,
+        "Fatal": false,
+        "EnemyPreview": false,
+        "UnknownTarget": false
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "B_PLANA_4": {
+        "Debuff": true,
+        "Name": "行动预测",
+        "ClassName": "PLANA.B_PLANA_4",
+        "LifeTime": 3,
+        "MaxStack": 2,
+        "Icon": "B_PLANA_4\\B_PLANA_4_Icon.png",
+        "Tick": "null",
+        "BuffTag": "Debuff",
+        "TagPer": 110,
+        "Caution": false,
+        "_gdeSchema": "Buff"
+    }
+}

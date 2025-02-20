@@ -1,0 +1,246 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Bari_11_R_Description,Text,,,"At the start of the next turn, place all original copies of the remembered skills into your hand and attach Exclude.
+Effect is removed after activation.
+
+<color=#919191>This flower is called Edelweiss, Helena. The flower language of Edelweiss is...</color>",,"下个回合开始时将记忆中技能的原始复制全部置入手牌并附带放逐。
+生效后解除。
+
+<color=#919191>这花的名字叫做雪绒花，海伦娜。雪绒花的花语是...</color>",
+Buff/B_Bari_11_R_Name,Text,,,Precious Memories,,珍贵的回忆,
+Buff/B_Bari_1_Description, Text,,배리에게 데미지를 입혔을 때 자신의 최대 생명치 5%의 데미지(최고 25 미만)를 입힙니다.,"When dealing damage to Bari, take 10% of your max HP as damage (max 25).",,对芭莉造成伤害时受到自身最大生命值10%的伤害(最高不超过25)。,
+Buff/B_Bari_1_Name, Text,,혐오스럽다,Disgust,,厌恶,
+Buff/B_Bari_I_Meryl_Description,Text,,,,,,
+Buff/B_Bari_I_Meryl_Name, Text,,메릴,Meryl ,,梅丽尔,
+Buff/B_Bari_P_0_Description, Text,,"최대 3개의 추억이 있다.
+가장 많은 추억을 가졌을 때, 다시 추억을 얻으면 가장 먼저 얻은 추억을 먼저 잊는다.","Can hold up to 3 memories.
+When at max memories, gaining a new memory causes the oldest memory to be forgotten first.
+&a
+&b
+&c",,"最多拥有3个回忆。
+当拥有最多回忆时，再次获得回忆则会先遗忘最先获得的回忆。
+&a
+&b
+&c",
+Buff/B_Bari_P_0_Name, Text,,바일리의 추억, Bari's Memories,,芭莉的回忆,
+Buff/B_Bari_P_1_Description,Text,,,,,,
+Buff/B_Bari_P_1_Name,Text,,,Passionate Memories,,热枕回忆,
+Buff/B_Bari_P_2_Description,Text,,,,,,
+Buff/B_Bari_P_2_Name,Text,,,Warm Memories,,温暖回忆,
+Buff/B_Bari_P_3_Description,Text,,,,,,
+Buff/B_Bari_P_3_Name,Text,,,Joyful Memories,,愉悦回忆,
+Buff/B_Bari_P_4_Description,Text,,,,,,
+Buff/B_Bari_P_4_Name, Text,,기억 부재,Memory Loss,,记忆缺失,
+Buff/B_Bari_P_5_Description, Text,,"치료를 받은 후 치료량이 10보다 크면 치료량과 같은 금액의 생화 장벽을 얻는다.
+발효 후 1 층 층수가 소모됩니다.","If healed for 10 or more, gain a Flower Barrier equal to the healing amount.
+Consumes 1 stack after activation.",,"被治疗后若治疗量大于等于10，则获得与治疗量等额的鲜花屏障。
+生效后消耗一层层数。",
+Buff/B_Bari_P_5_Name, Text,,생화,Flower ,,鲜花,
+Buff/B_Bari_P_6_Description, Text,,"다음에 마탄을 사용하면 반드시 과속 마탄이다.
+발효 후 1 층 층수가 소모됩니다.","The next Magic Bullet used will be a Hyper Speed Magic Bullet.
+Consumes 1 stack after activation.",,"下一次使用魔弹必定是超速魔弹。
+生效后消耗一层层数。",
+Buff/B_Bari_P_6_Name, Text,,메릴,Meryl,,梅丽尔,
+Buff/B_Bari_P_7_Description, Text,,직업(공격/치료/방어)에 따라 +30% 공격력/+30% 치료력/10 최대 생명치를 획득.,"Based on class (Attack/Heal/Defense), gain +30% Attack/+30% Healing/+10 Max HP.",,根据职业（攻击/治疗/防御）获得+30%攻击力/+30%治疗力/10点最大生命值。,
+Buff/B_Bari_P_7_Name, Text,,강력한 성능,Greater Strength,,更强的力量,
+Buff/B_Bari_P_8_Description,Text,,,,,,
+Buff/B_Bari_P_8_Name, Text,,꽃장벽,Flower Barrier,,鲜花屏障,
+Character/Bari_PassiveDes, Text,,"수중의 기술을 사용할 때, 기술의 유형(데미지/치료/기타)에 따라 수중의 다른 동료의 기술에 상응하는 공통 경력을 두 번 부여한다.
+- 공통 경험 - 전투, 무작위 적에게 데미지를 입힌 후 발리는 뜨거운 베개의 추억을 얻는다.
+- 공통 경험 - 치유하고, 자신을 치료하고, 그리고 발리는 따뜻한 추억을 얻는다.
+- 공통 경험 - 협조, 자신을 꽃 장벽, 그리고 발리는 즐거운 추억을 얻는다.
+
+고정 능력을 꽃의 힘으로 변경하고, 발리가 세 가지 추억을 가질 때 고정 기술을 기원으로 전환합니다(기원의 효과는 발리가 가진 추억 유형에 따라 달라집니다).
+바일리는 추억을 얻었을 때 고정된 스킬을 재설정한다.","When using a skill in hand, grant two corresponding Shared Experiences to other teammates' skills based on the skill type (Damage/Heal/Other).
+-Shared Experience - Battle: Deal damage to a random enemy, then Bari gains Passionate Memories.
+-Shared Experience - Heal: Heal yourself, then Bari gains Warm Memories.
+-Shared Experience - Assist: Gain a Flower Barrier, then Bari gains Joyful Memories.
+
+Changes the fixed ability to Flower Power. When Bari has three memories, the fixed skill is converted to Wish (Wish's effect changes based on Bari's memory types).
+Resets the fixed skill when Bari gains a memory.",,"使用手中的技能时，根据技能的类型(伤害/治疗/其它)给手中其它队友的技能赋予两次相应的共同经历。
+-共同经历-战斗，对随机敌人造成伤害，然后芭莉获得热枕回忆。
+-共同经历-治愈，治疗自己，然后芭莉获得温暖回忆。
+-共同经历-协助，使自己获得鲜花屏障，然后芭莉获得愉悦回忆。
+
+将固定能力变更为鲜花之力，当芭莉拥有三个回忆时将固定技能转换为祈愿(祈愿的效果会根据芭莉所拥有的回忆类型而改变)。
+芭莉获得回忆时重置固定技能。",
+Character/Bari_PassiveName, Text,,꽃가게 소녀,Flower Shop Girl,,鲜花店少女,
+Character/Bari_SelectInfo, Text,,"꽃집 소녀 발리는 풍년의 신의 섬기는 사자이다. 곁에는 항상 알파카-풍년의 신수 메릴이 따라다닌다.불에 탄 세계 나무를 구하기 위해 발리는 세계를 돌아다니며 신비한 꽃의 힘을 빌려 사람들의 소원을 들어주고 그들의 행복한 추억을 수집한다.그러나 불행하게도 성심성의껏 기도하는 사람들을 만나면 참지 못하고 도움의 손길을 내밀게 된다.때때로 사람들이 이루고 싶은 소망의 규모가 지불한 대가를 초과하면 선량한 발리는 자신의 행복한 추억으로 결핍을 메운다.
+
+발리는 동료와의 공통된 경험담을 수집하는 대가로 풍년의 신에게 힘을 얻기를 기원하며 동료를 돕는다.동료들이 필요할 때 꽃의 힘을 통해 동료들의 소원을 들어주기도 하지만 그 대가는 그들의 추억이다.","Bari, the Flower Shop Girl, is a servant of the God of Harvest, always accompanied by an alpaca - the divine beast of harvest, Meryl. To save the burned World Tree, Bari travels the world, using the power of mysterious flowers to grant people's wishes and collect their happy memories. However, when encountering unfortunate and sincere people, she can't help but lend a hand. Sometimes, the scale of people's wishes exceeds the price they pay, and the kind-hearted Bari fills the gap with her own happy memories.
+
+Bari helps her teammates by collecting Shared Experiences as a cost to pray to the God of Harvest for power. When teammates are in need, she also grants their wishes through the power of flowers, but at the cost of their memories.",,"鲜花店少女芭莉是丰收之神的侍奉使者，身边总会跟着一只羊驼-丰收神兽梅丽尔。为了拯救被烧毁的世界树，芭莉周游世界，借助神秘鲜花之力，帮人们实现愿望，然后收集他们的幸福回忆。但是，碰上不幸而诚心祈祷的人们，便会忍不住伸出援手。有时，人们想实现的愿望规模超出所付出的代价，善良的芭莉就会用自己的幸福回忆填补缺失。
+
+芭莉会通过收集与队友的共同经历回忆为代价向丰收之神祈愿换取力量来帮助队友。在队友需要时，也会通过鲜花之力为队友实现愿望，但是代价是他们的回忆。",
+Character/Bari_Text_Battle_AllyND_0, Text,,나는 도움을 줄 수 있다.,I can provide help.,,我能提供帮助。,
+Character/Bari_Text_Battle_Cri_0, Text,,넌 빠져나갈 수 없어!,You can't escape!,,你无法逃脱！,
+Character/Bari_Text_Battle_Cri_1, Text,,덩굴의 힘에 굴복하다.,Submit to the power of the vines.,,屈服于藤蔓之力。,
+Character/Bari_Text_Battle_Healed_0, Text,,같이 지냈던 추억을 기억할 수 있을지...,The memories of being together... I wonder if I can remember...,,曾一起相处的回忆，不知能否记得...,
+Character/Bari_Text_Battle_Idle_0, Text,,나는 가능한 한 너를 도울 것이다.,I will help you as much as I can.,,我会尽我的可能帮助你。,
+Character/Bari_Text_Battle_Idle_1, Text,,미풍을 이기지 못하는 약한 적...,Weak enemies who can't withstand a breeze...,,禁不住微风的弱敌...,
+Character/Bari_Text_Battle_Idle_2, Text,,풍년의 신은 너희들의 탐욕을 결코 용서하지 않을 것이다!,The God of Harvest will never forgive your greed!,,丰收之神绝不会原谅你们的贪婪！,
+Character/Bari_Text_Battle_Kill_0, Text,,일찍 포기했더라면 목숨을 건질 수 있었을텐데...,"If you had given up earlier, you might have saved your life...",,如果趁早放弃，或许还能捡回一条命...,
+Character/Bari_Text_Battle_Kill_1, Text,,다시 한 번...,Once more...,,再一次...,
+Character/Bari_Text_Battle_ND_0, Text,,"나를 믿어라, 나는 흔들리지 않을 것이다.","Trust me, I won't falter.",,相信我，我不会动摇。,
+Character/Bari_Text_Battle_ND_1, Text,,카멜...,Camell...,,卡麦尔...,
+Character/Bari_Text_Battle_Start_0, Text,,강적...그래도 내 꽃 능력이 두려울 거야.,A strong enemy... but they will still fear my flower power.,,强敌...但，还是会惧怕我的鲜花能力。,
+Character/Bari_Text_Battle_Start_1, Text,,나에게 힘을 주세요.,Please grant me strength.,,请给予我力量。,
+Character/Bari_Text_Field_GetItem_0, Text,,"좀 더 노력해서, 이어서 싸우자.","Work a little harder, then continue the fight.",,再努力一点，接着战斗吧。,
+Character/Bari_Text_Field_Idle_0, Text,,"널 잊지 않을거야, 헬레나...","I will never forget you, Helena...",,我永远不会忘记你，海伦娜...,
+Character/Bari_Text_Field_Idle_1, Text,,에델바이스의 꽃말은...소중한 추억입니다.,The flower language of Edelweiss is... precious memories.,,雪绒花的花语是...珍贵的回忆。,
+Character/Bari_Text_Field_Idle_2, Text,,"꽃의 힘은 많은 사람들을 도왔지만, 나의 중요한 추억도 가져갔다.","The power of flowers has helped many, but it has also taken away my important memories.",,鲜花之力帮助了很多人，却也带走了我重要的回忆。,
+Character/Bari_Text_Field_Potion_P_0, Text,,아~ 봄이 다가오고 있어요.,Ah~ Spring is almost here.,,啊~春天快要到了。,
+Character/Bari_Text_PharosLeader_0, Text,,안 돼!,No!,,不可以！,
+Character/Bari_Text_PharosLeader_1, Text,,죄송합니다...,Sorry...,,抱歉...,
+Character/Bari_Text_PharosLeader_2, Text,,눈앞의 이익만 챙기는 사람... 많이 봤어요.,People who only care about immediate gains... I've seen plenty.,,只顾眼前利益的人...我见多了。,
+Character/Bari_UnlockString,Text,,,,,,
+Character/Bari_name, Text,,바일리,Bari,,芭莉,
+Item_Equip/BumperHarvest_Description, Text,,마지막 카드 사용 시 모든 아군에게 체력치 4포인트(라운드당 최대 3회 촉발)를 회복한다.,"When the last card in hand is used, restore 4 HP to all allies (triggers up to 3 times per round).",,使用完手中最后一张牌时为所有友军恢复4点体力值(每回合最多触发三次)。,
+Item_Equip/BumperHarvest_name, Text,,하비스트,Bumper Harvest,,年丰时稔,
+Item_Equip/Meryl_Description, Text,,치료 스킬 1장당 공격력 3% 증가(최대 30% 증가).,Gain 3% Attack for each healing skill used (max +30% Attack).,,每使用一张治疗技能增加3%的攻击力(最多增加30%的攻击力)。,
+Item_Equip/Meryl_name, Text,,메릴,Meryl,,梅丽尔,
+Item_Passive/HelenaGarden_Description, Text,,"매 라운드 종료 시 현재 수중에 보유한 스킬 수가 가장 적은 한 명의 스킬을 추첨합니다.
+
+<color=#919191>그 건망증이 심한 언니와 이 화원에서 한자리에 모이는 것은 할머니의 일생의 소원이다.불행히도 소원이 이루어지지 않고 돌아가셨는데...</color>","At the end of each round, draw a skill from the teammate with the fewest skills in hand.
+
+<color=#919191>It was Grandma's lifelong wish to reunite with that forgetful sister in this garden. Unfortunately, she passed away before her wish could come true...</color>",,"每回合结束时抽取当前手中持有技能数最少的一名队员的一个技能。
+
+<color=#919191>与那位健忘的姐姐在这花园团聚是奶奶一生的愿望。不幸的是，愿望没有实现她就去世了...</color>",
+Item_Passive/HelenaGarden_name, Text,,헬레나의 정원,Helena's Garden,,海伦娜的花园,
+Skill/S_Bari_0_0_Description,Text,,,,,,
+Skill/S_Bari_0_0_Name, Text,,마탄,Magic Bullet,,魔弹,
+Skill/S_Bari_0_1_Description,Text,,,,,,
+Skill/S_Bari_0_1_Name, Text,,과속마탄,Hyper Speed Magic Bullet,,超速魔弹,
+Skill/S_Bari_0_Description, Text,,"사용 시 마탄(&a 데미지 입힘)을 1회 추가 사용합니다.
+50% 확률로 과속 마탄 1회 추가 사용(&b 데미지 입힘)으로 변경됩니다.","When used, additionally use a Magic Bullet once (deals &a damage).
+50% chance to instead use a Hyper Speed Magic Bullet once (deals &b damage).",,"使用时追加使用一次魔弹(造成&a点伤害)。
+有50%的几率改为追加使用一次超速魔弹(造成&b点伤害)。",
+Skill/S_Bari_0_Name, Text,,대지 박동기,Earth Pulsator,,大地起搏器,
+Skill/S_Bari_10_R_Description, Text,,"자신의 모든 스킬을 버리고, 스킬을 버릴 때마다 & a포인트 체력치를 초과 회복합니다.
+대상의 모든 이득을 제거합니다.
+
+<color=#919191>사랑하는 카멜...모든 대가를 치를 테니 헬레나에게서 죽음의 그림자를 제거하세요.</color>","Discard all your skills, and for each skill discarded, overheal &a HP.
+Remove all debuffs from the target.
+
+<color=#919191>Dear Camell... I will pay any price, please remove the shadow of death from Helena.</color>",,"丢弃自己的所有技能，每丢弃一个技能则超额恢复&a点体力值。
+解除目标的所有减益。
+
+<color=#919191>亲爱的卡麦尔...我会付出所有代价，请移除海伦娜身上的死亡阴影。</color>",
+Skill/S_Bari_10_R_Name, Text,,희생을 원하다,Willing to Sacrifice,,愿逝,
+Skill/S_Bari_11_R_Description, Text,,"현재 가지고 있는 모든 스킬을 기억하고, 다음 라운드가 시작될 때 기억 속의 스킬의 원본 복제를 모두 카드에 넣고 추방합니다.
+<color=#919191>와!빛나 보여!언니, 이 꽃 이름이 뭐예요?</color>","Remember all skills currently in hand. At the start of the next turn, place original copies of the remembered skills into your hand and attach Exclude.
+
+<color=#919191>Wow! It looks like it's glowing! Sister, what is this flower called?</color>",,"记忆当前手中的所有技能，下个回合开始时将记忆中技能的原始复制全部置入手牌并附带放逐。
+
+<color=#919191>哇！看起来在发光！姐姐，这花叫什么？</color>",
+Skill/S_Bari_11_R_Name, Text,,추억과 꽃의 인연,Memory of Flowers,,忆花缘,
+Skill/S_Bari_12_LucyD_Description, Text,,"카드 포기 라이브러리의 모든 스킬을 보고 스킬 중 하나를 선택하여 추출합니다.
+
+<color=#919191>모든 추억을 잃은 발리는 여전히 그녀의 사명을 명심하고 마을을 떠났다...</color>","View all skills in the discard pile and choose one to draw.
+
+<color=#919191>Bari, who lost all her memories, still remembered her mission and left the town...</color>",,"查看弃牌库中的所有技能，并选择其中一个技能抽取。
+
+<color=#919191>失去所有回忆的芭莉依旧铭记着她的使命离开了小镇...</color>",
+Skill/S_Bari_12_LucyD_Name, Text,,세시아의 추억의 가요,Sesia's Memory Ballad,,塞西亚的回忆歌谣,
+Skill/S_Bari_1_Description,Text,,,<color=#919191>Meryl! Don't spit at people randomly!</color>,,<color=#919191>梅丽尔！不能随意朝别人吐口水！</color>,
+Skill/S_Bari_1_Name, Text,,얼굴이 구린 알파카,Grumpy Alpaca,,臭脸羊驼,
+Skill/S_Bari_2_Description, Text,,"모든 적의 조롱을 해제, 조롱이 해제된 적은 최대 생명치 10%의 데미지(최고 50 미만)를 받는다.",Remove Taunt from all enemies. Enemies who lose Taunt take 20% of their max HP as damage (max 50).,,解除所有敌人的嘲讽，被解除嘲讽的敌人受到其最大生命值20%的伤害(最高不超过50)。,
+Skill/S_Bari_2_Name, Text,,피노의 바람,Pino's Wind,,皮诺之风,
+Skill/S_Bari_3_0_Description, Text,,약간의 마법력을 얻습니다.,Gain 1 Mana.,,获得一点法力值。,
+Skill/S_Bari_3_0_Name, Text,,마음대로 놀다,Casual Play,,随便游玩,
+Skill/S_Bari_3_1_Description, Text,,150 금화를 소비하여 2 점 마법력치를 획득.,Spend 150 Gold to gain 2 Mana.,,"花费150金币,获得两点法力值。",
+Skill/S_Bari_3_1_Name, Text,,회원 항목,Membership Item,,会员项目,
+Skill/S_Bari_3_Description, Text,,"약간의 마법력을 얻습니다.
+150 금화를 소비하여 효과를 2 점 마법력 획득으로 변경할 수 있습니다.","Gain 1 Mana.
+Can spend 150 Gold to change the effect to gain 2 Mana.",,"获得一点法力值。
+可以花费150金币将效果改为获得两点法力值。",
+Skill/S_Bari_3_Name, Text,,카멜의 카마손 랜드,Camell's Kamason Land,,卡麦尔的卡马逊乐园,
+Skill/S_Bari_4_0_Description, Text,,선택 기술의 원본 복사본을 획득하고 추방을 첨부합니다.,Gain an original copy of the selected skill and attach Exclude.,,获得选择技能的一个原始复制并附带放逐。,
+Skill/S_Bari_4_0_Name, Text,,간단한 쇼핑,Simple Shopping,,简单购物,
+Skill/S_Bari_4_1_Description, Text,,150 골드를 소비하여 선택 스킬의 두 원본 복제를 획득하고 추방.,Spend 150 Gold to gain two original copies of the selected skill and attach Exclude.,,"花费150金币,获得选择技能的两个原始复制并附带放逐。",
+Skill/S_Bari_4_1_Name, Text,,특별 할인,Special Discount,,特别优惠,
+Skill/S_Bari_4_Description, Text,,"선택 스킬의 원본 복사 및 추방 (루시 스킬과 레어 스킬을 선택할 수 없음) 을 획득합니다.
+150 골드를 소비하여 효과를 선택 스킬의 두 원시 복제를 획득하고 추방을 첨부할 수 있습니다.","Gain an original copy of the selected skill and attach Exclude (cannot select Lucy skills or rare skills).
+Can spend 150 Gold to change the effect to gain two original copies of the selected skill and attach Exclude.",,"获得选择技能的一个原始复制并附带放逐(无法选择露西技能和稀有技能)。
+可以花费150金币将效果改为获得选择技能的两个原始复制并附带放逐。",
+Skill/S_Bari_4_Name, Text,,가브리엘의 편의점,Gabriel's Convenience Store,,加百列的便利店,
+Skill/S_Bari_5_Description, Text,,목표를 선택한 모든 기술을 버리고 같은 양의 자신의 기술을 우선적으로 추출합니다.,"Discard all skills of the selected target, then prioritize drawing an equal number of your own skills.",,丢弃选择目标的所有技能，然后优先抽取等量的自己的技能。,
+Skill/S_Bari_5_Name, Text,,천계의 자본가,Skyward Capitalist,,天界资本家,
+Skill/S_Bari_6_Description, Text,,무작위로 해로운 이득을 제거합니다.대상이 생화 이득을 가지고 있으면 하나를 더 해제합니다.,"Remove a random debuff. If the target has a Flower buff, remove one more.",,随机解除一个减益。若目标持有鲜花增益，则再解除一个。,
+Skill/S_Bari_6_Name, Text,,꽃의 마법,Flower Magic,,鲜花魔法,
+Skill/S_Bari_7_Description, Text,,"<color=#919191>난 평생 널 미워한 적이 없어, 헬레나, 난 항상...항상 널 소중히 여겼어.</color>","<color=#919191>I have never hated you in this life, Helena. I have always... always cherished you.</color>",,<color=#919191>我此生从来没有讨厌过你，海伦娜，我一直...一直很珍惜你。</color>,
+Skill/S_Bari_7_Name, Text,,꽃을 증정하다.,Gift of Flowers,,赠予鲜花,
+Skill/S_Bari_8_Description, Text,,대원 한 명이 생화 이득을 보유할 때마다 약간의 마법치를 회복한다.,Restore 1 Mana for each teammate with a Flower buff.,,每有一位队员持有鲜花增益则恢复一点法力值。,
+Skill/S_Bari_8_Name, Text,,풍작신수의 축복,Blessing of the Harvest Beast,,丰收神兽的祝福,
+Skill/S_Bari_9_Description, Text,,"대상이 생화 이득을 보유하면 목표 & a점 체력치를 추가로 치료합니다.
+
+<color=#919191>카드...카멜님, 어떻게 이 모양이 되셨습니까!?</color>","If the target has a Flower buff, additionally heal &a HP.
+
+<color=#919191>Ca... Camell-sama, how did you end up like this!?</color>",,"若目标持有鲜花增益，则额外治疗目标&a点体力值。
+
+<color=#919191>卡...卡麦尔大人，您怎么会变成这幅模样！？</color>",
+Skill/S_Bari_9_Name, Text,,풍년의 신이 내린 복,Blessing of the God of Harvest,,丰收之神的赐福,
+Skill/S_Bari_G_0_Description,Text,,,"When Bari has 3 memories, the effect of this skill changes based on the types of memories she has.
+Consumes all memories after using a Wish effect.",,"在拥有3个回忆时，该技能的效果会根据芭莉所拥有的回忆而改变。
+使用一种祈愿效果后消耗所有回忆。",
+Skill/S_Bari_G_0_Name,Text,,,Wish,,祈愿,
+Skill/S_Bari_G_10_Description, Text,,"150 금화를 획득하다.
+스킬 하나를 뽑습니다.","Gain 150 gold.
+Draw one skill.",,"获得150金币。
+抽取一个技能。",
+Skill/S_Bari_G_10_Name, Text,,기원,Wish,,祈愿,
+Skill/S_Bari_G_1_Description, Text,,기술 하나를 뽑다.,Draw one skill.,,抽取一个技能。,
+Skill/S_Bari_G_1_Name, Text,,기원,Wish,,祈愿,
+Skill/S_Bari_G_2_Description, Text,,마법의 탄환 한 장을 손에 넣다.,Add one Magic Bullet to your hand.,,将一张魔弹置入手中。,
+Skill/S_Bari_G_2_Name, Text,,기원,Wish,,祈愿,
+Skill/S_Bari_G_3_Description,Text,,,,,,
+Skill/S_Bari_G_3_Name, Text,,기원,Wish,,祈愿,
+Skill/S_Bari_G_4_Description, Text,,기술 하나를 뽑다.,Draw one skill.,,抽取一个技能。,
+Skill/S_Bari_G_4_Name, Text,,기원,Wish,,祈愿,
+Skill/S_Bari_G_5_Description, Text,,랜덤 1 개 이득을 해제합니다.,Remove one random debuff.,,解除随机一个减益。,
+Skill/S_Bari_G_5_Name, Text,,기원,Wish,,祈愿,
+Skill/S_Bari_G_6_Description,Text,,,,,,
+Skill/S_Bari_G_6_Name, Text,,기원,Wish,,祈愿,
+Skill/S_Bari_G_7_Description, Text,,스킬 하나를 뽑습니다.,Draw one skill.,,抽取一个技能。,
+Skill/S_Bari_G_7_Name, Text,,기원,Wish,,祈愿,
+Skill/S_Bari_G_8_Description, Text,,"150 금화를 획득하다.
+스킬을 하나 뽑아 두 개의 마법력을 회복합니다.","Gain 150 gold.
+Draw one skill and restore 2 Mana.",,"获得150金币。
+抽取一个技能并回复两点法力值。",
+Skill/S_Bari_G_8_Name, Text,,기원,Wish,,祈愿,
+Skill/S_Bari_G_9_Description, Text,,"150 금화를 획득하다.
+스킬 하나를 뽑습니다.","Gain 150 gold.
+Draw one skill.",,获得150金币。,
+Skill/S_Bari_G_9_Name, Text,,기원,Wish,,祈愿,
+Skill/S_Bari_P_0_Description, Text,,"목표 스킬을 추방하여 해당 스킬 보유자의 소원 하나를 실현합니다(루시 스킬과 자신의 스킬을 선택할 수 없음).
+그런 다음 기억 결핍을 부여합니다 (해제 불가능, 영구, 치료량 -25%).","Exclude a target skill and grant its owner one wish (cannot choose Lucy's skill or your own skill).
+Then inflict Memory Loss (irremovable, permanent, -25% healing received).",,"将目标技能放逐,实现该技能持有者一个愿望（无法选择露西技能和自己的技能）。
+然后赋予其记忆缺失(无法解除,永久,受治疗量-25%)。",
+Skill/S_Bari_P_0_Name, Text,,생화의 힘,Power of Flowers,,鲜花之力,
+Skill/S_Bari_P_1_Description, Text,,직업(공격/치료/방어)에 따라 +30% 공격력/+30% 치료력/10 최대 생명치를 획득.,Gain +30% Attack/+30% Healing/10 Max HP based on your class (Attack/Heal/Defense).,,根据职业（攻击/治疗/防御）获得+30%攻击力/+30%治疗力/10点最大生命值。,
+Skill/S_Bari_P_1_Name, Text,,강력한 성능,Greater Strength,,更强的力量,
+Skill/S_Bari_P_2_Description, Text,,체력치 & a 회복 및 모든 해로운 기운을 제거합니다.,Restore &a HP and remove all debuffs.,,恢复&a点体力值并解除所有减益。,
+Skill/S_Bari_P_2_Name, Text,,더 나은 몸,Better Body,,更好的身体,
+Skill/S_Bari_P_3_Description, Text,,기술 1개를 뽑아 마법력을 1포인트 회복합니다.,Draw 1 skill and restore 1 Mana.,,抽取1个技能并回复1点法力值。,
+Skill/S_Bari_P_3_Name, Text,,더 많은 재산,More Wealth,,更多的财富,
+SkillExtended/Bari_Ex_0_Des,Text,,,"Deal &a damage to a random enemy after use.
+Grants Bari ""Passionate Memories"".",,"使用后对随机敌人造成&a点伤害。
+使芭莉获得热枕回忆。",
+SkillExtended/Bari_Ex_0_EnforceString,Text,,,,,,
+SkillExtended/Bari_Ex_0_Name,Text,,,Shared Experience - Battle,,共同经历-战斗,
+SkillExtended/Bari_Ex_1_Des,Text,,,"Restore &a HP after use.
+Grants Bari ""Warm Memories"".",,"使用后恢复&a点体力值。
+使芭莉获得温暖回忆。",
+SkillExtended/Bari_Ex_1_EnforceString,Text,,,,,,
+SkillExtended/Bari_Ex_1_Name,Text,,,Shared Experience - Healing,,共同经历-治愈,
+SkillExtended/Bari_Ex_2_Des,Text,,,"Gain &a Flower Barrier after use.
+Grants Bari ""Joyful Memories"".",,"使用后获得&a点鲜花屏障。
+芭莉获得愉悦回忆。",
+SkillExtended/Bari_Ex_2_EnforceString,Text,,,,,,
+SkillExtended/Bari_Ex_2_Name,Text,,,Shared Experience - Assistance,,共同经历-协助,
+SkillExtended/SkillEn_Bari_0_Des,Text,,,,,,
+SkillExtended/SkillEn_Bari_0_EnforceString,Text,,0 개 이상의 스킬,Skills costing 0 or more,,0费以上的技能,
+SkillExtended/SkillEn_Bari_0_Name,Text,,공통 경력 이득 보유 시 비용 1 감소,Cost reduced by 1 when Shared Experience buff is active,,拥有共同经历增益时费用减一,
+SkillExtended/SkillEn_Bari_1_Des,Text,,,,,,
+SkillExtended/SkillEn_Bari_1_EnforceString,Text,,,,,,
+SkillExtended/SkillEn_Bari_1_Name,Text,,발리와 자신에게 생화 이득 부여,Grants Flower Buff to Bari and yourself,,为芭莉和自身赋予鲜花增益,
+

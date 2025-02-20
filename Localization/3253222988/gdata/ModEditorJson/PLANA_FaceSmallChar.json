@@ -1,0 +1,23 @@
+{
+    "myKey": "PLANA",
+    "myField": "FaceSmallChar",
+    "myValues": {
+        "path": "PLANA\\PLANAFaceSmallChar.png",
+        "pivot": {
+            "x": 0.5222945,
+            "y": 0.7660851
+        },
+        "offsetMin": {
+            "x": -334.1191,
+            "y": -492.6845
+        },
+        "offsetMax": {
+            "x": 301.704254,
+            "y": 143.138824
+        }
+    },
+    "MyChangeType": "FaceSmallChar",
+    "myKeys": [
+        
+    ]
+}

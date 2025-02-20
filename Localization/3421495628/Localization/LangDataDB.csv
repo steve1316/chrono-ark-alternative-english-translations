@@ -1,0 +1,169 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_GreaAnne_2_Name,Text,,,,,,
+Buff/B_GreaAnne_3_Description,Text,,,,,,
+Buff/B_GreaAnne_3_Name,Text,,,,,,
+Buff/B_GreaAnne_4_Name,Text,,,Destruction Spell,,破坏法术,
+Buff/B_GreaAnne_5_Description,Text,,,"Reduces damage taken by 20% of damage received (excluding Speed attribute, up to a maximum of 30%). 
+When taking action or if this debuff is reapplied during its duration, the reduction resets.",,"依据受到伤害的20%提升减少量(不包括速度属性，且至多减少至30%)。
+行动时或持续时间内被再次施加此减益时，减少量重置。",
+Buff/B_GreaAnne_5_Name,Text,,,Spirit's Deterrence,,英灵震慑,
+Buff/B_GreaAnne_6_Description,Text,,,"After using &a skills in hand other than [Princess Summon], generate 1 [Princess Summon] with Exclude, discarded after 1 turn.",,使用&a张手中除【公主召唤】以外的技能后，生成1张【公主召唤】，附带放逐，1回合后弃牌。,
+Buff/B_GreaAnne_6_Name,Text,,,Princess Summon,,公主召唤,
+Buff/B_GreaAnne_7_Description,Text,,,"After receiving 2 (&b/2) Follow-up attacks/counterattacks, take &a damage.",,每受到2（&b/2）次追加攻击/反击后，受到&a点伤害。,
+Buff/B_GreaAnne_7_Name,Text,,,Blast Mark,,爆破标记,
+Buff/B_GreaAnne_8_Description,Text,,,"After &a turns, choose to generate 1 rare skill of self with Exclude. 
+When this buff is reapplied, restore 1 Mana and reduce the required time to generate the skill by 1 turn. 
+Removed after generating the skill.",,"&a回合后，可选择生成1张自身的稀有技能，附带放逐。
+被再次施加本增益时，恢复1点法力值，缩短1回合生成技能所需时间。
+生成技能后解除。",
+Buff/B_GreaAnne_8_Name,Text,,,Bond Chain,,友情连锁,
+Buff/B_GreaAnne_Ra_Description,Text,,,"Every 4 (&b/4) standby counts (not counted when ending the turn), cast [Destruction Spell] on the enemy with the highest HP and generate &a Barrier.",,每经过4（&b/4）个倒计时（按下回合结束键后不计入），对体力值最高的敌人释放1次【破坏法术】，并生成&a点防护墙。,
+Buff/B_GreaAnne_Ra_Name,Text,,,Barrier Spell,,屏障法术,
+Buff/B_GreaAnne_Rg_Name,Text,,,Dragon's Rage,,龙怒,
+Buff/B_GreaAnne_Rh_Description,Text,,,,,,
+Buff/B_GreaAnne_Rh_Name,Text,,,Mana Aura,,魔力光环,
+Buff/B_GreaAnne_atk_Description,Text,,,,,,
+Buff/B_GreaAnne_atk_Name,Text,,,Attack Boost,,攻击力提升,
+Buff/B_GreaAnne_g1_Name,Text,,,Blazing Dragon Breath,,炽烈龙息,
+Buff/B_GreaAnne_p_Description,Text,,,"For each stack of this buff, increase damage dealt by 1 when using skill attacks.",,自身释放技能攻击时，每有1层此增益，造成的伤害增加1点。,
+Buff/B_GreaAnne_p_Name,Text,,,Bond Sigil,,友情魔印,
+Character/GreaAnne_CampSelectWord,Text,,,"If we're together, we can do anything!",,如果两个人在一起的话！,
+Character/GreaAnne_PassiveDes,Text,,,"Gain 1 stack of [Bond Sigil] for each buff received, lasting 2 turns. 
+
+[Bond Sigil]: +2% Critical Rate per stack. For each stack, increase damage dealt by 1 when using skill attacks. 
+
+The maximum stacks of [Bond Sigil] are equal to self's level ×2.",,"每受到1次增益，自身获得1层【友情魔印】，持续2回合。
+
+友情魔印：暴击率+2%/层，自身释放技能攻击时，每有1层此增益，造成的伤害增加1点。
+
+【友情魔印】的上限层数为自身等级*2。",
+Character/GreaAnne_PassiveName,Text,,,Mana Resonance,,魔力共鸣,
+Character/GreaAnne_SelectInfo,Text,,,"The twin princesses of Manaria who unleash combos through Mana Resonance. 
+
+Gaining [Bond Sigil] stacks from buffs will enhance skills, allowing them to strike enemies with a fiery magic spear charged for a critical hit.",,"以魔力共鸣使出连击的玛纳利亚双姝。
+
+得到增益效果时，增加的【友情魔印】将强化技能，使出蓄势重击的炎之魔枪讨伐敌人。",
+Character/GreaAnne_Text_Battle_AllyND_0,Text,,,Sorry! I couldn't protect you.,,抱歉！没有保护好你。,
+Character/GreaAnne_Text_Battle_Cri_0,Text,,,Behold the dragon's flames!,,见识见识龙的火焰吧！,
+Character/GreaAnne_Text_Battle_Cri_1,Text,,,"Spirits, answer my call!",,英灵啊，回应我的呼唤吧！,
+Character/GreaAnne_Text_Battle_Healed_0,Text,,,Thank you very much...,,非常感谢你……,
+Character/GreaAnne_Text_Battle_Healed_1,Text,,,"Alright, time to keep fighting.",,好了，该继续战斗了。,
+Character/GreaAnne_Text_Battle_Idle_0,Text,,,Seeing fire helps me calm down a bit.,,看到火，我就能稍微冷静下来呢。,
+Character/GreaAnne_Text_Battle_Idle_1,Text,,,Hey? Aren't we going to attack?,,喂？还不进攻吗？,
+Character/GreaAnne_Text_Battle_Kill_0,Text,,,Incinerate everything with flames!,,以烈焰焚灭一切吧！,
+Character/GreaAnne_Text_Battle_Kill_1,Text,,,"Spirit Spear, pierce through the enemies!",,英灵之矛，穿透敌人吧！,
+Character/GreaAnne_Text_Battle_ND_0,Text,,,Ouch! That hurts!,,哇！痛痛痛！,
+Character/GreaAnne_Text_Battle_ND_1,Text,,,Uh... I was too reckless...,,呃......是我莽撞了......,
+Character/GreaAnne_Text_Battle_Start_0,Text,,,Leave this to us!,,这里就交给我们吧！,
+Character/GreaAnne_Text_Battle_Start_1,Text,,,"No matter what enemies we face, we won't lose!",,不管遇到怎样的敌人，我们都不会输！,
+Character/GreaAnne_Text_Field_GetItem_0,Text,,,Whoa! Look at that!,,喔！看看那个！,
+Character/GreaAnne_Text_Field_Idle_0,Text,,,"I'm not as smart as Anne, so I need to study hard.",,我没有安那么聪明，所以要认真学习才行。,
+Character/GreaAnne_Text_Field_Idle_1,Text,,,What should I do with Grea? ♪,,要和古蕾雅一起做些什么好呢♪,
+Character/GreaAnne_Text_MasterTarget,Text,,,"We'd rather hear ""Goodbye"" instead of ""Farewell"".",,比起“永别”，我们更愿意听到你说“再见”呢。,
+Character/GreaAnne_Text_PharosLeader_0,Text,,,"Now it's three versus three, Lucy!",,现在是三对三了，露西！,
+Character/GreaAnne_Text_PharosLeader_1,Text,,,"Darn, both of them got controlled!",,可恶，竟然两个人都被控制了！,
+Character/GreaAnne_Text_PharosLeader_2,Text,,,This ends here!,,到此为止了！,
+Character/GreaAnne_Text_Witch_0,Text,,,"If we share the burden together, it's nothing!",,两人一起分担的话就不算什么！,
+Character/GreaAnne_Text_Witch_1,Text,,,Wow. This is double the pain!,,哇。这岂不是双倍的痛苦！,
+Character/GreaAnne_name,Text,,,Grea & Anne,,古蕾雅&安,
+Skill/S_GreaAnne_1_0_Description,Text,,,"Deal &a damage 2 times. 
+Reduces own Overload by 1.",,"造成&a点伤害2次。
+使自身过载-1。",
+Skill/S_GreaAnne_1_0_Name,Text,,,Blast Break,,爆裂破,
+Skill/S_GreaAnne_1_1_Name,Text,,,,,,
+Skill/S_GreaAnne_1_Description,Text,,,"Deal &a damage 2 times. 
+Reduces own Overload by 1. 
+Can be used again this turn.",,"造成&a点伤害2次。
+使自身过载-1。
+可在本回合内再次使用。",
+Skill/S_GreaAnne_1_Name,Text,,,Blast Break,,爆裂破,
+Skill/S_GreaAnne_2_0_Name,Text,,,,,,
+Skill/S_GreaAnne_2_Description,Text,,,"If no skills in hand have been used this turn, reduce this skill's cost by 1. 
+During this skill's standby count, for each standby count elapsed (not counted when ending the turn), deal &a damage to all enemies.",,"本回合若没有使用过任何手中的技能，则此技能费用减少1点。
+此技能倒计时期间，每经过1个倒计时（按下回合结束键后不计入），对所有敌人造成&a点伤害。",
+Skill/S_GreaAnne_2_Name,Text,,,Dragonfire Secrets,,炎龙秘火,
+Skill/S_GreaAnne_3_Description,Text,,,"During this skill's standby count, after an ally is attacked, &target counterattacks with &b damage. 
+<color=#039551>Charge (&a/5):</color> Release with standby count 3.",,"此技能倒计时期间，友军受到攻击后，&target以&b点伤害反击。
+<color=#039551>蓄力（&a/5）：</color>以‘倒计时3’释放。",
+Skill/S_GreaAnne_3_Name,Text,,,Dragon's Inferno,,龙之地狱,
+Skill/S_GreaAnne_4_Description,Text,,,"If there are other enemies with a standby count difference of 1 or less from the target, attack them 2 additional times. 
+If there are no other enemies, attack the original target 1 additional time.",,"若存在与目标行动倒计时差值为1以内的其他敌人，追加攻击该敌人2次。
+若场上无其他敌人，追加攻击原目标1次。",
+Skill/S_GreaAnne_4_Name,Text,,,Collision Spell,,碰撞法术,
+Skill/S_GreaAnne_5_Description,Text,,,"Increase target's standby count by 1. 
+<color=#039551>Charge (&a/2):</color> Add 1 additional attack dealing &b damage.",,"使目标行动倒计时+1。
+<color=#039551>蓄力（&a/2）：</color>追加1次&b点伤害的攻击。",
+Skill/S_GreaAnne_5_Name,Text,,,Hindrance,,阻碍术,
+Skill/S_GreaAnne_6_0_Description,Text,,,,,,
+Skill/S_GreaAnne_6_0_Name,Text,,,Destruction Spell,,破坏法术,
+Skill/S_GreaAnne_6_Description,Text,,,"Cast [Destruction Spell] on a random enemy.
+Reduces all allies' Overload by 1. 
+Using this skill does not change enemies' standby counts. ",,"对随机敌人释放1次【破坏法术】。
+使所有友军过载-1。
+使用此技能时不会使敌人的行动倒计时变化。",
+Skill/S_GreaAnne_6_Name,Text,,,Princess Summon,,公主召唤,
+Skill/S_GreaAnne_71_Description,Text,,,Gain 1 Standby.,,获得1次等待机会。,
+Skill/S_GreaAnne_71_Name,Text,,,Bond Guidance,,友情导引,
+Skill/S_GreaAnne_8_Description,Text,,,"<color=#039551>Charge (&a/3):</color> Guaranteed Critical. 
+<color=#039551>Charge (&a/5):</color> Add 1 [Bond Chain] to the deck.   ",,"<color=#039551>蓄力（&a/3）：</color>必定暴击。
+<color=#039551>蓄力（&a/5）：</color>在牌库生成1张【友情连锁】。",
+Skill/S_GreaAnne_8_Name,Text,,,Bond Chain,,友情连锁,
+Skill/S_GreaAnne_9_0_Description,Text,,,"For each Mana spent, deal an additional &a damage. 
+Restore Mana equal to the cost when cast.",,"依据支付的费用，每1点费用额外造成&a点伤害。
+释放时返还消耗的法力值。",
+Skill/S_GreaAnne_9_0_Name,Text,,,Bond Combo,,友情合击,
+Skill/S_GreaAnne_9_Description,Text,,,"Deal &a <color=purple>Pain damage</color> to self (based on Attack). 
+Restore 1 Mana and generate 2 [Bond Combo].",,"对自身造成&a点<color=purple>痛苦伤害</color>（基于攻击力）。
+恢复1点法力值，生成2张【友情合击】。",
+Skill/S_GreaAnne_9_Name,Text,,,Bond Invocation,,友情唱唤,
+Skill/S_GreaAnne_LucyA_1_Description,Text,,,"Draw 1 skill. 
+Can be used again this turn. 
+Reduces Lucy's Overload by 1.",,"抽取1个技能。
+可于本回合内再次使用。
+使露西过载-1。",
+Skill/S_GreaAnne_LucyA_1_Name,Text,,,Princess Heart,,公主之心,
+Skill/S_GreaAnne_LucyA_2_Description,Text,,,"Draw 1 skill. 
+Reduces Lucy's Overload by 1.",,"抽取1个技能。
+使露西过载-1。",
+Skill/S_GreaAnne_LucyA_2_Name,Text,,,Princess's Heart,,公主之心,
+Skill/S_GreaAnne_LucyA_Description,Text,,,"Draw 1 skill. 
+If used immediately when drawn, can be used 3 times this turn. 
+If not used immediately, can be used 2 times this turn. 
+Reduces Lucy's Overload by 1.",,"抽取1个技能。
+拿到手中立即使用时，可于本回合内使用3次。
+若没有立即使用，则只可于本回合内使用2次。
+使露西过载-1。",
+Skill/S_GreaAnne_LucyA_Name,Text,,,Princess's Heart,,公主之心,
+Skill/S_GreaAnne_LucyG_Description,Text,,,"Draw 2 skills. 
+If Grea & Anne are alive, they deal 35% Attack damage 2 times. 
+If the target is killed, restore 1 Mana.",,"抽取2个技能。
+若古蕾雅&安存活，由古蕾雅&安造成35%攻击力点伤害2次。
+若击杀目标，恢复1点法力值。",
+Skill/S_GreaAnne_LucyG_Name,Text,,,Dragonheart,,炎龙之心,
+Skill/S_GreaAnne_Ra_Description,Text,,,Generate a Barrier equal to the sum of all enemies' current standby counts.,,依据所有敌人当前行动倒计时之和生成防护墙。,
+,,,,,,,
+Skill/S_GreaAnne_Ra_Name,Text,,,Deterrence Impact,,威慑冲击,
+Skill/S_GreaAnne_Rg_0_Name,Text,,,,,,
+Skill/S_GreaAnne_Rg_Description,Text,,,"Deal &a damage 5 times. 
+For every 3 stacks of [Bond Sigil], add 1 additional hit. 
+Critical Rate -50% per enemy.",,"造成&a点伤害5次。
+自身每有3层【友情魔印】，额外追加1次。
+每有1个敌人，此技能暴击率-50%。",
+Skill/S_GreaAnne_Rg_Name,Text,,,Fury Claws,,狂怒之爪,
+Skill/S_GreaAnne_Rh_Description,Text,,,"Deal &b damage 3 times. 
+<color=#039551>Charge (&a/4):</color> For each charge met, add 1 additional attack dealing &b damage. 
+<color=#039551>Charge (&a/6):</color> For each charge met, reduce cost by 1.",,"造成&b点伤害3次。
+<color=#039551>蓄力（&a/4）：</color>每满足1倍蓄力，额外追加1次&b点伤害的攻击。
+<color=#039551>蓄力（&a/6）：</color>每满足1倍蓄力，费用减少1点。",
+Skill/S_GreaAnne_Rh_Name,Text,,,Radiant Inferno,,辐光炼狱,
+SkillExtended/EX_GreaAnne_SRH_Des,Text,,,,,,
+SkillExtended/EX_GreaAnne_SRH_Name,Text,,,,,,
+SkillExtended/SkillEx_GreaAnne_1_Des,Text,,,,,,
+SkillExtended/SkillEx_GreaAnne_1_EnforceString,Text,,,Swiftness Skill,,迅速技能,
+SkillExtended/SkillEx_GreaAnne_1_Name,Text,,,Turn this skill into an Overload skill. Restore 1 Mana when used.,,使此技能变为过载技能。使用时，恢复1点法力值。,
+SkillExtended/SkillEx_GreaAnne_2_Des,Text,,,,,,
+SkillExtended/SkillEx_GreaAnne_2_EnforceString,Text,,,Skills costing 1 or more Mana,,费用不小于1点的技能,
+SkillExtended/SkillEx_GreaAnne_2_Name,Text,,,"Grants Grea & Anne 2 stacks of ""Attack Boost 8%"" for 2 turns.",,使古蕾雅&安获得2层‘攻击力提升8%’的增益，持续2回合。,
+SkillKeyword/Ex_GreaAnne_Desc,Text,,,"While holding this skill, gain 1 charge (X) per standby count elapsed (not counted when ending the turn). Triggers effect when charge (X) meets requirement (Y).",,此技能握在手中时，每经过1个倒计时（按下回合结束键后不计入），增加1点蓄力值（X）。蓄力值（X）满足要求（Y）时，可触发词条效果。,
+SkillKeyword/Ex_GreaAnne_Name,Text,,,Charge (X/Y),,蓄力（X/Y）,
+

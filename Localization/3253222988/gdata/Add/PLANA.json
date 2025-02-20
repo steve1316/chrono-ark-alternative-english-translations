@@ -1,0 +1,132 @@
+{
+    "PLANA": {
+        "_gdeSchema": "Character",
+        "Role": "Role_Support",
+        "PassiveClassName": "PLANA.P_PLANA",
+        "PassiveUnlockLV1": true,
+        "face": "PLANA\\PLANABattleFace.png",
+        "BattleChar": "PLANA\\PLANABattleChar.png",
+        "FaceOriginChar": "PLANA\\PLANAFaceOriginChar.png",
+        "FaceSmallChar": "PLANA\\PLANAFaceSmallChar.png",
+        "Gender": 1,
+        "name": "普拉娜",
+        "SelectInfo": "什亭之匣的操作系统A.R.O.N.A。\n\"普拉娜\"是一位前辈替她取的名字。",
+        "MAXHP": {
+            "x": 10,
+            "y": 10
+        },
+        "ATK": {
+            "x": 10,
+            "y": 19
+        },
+        "DEF": {
+            "x": 0,
+            "y": 0
+        },
+        "CRI": {
+            "x": 0,
+            "y": 0
+        },
+        "DODGE": {
+            "x": 0,
+            "y": 16
+        },
+        "REG": {
+            "x": 12,
+            "y": 26
+        },
+        "HIT": {
+            "x": 100,
+            "y": 115
+        },
+        "RES_CC": {
+            "x": -5,
+            "y": 40
+        },
+        "RES_DEBUFF": {
+            "x": 10,
+            "y": 50
+        },
+        "RES_DOT": {
+            "x": 10,
+            "y": 50
+        },
+        "HIT_CC": {
+            "x": 10,
+            "y": 35
+        },
+        "HIT_DEBUFF": {
+            "x": 10,
+            "y": 35
+        },
+        "HIT_DOT": {
+            "x": 0,
+            "y": 26
+        },
+        "PassiveName": "什亭之匣",
+        "PassiveDes": "战斗开始时，使其他所有友军获得\"支援演算\"，并于第二回合给予\"防护力场\"，但进入战斗后普拉娜每3回合会停机维护1回合。 \r\n支援演算：获得普拉娜30%的攻击力与治愈力，后续每层+15%。 \r\n防护力场：受到伤害时将此次伤害减少至1/3。若普拉娜存活，则改为免除该次伤害并对普拉娜造成2点痛苦伤害，触发后解除。",
+        "PassiveIcon": "PLANA_IMAGE\\PLANAPassiveIcon.png",
+        "CollectionSprite_Cover": "PLANA\\PLANACollectionSprite_Cover.png",
+        "CollectionSprite_SkillFace": "PLANA\\PLANACollectionSprite_SkillFace.png",
+        "StatView_Atk": 1,
+        "StatView_Sup": 3,
+        "StatView_Def": 2,
+        "StatView_Heal": 2,
+        "StatView_Dot": 1,
+        "StatView_CC": 0,
+        "StatView_Debuff": 2,
+        "StatView_Difficult": 1,
+        "FirstSkill": "S_PLANA_0",
+        "CampSD": [
+            "PLANA_IMAGE\\PLANACampSD0.png",
+            "PLANA_IMAGE\\PLANACampSD1.png",
+            "PLANA_IMAGE\\PLANACampSD2.png",
+            "PLANA_IMAGE\\PLANACampSD3.png"
+        ],
+        "Text_Battle_Idle": [
+            "待机中。",
+            "能派上用场吗......?"
+        ],
+        "Text_Battle_ND": [
+            "老師......"
+        ],
+        "Text_Battle_AllyND": [
+            "\t\r前辈，差不多该起来了......。"
+        ],
+        "Text_Battle_Kill": [
+            "呼姆......是那种构造呀。"
+        ],
+        "Text_Battle_Start": [
+            "\t\r唔恩......原来如此。",
+            "到该开始工作的时间了。"
+        ],
+        "Text_Battle_Cri": [
+            "这是......"
+        ],
+        "Text_Battle_Healed": [
+            "我也......一起......"
+        ],
+        "Text_Field_Idle": [
+            "......感觉到了视线。",
+            "下雨的话，就用这个。"
+        ],
+        "Text_Field_GetItem": [
+            "这里......是这么回事啊。"
+        ],
+        "Text_Field_Potion_P": [
+            "能派上用场吗......?"
+        ],
+        "CampSelectWord": "确认连线。",
+        "Text_PharosLeader": [
+            "混乱。 是无法理解的行动。",
+            "......",
+            ""
+        ],
+        "GoodGift": [
+            "Drink_Milk",
+            "Gift_Cake",
+            "Gift_Tool",
+            "Gift_Art"
+        ]
+    }
+}

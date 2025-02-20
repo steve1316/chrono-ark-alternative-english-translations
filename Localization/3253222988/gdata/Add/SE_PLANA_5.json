@@ -1,0 +1,14 @@
+{
+    "SE_PLANA_5": {
+        "DMG_Per": 10,
+        "Buffs": [
+            "B_PLANA_4"
+        ],
+        "CRI": 0,
+        "HIT": 110,
+        "BuffPlusTagPer": [
+            0
+        ],
+        "_gdeSchema": "SkillEffect"
+    }
+}

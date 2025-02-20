@@ -1,0 +1,6 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+System/SkillSelect/Idol_Draw,Text,,스킬을 하나 선택하여 뽑습니다.,Select a skill to draw.,スキル抽出の選択,选择一个技能抽取,
+System/SkillSelect/Idol_Exe,Text,,스킬을 하나 선택하여 실행하니다.,Select a skill to EXECUTE.,选择一个技能执行,选择一个技能执行,
+System/StatDesc/Idol_CanExe,Text,,사용 가능,Available,使用可能,可用,
+System/StatDesc/Idol_CantExe,Text,,사용할 수 없음,Unavailable,使用できません,不可用,
+

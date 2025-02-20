@@ -1,0 +1,35 @@
+{
+    "S_PLANA_5": {
+        "UseAp": 2,
+        "Target": "enemy",
+        "Particle": "Particle/IronHeart/IronHeart_new_1",
+        "Effect_Target": "SE_PLANA_5",
+        "Name": "二律背反",
+        "Description": "技能倒数期间，每使用一张牌就产生&a点防护墙(最多10次)。 \n此牌会基于治愈力额外造成&b的伤害。\n对目标造成的额外伤害将扣除我方防护墙总和，若扣除值高于一半，则给予目标\"弹道计算\"。",
+        "SkillExtended": [
+            "PLANA.S_PLANA_5"
+        ],
+        "Counting": 4,
+        "NoBasicSkill": true,
+        "Fatal": false,
+        "Disposable": false,
+        "User": "PLANA",
+        "Image_2": "S_PLANA_5\\S_PLANA_5_Image_2.png",
+        "Image_1": "S_PLANA_5\\S_PLANA_5_Image_1.png",
+        "Image_0": "S_PLANA_5\\S_PLANA_5_Image_0.png",
+        "_gdeSchema": "Skill",
+        "Category": "null",
+        "Rare": false,
+        "NODOD": false,
+        "NotCount": false,
+        "NotChuck": false,
+        "HealSkill": false,
+        "NoDrop": false,
+        "IgnoreTaunt": false,
+        "Except": false,
+        "Basic": false,
+        "Track": false,
+        "EnemyPreview": false,
+        "UnknownTarget": false
+    }
+}

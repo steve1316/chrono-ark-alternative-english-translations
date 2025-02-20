@@ -1,0 +1,34 @@
+{
+    "S_PLANA_0": {
+        "Target": "ally",
+        "Particle": "Particle/flare_lv1",
+        "Effect_Target": "SE_PLANA_0",
+        "Name": "往日虚影",
+        "Description": "若弃牌库顶卡片不为自己的技能，生成该技能的复制，否则生成随机一个普拉娜的专属技能，并附带放逐、两回合后弃牌。",
+        "SkillExtended": [
+            "PLANA.S_PLANA_0"
+        ],
+        "NotCount": true,
+        "HealSkill": true,
+        "User": "PLANA",
+        "Image_2": "S_PLANA_0\\S_PLANA_0_Image_2.png",
+        "Image_1": "S_PLANA_0\\S_PLANA_0_Image_1.png",
+        "Image_0": "S_PLANA_0\\S_PLANA_0_Image_0.png",
+        "_gdeSchema": "Skill",
+        "Category": "null",
+        "Rare": false,
+        "NODOD": false,
+        "NotChuck": false,
+        "Disposable": false,
+        "NoDrop": false,
+        "IgnoreTaunt": false,
+        "Except": false,
+        "NoBasicSkill": false,
+        "Basic": false,
+        "Track": false,
+        "Fatal": false,
+        "EnemyPreview": false,
+        "UnknownTarget": false,
+        "Effect_Self": "null"
+    }
+}

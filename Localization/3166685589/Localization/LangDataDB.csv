@@ -1,0 +1,110 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Equip_SparkleHSR_0_0_Description,Text,,"중첩의 수가 2개가 되면 모든 아군은 +14% 치명타율과 +56% 치명타피해를 올려주는 [불꽃의 색채] 버프를 얻으며, 이는 1라운드 동안 지속됩니다. 
+라운드가 끝나면 제거됩니다.","When stacks reach 2, all allies gain +14% CRIT Rate and +56% CRIT DMG for 1 turn. 
+Removed at the end of the turn.",,"层数达到2后，全体友军获得暴击率+14%，暴击伤害+56%增益，持续一回合。
+回合结束时解除。","层数达到2后，全体友军获得暴击率+14%，暴击伤害+56%增益，持续一回合。
+回合结束时解除。"
+Buff/B_Equip_SparkleHSR_0_0_Name,Text,,가면,Mask,,假面,假面
+Buff/B_Equip_SparkleHSR_0_1_Description,Text,,,,,,
+Buff/B_Equip_SparkleHSR_0_1_Name,Text,,불꽃의 색채,Colorful Flame,,彩焰,彩焰
+Buff/B_SparkleHSR_10_Description,Text,,턴당 1번 자동 발동: 1회  [분연] ,Automatically triggers once per turn: Act 1.,,每回合自动触发一次：扮演1,每回合自动触发一次：扮演1
+Buff/B_SparkleHSR_10_Name,Text,,유희적 인간,Life Is a Gamble,,游戏人间,游戏人间
+Buff/B_SparkleHSR_11_Description,Text,,"[서술 트릭]의 효과가 2배로 증가합니다.
+해당 캐릭터의 스킬 사용 시 중첩 1 감소합니다.","The effect of ""Red Herring"" is doubled. Reduced by 1 stack when using this character's skill.",,"【叙述性诡计】的效果翻倍
+使用该角色技能时减少一层","【叙述性诡计】的效果翻倍
+使用该角色技能时减少一层"
+Buff/B_SparkleHSR_11_Name,Text,,기이한 수수께끼,Mystery,,迷诡,迷诡
+Buff/B_SparkleHSR_12_Description,Text,,아군을 포함하는 스킬 목표에는 모든 아군이 포함됩니다.,Skills targeting allies will target all allies.,,指向包含友军的技能目标将包含全体友军,指向包含友军的技能目标将包含全体友军
+Buff/B_SparkleHSR_12_Name,Text,,다중 해답,Narrative Polysemy,,多重解答,多重解答
+Buff/B_SparkleHSR_2_Description,Text,,캐릭터의 스킬 사용 후 해제,Removed after using this character's skill.,,使用该角色的技能后解除,使用该角色的技能后解除
+Buff/B_SparkleHSR_2_Name,Text,,꿈을 헤엄치는 물고기,Dreamdiver,,梦游鱼,梦游鱼
+Buff/B_SparkleHSR_4_Description,Text,,,,,,
+Buff/B_SparkleHSR_4_Name,Text,,야상곡,Nocturne,,夜想曲,夜想曲
+Buff/B_SparkleHSR_5_Description,Text,,해당 버프가 존재하는 동안 캐릭터의 능력치는 최대 능력치보다 낮아지지 않습니다.,The character's attributes will not fall below the maximum values attained while this buff is active.,,所属角色属性不会低于此增益存在期间拥有属性的最大值,所属角色属性不会低于此增益存在期间拥有属性的最大值
+Buff/B_SparkleHSR_5_Name,Text,,인조화,Artificial Flower,,人造花,人造花
+Buff/B_SparkleHSR_6_Description,Text,,"[서술 트릭] 중첩 수를 늘린 후 [서술 트릭] 의 중첩 수가 5개 이하인 경우 아군의 행동 후 1개의 [세시기] 중첩을 줄여 1
+ [분연] 합니다.","When ""Red Herring"" stacks increase, if stacks are 5 or fewer, Act 1. 
+Reduced by 1 stack when triggered.      ",,"【叙述性诡计】层数增加后，若层数不多于5，扮演1
+触发时减少一层","【叙述性诡计】层数增加后，若层数不多于5，扮演1
+触发时减少一层"
+Buff/B_SparkleHSR_6_Name,Text,,세시기,Almanac,,岁时记,岁时记
+Buff/B_SparkleHSR_8_Description,Text,,피해를 입힐 때 [서술 트릭]의 중첩 수가 대상의 방어력을 8%씩 감소시키는 것으로 간주합니다.,"When dealing damage, each stack of Trick reduces the target's DEF by 8% for this damage instance.",,造成伤害时，每层诡计都能让此伤害视作目标防御力减少了8%,造成伤害时，每层诡计都能让此伤害视作目标防御力减少了8%
+Buff/B_SparkleHSR_8_Name,Text,,실없는 허구,Purely Fictitious,,虚构无端,虚构无端
+Buff/B_SparkleHSR_9_Description,Text,,손에서 사용하는 다음 스킬은 신속 스킬이 되며 비용은 -2입니다.,The next skill used from hand gains Swiftness and costs 2 less Mana.,,从手中使用的下个技能变为迅速且费用-2,从手中使用的下个技能变为迅速且费用-2
+Buff/B_SparkleHSR_9_Name,Text,,몽환의 포영,Pipedream,,梦幻泡影,梦幻泡影
+Buff/B_SparkleHSR_LucyD_Description,Text,,다음 전투의 첫 번째 턴은 3으로 진행됩니다.,Act 3 during the first turn of the next battle.,,下场战斗的第一个回合扮演3,下场战斗的第一个回合扮演3
+Buff/B_SparkleHSR_LucyD_Name,Text,,믿을 수 없는 화자（활성화）,Unreliable Narrator (Active),,不可靠叙事者（已激活）,不可靠叙事者（已激活）
+Buff/B_SparkleHSR_P_Description,Text,,모든 아군이 주는 피해를 &a%만큼 증가시킵니다.,All investigators' damage dealt increases by &a%.,,全体调查员造成的伤害提高&a%,全体调查员造成的伤害提高&a%
+Buff/B_SparkleHSR_P_Name,Text,,서술 트릭,Red Herring,,叙述性诡计,叙述性诡计
+Character/SparkleHSR_PassiveDes,Text,,"마나를 회복할 때 [서술 트릭]의 중첩 수가 감소하고, 마나를 사용할 때 [서술 트릭]의 중첩 수가 증가합니다. 
+[서술 트릭]의 각 중첩은 모든 파티원의 피해를 6%씩 증가시킵니다(최대 10 중첩). 
+라운드 시작 시 중첩 수는 초기화됩니다. 
+[분연] : 숫자만큼 해당 마나를 회복하고, [서술 트릭]의 중첩의 감소를 막습니다.","Increases or decreases in Mana are recorded. Before allies choose actions, correspondingly increase or decrease ""Red Herring"" stacks. 
+Each stack of ""Red Herring"" increases all investigators' damage dealt by 6% (up to 10 stacks). 
+Stacks reset at turn start. 
+""Act"": Restore corresponding Mana without reducing stacks.",,"法力值的增加或减少数值会被记录，并在我方选择行动前，相应减少或增加【叙述性诡计】的层数。
+每层【叙述性诡计】会使全体调查员造成的伤害提高6%（最高10层）。
+回合开始时层数清零。
+【扮演】：回复相应法力值，但是不减少层数。","法力值的增加或减少数值会被记录，并在我方选择行动前，相应减少或增加【叙述性诡计】的层数。
+每层【叙述性诡计】会使全体调查员造成的伤害提高6%（最高10层）。
+回合开始时层数清零。
+【扮演】：回复相应法力值，但是不减少层数。"
+Character/SparkleHSR_PassiveName,Text,,서술 트릭,Red Herring,,叙述性诡计,叙述性诡计
+Character/SparkleHSR_SelectInfo,Text,,"「가면의 우인」 구성원 중 하나. 종잡을 수 없으며 목적을 위해서라면 수단과 방법을 가리지 않는다. 역할에 심취하는 위험한 연극 대가. 천의 얼굴을 지닌 그녀는 수많은 모습을 가지고 있다.
+재물, 지위, 권력…은 스파클에게 있어 모두 중요하지 않다. 그녀가 나서는 이유는 오직 「즐거움」뿐이다.
+전투 중 파티원들의 마나 소비는 파티원들의 데미지를 크게 증가시키는 데 사용됩니다","A member of the ""Masked Fools,"" elusive and unscrupulous. 
+In battle, utilizes the party's Mana consumption to greatly enhance the party's damage dealt.",,"「假面愚者」的成员之一，难以捉摸，不择手段。
+战斗中，会利用队伍对法力值的消耗，大幅提升队伍造成的伤害。","「假面愚者」的成员之一，难以捉摸，不择手段。
+战斗中，会利用队伍对法力值的消耗，大幅提升队伍造成的伤害。"
+Character/SparkleHSR_name,Text,,스파클,Sparkle,,花火,花火
+Item_Equip/Equip_SparkleHSR_0_Description,Text,,"마나 수치가 한 번에 2씩 감소하면 [가면]의 중첩 수가 오릅니다. 
+[가면]의 중첩의 수가 2개가 되면 모든 아군은 +14% 치명타율과 +56% 치명타피해를 올려주는 [불꽃의 색채] 버프를 얻으며, 이는 1라운드 동안 지속됩니다. 
+【가면】매 라운드마다 초기화됩니다.","When Mana is reduced by at least 2 in a single instance, gain 1 stack of ""Mask"". 
+When ""Mask"" reaches 2 stacks, all allies gain +14% CRIT Rate and +56% CRIT DMG for 1 turn. 
+""Mask"" stacks reset each turn.",,"法力值单次减少至少为2时，叠加一层【假面】。
+【假面】层数达到2后，全体友军暴击率+14%，暴击伤害+56%，持续一回合。
+【假面】每回合清零。","法力值单次减少至少为2时，叠加一层【假面】。
+【假面】层数达到2后，全体友军暴击率+14%，暴击伤害+56%，持续一回合。
+【假面】每回合清零。"
+Item_Equip/Equip_SparkleHSR_0_name,Text,,속세에서의 유희,Cosmic Play,,游戏尘寰,游戏尘寰
+Skill/S_Default_Role_Harmony_Description,Text,,마나 2 회복,Restore 2 Mana.,,回复2点法力值,回复2点法力值
+Skill/S_Default_Role_Harmony_Name,Text,,충전,Basic Charge,,基础充能,基础充能
+Skill/S_SparkleHSR_10_Rare_Description,Text,, [분연] 4,Act 4.,,扮演4,扮演4
+Skill/S_SparkleHSR_10_Rare_Name,Text,,유희적 인간,Life Is a Gamble,,游戏人间,游戏人间
+Skill/S_SparkleHSR_11_Description,Text,,1 [분연] . [서술 트릭] 중첩 수가 5개 이하인 경우 2 [분연] 합니다.,"Act 1. If ""Red Herring"" stacks are 5 or fewer, Act 2 instead.",,扮演1，若【叙述性诡计】层数不多于5，改为扮演2,扮演1，若【叙述性诡计】层数不多于5，改为扮演2
+Skill/S_SparkleHSR_11_Name,Text,,양면의 진실,Parallax Truth,,双面真相,双面真相
+Skill/S_SparkleHSR_12_Rare_Name,Text,,다중 해답,Narrative Polysemy,,多重解答,多重解答
+Skill/S_SparkleHSR_1_Description,Text,,마나가 0이면 마나 1을 회복합니다.,Act 1 if Mana is 0.,,若法力值为0，扮演1,若法力值为0，扮演1
+Skill/S_SparkleHSR_1_Name,Text,,모노드라마,Monodrama,,独角戏,独角戏
+Skill/S_SparkleHSR_2_Description,Text,,"대상의 스킬 추출을 우선적으로 수행하며, 추출된 스킬의 비용이 2만큼 감소합니다. 추출된 스킬의 비용이 0인 경우 다른 스킬이 추출됩니다.","Prioritizes drawing a target's skill. The drawn skill's cost is reduced by 2. If the drawn skill's cost is 0, draw another skill.    ",,优先抽取一个目标的技能，所抽取的技能费用减少2，如果抽取到的技能费用为0，则再抽取一个技能,优先抽取一个目标的技能，所抽取的技能费用减少2，如果抽取到的技能费用为0，则再抽取一个技能
+Skill/S_SparkleHSR_2_Name,Text,,꿈을 헤엄치는 물고기,Dreamdiver,,梦游鱼,梦游鱼
+Skill/S_SparkleHSR_3_Description,Text,,"이번 전투에서 사용된 마나 4마다 괄호 앞의 숫자가 1씩 증가합니다.
+해당 숫자만큼 [분연] 합니다. 사용 후 기록된 숫자는 리셋됩니다.","For every 4 Mana used in this battle, gain 1 count. 
+Act according to the count, then reset the count.",,"本场战斗每使用4法力值，增加1计数
+扮演相应计数，并将计数清空。","本场战斗每使用4法力值，增加1计数
+扮演相应计数，并将计数清空。"
+Skill/S_SparkleHSR_3_Name,Text,,천의 얼굴,The Hero with a Thousand Faces,,一人千役,一人千役
+Skill/S_SparkleHSR_4_Description,Text,,"현재 고정 능력치의 비용이 정확히 3인 아군의 숫자만큼, 해당 캐릭터에게 [야상곡] 버프 중첩이 추가로 부여됩니다.","Grants Nocturne to characters with fixed 3 Mana costs, based on their number.",,根据我方固定能力费用为3的角色数量，为相应角色额外赋予夜想曲,根据我方固定能力费用为3的角色数量，为相应角色额外赋予夜想曲
+Skill/S_SparkleHSR_4_Name,Text,,야상곡,Nocturne,,夜想曲,夜想曲
+Skill/S_SparkleHSR_5_Description,Text,,,,,,
+Skill/S_SparkleHSR_5_Name,Text,,인조화,Artificial Flower,,人造花,人造花
+Skill/S_SparkleHSR_6_Description,Text,,,,,,
+Skill/S_SparkleHSR_6_Name,Text,,세시기,Almanac,,岁时记,岁时记
+Skill/S_SparkleHSR_7_Description,Text,,"자신을 제외한 아군 전체에게 [기이한 수수께끼] 버프 1 중첩을 부여하고, 현재 필드에 있는 [기이한 수수께끼] 버프에 공격력 40% 증가 효과를 부여합니다.","Grants all allies 1 stack of ""Mystery"" (doubles the effect of ""Red Herring"" once) and grants current ""Mystery"" buffs an additional +40% ATK effect.",,赋予所有友军一层【迷诡】（【叙述性诡计】的效果翻倍一次），并使当前场上的【迷诡】增益附带攻击力+40%的效果。,赋予所有友军一层【迷诡】（【叙述性诡计】的效果翻倍一次），并使当前场上的【迷诡】增益附带攻击力+40%的效果。
+Skill/S_SparkleHSR_7_Name,Text,,불신의 정지,Suspension of Disbelief,,悬置怀疑,悬置怀疑
+Skill/S_SparkleHSR_8_Rare_Description,Text,,,,,,
+Skill/S_SparkleHSR_8_Rare_Name,Text,,실없는 허구,Purely Fictitious,,虚构无端,虚构无端
+Skill/S_SparkleHSR_9_Description,Text,,버려진 덱에 있는 대상의 기술을 뽑기 더미에 섞은 다음(있는 경우) 대상의 기술을 먼저 뽑습니다.,"Shuffle a target's skill from the discard pile into the draw pile (if present), then prioritize drawing a target's skill.",,将一个弃牌堆内的目标的技能洗入抽牌堆（如果有），然后优先抽取一个目标的技能,将一个弃牌堆内的目标的技能洗入抽牌堆（如果有），然后优先抽取一个目标的技能
+Skill/S_SparkleHSR_9_Name,Text,,몽환의 포영,Pipedream,,梦幻泡影,梦幻泡影
+Skill/S_SparkleHSR_LucyD_Description,Text,,,,,"抽取2个技能
+拥有此技能时，在地图中移动时将不会进入（Boss以外的）战斗，跳跃后在本区域解除此状态，并在接下来一场战斗的首个回合扮演3。进入下个区域时恢复此状态。","抽取2个技能
+拥有此技能时，在地图中移动时将不会进入（Boss以外的）战斗，跳跃后在本区域解除此状态，并在接下来一场战斗的首个回合扮演3。进入下个区域时恢复此状态。"
+Skill/S_SparkleHSR_LucyD_Name,Text,,믿을 수 없는 화자,Unreliable Narrator,,不可靠叙事者,不可靠叙事者
+SkillExtended/SkillEn_SparkleHSR_0_EnforceString,Text,,1비용 이상의 스킬,Skills costing 1 Mana or more,,1费及以上技能,1费及以上技能
+SkillExtended/SkillEn_SparkleHSR_0_Name,Text,,손에서 낼 때， [분연] 1,"When used from hand, Act 1.",,从手中使用时，扮演1,从手中使用时，扮演1
+SkillExtended/SkillEn_SparkleHSR_1_Des,Text,,,,,,
+SkillExtended/SkillEn_SparkleHSR_1_EnforceString,Text,,1비용 이상 혹은 신속이 아닌 스킬,Skills costing 1 Mana or more or non-Swift skills,,1费及以上或非迅速技能,1费及以上或非迅速技能
+SkillExtended/SkillEn_SparkleHSR_1_Name,Text,,"비용+1，스킬 하나를 뽑고, 그 스킬의 비용이 1 감소합니다",Cost +1. Draw a skill. The drawn skill's cost is reduced by 1.,,费用+1，抽取一个技能，抽取到的技能费用-1,费用+1，抽取一个技能，抽取到的技能费用-1
+SkillKeyword/Keyword_SparkleHSR_Desc,Text,,"중첩 당 X 마나를 회복하고, [서술 트릭] 중첩 수는 감소하지 않습니다.","Restore X Mana, but do not reduce ""Red Herring"" stacks.",,回复X点法力值，但是不减少【叙述性诡计】层数。,回复X点法力值，但是不减少【叙述性诡计】层数。
+SkillKeyword/Keyword_SparkleHSR_Name,Text,, [분연] X,Act X,,扮演X,扮演X
+

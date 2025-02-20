@@ -1,0 +1,21 @@
+{
+    "B_PLANA_2": {
+        "Debuff": true,
+        "Name": "紧急维护",
+        "ClassName": "PLANA.B_PLANA_2",
+        "LifeTime": 1,
+        "Icon": "B_PLANA_2\\B_PLANA_2_Icon.png",
+        "Description": "无法行动。 \n 普拉娜正在维护自机。",
+        "Cantdisable": true,
+        "Tick": "null",
+        "AllyBuffEffect": "BuffEffect/Ally/Effect_StunAlly",
+        "EnemyBuffEffect": "BuffEffect/Enemy/Stun",
+        "BuffTag": "CrowdControl",
+        "TagPer": 100,
+        "Caution": false,
+        "_gdeSchema": "Buff",
+        "Hide": false,
+        "IsFieldBuff": false,
+        "UseSkillDebuff": false
+    }
+}

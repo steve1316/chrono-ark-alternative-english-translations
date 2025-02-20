@@ -1,0 +1,194 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Narukami_Alice_Description,Text,,,Yu's Curse attribute skills gain a 10% increased chance to trigger instant death effects.,,悠的咒怨属性技能即死效果概率增加10%。,
+,,,,,,,
+Buff/B_Narukami_Alice_Name,Text,,,Alice,,爱丽丝,
+Buff/B_Narukami_Bonus_Description,Text,,,The user's next skill damage becomes 2.5x.,,"自身的下次技能伤害变为2.5倍。
+",
+Buff/B_Narukami_Bonus_Name,Text,,,Focus,,专心致志,
+Buff/B_Narukami_Izanagi_Description,Text,,,Physical attribute skill damage +10 and guaranteed Critical rate.,,物理属性技能伤害加10，且必定暴击率。,
+,,,,  ,,,
+Buff/B_Narukami_Izanagi_Name,Text,,,Izanagi,,伊邪那岐,
+Buff/B_Narukami_Kakumei_Description,Text,,,Increases Critical rate by 30% for all allies and enemies for 3 turns.,,在3回合间，使敌我双方全体的暴击率上升 30%。,
+Buff/B_Narukami_Kakumei_Name,Text,,,Revolution,,革命,
+Buff/B_Narukami_Lucyfa_Description,Text,,,"Adds 1 copy of ""Magician's Aptitude"" to your hand.",,将一张魔术的资质加入手牌。,
+,,,,,,,
+Buff/B_Narukami_Lucyfa_Name,Text,,,Lucifer,,路西法,
+Buff/B_Narukami_Mabi_Description,Text,,,Inflicts 5 Pain damage and Stun for 1 turn.,,一个回合无法行动，受到5点痛苦伤害。,
+Buff/B_Narukami_Mabi_Name,Text,,,Shock,,触电,
+Buff/B_Narukami_Rakukajya_Description,Text,,,,,,
+Buff/B_Narukami_Rakukajya_Name,Text,,,Rakukaja,,拉库卡加,
+Buff/B_Narukami_Rakunda_Description,Text,,,Reduces one enemy’s Defense by 35%.,,使一个敌人的防御力下降35%。,
+Buff/B_Narukami_Rakunda_Name,Text,,,Rakunda,,拉坤达,
+Buff/B_Narukami_Tamlin_Description,Text,,,Reduces cost of Shock attribute skills by 2.,,"电击属性技能费用减2。
+",
+Buff/B_Narukami_Tamlin_Name,Text,,,Tam Lin,,塔姆林,
+Buff/B_Narukami_Terebi_Description,Text,,,"Gains 2 stacks of buff per Shadow in the TV (each stack increases Yu's Attack by 5).
+Shadows in TV: &a",,"电视中每有1个阴影，buff增加2层，每层使悠的攻击力上升5
+电视机中的阴影:&a",
+Buff/B_Narukami_Terebi_Name,Text,,,Midnight Channel,,深夜电视,
+Buff/B_Narukami_WaterFloatMan_Description,Text,,,Gains 18 barrier. Removes all debuffs.,,获得18防护罩。消除所有减益。,
+Buff/B_Narukami_WaterFloatMan_Name,Text,,,Stylishly Drenched,,潮得出水,
+Character/P_Narukami_CampSelectWord,Text,,,,,,
+Character/P_Narukami_PassiveDes,Text,,,"Yu Narukami switches Persona after using skills to gain corresponding bonuses.
+
+Izanagi: Yu's Physical attribute skills gain +10 damage and 15% Critical rate.
+Alice: Yu's Curse attribute skills gain +10% instant death chance.
+Lucifer: Adds 1 ""Magician's Aptitude"" to your hand.
+Tam Lin: Reduces Shock attribute skill costs by 2.
+
+Yu unlocks stronger skills via bonds after using lower-tier skills.",,"鸣上悠使用技能后会更换人格面具，以此来获得相应的加成。
+
+伊邪那岐：悠的物理属性技能伤害加10，暴击率加15。
+爱丽丝：悠的咒怨属性技能即死效果概率增加10%。
+路西法：将一张魔术的资质加入手牌。
+塔姆林:悠的电击属性技能费用减2。
+
+鸣上悠通过羁绊力量，使用下级技能后会获得更强力的技能。",
+Character/P_Narukami_PassiveName,Text,,,Persona,,人格面具,
+Character/P_Narukami_SelectInfo,Text,,,"A mysterious boy from the East who arrived via television. After becoming an investigator, he quickly bonded with the Ark's residents and holds deep knowledge of the ""Mist."" Yu’s sharp appearance hides profound bonds.
+
+Learning more skills allows Yu to adapt to situations. Use ""Magician's Aptitude"" to reduce high-cost skill usage.",,"悠通过电视机从东方而来的神秘少年。成为调查员后很快与方舟的居民打好了关系，对“雾”的理解很深。悠的外表很帅气,同时隐藏着很深的羁绊力量。
+
+
+悠学习更多的技能会让他能够应对更多的局面。利用魔术的资质让高费用技能更好打出。",
+Character/P_Narukami_Text_Battle_AllyND_0,Text,,,Forgive me.,,抱歉了,
+Character/P_Narukami_Text_Battle_AllyND_1,Text,,,Our bonds are unbreakable!,,我们的羁绊不会破碎,
+Character/P_Narukami_Text_Battle_Cri_0,Text,,,This is the power of bonds!,,这便是羁绊的力量！,
+Character/P_Narukami_Text_Battle_Cri_1,Text,,,Close call!,,"千钧一发！
+",
+Character/P_Narukami_Text_Battle_Cri_2,Text,,,Cross Slash!,,十文字斩！,
+Character/P_Narukami_Text_Battle_Healed_0,Text,,,Thank you.,,谢谢你,
+Character/P_Narukami_Text_Battle_Healed_1,Text,,,You remind me of a... singing idol.,,你让我想起一位....会唱歌的偶像,
+Character/P_Narukami_Text_Battle_Healed_2,Text,,,My apologies.,,不好意思,
+Character/P_Narukami_Text_Battle_Healed_3,Text,,,Glad you’re here.,,还好有你们在,
+Character/P_Narukami_Text_Battle_Healed_4,Text,,,Grateful.,,"感谢
+",
+Character/P_Narukami_Text_Battle_Idle_0,Text,,,I believe in the strength of bonds!,,我相信羁绊的力量！,
+Character/P_Narukami_Text_Battle_Idle_1,Text,,,"With these glasses, I see through the Mist.",,戴上眼镜就能看清雾了,
+Character/P_Narukami_Text_Battle_Idle_2,Text,,,Stay vigilant.,,不要大意,
+Character/P_Narukami_Text_Battle_Kill_0,Text,,,A satisfying battle.,,非常痛快的战斗,
+Character/P_Narukami_Text_Battle_Kill_1,Text,,,Well fought.,,打得不错,
+Character/P_Narukami_Text_Battle_Kill_2,Text,,,Let’s end this.,,做个了结吧,
+Character/P_Narukami_Text_Battle_Kill_3,Text,,,Looks like I win.,,看起来我赢了,
+Character/P_Narukami_Text_Battle_Kill_4,Text,,,This will strengthen us all.,,这样我们会变得更加强大,
+Character/P_Narukami_Text_Battle_ND_0,Text,,,Bring it on!,,放马过来吧！,
+Character/P_Narukami_Text_Battle_ND_1,Text,,,"I’ll win this, Ziodyne!",,我会赢的，吉欧达因！,
+Character/P_Narukami_Text_Battle_ND_2,Text,,,Persona...!,,人格....面具,
+Character/P_Narukami_Text_Battle_Start_0,Text,,,This world too... is shrouded in Mist.,,这个世界也..充满了迷雾,
+Character/P_Narukami_Text_Battle_Start_1,Text,,,Which TV did you crawl out of?,,你从哪个电视跑出来的？,
+Character/P_Narukami_Text_Battle_Start_2,Text,,,This world also has countless Shadows.,,这个世界也有如此多的阴影,
+Character/P_Narukami_Text_Battle_Start_3,Text,,,Battle start.,,战斗开始,
+Character/P_Narukami_Text_Battle_Start_4,Text,,,Let’s begin.,,请指教,
+Character/P_Narukami_Text_Field_GetItem_0,Text,,,Nice.,,不错,
+Character/P_Narukami_Text_Field_GetItem_1,Text,,,Excellent.,,很好,
+Character/P_Narukami_Text_Field_GetItem_2,Text,,,Should I get Nanako some jewelry too...,,给菜菜子也买点首饰吧..,
+Character/P_Narukami_Text_Field_Idle_0,Text,,,Is that a tumbleweed?,,这是风卷草？,
+Character/P_Narukami_Text_Field_Idle_1,Text,,,The enemy is formidable.,,敌人不容小觑,
+Character/P_Narukami_Text_Field_Idle_2,Text,,,Stay focused.,,不要掉以轻心,
+Character/P_Narukami_Text_PharosLeader_0,Text,,,Hahahaha! I am the Shadow!,,哈哈哈哈哈，我即是阴影！,
+Character/P_Narukami_Text_PharosLeader_1,Text,,,Sorry—I saw another version of myself.,,抱歉，我看到了另一个我,
+Character/P_Narukami_Text_PharosLeader_2,Text,,,"Hahahaha! Perish, all of you!",,哈哈哈哈哈，全都毁灭吧！,
+Character/P_Narukami_Text_Witch_0,Text,,,Leave it to me.,,交给我吧,
+Character/P_Narukami_Text_Witch_1,Text,,,I trust you.,,我相信你,
+Character/P_Narukami_name,Text,,,Yu Narukami,,鸣上悠,
+Item_Consume/PersonaBook_Description,Text,,,Allows Yu to learn exclusive skills.,,让悠选择学习专属技能。,
+Item_Consume/PersonaBook_name,Text,,,Persona Compendium,,人格面具全书,
+Skill/S_Narukami_10_2_Description,Text,,,"Deals 9999 Almighty damage via Elizabeth.
+If this skill’s cost is below 6, damage becomes 50.",,"由伊丽莎白释放伤害为9999的米吉多拉翁。
+这个技能花费少于6时，伤害变为50。
+",
+Skill/S_Narukami_10_2_Name,Text,,,Megidolaon,,米吉多拉翁,
+Skill/S_Narukami_10_Description,Text,,,"If your TV has at least 1 Shadow, draw 1 Megidolaon.
+If not, add 2 copies of ""Midnight Channel"" to your hand.",,"如果的你电视机中有至少1个阴影，抽一张米吉多拉翁
+如果没有，则将两张夜间电视的复制加入手牌。
+",
+Skill/S_Narukami_10_Name,Text,,,Elevator Girl’s Shuffle Time,,电梯小姐的洗牌时间,
+Skill/S_Narukami_11_Description,Text,,,,,,
+Skill/S_Narukami_11_Name,Text,,,,,,
+Skill/S_Narukami_12_Description,Text,,,"Drains MP equal to the number of skills Yu used this turn.
+Current MP drain: &",,"回复等同于本回合悠使用过的技能数的法力值。
+当前回复值：&a",
+Skill/S_Narukami_12_Name,Text,,,Spirit Drain,,吸魔,
+Skill/S_Narukami_1_2_Description,Text,,,"Deals moderate Shock damage to 1 enemy, with a medium chance to inflict Shock.",,对1名敌人造成电击属性的中量伤害，中概率施加触电状态。,
+Skill/S_Narukami_1_2_Name,Text,,,Ziodyne,,吉欧达因,
+Skill/S_Narukami_1_3_Description,Text,,,"Deals heavy Shock damage to all enemies, with a high chance to inflict Shock.",,对所有敌人造成电击属性的大量伤害，高概率施加触电状态。,
+Skill/S_Narukami_1_3_Name,Text,,,Maziodyne,,玛哈吉欧达因,
+Skill/S_Narukami_1_4_Description,Text,,,Deals massive Shock damage to 1 enemy and inflicts Shock.,,对1名敌人造成电击属性的特大伤害，施加触电 状态。,
+Skill/S_Narukami_1_4_Name,Text,,,Thunder's Truth,,真理之雷 ,
+Skill/S_Narukami_1_Description,Text,,,Deals light Shock damage to 1 enemy.,,对1名敌人造成电击属性的小量伤害。,
+Skill/S_Narukami_1_Name,Text,,,Zio,,吉欧,
+Skill/S_Narukami_2_2_Description,Text,,,Deals moderate Physical damage to 1 enemy. Activates twice.,,对1名敌人造成物理属性的中量伤害，重复释放1次。,
+Skill/S_Narukami_2_2_Name,Text,,,Cross Slash,,十文字斩,
+Skill/S_Narukami_2_3_Description,Text,,,Deals severe Physical damage to all enemies.,,对所有敌人造成物理属性的特大伤害。,
+Skill/S_Narukami_2_3_Name,Text,,,Spatial Slayer,,空间杀法,
+Skill/S_Narukami_2_4_Description,Text,,,"Deals 8 instances of minor Physical damage to 1 enemy.
+After this turn, reduce this skill's cost by 1.
+If this skill’s cost is below 3, deal only 1 instance.",,"对1名敌人造成8次小幅物理属性伤害 。
+回合结束后费用减少1。
+如果此技能消耗法力值小于3，则造成一次伤害。",
+Skill/S_Narukami_2_4_Name,Text,,,Hassou Tobi,,八艘舰跳,
+Skill/S_Narukami_2_Description,Text,,,Deals light Physical damage to 1 enemy.,,对1名敌人造成物理属性的小量伤害。,
+Skill/S_Narukami_2_Name,Text,,,Pierce,,穿刺,
+Skill/S_Narukami_3_2_Description,Text,,,Medium chance to instantly kill 1 enemy with Curse.,,中机率对1名敌人造成咒怨属性的即死效果。,
+Skill/S_Narukami_3_2_Name,Text,,,Mudoon,,姆多翁,
+Skill/S_Narukami_3_3_Description,Text,,,"High chance to instantly kill all enemies with Curse.
+No instant death effect if this skill’s cost is below 6.",,"高机率对所有敌人造成咒怨属性的即死效果。
+如果使用此技能的法力值低于6，则不造成即死效果。
+",
+Skill/S_Narukami_3_3_Name,Text,,,Will You Die for Me?,,可以为我而死吗？,
+Skill/S_Narukami_3_Description,Text,,,Low chance to instantly kill 1 enemy with Curse (not treated as a buff; ineffective on bosses).,,"低机率对1名敌人造成咒怨属性的即死效果 。
+（即死效果不被视为buff，对boss无效）",
+Skill/S_Narukami_3_Name,Text,,,Mudo,,姆多,
+Skill/S_Narukami_4_Description,Text,,,"Reduces the cost of a skill by 2.
+Casts ""Revolution"" after use.",,"使一个技能的费用减少2
+使用后释放革命。
+",
+Skill/S_Narukami_4_Name,Text,,,Magician's Aptitude,,魔术的资质,
+Skill/S_Narukami_5_Description,Text,,,The user's next skill damage becomes 2.5x.,,"使用后自身的下次技能伤害变为2.5倍。
+",
+Skill/S_Narukami_5_Name,Text,,,Focus,,专心致志,
+Skill/S_Narukami_6_0_Name,Text,,,Myriad Truths Pursuit,,数万真言追击,
+Skill/S_Narukami_6_Description,Text,,,"Deals 3 instances of severe Almighty damage to all enemies.
+National Harvest: Deals +1 damage per skill remaining in your deck (minimum 5).
+Activates once if this skill’s cost is below 7.",,"对所有敌人造成3次万能属性的大量伤害 。
+如产国之举：卡组每剩余一个技能，此技能造成额外的1点伤害（最少为5）。
+若此技能费用小于7，则只释放一次。",
+Skill/S_Narukami_6_Name,Text,,,Myriad Truths,,数万真言,
+Skill/S_Narukami_8_Description,Text,,,"Kicks 1 enemy into the TV, turning it into a Shadow.
+After 2 turns, add 2 copies of this enemy to the battlefield.
+(Deals 35 damage to bosses)",,"将1名敌人踢进电视机，其化为阴影
+2个回合后，将此敌人的2个复制加入战场。
+（此技能指定boss伤害变为35）",
+Skill/S_Narukami_8_Name,Text,,,Midnight Channel,,深夜电视,
+Skill/S_Narukami_9_Description,Text,,,"Reduces the cost of the first skill above this by 1.
+Grants ""Rakukaja"" when discarded.",,"此技能上方的第一个技能费用减一
+丢弃时使悠获得拉库卡加。",
+Skill/S_Narukami_9_Name,Text,,,Rise's Support!,,理世助战！,
+Skill/S_Narukami_rare_7_Description,Text,,,Gains 18 barrier. Removes all debuffs.,,获得18防护罩，消除所有减益。,
+Skill/S_Narukami_rare_7_Name,Text,,,Stylishly Drenched,,潮到出水的型男,
+SkillExtended/EX_Alice_Des,Text,,,Curse attribute skills gain a 10% increased chance to trigger instant death effects.,,咒怨属性技能即死效果概率增加10%。,
+,,,,,,,
+SkillExtended/EX_Alice_Name,Text,,,Alice Bonus,,爱丽丝加成,
+SkillExtended/EX_Izanagi_Des,Text,,,Physical attribute skills gain +10 damage and guaranteed Critical rate.,,物理属性技能伤害加10，且必定暴击率。,
+,,,,,,,
+SkillExtended/EX_Izanagi_Name,Text,,,Izanagi Bonus,,伊邪那岐加成,
+SkillExtended/EX_Tamlin_Des,Text,,,Shock attribute skill costs reduced by 2.,,电击属性技能费用减2。,
+SkillExtended/EX_Tamlin_Name,Text,,,Tam Lin Bonus,,塔姆林加成,
+SkillExtended/Ex_Narukami_AP1_Des,Text,,,,,,
+SkillExtended/Ex_Narukami_AP1_Name,Text,,,AP1,,AP1,
+SkillExtended/Ex_Narukami_Bonus_Des,Text,,,This skill’s damage becomes 2.5x.,,"此技能的伤害变为2.5倍。
+",
+SkillExtended/Ex_Narukami_Bonus_Name,Text,,,Focus,,专心致志,
+SkillKeyword/KeyWord_CHANGUO_Desc,Text,,,"""National Harvest"" effect: +1 damage per skill remaining in deck (minimum 5).",,如产国之举：卡组每剩余一个技能，此技能造成额外的1点伤害（最少为5）。,
+SkillKeyword/KeyWord_CHANGUO_Name,Text,,,National Harvest,,如产国之举,
+SkillKeyword/KeyWord_Commu_Desc,Text,,,This card generates advanced skills.,,这张牌会生成上级技能。,
+SkillKeyword/KeyWord_Commu_Name,Text,,,Social Link,,社群,
+SkillKeyword/KeyWord_Mudo_Desc,Text,,,This card benefits from Alice’s bonuses.,,这张牌可以获得爱丽丝的加成。,
+SkillKeyword/KeyWord_Mudo_Name,Text,,,Curse attribute,,咒怨属性,
+SkillKeyword/KeyWord_Persona_Desc,Text,,,This card benefits from Tam Lin’s bonuses.,,这张牌可以获得塔姆林的加成。,
+SkillKeyword/KeyWord_Persona_Name,Text,,,Shock attribute,,电击属性,
+SkillKeyword/KeyWord_Wuli_Desc,Text,,,This card benefits from Izanagi’s bonuses.,,这张牌可以获得伊邪那岐的加成。,
+SkillKeyword/KeyWord_Wuli_Name,Text,,,Physical attribute,,物理属性,
+,,,,,,,
+,,,,,,,
+

@@ -1,0 +1,123 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Idol_Exe_Description, Text,,"한턴에 한 번만 발동합니다. 모든 스킬을 실행하려면 이 버프를 클릭합니다. 적의 행동 카운트를 1 감소합니다.
+현재 사용상태: &a","Once per turn, CLICK on this buff icon to EXECUTE all "".muse"" skills in your hand. When clicked, reduces the enemy's action countdown by 1.
+Current availability: &a","1ラウンドに1回限り、このbuffをクリックして手札のすべての.museスキルを実行します。クリック時の敵の行動カウントダウン-1。
+現在の使用可能なステータス:&a","每回合限一次，点击该buff以执行手牌中所有.muse技能。点击时敌人行动倒计时-1。
+当前可用状态：&a",
+Buff/B_Idol_Exe_Name, Text,,실행,EXECUTE,実行,执行,
+Buff/B_Idol_Ins_Description, Text,,"턴 시작 마다, 무작위 .muse스킬을 2개 생성하고 제외를 부여합니다. 그 후, 1 중첩 감소합니다.","At the start of each turn, randomly generates 1 "".muse"" skill with Exclude attached. Then reduces the stack by 1.",,回合开始时从.muse技能中随机生成1个，附带放逐。然后减少一层。,
+Buff/B_Idol_Ins_Name, Text,,영감,Inspiration,霊感,灵感,
+Character/Idol_PassiveDes, Text,,"[실행]버프 단추를 사용합니다.
+한턴에 한 번만 발동합니다. 손에 있는 모든 스킬을 시전하고 실행하려면 이 버프 아이콘을 클릭하십시오.
+
+전투 시작, 혹은 검은 안개 턴에 도달하면, 살아있는 파티원 수 만큼 영감 중첩을 얻습니다.
+
+영감: 턴 시작 마다, 무작위 .muse스킬을 2개 생성하고 제외를 부여합니다.
+음표: 스킬에서 '실행' 효과가 발생하면 트리거되는 특수 효과입니다.","Can use the ""Buff icon button"": EXECUTE.
+Once per round, CLICK on this buff icon to release and EXECUTE all "".muse"" skills in the hand.
+
+At the start of battle or when the Black Fog turn arrives, gains ""Inspiration"" stacks equal to the number of surviving party members.
+
+Inspiration: At the start of each turn, randomly generates 1 "".muse"" skill with Exclude attached.
+Note: A special effect triggered when a skill with the EXECUTE effect is released.","「Buffボタン」：実行を使用できます。
+「実行」buffアイコンをクリックすると、手札にあるすべての.museスキルを解放し、その特殊効果を実行します。1ラウンドに1回限りです。
+
+戦闘開始時や黒霧ターンが到来した場合、他の隊員の生存数に応じて層数の霊感を得る。
+
+霊感：ターン開始時に音符.museスキルからランダムに1つ生成され、追放が付きます。
+音符：実行効果を持つスキルがリリースされたときにトリガーされる特殊効果。","可以使用“Buff按钮”：执行。
+点击“执行”buff图标时，释放手牌中所有的.muse技能并执行其特殊效果，每回合限一次。
+
+战斗开始时及黑雾回合到来时，根据其他队员的存活数获得相应层数的灵感。
+
+灵感：回合开始时从音符.muse技能中随机生成1个，附带放逐。
+音符：被带有执行效果的技能释放时将会触发的特殊效果。",
+Character/Idol_PassiveName, Text,,중앙 무대,Center Stage,中心舞台,中心舞台,
+Character/Idol_SelectInfo, Text,,"이상한 취미를 가진 유명한 팝스타: 해킹. 그녀는 자신의 프로그램을 프로그래밍하는 동안 필드에 들어갔습니다.
+
+그녀가 여왕이 이끄는 퀀텀에 합류했을 때, 그녀가 해커 동료들과 느낀 우정은 그녀의 경력에서 결코 마주친 적이 없는 것이었습니다.
+
+트위스트 랜드의 혼란스러운 데이터 흐름에 대한 여왕의 조사에 이어 아이돌의 코드는 유연한 운영과 높은 폭발적인 공격 방식을 모두 갖추고 있습니다.","A famous pop star with a strange hobby: hacking. She entered the field while programming her own show.
+When she joined the Quantum led by QUEEN, the friendship she felt with her hacker companions was something she had never experienced in her career.
+
+Following QUEEN to investigate the chaotic data flow of the Twisted Land, IDOL's stage code offers both flexible operation and high-explosive attack methods.","有名なポップスター、彼女には奇妙な趣味がある：ハッカー。彼女は自分の番組をプログラミングしている間にこの分野に入った。
+女王が率いる量子に加入した時、ハッカー仲間たちと一緒に感じた友情は、彼女のキャリア内で接触したことがない。
+
+女王に従ってねじれた地の乱れたデータストリームを調査すると、アイドットの舞台コードは柔軟な運行方式を持ち、高爆発の攻撃手段を提供することができる。","一个著名的流行歌星，她有一个奇怪的爱好：黑客。她在为自己的节目编程的时候进入了该领域。
+当她加入女王带领的量子时，她与她的黑客同伴们在一起感到的友情是她演艺生涯内从未接触过的。
+
+跟随女王调查扭曲之地的紊乱数据流，爱朵的舞台代码即拥有着灵活的运行方式，又可以提供高爆发的攻击手段。",
+Character/Idol_Text_Battle_AllyND_0, Text,,조심!,Watch out!,!,小心！,
+Character/Idol_Text_Battle_Cri_0, Text,,저기예요!,Over there!,あっち！,那边！,
+Character/Idol_Text_Battle_Cri_1, Text,,저기!,There!,あっち！,在那！,
+Character/Idol_Text_Battle_Healed_0, Text,,감사해요!,Thanks!,ありがとう！,谢谢你！,
+Character/Idol_Text_Battle_Idle_0, Text,,우리가 가요!,We're here!,来たぞ！,我们来了！,
+Character/Idol_Text_Battle_Idle_1, Text,,쇼를 시작합니다!,Let the show begin!,ショーが始まります！,表演开始！,
+Character/Idol_Text_Battle_Kill_0, Text,,여기!,Look at this!,これを見て！,看这！,
+Character/Idol_Text_Battle_Kill_1, Text,,쇼를...시작!,The show... begins!,ショー…スタート！,表演…开始！,
+Character/Idol_Text_Battle_ND_0, Text,,아야...,Ouch...,あら…,哎呀…,
+Character/Idol_Text_Battle_Start_0, Text,,이 공연을 시작하겠습니다!,Let's start this performance!,今回のショーを始めましょう！,让我们开始这次表演吧！,
+Character/Idol_Text_Field_GetItem_0,Text,,,What is it?,,是什么呀？,
+Character/Idol_Text_Field_Idle_0, Text,,잠시 음악을 들으러 오세요~,Come and listen to the music for a while~,ちょっと音楽を聴いてみようかな~,来听一会儿音乐吧~,
+Character/Idol_Text_Field_Potion_P_0,Text,,,"Tasty, tasty! Is the second cup half price?",,好喝，好喝！第二杯半价吗？,
+Character/Idol_Text_PharosLeader_0, Text,,…,...,……,…………,
+Character/Idol_Text_PharosLeader_1, Text,,…,...,……,……,
+Character/Idol_Text_PharosLeader_2, Text,,…,...,……,……,
+Character/Idol_name, Text,,아이돌,IDOL,アイドル,爱朵,
+Skill/S_Idol_10_Description, Text,,"시전시 손에서 무작위 2개 음표.muse 스킬을 실행합니다.
+ 손에서 음표.muse 스킬이 없다면 영감을 1 중첩 소모하여 무작위 1개 음표.muse 스킬을 생성합니다.","When cast, randomly EXECUTE 2 "".muse"" skills in your hand.
+If there are no "".muse"" skills in your hand, consumes 1 stack of Inspiration to randomly generate 1 .muse skill.","リリース後、ランダムに2.ミューズスキルを実行します。
+もし手にミューズスキルがなければ、霊感の山を消費してランダムに1つのミューズスキルを生成します。","释放时，随机执行手中2张的.muse技能。
+若手牌中没有音符.muse技能，则消耗1层灵感，随机生成1个.muse技能。",
+Skill/S_Idol_10_Name, Text,,에리카.idol,Erika.idol,アリカ.idol,艾莉卡.idol ,
+Skill/S_Idol_1_Description, Text,,실행된시 영감 1 중첩당 &a 피해를 증가합니다.,"When EXECUTE, increases this skill's damage by &a for each stack of ""Inspiration"".",実行時に霊感を重ねるごとにスキルのダメージが増加します,被执行时，每层灵感使该技能增加&a点伤害。,
+Skill/S_Idol_1_Name, Text,,사분음표.muse,Quarter Note.muse,四分音符.muse,四分音符.muse,
+Skill/S_Idol_2_Description, Text,,"방어 무시.
+ 실행된시 이 스킬을 무작위 적에게 다시 시전할 수 있습니다.","Ignores defense.
+When EXECUTE, repeats this skill once on a random enemy.","鎧を無視して
+実行時に、このスキルをランダムな敵に繰り返し解放します。","无视防御
+被执行时，向随机敌人重复释放该技能一次。",
+Skill/S_Idol_2_Name, Text,,이중팔분음표.muse,Double Eighth Note.muse,二重八分音符.muse,双重八分音符.muse,
+Skill/S_Idol_3_Description, Text,,실행된시 모든 덱에서 자신의 스킬을 2개 뽑습니다.,"When EXECUTE, draws two of IDOL's skills from all decks.",実行時に、アイドルスキルを2つ抽出します。,被执行时，从所有牌库中抽取两个自己的技能。,
+Skill/S_Idol_3_Name, Text,,높은음자리표.muse,Treble Clef.muse,高音記号.muse,高音谱号.muse,
+Skill/S_Idol_4_Description, Text,,실행된시 이번 턴간 자신의 고정 능력、손에 있는 .muse스킬과 자신의 신속스킬의 비용이 1 감소합니다.,"When EXECUTE, reduces the cost of your fixed skills, "".muse"" skills in hand, and skills with Swiftness by 1 for this turn.",実行すると、アイドルの固定能力、敏捷スキル、手にしたスキルの魔法値が1減少します。,被执行时，本回合内，自己的固定技能、手牌中的.muse技能和自己的迅速技能和消耗-1。,
+Skill/S_Idol_4_Name, Text,,낮은음자리표.muse,Bass Clef.muse,低音記号.muse,低音谱号.muse,
+Skill/S_Idol_5_Description, Text,,실행된시 모든 적에게 &a고통 피해를 입힙니다.,"When EXECUTE, deals &a pain damage to all enemies.",実行時、すべての敵に&aダメージを与える。,被执行时，对所有敌人造成&a痛苦伤害,
+Skill/S_Idol_5_Name, Text,,삼행연구.muse,Triplet.muse,三連音.muse,三连音.muse,
+Skill/S_Idol_6_Description, Text,,시전시 덱에서 자신의 전용 스킬 혹은 .muse  스킬 1개를 선택하여 손으로 가져옵니다. 그 스킬들에 한 턴 후 버려짐을 부여합니다.,"When cast, selects 1 of your exclusive skills or "".muse"" skills from the deck and adds it to your hand, with ""Discard after 1 turn"" attached.",リリース後、デッキからアイドルスキルまたは.musieスキルを1つ選択し、手に追加します。「1周して捨てる」を適用します。,释放时，从牌库中选择1张自己的专属技能或.muse技能加入手牌，附带1回合后弃牌。,
+Skill/S_Idol_6_Name, Text,,미키.idol,Miki.idol,弥希.idol,弥希.idol,
+Skill/S_Idol_7_Description, Text,,"시전시 손에서 선택한 .muse스킬을 실행합니다. 그 후, 자신의 스킬을 우선으로 뽑습니다.","When cast, selects and EXECUTE 1 "".muse"" skill in your hand, then prioritizes drawing one of your own skills.",リリース後、手にしたスキルを実行することを選択し、デッキからイドルスキルより優先されたスキルを抽出します。,释放时，选择执行手牌中一个.muse技能，然后优先抽取自己的一个技能。,
+Skill/S_Idol_7_Name, Text,,카노.idol,Kano.idol,カルノ.idol,卡诺.idol ,
+Skill/S_Idol_8_Description, Text,,시전시 버려진 덱에서 자신의 전용 스킬 혹은 .muse  스킬 1개를 선택하여 손으로 가져옵니다. 그 스킬들에 한 턴 후 버려짐을 부여합니다.,"When cast, selects 1 of your exclusive skills or "".muse"" skills from the discard pile and adds it to your hand, with ""Discard after 1 turn"" attached.",リリース時に、デッキから自分の専属スキルまたは.museスキルを1枚選択して手札に加え、1ターン後にデッキを捨てる。,释放时，从弃牌库中选择1张自己的专属技能或.muse技能加入手牌，附带1回合后弃牌。,
+Skill/S_Idol_8_Name, Text,,아이리.idol,Airi.idol,あいり.idol,爱理.idol,
+Skill/S_Idol_9_Description, Text,,"시전시 영감을 모두 소모합니다. 영감 1개당 적에게 12%의 추가 피해를 입힙니다. 영감을 3 중첩 이상 소모 시, 무작위 .muse스킬을 생성하고 제외를 부여합니다.","When released, consumes all ""Inspiration"" stacks, dealing 12% additional damage per stack consumed. If more than 3 stacks are consumed, randomly generates 1 "".muse"" skill with Exclude attached.",リリース時には、すべての霊感を消費し、レイヤー1を消費するごとに12%のダメージを追加します。消費した層数が3層を超えた場合、ランダムにmuseを1枚生成し、追放を付帯する。,释放时，消耗所有的灵感，每消耗1层额外造成12%伤害。消耗的层数超过3层时，随机生成1张muse，附带放逐。,
+Skill/S_Idol_9_Name, Text,,유키.idol,Yuki.idol,由紀.idol,由纪.idol,
+Skill/S_Idol_Lucy_Description, Text,,"스킬을 2개 뽑습니다.
+뽑을 .muse스킬에 실행할 수 있는, 그 스킬이 있으면 실행합니다.","Draws two skills.
+If the drawn skills include an executable "".muse"" skill, EXECUTE it.","ドラフト2
+抽出されたスキルの中に.mseスキルが実行できる場合は、それらを実行します。","抽取两个技能
+若抽取的技能中存在可以被执行的音符.muse，则将其执行。",
+Skill/S_Idol_Lucy_Name, Text,,프로그램을 다시 만들다.idol,Reprogram.idol,再プログラム.idol,重编程.idol,
+Skill/S_Idol_R1_Description, Text,,"시전시 손에서 모두 음표.muse 스킬을 실행합니다.
+실행된 스킬은 손으로 돌아갑니다.
+실행된 스킬 수 만큼 영감 중첩을 얻습니다.","When cast, EXECUTE all "".muse"" skills in your hand.
+Executed "".muse"" skills return to your hand.
+Gains ""Inspiration"" stacks equal to the number of skills executed.","リリース時には、手にしたすべての音節.museスキルを実行します。
+実行された音節.museは手札に戻ります。
+実行されるスキル数の霊感レベル数を取得します。","释放时，执行手中所有的.muse技能。
+被执行的音节.muse将会回到手牌。
+获得被执行技能数的灵感层数。",
+Skill/S_Idol_R1_Name, Text,,레미.idol,Remi.idol,レミ.idol,蕾米.idol,
+Skill/S_Idol_R2_Description, Text,,"손에 모두 스킬을 버립니다. 스킬을 버린 수 만큼 마나를 회복합니다.
+덱에 패를. 그 후, 스킬을 5개 뽑습니다.
+[실행]의 사용상태를 초기화됩니다.","Discards all skills in your hand, restoring mana equal to the number of skills discarded.
+Then triggers a deck shuffle and draws 5 skills.
+Refreshes the availability of ""EXECUTE"".","手札からすべてのスキルを破棄し、破棄したスキル数に応じて法力値を回復します。
+次にデッキシャッフルをトリガーし、5つのスキルを抽出します。
+「実行」の使用可能なステータスをリフレッシュします。","丢弃手牌中所有的技能，根据丢弃的技能数恢复相应法力值。
+然后触发卡组洗牌，并抽取5个技能。
+刷新“执行”的可用状态。",
+Skill/S_Idol_R2_Name, Text,,앙코르,Encore,アンコール,安可,
+SkillExtended/Ex_Idol_1_EnforceString, Text,,비용 2 이하,2 cost or less,2点法力値以下,2点费用及以下,
+SkillExtended/Ex_Idol_1_Name, Text,,.muse스킬로 취급하니다.,"Treated as a "".muse"" skill",.museスキルとみなされる,被视为.muse技能,
+

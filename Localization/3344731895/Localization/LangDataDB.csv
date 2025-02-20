@@ -1,0 +1,412 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Toujyou_0_1_Description,Text,,,"All of Tsukasa's attack skills in hand and those drawn afterward gain ""Cold Calculation's Attack"", significantly amplifying offensive capabilities. After this Buff ends, half of her skills are randomly replaced with the curse [Unbearable Headache] (Lucy's Jinx).",全ての自分のの攻撃スキルは「冷徹の攻撃」を与え、攻撃能力を大幅に増幅します。しかし、バフが終わったあど、自分の半数スキルが[堪らない頭痛]（ルシーのジンクス）を取り替えます。,所有自己手中和接下来抽到的攻击技能获得「冷彻的进攻」，buff结束后将自己随机一半卡牌替换为诅咒「难以忍受的头痛」。,
+Buff/B_Toujyou_0_1_Name,Text,,,Awakening,覚醒,覚醒,
+Buff/B_Toujyou_5_Description,Text,,,"Grants all own attack skills ""Critical"" and ""Tracking"".",全ての自分のの攻撃スキルは「致命」「追跡」を与えします,使自己所有攻击技能获得「致命」、「追踪」；,
+Buff/B_Toujyou_5_Name,Text,,,Awakening,覚醒,覚醒,
+Buff/B_Toujyou_D1_Description,Text,,,"After drinking strange elixir, Defense decreases by 15%.",変な魔薬を飲んで、防御力が15％ダウンします,喝了奇怪的魔药，防御力下降15%,
+Buff/B_Toujyou_D1_Name,Text,,,Elixir's Side Effect,魔薬の副作用,魔药的副作用,
+Buff/B_Toujyou_DFugu_Description,Text,,,There are many ways to prepare blowfish~~,フグの調理方は結構多いわ,河豚吃法很多哦~~,
+Buff/B_Toujyou_DFugu_Name,Text,,,Tetrodotoxin,テトロドトキシン,河豚毒素,
+Buff/B_Toujyou_DTaunt_Description,Text,,,Taunt,挑発,嘲讽,
+Buff/B_Toujyou_DTaunt_Name,Text,,,Taunt,挑発,嘲讽,
+Buff/B_Toujyou_R12_Description,Text,,,,,,
+Buff/B_Toujyou_R12_Name,Text,,,Wish Fulfillment,心願成就,心愿成真,
+Buff/B_Toujyou_R1_Description,Text,,,,,,
+Buff/B_Toujyou_R1_Name,Text,,,Prayer Dance,祈りの踊り,祈愿之舞,
+Buff/B_Toujyou_R22_Description,Text,,,"""Submit eternally beneath a beauty's soles~""",美少女の靴底で一生に拜服しなさい～,“一辈子拜服在美少女的鞋下吧”,
+Buff/B_Toujyou_R22_Name,Text,,,Bunny Girl Destruction,バニーガール破壊,兔女郎破坏,
+Buff/B_Toujyou_R2_Description,Text,,,A gorgeous bunny girl stands before you~~,目の前に美少女バニーガールがいるよ～,眼前可是美少女兔女郎哦~~,
+Buff/B_Toujyou_R2_Name,Text,,,Bunny Girl Destruction,バニーガール破壊,兔女郎破坏,
+Buff/B_Toujyou_R3_Description,Text,,,"At turn start, heal based on 25% of buff applier's Healing Power, then activate effects according to current Field:
+
+<color=#EDF40A>Luminous Field:</color> Draw 1 extra card every 2 turns. (Next activation: <color=#EDF40A>&a</color>)
+
+<color=#F12B00>Blazing Field:</color> Amplify all allies' Attack and Healing Power by 0.15, Critical Rate/Critical Damage/Critical Healing by 
+3%. Grants 1 turn of Healing Gauge protection every 2 turns. (Next activation: <color=#F12B00>&b</color>)
+
+<color=#6924EB>Abyssal Field:</color> Grants all members 1 instance of <color=#1284F6>""Combo: Minor""</color> to a random attack skill.","ターンの始まりに、回復をさせます「バフ施加方の25％治癒力に基づいて」、そしてフィールドに応じて効果を発動します。
+<color=#EDF40A>光のフィールド：</color>2ターンごとに、カードを1枚エクストラドローします。（次のターン：<color=#EDF40A>&a</color>）
+
+<color=#F12B00>炎のフィールド：</color>全ての味方のフィールドが増幅されます：攻撃力と治癒力が0.15アップし、クリティカル率、クリティカルダメージおよびクリティカルヒーリングが3％アップされ、そして2ターンごとに、1ターンの回復ゲージ保護状態を与えます。（次のターン：<color=#F12B00>&b</color>）
+
+<color=#6924EB>闇のフィールド：</color>全員それぞれに1つのランダム攻撃スキルを<color=#1284F6>「連撃・小」</color>1回与えます。","回合开始时进行治疗[25%buff施加者治疗力]，并根据场地不同施加不同的效果：
+
+<color=#EDF40A>光の场</color>：每两回合生效一次，额外抽一张牌。
+（下一回合：<color=#EDF40A>&a</color>）
+
+<color=#F12B00>炎の场：</color> 场地获得0.15攻击力、治疗力、3%暴击率，暴击伤害，暴击治疗增益（可叠加）。每间隔一个回合，获得1回合体力极限保护
+（下一回合：<color=#F12B00>&b</color>）
+
+<color=#6924EB>闇の场：</color> 所有成员随机为自己的一个攻击技能赋予2层<color=#1284F6>「連撃・小」</color>
+",
+Buff/B_Toujyou_R3_Name,Text,,,Mirage,蜃気楼,海市蜃楼,
+Buff/B_Toujyou_fin1_Description,Text,,,"At turn start, heal entire party based on number of <color=#F12B00>""Lucy's Jinx""</color> recorded when buff was applied (5% Healing Power per Jinx).
+
+Number of <color=#F12B00>""Lucy's Jinx""</color> recorded: &a","ターンの始まりに、バフが与えされた時に記録した<color=#F12B00>「ルシーのジンクス」</color>の数量に味方全体を回復させます。「各ルシーのジンクスに応じて5%治癒力」
+
+バフが与えされた時に記録した<color=#F12B00>「ルシーのジンクス」</color>の数量：&a","回合开始时按照BUFF生效时记录的<color=#F12B00>「露西的诅咒」</color>数量治疗全体友军,每个诅咒提供[5%治疗力]。
+
+BUFF生效时的<color=#F12B00>「露西的诅咒」</color>数量为：&a
+
+",
+Buff/B_Toujyou_fin1_Name,Text,,,<color=#2df974>Converging Hope</color>,<color=#2df974>集まりの希望</color>,<color=#2df974>汇聚的希望</color>,
+Buff/B_Toujyou_fin2_Description,Text,,,,,,
+Buff/B_Toujyou_fin2_Name,Text,,,Curse Detection,,诅咒探测,
+Buff/B_Toujyou_headache_Description,Text,,,"Attack Power -50%
+Healing Power -50%","攻撃力 -50%；
+治癒力 -50%；","攻击力 -50%；
+治疗力 -50%；",
+Buff/B_Toujyou_headache_Name,Text,,,Unbearable Headache,堪らない頭痛,难以忍受的头痛,
+Buff/B_Toujyou_p_1_Description,Text,,,"Permanently enhances all Attack Power, Healing Power, Critical Rate, Critical Damage, and Critical Healing boosts by 40%, with values recorded in Field effects. These amplifications persist through Field changes.",全ての「攻撃力、治癒力、クリティカル率、クリティカルダメージ及びクリティカルヒーリングの上昇効果」を40％アップされたのまま、その数値をフィールドに記録します。そして、フィールドをスィッチとしても、この増益は消えません,所有作用于调查员的攻击力、暴击率、暴击伤害、治疗力、暴击治疗提高效果都额外提高40%并记录在场地增益中，切换场地该增益不消失。,
+Buff/B_Toujyou_p_1_Name,Text,,,Blazing Field,炎のフィールド,炎の场,
+Buff/B_Toujyou_p_2_Description,Text,,,"Grants 2 stacks of <color=#1284F6>""Combo: Minor""</color> to attack skills in hand.",手札の攻撃スキルを<color=#1284F6>「連撃・小」</color>2回与えます,手中的攻击技能获得两层「連撃・小」,
+Buff/B_Toujyou_p_2_Name,Text,,,Abyssal Field,闇のフィールド,闇の场,
+Buff/B_Toujyou_p_3_Description,Text,,,Increases Critical Rate by 10% and Healing Power by 1. Healing skills additionally Overheal target by 1 HP.,クリティカル率を10％、治癒力を1点アップします。そしてヒーリングスキルを使ったところ、さらに目標を1HPオーバーヒールします。,暴击率增加10%，治疗力提高1点，使用回复技能时额外超额治疗目标1点体力。,
+Buff/B_Toujyou_p_3_Name,Text,,,Luminous Field,光のフィールド,光の场,
+Buff/B_Toujyou_p_Description,Text,,,"Total damage taken by current member: <color=#F12B00>&a</color>% Max HP<color=#46a5ff>&b</color><color=#1ae35d>&c</color>
+
+<color=#878c90>""All battlefield variables remain under my control.""</color>","ただいまメンバーが受けたダメージ：<color=#F12B00>&a</color>%MaxHP<color=#46a5ff>&b</color>
+<color=#1ae35d>&c</color>
+
+<color=#878c90>「戦場の全てはわたしが把握させてもらうわ」</color>","当前成员所累计受到伤害：<color=#F12B00>&a</color>%最大生命<color=#46a5ff>&b</color><color=#1ae35d>&c</color>
+
+<color=#878c90>“战场的一切都由我掌控”</color>",
+Buff/B_Toujyou_p_Name,Text,,,Information Control,情報統括,情报掌控,
+Character/Toujyou_CampSelectWord,Text,,,"When discussing meals, the character ""饗(XIANG)"" means treating someone to dinner, you know?",食事の話になると、饗（キョウ）はごちそうをすると言う意味ですよ,说到吃饭，“饗(XIANG)”这个字是请客吃饭的意思哦,
+Character/Toujyou_PassiveDes,Text,,,"Through continuous battles across worlds, Tsukasa Tojo gained the ability to deploy elemental Fields based on combat conditions:
+<color=#F12B00>Blazing Field:</color> All positive effect enhancements increased by 40%
+<color=#6924EB>Abyssal Field:</color> Grants 2 stacks of <color=#1284F6>""Combo: Minor""</color> to attack skills
+<color=#EDF40A>Luminous Field:</color> Increases Critical Rate by 10%, Healing Power by 1, with healing skills Overhealing by 1 HP
+
+<color=#EDF40A>Awakening:</color> When using 10 skills cumulatively OR any ally takes over 80% Max HP in non-Pain damage, remove all debuffs and add 1 ""Awakening"" skill to hand. (Triggers twice per battle)","別の世界で戦い続けるのため、東城つかさが戦況によってそれぞれの属性フィールドを展開する能力を獲得します。
+<color=#F12B00>炎のフィールド</color>：全ての「攻撃力、治癒力、クリティカル率、クリティカルダメージ及びクリティカルヒーリングの上昇効果」を40％アップされる
+<color=#6924EB>闇のフィールド</color>：手札の攻撃スキルを<color=#1284F6>「連撃・小」</color>2回与えます
+<color=#EDF40A>光のフィールド</color>：クリティカル率を10％、治癒力を1点アップします。そしてヒーリングスキルを使ったところ、さらに目標を1HPオーバーヒールします
+
+<color=#EDF40A>覚醒</color>：自分のスキルを合計10回使った場合、又はあるメンバーの受けた累計ダメージが彼自身の最大体力の80％を超えた場合、自分のすべてのマイナス状態を解除し、「覚醒」スキルを1枚手札に加えます。","在另一个世界的战斗中東城司获得了根据战况施加覆盖不同的属性场地的能力，。
+<color=#F12B00>火属性场地</color>：所有成员技能施加的正面效果提高40%；
+<color=#6924EB>暗属性场地</color>：所有成员攻击技能获得2次连击・小；
+<color=#EDF40A>光属性场地</color>：所有成员暴击率提高10%，治疗力提高1点，使用回复技能时超额治疗目标1点体力.
+
+<color=#EDF40A>覚醒：</color>累计使用10个属于自己技能或有队员累计受到超过生命上限80%的非痛苦伤害后，解除自身所有负面状态，将一张「覚醒」加入手牌（一场战斗仅限触发两次）。",
+Character/Toujyou_PassiveName,Text,,,Mirage Controller,蜃景の操縦者,蜃景的操纵者,
+Character/Toujyou_SelectInfo,Text,,,"Reportedly an intelligence officer from another world, transported here after trying suspicious swimsuits in a shop.
+
+Tsukasa can alter Field properties and seems to hide special techniques...","別の世界で戦い続ける情報員と言いましたが、商店の怪しい水着を試着したところ、この世界に転送されましたそうた。
+
+東城つかさはフィールドの展開やスイッチの能力を持っています。そして、彼女はある特技を持って隠しているようです..."," 据说是在另一个世界正在奋战的情报员，因为试穿商店中可疑的泳装而来到了这个世界。
+
+東城能够该变场地的领域特征，另外似乎她还隐藏着什么绝技...",
+Character/Toujyou_Text_Battle_AllyND_0,Text,,,Leave it to me.,わたしに任せて,交给我。,
+Character/Toujyou_Text_Battle_Healed_0,Text,,,That helped.,助かった,帮大忙了,
+Character/Toujyou_Text_Battle_Idle_0,Text,,,Are you thinking? Let this intelligence officer give you the answer.,何を考えている？情報員のわたしが答えを差し上げましょう。,在思考吗？让情报员来告诉你答案吧,
+Character/Toujyou_Text_Battle_Idle_1,Text,,,"As the intel specialist, I'll handle information gathering. You all focus on fighting~",情報員のわたしが情報収集担当ので、戦闘のことは皆さんに任せるよ～,情报员的我负责情报收集，战斗的事儿就交给大家~,
+Character/Toujyou_Text_Battle_Idle_2,Text,,,Feel free to consult me about anything except enemy intel.,戦闘のことは、何でも聞いてくださいね,除了敌人情报以外的事儿都可以来问我哦。,
+Character/Toujyou_Text_Battle_Kill_0,Text,,,Savor the sole of this beauty intelligence officer's shoe~,美少女情報員の靴底、しっっっかり楽してみなさいわ,好好享受美少女情报员的鞋底吧~,
+Character/Toujyou_Text_Battle_ND_0,Text,,,I must return to everyone... Can't fall here...,みんなのところへ帰るべきなのに、こんなところで…駄目,还要回到大家的身边，不能在这里......,
+Character/Toujyou_Text_Battle_Start_0,Text,,,To reunite with everyone...,みんなのところへ帰るために...,为了回到大家的身边......,
+Character/Toujyou_Text_Field_GetItem_0,Text,,,An intelligence officer's instincts say this is obviously... Eh? Amazing!!,情報員の経験により、これは言うまでもないワー...えっ？すごい！！,按照情报员的经验，这一定是陷...欸，好厉害,
+Character/Toujyou_Text_Field_Idle_0,Text,,,Shall we hold a tea party here?,ここで茶会でもしようか,要在这儿开茶会吗,
+Character/Toujyou_Text_Field_Potion_P_0,Text,,,Amane-chan would love these magical potions~,天音ちゃんはきっとここの魔薬に興味があると思う～,天音一定会对这里的魔药很感兴趣~,
+Character/Toujyou_Text_PharosLeader_0,Text,,,No...good.,ダ。。。メ,不....行,
+Character/Toujyou_Text_PharosLeader_1,Text,,,"As expected of me, breaking the control!",さすがわたし、コントロールを解除させました！,不愧是我，摆脱控制了！,
+Character/Toujyou_Text_PharosLeader_2,Text,,,Huh?!,えっ？,欸？！,
+Character/Toujyou_Text_Witch_0,Text,,,No need to worry.,心配はいらないわ,不要担心,
+Character/Toujyou_Text_Witch_1,Text,,,Seems I must get serious...,どうやら本気でやらないといけないよね...,看来要拿出真本事了...,
+Character/Toujyou_name,Text,,,Tsukasa Tojo,東城つかさ,東城つかさ,
+Item_Equip/Serafu_Toujyou_Description,Text,,,"Generates Barrier equal to 25% of wearer's Max HP every 2 turns.
+
+<color=#878c90>""Weapons from smartphones? Any pretty girl can do that.""</color>","2ターンごとに25％Maxの防壁を与えます
+
+<color=#878c90>""----スマホからの武器？美少女なら誰でもできるよ""</color>
+","每两回合回合开始时生成装备者25%maxhp的防御墙
+
+<color=#878c90>""----从手机里变出武器？美少女都能做到吧""</color>
+",
+Item_Equip/Serafu_Toujyou_name,Text,,,SupremeEdge,SupremeEdge,SupremeEdge,
+Item_Passive/SecretDiary_Toujyou_Description,Text,,,"Additional attacks gain 50% Critical Rate. Remove 1 ""Lucy's Jinx"" from deck each turn start.",追加攻撃のクリティカル率が50％アップし、毎ターン始まりにデッキから一枚の「ルシーのジンクス」を除外します,追加攻击暴击率提高50%，每回合开始删除牌库中一张露西的诅咒技能,
+Item_Passive/SecretDiary_Toujyou_name,Text,,,Researcher's Secret Diary,研究員の秘密日記,研究员的秘密日记,
+Skill/S_T_Toujyou_1_Description,Text,,,Deals 40% (&a) damage to target. Counts as skill owner's cast.,ターゲットに40％(&a点)ダメージを与え、この攻撃は「スキル所有者がスキルを使用した」として扱います。,对目标造成４０%(&a点)伤害，视为释放了技能拥有者的技能。,
+Skill/S_T_Toujyou_1_Name,Text,,,Combo: Major,連撃・大,連撃・大,
+Skill/S_T_Toujyou_p2_Description,Text,,,Deals 15% (&a) damage to target. Counts as skill owner's cast.,ターゲットに15％(&a点)ダメージを与え、この攻撃は「スキル所有者がスキルを使用した」として扱います。,对目标造成15%(&a点)伤害，视为释放了技能拥有者的技能。,
+Skill/S_T_Toujyou_p2_Name,Text,,,Combo: Minor,連撃・小,連撃・小,
+Skill/S_Toujyou_AbkuZangeki_Description,Text,,,"When casting, double <color=#1284F6>""Combo: Minor""</color> stacks (without exceeding max), and add 2 extra <color=#1284F6>""Combo: Major""</color> stacks.
+
+<color=#EDF40A>Awakened:</color> Skill Attack Power increases based on total Critical Rate/Damage from Field. Targets all enemies.","
+このスキルをリリースするとき、<color=#1284F6>「連撃・小」</color>の回数が二倍になり（最大回数は超えません）、さらに<color=#1284F6>「連撃・大」</color>の回数がプラス二回として計算されます（最大回数は超えません）
+
+<color=#EDF40A>「覚醒」</color>状態になると，フィールドが提供しているクリティカル率とクリティカルダメージの合計によってスキルの攻撃力が直接アップします（現在：a&%攻撃力）。さらに、攻撃の対象は敵全体になります。","
+这场卡的<color=#1284F6>「連撃・小」</color>在使用时层数变成两倍（不能超过最大层数）<color=#1284F6>「連撃・大」</color>多计算两层（不能超过最大层数）<color=#1284F6></color>
+
+<color=#EDF40A>「覚醒」</color>状态下，场地提供的的暴击率和暴击伤害增益之和将直接提供该技能对应的倍率加成（当前：a&%攻击力），并对全体敌人进行攻击。",
+Skill/S_Toujyou_AbkuZangeki_Name,Text,,,Bubble-Oath Sword,泡影誓約の剣,泡影誓约之剑,
+Skill/S_Toujyou_Dance_Description,Text,,,"Switches to <color=#F12B00>Blazing Field</color>
+
+Grants all allies <color=#1284F6>""Prayer Dance""</color> buff.
+
+Adds 1 ""Wish Fulfillment"" to hand each turn.","使用した時、フィールドを<color=#F12B00>炎のフィールド</color>をスイッチします。
+
+その後、味方全員にバフ<color=#1284F6>「祈りの踊り」</color>を与え、さらにターンごとに、「心願成就」を一枚手札に加えます","使用时转换到<color=#F12B00>炎の场</color>
+
+对所有友军施加buff<color=#1284F6>「祈愿之舞」</color>
+
+每回合将一张「心愿成真」加入手牌",
+Skill/S_Toujyou_Dance_Name,Text,,,<color=#F12B00>Midsummer Prayer Dance</color>,<color=#F12B00>夏夜の祈り踊り</color>,<color=#F12B00>盛夏祈愿之舞</color>,
+Skill/S_Toujyou_Dance_gene_Description,Text,,,"Grants target 1-turn <color=#1284F6>""Wish Fulfillment""</color>. If target has attack skills, randomly adds 1 <color=#1284F6>""Combo: Major""</color> stack.",目標に1ターンのバフ「心願成就」を与え、さらに手札に目標の攻撃スキルがあれば、その中1つをランダムに選んで<color=#1284F6>「連撃・大」</color>を1回与えます,向目标施加一回合的「心愿成真」正面增益，若目标手中有攻击技能，则随机为其中一个技能添加1层<color=#1284F6>「連撃・大」,
+Skill/S_Toujyou_Dance_gene_Name,Text,,,Wish Fulfillment,心願成就,心愿成真,
+Skill/S_Toujyou_FSwitch_Description,Text,,,Prioritize drawing two of your own skills and switch the Field.,自分のスキルを優先して2枚ドローし、フィールドをスイッチします,优先抽取两个自己的技能，切换场地。,
+Skill/S_Toujyou_FSwitch_Name,Text,,,Field! Switch!,フィールド！スイッチ！,场地！切换！,
+Skill/S_Toujyou_Final1_Description,Text,,,"This skill cannot be replaced by <color=#F12B00>""Unbearable Headache""</color>. Only usable if <color=#F12B00>""Lucy's Jinx""</color> exists in combat (including generated ones).
+
+Healing increased by 5% Healing Power per <color=#F12B00>""Lucy's Jinx""</color> encountered.
+
+Under <color=#EDF40A>Luminous Field</color>, gain <color=#2df974>Converging Hope</color> and choose Field switch.
+
+Current <color=#F12B00>""Lucy's Jinx""</color> count: &b","このスキルは<color=#F12B00>「堪らない頭痛」</color>に取り替えることはできません。このスキルは戦闘中に<color=#F12B00>「ルシーのジンクス」</color>がある場合のみ発動可能になります（戦闘中に生成したルシーのジンクスも含まれている）
+
+スキルの治療量は、戦闘中に現れた<color=#F12B00>「ルシーのジンクス」</color>に基づいて、一枚ごとにエクストラヒーリング[5%の治癒力]を増幅します。
+
+使用時に、もし<color=#EDF40A>光のフィールド</color>が展開すれば、自分にバフ<color=#2df974>集まりの希望</color>を与え、フィールドのスイッチ選択を行います。
+
+ただいま戦闘中に現れた<color=#F12B00>「ルシーのジンクス」</color>の数量：&b","此技能不会被<color=#F12B00>「难以忍受的头痛」</color>所替代，仅能在战斗中出现过<color=#F12B00>「露西的诅咒」</color>（包括战斗中生成的诅咒）才能使用；
+
+这个技能的治疗量根据战斗中出现过<color=#F12B00>「露西的诅咒」</color>的数量获得额外加成，每张<color=#F12B00>「露西的诅咒」</color>额外恢复 [5%治疗力]的体力值。
+
+使用时若处于<color=#EDF40A>光の场</color>，使自己获得生效一回合的BUFF<color=#2df974>汇聚的希望</color>，之后可以选择切换场地。
+
+当前战斗中出现的<color=#F12B00>「露西的诅咒」</color>数量：&b",
+Skill/S_Toujyou_Final1_Name,Text,,,Resolution to Return,戻りの決意,绝对归还的意志,
+Skill/S_Toujyou_Fugukiller_Description,Text,,,"Applies ""Tetrodotoxin"" to target.
+
+<color=#6924EB>Abyssal Field:</color> After casting, add this skill to hand (excluded at turn end).
+
+<color=#EDF40A>Awakened:</color> Targets all enemies.
+
+<color=#878c90>---Techniques honed under a certain killer's tutelage.</color>","目標に「テトロドトキシン」を与えます。
+
+<color=#6924EB>闇のフィールド</color>：リリースした後、このスキルを生成して手札に加えます。生成されたこのスキルはターンエンド時に除外され、再び生成することはできません。
+
+<color=#EDF40A>「覚醒」</color>：攻撃の対象は敵全体になります.
+
+<color=#878c90>---ある殺人鬼の指導によって、技術が徐々に熟練してきた。</color>","向对手施加：「河豚毒素」.
+
+<color=#6924EB>闇の场：</color>:本回合释放后可以再次释放(生成的此技能无法再次释放)
+
+<color=#EDF40A>「覚醒</color>状态下指向全部敌人施放.
+
+<color=#878c90>---熟练的手法来自某个杀人魔的技术指点</color>",
+Skill/S_Toujyou_Fugukiller_Name,Text,,,Blowfish Preparation? Let Me Try!,フグリング？試してみたいわ！,宰河豚？我也想试试！,
+Skill/S_Toujyou_Fugukiller_view_Description,Text,,,"Applies ""Tetrodotoxin"" to target.
+
+<color=#6924EB>Abyssal Field:</color> After casting, add this skill to hand (excluded at turn end).
+
+<color=#EDF40A>Awakened:</color> Targets all enemies.
+
+<color=#878c90>---Techniques honed under a certain killer's tutelage.</color>","目標に「テトロドトキシン」を与えます。
+
+<color=#6924EB>闇のフィールド</color>：リリースした後、このスキルを生成して手札に加えます。生成されたこのスキルはターンエンド時に除外され、再び生成することはできません。
+
+<color=#EDF40A>「覚醒」</color>：攻撃の対象は敵全体になります.
+
+<color=#878c90>---ある殺人鬼の指導によって、技術が徐々に熟練してきた。</color>","向对手施加：「河豚毒素」.
+
+<color=#6924EB>闇の场：</color>:本回合释放后可以再次释放(生成的此技能无法再次释放)
+
+<color=#EDF40A>「覚醒</color>状态下指向全部敌人施放.
+
+<color=#878c90>---熟练的手法来自某个杀人魔的技术指点</color>",
+Skill/S_Toujyou_Fugukiller_view_Name,Text,,,Blowfish Preparation? Let Me Try! (Preview),フグリング？試してみたいわ！,宰河豚？我也想试试！(预览),
+Skill/S_Toujyou_FullEnhance_Description,Text,,,&stat,&stat,&stat,
+Skill/S_Toujyou_FullEnhance_Name,Text,,,Full Enhance,フィルエンハンス,饱和增强,
+Skill/S_Toujyou_FullEnhance_view_Description,Text,,,"<color=#F12B00>Blazing Field:</color> Amplify all allies' Attack/Healing +0.5, Critical stats +4%. Grants Barrier equal to 25% caster's Max HP.
+
+<color=#6924EB>Abyssal Field:</color> Add 2 <color=#1284F6>""Combo: Major""</color> stacks to attack skills, gain Taunt Ignore, then draw 1 card.
+
+<color=#EDF40A>Luminous Field:</color> Heal ally for 120% Healing Power. Maintain Field to gain random potion.","<color=#F12B00>炎のフィールド</color>：全ての味方のフィールドが増幅されます：攻撃力と治癒力が0.5アップし、クリティカル率、クリティカルダメージ及びクリティカルヒーリングが4％アップされ、使用者の25％MaxHPに相当する防壁を与えます
+
+<color=#6924EB>闇のフィールド：</color>手札の攻撃スキルを対象にする。選ばれたスキルに「連撃・大」を２回付与し、挑発無視を与え、さらにカード一枚ドロー。 
+
+<color=#EDF40A>光のフィールド：</color>味方の1人を対象にする。治療力に基づいてその対象を癒します「120%治療力」。その後、フィールドのスイッチ選択を行い、光のフィールドをたもつ場合、ランダム薬水を一つ与えられます","<color=#F12B00>炎の场：</color>所有成员的场地获得增幅效果：攻击力、治疗力+0.5，暴击率、暴击伤害、暴击治疗４％，生成等同于使用者最大HP25%的防护墙。
+
+<color=#6924EB>闇の场：</color>指向手中攻击技能，添加3次<color=#1284F6>「連撃・大」</color>，获得「无视嘲讽」，抽一张牌。 
+
+<color=#EDF40A>光の场：</color>治疗单体友军[120%治疗力]，之后选择切换场地，保持<color=#EDF40A>光の场</color>不变时获得一瓶药水。",
+Skill/S_Toujyou_FullEnhance_view_Name,Text,,,Full Enhance,フィルエンハンス,饱和增强,
+Skill/S_Toujyou_Furea_Description,Text,,,"Triggers extra effects based on Field. After attacking, switch Fields. Maintaining Blazing Field Taunts all enemies.
+
+<color=#F12B00>Blazing Field:</color> Field amplification increases with enemy count.","フィールドによってエクストラ効果の発動が可能になる。攻撃後フィールドのスイッチ選択を行い、炎のフィールドをたもつ場合、敵全体が挑発状態になります
+
+<color=#F12B00>炎のフィールド：</color>敵の数量に基づいて、フィールドの増幅効果を上昇されます
+","根据场地施加额外效果，攻击后切换场地，保持炎の場不变时使对方全体进入「嘲讽」状态
+
+<color=#F12B00>炎の场：</color>额外按照敌人的数量提高场地的辅助效果：获得攻击力、治疗力0.15点，暴击率，暴击伤害，暴击治疗提高3%。（最大计入3人）
+",
+Skill/S_Toujyou_Furea_Name,Text,,,Silky Flare,シルキーフレア,丝质火光,
+Skill/S_Toujyou_Lucy1_Description,Text,,,"Draw 2 cards. Grant random attack skill 1 <color=#1284F6>""Combo: Major""</color>. If Tsukasa lives, add ""Field! Switch!"" with +1 Mana cost. ",2枚のカードをドローし、手札に1つのランダム攻撃スキル<color=#1284F6>「連撃・大」</color>を1回与えます。さらに東城つかさが生きていれば、「フィールド！スイッチ！」を生成し、コストAP+1で手札に加えます,抽2张卡，随机使一个攻击技能获得<color=#1284F6>「連撃・大」</color>。东城司存活时再将一张「场地！切换！」加入手牌（生成技能消耗AP+1）,
+Skill/S_Toujyou_Lucy1_Name,Text,,,Crossing Mirage,交差蜃界,交错蜃界,
+Skill/S_Toujyou_MagicPtn_Description,Text,,,"<color=#EDF40A>Luminous Field:</color> 50% Critical Chance to gain random potion, then trigger:
+・Consume potion to switch Fields. Maintaining Luminous Field reduces cost by 1 and copies this card.
+・Consume potion for chain heal (50% Healing).
+・Gain potion and Stun target (-15% Defense).
+
+<color=#878c90>""---Not natural!!""</color>","<color=#EDF40A>光のフィールド</color>: リリース後、1/2クリティカルヒットの確率でランダムな薬水を与え、そして下記の効果のうち1つをランダムに発動します:
+・ランダムな薬水を1つ消耗し、まずフィールドをスィッチして、その後<color=#EDF40A>光のフィールド</color>をたもつ場合、このカードのコストを1SP減らし、手札にコピーを生成します。
+・ランダムな薬水を1つ消耗し、目標を連鎖ヒーリングします（50%の治療力）。
+・ランダムな薬水を一つ与え、その後目標を眩暈になり、防御力は15%ダウンさせます。(１ターン)。
+
+<color=#878c90>“---（天然）てんねじゃない！！</color>","<color=#EDF40A>光の场</color>：当前暴击率的一半（&a%）概率获得一瓶随机药水，再随机释放以下其中之一效果：
+・消耗一瓶随机魔药，选择切换场地，保持<color=#EDF40A>光の场</color>不变时再将此卡加入手牌，获得放逐。
+・消耗一瓶随机药水，再连锁治疗（50%）；
+・获得一瓶随机药水，眩晕目标1回合，降低15%防御力。
+
+<color=#878c90>“---不是天然！！”</color>",
+Skill/S_Toujyou_MagicPtn_Name,Text,,,Natural Elixir  ,天然の魔薬,天然的魔药,
+Skill/S_Toujyou_MagicPtn_copy_Description,Text,,,Effects identical to original,"<color=#EDF40A>光のフィールド</color>: リリース後、1/2クリティカルヒットの確率でランダムな薬水を与え、そして下記の効果のうち1つをランダムに発動します:
+・ランダムな薬水を1つ消耗し、まずフィールドをスィッチして、その後<color=#EDF40A>光のフィールド</color>をたもつ場合、このカードのコストを1SP減らし、手札にコピーを生成します。
+・ランダムな薬水を1つ消耗し、目標を連鎖ヒーリングします（50%の治療力）。
+・ランダムな薬水を一つ与え、その後目標を眩暈になり、防御力は15%ダウンさせます。(１ターン)。
+
+<color=#878c90>“---（天然）てんねじゃない！！</color>",效果与原本相同,
+Skill/S_Toujyou_MagicPtn_copy_Name,Text,,,Natural Elixir (Copy),天然の魔薬,天然的魔药（复制预览）,
+Skill/S_Toujyou_Mangecyo_Description,Text,,,"Grants 3 stacks of <color=#1284F6>""Combo: Minor""</color> to all attack skills in hand and applies 1 stack of <color=#b618fb>Bunny Girl Destruction</color> debuff.
+
+<color=#EDF40A>Awakened:</color> Instead grants 2 stacks of <color=#1284F6>""Combo: Major""</color> and applies permanent irresistible <color=#b618fb>Bunny Girl Destruction</color> to all enemies.
+
+Amplifies Field effects based on total Combo stacks: Each <color=#1284F6>""Combo: Minor""</color> grants +0.05 Attack/Healing Power, +0.5% Critical Rate/Damage/Healing. <color=#1284F6>""Combo: Major""</color> provides 1.5× these values.","手札にある全ての攻撃スキルを3回の<color=#1284F6>「連撃・小」</color>を付与し、目標に<color=#b618fb>バニーガール破壊</color>を与えます。
+
+<color=#EDF40A>「覚醒」</color>：2回の<color=#1284F6>「連撃・大」</color>を付与し、抵抗不能の永久的な<color=#b618fb>バニーガール破壊</color>を代わりに与えます。
+
+さらに、手札の連撃の数量に基づいてフィールドが増幅されます。<color=#1284F6>「連撃・小」</color>の効果により、フィールドの攻撃力と治癒力が0.05アップし、クリティカル率、クリティカルダメージ、クリティカルヒーリングが0.5%アップします。一方、<color=#1284F6>「連撃・大」</color>の効果は、前者の1.5倍となります。","对手中所有攻击技能施加3层<color=#1284F6>「連撃・小」</color>，并施加一层<color=#b618fb>「兔女郎破坏」</color>减益
+
+<color=#EDF40A>「覚醒」</color>：改为施加2层<color=#1284F6>「連撃・大」</color>，对所有敌人施加无法抵抗、永久生效的<color=#b618fb>「兔女郎破坏」</color>减益
+
+之后按照手中所有连击的层数，提高场地数值，每层连击小提高0.05攻击，0.5%暴击，0.5%爆伤、0.5%暴击治疗，0.05治疗",
+Skill/S_Toujyou_Mangecyo_Name,Text,,,<color=#6924EB>Tonight's Blissful Nightmare</color>,今宵、快楽ナイトメア,<color=#6924EB>今宵，快乐噩梦</color>,
+Skill/S_Toujyou_Nabicall_Description,Text,,,"When fixed, reduces Mana cost by 1. Generates different skills based on current Field (Exclude, +1 Mana cost).
+
+<color=#EDF40A>Awakened:</color> Generated skills instead have -1 Mana cost.
+
+<color=#EDF40A>Luminous Field:</color> ""Flash Wave""
+<color=#6924EB>Abyssal Field:</color> ""Blowfish Prep""
+<color=#F12B00>Blazing Field:</color> ""Shaded Siesta""","このスキルは固定能力となると、コストAP-1となります。
+フィールドによって、様々なスキルを生成し、手札に加えます。そして「除外」と「コストAP＋１」を付与します。一方、<color=#EDF40A>「覚醒」</color>状態で生成したスキルに逆にコストAP-1となります。
+<color=#EDF40A>光のフィールド： 「閃光波動」</color>
+
+<color=#6924EB>闇のフィールド：  「フグリング？試してみたいわ！」</color>
+
+<color=#F12B00>炎のフィールド：  「日陰にシエスタ」 </color>","此卡作为固定能力时AP消耗减一
+按照场地不同，将不同的卡加入手牌，附带放逐，消耗AP+1，<color=#EDF40A>「覚醒」</color>状态下则生成的技能消耗AP-1
+<color=#EDF40A>光の场： 「闪光波动」</color>
+
+<color=#6924EB>闇の场：  「宰河豚？我也想试试！」</color>
+
+<color=#F12B00>炎の场：  「于日阴下休憩」 </color>",
+Skill/S_Toujyou_Nabicall_Name,Text,,,Invitation from Distant Constellations,遠い星群からのお呼び,来自遥远星群的呼唤,
+Skill/S_Toujyou_P_0_2_Description,Text,,,While in hand: All skills cost +1 Mana. Tsukasa's Attack/Healing -50% (Max 1 stack active).,この呪いは手札にあると、自分のスキルがコスト＋１となり、そして東城つかさの攻撃力と治療力が50％減少します。（同時に最大1枚まで適用される）,拿在手中时，自己的技能全部消耗+1，东城司获得攻击力、治疗力下降50%减益(同时最大生效一张),
+Skill/S_Toujyou_P_0_2_Name,Text,,,Unbearable Headache,堪らない頭痛,难忍的头痛,
+Skill/S_Toujyou_P_0_2view_Description,Text,,,While in hand: All skills cost +1 Mana. Tsukasa's Attack/Healing -50% (Max 1 stack active).,手札にあると、自分のスキルがコスト＋１となり、そして東城つかさの攻撃力と治療力が50％減少します。（同時に最大1枚まで適用される）,拿在手中时，自己的技能全部消耗+1，东城司获得攻击力、治疗力下降50%减益(同时最大生效一张),
+Skill/S_Toujyou_P_0_2view_Name,Text,,,Unbearable Headache,堪らない頭痛,难以忍受的头痛,
+Skill/S_Toujyou_P_0_Description,Text,,,"Enter <color=#EDF40A>Awakening</color> for 2 turns, cleansing all debuffs. Grants ""Cold Calculation's Attack"" to all skills. Inflicts 2-turn ""Trauma"" and Taunt on all enemies.
+
+<color=#1E63EC>Cold Calculation's Attack:</color> Grants ""Swiftness"" and ""Critical"" to all attack skills.","2ターンの間に<color=#EDF40A>「覚醒」</color>状態になり、全ての減益を解除します。さらに、自分の全てのスキルに「冷徹の攻撃」を付与し、敵全体に2ターンの「トラウマ」と「挑発」を与えます。
+
+<color=#1E63EC>「冷徹の攻撃」</color>:自分の全ての攻撃スキルに「迅速」と「致命」を付与します。","进入「覚醒」两回合，解除自己所有减益，使自己所有技能获得「冷徹的进攻」，对对方全体敌人施加两回合「精神创伤」及「嘲讽」；
+
+<color=#1E63EC>「冷徹的进攻」</color>:自己所有技能获得「迅速」「致命」",
+Skill/S_Toujyou_P_0_Name,Text,,,Awakening,覚醒,覚醒,
+Skill/S_Toujyou_P_1_Description,Text,,,"Deploys Blazing Field, enhancing support capabilities.",炎のフィールドを展開し、フィールドのサポート能力を増幅します,对全体成员施加火之场增益，增强场地的辅助能力,
+Skill/S_Toujyou_P_1_Name,Text,,,Blazing Field,炎のフィールド,炎の场,
+Skill/S_Toujyou_P_2_Description,Text,,,"Deploys Abyssal Field, granting 2 stacks of <color=#1284F6>""Combo: Minor""</color> to attack skills.",闇のフィールドを展開し、手札の攻撃スキルを<color=#1284F6>「連撃・小」</color>2回与えます,展开暗属性场地，为全队攻击技能提供两层「連撃・小」增益,
+Skill/S_Toujyou_P_2_Name,Text,,,Abyssal Field,闇のフィールド,闇の场,
+Skill/S_Toujyou_P_3_Description,Text,,,"Deploys Luminous Field, significantly boosting Critical Rate and granting Overheal capability.",光のフィールドを展開し、全員のクリティカル率を大幅に増幅させのまま、全員にエクストラ治療の能力を与えます,展开光属性领域，大幅提高全队暴击率，为全队治疗技能提供额外增益。,
+Skill/S_Toujyou_P_3_Name,Text,,,Luminous Field,光のフィールド,光の场,
+Skill/S_Toujyou_RestView_Description,Text,,,"Switches to <color=#F12B00>Blazing Field</color>, removing 1 debuff per ally.
+Field amplification increases with debuffs cleansed (+0.15 Attack/Healing, +3% Critical stats).",<color=#F12B00>炎のフィールド</color>にスイッチして、全員のそれぞれ一つの減益を解除させます。さらに、解除された減益の数量に基づいて、フィールドの増幅効果を上昇させる。（攻撃力と治癒力が0.15アップし、クリティカル率、クリティカルダメージ及びクリティカルヒーリングが３％アップされる。この効果は最少でも一回を発動できる）,"切换为<color=#F12B00>炎の场</color>，之后为全体友军随机解除一个减益.
+按照解除减益的数量，强化场地效果，增加攻击力、治疗力0.15，暴击率、暴击伤害、暴击治疗3%",
+Skill/S_Toujyou_RestView_Name,Text,,,Shaded Siesta (Preview),日陰にシエスタ,于日阴下休憩(预览),
+Skill/S_Toujyou_Rest_Description,Text,,,"Switches to <color=#F12B00>Blazing Field</color>, removing 1 debuff per ally.
+Field amplification increases with debuffs cleansed (+0.15 Attack/Healing, +2% Critical stats).",<color=#F12B00>炎のフィールド</color>にスイッチして、全員のそれぞれ一つの減益を解除させます。さらに、解除された減益の数量に基づいて、フィールドの増幅効果を上昇させる。（攻撃力と治癒力が0.15アップし、クリティカル率、クリティカルダメージ及びクリティカルヒーリングが３％アップされる。この効果は最少でも一回を発動できる）,"切换为<color=#F12B00>炎の场</color>，之后为全体友军随机解除一个减益.
+按照解除减益的数量，强化场地效果，增加攻击力、治疗力0.15，暴击率、暴击伤害、暴击治疗2%（至少生效一次）。",
+Skill/S_Toujyou_Rest_Name,Text,,,Shaded Siesta,日陰にシエスタ,于日阴下休憩,
+Skill/S_Toujyou_SKkadoview_Description,Text,,,"<color=#6924EB>Abyssal Field:</color> Prioritizes adding 2 stacks to <color=#1284F6>""Combo: Major""</color> on random skill. Adds 3 stacks if only <color=#1284F6>""Combo: Minor""</color> exists.",<color=#6924EB>闇のフィールド：</color>手札にある1つの<color=#1284F6>「連撃・小」</color>または<color=#1284F6>「連撃・大」</color>に付与されたスキルをランダムに選択し、<color=#1284F6>「連撃・大」</color>の回数を優先して2回増加させます。もし<color=#1284F6>「連撃・小」</color>だけが存在する場合は、3回増加します,<color=#6924EB>闇の场：</color>随机选择一个已经拥有<color=#1284F6>「連撃・小」</color>或<color=#1284F6>「連撃・大」</color>的技能，优先使<color=#1284F6>「連撃・大」</color>增加２层，只有<color=#1284F6>「連撃・小」</color>则增加3层,
+Skill/S_Toujyou_SKkadoview_Name,Text,,,Flash Wave,閃光波動,闪光波动,
+Skill/S_Toujyou_Shinkiro_Description,Text,,,"Placed atop deck at battle start.
+Grants 1-turn Healing Gauge protection and ""Mirage"". Switches to <color=#EDF40A>Luminous Field</color>.  ","バトル開始時にデッキの一番上に置く。
+全員に1ターンの回復ゲージ保護状態を与えます。そして「蜃気楼」を付与し、<color=#EDF40A>光のフィールド</color>にスイッチします","开始时放在牌库上方。
+保护己方全体体力极限１回合，向全体成员施加「海市蜃楼」 。之后切换至<color=#EDF40A>光の场</color>",
+Skill/S_Toujyou_Shinkiro_Name,Text,,,<color=#EDF40A>Mirage Dreamscape</color>,<color=#EDF40A>蜃気楼の夢景</color>,<color=#EDF40A>海市蜃楼之梦</color>,
+Skill/S_Toujyou_SkKado_Description,Text,,,"Switches to <color=#EDF40A>Luminous Field</color> and triggers effects based on previous Field:
+
+<color=#F12B00>Blazing Field:</color> Field amplification gains +0.3 Attack/Healing Power, +4% Critical Rate/Damage/Healing.
+<color=#6924EB>Abyssal Field:</color> Randomly enhances a skill with <color=#1284F6>""Combo: Major""</color> +2 stacks (or <color=#1284F6>""Combo: Minor""</color> +3 if none exist).","<color=#EDF40A>光のフィールド</color>にスイッチします，そして前のフィールドによって様々な効果を発動します：
+
+<color=#F12B00>炎のフィールド</color>：フィールドが増幅されます：攻撃力と治癒力が0.３アップし、クリティカル率、クリティカルダメージ及びクリティカルヒーリングが4％アップされます。
+
+<color=#6924EB>闇のフィールド</color>：</color>手札にある1つの<color=#1284F6>「連撃・小」</color>または<color=#1284F6>「連撃・大」</color>に付与されたスキルをランダムに選択し、<color=#1284F6>「連撃・大」</color>の回数を優先して2回増加させます。もし<color=#1284F6>「連撃・小」</color>だけが存在する場合は、3回増加します","切换至<color=#EDF40A>光の场：</color>，并根据之前的场地释放效果：
+
+<color=#F12B00>炎の场</color>：全体场地增幅效果额外获得攻击力、治疗力0.3，暴击率、暴击伤害、暴击治疗提高4%
+
+<color=#6924EB>闇の场：</color>随机选择一个已经拥有<color=#1284F6>「連撃・小」</color>或<color=#1284F6>「連撃・大」</color>的技能，优先使<color=#1284F6>「連撃・大」</color>增加２层，只有<color=#1284F6>「連撃・小」</color>则增加3层
+",
+Skill/S_Toujyou_SkKado_Name,Text,,,Flash Wave,閃光波動,闪光波动,
+Skill/S_Toujyou_Sumairu_Description,Text,,,"Switches Fields. If <color=#6924EB>Abyssal Field</color> is activated, grants 1 stack of <color=#1284F6>""Combo: Minor""</color> and 1 stack of <color=#1284F6>""Combo: Major""</color> to a random attack skill.",フィールドのスイッチ選択を行います。その後、もし<color=#6924EB>闇のフィールド</color>になると、目標のランダム攻撃スキルに<color=#1284F6>「連撃・小」</color>と<color=#1284F6>「連撃・大」</color>各一回与えます,切换场地，之后若处于<color=#6924EB>闇の场：</color>给目标的随机攻击技能添加一层<color=#1284F6>「連撃・小」</color>，一层<color=#1284F6>「連撃・大」</color><color=#6924EB></color><color=#1284F6></color>,
+Skill/S_Toujyou_Sumairu_Name,Text,,,Bunny Girl Elf Fantasy,バニーガールエルフの夢,兔女郎妖精之梦,
+SkillExtended/EN_Toujyou_1_Des,Text,,,,,,
+SkillExtended/EN_Toujyou_1_EnforceString,Text,,,Attack skills costing 2 Mana or more,2AP以上の攻撃スキル,2AP以上攻击技能,
+SkillExtended/EN_Toujyou_1_Name,Text,,,"Combo Penetration: +30% Final Damage for ""Combo""-enhanced skills",連撃貫通：「連撃」持てるスキルの最終ダメージが30％増加します,连击贯通：持有「連撃」增益的技能最终伤害增加30%,
+SkillExtended/EN_Toujyou_2_Des,Text,,,,,,
+SkillExtended/EN_Toujyou_2_EnforceString,Text,,,,,,
+SkillExtended/EN_Toujyou_2_Name,Text,,,Reflector: Creates Barrier equal to 20% Max HP on cast,レフレクター：リリース時に最大HPの20%相当の防壁を生成します,偏移立场：释放技能时获得最大HP20%的防护墙,
+SkillExtended/Ext_B_Toujyou_0_1_Des,Text,,,"""Swiftness"" ""Critical"" ""Tracking""",「迅速」「致命」「追跡」,「迅速」「致命」「追踪」,
+SkillExtended/Ext_B_Toujyou_0_1_EnforceString,Text,,,,,,
+SkillExtended/Ext_B_Toujyou_0_1_Name,Text,,,Cold Calculation's Attack,冷徹の攻撃,冷彻的进攻,
+SkillExtended/Ext_Toujyou_1_Des,Text,,,"Post-attack: Deals 40% damage per Combo stack (Max 6). Removes stacks.
+
+<color=#f881ef>Current Stacks:&a/6</color>","
+連撃数に基づいて、スキル攻撃後に追加攻撃を行い、連撃数ごとに40%相当の攻撃力でダメージを与えます
+
+<color=#f881ef>現在の連撃数:&a/6</color>
+","
+按照增益层数，在技能攻击后对敌方额外施加攻击，每层造成40%倍率造成伤害，并移除此增益。
+
+<color=#f881ef>当前层数:&a/6</color><color=#f881ef></color><color=#F12B00></color>",
+SkillExtended/Ext_Toujyou_1_Name,Text,,,Combo: Major,連撃・大,連撃・大,
+SkillExtended/Ext_Toujyou_PassiveMark_Des,Text,,,,,,
+SkillExtended/Ext_Toujyou_PassiveMark_EnforceString,Text,,,,,,
+SkillExtended/Ext_Toujyou_PassiveMark_Name,Text,,,*,*,*,
+SkillExtended/Ext_Toujyou_headache_Des,Text,,,Cost +1,コスト＋１,费用+1,
+SkillExtended/Ext_Toujyou_headache_Name,Text,,,Unbearable Headache,堪らない頭痛,难忍的头痛,
+SkillExtended/Ext_Toujyou_p2_Des,Text,,,"Post-attack: Deals 15% damage per Combo stack (Max 10). Removes stacks.
+
+<color=#f881ef>Current Stacks:&a/10</color>","
+連撃数に基づいて、スキル攻撃後に追加攻撃を行い、連撃数ごとに15%相当の攻撃力でダメージを与えます
+
+<color=#f881ef>現在の連撃数:&a/10</color>","
+按照增益层数，在技能攻击后对敌方额外施加攻击，每层造成15%倍率造成伤害，并移除此增益。
+
+<color=#f881ef>当前层数:&a/10</color><color=#f881ef></color><color=#F12B00></color>",
+SkillExtended/Ext_Toujyou_p2_EnforceString,Text,,,,,,
+SkillExtended/Ext_Toujyou_p2_Name,Text,,,Combo: Minor,連撃・小,連撃・小,
+SkillExtended/SkillEn_Ilya_0_EnforceString,Text,,,,,,
+SkillKeyword/KeyWord_Toujyou_Bani_Desc,Text,,,Reduces Defense by 30% for 1 turn,1ターンの間に防御力を30%ダウン,防御下降30%一回合,
+SkillKeyword/KeyWord_Toujyou_Bani_Name,Text,,,<color=#b618fb>Bunny Girl Destruction</color>,<color=#b618fb>バニーガール破壊</color>,<color=#b618fb>兔女郎破坏</color>,
+SkillKeyword/KeyWord_Toujyou_F1B_Desc,Text,,,"Heals party based on <color=#F12B00>""Lucy's Jinx""</color> count at buff application.",ターンの始まりに、バフが与えされた時に記録した<color=#F12B00>「ルシーのジンクス」</color>の数量に味方全体を回復させます。「各ルシーのジンクスに応じて5%治癒力」,"回合开始时按照BUFF生效时记录的<color=#F12B00>「露西的诅咒」</color>数量治疗全体友军,每个诅咒提供[5%治疗力]。",
+SkillKeyword/KeyWord_Toujyou_F1B_Name,Text,,,<color=#2df974>Converging Hope</color>,<color=#2df974>集まりの希望</color>,<color=#2df974>汇聚的希望</color>,
+SkillKeyword/KeyWord_Toujyou_FireField_Desc,Text,,,Enhances all positive effects by 40% (persists through Field changes).,全ての「攻撃力、治癒力、クリティカル率、クリティカルダメージ及びクリティカルヒーリングの上昇効果」を40％アップされたのまま、その数値をフィールドに記録します。そして、フィールドをスィッチとしても、この増益は消えません,所有作用于调查员的攻击力、暴击率、暴击伤害、治疗力、暴击治疗提高效果都额外提高40%，并记录在场地增益中，切换场地该增益不消失。,
+SkillKeyword/KeyWord_Toujyou_FireField_Name,Text,,,<color=#F12B00>Blazing Field</color>,<color=#F12B00>炎のフィールド</color>,<color=#F12B00>炎の场</color>,
+SkillKeyword/KeyWord_Toujyou_HikariField_Desc,Text,,,"+10% Critical Rate, +1 Healing Power, Overheal +1 HP.",クリティカル率を10％、治癒力を1点アップします。そしてヒーリングスキルを使ったところ、さらに目標を1HPオーバーヒールします,暴击率增加10%，治疗力提高1点，每次使用回复技能时额外超额治疗目标1点体力,
+SkillKeyword/KeyWord_Toujyou_HikariField_Name,Text,,,<color=#EDF40A>Luminous Field</color>,<color=#EDF40A>光のフィールド</color>,<color=#EDF40A>光の场</color>,
+SkillKeyword/KeyWord_Toujyou_Kakusei_Desc,Text,,,"Grants ""Cold Calculation's Attack"" during Awakening. Post-Awakening replaces half skills with curses.",覚醒状態の間、全ての自分の攻撃スキルに「冷徹の攻撃」を付与します。そして、覚醒が終了した後、自分の半数のスキルが[堪らない頭痛]（<color=#F12B00>ルシーのジンクス</color>）と取り替えられます,觉醒状态下自己所有攻击技能获得「冷彻的进攻」，结束后随机将自己一半技能替换为「难以忍受的头痛」（<color=#F12B00>「露西的诅咒」技能</color>）,
+SkillKeyword/KeyWord_Toujyou_Kakusei_Name,Text,,,"<color=#EDF40A>""Awakening""</color>",<color=#EDF40A>「覚醒」</color>,<color=#EDF40A>「覚醒」</color>,
+SkillKeyword/KeyWord_Toujyou_RengekiB_Desc,Text,,,Deals 40% extra damage per stack as owner's skill.,連撃数に基づいて、40％の追加攻撃を行い、この攻撃は「スキル所有者がスキルを使用した」として扱います,按照层数对目标造成４０%额外伤害，每层攻击视为释放了一个技能拥有者的技能。,
+SkillKeyword/KeyWord_Toujyou_RengekiB_Name,Text,,,"<color=#1284F6>""Combo: Major""</color>",<color=#1284F6>「連撃・大」</color>,<color=#1284F6>「連撃・大」</color>,
+SkillKeyword/KeyWord_Toujyou_RengekiS_Desc,Text,,,Deals 15% extra damage per stack as owner's skill.,連撃数に基づいて、15％の追加攻撃を行い、この攻撃は「スキル所有者がスキルを使用した」として扱います,按照层数对目标造成１５%额外伤害，每层攻击视为释放了一个技能拥有者的技能。,
+SkillKeyword/KeyWord_Toujyou_RengekiS_Name,Text,,,"<color=#1284F6>""Combo: Minor""</color>",<color=#1284F6>「連撃・小」</color>,<color=#1284F6>「連撃・小」</color>,
+SkillKeyword/KeyWord_Toujyou_yamiField_Desc,Text,,,"Grants 2 <color=#1284F6>""Combo: Minor""</color> stacks to attack skills.",手札の攻撃スキルを<color=#1284F6>「連撃・小」</color>2回与えます,手中的攻击技能获得两层<color=#1284F6>「連撃・小」</color>,
+SkillKeyword/KeyWord_Toujyou_yamiField_Name,Text,,,<color=#6924EB>Abyssal Field</color>,<color=#6924EB>闇のフィールド</color>,<color=#6924EB>闇の场</color>,
+抽2张卡 随机使一个攻击技能获得 連撃 大 东城司存活时再将一张 场地 切换 加入手牌,Text,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+

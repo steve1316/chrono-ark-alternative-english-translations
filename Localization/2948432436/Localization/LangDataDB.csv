@@ -1,0 +1,164 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Skill/S_Dusk_1_Name, Text,,막기,Parry,攻撃を防ぐ,回旋格挡,
+Skill/S_Dusk_1_Description, Text,,적중시 손에 있는 스킬 2개마다 이 스킬을 재시전합니다. (최대 2회),"When hitting, recast the skill once for every two skills in hand, up to 2 times.",命中すると、2つのスキルが手に入るたびに1回、最大2回リリースされます。,命中时，手中每有两个技能重复释放1次，最多2次,
+Skill/S_Dusk_1_0_Name, Text,,막기,Parry,攻撃を防ぐ,回旋格挡,
+Skill/S_Dusk_2_Name, Text,,가로베기,Horizontal Slash,打撃,刃柄横劈,
+Skill/S_Dusk_2_Description, Text,,'영혼의 상처' 디버프를 가진 대상에게 사용시 피해량의 30% 만큼 자신을 연쇄치유 합니다.,"When targeting a ""Marked"" enemy, chain heal yourself for 30% of the damage dealt.",「刻印」の目標を指し示すと、ダメージ値の30%が自己治療に連鎖する。,指向“刻印”目标时，伤害值的30%将连锁治疗自己。,
+Skill/S_Dusk_3_Name, Text,,내려베기,Downward Slash,鎌刃下割り,镰刃下斩,
+Skill/S_Dusk_3_Description, Text,,"'영혼의 상처' 디버프를 가진 적에게 사용시, 모든 '영혼의 상처' 디버프를 최대 중첩으로 설정합니다.
+이 스킬로 '영혼의 상처' 디버프의 피해를 유발할 경우, 피해량을 80%로 증가시킵니다.","If attacking a ""Marked"" target, set all ""Mark"" debuff stacks on the field to their maximum.
+If this skill triggers a ""Mark"" AoE attack, the damage of that AoE effect is increased to 80%.","「刻印」ターゲットを攻撃すると、フィールド上のすべての刻印減益層数を最大にします。
+このスキルが全体攻撃の刻印をトリガすると、その全体攻撃効果のダメージ値は80%に上昇する。","若攻击“刻印”目标，将场上所有刻印减益层数置于最大值。
+若是该技能触发刻印全体攻击时，那次全体攻击效果的伤害值提升至80%。",
+Skill/S_Dusk_4_Name, Text,,영혼 걸음,Marked Steps,刻印の歩み,刻印步伐,
+Skill/S_Dusk_5_Name, Text,,흔들리는 낫,Pendulum Harvest,すばやく刈り取る,灵摆收割,
+Skill/S_Dusk_5_Description, Text,,"'영혼의 상처' 디버프를 가진 대상에게 시전시 더스크에 인접한 아군을 피해량의 20% 만큼 치유합니다.
+선택 - 1 마나를 소모하고 대상의 왼쪽 혹은 오른쪽에 있는 적에게 '영혼의 상처'(<sprite=1>500%)을 1중첩 부여합니다.
+대상에게 '영혼의 상처'(<sprite=1>500%)를 1중첩 부여합니다.","When attacking a ""Marked"" target, 20% of the damage dealt heals the allies to your left and right.
+When used, choose one:
+Spend 1 additional Mana to apply 1 stack of ""Mark"" (<sprite=1>500%) to one enemy adjacent to the target.
+Apply 1 stack of ""Scratch"" (<sprite=1>500%) to the target.）","「刻印」ターゲットを攻撃した場合、ダメージ値の20%が自分の左右のメンバーを治療する
+使用時に次のいずれかを選択します。
+法力値を1ポイント余分に消費して、ターゲット左右の敵のうち1つに「刻印」を獲得させる(<sprite=1>500%)
+ターゲットに「スクラッチ」のレイヤーを作成する(<sprite=1>500%)","攻击“刻印”目标时，造成的伤害值20%将治疗自身左右两边的队员
+使用时选择一项：
+额外消耗1点法力值，使目标左右的敌人中的一个获得一层“刻印”（<sprite=1>500%）
+使目标获得一层“划痕”（<sprite=1>500%）",
+Skill/S_Dusk_5_0_Name, Text,,물러서기,Retreat,元に戻す,回撤,
+Skill/S_Dusk_5_0_Description, Text,,대상에게 '흉터'(<sprite=1>500%) 디버프를 1중첩 부여합니다.,"Apply 1 stack of ""Scratch"" (<sprite=1>500%) to the target.",攻撃目標にスクラッチを施す（<sprite=1>500%）,为攻击目标施加一层划痕（<sprite=1>500%）,
+Skill/S_Dusk_5_1_Name, Text,,오른쪽,Right Slash,シスカット,顺劈,
+Skill/S_Dusk_5_1_Description, Text,,1 마나를 소모하고 대상의 오른쪽에 있는 적에게 '영혼의 상처'(<sprite=1>500%) 디버프를 1중첩 부여합니다.,"Spend 1 Mana to apply 1 stack of ""Mark"" (<sprite=1>500%) to the enemy to the right of the target.",法力値を1点消費し、ターゲット右の敵に1層刻印を獲得させる（<sprite=1>500%）,消耗1点法力值，使目标右边的敌人获得1层刻印（<sprite=1>500%）,
+Skill/S_Dusk_5_2_Name, Text,,왼쪽,Left Slash,追い切り,追斩,
+Skill/S_Dusk_5_2_Description, Text,,1 마나를 소모하고 대상의 왼쪽에 있는 적에게 '영혼의 상처'(<sprite=1>500%) 디버프를 1중첩 부여합니다.,"Spend 1 Mana to apply 1 stack of ""Mark"" (<sprite=1>500%) to the enemy to the left of the target.",法力値を1点消費し、ターゲット左の敵に1層刻印を獲得させる（<sprite=1>500%）,消耗1点法力值，使目标左边的敌人获得1层刻印（<sprite=1>500%）,
+Skill/S_Dusk_6_Name, Text,,회전하는 공습,Spin Slash,スピン打撃,旋斩,
+Skill/S_Dusk_6_Description, Text,,"'영혼의 상처' 디버프를 가진 대상에게 적중시, 중첩 수 +1
+이 스킬을 사용하여 '영혼의 상처' 디버프를 가진 대상을 처치할 경우 모든 적에게 '영혼의 상처' 디버프를 부여합니다(<sprite=1>500%)","When hitting a ""Marked"" target, gain an additional +1 ""Mark"" stack.
+When using this skill to kill a ""Marked"" target, apply the ""Mark"" status to all enemies (<sprite=1>500%).","刻印目標に命中した場合、刻印層数が余分に+1
+このスキルを使用して刻印ターゲットを撃ち殺すと、「刻印」状態はすべての敵に与えられる（<sprite=1>500%）","命中刻印目标时，刻印层数额外+1
+使用该技能击杀刻印目标时，“刻印”状态将给予所有敌人（<sprite=1>500%）",
+Skill/S_Dusk_7_Name, Text,,올려베기,Uppercut Slash,鎌を上げる,镰刃挑,
+Skill/S_Dusk_7_Description, Text,,"스킬의 대상과 도발 유무가 같은 적을 모두 공격합니다.
+적중한 적 수 만큼 아군을 피해량에 비례하여 치유합니다.(체력이 낮은 아군을 우선적으로 치유합니다)","Attack all enemies with the same Taunt status as the target.
+Heal allies for 100% of the damage dealt, repeated for each enemy hit (prioritizing yourself and allies with low HP).","ターゲットの風刺状態と同じ敵を同時に攻撃する。
+命中した敵の数に応じて友軍のこのダメージ値の100%のライフ値を繰り返し治療する（自分とライフ値の低い友軍を優先的に選択する）","同时攻击与目标嘲讽状态相同的所有敌人。
+根据命中敌人数量重复治疗友军该次伤害值的100%的生命值（优先选取自身和生命值低的友军）",
+Skill/S_Dusk_8_Name, Text,,측면공격,Side Assault,サイドアタック,侧身侵袭,
+Skill/S_Dusk_8_Description, Text,,모든 적에게 '흉터'(<sprite=1>90%)를 2중첩 부여합니다.,"Apply 2 stacks of ""Scratch"" (<sprite=1>90%) to all enemies.",すべての敵に2層スクラッチを与える（<sprite=1>90%）,给予所有敌人2层划痕（<sprite=1>90%）,
+Skill/S_Dusk_9_Name, Text,,영혼 처단,Mark Punishment,刻印懲戒,刻印惩戒,
+Skill/S_Dusk_9_Description, Text,,"'영혼의 상처'를 가진 대상에게 적중시 스킬을 1개 뽑습니다.
+이 스킬로 '영혼의 상처' 디버프를 부여할 경우, '영혼의 상처' 중첩이 초기화되지 않습니다.","When hitting a ""Marked"" target, draw 1 skill.
+If this attack triggers a ""Mark"" AoE attack, the ""Mark"" stacks will not reset.","刻印ターゲットにヒットした場合、スキルを1つ抽出
+この攻撃により刻印状態の全体攻撃がトリガされると、刻印階数はリセットされない","击中刻印目标时，抽取1个技能
+若该次攻击触发了刻印状态的全体攻击，刻印层数将不重置",
+Skill/S_Dusk_LucyDraw_Name, Text,,황혼,Duskfall,夜になる,入夜,
+Skill/S_Dusk_LucyDraw_Description, Text,,스킬을 2개 뽑습니다. 무작위 적 2명에게 '흉터'를 2중첩 부여합니다.,"Draw 2 skills and apply 2 stacks of ""Scratch"" to 2 random enemies.",2つのスキルを抽出し、ランダムに2つの敵に2層のスクラッチを与える,抽取两个技能，给予随机两个敌人2层划痕,
+Skill/S_Dusk_R1_Name, Text,,영혼 수확,Soul Reaping,魂の回収,魂刻收缴,
+Skill/S_Dusk_R1_Description, Text,,"'영혼의 상처'를 가진 대상만 선택할 수 있습니다.
+적중한 모든 적에게 &a의 추가 피해를 줍니다.","Can only target ""Marked"" enemies.
+When hitting, deal &a additional true damage to all enemies.","刻印ターゲットのみを指定できます
+命中時に追加ですべての敵に&aリアルダメージを与える。","只能指向“刻印”目标
+命中时额外对所有敌人造成&a真实伤害。",
+Skill/S_Dusk_R2_Name, Text,,공포 어둠,Spreading Fear,恐怖が広がる,恐惧蔓延,
+Skill/S_Dusk_R2_Description, Text,,사용 후 다음 턴 시작시 2마나를 잃습니다. 대상이 죽으면 이 효과가 발동하지 않습니다.,"After use, lose 2 Mana at the start of the next turn. If the target dies, this effect does not trigger.",リリース後、次のターンの開始時に法力値を2点失い、リリースされたターゲットが死亡した場合は効果がありません。,释放后，下回合开始时失去两点法力值，若释放的目标死亡则此效果不生效。,
+SkillExtended/Ex_Dusk_1_Name, Text,,"비용 -1, 피해량의 20% 만큼 자신을 연쇄치유 합니다.","Cost -1, chain heal yourself for 20% of the damage dealt.",法力値-1、ダメージ値の20%は自身を連鎖治療する,法力值-1，造成的伤害值20%将连锁治疗自身,
+SkillExtended/Ex_Dusk_1_EnforceString, Text,,단일 적,Single-target enemy skill,敵を指すスキル,指向敌人的技能,
+SkillExtended/Ex_Dusk_2_Name, Text,,대상에게 흉터를 3중첩 부여합니다,"Apply 3 stacks of ""Scratch"" to the target.",ターゲット3層にスクラッチを与える,给予目标3层划痕,
+SkillExtended/Ex_Dusk_2_EnforceString, Text,,단일 적,Single-target enemy skill,敵を指すスキル,指向敌人的技能,
+Buff/B_Dusk_1_Name, Text,,공포,Fear,こわがる,恐惧,
+Buff/B_Dusk_2_Name, Text,,부상,Trauma,トラウマ,创伤,
+Buff/B_Dusk_4_Name, Text,,영혼걸음,Marked Steps,刻印の歩み,刻印步伐,
+Buff/B_Dusk_4_Description, Text,,"'영혼의 상처'를 가진 대상에게 명중시 피해량 +30%
+영혼의 진혼곡: '영혼의 상처' 디버프를 가진 대상을 처치할 때 주는 피해가 100%로 증가하며, 모든 적을 공격합니다.","When attacking a ""Marked"" target, deal 30% additional damage.
+Soul Requiem: When killing a ""Marked"" target, increase Pain damage dealt to 100%, and change the follow-up target from ""other enemies"" to ""all enemies"".","ターゲットにヒットした時に30%のダメージを加える
+ソウルレクイエム：刻印目標を撃ち殺した時に与える苦痛ダメージを100%に引き上げ、追撃の目標を「他の敵」から「すべての敵」に変更する。","攻击命中“刻印”目标时附加30%伤害
+刻印安魂曲：击杀刻印目标时造成的痛苦伤害提升至100%，追击的目标从“其他敌人”改为“所有敌人”。",
+Buff/B_Dusk_78_Name, Text,,흉터,Scratch,スクラッチ,划痕,
+Buff/B_Dusk_78_Description, Text,,캐릭터가 치유되면 &a피해를 입습니다.,"When a character heals, they take &a damage.",キャラクタが体力を回復すると、そのキャラクタは&aダメージを受けます。,当一名角色恢复体力时，该角色受到&a伤害。,
+Buff/B_Dusk_P_Name, Text,,영혼의 상처,Mark,刻印,刻印,
+Buff/B_Dusk_P_Description, Text,,"캐릭터가 치유되면 &a피해를 입습니다.
+치명타 회복을 받으면 중첩 +2.
+대상이 죽으면 '영혼의 상처'가 주변의 적에게 감염됩니다.","When a character heals, they take &a damage.
+If healed by a critical heal, gain +2 stacks.
+When this character dies, the ""Mark"" spreads to adjacent enemies (<sprite=1>130%).","キャラクターが体力を回復した時に&aダメージを受ける
+致命的な一撃治療を受けるためには、階数+2
+このキャラクターが死亡すると、刻印が左右の敵に感染する（<sprite=1>130%）","当一名角色恢复体力时，受到&a伤害
+若为受到暴击治疗，则层数+2
+该角色死亡时，刻印将会感染至左右两边的敌人（<sprite=1>130%）",
+Buff/B_Dusk_R2_Name, Text,,절망,Despair,絶望する,绝望,
+Buff/B_Dusk_R2_Description, Text,,사망 시 다른 적에게 최대 체력의 100%의 피해를 입힙니다.,"When dying, deal 100% of max HP as Pain damage to other enemies.",死亡した場合、他の敵に自分の最大生命値100%の苦痛なダメージを与える。,死亡时，对其他敌人造成自身最大生命值100%的痛苦伤害。,
+Character/Dusk_name, Text,,더스크,Dusk,夜,暝,
+Character/Dusk_PassiveName, Text,,영혼의 진혼곡,Soul Requiem,ソウルレクイエム,刻印安魂曲,
+Character/Dusk_PassiveDes, Text,,"전투 시작시 더스크가 적을 대상으로 하는 스킬을 처음 사용할 경우 즉시 적에게 '영혼의 상처' 디버프를 부여합니다.(<sprite=1>130%).
+'영혼의 상처' 디버프를 가진 적이 없을 경우 적을 대상으로 하는 스킬이 이 효과를 다시 발동시킵니다.
+'영혼의 상처' 디버프를 가진 적에게 더스크의 공격 스킬이 적중할 경우 추가로 '영혼의 상처'를 부여합니다(추가 공격으로는 발동하지 않습니다).
+
+'영혼의 상처' 디버프가 4스택이 되면, 다음에 대상을 공격하는 스킬이 다른 적에게 40%의 피해를 입히고 1스택으로 초기화됩니다.
+
+더스트가 '영혼의 상처' 디버프를 가진 대상을 처치하면 다른 적에게 고통 피해(더스트의 ATK의 50%)를 입힙니다.","At the start of battle, Dusk's first single-target enemy skill will immediately apply a ""Mark"" debuff (<sprite=1>130%) to the target.
+If there are no ""Marked"" enemies on the field, Dusk's single-target enemy skills will reapply this effect.
+When Dusk's attack skills hit a ""Marked"" target, increase the ""Mark"" stacks by 1 (cannot trigger follow-up attacks).
+
+When Mark reaches 4 stacks, Dusk's next skill targeting that enemy will deal 40% of the damage to all other enemies, then reset the stacks to 1.
+When Dusk kills a ""Marked"" target, deal 50% of ATK as Pain damage to other enemies.","戦闘開始時に、の最初の敵を指すスキルは、使用時に目標の「刻印」枷を直ちに与える（<sprite=1>130%）
+フィールド上に敵が「刻印」されていない場合、敵を指すスキルはこの効果を与え直します。
+自分の攻撃スキルが刻印目標にリリースされた時、刻印階数＋1（追撃がトリガできない）にする
+
+刻印が4層に達すると、そのターゲットを指す次のスキルが解放されると、フィールド上の他の敵にダメージ量40%でダメージを与えて再び解放され、階数が1層にリセットされます。
+
+自身がターゲットを撃ち殺した時、他の敵に攻撃力50%の苦痛ダメージを与える","战斗开始时，暝的第一个指向敌人的技能在使用时将立即给予目标“刻印”枷锁（<sprite=1>130%）  
+场上没有“刻印”敌人时，暝指向敌人的技能将重新给予该效果。
+自己的攻击技能向刻印目标释放时，使其刻印层数+1（追击无法触发）
+
+当刻印达到4层，暝的下一个指向该名目标的技能在释放时时，将以伤害量40%伤害对场上其他敌人再次释放，然后层数重置为1层。
+
+暝自身击杀刻印目标时，对其他敌人造成攻击力50%的痛苦伤害",
+Character/Dusk_SelectInfo, Text,,"나루터지기.
+
+그녀는 트위스트 랜드의 신비한 조직 출신입니다. 이 조직의 직원들은 낫으로 싸우는 데 능숙합니다.
+
+수사팀은 이 의문의 조직과 어떤 협력관계도 맺지 못했습니다.
+
+더스크에 대해서 말하자면, 그녀는 난장판을 만들기 위해 여기에 온 것입니다.","Apprentice Ferryman.
+
+She comes from a mysterious organization in the Twisted Land, whose members are skilled in fighting with scythes. As a result, the aftermath of their battles often shows widespread destruction.
+
+Rumors say that the Ferrymen's job is to collect overdue souls or renew their contracts by applying special Marks.
+
+The investigation team has not had any cooperative relationship with this mysterious Ferryman organization.
+
+As for Dusk, she's probably here to cause trouble.","渡し人見習い。
+
+彼女はねじれた地の謎の組織から来た。この組織の人は鎌を使って戦うのが得意なので、通常戦闘後の場所には広範囲の破壊の兆候が現れる。
+
+伝聞によると、渡し人の仕事は期限を過ぎた魂を回収したり、特別な刻印をつけて契約を更新することだという。
+
+調査団はこの謎の渡航者組織と協力関係を持っていない。
+
+夜については、彼女は邪魔をしに来たはずだ。","见习摆渡人。
+
+她来自于扭曲之地的一个神秘组织，这个组织的人擅长使用镰刀进行作战，所以通常战斗过后的场地都会出现大范围的破坏迹象。
+
+据传闻，摆渡人的工作是对逾期的灵魂进行回收，或者给他们加上特殊的刻印以续约。
+
+调查团并未与这个神秘的摆渡人组织有过合作关系。
+
+至于暝，她应该是来捣乱的。",
+Character/Dusk_Text_Battle_Idle_0, Text,,서있는건 너무 피곤한데,Standing is so tiring... Can we hurry up?,立っているのは疲れていますね。早くしてもらえますか。,站的好累呀，能快一点吗？,
+Character/Dusk_Text_Battle_Idle_1, Text,,아직 회수해야 할 계약서가 많아요...,There are still so many contracts to collect...,まだ回収されていない契約がたくさんある……,还有好多份契约没回收……,
+Character/Dusk_Text_Battle_ND_0, Text,,아야.,"Ouch, that hurts...",欸が痛くて痛くて……,欸疼疼疼疼……,
+Character/Dusk_Text_Battle_ND_1, Text,,아파요!,"Stop hitting me, it hurts...",欸が痛くて痛くて……,别打啦，好痛……,
+Character/Dusk_Text_Battle_AllyND_0, Text,,조심해요!,Be careful!,気をつけてください。,小心呀！,
+Character/Dusk_Text_Battle_Kill_0, Text,,재계약이 완료되었습니다.,Contract renewed.,契約の更新が完了しました。,续约完成。,
+Character/Dusk_Text_Battle_Kill_1, Text,,재활용이 완료되었습니다.,Collection complete.,契約の更新が完了しました。,回收完成。,
+Character/Dusk_Text_Battle_Start_0, Text,,서둘러요!,Let's finish the job quickly and clock out!,早く仕事を終えて早く退勤しなさい！,快点做完工作快点下班咯！,
+Character/Dusk_Text_Battle_Start_1, Text,,더 이상 게으를 수 없습니다…,No more slacking off...,サボってはいけない・・・,不能摸鱼了……,
+Character/Dusk_Text_Battle_Cri_0, Text,,야~,Hmph~,ふんふん,哼哼~,
+Character/Dusk_Text_Battle_Cri_1, Text,,안녕~하!,Heya!,ふんふん,嘿~呀！,
+Character/Dusk_Text_Battle_Healed_0, Text,,휴…감사합니다!,Whew... thank you.,ふぅ……ありがとう,呼……谢谢你,
+Character/Dusk_Text_Field_Idle_0, Text,,뭘 봐요...제 낫은 길을 여는 데 쓰이지 않아요!,What are you looking at... My scythe isn't for clearing paths!,何を見て……私の鎌は道を開くために持ってきたのではありません！,你看什么……我的镰刀不是拿来开路的！,
+Character/Dusk_Text_Field_Idle_1, Text,,… 길을 열어도 괜찮습니다.,"Fine... I'll clear the path, but you owe me a meal.",わかった……道を開けてもいいから、ご飯をごちそうしてね,好吧……开路也行，要请我吃饭噢,
+Character/Dusk_Text_Field_GetItem_0, Text,,좋아요!?,Is this something good!?,?,是好东西吗！！？,
+Character/Dusk_Text_Field_Potion_P_0, Text,,음~좋은 술이네요,"Mmm~ so tasty, is the second one half-price?",う~ん、美味しい、2杯目は半額ですか?,嗯~好好喝，第二杯半价吗？,
+Character/Dusk_Text_PharosLeader_0, Text,,계약을 갱신할 때입니다!,Time to renew the contract!,契約を更新する時だ！,是时候续约了！,
+Character/Dusk_Text_PharosLeader_1, Text,,미안해요...,Sorry...,すみません……,抱歉……,
+

@@ -1,0 +1,34 @@
+{
+    "S_PLANA_2": {
+        "UseAp": 3,
+        "Target": "enemy",
+        "Particle": "Particle/Debuff",
+        "Effect_Target": "SE_PLANA_2",
+        "Name": "洛希极限",
+        "Description": "若目标当前血量小于其他存活友方HP总和的75%，给予此总和&a的伤害，所有其他存活友方平摊此伤害一半的伤害。\r\n否则改为一半伤害并连锁治疗等同本次伤害数值一半的HP",
+        "SkillExtended": [
+            "PLANA.S_PLANA_2"
+        ],
+        "User": "PLANA",
+        "IgnoreTaunt": true,
+        "NotCount": false,
+        "Image_2": "S_PLANA_2\\S_PLANA_2_Image_2.png",
+        "Image_1": "S_PLANA_2\\S_PLANA_2_Image_1.png",
+        "Image_0": "S_PLANA_2\\S_PLANA_2_Image_0.png",
+        "_gdeSchema": "Skill",
+        "Category": "null",
+        "Rare": false,
+        "NODOD": false,
+        "NotChuck": false,
+        "HealSkill": false,
+        "Disposable": false,
+        "NoDrop": false,
+        "Except": false,
+        "NoBasicSkill": true,
+        "Basic": false,
+        "Track": false,
+        "Fatal": false,
+        "EnemyPreview": false,
+        "UnknownTarget": false
+    }
+}

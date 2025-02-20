@@ -1,0 +1,14 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+B_1_Rare8,Text,,,<color=#7c68a6>Stabilization Field active: Debuff stacks not reduced by attacks or hits.</color>,,<color=#7c68a6>稳定力场生成已启用：此减益层数不会因攻击或受击减少,<color=#7c68a6>穩定力場已生成：此減益的層數不會因攻擊或受擊而減少
+B_1_Rare9,Text,,,<color=#ae8575>“Enemies suppressed! Let’s end this in one push!”</color>,, <color=#ae8575>“敌人已被压制！一鼓作气结束战斗！”,<color=#ae8575>「敵人已被壓制！一鼓作氣結束戰鬥！」
+B_1_RareDouble,Text,,,<color=#ae8575>“Whoa~!”</color>,,<color=#ae8575>“呜哇~！”,<color=#ae8575>「嗚哇～！」
+B_1_none,Text,,,"<color=#7c68a6>Unstable force application, movements distorted.</color>",,<color=#7c68a6> 发力不稳，动作走形。,<color=#7c68a6>發力不穩，動作走形。
+B_2_Rare8,Text,,,"<color=#7c68a6>Chain recovery system active: Chains heal Angelina at turn end, scaling with this investigator’s Healing Power.</color>",,"<color=#7c68a6>链式恢复系统启用：回合结束以安洁莉娜为目标进行连锁治疗,治疗量受此调查员的治疗力影响。",<color=#7c68a6>鏈式恢復系统啟用：回合結束時，基於此單位的治療力，以安潔莉娜為目標進行連鎖治療。
+B_2_Rare9_Pow,Text,,,<color=#ae8575>“Gently! Even Ms. Skadi isn’t this reckless! (>_<)”</color>,,<color=#ae8575>“轻点，斯卡蒂小姐都没有这么乱来!（>_<）”,<color=#ae8575>「輕點，斯卡蒂小姐都沒有這麼亂來！（>_<）”
+B_2_Rare9_none,Text,,,<color=#ae8575>“Adjust a bit—they’ll have trouble hitting you!”</color>,,<color=#ae8575>“适应一下，他们很难打中你！”,<color=#ae8575>「適應一下，他們很難打中你！」
+B_2_RareDouble,Text,,,<color=#ae8575>“This is the fruit of everyone’s efforts!”</color>,,<color=#ae8575>“这是大家一起努力的成果！”,<color=#ae8575>「這是大家一起努力的成果！」
+B_2_none,Text,,,<color=#7c68a6>No special enhancements.</color>,,<color=#7c68a6>无特殊强化,<color=#7c68a6>無特殊強化
+S_Rare8_123,Text,,,“Seems like a miniature version of some megastructure.”,,“似乎是某种巨构的微缩版本。”,「似乎是某種巨構的微縮版本。」
+S_Rare8_456,Text,,,<color=#6832a8>Device available for use!</color>,,<color=#6832a8>可以使用装置！,<color=#6832a8>可以使用裝置！
+,,,,,,,
+

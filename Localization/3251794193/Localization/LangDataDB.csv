@@ -1,0 +1,209 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_SF_Scarecrow_10_1_Description,Text,,,,,,
+Buff/B_SF_Scarecrow_10_1_Name,Text,,,Dancing on the Blade's Edge,,刀尖起舞,刀尖起舞
+Buff/B_SF_Scarecrow_10_Description,Text,,,"Each time you dodge, gain 10% ATK (2 turns).",,每次闪避时，自身攻击力+10%（2回合）。,每次閃避時，自身攻擊力+10%（2回合）。
+Buff/B_SF_Scarecrow_10_Name,Text,,,Dancing on the Blade's Edge,,刀尖起舞,刀尖起舞
+Buff/B_SF_Scarecrow_11_Description,Text,,,"Negates 1 instance of damage.
+While active, reduces &a's maximum [Floating Cannon] stacks by 1.",,"抵挡1次伤害。
+持续期间使&a的【浮游炮】层数上限降低1层。","抵擋1次傷害。
+持續期間使&a的【浮游炮】層數上限降低1層。"
+Buff/B_SF_Scarecrow_11_Name,Text,,,Shadow Predation,,暗影捕食,暗影捕食
+Buff/B_SF_Scarecrow_12_Description,Text,,,[Floating Cannon Shot] gains homing effect.,,【浮游炮射击】附带追踪。,【浮游炮射擊】附帶追蹤。
+Buff/B_SF_Scarecrow_12_Name,Text,,,Floating Cannon Calibration,,浮游炮增幅(校正),浮游炮增幅(校正)
+Buff/B_SF_Scarecrow_2_S_Description,Text,,,"When [Floating Cannon Shot] hits, apply 1 stack of [Curse Bind] (<sprite=0>&a%) to the target.",,【浮游炮射击】命中时给予目标1层【咒缚】(<sprite=0>&a%)。,【浮游炮射擊】命中時給予目標1層【咒縛】(<sprite=0>&a%)。
+Buff/B_SF_Scarecrow_2_S_Name,Text,,,Curse Bind,,浮游炮增幅（咒缚）,浮游炮增幅（咒縛）
+Buff/B_SF_Scarecrow_2_T_Description,Text,,,Consumes 1 stack when taking action.,,行动时消耗1层层数。,行動時消耗1層層數。
+Buff/B_SF_Scarecrow_2_T_Name,Text,,,Curse Bind,,咒缚,咒縛
+Buff/B_SF_Scarecrow_3_S_Description,Text,,,"When [Floating Cannon Shot] hits, inflict [Immobilize] (<sprite=0>&a%).",,【浮游炮射击】命中时给予目标【禁足】(<sprite=0>&a%)。,【浮游炮射擊】命中時給予目標【禁足】(<sprite=0>&a%)。
+Buff/B_SF_Scarecrow_3_S_Name,Text,,,Immobilize,,浮游炮增幅（禁足）,浮游炮增幅（禁足）
+Buff/B_SF_Scarecrow_3_T_Description,Text,,,"While this debuff lasts, maximum simultaneous actions are reduced to 1.
+Duration increases by 1 turn when reapplied. (Max 3 turns)",,"此减益持续期间，最多同时保有1次行动。
+被重复施加时，持续时间增加1回合。(此效果最大增加至3回合)","此減益持續期間，最多同時保有1次行動。
+被重複施加時，持續時間增加1回合。(此效果最大增加至3回合)"
+Buff/B_SF_Scarecrow_3_T_Name,Text,,,Immobilize,,禁足,禁足
+Buff/B_SF_Scarecrow_3_stun_Description,Text,,,This Stun is removed at the start of the player's turn.,,该眩晕会在玩家回合开始时解除。,該眩暈會在玩家回合開始時解除。
+Buff/B_SF_Scarecrow_3_stun_Name,Text,,,Stun,,眩晕,眩暈
+Buff/B_SF_Scarecrow_5_S_Description,Text,,,"When [Floating Cannon Shot] hits, remove 1 stack of non-passive buff from target. If none exist, gain +100% Critical Rate.
+(Does not remove invincibility-granting buffs)",,"【浮游炮射击】命中时随机减少目标1层非被动buff的增益，若没有可解除的增益则暴击率上升100%。
+(不会解除附带无敌效果的buff)","【浮游炮射擊】命中時隨機減少目標1層非被動buff的增益，若沒有可解除的增益則暴擊率上升100%。
+(不會解除附帶無敵效果的buff)"
+Buff/B_SF_Scarecrow_5_S_Name,Text,,,Baptism Protocol,,浮游炮增幅（洗礼）,浮游炮增幅（洗禮）
+Buff/B_SF_Scarecrow_6_Description,Text,,,"Excess [Floating Cannon] stacks are not removed at turn end.
+Add 1 [Floating Cannon Shot] with 20 Standby count each turn.",,"持续期间不会在回合结束时失去超出上限的【浮游炮】。
+每回合额外置入1张倒计时20的【浮游炮射击】。","持續期間不會在回合結束時失去超出上限的【浮游炮】。
+每回合額外置入1張倒計時20的【浮游炮射擊】。"
+Buff/B_SF_Scarecrow_6_Name,Text,,,Battlefield Purge,,战场清洗,戰場清洗
+Buff/B_SF_Scarecrow_7_S_Description,Text,,,[Floating Cannon Shot] deals 50% more damage but has 20% lower Accuracy.,,【浮游炮射击】伤害上升50%，命中降低20%。,【浮游炮射擊】傷害上升50%，命中降低20%。
+Buff/B_SF_Scarecrow_7_S_Name,Text,,,Overload Protocol,,浮游炮增幅（超载）,浮游炮增幅（超載）
+Buff/B_SF_Scarecrow_8_1_Description,Text,,,Triggers 1 [Floating Cannon Shot] volley when using attack skills.,,使用攻击技能时触发1轮【浮游炮射击】。,使用攻擊技能時觸發1輪【浮游炮射擊】。
+Buff/B_SF_Scarecrow_8_1_Name,Text,,,Floating Support,,浮游援护,浮游援護
+Buff/B_SF_Scarecrow_8_Description,Text,,,Return &b [Floating Cannon] stacks after &a turns.,,&a回合后返还&b层浮游炮。,&a回合後返還&b層【浮游炮】。
+Buff/B_SF_Scarecrow_8_Name,Text,,,Floating Cannon Return,,归还浮游炮,歸還浮游炮
+Buff/B_SF_Scarecrow_9_Description,Text,,,"Reduces &a's maximum [Floating Cannon] stacks by 3 while active.
+Upon lethal damage or manual activation:
+Clears all buffs gained during this effect's duration, restores HP to value when this buff was acquired.
+Resets own skills in hand to state when this buff was acquired.
+Buff removal does not trigger on-remove effects.",,"持续期间使&a的【浮游炮】层数上限降低3层。
+受到致死伤害或点击图标触发：
+清除此增益持续期间被施加的buff，将体力值恢复至获得此增益时的数值。
+将手中自己的技能恢复至与获得此增益时相同。
+此效果消除buff时不会触发buff被消除时的效果。","持續期間使&a的【浮游炮】層數上限降低3層。
+受到致死傷害或點擊圖標觸發：
+清除此增益持續期間被施加的buff，將體力值恢復至獲得此增益時的數值。
+將手中自己的技能恢復至與獲得此增益時相同。
+此效果消除buff時不會觸發buff被消除時的效果。"
+Buff/B_SF_Scarecrow_9_Name,Text,,,Holographic Mirage,,全息幻影,全息幻影
+Buff/B_SF_Scarecrow_p_Description,Text,,,"At start of turn and after using &f non-Exclude skills (&e/&f), add 1 [Floating Cannon Shot] with 20 standby count.
+Stacks can exceed maximum but excess is removed at turn end.
+Targeting logic: &a&d",,"每回合开始时，与使用&f个非放逐的技能后(&e/&f)，置入1张倒计时20的【浮游炮射击】。
+此增益层数可以超出上限，超出上限的层数将于回合结束时解除。
+索敌逻辑：&a&d","每回合開始時與使用&f個非放逐的技能後(&e/&f)，置入1張倒計時20的【浮游炮射擊】。
+此增益層數可以超出上限，但回合結束時清除超出上限的層數。
+索敵邏輯：&a&d"
+Buff/B_SF_Scarecrow_p_Name,Text,,,Floating Cannon,,浮游炮,浮游炮
+Character/SF_Scarecrow_CampSelectWord,Text,,,"Scarecrow, operational readiness confirmed. Awaiting orders.",,稻草人，此刻准备就绪，请指示任务。,稻草人，此刻準備就緒，請指示任務。
+Character/SF_Scarecrow_PassiveDes,Text,,,"At battle start, gain 5 [Floating Cannon] stacks.
+Gain 1 [Floating Cannon] stack when using own skills.
+
+At Level 3: Obtain [Targeted Analysis Contract] to replace 1 exclusive skill.
+At Level 5: Obtain 2nd [Targeted Analysis Contract] and equipment [Swarm Tactics].
+
+<color=#919191>-Active from Level 1.</color>",,"战斗开始时，获得5层【浮游炮】。
+使用自己的技能时，获得1层【浮游炮】。
+
+3级时获得道具【定向解析契约】，使用后可替换1个专属技能。
+5级时获得第2张【定向解析契约】与装备【蜂群战术】。
+
+<color=#919191>-此被动从1级开始生效。</color>","戰鬥開始時，獲得5層【浮游炮】。
+使用自己的技能時，獲得1層【浮游炮】。
+
+3級時獲得道具【定向解析契約】，使用後可替換1個專屬技能。
+5級時獲得獲得第2張【定向解析契約】與裝備【蜂羣戰術】。
+
+<color=#919191>-此被動從1級開始生效。</color>"
+Character/SF_Scarecrow_PassiveName,Text,,,Sangvis Tactics: Scarecrow,,铁血战术·稻草人,鐵血戰術·稻草人
+Character/SF_Scarecrow_SelectInfo,Text,,,"Pioneer Reconnaissance Doll, Model SP65
+
+Adept at collection and analyzing information but not in straight-up combat. She is somewhat low-ranked among the Sangvis Ferri dolls. Rational, quiet and venom-tongued, she is committed to carrying out her duties and disdainful of sentimentality. She feels superior to Griffin dolls, who she feels are rich in emotion, but only know how to obey orders.
+
+Excels at controlling Floating Cannons to suppress enemies or support allies.",,"稻草人是铁血工造的头目单位。擅长收集和分析情报，并不擅长正面作战，在铁血人形中地位较低。理性派，无口毒舌，忠于职守，鄙夷感性。
+
+擅长操控大量浮游炮对敌人进行压制或对友军进行支援。","稻草人是鐵血工造的頭目單位。擅長收集和分析情報，並不擅長正面作戰，在鐵血人形中地位較低。理性派，無口毒舌，忠於職守，鄙夷感性。
+
+擅長操控大量浮游炮對敵人進行壓制或對友軍進行支援。"
+Character/SF_Scarecrow_Text_Battle_AllyND_0,Text,,,T_scr_3_3: Calculated resistance. Futile.,,T_scr_3_3:计算之中的反抗，没用的。,T_scr_3_3:計算之中的反抗，沒用的。
+Character/SF_Scarecrow_Text_Battle_Cri_0,Text,,,T_scr_6_1: Heh...,,T_scr_6_1:呵呵···,T_scr_6_1:呵呵···
+Character/SF_Scarecrow_Text_Battle_Cri_1,Text,,,T_scr_6_2: Your victory probability remains zero.,,T_scr_6_2:你们的胜算，不过是零。,T_scr_6_2:你們的勝算，不過是零。
+Character/SF_Scarecrow_Text_Battle_Cri_2,Text,,,T_scr_6_3: Too many openings.,,T_scr_6_3:破绽太多了。,T_scr_6_3:破綻太多了。
+Character/SF_Scarecrow_Text_Battle_Healed_0,Text,,,T_scr_7_1: Acknowledged.,,T_scr_7_1:多谢。,T_scr_7_1:多謝。
+Character/SF_Scarecrow_Text_Battle_Healed_1,Text,,,T_scr_7_2: Adequate.,,T_scr_7_2:不错嘛。,T_scr_7_2:不錯嘛。
+Character/SF_Scarecrow_Text_Battle_Idle_0,Text,,,T_scr_1_1: You forgot something. Require reminder?,,T_scr_1_1:你忘了什么吧？需要我提醒一下吗？,T_scr_1_1:你忘了什麼吧？需要我提醒一下嗎？
+Character/SF_Scarecrow_Text_Battle_Idle_1,Text,,,T_scr_1_2: Scarecrow standing by. Awaiting orders.,,T_scr_1_2:稻草人，已做好准备，请给指示。,T_scr_1_2:稻草人，已做好準備，請給指示。
+Character/SF_Scarecrow_Text_Battle_Kill_0,Text,,,T_scr_5_1: Predicted outcome.,,T_scr_5_1:意料之中的结局。,T_scr_5_1:意料之中的結局。
+Character/SF_Scarecrow_Text_Battle_Kill_1,Text,,,T_scr_5_2: As I foretold - this was your only possible result.,,T_scr_5_2:我早就说过，你们只能得到这种结果。,T_scr_5_2:我早就說過，你們只能得到這種結果。
+Character/SF_Scarecrow_Text_Battle_ND_0,Text,,,T_scr_2_1: Error source... unknown...,,T_scr_2_1:究竟是哪里···出了错···,T_scr_2_1:究竟是哪裏···出了錯···
+Character/SF_Scarecrow_Text_Battle_ND_1,Text,,,T_scr_2_2: My... miscalculation...,,T_scr_2_2:是我的··失误吧···,T_scr_2_2:是我的··失誤吧···
+Character/SF_Scarecrow_Text_Battle_ND_2,Text,,,T_scr_2_3: Strategic failure... unacceptable...,,T_scr_2_3:失策了···好不甘心···,T_scr_2_3:失策了···好不甘心···
+Character/SF_Scarecrow_Text_Battle_Start_0,Text,,,T_scr_4_1: First meeting. Prepare for termination.,,T_scr_4_1:初次见面，请去死吧。,T_scr_4_1:初次見面，請去死吧。
+Character/SF_Scarecrow_Text_Battle_Start_1,Text,,,T_scr_4_2: Commencing predation.,,T_scr_4_2:猎食，开始。,T_scr_4_2:獵食，開始。
+Character/SF_Scarecrow_Text_Battle_Start_2,Text,,,T_scr_4_3: Annihilation protocol initiated.,,T_scr_4_3:歼灭作战，现在开始。,T_scr_4_3:殲滅作戰，現在開始。
+Character/SF_Scarecrow_Text_Field_GetItem_0,Text,,,T_scr_9_1: Objectively... satisfactory.,,T_scr_9_1:客观上……我很满意。,T_scr_9_1:客觀上……我很滿意。
+Character/SF_Scarecrow_Text_Field_GetItem_1,Text,,,T_scr_9_2: Combat efficiency increased.,,T_scr_9_2:我的作战效能更高了。,T_scr_9_2:我的作戰效能更高了。
+Character/SF_Scarecrow_Text_Field_Idle_0,Text,,,T_scr_8_1: Pre-battle deployment complete.,,T_scr_8_1:战前布局的工作已完成。,T_scr_8_1:戰前佈局的工作已完成。
+Character/SF_Scarecrow_Text_Field_Potion_P_0,Text,,,T_scr_10_1: Huh...,,T_scr_10_1:诶···,T_scr_10_1:誒···
+Character/SF_Scarecrow_Text_PharosLeader_0,Text,,,T_scr_11_1: Confirmed. Executing.,,T_scr_11_1:收到，立即执行。,T_scr_11_1:收到，立即執行。
+Character/SF_Scarecrow_Text_PharosLeader_1,Text,,,T_scr_11_2: Optimal conditions for analysis.,,T_scr_11_2:可以安静地思考了。,T_scr_11_2:可以安靜地思考了。
+Character/SF_Scarecrow_Text_PharosLeader_2,Text,,,T_scr_11_3: New orders received?,,T_scr_11_3:哦？有新的命令？,T_scr_11_3:哦？有新的命令？
+Character/SF_Scarecrow_UnlockString,Text,,,,,,
+Character/SF_Scarecrow_name,Text,,,Scarecrow,,稻草人,稻草人
+Item_Consume/Item_SF_1_Description,Text,,,"Forget an exclusive skill, then select a new one from all exclusive skills.",,遗忘一个专属技能，然后从所有专属技能中选择一个学习。,遺忘一個專屬技能，然後從所有專屬技能中選擇一個學習。
+Item_Consume/Item_SF_1_name,Text,,,Targeted Analysis Contract,,定向解析契约,定向解析契約
+Item_Equip/E_SF_Scarecrow_0_Description,Text,,,"When exceeding [Floating Cannon] stack limit at turn end, lose only half the excess stacks.
+(Minimum 1 stack)
+<color=red>Scarecrow exclusive</color>",,"回合结束时若自身【浮游炮】的层数超出上限，仅失去一半超出上限的层数。
+(至少1层)
+<color=red>仅限稻草人佩戴</color>","回合結束時若自身【浮游炮】的層數超出上限，僅失去一半超出上限的層數。
+(至少1層)
+<color=red>僅限稻草人佩戴</color>"
+Item_Equip/E_SF_Scarecrow_0_name,Text,,,Swarm Tactics,,蜂群战术,蜂羣戰術
+Skill/S_SF_Scarecrow_0_1_Description,Text,,,,,,
+Skill/S_SF_Scarecrow_0_1_Name,Text,,,Shoot,,射击,射擊
+Skill/S_SF_Scarecrow_0_Description,Text,,,"Click to activate immediately.
+Attacks multiple times based on [Floating Cannon] stacks (counts as follow-up attack).
+Cancels if no [Floating Cannon] stacks.",,"点击技能可立刻释放。
+根据自身【浮游炮】层数多次攻击（视为追加攻击）。
+自身没有【浮游炮】时取消释放。","點擊技能可立刻釋放。
+根據自身【浮游炮】層數多次攻擊（視爲追加攻擊）。
+自身沒有【浮游炮】時取消釋放。"
+Skill/S_SF_Scarecrow_0_Name,Text,,,Floating Cannon Shot,,浮游炮射击,浮游炮射擊
+Skill/S_SF_Scarecrow_10_Description,Text,,,,,,
+Skill/S_SF_Scarecrow_10_Name,Text,,,Dancing on the Blade's Edge,,刀尖起舞,刀尖起舞
+Skill/S_SF_Scarecrow_11_Description,Text,,,,,,
+Skill/S_SF_Scarecrow_11_Name,Text,,,Shadow Predation,,暗影捕食,暗影捕食
+Skill/S_SF_Scarecrow_12_Description,Text,,,,,,
+Skill/S_SF_Scarecrow_12_Name,Text,,,Floating Cannon Calibration,,浮游炮校正,浮游炮校正
+Skill/S_SF_Scarecrow_13_LucyDraw_Description,Text,,,"Prioritize drawing 2 target skills.
+Inflict +1 Overload on target. Reduce cost of target's skills in hand by 1.",,"优先抽取2个目标的技能。
+使目标过载+1，手中目标的技能减少1点。","優先抽取2個目標的技能。
+使目標過載+1，手中目標的技能費用減少1點。"
+Skill/S_SF_Scarecrow_13_LucyDraw_Name,Text,,,Maintenance,,保养,保養
+Skill/S_SF_Scarecrow_1_0_Description,Text,,,Attack random enemy,,攻击随机敌人,攻擊隨機敵人
+Skill/S_SF_Scarecrow_1_0_Name,Text,,,Free Strike,,自由攻击,自由攻擊
+Skill/S_SF_Scarecrow_1_1_Description,Text,,,Attack last targeted enemy,,攻击最后攻击的敌人,攻擊最後攻擊的敵人
+Skill/S_SF_Scarecrow_1_1_Name,Text,,,Focused Assault,,集中攻击,集中攻擊
+Skill/S_SF_Scarecrow_1_2_Description,Text,,,Attack enemy with lowest HP,,攻击生命值最低的敌人,攻擊體力值最低的敵人
+Skill/S_SF_Scarecrow_1_2_Name,Text,,,Weakpoint Breach,,弱点击破,弱點擊破
+Skill/S_SF_Scarecrow_1_3_Description,Text,,,Attack least recently targeted enemy,,攻击近期未攻击的敌人,攻擊近期未攻擊的敵人
+Skill/S_SF_Scarecrow_1_3_Name,Text,,,Scattered Fire,,分散攻击,分散攻擊
+Skill/S_SF_Scarecrow_1_Description,Text,,,Select and change [Floating Cannon] targeting logic.,,选择并切换自身【浮游炮】的索敌逻辑。,選擇並切換自身【浮游炮】的索敵邏輯。
+Skill/S_SF_Scarecrow_1_Name,Text,,,Command,,指挥,指揮
+Skill/S_SF_Scarecrow_2_Description,Text,,,"This turn, Floating Cannons prioritize attacking least recently targeted enemies.",,本回合浮游炮将优先攻击最近未攻击的敌人。,本回合浮游炮將優先攻擊最近未攻擊的敵人。
+Skill/S_SF_Scarecrow_2_Name,Text,,,Curse Bind,,咒缚,咒縛
+Skill/S_SF_Scarecrow_3_Description,Text,,,"This turn, Floating Cannons prioritize attacking least recently targeted enemies.",,本回合浮游炮将优先攻击最近未攻击的敌人。,本回合浮游炮將優先攻擊最近未攻擊的敵人。
+Skill/S_SF_Scarecrow_3_Name,Text,,,Wing-Clip,,折翼缚足,折翼縛足
+Skill/S_SF_Scarecrow_4_Description,Text,,,"Immediately trigger 1 [Floating Cannon Shot] volley.
+This turn, Floating Cannons prioritize attacking last targeted enemy.",,"立刻触发1轮【浮游炮射击】。
+本回合浮游炮优先攻击最后攻击的敌人。","立刻觸發1輪【浮游炮射擊】。
+本回合浮游炮優先攻擊最後攻擊的敵人。"
+Skill/S_SF_Scarecrow_4_Name,Text,,,Rotating Assault,,转轮强袭,轉輪強襲
+Skill/S_SF_Scarecrow_5_Description,Text,,,,,,
+Skill/S_SF_Scarecrow_5_Name,Text,,,Bloodrain Baptism,,血雨洗礼,血雨洗禮
+Skill/S_SF_Scarecrow_6_Description,Text,,,Floating Cannons attack lowest HP enemies for 2 turns.,,2回合内浮游炮将攻击生命值最低的敌人。,2回合内浮游炮將攻擊體力值最低的敵人。
+Skill/S_SF_Scarecrow_6_Name,Text,,,Battlefield Purge,,战场清洗,戰場清洗
+Skill/S_SF_Scarecrow_7_Description,Text,,,Floating Cannons attack random enemies.,,浮游炮将攻击随机敌人。,浮游炮將攻擊隨機敵人。
+Skill/S_SF_Scarecrow_7_Name,Text,,,Floating Cannon Overload,,浮游炮超载,浮游炮超載
+Skill/S_SF_Scarecrow_8_Description,Text,,,Transfer 3 [Floating Cannon] stacks to target. Return after 1 turn.,,将3层【浮游炮】转移给目标，1回合后返还。,將3層【浮游炮】轉移給目標，1回合後返還。
+Skill/S_SF_Scarecrow_8_Name,Text,,,Floating Cannon Support,,浮游炮支援,浮游炮支援
+Skill/S_SF_Scarecrow_9_1_Description,Text,,,Visual effect only,,仅使用特效,僅使用特效
+Skill/S_SF_Scarecrow_9_1_Name,Text,,,,,,
+Skill/S_SF_Scarecrow_9_Description,Text,,,,,,
+Skill/S_SF_Scarecrow_9_Name,Text,,,Phantom Puppet,,幻影傀儡,幻影傀儡
+SkillExtended/EX_SF_Scarecrow_2_Des,Text,,,,, ,
+SkillExtended/EX_SF_Scarecrow_2_EnforceString,Text,,,,,,
+SkillExtended/EX_SF_Scarecrow_2_Name,Text,,,Curse Bind,,咒缚,咒縛
+SkillExtended/EX_SF_Scarecrow_3_Des,Text,,,,,,
+SkillExtended/EX_SF_Scarecrow_3_EnforceString,Text,,,,,,
+SkillExtended/EX_SF_Scarecrow_3_Name,Text,,,Immobilize,,禁足,禁足
+SkillExtended/EX_SF_Scarecrow_5_1_Des,Text,,,,, ,
+SkillExtended/EX_SF_Scarecrow_5_1_EnforceString,Text,,,,,,
+SkillExtended/EX_SF_Scarecrow_5_1_Name,Text,,,Baptism,,洗礼,洗禮
+SkillExtended/EX_SF_Scarecrow_5_2_Des,Text,,,,, ,
+SkillExtended/EX_SF_Scarecrow_5_2_EnforceString,Text,,,,,,
+SkillExtended/EX_SF_Scarecrow_5_2_Name,Text,,,Baptism,,洗礼,洗禮
+SkillExtended/SkillEn_SF_Scarecrow_0_Des,Text,,,,,,
+SkillExtended/SkillEn_SF_Scarecrow_0_EnforceString,Text,,,Skills targeting single ally,,指向单个友军的技能,指向單個友軍的技能
+SkillExtended/SkillEn_SF_Scarecrow_0_Name,Text,,,Apply 1 stack of [Shadow Predation] to target (source counts as Scarecrow).,,给目标施加1层【暗影捕食】（来源视为稻草人）。,給目標施加1層【暗影捕食】（來源視爲稻草人）。
+SkillExtended/SkillEn_SF_Scarecrow_1_Des,Text,,,,,,
+SkillExtended/SkillEn_SF_Scarecrow_1_EnforceString,Text,,,Skills targeting enemies,,指向敌人的技能,指向敵人的技能
+SkillExtended/SkillEn_SF_Scarecrow_1_Name,Text,,,"Cost +1.
+Immediately trigger 1 [Floating Cannon Shot] volley.
+When targeting single enemy, volley focuses on that enemy.",,"费用增加1点。
+立即触发1轮【浮游炮射击】。
+目标为单个敌人时，触发的【浮游炮射击】会以此敌人为目标。","費用增加1點。
+立即觸發1輪【浮游炮射擊】。
+目標爲單個敵人時，觸發的【浮游炮射擊】會以此敵人爲目標。"
+SkillKeyword/KeyWord_SF_0_Desc,Text,,,Select a skill to forget,,选择一个技能遗忘,選擇一個技能遺忘
+SkillKeyword/KeyWord_SF_0_Name,Text,,,,,,
+SkillKeyword/KeyWord_SF_Scarecrow_p_1_Desc,Text,,,Turn,,回合,回合
+SkillKeyword/KeyWord_SF_Scarecrow_p_1_Name,Text,,,,,,
+

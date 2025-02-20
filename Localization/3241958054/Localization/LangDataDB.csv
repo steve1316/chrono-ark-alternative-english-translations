@@ -1,0 +1,83 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Noa_1_Description,Text,,"스킬을 수중에서 방출할 때, 이 스킬을 복제하는 이득은 이 역할 ('서기의 결단'제외) 에 가한 후 한 층 감소한다.","When releasing a skill from hand, copies the debuff of that skill and applies it to the target (excluding ""Secretary's Verdict""), then reduces the stack by 1.",手からスキルを解放すると、そのスキルの減益をコピーしてその役割（『書記の採決』を除く）に加え、1つ減らします。,从手中释放技能时，复制该技能的减益施加到该角色（‘书记的表决’除外），然后减少一层。,
+Buff/B_Noa_1_Name,Text,,서기의 결단,Secretary's Verdict,書記の採決,书记的表决,
+Buff/B_Noa_2_Name,Text,,허점 발견!,Full of Weaknesses!,隙だらけですよ！,破绽百出呢！,
+Buff/B_Noa_3_Name,Text,,서기의 여유,Secretary's Composure,書記の余裕,书记的余裕,
+Buff/B_Noa_4_Description,Text,,목표에게 부여된 해로운 효과 시간을 1 라운드 연장합니다.,Extends the duration of debuffs applied to the target by 1 round.,目標に与えた減益効果時間を1ラウンド延長する。,给予目标的减益效果时间延长一回合。,
+Buff/B_Noa_4_Name,Text,,서기의 고집,Secretary's Obsession,書記のこだわり,书记的讲究,
+Buff/B_Noa_5_Description,Text,,행동할 수 없습니다.피해를 받으면 해제됩니다.,Cannot act. Effect is removed when taking damage.,行動できない。ダメージを受けると解除される。,"无法行动,受到伤害时解除",
+Buff/B_Noa_5_Name,Text,,시집,Poetry Collection,詩集,诗集,
+Buff/B_Noa_5_T_Description,Text,,치명타 시 해제,Effect is removed when taking a critical hit.,致命的な一撃を受けた時に解除する,受到暴击时解除,
+Buff/B_Noa_5_T_Name,Text,,가장 효과적인 불면증 치료법,The Most Effective Insomnia Cure,最も効果的な不眠症治療法,最有效的失眠治疗方法,
+Buff/B_Noa_6_Description,Text,,"살해당했을 때, 카드 창고나 버려진 카드 창고에서 취약점 레코드"" 을 추출한다.이 방법으로 추출한 스킬은 이 캐릭터가 처치 당할 때의 모든 약화 이득을 포함합니다.""","When defeated, draws a ""Weakness Record"" from the deck or discard pile. The drawn skill includes all debuffs the target had when defeated.",撃ち殺された場合、牌庫または捨て牌庫から「弱点記録」を抽出する。この方法で抽出されたスキルには、このキャラクターが撃ち殺されたときのすべての弱体化減益が付属しています。,被击杀时，从牌库或弃牌库抽取一个“弱点记录”。以此方法抽取的技能附带此目标被击杀时的所有弱化减益。,
+Buff/B_Noa_6_Name,Text,,취약점 레코드,Weakness Record,弱点記録,弱点记录,
+Buff/B_Noa_7_Name,Text,,합리와 이성,Rationality and Reason,合理性と理性,合理与理性,
+Buff/B_Noa_P_Name,Text,,기록 중,Recording,記録中,记录中,
+Buff/B_Noa_R1_Description,Text,,"도발과 관계없이 대상으로 지정 할 수 있습니다.
+이 해로운 방어력 감소량은 시전자 최대 체력치의 값을 증가시킵니다.",Can be targeted regardless of taunt. The defense reduction is increased by the caster's max HP value.,"挑発を無視してターゲットに指定できる。
+減益防御力減少量は、印加者の最大体力値の値を増加させる。","可以被无视嘲讽指向为攻击目标。
+此防御力减少量额外计入最大体力值的值。",
+Buff/B_Noa_R1_Name,Text,,집중 공격,Focused Fire,フォーカス火力,集中炮火状态,
+Buff/B_Noa_R1_S_Name,Text,,집중 공격,Focused Fire,フォーカス火力,集中炮火状态,
+Buff/B_Noa_R2_Description,Text,,"피격 시 보유한 이득은 모두 동일한 랜덤 목표에게 이전되며, 이전된 이득은 저항할 수 없습니다.","When defeated, all debuffs are transferred to a random target. Transferred debuffs cannot be resisted.",撃ち殺された場合、所有する減益はすべて同じランダムターゲットに移行し、移行する減益は抵抗できない。,被击杀时，拥有的减益将全部转移至同一个随机目标，转移的减益无法抵抗。,
+Buff/B_Noa_R2_Name,Text,,키보토스의 우울,Kivotos' Melancholy,キボトスの憂鬱,基沃托斯的忧郁,
+Buff/B_Noa_Stage_Name,Text,,장소 적응성,Terrain Affinity,サイト適性,场地适应性,
+Buff/B_yuuka_Y_Name,Text,,벙커,Cover,マスキング,掩体,
+Character/Noa_CampSelectWord,Text,,"합리와 이성의 세계로, 저와 함께 떠나보시겠어요?",Would you like to join me in the world of rationality and reason?,私と一緒に理性と理性の世界に行きますか？,要和我一起前往，合理与理性的世界吗？,
+Character/Noa_PassiveDes,Text,,"노아의 약화 해로운 성공률은 최대 체력치의 값을 추가로 증가시킨다.
+자신 최대 체력치 15 포인트당 목표의 약화 해로운 효과에 시간을 1 라운드 연장.
+
+노아가 적에게 약화 감익을 가하면 벙커, 벙커 입장 시 기록 중 이득을 획득:
+
+기록 중 의 이득과 동시에 약화된 이득을 가진 목표가 처치되었을 때 고정 능력을 갱신하고  동시에 신속과 기본기를 첨부한다.
+
+장소 적응성:S~C","Noa's debuff success rate is increased by her max HP value. For every 15 points of max HP, the duration of debuffs applied to the target is extended by 1 round.
+
+When Noa applies a debuff to an enemy, she enters cover and gains the ""Recording"" buff:
+While under the ""Recording"" buff, if a target with a debuff is defeated, refreshes fixed abilities and grants Haste and Basic Skills.
+
+Terrain Affinity: S~C","ノアの弱体化の減益成功率は最大体力値の値をさらに増やす。
+自身が15ポイントの最大体力値を持つごとに、目標に与えた弱体化の減益効果時間が1ターン延長される。
+
+ノアが敵に弱体化の減益を加えるとマスクに入り、マスクに入ると「記録中」のゲインを得る：
+「記録中」のゲインとともに、弱体化した減益を持つターゲットが撃ち殺された場合、、固定能力を更新し、同時に迅速と基本的な仕事を付属する。
+
+サイト適性:S~C","诺亚的弱化减益成功率额外增加最大体力值的值。
+自身每有15点最大体力值，给予目标的弱化减益效果时间延长一回合。
+
+一回合一次，诺亚向敌人施加弱化减益时将进入掩体，进入掩体时获得“记录中”增益：
+处于“记录中”增益的同时，拥有弱化减益的目标被击杀时，刷新固定能力。同时附带迅速与基本功。
+
+场地适应性：S~C",
+Character/Noa_PassiveName,Text,,키보토스의 우울,Kivotos' Melancholy,キボトスの憂鬱,基沃托斯的忧郁,
+Character/Noa_SelectInfo,Text,,"밀레니엄 사이언스 스쿨의 학생회인 세미나의 서기.비상한 암기력의 소유자로 세미나의 결정 사항이나 회의 내용 기록 등을 한 번 보면 잊지 않는다고 한다.
+또한 발명품의 청사진만 보고도 작동 원리를 파악하고 실제 가동 여부를 머리속에서 시뮬레이팅할 수 있다.","Noa, the secretary of the Millennium Science School's student council, Seminar.
+Known for her exceptional memory, she never forgets the decisions or meeting minutes of Seminar once she sees them.
+She can also understand the working principles of inventions just by looking at their blueprints and simulate their operation in her mind.","ミレニアムサイエンススクール所属、生徒会「セミナー」の書記。
+主にセミナーの決定事項や会議内容を記録しており、ミレニアムの生徒が開発した製品の特許を鑑別・登録する弁理士の業務も担当している。
+非常に優れた記憶力の持ち主で、一度見聞きした内容はほぼ完璧に暗記できるのだとか。","千年科学学园所属，学生会「研讨会」的书记。
+主要负责记录研讨会的决定事项和会议内容，以及千年的学生开发的制品的特别许可的鉴别和注册专利的业务。
+拥有非常优秀的记忆力，见过听过一次的内容基本能完整默记下来。",
+Character/Noa_name,Text,,노아,Noa,ノア,诺亚,
+Character_Skin/noaskin1_SkinDesc,Text,,,"As the secretary of the Millennium Seminar, Noa changes into her pajamas to enjoy a peaceful rest. She quietly observes the commotion caused by her adorable juniors and her honest colleagues due to various misunderstandings. Of course, smiling and taking notes are also essential.",,千年科学学园所属，为了享受安稳的休息而换上睡衣的研讨会的书记。她一直默默地注视着自己可爱的后辈与自己老实的同事因为各类误会而引发骚动的样子。当然，微笑和记录也是必不可少的。,
+Character_Skin/noaskin1_SkinName,Text,,,Noa (Pajamas),,诺亚（睡衣）,
+Skill/S_Noa_1_Name,Text,,서기의 결단,Secretary's Verdict,書記の採決,书记的表决,
+Skill/S_Noa_2_Name,Text,,허점 발견!,Full of Weaknesses!,隙だらけですよ！,破绽百出呢！,
+Skill/S_Noa_3_Description,Text,,마스크 사용.,Uses cover.,カバーを使用します。,进入掩体。,
+Skill/S_Noa_3_Name,Text,,서기의 여유,Secretary's Composure,書記の余裕,书记的余裕,
+Skill/S_Noa_4_Description,Text,,선택한 대상의 스킬을 우선으로 스킬을 3장 뽑습니다.,Prioritizes drawing 1 skill from the selected target.,ターゲットのスキルを優先して1個のスキルを引く。,优先抽取目标角色的1个技能。,
+Skill/S_Noa_4_Name,Text,,서기의 고집,Secretary's Obsession,書記のこだわり,书记的讲究,
+Skill/S_Noa_5_Name,Text,,《추억시집》.,"""Poetry of Memories""",『思い出詩集』,《回忆诗集》,
+Skill/S_Noa_6_Name,Text,,취약점 레코드,Weakness Record,弱点記録,弱点记录,
+Skill/S_Noa_7_Name,Text,,합리와 이성,Rationality and Reason,合理性と理性,合理与理性,
+Skill/S_Noa_8_Description,Text,,대상이 보유한 약화 해로운 수에 따라 각 10% 추가 데미지를 입힙니다.,Deals additional damage equal to 10% for each debuff the target has.,ターゲットが持つ弱体化した減益数に応じて、それぞれ10%の追加ダメージを与える。,根据目标拥有的弱化减益数，每个额外造成10%的伤害。,
+Skill/S_Noa_8_Name,Text,,정리 시작,Start Organizing,整理を始める,开始整理,
+Skill/S_Noa_R1_Name,Text,,기록의 생명은 속도랍니다,The Speed of Records is Life,記録はスピードが命ですから,记录的速度就是生命,
+Skill/S_Noa_R2_Description,Text,,"대상이 가지고 있는 약화 이득은 무한 라운드로 재설정됩니다.
+<color=#808080>Qui aimes-tu le mieux, homme énigmatique, dis? </color>","Resets the target's debuffs to infinite rounds.
+<color=#808080>Qui aimes-tu le mieux, homme énigmatique, dis? </color>","ターゲット所有の弱体化された減益は、無限ラウンドにリセットされます。
+<color=#808080>Qui aimes-tu le mieux, homme énigmatique, dis? </color>","目标拥有的弱化减益将重置为无限回合。
+<color=#808080>Qui aimes-tu le mieux, homme énigmatique, dis? </color>",
+Skill/S_Noa_R2_Name,Text,,키보토스의 우울,Kivotos' Melancholy,キボトスの憂鬱,基沃托斯的忧郁,
+,,,,,,,
+

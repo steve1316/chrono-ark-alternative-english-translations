@@ -1,0 +1,1940 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/Assassin_P_0_Description,Text,,,"When dealing damage, &a% chance to inflict Instant Death.",,造成伤害时，&a%使其即死,
+Buff/Assassin_P_0_Name,Text,,,At the Boundary's Edge,,立于境界,
+Buff/Assassin_P_B_Description,Text,,,"Instant Death rate +&a%
+
+<color=#808080>Hearken! The evening bell tolls thy name.</color>",,"即死率+&a%
+
+<color=#808080>倾听吧！晚钟已揭晓汝之名讳！</color>",
+Buff/Assassin_P_B_Name,Text,,,<color=#696969>Evening Bell</color>,,<color=#696969>晚钟</color>,
+Buff/Assassin_daogao2_Description,Text,,,"Each turn, draw 1 additional skill and gain 1 Mana.",,"每回合额外抽取1个技能、获得1点法力值
+",
+Buff/Assassin_daogao2_Name,Text,,,Prayer,,祷告,
+Buff/Assassin_daogao_Description,Text,,,"Each turn, draw 1 additional skill and gain 1 Mana. 
+Removed when taking damage.",,"每回合额外抽取1个技能、获得1点法力值
+受到伤害时解除",
+Buff/Assassin_daogao_Name,Text,,,Prayer,,祷告,
+Buff/Assassin_kuwei_B_Description,Text,,,"When taking damage, this debuff increases the damage taken by 20%.",,受到伤害时这个减益的伤害将提升那次伤害的20%,
+Buff/Assassin_kuwei_B_Name,Text,,,Wither,,枯萎,
+Buff/Assassin_shanbi_B_Description,Text,,,Removed after dodging an attack.,,闪避一次攻击后解除,
+Buff/Assassin_shanbi_B_Name,Text,,,Focus,,专注,
+Buff/Assassin_siwang_Description,Text,,,"When the effect ends, the target dies. Deals 10% of the target's max HP as damage to Bosses. Ineffective against certain special enemies.",,效果结束时使其死亡，对Boss则造成其10%最大生命值的伤害，对部分特殊敌人无效,
+Buff/Assassin_siwang_Name,Text,,,Death Sentence,,死亡宣判,
+Buff/Assassin_sizhiyuan_B_Description,Text,,,Refuses 1 death and restores HP to &a.,,拒绝1次死亡并回复至&a点生命值,
+Buff/Assassin_sizhiyuan_B_Name,Text,,,Death's Abyss,,死之渊,
+Buff/Assassin_xuanpan2_Description,Text,,,,,,
+Buff/Assassin_xuanpan2_Name,Text,,,Judgment,,宣判,
+Buff/Assassin_xuanpan_Description,Text,,,Removed when taking damage.,,受到伤害时解除,
+Buff/Assassin_xuanpan_Name,Text,,,Judgment,,宣判,
+Buff/Assassin_zheduan_Description,Text,,,Next damage dealt is guaranteed to be a Critical Hit.,,下次造成伤害必定暴击,
+Buff/Assassin_zheduan_Name,Text,,,<color=#483D8B>Presence Concealment</color>,,<color=#483D8B>气息遮断</color>,
+Buff/Berserker_P_0_Description,Text,,,Refuses 1 death and removes 1 random debuff.,,拒绝一次死亡并清除自身随机一个减益,
+Buff/Berserker_P_0_Name,Text,,,Twelve Labors,,十二试炼,
+Buff/Berserker_Protection_B_Description,Text,,,"&a takes the attack instead. 
+Grants &a's Defense and Healing Gauge protection effects.
+
+<color=#808080>At ease—no other feelings remain. This broad back before me is like a city wall... no, it's even sturdier. Truly, this is 
+the most reassuring ""fortress"" here.</color>",,"由&a代替承受攻击。
+同时获得&a的防御力和体力极限保护效果。
+
+<color=#808080>安心，除此之外便没有其他的感受，眼前的这道宽厚的脊背，就如同城墙......不，该是比城墙还要厚重。这真真是此间最令人安心的“高墙”</color>",
+Buff/Berserker_Protection_B_Name,Text,,,"Behind the ""Fortress""",,“高墙”之后,
+Buff/Berserker_bilei_B_Description,Text,,,"Cannot act while active. When taking damage, deals 50% of the damage taken back to the attacker.
+
+<color=#808080>His gray muscles are like steel, his towering frame more imposing than a lion's. A mobile iron fortress, rising again and 
+again—truly, Berserker is the strongest. You are the shield the maiden relies on, your back sturdier than Einzbern's walls. The reason you surpassed myth wasn't a Command Spell—it was the gentleness known as Berserker.</color>",,"持续时间内自身不能行动
+受到敌方伤害时，使攻击来源受到此伤害50%的伤害
+
+<color=#808080>灰色的肌肉如同钢铁，高大的身躯的魁梧胜过狮子，如果站立不动，被当成墙壁或柱子也是理所当然吧。
+然而，奔驰起来又如风一样迅速，挥动石斧的样子完全不像失去了理性。灵活机动的钢铁城塞，即使拼命击倒也会一次次站起来的身姿，果然，Berserker是最强的呢。
+你是少女唯一可以依赖的盾，是包裹孤独与脆弱的厚厚的茧。你的背后，比爱因兹贝伦城的城墙更加坚固。
+在暴风雨中把身体化为避难所，最终连神话都超越的原因，并非令咒。我想，那一定就是，名为Berserker的温柔。</color>",
+Buff/Berserker_bilei_B_Name,Text,,,<color=#FFFAFA>Snow-Covered Wall</color>,,<color=#FFFAFA>雪城之壁</color>,
+Buff/Berserker_duangu_B1_Description,Text,,,"Each action taken deals 5 <sprite=1> Pain damage.
+
+<color=#808080>Being struck head-on by such force, being shattered is expected.</color>",,"每次行动受到5点痛苦<sprite=1>伤害
+
+<color=#808080>被如此的伟力正面命中，粉身碎骨算是正常</color>",
+Buff/Berserker_duangu_B1_Name,Text,,,Bone Fracture,,断骨,
+Buff/Berserker_duangu_B2_Description,Text,,,"When attacked, take an additional 2 <sprite=1> Pain damage.
+
+<color=#808080>You tried to flee, only to end up broken. What now?</color>",,"被攻击时额外受到2点<sprite=1>痛苦伤害
+
+<color=#808080>你倒是想跑，落得个筋折骨断，这下该如何是好？</color>",
+Buff/Berserker_duangu_B2_Name,Text,,,Torn Sinews,,折筋,
+Buff/Berserker_duanxie_B_Description,Text,,,Removed after using an attack skill.,,使用攻击技能后解除,
+Buff/Berserker_duanxie_B_Name,Text,,,Disarm,,断械,
+Buff/Berserker_fangxie_Description,Text,,,"At the end, take 20% of current HP as damage (max 20). While active, attackers heal 10% of damage dealt.",,"结束时受到当前生命值20%（最高20）的伤害
+持续时间内，每次受到伤害时，使伤害来源恢复伤害值10%的生命值",
+Buff/Berserker_fangxie_Name,Text,,,Bloodletting,,放血,
+Buff/Berserker_jisui_Description,Text,,,All armor is permanently shattered!,,所有的护甲被永久击碎！,
+Buff/Berserker_jisui_Name,Text,,,Shatter,,击碎,
+Buff/Berserker_juesi_B_Description,Text,,,,,,
+Buff/Berserker_juesi_B_Name,Text,,,<color=#B22222>Desperate</color>,,<color=#B22222>决死</color>,
+Buff/Berserker_juesi_atk_Description,Text,,,Damage dealt increased by 20%.,,造成的伤害提升20%,
+Buff/Berserker_juesi_atk_Name,Text,,,Fight to the Death,,死战不休,
+Buff/Berserker_kongju_B_Name,Text,,,Fear,,恐惧,
+Buff/Berserker_kuanghua_Description,Text,,,"Damage dealt increased by 33%. 
+Removed when HP >50%. 
+Overheals 20% of damage dealt. 
+50% chance to target incorrectly.
+
+<color=#808080>Such a fearsome demon god—who could withstand him?</color>",,"造成的伤害提升33%
+生命值高于50%时解除
+超额回复相当于20%造成伤害的生命值
+使用攻击技能攻击敌方时50%概率指向错误的目标
+
+<color=#808080>如此的可怖魔神，天下还有谁能抵挡的了了？</color>",
+Buff/Berserker_kuanghua_Name,Text,,,<color=#DC143C>Madness Enhancement</color>,,<color=#DC143C>狂化</color>,
+Buff/Berserker_liuxie_Description,Text,,,,,,
+Buff/Berserker_liuxie_Name,Text,,,Bleeding,,流血,
+Buff/Berserker_zhanyi_B_Description,Text,,,"Immune to single-digit damage. 
+Incompatible with「<color=#DC143C>Madness Enhancement</color>」",,"免疫个位数的伤害
+不与「<color=#DC143C>狂化</color>」共存",
+Buff/Berserker_zhanyi_B_Name,Text,,,Battle Will,,战意,
+Buff/Control_baoju_B_Description,Text,,,"When attacking a target with Insight: 
+Critical Hit rate +20%
+Critical damage +30%",,"攻击被洞察的目标时：
+暴击率+20%
+暴击伤害+30%",
+Buff/Control_baoju_B_Name,Text,,,Exposer,,揭露者,
+Buff/Leryn_baoju_B_1_Description,Text,,,"At the start of the turn, if you have fewer than 4 skills in hand, refill to 4.    ",,回合开始时，若手中的技能少于4个，则补充至4个,
+Buff/Leryn_baoju_B_1_Name,Text,,,Wisdom,,睿智,
+Buff/Leryn_baoju_B_Description,Text,,,"Each time HP is reduced due to taking damage, lose 1 stack and gain 8 Healing Aura.",,每当因受到伤害导致体力值减少时，减少1层并获得8点治愈光圈。,
+Buff/Leryn_baoju_B_Name,Text,,,Preparedness,,早有准备,
+Buff/Mement_baoju_B_Description,Text,,,50% chance to avoid being at Death's Door.,,有50%概率不会陷入濒死,
+Buff/Mement_baoju_B_Name,Text,,,Tenacity,,顽健,
+Buff/Prime_baoju_B_0_Description,Text,,,"Forces enemies to attack this character. 
+Healing Gauge cannot be reduced.",,"使敌方攻击自身
+体力极限不会减少",
+Buff/Prime_baoju_B_0_Name,Text,,,Shield of Resolute Rise,,决意奋起之盾,
+Buff/Prime_baoju_B_Description,Text,,,,,,
+Buff/Prime_baoju_B_Name,Text,,,Glacial Wall of Glory and Perseverance,,荣光坚毅的雪花之壁,
+Buff/Queen_baoju_B_Description,Text,,,,,,
+Buff/Queen_baoju_B_Name,Text,,,Queen's Discipline,,女王的调教,
+Buff/Ruler_P_0_Description,Text,,,"<color=#808080>By my Lord's name, I bestow upon thee sacred blessings.</color>     ",,<color=#808080>吾以吾主之名，赐予汝神圣之泽</color>,
+Buff/Ruler_P_0_Name,Text,,,Divine Favor,,圣眷,
+Buff/Ruler_P_1_Description,Text,,,"<color=#808080>By my Lord's name, I deliver divine judgment upon thee!</color>     ",,<color=#808080>吾以吾主之名，对汝降下圣裁！</color>,
+Buff/Ruler_P_1_Name,Text,,,Divine Judgment,,圣裁,
+Buff/Ruler_baoju_B_Description,Text,,,Decays by 15% each turn.,,每回合衰减15%,
+Buff/Ruler_baoju_B_Name,Text,,,Sanctity,,神圣,
+Buff/Ruler_caijue_0_Description,Text,,,Next damage dealt is reduced by 50%.,,下次造成的的伤害降低50%,
+Buff/Ruler_caijue_0_Name,Text,,,Atonement,,赎罪,
+Buff/Ruler_canran_B1_Description,Text,,,<color=#808080>I offer this body wholly to the Lord!</color>,,<color=#808080>吾将此身，尽献于主！</color>,
+Buff/Ruler_canran_B1_Name,Text,,,Devotion,,奉献,
+Buff/Ruler_canran_B2_Name,Text,,,Radiance,,辉煌,
+Buff/Ruler_duxing_B_Description,Text,,,,,,
+Buff/Ruler_duxing_B_Name,Text,,,Resolve,,笃行,
+Buff/Ruler_honglian_B1_Description,Text,,,"Converts 50% of Healing Power into Attack Power. 
+Gains 1「<color=#B22222>Flamebrand Holy Sword</color>」each turn. 
+All drawn skills are replaced with「<color=#B22222>Flamebrand Holy Sword</color>」",,"将治疗力的50%转化为攻击力
+每回合获得1张「<color=#B22222>红莲圣剑</color>」
+将抽到的自己的技能全部转化为「<color=#B22222>红莲圣剑</color>」",
+Buff/Ruler_honglian_B1_Name,Text,,,<color=#B22222>La Pucelle of the Crimson Lotus</color>,,<color=#B22222>红莲之圣女</color>,
+Buff/Ruler_honglian_B_Description,Text,,,"<color=#DC143C>The heavens proclaim the Lord's glory; the skies display His handiwork. 
+Day unto day pours forth speech; night unto night reveals knowledge. 
+No speech, no words—their voice is unheard. 
+Their radiance spans the earth, reaching the ends of the world. 
+From heaven's edge I ascend, circling back to heaven's edge. 
+My end is here; my fate is here; my life is here! 
+My existence is naught, a shadow wandering afar. 
+My bow unrelied, my sword no salvation. 
+With this sole remnant, I guard his path. O Lord! I entrust this body unto Thee— L'espoir vient après le désespoir! (Hope follows despair!)</color>",,"<color=#DC143C>诸天乃主之荣耀，天空乃神手之伟业。
+于白昼传达语言，于夜晚传递知识。
+既不会交谈也不会说话，连声音也无法听到。
+温暖之光洒遍大地，延伸到世界的最尽头。
+从天的尽头往上登，一直绕到天的尽头。
+我的终点，就在此地；
+我的命数，就在此地；
+我的生命，就在此地!
+我的生等同于无，如同影子四处游离。
+我的弓无法依靠，我的剑也不能救我。
+谨以剩下的唯一之物，愿能守护他的脚步。
+主啊! 谨将此身托付于您————
+L'espoir vient apres de sespoir！
+（绝望之后必将迎来希望）</color>",
+Buff/Ruler_honglian_B_Name,Text,,,Prayer,,祈祷,
+Buff/Ruler_jiushu_0_Description,Text,,,"When taking damage, Overheal &a HP.
+
+<color=#808080>The path to salvation lies herein.</color>",,"受到伤害时，超额回复&a点生命值
+
+<color=#808080>救赎之道，就在其间</color>",
+Buff/Ruler_jiushu_0_Name,Text,,,Redemption,,救赎,
+Buff/Ruler_lingdao_B_Description,Text,,,<color=#808080>Saving the nation and aiding the distressed—duty-bound without hesitation!</color>,,<color=#808080>救国救难，义不容辞！</color>,
+Buff/Ruler_lingdao_B_Name,Text,,,Relief Effort,,救难,
+Buff/Ruler_qidao_B_Name,Text,,,,,,
+Buff/Ruler_shengjian_B_Description,Text,,,"Upon death, randomly spreads to other allied units.",,死亡时，随机传染给其他友军,
+Buff/Ruler_shengjian_B_Name,Text,,,<color=#B22222>Crimson Karmic Flame</color>,,<color=#B22222>红莲业火</color>,
+Buff/Ruler_shengyan_B_Description,Text,,,"When dealing damage, deals an additional 10% <sprite=1> Pain damage.",,造成伤害时，额外造成10%痛苦<sprite=1>伤害,
+Buff/Ruler_shengyan_B_Name,Text,,,Sacred Proclamation,,圣言,
+Buff/SaberBuff_Description,Text,,,"At the start of each turn, Artoria recovers 4 HP.",,每回合开始时，阿尔托莉雅回复4点生命值,
+Buff/SaberBuff_Name,Text,,,Dragon Core,,龙之炉心,
+Buff/Saber_bihu_B_Description,Text,,,Significantly increases chance of being targeted.,,被攻击概率大幅增加,
+Buff/Saber_bihu_B_Name,Text,,,Sanctuary,,庇护,
+Buff/Saber_challenge_Description,Text,,,"Prioritizes attacking &target. 
+Removed upon attacking the target.
+
+<color=#808080>The King's challenge has been issued—now, do you dare accept?</color>",,"优先攻击&target。
+攻击目标时解除。
+
+<color=#808080>受到了王的挑战，现在就看有没有胆子应邀了......</color>",
+Buff/Saber_challenge_Name,Text,,,Challenge,,挑战,
+Buff/Saber_challenge_plus_Description,Text,,,"Cannot attack targets other than &target. 
+Takes damage each turn. 
+Removed upon attacking the target. 
+Healing Gauge cannot be reduced.
+
+<color=#808080>To duel the King? Tremble from the depths of your soul!</color>",," 无法攻击&target以外的目标，并每回合受到伤害。
+攻击目标时解除。
+无法减少体力极限。
+
+<color=#808080>与王决斗？这便从内心感到了战栗！</color>",
+Buff/Saber_challenge_plus_Name,Text,,,Duel,,决斗,
+Buff/Saber_fengshi_Description,Text,,,<color=#808080>Being eroded by wind pressure!</color>,,<color=#808080>正在遭受风压的侵蚀！</color>,
+Buff/Saber_fengshi_Name,Text,,,<color=#A0AC8F>Wind Erosion</color>,,<color=#A0AC8F>风蚀</color>,
+Buff/Saber_jianshi_Description,Text,,,Artoria unleashes a <color=#ED5C26>Sword Art</color>.,,阿尔托莉雅打出了<color=#ED5C26>剑技</color>,
+Buff/Saber_jianshi_Name,Text,,,Sword Momentum,,剑势,
+Buff/Saber_jianta_Description,Text,,,<color=#808080>This unit is being trampled by the King's steed!</color>,,<color=#808080>此单位正遭受王之马的践踏！</color>,
+Buff/Saber_jianta_Name,Text,,,Trample,,践踏,
+Buff/Saber_jiejie_A1_Description,Text,,,"<color=white></color>Inflicts「<color=#A0AC8F>Wind Erosion</color>」when dealing damage. Ignores 「Taunt」
+
+<color=#808080>This Noble Phantasm is cloaked by powerful magecraft, not transparency. Wind alters light refraction, concealing the blade's form. Even without vacuum-level force, the wind around the blade is lethal, enhancing its destructive power.</color>",,"<color=white></color>造成伤害时施加「<color=#A0AC8F>风蚀</color>」
+无视</color>「嘲讽</color>」
+
+<color=#808080>此宝具是被强力魔术守护着，而并非剑本体是透明的。
+缠住剑身的风改变了光的折射率，从而使得剑的形状变得看不见。
+即使并没有到达真空状态，包裹着剑身的风也是非常致命的，能够增加斩击的破坏力。</color>",
+Buff/Saber_jiejie_A1_Name,Text,,,<color=#808080>Invisible Air</color>,,<color=#808080>风王结界</color>,
+Buff/Saber_jiejie_A_Description,Text,,,"<color=white>Inflicts 1 stack of</color> 「<color=#A0AC8F>Wind Erosion</color>」when dealing damage. Ignores「Taunt」
+
+<color=#808080>This Noble Phantasm is cloaked by powerful magecraft, not transparency. Wind alters light refraction, concealing the blade's form. Even without vacuum-level force, the wind around the blade is lethal, enhancing its destructive power.</color>",,"<color=white>造成伤害时施加1层</color>「<color=#A0AC8F>风蚀</color>」
+无视</color>「嘲讽</color>」
+
+<color=#808080>此宝具是被强力魔术守护着，而并非剑本体是透明的。
+缠住剑身的风改变了光的折射率，从而使得剑的形状变得看不见。
+即使并没有到达真空状态，包裹着剑身的风也是非常致命的，能够增加斩击的破坏力。</color>",
+Buff/Saber_jiejie_A_Name,Text,,,<color=#808080>Invisible Air</color>,,<color=#808080>风王结界</color>,
+Buff/Saber_jiejie_B1_Description,Text,,,"When attacked, inflicts 1 stack of「<color=#A0AC8F>Wind Erosion</color>」on the attacker. 
+Gains 6 Shield each turn.
+
+<color=#808080>A defensive application of Invisible Air—proof of Artoria's resolve to protect others.</color>",,"被攻击时对目标施加1层「<color=#A0AC8F>风蚀</color>」
+每回合获得6点护盾
+
+<color=#808080>作为风王结界的别种应用，比起之前锋锐的形态，现在这一形态更适合守护，这或许亦是阿尔托莉雅希望守护他人的意愿取得具象的证明吧。</color>",
+Buff/Saber_jiejie_B1_Name,Text,,,<color=#808080>Invisible Air - Scatter</color>,,<color=#808080>风王结界·散</color>,
+Buff/Saber_jiejie_B_Description,Text,,,"When attacked, inflicts 1 stack of「<color=#A0AC8F>Wind Erosion</color>」on the attacker. 
+Gains 8 Shield each turn.
+
+<color=#808080>A defensive application of Invisible Air—proof of the King's resolve to protect others.</color>",,"被攻击时对目标施加1层「<color=#A0AC8F>风蚀</color>」
+每回合获得8点护盾
+
+<color=#808080>作为风王结界的别种应用，比起之前锋锐的形态，现在这一形态更适合守护，这或许亦是吾王守护他人的意愿取得具象的证明吧。</color>",
+Buff/Saber_jiejie_B_Name,Text,,,<color=#808080>Invisible Air - Scatter</color>,,<color=#808080>风王结界·散</color>,
+Buff/Saber_jiejie_dun_Description,Text,,,,,,
+Buff/Saber_jinsheng_Description,Text,,,<color=#808080>Treading the path of radiance</color>,,<color=#808080>正在踏上闪耀之路</color>,
+Buff/Saber_jinsheng_Name,Text,,,Ascension,,晋升,
+Buff/Saber_jisui_Description,Text,,,"All armor has been shattered!
+
+<color=#808080>Behold, the sword that severs steel!</color>",,"全部的护甲已被击碎！
+
+<color=#808080>此乃，断钢之剑！",
+Buff/Saber_jisui_Name,Text,,,Sunder Steel,,断钢,
+Buff/Saber_lingdao_B_Description,Text,,,"<color=#808080>Where the King's sword points, our hearts shall follow!</color>",,<color=#808080>吾王剑之所指，吾等心之所向！</color>,
+Buff/Saber_lingdao_B_Name,Text,,,Fearless,,无畏,
+Buff/Saber_luxin_Description,Text,,,Recovers 4 HP and gains 1 Mana each turn. Gains 1 additional Mana when using skills.,,每回合回复4点生命值并获得1点魔力；此外，在释放技能时，会获得1点魔力。,
+Buff/Saber_luxin_Name,Text,,,Dragon Core,,龙之炉心,
+Buff/Saber_moli_Description,Text,,,<color=#808080>Artoria's accumulated <color=#00BFFF>Mana</color>.</color>,,<color=#808080>阿尔托莉雅积攒的<color=#00BFFF>魔力</color>,
+Buff/Saber_moli_Name,Text,,,<color=#00BFFF>Mana</color>,,<color=#00BFFF>魔力</color>,
+Buff/Saber_wudi_Description,Text,,,Immune to damage for 1 turn.,,免疫一回合伤害,
+Buff/Saber_wudi_Name,Text,,,Invincibility,,无敌,
+Buff/Saber_xingguang_A_Description,Text,,,<color=#808080>She is the star's favored child.</color>,,<color=#808080>她是星的宠儿,
+Buff/Saber_xingguang_A_Name,Text,,,Starlight,,星光,
+Buff/Saber_xingguang_B_Description,Text,,,<color=#808080>Gazing upon radiant starlight demands a price.</color>,,<color=#808080>直视闪耀的星光，必会付出代价。</color>,
+Buff/Saber_xingguang_B_Name,Text,,,Stellar Eclipse,,星蚀,
+Buff/Saber_xuli_Description,Text,,,"Cannot act.
+<color=#808080>This radiance is the hope of the stars, the proof of life illuminating the earth! Witness it—Excalibur!</color>",,"无法行动
+<color=#808080>
+这光辉乃是星辰的希望，照亮大地的生命之证！见证吧，誓约胜利之剑——！</color>",
+Buff/Saber_xuli_Name,Text,,,<color=#F0BC1F>Chanting</color>,,<color=#F0BC1F>吟唱中</color>,
+Buff/Saber_xunli_Description,Text,,,"Incompatible with「<color=#FF4500>Hero Creation</color>」. Gains 1 「<color=#00BFFF>Mana</color>」each turn.
+
+<color=#808080>Loneliness is the price of kingship. On that sunlit afternoon, did the maiden regret drawing the sword? Perhaps... she never did.</color>",,"不与「<color=#FF4500><color=red></color>英雄作成</color></color>」共存
+每回合获得1点「<color=#00BFFF>魔力</color>」
+
+<color=#808080>孤独，亦是成王的代价
+遥想那个风光明媚的午后
+那位清纯娇俏的少女，是否会后悔拔出了那把剑呢?
+或许，她从未后悔......</color>
+",
+Buff/Saber_xunli_Name,Text,,,<color=#F0BCAF>Lonely Pilgrimage</color>,,<color=#F0BCAF>孤独な巡礼</color>,
+Buff/Saber_yingxiong_B_Description,Text,,,"Incompatible with「<color=#F0BCAF>Lonely Pilgrimage</color>」
+
+<color=#808080>She did not become King by drawing the sword—rather, because she was King, she could draw it.</color>",,"不与「 <color=#F0BCAF>孤独な巡礼</color>」共存
+
+<color=#808080>成为王的理由，非是拔出了圣剑
+倒不如说，正因为是王
+所以才能拔出圣剑......</color>",
+Buff/Saber_yingxiong_B_Name,Text,,,<color=#FF4500>Hero Creation</color>,,<color=#FF4500>英雄作成</color>,
+Buff/Saber_zhaojia_B_Description,Text,,,"When attacked, deals &a (20% of max HP) damage to the attacker. 
+Destroyed when attacked.
+
+<color=#808080>Such feeble strikes!</color>",,"受到攻击时对其造成&a（自身20%最大生命值）点伤害
+受到攻击时摧毁
+
+<color=#808080>如此羸弱的攻击！</color>",
+Buff/Saber_zhaojia_B_Name,Text,,,Parry,,招架,
+Buff/Saber_zhengbei_Description,Text,,,Cannot act. Removed when discarding a skill.,,"无法行动。
+弃置自身技能时解除。",
+Buff/Saber_zhengbei_Name,Text,,,Reconstitution,,整备,
+Buff/Saber_zhengbei_huzhao_Name,Text,,,,,,
+Buff/ShadowPriest_baoju_B_0_Description,Text,,,<color=#808080>The soul is fractured!</color>,,<color=#808080>灵魂已然缺损！,
+Buff/ShadowPriest_baoju_B_0_Name,Text,,,Soul Erosion,,灵蚀,
+Buff/ShadowPriest_baoju_B_Description,Text,,,When dealing damage: Inflicts 1 stack of「Soul Erosion」on the target and heals 20% of damage dealt.,,造成伤害时：赋予目标1层「灵蚀」并使自身恢复伤害量的20%,
+Buff/ShadowPriest_baoju_B_Name,Text,,,Deeds of the Underworld God,,冥府神的伟业,
+Buff/SilverStein_baoju_B_0_Description,Text,,,,,,
+Buff/SilverStein_baoju_B_0_Name,Text,,,Aim,,瞄准,
+Buff/SilverStein_baoju_B_Description,Text,,,"When playing a non-Swiftness skill: 
+Critical Hit rate +20%
+Critical damage +15%
+Attack +1. 
+
+Disabled when attacked.",,"当非「迅速」的技能打出时：
+暴击率+20%
+暴击伤害+15%
+攻击力+1
+
+被攻击时失效",
+Buff/SilverStein_baoju_B_Name,Text,,,Hunter of Uri,,乌里的猎人,
+Character/Assassin_CampSelectWord,Text,,,"Fear not, Contractor. The Old Man of the Mountain answers thy call. I bear no name—address me as thou wilt.",,无需胆怯，契约者啊。山中老人应召唤现身。吾并无名字。汝大可用易称呼的名字称呼我。,
+Character/Assassin_PassiveDes,Text,,,"This is the Hassan of Hassans, the Assassin of Assassins, the God-Slayer and Death Incarnate.
+- Peerless Martial Arts: Gains 33% Critical damage and 10% Defense Ignore. Once per turn, enters「<color=#483D8B>Presence Concealment</color>」when an enemy dies.
+- Death's Abyss: 2% chance to inflict Instant Death on damage dealt. Deals 200% damage to Bosses or special enemies. 
+Triggers「<color=#808080>Evening Bell</color>」upon activation.
+
+<color=#808080>-This passive is active from Level 1.</color>",,"此乃哈桑中的哈桑，暗杀者中的暗杀者，弑神之人、死之本身。
+·无冠的武艺：山の翁的暴击伤害提升33%、无视防御提升10%；一回合一次，敌方单位死亡时进入「<color=#483D8B>气息遮断</color>」
+·死之渊：每次造成伤害时，有2%的概率使其即死；若对象为Boss或某些特殊敌人，则改为造成200%伤害
+触发此效果时，敲响「<color=#808080>晚钟</color>」
+
+<color=#808080>-此被动从1级开始生效",
+Character/Assassin_PassiveName,Text,,,At the Boundary's Edge,,立于境界,
+Character/Assassin_SelectInfo,Text,,,"A mysterious figure who suddenly appeared to rescue Lucy in her peril. Towering in stature, wearing a skull mask with a hoarse voice, wielding a greatsword. Calls himself ""Assassin, the Old Man of the Mountain""—his true name unknown, yet Jeanne and Artoria show him deference, 
+even Heracles reacts to his presence.
+
+The Old Man of the Mountain is a powerful yet silent assassin (?) who wields a greatsword to deliver death sentences to all enemies in his path. Excels in single-target damage and unique execution mechanics.",,"在露西陷入危难之时突然出现并出手相救的神秘人。身形伟岸，带着骷髅面具、声音苍老、挥舞巨剑。自称“Assassin·山の翁”，不知其真实姓名，但贞德和阿尔托莉雅都对其表现了一定程度的尊重，就连赫拉克勒斯也对其有所反应
+
+山の翁是一名强大且沉默的刺客（？），他会使用巨剑对任何挡在其前的敌人宣判死亡。拥有强大的单体伤害以及独特的斩杀机制",
+Character/Assassin_Text_Battle_AllyND_0,Text,,,Meaningless. Truly meaningless...!,,无意义。实在是太无意义了……！,
+Character/Assassin_Text_Battle_Cri_0,Text,,,No world exists for the faithless to dwell.,,没有世界可容无信仰之人生存。,
+Character/Assassin_Text_Battle_Cri_1,Text,,,Then perish...!,,那就去死吧……！,
+Character/Assassin_Text_Battle_Healed_0,Text,,,Hah...,,哈……,
+Character/Assassin_Text_Battle_Idle_0,Text,,,Shall I sow death and wither the green fields?,,要播撒死亡，令绿野枯萎吗。,
+Character/Assassin_Text_Battle_Idle_1,Text,,,Get to work.,,快去干活。,
+Character/Assassin_Text_Battle_Kill_0,Text,,,Can you hear the tolling bell...?,,能听到那钟声吗……,
+Character/Assassin_Text_Battle_Kill_1,Text,,,Surrender thy head...!,,交出首级来……！,
+Character/Assassin_Text_Battle_ND_0,Text,,,I am but bones... destined to return to the earth...,,吾本为骸骨……唯有回归大地……,
+Character/Assassin_Text_Battle_ND_1,Text,,,My fate ends here.,,吾之命运，将尽于此。,
+Character/Assassin_Text_Battle_Start_0,Text,,,Ooooooooooh!,,噢噢噢噢噢噢噢噢噢！,
+Character/Assassin_Text_Battle_Start_1,Text,,,Let the corpses pile here.,,陆续曝尸于此吧。,
+Character/Assassin_Text_Field_GetItem_0,Text,,,Like building a tower of corpses.,,犹如用尸体建造高塔。,
+Character/Assassin_Text_Field_GetItem_1,Text,,,The bell tolls... Today bears a particularly heavy head...,,听到了钟声……今日仿佛有特别沉重的首级呢……,
+Character/Assassin_Text_Field_Idle_0,Text,,,I am but a wraith lurking in darkness. No personal desires—only obedience to thy will.,,吾不过是潜藏于黑暗中的亡灵。没有身为个体的欲望。只会服从汝之意向。,
+Character/Assassin_Text_Field_Idle_1,Text,,,"The bond of master and servant is an exchange of purpose. Thou preservest life; I return it. All is light and shadow, Contractor.        ",,主从乃是使命的交换。汝拯救生命，吾令生命回归。一切皆为光与影啊，契约者。,
+Character/Assassin_Text_Field_Idle_2,Text,,,"...Perhaps due to endless time. Even under light, my heart remains unshaken.",,……或许因为漫长的时光所致。即使在光之下，吾之心也不会被扰乱。,
+Character/Assassin_Text_Field_Idle_3,Text,,,Though a heathen... thou art trustworthy. Thy spirit shines—unyielding to all. Such resolve is necessary for my kin...,,汝虽为异教徒……但似乎是值得信任之人。尤其是心灵很美。不会被任何事物所动摇的精神，才是吾等所必须的……,
+Character/Assassin_Text_Field_Idle_4,Text,,,"A splendid journey. Splendid memories. A splendid... end. May I truly vanish after this battle, my Contractor.",,美妙的旅程。美妙的回忆。美妙的……实为美妙的吾之终结。真希望在这次战斗结束后，能够真正消失，吾之契约者啊。,
+Character/Assassin_Text_Field_Potion_P_0,Text,,,Ah... Aaah... Ah...,,啊……啊啊啊……啊……,
+Character/Assassin_Text_MasterTarget,Text,,,O Lord. My life has found salvation here.,,主啊。吾之人生，已在此获得了救济之光。,
+Character/Assassin_Text_PharosLeader_0,Text,,,Divine oracle received...!,,神谕已降……！,
+Character/Assassin_Text_PharosLeader_1,Text,,,Tch...!,,嘁……！,
+Character/Assassin_Text_PharosLeader_2,Text,,,A push from behind.,,从背后推一把。,
+Character/Assassin_Text_Witch_0,Text,,,I accept this duty.,,接下此任了。,
+Character/Assassin_Text_Witch_1,Text,,,Thou hast made thy choice.,,已作出选择了吧。,
+Character/Assassin_name,Text,,,Old Man of the Mountain,,山の翁,
+Character/Berserker_CampSelectWord,Text,,,■■■■■ーーー!!,,■■■■■ーーー！！,
+Character/Berserker_PassiveDes,Text,,,"The heroic Heracles, who completed twelve ""impossible"" trials known as the ""Twelve Labors,"" gained immense power and curses.
+- Lion's Pelt: Heracles' body is tempered steel. Reduces enemy-inflicted damage below a threshold to 1. Threshold = 2 × current level (max 9). 
+- Boar's Tusk: Heracles' mind erodes. Activates「Madness Enhancement」when HP <50%.
+- Hydra's Heart: Heracles regenerates. Refuses 11 deaths per run and removes 1 random debuff each time.
+- Hippolyta's Belt: Heracles' valor shines. Damage dealt increases by 5% of target's max HP (max +50).
+
+<color=#919191>- Active from Level 1.",,"英勇无畏的赫拉克勒斯曾完成了12项被誉为“不可能完成”的任务，这个成就被誉为“十二试炼”。这些试炼为他带来了强大的力量与诅咒。
+·巨狮之裘：赫拉克勒斯的身体千锤百炼。受到一定数值以下且来自于敌人的伤害时，使其变为1，数值为2倍当前等级（最高9点）
+·狂猪之牙：赫拉克勒斯的神智遭受侵蚀。当前生命值低于50%时「狂化」
+·海德拉之心：赫拉克勒斯的生命不断修复。整场游戏中赫拉克勒斯将拒绝十一次死亡且每次随机消除一个减益
+·希波吕忒之带：赫拉克勒斯英勇无双。造成的伤害提升目标最大生命值的5%（最高50）
+
+ <color=#919191>- 此被动从1级开始生效。",
+Character/Berserker_PassiveName,Text,,,Twelve Labors,,十二试炼,
+Character/Berserker_SelectInfo,Text,,,"■■■■■■■■■■■ーーー!!
+■■■■■■■!
+■■■■■ーーー!!
+■■■■■■■ーーー!
+I... protect... thee...",,"■■■■■■■■■■■ーーー！！
+■■■■■■■！
+■■■■■ーーー！！
+■■■■■■■ーーー！
+吾......守护......汝......",
+Character/Berserker_name,Text,,,Heracles,,赫拉克勒斯,
+Character/Ruler_CampSelectWord,Text,,,Servant·Ruler. Jeanne d'Arc. How wonderful to meet you.,,从者·Ruler。贞德。能见到您实在是太好了。,
+Character/Ruler_PassiveDes,Text,,,"Jeanne enacts divine authority, slightly lowering enemy stats and boosting allies'.",,贞德代行神权，裁定世间，为此间洒下主之光辉，小幅降低敌方全体部分属性，小幅增加己方全体部分属性,
+Character/Ruler_PassiveName,Text,,,The Radiant Saint,,粲然之圣女,
+Character/Ruler_SelectInfo,Text,,,"A resolute maiden claiming to be a ""Heroic Spirit,"" brought by Artoria from the Misty Garden. Why was she there? Jeanne and Artoria only 
+smile... Yet as a ""Saint,"" she'd surely bond with Priests.
+
+Jeanne is a devout leader who empowers allies with healing and buffs. In dire straits, she sacrifices herself to secure victory.",,"神情坚毅的少女，自称是一名“英灵”，是阿尔托莉雅从迷雾庭院中带回来的。至于为什么会在迷雾庭院嘛，贞德和阿尔托莉雅只是笑了笑......不过据说这位可是“圣女”，想来与普瑞斯特应该会聊的很来吧？
+
+贞德是一名信仰坚定的修士，拥有强大指挥才能的她能够大幅增幅队友的能力，同时会使用各式的力量治愈友军。在必要的情况下，她亦会毫不犹豫的牺牲自己，以求获得能够取胜的力量。",
+Character/Ruler_Text_Battle_AllyND_0,Text,,,"No matter the suffering, we march onward.",,无论什么样的苦难之路，都只能勇往直前。,
+Character/Ruler_Text_Battle_AllyND_1,Text,,,"As long as this banner stands, we shall not fall!",,只要这面旗帜还在，就不会溃败！,
+Character/Ruler_Text_Battle_Cri_0,Text,,,There!,,就在那里！,
+Character/Ruler_Text_Battle_Cri_1,Text,,,Here it is.,,就是这呢。,
+Character/Ruler_Text_Battle_Healed_0,Text,,,My deepest thanks.,,万分感谢。,
+Character/Ruler_Text_Battle_Idle_0,Text,,,"Then, prepare yourselves!",,那么，觉悟吧！,
+Character/Ruler_Text_Battle_Idle_1,Text,,,Leave it to me—stay behind my shield!,,请交给我吧，站在我的背后！,
+Character/Ruler_Text_Battle_Kill_0,Text,,,Let the Lord's divine work manifest here!,,将主之御业降临于此！,
+Character/Ruler_Text_Battle_Kill_1,Text,,,Purge them!,,扫荡！,
+Character/Ruler_Text_Battle_ND_0,Text,,,To fall... after coming this far...,,明明都……到这一步了……,
+Character/Ruler_Text_Battle_ND_1,Text,,,I cannot... falter...,,不行……的啊……,
+Character/Ruler_Text_Battle_Start_0,Text,,,"Let us begin! O Lord, grant me strength.",,要上了啊！请主赐予我力量。,
+Character/Ruler_Text_Battle_Start_1,Text,,,"If we cannot advance without fighting, then we shall defeat the enemy!",,不战斗就不能前进的话，那就打倒敌人吧！,
+Character/Ruler_Text_Field_GetItem_0,Text,,,I feel slightly stronger now.,,好像稍微变强了一些呢。,
+Character/Ruler_Text_Field_GetItem_1,Text,,,Keep improving. One might call it a leap forward.,,继续提升。可称之为飞跃吧。,
+Character/Ruler_Text_Field_Idle_0,Text,,,"I will stand with you always. Be it suffering or sorrow, together we shall overcome! Come, let us strive onward, Master!",,无论何时，都与您相伴。无论是苦难还是悲叹，只要与您在一起，一定能够克服！来吧，一起努力吧，御主！,
+Character/Ruler_Text_Field_Idle_1,Text,,,"Yes, I am indeed your Servant. My duty is to protect and guide you to the best of my ability.",,嗯，我确实是您的从者。我的职责是尽可能保护您、引导您。,
+Character/Ruler_Text_Field_Idle_2,Text,,,"As your Servant and you as my Master, let us continue to work together!",,我作为从者，您作为御主，我们彼此今后也要一起努力哦！,
+,,,,,,,
+Character/Ruler_Text_Field_Idle_3,Text,,,"Master, if you don't head out soon, you'll never become an excellent Master!",,御主，再不出门的话，可当不了一个优秀的御主哦？,
+Character/Ruler_Text_Field_Idle_4,Text,,,"Though I know not of chivalric codes, I know my duty as a standard-bearer. Stay close, Master.",,尽管我不知道什么是骑士的准则，但作为一名持旗之人该做什么，我还是很清楚的。一定要紧紧跟上我哦，御主。,
+Character/Ruler_Text_Field_Potion_P_0,Text,,,I can endure!,,还能坚持！,
+Character/Ruler_Text_MasterTarget,Text,,,,,,
+Character/Ruler_Text_PharosLeader_0,Text,,,"Forgive me, but I must crush you!",,非常抱歉，但我要击溃你！,
+Character/Ruler_Text_PharosLeader_1,Text,,,"...Ah, apologies, Master.",,……啊，对不起，御主。,
+Character/Ruler_Text_PharosLeader_2,Text,,,"Now, prepare yourself!",,来，觉悟吧！,
+Character/Ruler_Text_Witch_0,Text,,,Leave it to me.,,交给我吧。,
+Character/Ruler_Text_Witch_1,Text,,,Understood.,,是。,
+Character/Ruler_name,Text,,,Jeanne d'Arc,,贞德,
+Character/Saber_CampSelectWord,Text,,,I ask of you—are you my Master?,,遵从召唤而来。试问，您就是我的Master吗？,
+Character/Saber_PassiveDes,Text,,,"Artoria, with dragon’s blood, possesses immense mana reserves. Recovers 4 HP and gains 1 Mana each turn.
+
+<color=#919191>- Active from Level 1.",,"阿尔托莉雅，拥有龙的血脉，这般强大的力量使其魔力异常充沛，一呼一吸间皆能汲取庞大的魔力。每回合开始时，阿尔托莉雅回复4点生命值并获得1点魔力
+
+ <color=#919191>- 此被动从1级开始生效。",
+Character/Saber_PassiveName,Text,,,Dragon Core,,龙之炉心,
+Character/Saber_SelectInfo,Text,,,"A knight resembling a delicate maiden, claiming to be a ""Heroic Spirit"" who appeared suddenly in Lucy’s room, addressing her as ""Master."" ""Heroic Spirits"" shouldn’t exist on the Ark—a curious mystery...
+
+Artoria is a formidable knight, dealing heavy damage with sword arts and mana while taunting enemies to protect allies.",,"看上去像是柔弱少女的骑士，自称是一名“英灵”，据说是突然出现在露西房中的，称呼露西为Master。按理来说，“英灵”是不应该存在于方舟的，关于这一点，实在是耐人寻味......
+
+阿尔托莉雅是一名强大的骑士，能够使用剑技与魔力对敌方造成大量伤害，同时还能激怒敌人以此保护队友。",
+Character/Saber_Text_Battle_AllyND_0,Text,,,Heal the wounded. The battle continues.,,为伤者治疗。战斗还将继续。,
+Character/Saber_Text_Battle_AllyND_1,Text,,,Still lacking refinement.,,还不够熟练呢。,
+Character/Saber_Text_Battle_Cri_0,Text,,,Witness my full power...!,,让你见识我的全力……！,
+Character/Saber_Text_Battle_Cri_1,Text,,,It’s time to settle this...,,到一决胜负的时候了……,
+Character/Saber_Text_Battle_Healed_0,Text,,,Not bad.,,真不错。,
+Character/Saber_Text_Battle_Idle_0,Text,,,Stay calm and vigilant.,,冷静下来，不要掉以轻心。,
+Character/Saber_Text_Battle_Idle_1,Text,,,"All forces, prepare to charge...!",,全员，突击准备……！,
+Character/Saber_Text_Battle_Kill_0,Text,,,Got them!,,得手了！,
+Character/Saber_Text_Battle_Kill_1,Text,,,Bring victory to this path!,,为这条道路带来胜利！,
+Character/Saber_Text_Battle_ND_0,Text,,,To fall... here of all places...,,居然……在这种地方……,
+Character/Saber_Text_Battle_ND_1,Text,,,Is this all you’ve got...?!,,区区这种水平……！,
+Character/Saber_Text_Battle_Start_0,Text,,,"Let us begin, Master.",,让我们开始吧，御主。,
+Character/Saber_Text_Battle_Start_1,Text,,,Bring forth your utmost strength.,,拼尽所有实力放马过来吧。,
+Character/Saber_Text_Character_0,Text,,,"Even if I regain my form as a king, our oath remains. My holy sword is yours to command.",,就算恢复成作为王那时的模样，我们的誓约也不会改变。我的圣剑任由您的差遣。,
+Character/Saber_Text_Character_1,Text,,,"Your orders bring me comfort—a strange warmth. If my blade holds any power, I shall wield it wholly for you, Master.",,您的指示让人感觉很舒心。有种不可思议的暖意。若我的剑还存有些许力量，一定会全心全意帮助您的，御主。,
+Character/Saber_Text_Field_GetItem_0,Text,,,We’ve grown stronger again.,,又变强了一些呢。,
+Character/Saber_Text_Field_Idle_0,Text,,,Hmm. A预感 of gains... Let’s investigate.,,嗯。有种收获的预感……去看看情况吧。,
+Character/Saber_Text_Field_Idle_1,Text,,,"This is a battle to save humanity. Our burden is grave, Master.",,这是为了拯救人类的战斗。我们的责任无比沉重，御主。,
+Character/Saber_Text_Field_Idle_2,Text,,,"I once sought the Holy Grail for reasons, but that is past. If it is evil, it must be corrected.",,我曾怀着某种原因执着于圣杯探索，但那已经是过去的事了。若为邪恶之物，那就必须纠正。,
+Character/Saber_Text_Field_Idle_3,Text,,,"A Servant must obey their Master, but mutual trust is ideal.",,从者必须服从御主，但如果双方能相互信赖就好了。,
+Character/Saber_Text_Field_Idle_4,Text,,,But... yes. I once wondered: What life might I have led had I not drawn the sword of kingship?,,但是……对。我曾经有过小小的幻想。如若我没有拔出王之剑，那我将过上怎样的人生呢。,
+Character/Saber_Text_Field_Potion_P_0,Text,,,How is this? I hope it meets your expectations.,,您觉得如何？ 若能满足您的期待就好了。,
+Character/Saber_Text_PharosLeader_0,Text,,,A fine opportunity. I’ll teach you properly.,,这是个好机会，我来好好教育你。,
+Character/Saber_Text_PharosLeader_1,Text,,,"Forgive me, Master...",,对不起，御主……,
+Character/Saber_Text_PharosLeader_2,Text,,,Defeat the enemy—that is all.,,打倒敌人，仅此而已。,
+Character/Saber_Text_Witch_0,Text,,,Leave it to me!,,交给我吧！,
+Character/Saber_Text_Witch_1,Text,,,Very well—let us settle this—,,嗯，让我们分个胜负吧——,
+Character/Saber_name,Text,,,Artoria,,阿尔托莉雅,
+Enemy/Saber_Alt_SubName,Text,,,,,,
+Enemy/Saber_Alt_name,Text,,,Artoria Alter,,阿尔托莉雅-Alter,
+Item_Equip/Assassin_Azrael_Description,Text,,,"When dealing damage, 5% chance to inflict Instant Death. Deals 150% damage to Bosses instead.
+On Critical Hit: Deals 20% of damage dealt as bonus damage.
+
+When equipped by the Old Man of the Mountain: Rings「<color=#808080>Evening Bell</color>」every 10 kills.
+Current: &a/10
+
+<color=#808080>A plain greatsword. Steeped in the faith of one who wielded it relentlessly. Its attacks carry Instant Death—rare but lethal 
+even to mighty foes. The wielder, merged with death, resists Instant Death and charm.</color>",,"对敌方造成伤害时，5%概率使其即死，若目标为Boss，则改为造成150%伤害
+暴击时：额外对目标造成本次伤害20%的伤害
+
+山の翁装备时：每击杀10个敌人，敲响「<color=#808080>晚钟</color>」
+当前：&a/10
+
+<color=#808080>稀疏平常的大剑。
+被这个人物一生不断挥舞，不断坚信的信仰所浸透。
+
+据说由于这个人物始终在幽谷境界中行走，
+因此他的剑的所有攻击都会附加即死效果。
+虽然概率很低，
+但无论多厉害的强敌都会遭到即死的危险性。
+身在幽谷之人早已习惯了死亡，
+由于与死早已同化，因此拥有即死耐性与魅惑耐性。</color>",
+Item_Equip/Assassin_Azrael_name,Text,,,Azrael,,亚兹拉尔,
+Item_Equip/Berserker_fujian_Description,Text,,,"When taking ally damage, deals equal defense-ignoring damage to a random enemy.
+
+When equipped by Heracles: Deals 200% of this damage.
+
+<color=#808080>A crude ""axe-sword"" forged from temple stone—Berserker’s catalyst. Only his superhuman strength can wield it.</color>        ",,"受到友方伤害时，随机对一名敌方单位造成等额的无视防御的伤害
+
+赫拉克勒斯装备时：造成200%该伤害
+
+<color=#808080>这并非宝具。让人认为“与其说斧子，不如说是岩块更恰当”的粗鲁的剑。由神殿的基石做成，也是召唤Berserker的触媒。正因为是有超常腕力，Berserker才能自如操纵这把武器</color>",
+Item_Equip/Berserker_fujian_name,Text,,,Nameless·Axe-Sword,,无铭·斧剑,
+Item_Equip/Ruler_jian_Description,Text,,,"When using attack skills, Overheal all allies by 15% of Healing Power.
+
+When equipped by Jeanne: Generates 1「<color=#B22222>Flamebrand Holy Sword</color>」each turn.
+
+<color=#808080>Jeanne’s sheathed silver blade, unused in life. Perhaps she preferred her banner... or spared it from bloodshed.</color>",,"使用攻击技能时，超额治疗全体友方相当于自身15%治疗力的生命值
+
+贞德装备时：每回合生成「<color=#B22222>红莲圣剑</color>」
+
+<color=#808080>贞德生前的佩剑，现已出鞘。银辉闪耀、流光溢彩，这可不是什么装饰用的剑！至于为何从未被使用，或许是某位圣女大人更偏向于使用某种长柄的、飘动的武器......啊，不是！一定是圣女大人怜爱众生，不愿意使这把圣洁的银剑成为杀戮之物吧！</color>",
+Item_Equip/Ruler_jian_low_Description,Text,,,"When using attack skills, Overheal all allies by 1 HP.
+
+Unsheathes after 20 attack skills.
+Current: &a/20
+
+<color=#808080>Jeanne’s pristine sword, awaiting its first draw.</color>",,"使用攻击技能时，超额治疗全体友方1点生命值
+
+使用20个攻击技能后，剑将出鞘（当前&a/20）
+
+<color=#808080>贞德生前的佩剑，尚未出鞘。据说从未被使用过，不知今后是否能一睹其风采。</color></color>",
+Item_Equip/Ruler_jian_low_name,Text,,,Saint Catherine's Sword (Sheathed),,圣凯萨琳之剑（藏锋）,
+Item_Equip/Ruler_jian_name,Text,,,Saint Catherine's Sword,,圣凯萨琳之剑,
+Item_Equip/Ruler_shengqi_Description,Text,,,"+1 Exchange count.
+
+When equipped by Jeanne: Allies take 10% less damage.
+
+<color=#808080>Jeanne’s banner-turned-weapon. “It has a spear tip! Divine guidance to bonk foes!” (Please stop her)</color>",,"交换手牌的次数+1
+
+贞德装备时：全体友方受到伤害减少10%<color=#B22222></color>
+
+<color=#808080>贞德生前使用的旗帜，作为贞德的英灵化伴生武器出现。附带一提，贞德专门使用这面旗子来攻击。本人在遭到旗子制裁的人面前总是以“（旗子）前端装了枪尖，也就是要我用这面旗子来殴打别人的启示对吧”来辩解。请阻止她。</color>",
+Item_Equip/Ruler_shengqi_name,Text,,,Lorraine Cross Banner,,洛林十字旗,
+Item_Equip/Saber_Avalon_Description,Text,,,"Prevents damage when HP reaches 0 or in Death's Door state, healing 50% max HP and granting 「Invincible」.
+This effect cannot trigger again until restored at camp.
+Current status: &a
+
+<color=#808080></color>When equipped with 「<color=#F0BC1F>Excalibur</color>」:
+Max HP +30%
+Damage Taken -25%
+Status Resistance +44%
+When Artoria equips: Gain 1 stack of 「Parry」 per turn.",,"体力为0或濒死状态下受到伤害时，阻止这次伤害并回复50%最大生命值且赋予自身「无敌」
+以上效果触发后，直到在营地内恢复之前都无法再次触发。
+当前状态：&a
+
+<color=#808080></color>与「<color=#F0BC1F>誓约胜利之剑</color>」共同装备时：
+最大生命值+30%
+受到伤害-25%
+异常状态抗性+44%<color=#F0BC1F></color>
+阿尔托莉雅装备时：
+每回合获得1层「招架」</color>
+",
+Item_Equip/Saber_Avalon_name,Text,,,Avalon,,遥远的理想乡,
+Item_Equip/Saber_Calibur_Description,Text,,,"When equipped by Artoria: Speed +1, Defense Penetration +10%.
+
+<color=#808080>He who draws this sword shall be England’s king! Defeat powerful foes to unlock its true power.</color>",,"阿尔托莉雅装备时，速度+1，防御穿透+10%
+
+<color=#808080>拔出此剑者，即为英格兰之王!
+击败一名强大的敌人后，这把剑将得到晋升</color></color>",
+Item_Equip/Saber_Calibur_low_Description,Text,,,"<color=#808080>He who draws this sword shall be England’s king! 
+Prove your worth by defeating 2 powerful foes to unsheathe it.</color>   ",,"<color=#808080>拔出此剑者，即为英格兰之王！
+带上她，展现你身为王的气量，
+击败2名强大的敌人后，这把剑将会出鞘</color>",
+Item_Equip/Saber_Calibur_low_name,Text,,,Sword in the Stone,,石中之剑,
+Item_Equip/Saber_Calibur_name,Text,,,Golden Sword of Victory,,必胜黄金之剑,
+Item_Equip/Saber_ExCalibur_Description,Text,,,"With ""Avalon"": Starts battle with「<color=#F0BC1F>Noble Phantasm Release: Excalibur</color>」
+
+When equipped by Artoria: 
+Speed +1
+Defense Penetration +20%
+Grants「<color=#FF4500>Hero Creation</color>」at battle start.
+
+<color=#808080>“Excalibur—the crystallization of warriors’ hopes, wielded by the King of Knights to sever fate!”</color>",,"与「遥远的理想乡」同时装备时：
+战斗开始时生成「<color=#F0BC1F>宝具解放·誓约胜利之剑</color>」<color=#F0BC1F></color>
+阿尔托莉雅装备时：
+速度+1
+防御穿透+20%
+战斗开始时，赋予自身「<color=red><color=#FF4500>英雄作成</color></color>」
+
+<color=#808080>“那把剑正是从过去未来消逝在战场上的所有士兵，在临终之际怀抱的虽悲伤但尊贵的梦想，那样的意志值得夸耀，那样的信义必须贯彻，常胜之王高声的念出手上奇迹的真名，那正是------誓约胜利之剑（Excalibur）”</color>",
+Item_Equip/Saber_ExCalibur_name,Text,,,<color=#F0BC1F>Excalibur</color>,,<color=#F0BC1F>誓约胜利之剑</color>,
+Item_Passive/Assassin_xiang_Description,Text,,,"All allies’ Critical Hit rate +5%. 
+Every 2 turns, Critical Hits grant 1 Mana.
+
+<color=#808080>Calming incense guiding souls to serenity. May your spirit find peace.</color>",,"全体成员暴击率+5%
+两回合一次，暴击时获得1点法力值
+<color=#808080>能令人心情平静的香。
+弥漫的烟会引导你前往幽玄境地。
+愿灵魂获得安宁。</color>",
+Item_Passive/Assassin_xiang_name,Text,,,Bukhoor Incense,,布库尔香,
+Item_Passive/Berserker_huiyi_Description,Text,,,"All attack skills gain +4 damage but inflict 3 <sprite=1> Pain damage per use.
+
+<color=#808080>A fragile maiden’s winter memory in a fleeting sanctuary.</color>",,"使所有的攻击技能伤害+4，且释放时对自身造成3点痛苦<sprite=1>伤害
+
+<color=#808080>——短暂的寄生之地。
+一位脆弱而高傲的少女，
+曾在此地的冬日记忆。</color>",
+Item_Passive/Berserker_huiyi_name,Text,,,Memories of Snow,,雪之回忆,
+Item_Passive/Saber_ma_Description,Text,,,"Speed +2. 
+Deals 3 damage and inflicts「Trample」on all enemies each turn.
+
+<color=#808080>O once-kingly maiden, command this steed to the world’s end!</color>",,"速度+2
+每回合对敌方全体造成3点伤害并施加「践踏」
+
+<color=#808080>曾经是少女的王啊，请下命令！
+哪怕要前往世界的尽头，
+想必东·斯塔利恩也会遵命！</color>",
+Item_Passive/Saber_ma_name,Text,,,Dun Stallion,,东·斯塔利恩,
+Item_Passive/Saber_wangguan_Description,Text,,,"Mana +1. 
+Draws 1 extra skill on even turns.
+
+<color=#808080>Kingship is divine yet transient. Crowns shine bright before empires fall.</color>",,"法力值+1
+偶数回合额外抽取一个技能
+
+<color=#808080>传承如是说。
+所谓王，即为高贵而神圣，高不可攀之人。
+结局总是充实而富足的未来。
+星辰如是说。
+然时代会变迁，生活会变化。
+王的统治终将走向毁灭。</color>",
+Item_Passive/Saber_wangguan_name,Text,,,Crown of the Stars,,星之王冠,
+RandomEvent/Saber_bajian_Desc,Text,,,Obtain「Sword in the Stone」,,获得「石中之剑」,
+RandomEvent/Saber_bajian_Desc_2Stage,Text,,,,,,
+RandomEvent/Saber_bajian_Desc_3Stage,Text,,,,,,
+RandomEvent/Saber_bajian_EventDetails,Text,,,"A sword lodged in stone. 
+The inscription reads: “He who draws this shall be England’s king!”",,"一把插在岩石中的剑
+岩石上写着：拔出此剑者，即为英格兰之王！",
+RandomEvent/Saber_bajian_Name,Text,,,Sword in the Stone,,石中之剑,
+RandomEvent/Saber_bajian_UseButtonTooltip_0,Text,,,Are you worthy?,,你够资格吗？,
+RandomEvent/Saber_bajian_UseButton_0,Text,,,Attempt to Draw,,尝试拔剑,
+SimpleCampDialogue/CampDial_Assassin_Azar_Dialogues_0,Text,,,"[A]O lost soul, dost thou hear the toll of the Bell of Judgment?",,[A]迷途之人，汝可听见那晚钟？,
+SimpleCampDialogue/CampDial_Assassin_Azar_Dialogues_1,Text,,,[B]What do you mean?,,[B]你什么意思？,
+SimpleCampDialogue/CampDial_Assassin_Azar_Dialogues_2,Text,,,"[A]Listen well, the Bell of Judgment has revealed thy name...",,[A]倾听吧，晚钟已揭示汝之名讳......,
+SimpleCampDialogue/CampDial_Assassin_Azar_Dialogues_3,Text,,,[B]Hey! What are you doing?,,[B]喂！你要干什么？,
+SimpleCampDialogue/CampDial_Assassin_Azar_Dialogues_4,Text,,,[A]Thy head shall be claimed another time...,,[A]汝之首级，留待下次再取吧......,
+SimpleCampDialogue/CampDial_Assassin_Berserker_Dialogues_0,Text,,,"[A]Thou art a warrior worthy of respect, yet thy mind remains fractured...",,[A]汝是值得敬佩的战士，可惜此刻心智不全......,
+SimpleCampDialogue/CampDial_Assassin_Berserker_Dialogues_1,Text,,,[B]...,,[B]......,
+SimpleCampDialogue/CampDial_Assassin_Blue_Dialogues_0,Text,,,[A]Thou dost not seem versed in social graces...,,[A]汝似乎不善交际......,
+SimpleCampDialogue/CampDial_Assassin_Blue_Dialogues_1,Text,,,[B]Sniff...,,[B]呜呜......,
+SimpleCampDialogue/CampDial_Assassin_Blue_Dialogues_2,Text,,,[A]Worry not. Neither am I...,,[A]无妨，吾亦然......,
+SimpleCampDialogue/CampDial_Assassin_Blue_Dialogues_3,Text,,,[B]Th...thank you.,,[B]谢......谢谢,
+SimpleCampDialogue/CampDial_Assassin_Charon_Dialogues_0,Text,,,[B]Eek! The skull is spouting flames!,,[B]噫！骷髅头喷火了！,
+SimpleCampDialogue/CampDial_Assassin_Charon_Dialogues_1,Text,,,[A]Be calm. These flames shall not scorch thee...,,[A]无需惊慌，此火不会灼伤汝......,
+SimpleCampDialogue/CampDial_Assassin_Charon_Dialogues_2,Text,,,[B]Wow! Amazing! (Reaches hand),,[B]真的欸！好神奇！（伸手）,
+SimpleCampDialogue/CampDial_Assassin_Charon_Dialogues_3,Text,,,[A]Refrain from touching...,,[A]莫要触碰......,
+SimpleCampDialogue/CampDial_Assassin_Charon_Dialogues_4,Text,,,[B]Yes! (Retracts hand),,[B]是！（缩回）,
+SimpleCampDialogue/CampDial_Assassin_Hein_Dialogues_0,Text,,,[B]Are you strong? Spar with me!,,[B]你很强吗？来陪我过两招？,
+SimpleCampDialogue/CampDial_Assassin_Hein_Dialogues_1,Text,,,[A]I seek not thy head...,,[A]吾不想要汝之首级......,
+SimpleCampDialogue/CampDial_Assassin_Hein_Dialogues_2,Text,,,[B]Tch. Boring.,,[B] 嘁，没意思,
+SimpleCampDialogue/CampDial_Assassin_Huz_Dialogues_0,Text,,,[B]How do you move so silently?,,[B]你是怎么变得悄无声息的？,
+SimpleCampDialogue/CampDial_Assassin_Huz_Dialogues_1,Text,,,[A]Technique...,,[A]技巧......,
+SimpleCampDialogue/CampDial_Assassin_Huz_Dialogues_2,Text,,,"[B]It must be difficult, no?",,[B]一定很难吧？,
+SimpleCampDialogue/CampDial_Assassin_Huz_Dialogues_3,Text,,,[A]Years of discipline forge such skill.,,[A]经年苦练方可得到。,
+SimpleCampDialogue/CampDial_Assassin_Ilya_Dialogues_0,Text,,,[B]Why wield a greatsword?,,[B]您为什么会使用巨剑呢？,
+SimpleCampDialogue/CampDial_Assassin_Ilya_Dialogues_1,Text,,,[A]Convenience...,,[A]顺手......,
+SimpleCampDialogue/CampDial_Assassin_Ilya_Dialogues_2,Text,,,[B]Doesn't it hinder assassination?,,[B]呃，不会对暗杀产生影响吗？,
+SimpleCampDialogue/CampDial_Assassin_Ilya_Dialogues_3,Text,,,[A]It has not...,,[A]未曾......,
+SimpleCampDialogue/CampDial_Assassin_Iron_Dialogues_0,Text,,,[B]You appear a most stalwart ally.,,[B]阁下看起来真是一位可靠的同伴,
+SimpleCampDialogue/CampDial_Assassin_Iron_Dialogues_1,Text,,,[A]...,,[A]......,
+SimpleCampDialogue/CampDial_Assassin_Iron_Dialogues_2,Text,,,[B]...,,[B]......,
+SimpleCampDialogue/CampDial_Assassin_Iron_Dialogues_3,Text,,,[B]Hah! So laconic!,,[B]哈哈，真是寡言啊！,
+SimpleCampDialogue/CampDial_Assassin_Iron_Dialogues_4,Text,,,[A]Silence is virtue...,,[A]沉默，是一种美德......,
+SimpleCampDialogue/CampDial_Assassin_Joey_Dialogues_0,Text,,,[B]Where’d a cryptic one like you come from?,,[B]神神秘秘的，你到底从哪儿来的？,
+SimpleCampDialogue/CampDial_Assassin_Joey_Dialogues_1,Text,,,[A]...,,[A]......,
+SimpleCampDialogue/CampDial_Assassin_Joey_Dialogues_2,Text,,,[B]Hey! I’m talking to you!,,[B]喂！我和你说话呢！,
+SimpleCampDialogue/CampDial_Assassin_Joey_Dialogues_3,Text,,,[A]Thou art insolent...,,[A]无礼之人......,
+SimpleCampDialogue/CampDial_Assassin_Joey_Dialogues_4,Text,,,[B]Tch.,,[B]啧,
+SimpleCampDialogue/CampDial_Assassin_Johan_Dialogues_0,Text,,,[B]Vengeance. Vengeance.,,[B]复仇，复仇。,
+SimpleCampDialogue/CampDial_Assassin_Johan_Dialogues_1,Text,,,[A]Fraud!,,[A]虚伪！,
+SimpleCampDialogue/CampDial_Assassin_Johan_Dialogues_2,Text,,,[B]What was that?,,[B]你说什么？,
+SimpleCampDialogue/CampDial_Assassin_Johan_Dialogues_3,Text,,,[A]Fool blinded by spite! Relinquish thy head!,,[A]被仇恨蒙蔽双眼的蠢货，交出首级吧！,
+SimpleCampDialogue/CampDial_Assassin_Johan_Dialogues_4,Text,,,[B]Eep! (Terrified),,[B]呃（惊恐）,
+SimpleCampDialogue/CampDial_Assassin_Leryn_Dialogues_0,Text,,,[B]How do you live in such a state?,,[B]你这样子，也能活着吗？,
+SimpleCampDialogue/CampDial_Assassin_Leryn_Dialogues_1,Text,,,[A]I have merely not perished...,,[A]只是未曾死亡罢了......,
+SimpleCampDialogue/CampDial_Assassin_Leryn_Dialogues_2,Text,,,[B]Astonishing.,,[B]真是神奇。,
+SimpleCampDialogue/CampDial_Assassin_Leryn_Dialogues_3,Text,,,[A]All shall return to dust. Be not awed...,,[A]吾必将归于尘土，汝不必惊讶......,
+SimpleCampDialogue/CampDial_Assassin_Lian_Dialogues_0,Text,,,[A]Thou must not overexert thyself...,,[A]汝，不要硬撑......,
+SimpleCampDialogue/CampDial_Assassin_Lian_Dialogues_1,Text,,,[B]I must protect my comrades.,,[B]我必须要守护我的同伴。,
+SimpleCampDialogue/CampDial_Assassin_Lian_Dialogues_2,Text,,,"[A]Shouldst thou fall, thy allies too shall grieve...",,[A]若汝倒下，汝之同伴亦会痛苦......,
+SimpleCampDialogue/CampDial_Assassin_Lian_Dialogues_3,Text,,,[B]I... I hadn't thought...,,[B]我......我没有想过......,
+SimpleCampDialogue/CampDial_Assassin_Lian_Dialogues_4,Text,,,[A]Tread cautiously. Endure not beyond thy means...,,[A]且徐行吧，莫要强撑......,
+SimpleCampDialogue/CampDial_Assassin_Lian_Dialogues_5,Text,,,[B]Mm.,,[B]嗯,
+SimpleCampDialogue/CampDial_Assassin_Miss_Dialogues_0,Text,,,[B]You’re seriously terrifying!,,[B]我说啊，你真的很恐怖欸,
+SimpleCampDialogue/CampDial_Assassin_Miss_Dialogues_1,Text,,,[A]Fear not. I am thy ally...,,[A]无需害怕，吾乃汝之同伴......,
+SimpleCampDialogue/CampDial_Assassin_Miss_Dialogues_2,Text,,,"[B]True, your aura’s scary...but your armor’s so cool!",,[B]说的也是，你虽然气场很恐怖，但是你的盔甲真的很帅欸！,
+SimpleCampDialogue/CampDial_Assassin_Miss_Dialogues_3,Text,,,[A]...,,[A]......,
+SimpleCampDialogue/CampDial_Assassin_Miss_Dialogues_4,Text,,,[B]Huh? Why ignore me?,,[B]欸？为什么不理我？,
+SimpleCampDialogue/CampDial_Assassin_Miss_Dialogues_5,Text,,,[A]Enough. Return to thy duties.,,[A]唉，快去干活！,
+SimpleCampDialogue/CampDial_Assassin_Miss_Dialogues_6,Text,,,"[B]Fine, fine.",,[B]好啦好啦。,
+SimpleCampDialogue/CampDial_Assassin_Momori_Dialogues_0,Text,,,[B]S-so scary!,,[B]好......好可怕！,
+SimpleCampDialogue/CampDial_Assassin_Momori_Dialogues_1,Text,,,[A]...,,[A]......,
+SimpleCampDialogue/CampDial_Assassin_Momori_Dialogues_2,Text,,,[B]C-could I...touch your sword?,,[B]那......那个，您可以让我摸一摸您的剑吗？,
+SimpleCampDialogue/CampDial_Assassin_Momori_Dialogues_3,Text,,,[A]Thou may...,,[A]可......,
+SimpleCampDialogue/CampDial_Assassin_Momori_Dialogues_4,Text,,,[B]Wow! You’re nicer than I thought!,,[B]呀，以外的好说话！,
+SimpleCampDialogue/CampDial_Assassin_Narhan_Dialogues_0,Text,,,[B]Is that skull a mask?,,[B]这个骷髅，是面具吗？,
+SimpleCampDialogue/CampDial_Assassin_Narhan_Dialogues_1,Text,,,[A]'Tis no mask...,,[A]并非面具......,
+SimpleCampDialogue/CampDial_Assassin_Narhan_Dialogues_2,Text,,,[B]This...is rather unsettling.,,[B]这......还真是有点惊悚。,
+SimpleCampDialogue/CampDial_Assassin_Narhan_Dialogues_3,Text,,,[A]Pay it no mind...,,[A]无需在意......,
+SimpleCampDialogue/CampDial_Assassin_Narhan_Dialogues_4,Text,,,[B]Alright.,,[B]好吧。,
+SimpleCampDialogue/CampDial_Assassin_Pheonix_Dialogues_0,Text,,,[B]To think there exists one stranger than I...,,[B]想不到竟有比我还奇异的存在。,
+SimpleCampDialogue/CampDial_Assassin_Pheonix_Dialogues_1,Text,,,[A]I am but an ordinary elder...,,[A]吾只是普通的老人罢了......,
+SimpleCampDialogue/CampDial_Assassin_Pheonix_Dialogues_2,Text,,,[B]That remains to be seen...,,[B]这可说不准......,
+SimpleCampDialogue/CampDial_Assassin_Priest_Dialogues_0,Text,,,[B]I sense you are steeped in faith.,,[B]我能感觉到，你浑身充满了信仰。,
+SimpleCampDialogue/CampDial_Assassin_Priest_Dialogues_1,Text,,,[A]...,,[A]......,
+SimpleCampDialogue/CampDial_Assassin_Priest_Dialogues_2,Text,,,[B]Even one such as you holds faith?,,[B]像你这样的，也会有信仰吗？,
+SimpleCampDialogue/CampDial_Assassin_Priest_Dialogues_3,Text,,,[A]Naturally...,,[A]自然......,
+SimpleCampDialogue/CampDial_Assassin_Priest_Dialogues_4,Text,,,"[A]In this life, I shall walk in my Lord's light...",,[A]吾此生必遵吾主之光辉......,
+SimpleCampDialogue/CampDial_Assassin_Red_Dialogues_0,Text,,,"[B]Hey, could you do me a favor?",,[B]嘿，你可以帮我一个忙吗？,
+SimpleCampDialogue/CampDial_Assassin_Red_Dialogues_1,Text,,,[A]What is it?,,[A]何事？,
+SimpleCampDialogue/CampDial_Assassin_Red_Dialogues_2,Text,,,[B]Help me prank Selena.,,[B]帮我吓一下赛琳娜。,
+SimpleCampDialogue/CampDial_Assassin_Red_Dialogues_3,Text,,,[A]Speak not such folly...,,[A]不要说蠢话......,
+SimpleCampDialogue/CampDial_Assassin_Ruler_Dialogues_0,Text,,,"[A]Jeanne d'Arc, thy sacrifice commands reverence...",,[A]圣女·贞德，汝之牺牲令人敬佩......,
+SimpleCampDialogue/CampDial_Assassin_Ruler_Dialogues_1,Text,,,[B]You flatter me!,,[B]您谬赞了！,
+SimpleCampDialogue/CampDial_Assassin_Ruler_Dialogues_2,Text,,,[A]Nay. The world remembers thy deeds...,,[A]非也，汝之功绩，世界铭记......,
+SimpleCampDialogue/CampDial_Assassin_Ruler_Dialogues_3,Text,,,[B]Thank you for your praise.,,[B]感谢您的赞美。,
+SimpleCampDialogue/CampDial_Assassin_Saber_Dialogues_0,Text,,,"[A]King of Knights, hast thou found answers on this journey?",,[A]骑士王啊，汝此行可寻得答案？,
+SimpleCampDialogue/CampDial_Assassin_Saber_Dialogues_1,Text,,,[B]What do you mean?,,[B]您的意思是？,
+SimpleCampDialogue/CampDial_Assassin_Saber_Dialogues_2,Text,,,"[A]Regardless, thou must follow thy heart...",,[A]无论如何，汝须遵循本心......,
+SimpleCampDialogue/CampDial_Assassin_Saber_Dialogues_3,Text,,,[B]Thank you for your counsel.,,[B]感谢您的建议。,
+SimpleCampDialogue/CampDial_Assassin_SilverStein_Dialogues_0,Text,,,[A]Though I bear thee no ill will...,,[A]虽然吾对汝并无意见，但......,
+SimpleCampDialogue/CampDial_Assassin_SilverStein_Dialogues_1,Text,,,[B]What are you trying to say?,,[B]你想要说什么？,
+SimpleCampDialogue/CampDial_Assassin_SilverStein_Dialogues_2,Text,,,[A]Thou shouldst abandon firearms...,,[A]汝还是不要用枪了吧......,
+SimpleCampDialogue/CampDial_Assassin_SilverStein_Dialogues_3,Text,,,[B]...,,[B]......,
+SimpleCampDialogue/CampDial_Assassin_Sizz_Dialogues_0,Text,,,"[B]Elder, this is my friend, Eve.",,[B]老先生，这是我的朋友，他叫伊芙。,
+SimpleCampDialogue/CampDial_Assassin_Sizz_Dialogues_1,Text,,,[A]...,,[A]......,
+SimpleCampDialogue/CampDial_Assassin_Sizz_Dialogues_2,Text,,,"[B]Elder, why ignore me?",,[B]老先生，为什么您不理我啊？,
+SimpleCampDialogue/CampDial_Assassin_Sizz_Dialogues_3,Text,,,[A]I would not shatter thy illusions...,,[A]吾不愿打破汝之幻想......,
+SimpleCampDialogue/CampDial_Assassin_Trisha_Dialogues_0,Text,,,[B]To think an assassin like you exists?,,[B]居然还有你这样的暗杀者？,
+SimpleCampDialogue/CampDial_Assassin_Trisha_Dialogues_1,Text,,,[A]Hassan of the Hundred Faces? (Swinging sword) Relinquish thy head!,,[A]百貌吗？（挥剑）交出首级！,
+SimpleCampDialogue/CampDial_Assassin_Trisha_Dialogues_2,Text,,,[B]Eek!!!!,,[B]噫！！！！,
+SimpleCampDialogue/CampDial_Assassin_Trisha_Dialogues_3,Text,,,[A]Merely the scent of the Hundred Faces... A misjudgment...,,[A]只有百貌的气息么，认错了......,
+SimpleCampDialogue/CampDial_Assassin_Trisha_Dialogues_4,Text,,,[B]D-don't scare me like that!,,[B]别......别吓我啊！,
+SimpleCampDialogue/CampDial_Ruler_Assassin_Dialogues_0,Text,,,[A]I did not expect to find you here.,,[A]没想到您也会在此。,
+SimpleCampDialogue/CampDial_Ruler_Assassin_Dialogues_1,Text,,,[B]I come to aid...,,[B]吾来帮忙......,
+SimpleCampDialogue/CampDial_Ruler_Assassin_Dialogues_2,Text,,,"[A]With thee present, our path is assured.",,[A]有您在，此行顺矣。,
+SimpleCampDialogue/CampDial_Ruler_Assassin_Dialogues_3,Text,,,[B]May it be so...,,[B]但愿如此......,
+SimpleCampDialogue/CampDial_Ruler_Azar_Dialogues_0,Text,,,[A](Pats his shoulder),,[A]（拍拍他的肩膀）,
+SimpleCampDialogue/CampDial_Ruler_Azar_Dialogues_1,Text,,,"[B]Pardon, but what do you want?",,[B]不好意思，请问你要做什么吗？,
+SimpleCampDialogue/CampDial_Ruler_Azar_Dialogues_2,Text,,,[A](Gazes at him with pity),,[A]（怜悯的看着他）,
+SimpleCampDialogue/CampDial_Ruler_Azar_Dialogues_3,Text,,,[B]That look... What does it mean?,,[B]你这神情......什么意思。,
+SimpleCampDialogue/CampDial_Ruler_Azar_Dialogues_4,Text,,,[A]I perceive True Names. Yet thou...,,[A]我能看穿真名。而你......,
+SimpleCampDialogue/CampDial_Ruler_Azar_Dialogues_5,Text,,,[B]Don't leave me hanging...,,[B]不要说话说一半啊......,
+SimpleCampDialogue/CampDial_Ruler_Berserker_Dialogues_0,Text,,,[A]Even a warrior as mighty as thee can have reason eroded...,,[A]想你这样强大的战士，也会被侵蚀理智啊。,
+SimpleCampDialogue/CampDial_Ruler_Berserker_Dialogues_1,Text,,,[A]How unjust.,,[A]真是不讲理。,
+SimpleCampDialogue/CampDial_Ruler_Berserker_Dialogues_2,Text,,,[B]...,,[B]......,
+SimpleCampDialogue/CampDial_Ruler_Berserker_Dialogues_3,Text,,,[A]Yet thy presence fortifies my resolve.,,[A]不过，有你在，至少让我信心大增了。,
+SimpleCampDialogue/CampDial_Ruler_Blue_Dialogues_0,Text,,,"[A]How adorable, makes me want to tease you a bit~",,[A]真可爱，让人很想欺负一下呢~,
+SimpleCampDialogue/CampDial_Ruler_Blue_Dialogues_1,Text,,,"[B]Ugh, please don't bully me.",,[B]呜，不要欺负我。,
+SimpleCampDialogue/CampDial_Ruler_Blue_Dialogues_2,Text,,,[A]Just kidding! How about becoming my little sister instead?,,[A]开玩笑的啦，要不然你来当我的妹妹吧！,
+SimpleCampDialogue/CampDial_Ruler_Blue_Dialogues_3,Text,,,[B]I... I must decline!,,[B]容......容我拒绝！,
+SimpleCampDialogue/CampDial_Ruler_Charon_Dialogues_0,Text,,,"[B](Whispering) Jeanne, if I use this kind of magic, I won't be punished by the Lord, right?!      ",,[B]（悄悄的）贞德，我用这种魔法，不会被神明大人制裁吧！,
+SimpleCampDialogue/CampDial_Ruler_Charon_Dialogues_1,Text,,,[A](Pretending to lift her flagpole) I shall carry out the Lord's judgment right now!,,[A]（假装提起旗杆）我现在就代主行罚！,
+SimpleCampDialogue/CampDial_Ruler_Charon_Dialogues_2,Text,,,[B]Eek! No... Stop!,,[B]噫！不要......不要啊！,
+SimpleCampDialogue/CampDial_Ruler_Charon_Dialogues_3,Text,,,"[A]Hahaha, just teasing you.",,[A]哈哈哈，骗你的啦。,
+SimpleCampDialogue/CampDial_Ruler_Charon_Dialogues_4,Text,,,[B]That's too cruel!,,[B]太过分了！,
+SimpleCampDialogue/CampDial_Ruler_Hein_Dialogues_0,Text,,,[B]Can someone who smashes people with a flagpole (points) really be called a saint? ,,[B]你这样的（指用旗杆砸人），也算圣女吗？,
+SimpleCampDialogue/CampDial_Ruler_Hein_Dialogues_1,Text,,,[A](Confidently) The spike on this flagpole must be divine revelation from the Lord!,,[A]（理直气壮）旗杆上装了尖头，这一定是吾主给予我的启示！,
+SimpleCampDialogue/CampDial_Ruler_Hein_Dialogues_2,Text,,,[B]Huh? What kind of revelation is that?,,[B]哈？这算什么启示？,
+SimpleCampDialogue/CampDial_Ruler_Hein_Dialogues_3,Text,,,[A]Revelation to smite others with this banner!,,[A]启示我用这面旗帜去制裁他人啊！,
+SimpleCampDialogue/CampDial_Ruler_Hein_Dialogues_4,Text,,,[B]What twisted logic!,,[B]这算什么歪理！,
+SimpleCampDialogue/CampDial_Ruler_Huz_Dialogues_0,Text,,,[B]So... how does a saint's skin feel to the touch?,,[B]哎呀，圣女的手感怎么样呢？,
+SimpleCampDialogue/CampDial_Ruler_Huz_Dialogues_1,Text,,,[A]What?,,[A]什么？,
+SimpleCampDialogue/CampDial_Ruler_Huz_Dialogues_2,Text,,,"[B]I mean, when whipped by a lash.",,[B]我是说，用鞭子抽上去的感觉。,
+SimpleCampDialogue/CampDial_Ruler_Huz_Dialogues_3,Text,,,[A]L-Let's not do that!,,[A]还......还是不要了吧！,
+SimpleCampDialogue/CampDial_Ruler_Ilya_Dialogues_0,Text,,,"[B]What does ""Ruler"" mean? A measuring stick?",,[B] Ruler是什么意思，尺子吗？,
+SimpleCampDialogue/CampDial_Ruler_Ilya_Dialogues_1,Text,,,"[A]No, it means Arbiter. I enact the Lord's judgments upon the world.",,[A]不，是裁定者，我代主裁决世间。,
+SimpleCampDialogue/CampDial_Ruler_Ilya_Dialogues_2,Text,,,[B]Sounds like you're quite confident in yourself...,,[B]听上去你对自己挺有自信的......,
+SimpleCampDialogue/CampDial_Ruler_Ilya_Dialogues_3,Text,,,"[A]Not in myself, but in my absolute faith in the Lord.",,[A]并非，而是我对吾主信心十足。,
+SimpleCampDialogue/CampDial_Ruler_Ilya_Dialogues_4,Text,,,"[B]Faith, huh? Maybe...",,[B]信仰吗？也许......,
+SimpleCampDialogue/CampDial_Ruler_Iron_Dialogues_0,Text,,,"[B]Step aside, little girl.",,[B]退下吧，小姑娘。,
+SimpleCampDialogue/CampDial_Ruler_Iron_Dialogues_1,Text,,,[A]Huh? What's wrong?,,[A]呃，怎么了？,
+SimpleCampDialogue/CampDial_Ruler_Iron_Dialogues_2,Text,,,[B]I'll protect everyone. Don't get too close.,,[B]我会保护你们的，你不要靠得太近。,
+SimpleCampDialogue/CampDial_Ruler_Iron_Dialogues_3,Text,,,"[A]Mister, I've actually been fighting on the battlefield all along, you know?",,[A]大叔，其实我一直在战场上作战哦？,
+SimpleCampDialogue/CampDial_Ruler_Iron_Dialogues_4,Text,,,[A]Don't let my appearance fool you - I often charge straight into enemy formations!,,[A]别看我这样，其实我经常冲入敌阵啊！,
+SimpleCampDialogue/CampDial_Ruler_Iron_Dialogues_5,Text,,,[B]My apologies...,,[B]是我冒昧了......,
+SimpleCampDialogue/CampDial_Ruler_Joey_Dialogues_0,Text,,,[B]A saint? I don't believe in that nonsense.,,[B]圣女？我可不相信那种东西。,
+SimpleCampDialogue/CampDial_Ruler_Joey_Dialogues_1,Text,,,"[A]That's fine. Belief or not, we're comrades-in-arms now.",,[A]没关系，无论你信或不信，我们现在至少是战友。,
+SimpleCampDialogue/CampDial_Ruler_Joey_Dialogues_2,Text,,,[B]True enough. But I'll be watching you.,,[B]这倒也是，但我会盯着你的。,
+SimpleCampDialogue/CampDial_Ruler_Joey_Dialogues_3,Text,,,"[A](Attempting to poke his eyes) Perfect, I enjoy this kind of interaction~",,[A]（尝试戳他的眼睛）正好我喜欢这样干呢~,
+SimpleCampDialogue/CampDial_Ruler_Joey_Dialogues_4,Text,,,[B](Backing away) Y-You... Stay back!,,[B]（避开）你......你别过来！,
+SimpleCampDialogue/CampDial_Ruler_Johan_Dialogues_0,Text,,,"[B]If gods truly exist, why would she...",,[B]神明如果存在的话，为什么她会......,
+SimpleCampDialogue/CampDial_Ruler_Johan_Dialogues_1,Text,,,"[A]When I was tied to the stake, I wondered the same...",,[A]我被绑在火刑架上的时候，也曾闪过这样的念头呢,
+SimpleCampDialogue/CampDial_Ruler_Johan_Dialogues_2,Text,,,[B]F-Fire? A stake?!,,[B]火，火刑架？,
+SimpleCampDialogue/CampDial_Ruler_Johan_Dialogues_3,Text,,,"[A]But afterward, my nation was restored. That's when I learned: to gain something, you must lose something.",,[A]但是之后我的国家就复兴了，那时我才知道，你想要得到，你就得失去。,
+SimpleCampDialogue/CampDial_Ruler_Johan_Dialogues_4,Text,,,[A]Tell me - what did you seek that cost you her?,,[A]告诉我，你是为了什么，才会失去她？,
+SimpleCampDialogue/CampDial_Ruler_Johan_Dialogues_5,Text,,,[B]...,,[B]......,
+SimpleCampDialogue/CampDial_Ruler_Leryn_Dialogues_0,Text,,,[B]Your banner... it seems indestructible?,,[B]你的这面旗子，似乎不会损坏？,
+SimpleCampDialogue/CampDial_Ruler_Leryn_Dialogues_1,Text,,,[A]Correct. This is my Noble Phantasm.,,[A]是的，因为这是我的宝具。,
+SimpleCampDialogue/CampDial_Ruler_Leryn_Dialogues_2,Text,,,[B]Another Noble Phantasm... How remarkable.,,[B]又是宝具......真是神奇。,
+SimpleCampDialogue/CampDial_Ruler_Leryn_Dialogues_3,Text,,,[A]Truly miraculous. I believe only divine intervention could explain it.,,[A]确实很神奇，我想，这除了神迹以外，再无它解了吧？,
+SimpleCampDialogue/CampDial_Ruler_Leryn_Dialogues_4,Text,,,B Divine intervention...?,,[B]（喃喃自语）神迹......么？,
+SimpleCampDialogue/CampDial_Ruler_Lian_Dialogues_0,Text,,,"[A]Thanks to you, our casualties have been minimal.",,[A]多亏了你，我们的损伤才能这么小。,
+SimpleCampDialogue/CampDial_Ruler_Lian_Dialogues_1,Text,,,[B]Simply fulfilling my duty.,,[B]职责所在。,
+SimpleCampDialogue/CampDial_Ruler_Lian_Dialogues_2,Text,,,"[A]My, what an endearing young lady.",,[A]哎呀，真是个让人欢喜的小姑娘。,
+SimpleCampDialogue/CampDial_Ruler_Lian_Dialogues_3,Text,,,[B]⁄(⁄ ⁄ ⁄ _  ⁄ ⁄ ⁄)⁄ W-What are you saying all of a sudden...,,[B]⁄(⁄ ⁄ ⁄ _  ⁄ ⁄ ⁄)⁄突......突然之间说什么......,
+SimpleCampDialogue/CampDial_Ruler_Lian_Dialogues_4,Text,,,"[A]If you were in my army, I might have you replace Gilles~",,[A]要是你在我的军队里，也许我会让你接替吉尔呢~,
+SimpleCampDialogue/CampDial_Ruler_Miss_Dialogues_0,Text,,,"[B]My, what a stunning beauty.",,[B]哎呀，真是个大美人。,
+SimpleCampDialogue/CampDial_Ruler_Miss_Dialogues_1,Text,,,[A]You flatter me. I'm just a village girl. You're the true beauty here.,,[A]不敢当，只是一届村姑罢了。在我看来你才是大美人。,
+SimpleCampDialogue/CampDial_Ruler_Miss_Dialogues_2,Text,,,"[B]Such silver tongue! Worthy of a saint, indeed?",,[B]真会说话！不愧是圣女吗？,
+SimpleCampDialogue/CampDial_Ruler_Miss_Dialogues_3,Text,,,"[A](Amused yet exasperated) Even saints aren't required to have that skill, you know?",,[A]（哭笑不得）就算是圣女，也没包含这一项吧？,
+SimpleCampDialogue/CampDial_Ruler_Miss_Dialogues_4,Text,,,"[B]Hahaha, no matter! The sentiment's what counts! Have some barbecue!",,[B]哈哈哈，没关系！意思到了就行！给你吃烤肉！,
+SimpleCampDialogue/CampDial_Ruler_Miss_Dialogues_5,Text,,,"[A]Mmm, truly delicious! May the Lord bless you.",,[A]嗯，真美味！愿主保佑你。,
+SimpleCampDialogue/CampDial_Ruler_Miss_Dialogues_6,Text,,,[B]Thank you!,,[B]谢谢！,
+SimpleCampDialogue/CampDial_Ruler_Momori_Dialogues_0,Text,,,"[A]By the way, you have such a unique speech quirk~",,[A]说起来，你有很奇特的口癖呢~,
+SimpleCampDialogue/CampDial_Ruler_Momori_Dialogues_1,Text,,,[B]What?,,[B]什么？,
+SimpleCampDialogue/CampDial_Ruler_Momori_Dialogues_2,Text,,,"[A](Imitating Momori) ""Small fry❤ Small fry❤"", like this?",,[A]（模仿桃梨）“杂鱼❤杂鱼❤”，是这样吗？,
+SimpleCampDialogue/CampDial_Ruler_Momori_Dialogues_3,Text,,,[B](Embarrassed) Th-That's not true!,,[B]（羞耻）才......才没有！,
+SimpleCampDialogue/CampDial_Ruler_Narhan_Dialogues_0,Text,,,[B]Your mind... completely pure?,,[B]你的思想，一片纯白？,
+SimpleCampDialogue/CampDial_Ruler_Narhan_Dialogues_1,Text,,,"[A]Ah, perhaps it's the Lord's radiance shielding me?",,[A]啊，想必是主的光辉庇佑着我？,
+SimpleCampDialogue/CampDial_Ruler_Narhan_Dialogues_2,Text,,,[B]The Lord's... radiance?,,[B]主的......光辉？,
+SimpleCampDialogue/CampDial_Ruler_Narhan_Dialogues_3,Text,,,"[A]Yes, my Lord... (launches into an explanation)",,[A]是的，吾主......(开始讲述）,
+SimpleCampDialogue/CampDial_Ruler_Narhan_Dialogues_4,Text,,,[B]I should take my leave now.,,[B]我还是先走吧。,
+SimpleCampDialogue/CampDial_Ruler_Pheonix_Dialogues_0,Text,,,[A]What a wondrous creature.,,[A]真是神奇的生物。,
+SimpleCampDialogue/CampDial_Ruler_Pheonix_Dialogues_1,Text,,,[B]This great one is a phoenix! How dare you compare me to common beasts?,,[B]本大爷可是凤凰！怎么能跟普通的生物比呢？,
+SimpleCampDialogue/CampDial_Ruler_Pheonix_Dialogues_2,Text,,,[A]And a glutton too! (Muttering) Reminds me of a certain ahoge-head...,,[A]还是个贪吃鬼呢！（小声）就像某个呆毛......,
+SimpleCampDialogue/CampDial_Ruler_Pheonix_Dialogues_3,Text,,,[B]You're the glutton here!,,[B]你才贪吃鬼！,
+SimpleCampDialogue/CampDial_Ruler_Priest_Dialogues_0,Text,,,"[B]Ah, Lady Saint!",,[B]啊，圣女大人！,
+SimpleCampDialogue/CampDial_Ruler_Priest_Dialogues_1,Text,,,"[A]Pardon me, but could you keep your distance?",,[A]不好意思，可以请你离我远一点吗？,
+SimpleCampDialogue/CampDial_Ruler_Priest_Dialogues_2,Text,,,[B]Huh? Why?,,[B]欸？为什么？,
+SimpleCampDialogue/CampDial_Ruler_Priest_Dialogues_3,Text,,,[A]Your stake-wielding technique is quite impressive.,,[A]你挥舞火刑柱的样子，很帅。,
+SimpleCampDialogue/CampDial_Ruler_Priest_Dialogues_4,Text,,,"[A]But it makes me want to strap you onto one, hehehe...",,[A]但是会让我忍不住想要把你绑上去呢，呵呵呵......,
+SimpleCampDialogue/CampDial_Ruler_Priest_Dialogues_5,Text,,,[B]...,,[B]......,
+SimpleCampDialogue/CampDial_Ruler_Red_Dialogues_0,Text,,,[A]Sisters with polar opposite personalities... how wonderful.,,[A]性格截然相反的姐妹啊，真好，真好。,
+SimpleCampDialogue/CampDial_Ruler_Red_Dialogues_1,Text,,,[B]Why is that good?,,[B]这为什么好？,
+SimpleCampDialogue/CampDial_Ruler_Red_Dialogues_2,Text,,,[A]Because you'll never feel lonely that way. You remind me of France's children.,,[A]因为这样就不会感到孤单了啊，看见你们我就想到了法兰西的孩子们。,
+SimpleCampDialogue/CampDial_Ruler_Red_Dialogues_3,Text,,,[B]Lonely...,,[B]孤单......,
+SimpleCampDialogue/CampDial_Ruler_Saber_Dialogues_0,Text,,,[A]How much longer until this ends?,,[A]这次要多久结束？,
+SimpleCampDialogue/CampDial_Ruler_Saber_Dialogues_1,Text,,,"[B]You're the Ruler - if you don't know, how should I?",,[B]你身为Ruler都不知道，我又怎么会知道？,
+SimpleCampDialogue/CampDial_Ruler_Saber_Dialogues_2,Text,,,"[A]You know... the more I witness, the more compassion I feel for this world...",,[A]你知道吗，越是看见，就越是对这个世界充满怜悯......,
+SimpleCampDialogue/CampDial_Ruler_Saber_Dialogues_3,Text,,,[B]That's precisely why we're here.,,[B]这正是我们来此的理由。,
+SimpleCampDialogue/CampDial_Ruler_SilverStein_Dialogues_0,Text,,,"[A]Mr. Hunter, tonight's prey...",,[A]猎人先生，今晚的猎物......,
+SimpleCampDialogue/CampDial_Ruler_SilverStein_Dialogues_1,Text,,,[B]What? Here to preach about mercy?,,[B]怎么？要展示大爱了？,
+SimpleCampDialogue/CampDial_Ruler_SilverStein_Dialogues_2,Text,,,"[A]No, I meant... could I be the one to cook it?",,[A]不是，我的意思是能不能让我来料理？,
+SimpleCampDialogue/CampDial_Ruler_SilverStein_Dialogues_3,Text,,,[B]?,,[B]？,
+SimpleCampDialogue/CampDial_Ruler_Sizz_Dialogues_0,Text,,,"[B]Big sister Jeanne, are you truly a saint?",,[B]贞德姐姐，你真的是圣女吗？,
+SimpleCampDialogue/CampDial_Ruler_Sizz_Dialogues_1,Text,,,[A]I consider myself merely a village girl.,,[A]我认为我只是一届村姑而已。,
+SimpleCampDialogue/CampDial_Ruler_Sizz_Dialogues_2,Text,,,[B]Why? (Tilts head),,[B]为什么？（歪头）,
+SimpleCampDialogue/CampDial_Ruler_Sizz_Dialogues_3,Text,,,[A](Patting her head) Had I been a true saint... perhaps France's wars would've ended sooner...,,[A]（模她的头）如果我是真正的圣女的话，或许，法兰西就能早点结束战乱吧......,
+SimpleCampDialogue/CampDial_Ruler_Trisha_Dialogues_0,Text,,,[B]Saint Jeanne... sounds quite venerable.,,[B]圣女·贞德，听上去挺令人尊敬的。,
+SimpleCampDialogue/CampDial_Ruler_Trisha_Dialogues_1,Text,,,"[A]Oh? I'm just a village girl, really.",,[A]诶，有吗？我只是一届村姑而已。,
+SimpleCampDialogue/CampDial_Ruler_Trisha_Dialogues_2,Text,,,[B]Village girls don't possess... your level of battle prowess.,,[B]村姑可没有你这样的......战斗力,
+SimpleCampDialogue/CampDial_Ruler_Trisha_Dialogues_3,Text,,,"[A]Hence, all this is the Lord's blessing.",,[A]所以说，这一切都是我主的赐予。,
+SimpleCampDialogue/CampDial_Ruler_Trisha_Dialogues_4,Text,,,[B]So hard to comprehend...,,[B]真难理解......,
+SimpleCampDialogue/CampDial_Saber_Azar_Dialogues_0,Text,,,[A]You... you're odd. You're concealing something.,,[A]你，很奇怪，你在隐瞒什么。,
+SimpleCampDialogue/CampDial_Saber_Azar_Dialogues_1,Text,,,[B]Not your concern.,,[B]与你无关。,
+SimpleCampDialogue/CampDial_Saber_Azar_Dialogues_2,Text,,,[A]But it concerns our Master's safety.,,[A]但是与Master的安危有关。,
+SimpleCampDialogue/CampDial_Saber_Azar_Dialogues_3,Text,,,"[B]Master? Lucy, right? Rest assured, I will never harm her.",,[B]Master？露西么，放心吧，我永远不会伤害她。,
+SimpleCampDialogue/CampDial_Saber_Azar_Dialogues_4,Text,,,[A]I will protect her.,,[A]我会守护她的。,
+SimpleCampDialogue/CampDial_Saber_Blue_Dialogues_0,Text,,,[A]You two are such wonderful sisters.,,[A]你们真是一对好姐妹。,
+SimpleCampDialogue/CampDial_Saber_Blue_Dialogues_1,Text,,,[B]Wh...What?,,[B]什......什么？,
+SimpleCampDialogue/CampDial_Saber_Blue_Dialogues_2,Text,,,"[A]I mean, you share a deep bond.",,[A]我的意思是，你们感情很好,
+SimpleCampDialogue/CampDial_Saber_Blue_Dialogues_3,Text,,,[B]Th...Thank you.,,[B]谢......谢谢,
+SimpleCampDialogue/CampDial_Saber_Charon_Dialogues_0,Text,,,[B]Wow! What is this? An invisible sword? What kind of magic?,,[B]哇！这是什么？隐形的剑？这是什么魔法？,
+SimpleCampDialogue/CampDial_Saber_Charon_Dialogues_1,Text,,,[A]Merely wind enveloping the blade. Nothing extraordinary.,,[A]嗯，这不过是将风包裹剑身罢了，没什么好稀奇的。,
+SimpleCampDialogue/CampDial_Saber_Charon_Dialogues_2,Text,,,[B]Incredible! Can I learn this?,,[B]真是神奇！我可以学吗？,
+SimpleCampDialogue/CampDial_Saber_Charon_Dialogues_3,Text,,,[A]Likely not.,,[A]大概，是不可以的吧,
+SimpleCampDialogue/CampDial_Saber_Charon_Dialogues_4,Text,,,[B]Such a shame~,,[B]好可惜哦~,
+SimpleCampDialogue/CampDial_Saber_Hein_Dialogues_0,Text,,,[B]You look strong. Spar with me?,,[B]你看起来很强，陪我过两招？,
+SimpleCampDialogue/CampDial_Saber_Hein_Dialogues_1,Text,,,[A]Knights do not indulge in violence.,,[A]骑士并不斥诸暴力,
+SimpleCampDialogue/CampDial_Saber_Hein_Dialogues_2,Text,,,"[B]Tch, so tiny yet so rigid.",,[B]嘁，人不大规矩倒挺多,
+SimpleCampDialogue/CampDial_Saber_Hein_Dialogues_3,Text,,,[A]We could compete in eating instead.,,[A]我们也可以比赛吃饭。,
+SimpleCampDialogue/CampDial_Saber_Hein_Dialogues_4,Text,,,[B]...Huh?,,[B]......哈？,
+SimpleCampDialogue/CampDial_Saber_Huz_Dialogues_0,Text,,,[B]You’re a queen too? Do you share... certain interests?,,[B]你也是女王？你也有这样的爱好吗？,
+SimpleCampDialogue/CampDial_Saber_Huz_Dialogues_1,Text,,,[A]What interests?,,[A]什么爱好？,
+SimpleCampDialogue/CampDial_Saber_Huz_Dialogues_2,Text,,,[B]The artistry of inflicting agony.,,[B]展现痛苦的艺术,
+SimpleCampDialogue/CampDial_Saber_Huz_Dialogues_3,Text,,,[A](Shakes head) I would never wish suffering upon my people.,,[A]（摇头）我不希望我的人民遭受痛苦。,
+SimpleCampDialogue/CampDial_Saber_Ilya_Dialogues_0,Text,,,[B]Saber? Odd title. Does that make me a Saber too?,,[B]Saber？好奇特的称呼，那么我也算Saber吗?,
+SimpleCampDialogue/CampDial_Saber_Ilya_Dialogues_1,Text,,,[A]Perhaps! I once met a Saber wielding twin blades.,,[A]或许吧！说起来，我也曾见过手持双剑的Saber。,
+SimpleCampDialogue/CampDial_Saber_Ilya_Dialogues_2,Text,,,[B]Oh? Who?,,[B]哦？那位是？,
+SimpleCampDialogue/CampDial_Saber_Ilya_Dialogues_3,Text,,,[A]Miyamoto Musashi.,,[A]宫本武藏。,
+SimpleCampDialogue/CampDial_Saber_Ilya_Dialogues_4,Text,,,[B]How... unconventional.,,[B]那可真是......,
+SimpleCampDialogue/CampDial_Saber_Iron_Dialogues_0,Text,,,"[B]Step behind me, girl. I’ll shield everyone.",,[B]小姑娘，站到我身后去吧，我会保护你们所有人。,
+SimpleCampDialogue/CampDial_Saber_Iron_Dialogues_1,Text,,,[A]You seem a reliable ally.,,[A]你看起来像是一位可靠的同伴。,
+SimpleCampDialogue/CampDial_Saber_Iron_Dialogues_2,Text,,,"[B]Er, thanks.",,[B]呃，谢谢。,
+SimpleCampDialogue/CampDial_Saber_Iron_Dialogues_3,Text,,,[A]But I’m no fragile maiden.,,[A]但我也不是什么弱不禁风的小姑娘,
+SimpleCampDialogue/CampDial_Saber_Iron_Dialogues_4,Text,,,[A]At least we fight the same battle.,,[A]至少，我们在做一样的事,
+SimpleCampDialogue/CampDial_Saber_Iron_Dialogues_5,Text,,,[B]True enough.,,[B]你说得对。,
+SimpleCampDialogue/CampDial_Saber_Joey_Dialogues_0,Text,,,"[B]Where do you come from, mystery woman?",,[B]你这家伙，神神秘秘的，到底从何而来？,
+SimpleCampDialogue/CampDial_Saber_Joey_Dialogues_1,Text,,,[A]Lucy’s room.,,[A]露西的房间,
+SimpleCampDialogue/CampDial_Saber_Joey_Dialogues_2,Text,,,[B]...Vague as ever.,,[B]......这种模棱两可的答案,
+SimpleCampDialogue/CampDial_Saber_Joey_Dialogues_3,Text,,,"[A]Doctor, prying into secrets is unbecoming.",,[A]这位医者，随意打探他人隐私，可不是什么良好品质。,
+SimpleCampDialogue/CampDial_Saber_Joey_Dialogues_4,Text,,,[B]Tch.,,[B]啧,
+SimpleCampDialogue/CampDial_Saber_Johan_Dialogues_0,Text,,,"[B]One day, I’ll have my vengeance.",,[B]总有一天，我会复仇。,
+SimpleCampDialogue/CampDial_Saber_Johan_Dialogues_1,Text,,,[A]Blind hatred will only consume you.,,[A]被仇恨蒙蔽双眼，可不是什么好事。,
+SimpleCampDialogue/CampDial_Saber_Johan_Dialogues_2,Text,,,[B]What do you know?,,[B]你又懂什么？,
+SimpleCampDialogue/CampDial_Saber_Johan_Dialogues_3,Text,,,"[A]Once, a blade of hatred pierced my heart... wielded by my own child.",,[A]曾经，一把仇恨的利剑洞穿我的胸口......它来自我的孩子。,
+SimpleCampDialogue/CampDial_Saber_Johan_Dialogues_4,Text,,,[B]...My apologies.,,[B]抱歉......,
+SimpleCampDialogue/CampDial_Saber_Leryn_Dialogues_0,Text,,,[B]How do you heal so swiftly?,,[B]为什么你的身体恢复的这么快？,
+SimpleCampDialogue/CampDial_Saber_Leryn_Dialogues_1,Text,,,[A]Mana sustains this form.,,[A]因为我可以魔力修复自身。,
+SimpleCampDialogue/CampDial_Saber_Leryn_Dialogues_2,Text,,,[B]Is it your physiology?,,[B]是因为身体构造吗？,
+SimpleCampDialogue/CampDial_Saber_Leryn_Dialogues_3,Text,,,[A]Servant bodies are... unique.,,[A]或许吧，英灵的身体确实异于常人,
+SimpleCampDialogue/CampDial_Saber_Leryn_Dialogues_4,Text,,,[B](Muttering) Servants... I must study this...,,[B]（喃喃自语）……英灵......真想一探究竟......,
+SimpleCampDialogue/CampDial_Saber_Lian_Dialogues_0,Text,,,[A]How does it feel to protect others?,,[A]守护众人的感觉如何？,
+SimpleCampDialogue/CampDial_Saber_Lian_Dialogues_1,Text,,,[B]...They’re my comrades. It’s my duty.,,[B]......他们是我的同伴，守护他们是我的职责。,
+SimpleCampDialogue/CampDial_Saber_Lian_Dialogues_2,Text,,,[A]Is that so? (Smiles),,[A]是么（笑）,
+SimpleCampDialogue/CampDial_Saber_Lian_Dialogues_3,Text,,,[A]I rather like you.,,[A]我很喜欢你。,
+SimpleCampDialogue/CampDial_Saber_Lian_Dialogues_4,Text,,,[B]⁄(⁄ ⁄ ⁄ _ ⁄ ⁄ ⁄)⁄ (Blushing),,[B]⁄(⁄ ⁄ ⁄ _  ⁄ ⁄ ⁄)⁄(脸红）,
+SimpleCampDialogue/CampDial_Saber_Miss_Dialogues_0,Text,,,"[B]My, what an adorable little girl! Come give your big sister a hug~",,[B]呀，好可爱的小姑娘，来让姐姐抱抱。,
+SimpleCampDialogue/CampDial_Saber_Miss_Dialogues_1,Text,,,[A](Blushing while pushing away) Why... such... revealing attire?,,[A]（红着脸推开）......为何，穿着如此......暴露。,
+SimpleCampDialogue/CampDial_Saber_Miss_Dialogues_2,Text,,,"[B]Everyone has their preferences! You wear armor, don’t you?",,[B]每个人有每个人的喜好啊，你不是也穿着铠甲？,
+SimpleCampDialogue/CampDial_Saber_Miss_Dialogues_3,Text,,,"[A]Hmm, you’re right. My apologies.",,[A]嗯，抱歉，你说得对。,
+SimpleCampDialogue/CampDial_Saber_Miss_Dialogues_4,Text,,,"[B]Hahaha, no worries! Here, have some barbecue!",,[B]哈哈哈，没关系，来，给你吃烤肉！,
+SimpleCampDialogue/CampDial_Saber_Miss_Dialogues_5,Text,,,[A](Satisfied) Delicious. My gratitude.,,[A]（满足）真美味。感激不尽。,
+SimpleCampDialogue/CampDial_Saber_Miss_Dialogues_6,Text,,,[B](Breathing heavily) Hah... Hah... You’ve got quite the appetite...,,[B]（气喘吁吁）呼......呼......你的食量还真大......,
+SimpleCampDialogue/CampDial_Saber_Momori_Dialogues_0,Text,,,[B]Do you think I’m cute?,,[B]你觉得我可爱吗？,
+SimpleCampDialogue/CampDial_Saber_Momori_Dialogues_1,Text,,,[A]An idol? You remind me of someone.,,[A]偶像？看到你就会让我想起一个人。,
+SimpleCampDialogue/CampDial_Saber_Momori_Dialogues_2,Text,,,[B]Who? Cuter than me?,,[B]谁啊？有我可爱吗？,
+SimpleCampDialogue/CampDial_Saber_Momori_Dialogues_3,Text,,,[A]She had pink horns. Both of you are lovely.,,[A]她有一双粉色的角。你们都很可爱。,
+SimpleCampDialogue/CampDial_Saber_Momori_Dialogues_4,Text,,,[B]Hehe❤~,,[B]嘻嘻❤~,
+SimpleCampDialogue/CampDial_Saber_Narhan_Dialogues_0,Text,,,[B]Who are you? Why can’t I read your mind?,,[B]你到底是谁？为何我读不出你的思想？,
+SimpleCampDialogue/CampDial_Saber_Narhan_Dialogues_1,Text,,,[A]Because I am a Heroic Spirit.,,[A]因为我是英灵。,
+SimpleCampDialogue/CampDial_Saber_Narhan_Dialogues_2,Text,,,[B]Heroic Spirit?,,[B]英灵？,
+SimpleCampDialogue/CampDial_Saber_Narhan_Dialogues_3,Text,,,[A]Heroic Spirit.,,[A]英灵。,
+SimpleCampDialogue/CampDial_Saber_Narhan_Dialogues_4,Text,,,[B]...Fascinating.,,[B]……那就有意思了。,
+SimpleCampDialogue/CampDial_Saber_Pheonix_Dialogues_0,Text,,,[A](Grabbing),,[A]（抓住）,
+SimpleCampDialogue/CampDial_Saber_Pheonix_Dialogues_1,Text,,,[B]What’s happening?! (Panicked),,[B]怎么回事，什么情况（惊恐,
+SimpleCampDialogue/CampDial_Saber_Pheonix_Dialogues_2,Text,,,[A](Squishes repeatedly) (Releases),,[A]（揉搓揉搓）（放下）,
+SimpleCampDialogue/CampDial_Saber_Pheonix_Dialogues_3,Text,,,[B]???,,[B]？？？,
+SimpleCampDialogue/CampDial_Saber_Priest_Dialogues_0,Text,,,[B]I’ve never seen you before. Are you a knight of God?,,[B]我从没见过你，你是神的骑士？,
+SimpleCampDialogue/CampDial_Saber_Priest_Dialogues_1,Text,,,[A]Not a knight of God.,,[A]并非是神的骑士。,
+SimpleCampDialogue/CampDial_Saber_Priest_Dialogues_2,Text,,,[B]Then whose knight are you?,,[B]那你是谁的骑士？,
+SimpleCampDialogue/CampDial_Saber_Priest_Dialogues_3,Text,,,[A]The people’s.,,[A]人民,
+SimpleCampDialogue/CampDial_Saber_Priest_Dialogues_4,Text,,,[A]I once slew a god.,,[A]神，我曾经斩下过。,
+SimpleCampDialogue/CampDial_Saber_Priest_Dialogues_5,Text,,,[B]...,,[B]......,
+SimpleCampDialogue/CampDial_Saber_Red_Dialogues_0,Text,,,[A]Are you twins?,,[A]你们是双胞胎？,
+SimpleCampDialogue/CampDial_Saber_Red_Dialogues_1,Text,,,[B]Why ask?,,[B]怎么了？,
+SimpleCampDialogue/CampDial_Saber_Red_Dialogues_2,Text,,,[A]No reason. I occasionally encounter other versions of myself.,,[A]没什么，只是想起来会时不时见到其他的自己,
+SimpleCampDialogue/CampDial_Saber_Red_Dialogues_3,Text,,,[B]What...?,,[B]什么......?,
+SimpleCampDialogue/CampDial_Saber_SilverStein_Dialogues_0,Text,,,[A]Can this firearm be enhanced with magecraft?,,[A]这把枪能以魔术驱动吗？,
+SimpleCampDialogue/CampDial_Saber_SilverStein_Dialogues_1,Text,,,[B]Magecraft? Why would a gun need such nonsense...,,[B]魔术？为什么枪会需要魔术那种东西......,
+SimpleCampDialogue/CampDial_Saber_SilverStein_Dialogues_2,Text,,,[A]Hmm. An old acquaintance once... Never mind.,,[A]嗯，因为曾经有一位故人......算了。,
+SimpleCampDialogue/CampDial_Saber_SilverStein_Dialogues_3,Text,,,[B]...What was that?,,[B]……那是什么？,
+SimpleCampDialogue/CampDial_Saber_Sizz_Dialogues_0,Text,,,"[B]Big sister Artoria, why are you so young yet so battle-hardened?",,[B]阿尔托莉雅姐姐，为什么你看上去岁数不大战斗经验却这么丰富呢？,
+SimpleCampDialogue/CampDial_Saber_Sizz_Dialogues_1,Text,,,[A]Truthfully... I’ve fought countless wars.,,[A]实际上......我其实已经历战无数了。,
+SimpleCampDialogue/CampDial_Saber_Sizz_Dialogues_2,Text,,,[B]Huh? (Tilts head),,[B]欸？（歪头）,
+SimpleCampDialogue/CampDial_Saber_Sizz_Dialogues_3,Text,,,[A]Such battlefield tales... are best left untold.,,[A]这般战场之事，你还是莫要知道为好......,
+SimpleCampDialogue/CampDial_Saber_Trisha_Dialogues_0,Text,,,"[B]King of Knights, what’s your opinion on Assassins?",,[B]骑士王，你对刺客怎么看？,
+SimpleCampDialogue/CampDial_Saber_Trisha_Dialogues_1,Text,,,"[A]Assassins? Formidable foes, but lacking honor.",,[A]Assassin？很强的对手，但是不太磊落。,
+SimpleCampDialogue/CampDial_Saber_Trisha_Dialogues_2,Text,,,"[B]Do ""honorable Assassins"" even exist?",,[B]难道还有光明正大刺杀的刺客吗？,
+SimpleCampDialogue/CampDial_Saber_Trisha_Dialogues_3,Text,,,[A]Well... I once met an elderly Assassin who wielded a greatsword...,,[A]这个嘛，曾经我见过一位年迈的Assassin，他的武器可是一把巨剑......,
+SimpleCampDialogue/CampDial_Saber_Trisha_Dialogues_4,Text,,,[B]???,,[B]？？？,
+SimpleCampDialogue/CampDial_saber_Assassin_Dialogues_0,Text,,,"[A]Greetings, First Hassan.",,[A]向您致意，初代哈桑。,
+SimpleCampDialogue/CampDial_saber_Assassin_Dialogues_1,Text,,,[B]King of Knights... Formalities are unnecessary...,,[B]骑士王啊，无需如此......,
+SimpleCampDialogue/CampDial_saber_Assassin_Dialogues_2,Text,,,[A]You deserve respect.,,[A]您值得尊敬。,
+SimpleCampDialogue/CampDial_saber_Assassin_Dialogues_3,Text,,,[B]As do you...,,[B]汝亦如此......,
+SimpleCampDialogue/CampDial_saber_Azar_Dialogues_0,Text,,,[A]You... You’re odd. You’re concealing something.,,[A]你，很奇怪，你在隐瞒什么。,
+SimpleCampDialogue/CampDial_saber_Azar_Dialogues_1,Text,,,[B]Not your concern.,,[B]与你无关。,
+SimpleCampDialogue/CampDial_saber_Azar_Dialogues_2,Text,,,[A]But it concerns our Master's safety.,,[A]但是与Master的安危有关。,
+SimpleCampDialogue/CampDial_saber_Azar_Dialogues_3,Text,,,"[B]Master? Lucy, right? Rest assured, I will never harm her.",,[B]Master？露西么，放心吧，我永远不会伤害她。,
+SimpleCampDialogue/CampDial_saber_Azar_Dialogues_4,Text,,,[A]I will protect her.,,[A]我会守护她的。,
+SimpleCampDialogue/CampDial_saber_Berserker_Dialogues_0,Text,,,[A]Didn’t expect you to come.,,[A]想不到你也会来。,
+SimpleCampDialogue/CampDial_saber_Berserker_Dialogues_1,Text,,,[A]You’re a mighty warrior. I’m at ease leaving Lucy in your care.,,[A]你是一个强大的战士。露西交给你守护，我很安心。,
+SimpleCampDialogue/CampDial_saber_Berserker_Dialogues_2,Text,,,[B]Nods,,[B]（点头）,
+SimpleCampDialogue/CampDial_saber_Blue_Dialogues_0,Text,,,[A]You two are such good sisters.,,[A]你们真是一对好姐妹。,
+SimpleCampDialogue/CampDial_saber_Blue_Dialogues_1,Text,,,[B]Wh...What?,,[B]什......什么？,
+SimpleCampDialogue/CampDial_saber_Blue_Dialogues_2,Text,,,"[A]I mean, you share a close bond.",,[A]我的意思是，你们感情很好,
+SimpleCampDialogue/CampDial_saber_Blue_Dialogues_3,Text,,,[B]Th...Thank you.,,[B]谢......谢谢,
+SimpleCampDialogue/CampDial_saber_Charon_Dialogues_0,Text,,,[B]Whoa! What’s this? An invisible sword? What magic is this?,,[B]哇！这是什么？隐形的剑？这是什么魔法？,
+SimpleCampDialogue/CampDial_saber_Charon_Dialogues_1,Text,,,[A]Just wind cloaking the blade. Nothing special.,,[A]嗯，这不过是将风包裹剑身罢了，没什么好稀奇的。,
+SimpleCampDialogue/CampDial_saber_Charon_Dialogues_2,Text,,,[B]Amazing! Can I learn it?,,[B]真是神奇！我可以学吗？,
+SimpleCampDialogue/CampDial_saber_Charon_Dialogues_3,Text,,,[A]Likely not.,,[A]大概，是不可以的吧,
+SimpleCampDialogue/CampDial_saber_Charon_Dialogues_4,Text,,,[B]So saaad~,,[B]好可惜哦~,
+SimpleCampDialogue/CampDial_saber_Hein_Dialogues_0,Text,,,[B]You look strong. Spar with me?,,[B]你看起来很强，陪我过两招？,
+SimpleCampDialogue/CampDial_saber_Hein_Dialogues_1,Text,,,[A]Knights don’t resort to violence.,,[A]骑士并不斥诸暴力,
+SimpleCampDialogue/CampDial_saber_Hein_Dialogues_2,Text,,,"[B]Tch, so small yet so uptight.",,[B]嘁，人不大规矩倒挺多,
+SimpleCampDialogue/CampDial_saber_Hein_Dialogues_3,Text,,,[A]We could have an eating contest instead.,,[A]我们也可以比赛吃饭。,
+SimpleCampDialogue/CampDial_saber_Hein_Dialogues_4,Text,,,[B]...Huh?,,[B]......哈？,
+SimpleCampDialogue/CampDial_saber_Huz_Dialogues_0,Text,,,[B]You’re a queen too? Do you share... certain tastes?,,[B]你也是女王？你也有这样的爱好吗？,
+SimpleCampDialogue/CampDial_saber_Huz_Dialogues_1,Text,,,[A]What tastes?,,[A]什么爱好？,
+SimpleCampDialogue/CampDial_saber_Huz_Dialogues_2,Text,,,[B]The artistry of pain.,,[B]展现痛苦的艺术,
+SimpleCampDialogue/CampDial_saber_Huz_Dialogues_3,Text,,,[A](Shakes head) I’d never wish suffering upon my people.,,[A]（摇头）我不希望我的人民遭受痛苦。,
+SimpleCampDialogue/CampDial_saber_Ilya_Dialogues_0,Text,,,[B]Saber? Odd title. Does that make me a Saber too?,,[B]Saber？好奇特的称呼，那么我也算Saber吗?,
+SimpleCampDialogue/CampDial_saber_Ilya_Dialogues_1,Text,,,[A]Perhaps! I once met a Saber wielding twin blades.,,[A]或许吧！说起来，我也曾见过手持双剑的Saber。,
+SimpleCampDialogue/CampDial_saber_Ilya_Dialogues_2,Text,,,[B]Oh? Who?,,[B]哦？那位是？,
+SimpleCampDialogue/CampDial_saber_Ilya_Dialogues_3,Text,,,[A]Miyamoto Musashi.,,[A]宫本武藏。,
+SimpleCampDialogue/CampDial_saber_Ilya_Dialogues_4,Text,,,[B]How... unconventional.,,[B]那可真是......,
+SimpleCampDialogue/CampDial_saber_Iron_Dialogues_0,Text,,,"[B]Stay behind me, girl. I’ll protect everyone.",,[B]小姑娘，站到我身后去吧，我会保护你们所有人。,
+SimpleCampDialogue/CampDial_saber_Iron_Dialogues_1,Text,,,[A]You seem a dependable ally.,,[A]你看起来像是一位可靠的同伴。,
+SimpleCampDialogue/CampDial_saber_Iron_Dialogues_2,Text,,,"[B]Er, thanks.",,[B]呃，谢谢。,
+SimpleCampDialogue/CampDial_saber_Iron_Dialogues_3,Text,,,[A]But I’m no delicate maiden.,,[A]但我也不是什么弱不禁风的小姑娘,
+SimpleCampDialogue/CampDial_saber_Iron_Dialogues_4,Text,,,[A]At least we fight the same fight.,,[A]至少，我们在做一样的事,
+SimpleCampDialogue/CampDial_saber_Iron_Dialogues_5,Text,,,[B]True enough.,,[B]你说得对。,
+SimpleCampDialogue/CampDial_saber_Joey_Dialogues_0,Text,,,"[B]Where’d you even come from, mystery woman?",,[B]你这家伙，神神秘秘的，到底从何而来？,
+SimpleCampDialogue/CampDial_saber_Joey_Dialogues_1,Text,,,[A]Lucy’s room.,,[A]露西的房间,
+SimpleCampDialogue/CampDial_saber_Joey_Dialogues_2,Text,,,[B]...Vague as ever.,,[B]......这种模棱两可的答案。,
+SimpleCampDialogue/CampDial_saber_Joey_Dialogues_3,Text,,,"[A]Doctor, prying into secrets is unbecoming.",,[A]这位医者，随意打探他人隐私，可不是什么良好品质。,
+SimpleCampDialogue/CampDial_saber_Joey_Dialogues_4,Text,,,[B]Tch.,,[B]啧,
+SimpleCampDialogue/CampDial_saber_Johan_Dialogues_0,Text,,,"[B]One day, I’ll have my vengeance.",,[B]总有一天，我会复仇。,
+SimpleCampDialogue/CampDial_saber_Johan_Dialogues_1,Text,,,[A]Blind hatred will consume you.,,[A]被仇恨蒙蔽双眼，可不是什么好事。,
+SimpleCampDialogue/CampDial_saber_Johan_Dialogues_2,Text,,,[B]What do you know?,,[B]你又懂什么？,
+SimpleCampDialogue/CampDial_saber_Johan_Dialogues_3,Text,,,"[A]Once, a blade of hatred pierced my heart... wielded by my own child.",,[A]曾经，一把仇恨的利剑直指我的胸口......它来自我的孩子。,
+SimpleCampDialogue/CampDial_saber_Johan_Dialogues_4,Text,,,[B]...My apologies.,,[B]抱歉......,
+SimpleCampDialogue/CampDial_saber_Leryn_Dialogues_0,Text,,,[B]How do you heal so fast?,,[B]为什么你的身体恢复的这么快？,
+SimpleCampDialogue/CampDial_saber_Leryn_Dialogues_1,Text,,,[A]Mana restores this form.,,[A]因为我可以魔力修复自身。,
+SimpleCampDialogue/CampDial_saber_Leryn_Dialogues_2,Text,,,[B]Your physiology?,,[B]是因为身体构造吗？,
+SimpleCampDialogue/CampDial_saber_Leryn_Dialogues_3,Text,,,[A]Heroic Spirits have unique bodies.,,[A]或许吧，英灵的身体确实异于常人,
+SimpleCampDialogue/CampDial_saber_Leryn_Dialogues_4,Text,,,[B](Muttering) Heroic Spirits... I must study this...,,[B]（喃喃自语）……英灵......真想一探究竟......,
+SimpleCampDialogue/CampDial_saber_Lian_Dialogues_0,Text,,,[A]How does it feel to protect others?,,[A]守护众人的感觉如何？,
+SimpleCampDialogue/CampDial_saber_Lian_Dialogues_1,Text,,,[B]...They’re my comrades. It’s my duty.,,[B]......他们是我的同伴，守护他们是我的职责。,
+SimpleCampDialogue/CampDial_saber_Lian_Dialogues_2,Text,,,[A]Is that so? (Smiles),,[A]是么（笑）,
+SimpleCampDialogue/CampDial_saber_Lian_Dialogues_3,Text,,,[B]What’s so funny?,,[B]你笑什么？,
+SimpleCampDialogue/CampDial_saber_Lian_Dialogues_4,Text,,,[A]I rather like you.,,[A]我很喜欢你。,
+SimpleCampDialogue/CampDial_saber_Lian_Dialogues_5,Text,,,[B]⁄(⁄ ⁄ ⁄ _ ⁄ ⁄ ⁄)⁄ (Blushing),,[B]⁄(⁄ ⁄ ⁄ _  ⁄ ⁄ ⁄)⁄(脸红）,
+SimpleCampDialogue/CampDial_saber_Miss_Dialogues_0,Text,,,"[B]My, what an adorable little girl! Come give your big sister a hug~",,[B]呀，好可爱的小姑娘，来让姐姐抱抱。,
+SimpleCampDialogue/CampDial_saber_Miss_Dialogues_1,Text,,,[A](Blushing while pushing away) Why... such... revealing attire?,,[A]（红着脸推开）......为何，穿着如此......暴露。,
+SimpleCampDialogue/CampDial_saber_Miss_Dialogues_2,Text,,,"[B]Everyone has their preferences! You wear armor, don’t you?",,[B]每个人有每个人的喜好啊，你不是也穿着铠甲？,
+SimpleCampDialogue/CampDial_saber_Miss_Dialogues_3,Text,,,"[A]Hmm, you’re right. My apologies.",,[A]嗯，抱歉，你说得对。,
+SimpleCampDialogue/CampDial_saber_Miss_Dialogues_4,Text,,,"[B]Hahaha, no worries! Here, have some barbecue!",,[B]哈哈哈，没关系，来，给你吃烤肉！,
+SimpleCampDialogue/CampDial_saber_Miss_Dialogues_5,Text,,,[A](Satisfied) Delicious. My gratitude.,,[A]（满足）真美味。感激不尽。,
+SimpleCampDialogue/CampDial_saber_Miss_Dialogues_6,Text,,,[B](Breathing heavily) Hah... Hah... You’ve got quite the appetite...,,[B]（气喘吁吁）呼......呼......你的食量还真大......,
+SimpleCampDialogue/CampDial_saber_Momori_Dialogues_0,Text,,,[B]Do you think I’m cute?,,[B]你觉得我可爱吗？,
+SimpleCampDialogue/CampDial_saber_Momori_Dialogues_1,Text,,,[A]You remind me of someone.,,[A]看到你就会让我想起一个人。,
+SimpleCampDialogue/CampDial_saber_Momori_Dialogues_2,Text,,,[B]Who? Cuter than me?,,[B]谁啊？有我可爱吗？,
+SimpleCampDialogue/CampDial_saber_Momori_Dialogues_3,Text,,,[A]She had pink horns. Both of you are lovely.,,[A]她有一双粉色的角。你们都很可爱。,
+SimpleCampDialogue/CampDial_saber_Momori_Dialogues_4,Text,,,[B]Hehe❤~,,[B]嘻嘻❤~,
+SimpleCampDialogue/CampDial_saber_Narhan_Dialogues_0,Text,,,[B]Who are you? Why can’t I read your mind?,,[B]你到底是谁？为何我读不出你的思想？,
+SimpleCampDialogue/CampDial_saber_Narhan_Dialogues_1,Text,,,[A]Because I am a Heroic Spirit.,,[A]因为我是英灵。,
+SimpleCampDialogue/CampDial_saber_Narhan_Dialogues_2,Text,,,[B]Heroic Spirit?,,[B]英灵？,
+SimpleCampDialogue/CampDial_saber_Narhan_Dialogues_3,Text,,,[A]Heroic Spirit.,,[A]英灵。,
+SimpleCampDialogue/CampDial_saber_Narhan_Dialogues_4,Text,,,[B]Interesting...,,[B]有意思......,
+SimpleCampDialogue/CampDial_saber_Pheonix_Dialogues_0,Text,,,[A]Grabbing,,[A]（抓住）,
+SimpleCampDialogue/CampDial_saber_Pheonix_Dialogues_1,Text,,,[B]What’s happening?! (Panicked),,[B]怎么回事，什么情况（惊恐）,
+SimpleCampDialogue/CampDial_saber_Pheonix_Dialogues_2,Text,,,[A](Squishes repeatedly) (Releases),,[A]（揉搓揉搓）（放下）,
+SimpleCampDialogue/CampDial_saber_Pheonix_Dialogues_3,Text,,,[B]???,,[B]？？？,
+SimpleCampDialogue/CampDial_saber_Priest_Dialogues_0,Text,,,[B]I’ve never seen you before. Are you a knight of God?,,[B]我从没见过你，你是神的骑士？,
+SimpleCampDialogue/CampDial_saber_Priest_Dialogues_1,Text,,,[A]Not a knight of God.,,[A]并非是神的骑士。,
+SimpleCampDialogue/CampDial_saber_Priest_Dialogues_2,Text,,,[B]Then whose knight are you?,,[B]那你是谁的骑士？,
+SimpleCampDialogue/CampDial_saber_Priest_Dialogues_3,Text,,,[A]The people’s.,,[A]人民。,
+SimpleCampDialogue/CampDial_saber_Priest_Dialogues_4,Text,,,[A]I once slew a god.,,[A]神，我曾经斩下过。,
+SimpleCampDialogue/CampDial_saber_Priest_Dialogues_5,Text,,,[B]...,,[B]......,
+SimpleCampDialogue/CampDial_saber_Red_Dialogues_0,Text,,,[A]Are you twins?,,[A]你们是双胞胎？,
+SimpleCampDialogue/CampDial_saber_Red_Dialogues_1,Text,,,[B]Why ask?,,[B]怎么了？,
+SimpleCampDialogue/CampDial_saber_Red_Dialogues_2,Text,,,[A]No reason. I occasionally encounter other versions of myself.,,[A]没什么，只是想起来会时不时见到其他的自己,
+SimpleCampDialogue/CampDial_saber_Red_Dialogues_3,Text,,,[B]What...?,,[B]什么......?,
+SimpleCampDialogue/CampDial_saber_Ruler_Dialogues_0,Text,,,[A]How are you adjusting?,,[A]怎么样，还习惯吗？,
+SimpleCampDialogue/CampDial_saber_Ruler_Dialogues_1,Text,,,[B]This world is... more than I imagined.,,[B]嗯，这个世界比我想象的还要......,
+SimpleCampDialogue/CampDial_saber_Ruler_Dialogues_2,Text,,,[A]I understand. That’s why our strength is needed.,,[A]我明白，所以才需要我们的力量。,
+SimpleCampDialogue/CampDial_saber_Ruler_Dialogues_3,Text,,,[B]Yes... May the Lord’s grace guide us.,,[B]嗯，愿主庇佑。,
+SimpleCampDialogue/CampDial_saber_SilverStein_Dialogues_0,Text,,,[A]Can this firearm be enhanced with magecraft?,,[A]这把枪能以魔术驱动吗？,
+SimpleCampDialogue/CampDial_saber_SilverStein_Dialogues_1,Text,,,[B]Magecraft? Why would a gun need such nonsense...,,[B]魔术？为什么枪会需要魔术那种东西......,
+SimpleCampDialogue/CampDial_saber_SilverStein_Dialogues_2,Text,,,[A]Hmm. An old acquaintance once... Never mind.,,[A]嗯，因为曾经有一位故人......算了。,
+SimpleCampDialogue/CampDial_saber_SilverStein_Dialogues_3,Text,,,[B]...What was that?,,[B]……那是什么？,
+SimpleCampDialogue/CampDial_saber_Sizz_Dialogues_0,Text,,,"[B]Big sister Artoria, why are you so young yet so battle-hardened?",,[B]阿尔托莉雅姐姐，为什么你看上去岁数不大战斗经验却这么丰富呢？,
+SimpleCampDialogue/CampDial_saber_Sizz_Dialogues_1,Text,,,[A]Truthfully... I’ve fought countless wars.,,[A]实际上......我其实已经历战无数了。,
+SimpleCampDialogue/CampDial_saber_Sizz_Dialogues_2,Text,,,[B]Huh? (Tilts head),,[B]欸？（歪头）,
+SimpleCampDialogue/CampDial_saber_Sizz_Dialogues_3,Text,,,[A]Such battlefield tales... are best left untold.,,[A]这般战场之事，你还是莫要知道为好......,
+SimpleCampDialogue/CampDial_saber_Trisha_Dialogues_0,Text,,,"[B]King of Knights, what’s your opinion on Assassins?",,[B]骑士王，你对刺客怎么看？,
+SimpleCampDialogue/CampDial_saber_Trisha_Dialogues_1,Text,,,"[A]Assassins? Formidable foes, but lacking honor.",,[A]Assassin？很强的对手，但是不太磊落。,
+SimpleCampDialogue/CampDial_saber_Trisha_Dialogues_2,Text,,,"[B]Do ""honorable Assassins"" even exist?",,[B]难道还有光明正大刺杀的刺客吗？,
+SimpleCampDialogue/CampDial_saber_Trisha_Dialogues_3,Text,,,[A]Well... I once met an elderly Assassin who wielded a greatsword...,,[A]这个嘛，曾经我见过一位年迈的Assassin，他的武器可是一把巨剑......,
+SimpleCampDialogue/CampDial_saber_Trisha_Dialogues_4,Text,,,[B]???,,[B]？？？,
+Skill/Assassin_anning_Description,Text,,,"Generate「No One to Welcome You」
+
+<color=#483D8B>Presence Concealment</color>: Skill cost -1.
+<color=#808080>Death Bell</color> (4): Enter 「<color=#483D8B>Presence Concealment</color>」
+
+<color=#808080>How pitiful! You shall find no peace in this life!</color>",,"生成「亦未有迎接」
+
+<color=#483D8B>气息遮断</color>：技能消耗-1
+<color=#808080>晚钟</color>（4）：进入「<color=#483D8B>气息遮断</color>」
+
+<color=#808080>如此可悲！汝此生不得安宁!</color>",
+Skill/Assassin_anning_Name,Text,,,TODO,,不得安宁,
+Skill/Assassin_baoju_Description,Text,,,"Pierce Defense
+50% chance to inflict Instant Death. Deals 50% extra damage to Bosses. Triggers 「<color=#808080>Death Bell</color>」 on effect activation. 
+On kill: Enter 「<color=#483D8B>Presence Concealment</color>」
+<color=#808080>Death Bell</color> (8): This Noble Phantasm costs 0.
+Can only be used in 「<color=#483D8B>Presence Concealment</color>」 state.
+Usable while incapacitated.
+
+<color=#808080>Rank: C　Type: Anti-Unit
+Range: 1　Max Targets: 1
+Originally an ordinary greatsword, it became a Noble Phantasm after being ceaselessly wielded by the Old Man of the Mountain in the Valley of Death.
+Those struck by this blade—even gods—face true death itself.</color>",,"无视防御
+50%概率使其即死，对Boss则额外造成50%伤害，触发此效果时，敲响「<color=#808080>晚钟</color>」
+击杀时：进入「<color=#483D8B>气息遮断</color>」
+<color=#808080>晚钟</color>（8）：此宝具消耗为0
+只能在「<color=#483D8B>气息遮断</color>」状态下使用
+可以在无法行动期间使用
+
+<color=#808080>阶级：C　种类：对人宝具
+有效范围：1　最大捕捉：1人
+原本是一柄普通的大剑，被山の翁一生不停的挥舞，在幽谷之间浸染死气，如此才变为了宝具。
+被这柄大剑击中的目标，无论是何物，即使是神也会受到死亡的威胁，此为真真正正的死之本身</color>",
+Skill/Assassin_baoju_Name,Text,,,<color=#DC143C>Noble Phantasm Release: Angel of Death Announcement</color>,,<color=#DC143C>宝具解放·死告天使</color>,
+Skill/Assassin_duangu_Description,Text,,,"Deals additional damage equal to the higher value between 30% of target's max HP (max 60) and 180% of user's ATK.
+
+<color=#483D8B>Presence Concealment</color>: Applies 「Death Sentence」
+<color=#808080>Death Bell</color> (7): Changes additional damage to: 20% of target's max HP (max 100) and 220% of user's ATK.
+
+<color=#808080>I judge thee! Shatter bones and sinew!</color>",,"此技能额外造成伤害，取目标30%最大生命值（最高60）和180%自身攻击力间的更高值
+
+<color=#483D8B>气息遮断</color>：施加「死亡宣判」
+<color=#808080>晚钟</color>（7）：将额外伤害改为：20%目标最大生命值（最高100）和220%自身攻击力间的更高值
+
+<color=#808080>吾审判汝！折筋断骨！</color>",
+Skill/Assassin_duangu_Name,Text,,,Break Thy Bones,,断汝筋骨,
+Skill/Assassin_fuxiu_Description,Text,,,"Consumes all Mana. For each Mana spent, cast this skill twice. If 0 Mana is consumed, cast once.
+On kill: Enter 「<color=#483D8B>Presence Concealment</color>」
+
+<color=#808080>Death Bell</color> (8): 1 Mana casts it 3 times",,"消耗所有法力值，每消耗1点法力值就释放2次此技能；若消耗的法力值为0，则只释放1次
+击杀时：进入「<color=#483D8B>气息遮断</color>」
+
+<color=#808080>晚钟</color>（8）：改为1点法力值释放3次",
+Skill/Assassin_fuxiu_Name,Text,,,Decay,,腐朽,
+Skill/Assassin_fuxiu_plus_Name,Text,,,Decay,,腐朽,
+Skill/Assassin_jiaohui_Description,Text,,,"On kill: Redraw this skill.
+
+<color=#483D8B>Presence Concealment</color>: Remove one debuff from self.
+<color=#808080>Death Bell</color> (5): 33% chance to toll 「<color=#808080>Death Bell</color>」
+
+<color=#808080>How pitiable! You never learned life's lessons!</color>",,"击杀时：再次抽取此技能
+
+<color=#483D8B>气息遮断</color>：消除自身一个减益
+<color=#808080>晚钟</color>（5）：33%概率敲响「<color=#808080>晚钟</color>」
+
+<color=#808080>如此可怜！汝此生未尝教诲！</color>",
+Skill/Assassin_jiaohui_Name,Text,,,Unlearned Teachings,,未通教诲,
+Skill/Assassin_kuwei_Description,Text,,,<color=#808080>Wither! In despair and darkness!</color>,,<color=#808080>枯萎吧！在绝望与黑暗之中！</color>,
+Skill/Assassin_kuwei_Name,Text,,,Wither,,枯萎,
+Skill/Assassin_lucydraw_Description,Text,,,Draw 1 skill,,抽取1个技能,
+Skill/Assassin_lucydraw_Name,Text,,,Assassination Arts,,暗杀技法,
+Skill/Assassin_neizang_Description,Text,,,"Grants 100% Critical Rate to all held skills.
+
+<color=#808080>I judge thee! Rend flesh from bone!</color>",,"使手中的所有技能暴击率提升100%
+
+<color=#808080>吾审判汝！分脏移腑！</color>",
+Skill/Assassin_neizang_Name,Text,,,Rip Thy Organs,,击汝脏腑,
+Skill/Assassin_qixi_Description,Text,,,"This skill costs 0.
+
+<color=#483D8B>Presence Concealment</color>: Draw 1 skill.
+
+<color=#808080>I shall appear when death claims you.</color>",,"此技能消耗为0
+
+<color=#483D8B>气息遮断</color>：抽取1个技能
+
+<color=#808080>汝死亡之时，吾自会现身</color>",
+Skill/Assassin_qixi_Name,Text,,,<color=#483D8B>Presence Concealment</color>,,<color=#483D8B>气息遮断</color>,
+Skill/Assassin_sizhiyuan_Description,Text,,,"Cast immediately when drawn. Draw 1 skill, gain 2 Mana.
+
+<color=#808080>Behold! The Hassan of Hassans!</color>",,"抽取时立即释放，抽取1个技能、获得2点法力值
+
+<color=#808080>此乃！哈桑中的哈桑！</color>",
+Skill/Assassin_sizhiyuan_Name,Text,,,Abyss of Death,,死之渊,
+Skill/Assassin_xuerou_Description,Text,,,"If used immediately after drawing, guarantees Critical Hit.
+
+<color=#483D8B>Presence Concealment</color>: Deals 25% extra damage.
+<color=#808080>Death Bell</color> (6): On kill, draw 1 skill and restore 1 Mana.
+
+<color=#808080>I judge thee! Strip flesh to bury in earth!</color>",,"若抽取后立刻使用，则暴击
+
+<color=#483D8B>气息遮断</color>：且额外造成25%伤害
+<color=#808080>晚钟</color>（6）：且在击杀时抽取1个技能并回复1点法力值
+
+<color=#808080>吾审判汝！削肉葬土！</color>",
+Skill/Assassin_xuerou_Name,Text,,,Flay Thy Flesh,,去汝血肉,
+Skill/Assassin_yingjie_0_Name,Text,,,,,,
+Skill/Assassin_yingjie_Description,Text,,,"Increases target's Critical Hit vulnerability by 50% on next damage instance.
+
+<color=#483D8B>Presence Concealment</color>: Applies to all enemies.
+<color=#808080>Death Bell</color> (2): Makes effect permanent.
+
+<color=#808080>How detestable! No soul awaits your return!</color>",,"使其下次受到伤害时被暴击率提升50%
+
+<color=#483D8B>气息遮断</color>：改为对所有敌方单位施加
+<color=#808080>晚钟</color>（2）：使其持续时间变为无限
+
+<color=#808080>如此可恨！汝丧魂无人迎归！</color>",
+Skill/Assassin_yingjie_Name,Text,,,No One to Welcome You,,亦未有迎接,
+Skill/Assassin_zhansha_Description,Text,,,"Deals 2 additional instances of &a damage.
+
+<color=#483D8B>Presence Concealment</color>: Ignores target's Defense.
+<color=#808080>Death Bell</color> (3): Deals 1 extra instance.
+
+<color=#808080>How laughable! Your life bears no fruit!</color>",,"额外造成2次&a点伤害
+
+<color=#483D8B>气息遮断</color>：无视目标防御
+<color=#808080>晚钟</color>（3）：额外造成1次伤害
+
+<color=#808080>如此可笑！汝此生了无收获！</color>",
+Skill/Assassin_zhansha_Name,Text,,,Fruitless Existence,,此生无获,
+Skill/Assassin_zhansha_plus_Name,Text,,,Slaughter,,斩杀,
+Skill/Assassin_zhengming_Description,Text,,,"Damage increases by 1% for every 2% HP lost by target.
+
+<color=#483D8B>Presence Concealment</color>: Draw 1 skill.
+<color=#808080>Death Bell</color>: Shatters target's Defense.
+
+<color=#808080>How lamentable! You leave no legacy!</color>",,"目标每损失2%生命值，此技能伤害提升1%
+
+<color=#483D8B>气息遮断</color>：抽取一个技能
+<color=#808080>晚钟</color>：击碎其防御
+
+<color=#808080>如此可叹！汝此生不得证明！</color>",
+Skill/Assassin_zhengming_Name,Text,,,Unproven Legacy,,亦无证明,
+Skill/Assassin_zhineng_Description,Text,,,"Draw 1 skill and gain 1 Mana.
+Become incapacitated. Each turn: Draw 1 extra skill, restore 1 Mana. Effect ends upon taking damage.
+
+<color=#483D8B>Presence Concealment</color>: Gain 1 Perfect Dodge.
+<color=#808080>Death Bell</color> (8): Can act normally without ending effect.
+
+<color=#808080>Naivety! Thus, perish!</color>",,"抽取1个技能且获得1点法力值
+使自身无法行动，同时每回合额外抽取1个技能、回复1点法力值，受到伤害时解除
+
+<color=#483D8B>气息遮断</color>：获得一次完美闪避
+<color=#808080>晚钟</color>（8）：可以行动且不会解除
+
+<color=#808080>稚嫩！所以去死吧！</color>",
+Skill/Assassin_zhineng_Name,Text,,,Perish in Naivety,,亡于稚嫩,
+Skill/Azar_baoju_Description,Text,,,"Countdown: Grants ""Phantom Swords"" to all held skills.
+Damage increases by 8 per 0-cost skill in hand.
+
+<color=#808080>Azar's projected Noble Phantasm... What? You don't want it? Too bad!</color>",,"进入到计时：赋予手中所有技能「幻影剑」
+手中每有一个0费技能，此宝具伤害提升8点
+
+<color=#808080>阿扎尔的投影宝具......你说什么？你不想要？由不得你！</color>",
+Skill/Azar_baoju_Name,Text,,,<color=#B0E0E6>Noble Phantasm Projection: Balmung - Fall of the Heaven-Scorning Demon</color>,,<color=#B0E0E6>宝具投影·幻想大剑·天魔失坠</color>,
+Skill/Berserker_baoju_Description,Text,,,"Randomly attacks enemies 9 times, dealing &a damage each.
+This Noble Phantasm's cost equals current HP.
+Usable only when not in 「<color=#DC143C>Madness</color>」 state. Can be cast while incapacitated.
+
+<color=#808080>Rank: C~A+
+Type: Unknown
+Range: Variable
+Max Targets: －
+Description: Less a weapon, more a combat style. Heracles' Noble Phantasm ""Nine Lives"" adapts to any foe.
+As a Berserker, his accuracy is severely reduced, but the essence remains: nine strikes delivered at godly speed.</color>",,"随机攻击敌方单位9次，每次造成&a点伤害
+此宝具的消耗为当前自身生命值
+只能在非「<color=#DC143C>狂化</color>」时使用且可以在无法行动时释放
+
+<color=#808080>等级：C~A+
+类别：不明
+范围：随机应变
+最大捕捉：－
+说明：与其说是一个兵装，不如说是一个流派。英雄赫拉克勒斯的宝具“射杀百头”，是能够根据对象改变形状的万能型宝具。可以说是“流派：射杀百头”。
+在赫拉克勒斯所拥有的宝具当中，他最为信赖的宝具。其本质是“以全部攻击重合起来一般的高速来放出的9连击”。但由于以Berserker召唤，其命中率得到了大幅削弱。</color>",
+Skill/Berserker_baoju_Name,Text,,,<color=#DEB887>Sealed Noble Phantasm: Nine Lives - Axe-Sword</color>,,<color=#DEB887>封印宝具·射杀百头·斧剑</color>,
+Skill/Berserker_baoju_plus_Description,Text,,,,,,
+Skill/Berserker_baoju_plus_Name,Text,,,Axe-Sword Barrage,,斧剑连斩,
+Skill/Berserker_bilei_Description,Text,,,"Takes damage for all allies.
+
+<color=#808080>Steel-like muscles, a lion's stature—a fortress in motion. Even in madness, his strikes flow like wind.
+You are the shield guarding fragile hope. His back, sturdier than Einzbern's walls, shelters through storms.
+This tenderness transcends myth—not by Command Seal, but by the heart of Berserker.</color>",,"为所有其他友军承受伤害
+
+<color=#808080>灰色的肌肉如同钢铁，高大的身躯的魁梧胜过狮子，如果站立不动，被当成墙壁或柱子也是理所当然吧。
+然而，奔驰起来又如风一样迅速，挥动石斧的样子完全不像失去了理性。灵活机动的钢铁城塞，即使拼命击倒也会一次次站起来的身姿，果然，Berserker是最强的呢。
+你是少女唯一可以依赖的盾，是包裹孤独与脆弱的厚厚的茧。你的背后，比爱因兹贝伦城的城墙更加坚固。
+在暴风雨中把身体化为避难所，最终连神话都超越的原因，并非令咒。我想，那一定就是，名为Berserker的温柔。</color>",
+Skill/Berserker_bilei_Name,Text,,,<color=#FFFAFA>Snowfield Bastion</color>,,<color=#FFFAFA>雪城之壁</color>,
+Skill/Berserker_cannue_Description,Text,,,"Deals &a damage (20% current HP) as Pain<sprite=1> to self.
+Can target enemies below 50% HP ignoring Taunt.
+40% Critical Rate if target has Debuff<sprite=0>.
+If target has Pain<sprite=1>, extends all debuffs by 1 turn.
+If target has Disruption<sprite=2>, ignores 33% Armor.
+
+<color=#DC143C>Madness</color>: Attacks adjacent units for 40% damage, inflicts ""Bleed"" instead of effects
+Deals 15% more damage if only one target.",,"对自身造成&a点（20%当前生命值）痛苦<sprite=1>伤害
+可以无视嘲讽指定生命值低于50%的敌人
+目标有弱化<sprite=0>减益时，暴击率提升40%
+目标有痛苦<sprite=1>减益时，使其所有减益持续时间增加1回合
+目标有干扰<sprite=2>减益时，无视33%护甲
+
+<color=#DC143C>狂化</color>：攻击目标改为其两侧的单位，造成40%伤害，不应用特殊效果而是施加「流血」
+若只有一个目标，则该技能伤害提升15%",
+Skill/Berserker_cannue_Name,Text,,,Brutal Strike,,残虐暴击,
+Skill/Berserker_cuihui_Description,Text,,,"If target's countdown is 1, sets it to 99.
+
+<color=#DC143C>Madness</color>: 50% less damage, but randomly attacks another target (does not increase non-primary countdowns).",,"若目标的倒计时为1，则使其变为99
+
+<color=#DC143C>狂化</color>：伤害减少50%，但同时随机攻击一个其他角色（不增加非主目标的倒计时）",
+Skill/Berserker_cuihui_Name,Text,,,Sunder Arms,,断械,
+Skill/Berserker_duangu_Description,Text,,,"Deals &a damage (20% current HP) as Pain<sprite=1> to self.
+Damage increases based on target's current HP (up to 30%). Applies 「Broken Bones」
+
+<color=#DC143C>Madness</color>: Damage increases by 1% per 4% HP lost by target (max 15%). Applies 「Torn Sinew」",,"对自身造成&a点（20%当前生命值）痛苦<sprite=1>伤害
+此技能伤害提升，基于目标当前生命值，生命值越高，造成的伤害越高，最高提升30%，施加「断骨」
+
+<color=#DC143C>狂化</color>：此技能伤害提升改为：目标每损失4%生命值，此技能伤害提升1（最高15），施加「折筋」",
+Skill/Berserker_duangu_Name,Text,,,Shatter Bones and Sinew,,断骨折筋,
+Skill/Berserker_juesi_0_Name,Text,,,<color=#B22222>Last Stand</color>,,<color=#B22222>决死</color>,
+Skill/Berserker_juesi_Description,Text,,,"Placed atop deck at battle start.
+Grants 「Unyielding Combat」
+When receiving lethal damage without 「Twelve Labors」: Refuse death, retain 0 HP for 2 turns. Each turn, generate 1 random skill from 3 options. Die afterward.",,"战斗开始时放在牌库顶端且赋予自身
+「死战不休」
+受到致命伤害且没有十二试炼时：拒绝死亡，且保持生命值为0，持续两回合；每回合从3个自身随机技能中选择一个生成，之后立即死亡",
+Skill/Berserker_juesi_Name,Text,,,<color=#B22222>Last Stand</color>,,<color=#B22222>决死</color>,
+Skill/Berserker_jushen_Description,Text,,,"Cost decreases by 1 per ally damage taken while held.
+Damage increases by &b (based on lost HP).
+On kill: Deals &a (33% ATK) damage to all remaining enemies. Overheal self by &c (20% of damage dealt).
+
+<color=#DC143C>Madness</color>: Ignores Defense",,"在手中时，每受到1次友方伤害，此技能消耗减少1
+此技能伤害提升&b（基于已损失生命值）
+击杀时：对剩余所有敌方造成&a（33%攻击力）点伤害并超额治疗自身&c（20%此技能伤害）
+
+<color=#DC143C>狂化</color>：无视防御",
+Skill/Berserker_jushen_Name,Text,,,Colossal Strike,,巨神一击,
+Skill/Berserker_kuangbao_1_Description,Text,,,,,,
+Skill/Berserker_kuangbao_Description,Text,,,"Deals 50% of target's current HP as Pain<sprite=1> damage (cannot reduce HP below 1). Additional effects by role:
+- Attacker: Deal 1.5x damage to random enemy.
+- Defender: Create 「Barrier」 equal to 100% damage value.
+- Supporter: Draw 1 skill, restore 1 Mana.
+- Saber: Apply effects 1 & 2 at half value.
+- Assassin: Grant all allies 「<color=#483D8B>Presence Concealment</color>」
+- Ruler: Draw 3 skills.
+- Lancer: Summon 「Spinning Blue Lancer」",,"对目标造成当前生命值50%的痛苦<sprite=1>伤害（该伤害不会使其生命值少于1），并根据目标职能产生额外效果
+·攻击：对一名随机敌方单位造成1.5倍该数值的伤害
+·防御：生成「防护墙」，数值为100%该数值
+·支援：抽取1个技能，恢复1点法力值
+·Saber：同时应用效果1、2且数值减半
+·Assassin：赋予全体友方「<color=#483D8B>气息遮断</color>」
+·Ruler：抽取3个技能
+·Lancer：生成「旋转突进的蓝色枪兵」",
+Skill/Berserker_kuangbao_Name,Text,,,Frenzy,,狂暴,
+Skill/Berserker_nuhou_Description,Text,,,"Deals Pain<sprite=1> damage.
+Usable while incapacitated. Clears 「Stun」 and 「Freeze」",,"造成痛苦<sprite=1>伤害
+可以在无法行动时释放，且清除「眩晕」、「冰冻」<color=#DC143C></color>",
+Skill/Berserker_nuhou_Name,Text,,,Terrifying Roar,,战栗怒吼,
+Skill/Berserker_roulin_0_Name,Text,,,,,,
+Skill/Berserker_roulin_Description,Text,,,"Deals &a damage (33% current HP, min 1) as Pain<sprite=1>.
+On kill: Damage increases by 3 (Current &b).
+
+<color=#DC143C>Madness</color>: Deals two 40% damage instances randomly.",,"对自己造成&a（33%当前生命值且至少为1）点痛苦<sprite=1>伤害
+击杀时，此技能伤害提升3点（当前&b）
+
+<color=#DC143C>狂化</color>：随机造成2次伤害，每次40%",
+Skill/Berserker_roulin_Name,Text,,,Chronicle of Devastation,,蹂躏编年史,
+Skill/Berserker_shixue_Description,Text,,,"Deals &a damage (33% current HP) as Pain<sprite=1>. Against 「Bleeding」 targets: Converts 「Bleeding」 to 「Hemorrhage」
+
+<color=#DC143C>Madness</color>: Overheals 25% of damage dealt. 50% if target has 「Bleeding」",,"对自身造成&a点（当前生命值33%）痛苦<sprite=1>伤害；攻击被自身施加「流血」的目标时，将其「流血」改为「放血」
+
+<color=#DC143C>狂化</color>：改为超额恢复此技能伤害的25%；攻击被自身施加「流血」的目标时，恢复量提升至50%",
+Skill/Berserker_shixue_Name,Text,,,Blood Pact Strike,,歃血狂击,
+Skill/Berserker_suijia_Description,Text,,,"Deals &a damage (15% current HP) as Pain<sprite=1>.
+Ignores Defense. +50% Critical Rate against targets with Defense >0.
+
+<color=#DC143C>Madness</color>: Damage increases by 200% of target's Defense. 「Shatters」 Defense.",,"对自身造成&a点（当前生命值15%）痛苦<sprite=1>伤害
+无视防御，对防御力大于0的目标暴击率增加50%
+
+<color=#DC143C>狂化</color>：改为此技能伤害额外提升200%目标防御力并「击碎」",
+Skill/Berserker_suijia_Name,Text,,,Armor-Piercing Breaker,,透甲碎击,
+Skill/Berserker_zhanyi_Description,Text,,,"Costs 0.
+Removes 「<color=#DC143C>Madness</color>」 this turn.
+
+<color=#808080>Even madness cannot erode his will to protect the Master. Thus, war fury erupts!</color>",,"此技能消耗为0
+本回合内解除「<color=#DC143C>狂化</color>」
+
+<color=#808080>即使是心智被侵蚀，守护Master的心亦不会改变。正因如此，才会爆发滔天的战意!</color>",
+Skill/Berserker_zhanyi_Name,Text,,,Battle Frenzy,,战意爆发,
+Skill/Berserker_zhiling_Description,Text,,,Deals 25% of target's current HP as Pain<sprite=1>. Prioritizes drawing 2 attack skills (cost 0).,,对目标造成25%当前生命值的痛苦<sprite=1>伤害，优先抽取2个攻击技能，并使其消耗变为0,
+Skill/Berserker_zhiling_Name,Text,,,Command Assault,,指令攻击,
+Skill/Blue_baoju_0_Description,Text,,,Heals 2 HP per 1 cost of top discarded skill (max 4).,,根据弃牌库最上面的技能，每1点费用额外回复2点生命值（最多4点）,
+Skill/Blue_baoju_0_Name,Text,,,<color=#87CEFA>Noble Phantasm Replica: Sea-Splitting Tide Pearl</color>,,<color=#87CEFA>宝具复制·开辟海境的满干珠</color>,
+Skill/Blue_baoju_Description,Text,,,"Countdown: Grants Hela 「<color=#FF6347>Noble Phantasm Replica: Sea-Splitting Tide Pearl</color>」
+On cast: Heals 2 HP per 1 cost of top discarded skill (max 4).
+
+<color=#808080>Selina's projected Noble Phantasm. The sisters are inseparable—even their Noble Phantasms mirror each other...</color>",,"进入倒计时：为海拉生成「<color=#FF6347>宝具复制·开辟海境的满干珠</color>」
+释放时：根据弃牌库最上面的技能，每1点费用额外回复2点生命值（最多4点）
+
+<color=#808080>赛琳娜的投影宝具，两姐妹本就形影不离，宝具也是如此，使用宝具时也如此......</color>",
+Skill/Blue_baoju_Name,Text,,,<color=#87CEFA>Noble Phantasm Projection: Sea-Splitting Tide Pearl</color>,,<color=#87CEFA>宝具投影·开辟海境的满干珠</color>,
+Skill/Control_baoju_Description,Text,,,"Countdown: Applies 「Insight」 to all enemies.
+On cast: Draw 1 skill.
+
+<color=#808080>Narhan's projected Noble Phantasm from a fictional detective.
+""To read hearts with mortal wit—truly admirable.""
+                                                                             —Narhan</color>",,"进入倒计时：对所有敌人施加「洞察」
+释放时：抽取一个技能
+
+<color=#808080>纳尔汗的投影宝具，来自于一位虚构的神探。说起那位神探，也是一位能洞察人心的角色呢~
+“以凡人的能力洞察人心,确实令人敬佩”
+                                                                             ——纳尔汗</color>",
+Skill/Control_baoju_Name,Text,,,"<color=#B0E0E6>Noble Phantasm Projection: Elementary, My Dear</color>",,<color=#B0E0E6>宝具投影·此为常识，我亲爱的朋友</color>,
+Skill/Hein_baoju_Description,Text,,,"Damage increases by &a (50% lost HP). If cast near death, increases by &b (150% lost HP).
+On kill: Applies 1 stack of 「Fear」 to all enemies. Overheals &c (30% max HP).
+
+<color=#808080>Hein's projected Noble Phantasm... Why did this sword turn crimson?</color>",,"该宝具伤害提升&a（50%已损失生命值）点
+若在濒死时释放，则提升&b（150%已损失生命值）点
+击杀时，赋予其余所有敌人1层「恐惧」并超额恢复自身&c（30%最大生命值）点生命值
+
+<color=#808080>海因的投影宝具......嗯？为什么这把剑变成了红色？</color>",
+Skill/Hein_baoju_Name,Text,,,<color=#CD5C5C>Noble Phantasm Projection: Arondight - Unfading Light</color>,,<color=#CD5C5C>宝具投影·无毁之湖光</color>,
+Skill/Ilya_baoju_0_Description,Text,,,,,,
+Skill/Ilya_baoju_0_Name,Text,,,<color=#87CEEB>Secret Sword: Swallow Reversal</color>,,<color=#87CEEB>秘剑·燕返</color>,
+Skill/Ilya_baoju_Description,Text,,,"Ignores Defense. Guaranteed hit.
+Discard 1 skill to deal damage to random enemy.
+
+<color=#808080>Illya's projected Noble Phantasm from a nonexistent swordsman. This ""impossible"" technique moves faster than evasion. Somehow, Illya feels invincible wielding it...</color>",,"无视防御，必定命中
+丢弃一个技能，并对随机敌人造成伤害
+
+<color=#808080>伊利亚的投影宝具，来自于一位不存在的天才剑士。这一不可能的剑招，其速度之快，无论何人也不可能避开。不知为何，使用这一剑招时，伊利亚总会感到充满了信心......</color>",
+Skill/Ilya_baoju_Name,Text,,,<color=#87CEEB>Noble Phantasm Projection: Secret Sword - Swallow Reversal</color>,,<color=#87CEEB>宝具投影·秘剑·燕返</color>,
+Skill/Joey_baoju_Description,Text,,,"Healing increased by &a (number of buffs held).
+
+<color=#808080>Joey's projected Noble Phantasm. In some ways, its wielder truly is elite.</color>",,"此宝具治疗量增加&a（持有增益数量）
+
+<color=#808080>乔伊的投影宝具，某种意义上来说，此宝具的持有者，确实是一位真正的精英</color>",
+Skill/Joey_baoju_Name,Text,,,<color=#00FA9A>Noble Phantasm Projection: Avalon - Everdistant Utopia</color>,,<color=#00FA9A>宝具投影·永世隔绝的理想乡</color>,
+Skill/Leryn_baoju_Description,Text,,,"Countdown: Grants all allies 「Prepared」
+
+<color=#808080>Leryn's projected Noble Phantasm from the Great Polymath.
+""That person's?! Wait—is this even possible?!""
+                                                                                  —Leryn</color>",,"进入倒计时：赋予全体友方「早有准备」
+
+<color=#808080>蕾琳的投影宝具，来自于那位伟大的全才。
+“竟然是那位的？话说，这种事情是真实存在吗？”
+                                                                                  ——蕾琳
+
+",
+Skill/Leryn_baoju_Name,Text,,,<color=#DDA0DD>Noble Phantasm Projection: The Universal Man</color>,,<color=#DDA0DD>宝具投影·万全之人</color>,
+Skill/Lian_baoju_Description,Text,,,"Countdown: Grants self 「Block」
+On kill: 「Stuns」 remaining enemies.
+
+<color=#808080>Lian's projected Noble Phantasm—a massive sword fitting her aggressive style.</color>",,"进入倒计时：赋予自身「格挡」
+击杀时：使剩余敌方「眩晕」
+
+<color=#808080>莉安的投影宝具，这是一把看上去就很强力的大剑，或许很适合莉安大开大合的战斗方式</color>",
+Skill/Lian_baoju_Name,Text,,,<color=#EE82EE>Noble Phantasm Projection: Divine Sword Kusanagi</color>,,<color=#EE82EE>宝具投影·神剑·草那艺之大刀</color>,
+Skill/Mement_baoju_Description,Text,,,"Countdown: Grants self 「Tenacity」
+On cast: Brings self to Death's Door. Deals &a (100% ATK) extra damage if single target.
+
+<color=#808080>John's projected Noble Phantasm from a legendary archer who ended wars with his life. Resonates with John's resolve to reclaim his lover at all costs.</color>",,"进入倒计时：赋予自身「顽健」
+释放时：使自身陷入濒死;若目标只有1个，则额外造成&a（100%攻击力）点伤害
+
+<color=#808080>约翰的投影宝具，来自于一位传说中的大英雄，以其性命射出来这惊天一箭，终结了旷日持久的战争。想来，或许是与约翰内心不惜生命也要找回恋人的思想共鸣，才会于此显现吧！</color>",
+Skill/Mement_baoju_Name,Text,,,<color=#F5F5F5>Noble Phantasm Projection: Stella - Shooting Star</color>,,<color=#F5F5F5>宝具投影·流星一条</color>,
+Skill/MissChain_baoju_Description,Text,,,"Countdown: Grants all allies 「Counter」
+On cast: Grants 2 stacks of 「Death's Door Immunity」. If 「Burning」, applies 2 stacks of 「Agonizing Burns」
+
+<color=#808080>Chainsaw Miss's projected Noble Phantasm reeks of grudges—clashing with her personality. Perhaps the souls devoured by her chainsaw linger...</color>",,"进入倒计时：赋予全体友方「反击」
+释放时：赋予全体友方2层「濒死免疫」；若此时自身处于「燃烧」，则额外赋予敌方2层「痛苦的灼伤」
+
+<color=#808080>链锯小姐的投影宝具，嗯？从中感受到了一股怨恨的气息，这明明和链锯小姐本人一点不合嘛！这也许是那把链锯之下的亡魂在散发怨念吧......</color>",
+Skill/MissChain_baoju_Name,Text,,,<color=#F5DEB3>Noble Phantasm Projection: Rashomon's Grudge</color>,,<color=#F5DEB3>宝具投影·罗生门大怨起</color>,
+Skill/Momori_baoju_Description,Text,,,"Countdown: Nullifies damage from one 「Inner Desire」 and discards it.
+On cast: Removes 「Taunt」 if present; else applies 「Taunt」
+Cost decreases by 1 per 「Inner Desire」 held. Damage increases by &a (100% of 「Inner Desire」 damage).
+
+<color=#808080>Giggle~ Small fry♡~ Think I'll explain my Noble Phantasm? Dream on! Why would I— Hey! What're you doing?!</color>",,"进入倒计时：使一个「内心的欲望」伤害变为0，并将其丢弃
+释放时：若目标有「嘲讽」，则使其解除；否则使其获得「嘲讽」
+手中每有一个「内心的欲望」，此宝具的法力消耗-1；此宝具伤害提升&a（100%「内心的欲望」伤害值）
+
+<color=#808080>嘻嘻嘻~杂鱼♡杂鱼~，你以为我会和你介绍我的投影宝具吗？做梦去吧！区区杂鱼也想知道......你要做什么！</color>",
+Skill/Momori_baoju_Name,Text,,,<color=#FFB6C1>Noble Phantasm Projection: Painful Fantasia</color>,,<color=#FFB6C1>宝具投影·痛幻哭奏</color>,
+Skill/Phoenix_baoju_Description,Text,,,"The mighty Phoenix can't project Noble Phantasms (rage)! But at least conjures bread.
+
+<color=#808080>Hey! Why can't I project one?! (Rage)</color>",,"伟大的凤凰竟然不能进行宝具投影（怒），不过好在至少生成了一个面包。
+
+<color=#808080>喂！为什么本大爷没有投影宝具啊！（怒）</color>",
+Skill/Phoenix_baoju_Name,Text,,,<color=#DEB887>Noble Phantasm Projection: ...Bread?</color>,,<color=#DEB887>宝具投影·......面包?</color>,
+Skill/Priest_baoju_Description,Text,,,"Countdown: 「Foresight」. Generates 「Meet Your Maker!」 with -1 cost and 「Banish」
+On cast: Clears 2 debuffs.
+
+<color=#808080>Priest's projected Noble Phantasm from a warrior-saint. Now delivers divine mercy!</color>",,"进入倒计时：「预见」，生成「送你见上帝！」并使其法力消耗-1并附带「放逐」
+释放时：清除2个减益
+
+<color=#808080>普瑞斯特的投影宝具，来自于一位伟大的战士，伟大的医者！此刻，便带给汝等神的慈爱！</color>",
+Skill/Priest_baoju_Name,Text,,,<color=#B0C4DE>Noble Phantasm Projection: I Shall Eradicate All Evils</color>,,<color=#B0C4DE>宝具投影·我将根绝一切毒害</color>,
+Skill/Prime_baoju_Description,Text,,,"Countdown: Grants self 「Resolute Bulwark」
+
+<color=#808080>Ironheart's projected Noble Phantasm... Why the maiden's chant? Even gruff men have soft spots (laughs).</color>",,"进入倒计时：赋予自身「决意奋起之盾」
+
+<color=#808080>钢铁之心的投影宝具......你说为什么会是女孩子的吟唱？嘛，大叔的心里也有柔软的部分（笑）</color>",
+Skill/Prime_baoju_Name,Text,,,<color=#DCDCDC>Noble Phantasm Projection: Lord Camelot - Distant Utopia</color>,,<color=#DCDCDC>宝具投影·已然遥远的理想之城</color>,
+Skill/Queen_baoju_Description,Text,,,"Countdown: Removes 「Lash Marks」 from all allies.
+If target's countdown is 1, applies 「Stun」
+
+<color=#808080>Hui Zi's projected Noble Phantasm from another queen. Well... a true queen and a ""queen"".</color>",,"进入倒计时：解除全体友军的「治愈鞭痕」
+若目标倒计时为1，则赋予其「眩晕」
+
+<color=#808080>卉子的投影宝具，同样来自于一位女王。嗯......真正意义上的女王和“女王”</color>",
+Skill/Queen_baoju_Name,Text,,,<color=#DDA0DD>Noble Phantasm Projection: My Beloved Iron Chariot</color>,,<color=#DDA0DD>宝具投影·我心爱的钢铁战车</color>,
+Skill/Red_baoju_0_Description,Text,,,"If self has 「Moonlight Veil」, applies 2 stacks of 「Solar Flare」. At 2 stacks, guarantees Critical Hit.",,若自身拥有「月光帷幕」，则对目标施加2层「日炎」；若目标拥有2层「日炎」，则此宝具以暴击命中,
+Skill/Red_baoju_0_Name,Text,,,<color=#FF6347>Noble Phantasm Replica: Sea-Splitting Tide Pearl</color>,,<color=#FF6347>宝具复制·开辟海境的满干珠</color>,
+Skill/Red_baoju_Description,Text,,,"Countdown: Grants Selina 「<color=#87CEFA>Noble Phantasm Replica: Sea-Splitting Tide Pearl</color>」
+On cast: If self has 「Moonlight Veil」, applies 2 stacks of 「Solar Flare」. Critical Hits at 2 stacks.
+
+<color=#808080>Hela's projected Noble Phantasm. The sisters share everything—even their Noble Phantasms...</color>",,"进入倒计时：为赛琳娜生成「<color=#87CEFA>宝具复制·开辟海境的满干珠</color>」
+释放时：若自身拥有「月光帷幕」，则对目标施加2层「日炎」；若目标拥有2层「日炎」，则此宝具以暴击命中
+
+<color=#808080>海拉的投影宝具，两姐妹本就形影不离，宝具也是如此，使用宝具也是如此......</color>",
+Skill/Red_baoju_Name,Text,,,<color=#FF6347>Noble Phantasm Projection: Sea-Splitting Tide Pearl</color>,,<color=#FF6347>宝具投影·开辟海境的满干珠</color>,
+Skill/Ruler_baoju_Description,Text,,,"Countdown: Draw 2 skills.
+
+<color=#808080>Rank: A
+Type: Barrier Noble Phantasm
+Range: 1~10
+Max Targets: ???
+The holy banner Jeanne wielded in life. Converts EX-rank Magic Resistance into physical defense for 10 units. Cannot attack while active. Damage accumulates on the banner—overuse renders it unusable.
+Luminosite Eternelle: Embodies her legend of near-invincibility on battlefields.</color>",,"进入倒计时：抽取2个技能
+
+<color=#808080>等级：A
+种类：结界宝具
+距离：1~10
+最大捕捉：？？？
+贞德生前挥舞的圣旗所变成的宝具。透过天使的祝福来守护着以此旗为中心的10距离单位内部。可以把规格外（EX）的对魔力直接转变为物理防御力挡住对方的攻击。但是，举起圣旗的期间，贞德将无法进行一切攻击。并且旗帜本身会持续积累对方的攻击伤害，所以滥用的话将会再也无法使用。
+吾主在此（Luminosite Eternelle），Ruler的宝具。透过揭示圣旗，将EX等级的对魔力转换为包含对物理攻击的防御力。乃是在战场上挥舞旗帜、近乎无伤地战胜到最后的传说具现化</color>",
+Skill/Ruler_baoju_Name,Text,,,<color=#FFD700>Noble Phantasm Release: Luminosite Eternelle!</color>,,<color=#FFD700>宝具解放·吾主在此！</color>,
+Skill/Ruler_caijue_Description,Text,,,Damage increases 10% per buff on target,,目标每有一个增益，伤害提升10%,
+Skill/Ruler_caijue_Name,Text,,,Judgment,,审判,
+Skill/Ruler_canran_Description,Text,,,"Sacrifices 50% of self's ATK/DEF/Healing/Crit stats to grant them to target.
+
+<color=#808080>""Hear me, peerless heroes! Though foes or strangers, entrust your backs to each other! I am Jeanne d'Arc—your shield by God's will!""</color>",,"扣除自身50%攻击/防御/治疗力/暴击/暴击伤害/暴击治疗，将其赋予目标
+
+<color=#808080>听着！在此领域中聚集的诸位一骑当千、万夫莫敌的英灵啊！即便是水火不容的敌人，本无任何交集的异代之人，此刻互相把背后交给彼此吧！吾之真名为『圣女贞德』──奉主之名，将化作你们的盾牌！</color>",
+Skill/Ruler_canran_Name,Text,,,Radiant Sanctity Reclaimed,,灿然圣光之复权,
+Skill/Ruler_chongzhen_Description,Text,,,"Inverts target's Taunt status.
+
+<color=#808080>A petite girl charging into enemy lines... Tears well up at her valor. Truly, the Maiden of Orleans! We follow your banner!</color>",,"改变目标的嘲讽状态
+
+<color=#808080>娇小的少女，却义无反顾的冲入了敌阵。啊……念及此处，吾等的热泪不禁涌出。您无疑是真正的圣女啊！啊……圣女啊！吾等必随您的脚步！",
+Skill/Ruler_chongzhen_Name,Text,,,Battlefield Charge,,冲阵,
+Skill/Ruler_duxing_Description,Text,,,"<color=#808080>By the Lord's will, I walk this path</color>",,<color=#808080>以主之名，吾将践行此道</color>,
+Skill/Ruler_duxing_Name,Text,,,Steadfast Path,,笃行,
+Skill/Ruler_honglian_1_Description,Text,,,"Sets HP to 1.
+Draw 1 skill.
+Converts all skills to 「<color=#B22222>Crimson Holy Sword</color>」",,"将自身生命值变为1
+抽取一个技能
+将所有自身的技能转化为「<color=#B22222>红莲圣剑</color>」<color=#B22222></color>",
+Skill/Ruler_honglian_1_Name,Text,,,<color=#B22222>La Pucelle</color>,,<color=#B22222>红莲之圣女</color>,
+Skill/Ruler_honglian_1_plus_Description,Text,,,"Deals Pain<sprite=1> damage.
+Heals 25% of damage dealt.
++2 damage per stack of 「<color=#B22222>Crimson Karma</color>」 on enemies.",,"造成痛苦<sprite=1>伤害
+回复相当于25%造成伤害的生命值
+敌方每有一层「<color=#B22222>红莲业火</color>」额外造成2点伤害<color=#B22222></color>",
+Skill/Ruler_honglian_1_plus_Name,Text,,,<color=#B22222>Crimson Holy Sword</color>,,<color=#B22222>红莲圣剑</color>,
+Skill/Ruler_honglian_2_Description,Text,,,"Brings self to Death's Door.
+Deals Pain<sprite=1> damage.",,"使自身濒死
+造成痛苦<sprite=1>伤害",
+Skill/Ruler_honglian_2_Name,Text,,,<color=#B22222>La Pucelle</color>,,<color=#B22222>红莲之圣女</color>,
+Skill/Ruler_honglian_Description,Text,,,"Placed atop deck at battle start.
+Countdown: 「Prayer」
+On cast: Choose between two effects.
+
+<color=#808080>Rank: C (sealed)/EX (released)
+Type: Anti-Existence
+Range: ???
+Max Targets: ???
+La Pucelle: A conceptual armament crystallizing Jeanne's resolve. Ignites flames that once burned her. Costs her life to annihilate all targets.
+EX rank reflects immeasurable destructive power. These flames only burn for salvation—now kindled for Lucy's greater cause.</color>",,"战斗开始时将其置入牌库顶端
+进入倒计时：「祈祷」
+释放时：从两个效果中选择一个发动
+
+<color=#808080>等级：C（发动前）/EX（发动后）
+种类：特攻宝具
+攻击距离：？？？
+最大捕捉：？？？
+红莲圣女（La Pucelle），Ruler贞德使用的特攻宝具。自身的心象风景结晶化的概念武装。以Ruler生前从未用过的圣凯萨琳之剑为触媒，具现出过去曾灼烧自身的火焰。使用这宝具会使Ruler丧失性命。以自己的生命为代价，消灭一切存在。
+Rank是C的是因为剑还在鞘内，也就是使用前的状态。使用后是EX则是因为破坏力无法测量。这份火焰只会对她认为必须击垮的目标造成伤害，也就是对单纯的强敌、或是在憎恶等感情的驱使下并不能使用。
+这个火焰是为了救济某种事物的火焰，为了露西使出的这份火焰，想必也是为了救济更大的事物吧！</color>",
+Skill/Ruler_honglian_Name,Text,,,<color=#B22222>La Pucelle</color>,,<color=#B22222>红莲之圣女</color>,
+Skill/Ruler_jiushu_Description,Text,,,"Cleanses 1 random debuff.
+
+<color=#808080>""I prayed to save my people. God granted this banner. Through war's crucible, I found salvation's path!""</color>",,"净化一个随机减益
+
+<color=#808080>吾向吾主祈愿，拯救吾之人民，吾主赐予吾此身与战旗。战火遍野，吾已知晓，救赎之道就在其中！</color>",
+Skill/Ruler_jiushu_Name,Text,,,Path to Redemption,,救赎之道,
+Skill/Ruler_lingdao_Description,Text,,,<color=#808080>Could a village girl imagine such talent? You who died for France—noble and grand!</color>,,<color=#808080>曾经为村姑的少女，是否会想过自己又拥有这样的才能呢？为了祖国而毅然赴死的你，真是一名崇高而伟大的人啊！</color>,
+Skill/Ruler_lingdao_Name,Text,,,Battlefield Command,,军阵领导,
+Skill/Ruler_lucy_Description,Text,,,Draw 2 skills. Max Mana +1.,,抽取2个技能，最大法力值+1,
+Skill/Ruler_lucy_Name,Text,,,Divine Legacy,,圣迹,
+Skill/Ruler_qidao_Description,Text,,,"Skips all enemy actions this turn.
+
+<color=#808080>""Miracles exist. On the pyre, I saw France's skies and my carefree youth. Did divine revelation truly come? O Lord! I offer myself—long live my nation!""</color>",,"跳过敌方本回合内的所有行动
+
+<color=#808080>奇迹，真的存在吧？在火刑架上的我，仿佛看到了小时候，法兰西那澄澈的天空，以及无忧无虑的自己。圣女贞德，圣女啊，说到底，神明大人的启示真的存在吗？吾主啊！我向您祈祷！谨以此身交于您处置！吾国，永昌！</color>",
+Skill/Ruler_qidao_Name,Text,,,At Prayer's Pure End,,在清冽祈祷的尽头,
+Skill/Ruler_rongguang_Description,Text,,,Healing increases by 1 per buff on target.,,目标每有一个增益，治疗量提升1点,
+Skill/Ruler_rongguang_Name,Text,,,Divine Glory,,荣光,
+Skill/Ruler_shengyan_Description,Text,,,<color=#808080>Divine Edict: Smite the Foe!</color>,,<color=#808080>神言：破敌！</color>,
+Skill/Ruler_shengyan_Name,Text,,,Sacred Decree,,圣言,
+Skill/Ruler_shenming_Description,Text,,,"「Stuns」 targets at full HP.
+Heals allies for 40% of damage dealt.",,"目标生命值满时，使其「眩晕」
+为友方全体回复40%此技能伤害的生命值",
+Skill/Ruler_shenming_Name,Text,,,Divine Judgment,,神明裁决,
+Skill/Ruler_tianqi_Description,Text,,,"Discard 1 skill, draw 3.
+
+<color=#808080>""Hear God's voice—a pained whisper urging salvation.
+A girl dreaming of tomorrow fought for village, nation, and faith.
+Farewell, Jeanne of Domrémy.
+Your dreamed happiness still lingers in its skies.""</color>",,"弃置1个技能，抽取3个技能
+
+<color=#808080>听见天主之声。
+仿佛带着痛楚的平静之声
+让我去拯救民众。
+只会梦想明日的少女
+为了村庄，为了国家，
+为了主，选择了战斗之路。
+再见了，栋雷米的贞德。
+你梦想中的幸福，
+现在仍在栋雷米的天空中。</color>",
+Skill/Ruler_tianqi_Name,Text,,,Revelation of Heaven,,天之启示,
+Skill/Ruler_zhiyin_Description,Text,,,"Generates a non-rare target skill (0 cost, Banished),
+
+<color=#808080>May the Lord guide thee</color>",,"随机生成一张目标非稀有技能加入手牌并使其变为0费、放逐
+
+<color=#808080>愿主指引汝</color>",
+Skill/Ruler_zhiyin_Name,Text,,,Divine Guidance,,指引,
+Skill/Saber_Excalicur_Description,Text,,,"Countdown: 50% damage reduction + incapacitation.
+On release: Grants 「Invincibility」
+Ignores Defense, applies 「Armor Break」
+<color=#7FFFAA>Mana Burst</color>(5): Unlocks cast
+<color=#F0BCAF>Lonely Pilgrimage</color>: Grants Barrier (30% max HP)
+<color=#808080>Invisible Air</color>: Applies 4 stacks of 「<color=#A0AC8F>Wind Erosion</color>」
+<color=#ED5C26>Sword Arts</color>: Countdown: Draw 2 skills
+(Excludes <color=#ED5C26>Sword Arts</color> effects)
+
+<color=#808080>Rank: A++　Type: Anti-Fortress
+Excalibur: A divine construct forged by the planet. The pinnacle of holy swords. Its lost scabbard held true power.</color>",,"进入倒计时：获得50%减伤且无法行动，
+释放时：赋予自身「无敌」
+无视目标的防御并施加「断钢」
+<color=#7FFFAA>魔力放出</color><color=green></color>(5)：能够释放
+<color=#F0BCAF>孤独な巡礼</color>：获得30%最大生命值的防护墙
+<color=#808080>风王结界</color>：施加4层「<color=#A0AC8F>风蚀</color>」
+<color=#ED5C26>剑技</color>：进入倒计时：抽取2个技能
+不计入<color=#ED5C26>剑技
+
+<color=#808080>阶级：A++　种类：对城宝具
+<color=yellow>Excalibur
+</color>这并非人造的武器，而是由星锻造而成神造兵器。立于圣剑顶点的宝具。拥有真正强大力量的应是剑鞘，而不是剑本身，但剑鞘据说已永远遗失了。</color>",
+Skill/Saber_Excalicur_Name,Text,,,<color=#F0BC1F>Noble Phantasm Release: Excalibur - Sword of Promised Victory</color>,,<color=#F0BC1F>宝具解放·誓约胜利之剑</color>,
+Skill/Saber_baoju_Description,Text,,,"Gain 1 Mana.
+Generates target's exclusive Noble Phantasm.",,"获得1点法力值
+根据所选择的目标，生成其专属的宝具",
+Skill/Saber_baoju_Name,Text,,,Noble Phantasm Projection,,宝具投影,
+Skill/Saber_baojujiefang_Description,Text,,,"Restore 1 Mana, generate 「<color=#F0BC1F>Noble Phantasm Release: Excalibur</color>」",,恢复1点法力值并生成一张「<color=#F0BC1F>宝具解放·誓约胜利之剑</color>」,
+Skill/Saber_baojujiefang_Name,Text,,,Noble Phantasm Release,,宝具解放,
+Skill/Saber_bihu_Description,Text,,,"Deals &a Pain<sprite=1> damage to self. Grants other allies &b Barrier.
+
+<color=#7FFFAA>Mana Charge</color>",,"对自身造成（&a）点痛苦伤害并为其他友军生成（&b）点护盾
+
+<color=#7FFFAA>魔力填充</color><color=green></color>",
+Skill/Saber_bihu_Name,Text,,,Sanctuary,,庇佑,
+Skill/Saber_chongzheng1_Description,Text,,,"Clears all allies' Overload.
+<color=#ED5C26>Sword Art</color>: Gains &a Barrier (30% max HP) and draws 1 skill (does not count toward <color=#ED5C26>Sword Art</color>).",,"清除全体友方过载
+<color=#ED5C26>剑技</color>：获得&a（30%最大生命值）点保护罩并抽取一个技能
+此技能不计入<color=#ED5C26>剑技",
+Skill/Saber_chongzheng1_Name,Text,,,Reinforce Stance,,重整架势,
+Skill/Saber_chongzheng_Description,Text,,,"Clears Overload and applies 「Prepared」
+<color=#ED5C26>Sword Art</color>: Gains &a Barrier (20% max HP) and draws 1 skill (does not count toward <color=#ED5C26>Sword Art</color>).",,"清除过载并施加「整备」
+<color=#ED5C26>剑技</color>：获得&a（20%最大生命值）点保护罩并抽取一个技能
+此技能不计入<color=#ED5C26>剑技</color>",
+Skill/Saber_chongzheng_Name,Text,,,Reinforce Stance,,重整架势,
+Skill/Saber_cunxu_Description,Text,,,Gains 2 「<color=#00BFFF>Mana</color>」,,获得2点「<color=#00BFFF>魔力</color><color=blue></color>」,
+Skill/Saber_cunxu_Name,Text,,,Mana Load,,魔力装填,
+Skill/Saber_duangang_Description,Text,,,<color=#ED5C26>Sword Art</color>: Ignores Defense. Cast again once on kill.,,<color=#ED5C26>剑技</color>:无视防御，击杀时重复释放1次,
+Skill/Saber_duangang_Name,Text,,,Armor-Shattering Strike,,断钢斩,
+Skill/Saber_fengwang_Description,Text,,,"Applies 「Challenge」
+<color=#7FFFAA>Mana Burst</color>(3): Applies 「Duel」
+<color=#808080>Invisible Air</color>: Applies 1 stack of 「<color=#A0AC8F>Wind Erosion</color>」",,"施加「挑战」
+<color=#7FFFAA>魔力放出</color><color=green></color>(3):施加「决斗」
+<color=#808080>风王结界</color>:施加1层「<color=#A0AC8F>风蚀</color>」
+<color=#808080><color=green>",
+Skill/Saber_fengwang_Name,Text,,,Wind King's Hammer,,风王铁锤,
+Skill/Saber_fengya_Description,Text,,,"<color=#7FFFAA>Mana Burst</color>(2): Gains &a Barrier (20% max HP).
+<color=#808080>Invisible Air</color>: Applies 1 extra stack of 「<color=#A0AC8F>Wind Erosion</color>」
+<color=#808080>Invisible Air - Dispelled</color>: Applies 「Challenge」",,"<color=green><color=#7FFFAA>魔力放出</color></color>(2)：获得&a（自身20%最大生命值）点防护墙
+<color=#808080>风王结界</color>:额外施加1层「<color=#A0AC8F>风蚀</color>」
+<color=#808080>风王结界·散</color>:施加「挑战<color=#A0AC8F></color>」",
+Skill/Saber_fengya_Name,Text,,,Wind Pressure,,风压,
+Skill/Saber_gudu_Description,Text,,,"Grants all allies 「Invincibility」
+Grants self 「<color=#F0BCAF>Lonely Pilgrimage</color>」",,"赋予全体「无敌」
+赋予自身「 <color=#F0BCAF>孤独な巡礼</color>」",
+Skill/Saber_gudu_Name,Text,,,<color=#F0BCAF>Lonely Pilgrimage</color>,, <color=#F0BCAF>孤独な巡礼</color>,
+Skill/Saber_jiejie_Description,Text,,,"Placed atop deck at battle start.
+Grants self 「<color=#808080>Invisible Air - Dispelled</color>」. If self has ≥2 stacks of 「<color=#FF4500>Hero Creation</color>」, changes to 「<color=#808080>Invisible Air</color>」
+
+<color=#808080>This Noble Phantasm is cloaked by powerful magecraft—not invisibility. Wind distorts light refraction, hiding the blade's form.</color>",,"战斗开始时，放在牌库最上方
+赋予自身「<color=#808080>风王结界·散</color>」,若自身拥有2层及以上的「<color=#FF4500>英雄作成</color>」则改为「<color=#808080>风王结界</color>」
+
+<color=#808080>此宝具是被强力魔术守护着，而并非剑本体是透明的。缠住剑身的风改变了光的折射率，从而使得剑的形状变得看不见。</color>",
+Skill/Saber_jiejie_Name,Text,,,<color=#808080>Invisible Air</color>,,<color=#808080>风王结界</color>,
+Skill/Saber_lianzhan_Description,Text,,,"<color=#7FFFAA>Mana Burst</color>(4): Reduces cost to 0.
+<color=#808080>Invisible Air</color>: If held over 1 turn, re-draws this skill (once per turn).
+<color=#808080>Invisible Air - Dispelled</color>: Applies 「Duel」
+<color=#ED5C26>Sword Art</color>: Follow-up attacks per 「<color=#A0AC8F>Wind Erosion</color>」 stack, dealing &a damage each.",,"<color=green><color=#7FFFAA>魔力放出</color></color>(4):使法力消耗变为0
+<color=#808080>风王结界</color>:若此技能在手中超过一回合，重新抽取此技能（一回合一次）
+<color=#808080>风王结界·散</color>:施加「决斗<color=#A0AC8F></color>」
+<color=#ED5C26>剑技</color>：根据目标身上「<color=#A0AC8F>风蚀</color>」的数量追击，每次造成（&a）点伤害
+<color=#A0AC8F></color><color=#808080><color=green>",
+Skill/Saber_lianzhan_Name,Text,,,Wind King Combo Slash,,风王连斩,
+Skill/Saber_lianzhan_plus_Name,Text,,,Combo Slash,,连斩,
+Skill/Saber_lianzhan_pro_Name,Text,,,Pursuit Slash,,追斩,
+Skill/Saber_lingdao_Description,Text,,,"Grants other allies 「Fearless」 and self 「<color=#FF4500>Hero Creation</color>」
+<color=#7FFFAA>Mana Burst</color>(3): Draws 2 skills.
+<color=#F0BCAF>Lonely Pilgrimage</color>: Converts 「<color=#FF4500>Hero Creation</color>」 to 20 Barrier.
+
+<color=#808080>O King!
+Artoria's innate talent for commanding armies. A ruler of integrity who inspired knights and gave hope to the oppressed. Her path was forged not to lead the strong, but to uplift the weak.</color>",,"<color=green></color>赋予其他友方「无畏」，赋予自身「<color=red><color=#FF4500>英雄作成</color></color>」</color>
+<color=green><color=#7FFFAA>魔力放出</color></color>(3):抽取2个技能
+<color=#F0BCAF>孤独な巡礼</color>:将「<color=red><color=#FF4500>英雄作成</color></color>」改为20点防护墙
+
+<color=#808080>吾王!
+ 阿尔托莉雅，具有指挥军团的天生才能。贯彻清廉正直，大公无私的王。 其公正令骑士们愿意守护于她的身旁，令民众们在对贫困的忍耐中看到了希望。她的王者之路并不是为了统帅少数强者，而是为了领导更多无力之人而存在的。</color>",
+Skill/Saber_lingdao_Name,Text,,,King's Command,,王之领导,
+Skill/Saber_lingzhou_11_Description,Text,,,Gains 2 Mana.,,获得2点法力值,
+Skill/Saber_lingzhou_11_Name,Text,,,<color=#A02C1F>Command Seal</color>,,<color=#A02C1F>令咒</color>,
+Skill/Saber_lingzhou_1_Description,Text,,,Gains 2 Mana.,,获得2点法力值,
+Skill/Saber_lingzhou_1_Name,Text,,,<color=#A02C1F>Command Seal</color>,,<color=#A02C1F>令咒</color>,
+Skill/Saber_lingzhou_22_Description,Text,,,Overheals target by 50% max HP.,,超额恢复目标50%最大生命值,
+Skill/Saber_lingzhou_22_Name,Text,,,<color=#A02C1F>Command Seal</color>,,<color=#A02C1F>令咒</color>,
+Skill/Saber_lingzhou_2_Description,Text,,,Overheals target by 30 HP.,,超额恢复目标30点生命值,
+Skill/Saber_lingzhou_2_Name,Text,,,<color=#A02C1F>Command Seal</color>,,<color=#A02C1F>令咒</color>,
+Skill/Saber_lingzhou_3_Description,Text,,,Draws 2 skills.,,抽取2个技能,
+Skill/Saber_lingzhou_3_Name,Text,,,<color=#A02C1F>Command Seal</color>,,<color=#A02C1F>令咒</color>,
+Skill/Saber_lingzhou_Description,Text,,,"Draws 1 skill when obtained.
+Usable 3 times per battle. Choose from 3 effects on cast.
+
+<color=#808080>By my Command Seal, I order you—</color>",,"抽到时，抽取1个技能
+一场战斗只能使用3次
+释放后，从3个效果中进行选择
+
+<color=#808080>我以令咒之名，命令你——</color>",
+Skill/Saber_lingzhou_Name,Text,,,<color=#A02C1F>Command Seal</color>,,<color=#A02C1F>令咒</color>,
+Skill/Saber_ma_jianta_Description,Text,,,,,,
+Skill/Saber_ma_jianta_Name,Text,,,Trample,,践踏,
+Skill/Saber_ruodian1_Description,Text,,,"Damage increases by 10% of target's max HP (max 25). +10% damage per debuff on target.
+
+<color=#ED5C26>Sword Art</color>: Doubles damage bonus from debuffs.",,"此技能伤害额外提高目标最大生命值10%（最高25）
+目标每拥有一个减益，此技能伤害提升10%
+
+<color=#ED5C26>剑技</color>：将每个减益提供的伤害提升翻倍",
+Skill/Saber_ruodian1_Name,Text,,,Weakness Breaker,,弱点战破,
+Skill/Saber_ruodian_Description,Text,,,"Deals extra damage equal to 2x total debuff damage per remaining turn. Ignores Defense if target is below 50% HP.
+
+<color=#ED5C26>Sword Art</color>: Guaranteed Critical Hit.",,"根据目标持有的减益，对目标造成每回合减益伤害量乘以剩余回合数的2倍的额外伤害。对方生命值在50%以下时，无视对方防御。
+
+<color=#ED5C26>剑技</color>：以暴击形式命中",
+Skill/Saber_ruodian_Name,Text,,,Weakness Breaker,,弱点战破,
+Skill/Saber_shanyao_Description,Text,,,"Unplayable.
+Placed atop deck at battle start.
+Applies effects based on skill types (excludes generated skills).
+Draws 1 extra skill when obtained.
+Gains 1 「Ascension」 per skill played. Becomes playable after 10+ total 「Ascension」
+On play: Generates 「<color=#F0BC1F>Ascendant Noble Phantasm: Rhongomyniad</color>」",,"无法打出
+战斗开始时，放在牌库最上方
+根据所有技能的类型对其施加额外效果（不包括生成的技能）
+抽到这个技能时，额外抽取1个技能
+每打出1个技能获得1层「晋升」，全体累加超过10层时，此技能可以打出。
+打出时，生成「<color=#F0BC1F>擢升宝具·闪耀于终焉之枪</color>」",
+Skill/Saber_shanyao_Name,Text,,,<color=#F0BC1F>Path of Radiance</color>,,<color=#F0BC1F>闪耀之路</color>,
+Skill/Saber_shengjian_Description,Text,,,"Damage increases 10% per attack skill in hand.
+On kill: Gains 2 Mana.
+
+<color=#7FFFAA>Mana Charge</color>
+<color=#ED5C26>Sword Art</color>: Extra damage increased to 15%.",,"打出时手中每有一张攻击技能，此技能伤害额外提升10%
+若击杀目标，则获得2点法力值<color=#00BFFF>
+
+<color=#7FFFAA>魔力填充</color></color>
+<color=#ED5C26>剑技</color>：<color=red><color=#FF4500></color></color>额外伤害提升至15%",
+Skill/Saber_shengjian_Name,Text,,,<color=#FFD700>Excalibur Release</color>,,<color=#FFD700>圣剑解放</color>,
+Skill/Saber_shengqiang_Description,Text,,,"Unavoidable instant kill!
+Executes Bosses below 40% max HP.",,"不可闪避，一击必杀！
+面对Boss时，斩杀低于40%最大生命值的目标",
+Skill/Saber_shengqiang_Name,Text,,,<color=#F0BC1F>Ascendant Noble Phantasm: Rhongomyniad</color>,,<color=#F0BC1F>擢升宝具·闪耀于终焉之枪</color>,
+Skill/Saber_tujin1_Description,Text,,,"Applies 「Taunt」
+<color=#ED5C26>Sword Art</color>: Draws 1 skill.",,"赋予「嘲讽」
+<color=#ED5C26>剑技</color>：抽取一个技能",
+Skill/Saber_tujin1_Name,Text,,,Charge Slash,,突进斩,
+Skill/Saber_tujin_Description,Text,,,"Draw 1 skill.
+<color=#ED5C26>Sword Art</color>: Applies 「Taunt」",,"抽取1个技能
+<color=#ED5C26>剑技</color>：赋予「嘲讽」",
+Skill/Saber_tujin_Name,Text,,,Charge Slash,,突进斩,
+Skill/Saber_xingyun1_Description,Text,,,"Deals &a (30% ATK) extra damage to Taunted enemies.
+
+<color=#ED5C26>Sword Art</color>: Guaranteed Critical Hit.",,"对「嘲讽」中的敌人额外造成&a(30%攻击力)点伤害
+
+<color=#ED5C26>剑技</color>：以暴击形式命中",
+Skill/Saber_xingyun1_Name,Text,,,Stellar Fall,,星陨斩,
+Skill/Saber_xingyun_Description,Text,,,"Applies 「Armor Break」
+<color=#ED5C26>Sword Art</color>: Guaranteed Critical Hit.",,"赋予「断钢」
+<color=#ED5C26>剑技</color>：以暴击形式命中",
+Skill/Saber_xingyun_Name,Text,,,Stellar Fall,,星陨斩,
+Skill/Saber_zhaojia_Description,Text,,,<color=#ED5C26>Sword Art</color>: Applies 「Parry」 to self (does not count toward <color=#ED5C26>Sword Art</color>).,,"<color=#ED5C26>剑技</color>：对自己也施加「招架」
+此技能不计入<color=#ED5C26>剑技</color>",
+Skill/Saber_zhaojia_Name,Text,,,Parry,,招架,
+Skill/Saber_zuocheng1_Description,Text,,,"Draw 2 skills and increase Max Mana by 1.
+
+<color=#808080>The reason she became king was not because she drew the holy sword. Rather, because she was king—she could draw it...</color>",,"抽取2个技能<color=red><color=#FF4500></color></color>并提升1点最大法力值
+
+<color=#808080>成为王的理由，非是拔出了圣剑
+倒不如说，正因为是王
+所以才能拔出圣剑......</color>",
+Skill/Saber_zuocheng1_Name,Text,,,<color=#FF4500>Hero Creation</color>,,<color=red><color=#FF4500>英雄作成</color></color>,
+Skill/Saber_zuocheng_Description,Text,,,"Grants self 「<color=#FF4500>Hero Creation</color>」 and increases Max Mana by 1.
+
+<color=#808080>The reason she became king was not because she drew the holy sword. Rather, because she was king—she could draw it...</color>",,"赋予自身「<color=red><color=#FF4500>英雄作成</color></color>」并提升1点最大法力值
+
+<color=#808080>成为王的理由，非是拔出了圣剑
+倒不如说，正因为是王
+所以才能拔出圣剑......</color>",
+Skill/Saber_zuocheng_Name,Text,,,<color=#FF4500>Hero Creation</color>,,<color=#FF4500>英雄作成</color>,
+Skill/ShadowPriest_baoju_Description,Text,,,"Countdown: Grants all allies 「Underworld God's Deed」
+Damage increases by 5 per debuff on enemies.
+
+<color=#808080>Karen's projected Noble Phantasm from an empress beloved by gods—graceful and gifted. Perhaps Karen's ideal self. Little does she know, that empress envies her freedom.</color>",,"进入倒计时：赋予全体友方「冥府神的伟业」
+敌方每有1个减益，此宝具伤害提升5
+
+<color=#808080>卡伦的投影宝具，来自于一位女皇。受神明宠爱的她，风姿绰约、天赋卓绝，或许，这正是正是卡伦梦想中的模样吧。与其共鸣之时，卡伦又怎知，对方也同样羡慕着自己呢？</color>",
+Skill/ShadowPriest_baoju_Name,Text,,,<color=#9370DB>Noble Phantasm Projection: Unclaimed Sovereignty</color>,,<color=#9370DB>宝具投影·未执的王权</color>,
+Skill/SilverStein_baoju_Description,Text,,,"Countdown: Grants self 「Hunter of Uri」
+Damage increases by 50% of target's lost HP (max 50).
+
+<color=#808080>SilverStein's projected Noble Phantasm from a legendary hunter. Why a crossbow instead of a gun? Pfft—good hunters care about results, not weapons!</color>",,"进入倒计时：赋予自身「乌里的猎人」
+此宝具伤害提升50%目标已损失生命值（最大为50）
+
+<color=#808080>西尔弗斯坦的投影宝具，来自于一位传说中的猎人。你要问为什么是弩箭而不是铳枪吗？拜托，优秀的猎人可不会在乎武器是铳还是箭！</color>",
+Skill/SilverStein_baoju_Name,Text,,,<color=#00CED1>Noble Phantasm Projection: Arrow of Conviction</color>,,<color=#00CED1>宝具投影·射出之信念一箭</color>,
+Skill/Sizz_baoju_Description,Text,,,"Removes 1 random debuff. Grants &a Barrier (60% Healing Power) and clears Overload.
+If Eve attacked twice, gain 1 Mana.
+
+<color=#808080>Sizz's projected Noble Phantasm... Wait—so many Eves?!</color>",,"解除其1个随机减益，使其获得&a（60%治疗力)点防护罩并清除其过载
+若伊芙的攻击次数为2次，获得1点法力值
+
+<color=#808080>西斯的投影宝具......咦？有好多好多伊芙呀！</color>",
+Skill/Sizz_baoju_Name,Text,,,<color=#FFB6C1>Noble Phantasm Projection: A Story for Someone</color>,,<color=#FFB6C1>宝具投影·献给某人的故事</color>,
+Skill/Trisha_baoju_Description,Text,,,"Countdown: Grants all allies 「Shadow Clone」
+On cast: Copies a rare ally skill (0 cost). 20% chance to instantly kill non-Boss targets.
+
+<color=#808080>Trisha's projected Noble Phantasm from a (?) master assassin.
+""Shadow Clone Jutsu!""
+                                            —Trisha definitely didn't say this</color>",,"进入倒计时：为所有友方赋予「影子分身」
+放出时：随机获得友方一个稀有技能并使其变为0费
+有20%概率直接击杀目标（Boss除外）
+
+<color=#808080>特丽莎的投影宝具，来自于一名（？）技巧精湛的暗杀者
+“多重影分身之术！”
+                                            ——特丽莎并没有这么说过</color>",
+Skill/Trisha_baoju_Name,Text,,,<color=#BA55D3>Noble Phantasm Projection: Illusory Mirage</color>,,<color=#BA55D3>宝具投影·妄想幻像</color>,
+SkillExtended/Assassin_neizang_ex_Des,Text,,,"+100% Critical Rate.
+
+<color=#808080>I judge thee! Rend flesh from bone!</color>",,"此技能暴击率提升100%
+
+<color=#808080>吾审判汝！分脏移腑！</color>",
+SkillExtended/Assassin_neizang_ex_Name,Text,,,Rip Thy Organs,,击汝脏腑,
+SkillExtended/Berserker_cannue_ex_EnforceString,Text,,,,,,
+SkillExtended/Berserker_huiyi_ex_Name,Text,,,,,,
+SkillExtended/MissChain_baoju_2_EnforceString,Text,,,,,,
+SkillExtended/Saber_duangang_ex_Name,Text,,,,,,
+SkillExtended/Saber_lianzhan_ex_Des,Text,,,,,,
+SkillExtended/Saber_lianzhan_ex_Name,Text,,,,,,
+SkillExtended/Saber_lingdao_ex_Name,Text,,,Prevents self from gaining 「Fearless」,,阻止自身获得无畏,
+SkillExtended/Saber_lingzhou_3_ex_Des,Text,,,,,,
+SkillExtended/Saber_lingzhou_3_ex_Name,Text,,,,,,
+SkillExtended/Saber_lingzhou_ex_Name,Text,,,,,,
+SkillExtended/Saber_shanyao_ex_ally_Des,Text,,,Applies 「Starlight」,,施加「星光」,
+SkillExtended/Saber_shanyao_ex_ally_EnforceString,Text,,,,,,
+SkillExtended/Saber_shanyao_ex_ally_Name,Text,,,Stellar Radiance,,星耀,
+SkillExtended/Saber_shanyao_ex_enemy_Des,Text,,,Applies 「Stellar Eclipse」 to target.,,对目标施加「星蚀」,
+SkillExtended/Saber_shanyao_ex_enemy_Name,Text,,,Abyssal Radiance,,暗耀,
+SkillExtended/Saber_xingyun_ex_Name,Text,,,,,,
+SkillExtended/Skillen_Assassin_1_EnforceString,Text,,,,,,
+SkillExtended/Skillen_Assassin_1_Name,Text,,,Crownless Martial Arts: +25% Critical Rate. Draws 1 skill on Critical Hit (only 2+ cost skills).,,无冠的武艺：此技能暴击率+25%，暴击时抽取1个技能（限2费以上技能）,
+SkillExtended/Skillen_Assassin_2_Des,Text,,,,,,
+SkillExtended/Skillen_Assassin_2_EnforceString,Text,,,,,,
+SkillExtended/Skillen_Assassin_2_Name,Text,,,Assassin: Grants self 「<color=#483D8B>Presence Concealment</color>」,,暗杀者：赋予自身「<color=#483D8B>气息遮断</color>」,
+SkillExtended/Skillen_Berserker_1_EnforceString,Text,,,,,,
+SkillExtended/Skillen_Berserker_1_Name,Text,,,Berserk: Damage increases by 1% per 2% max HP lost (max 30%).,,狂暴：每受到2%最大生命值的伤害，此技能伤害提升1%，最高提升30%,
+SkillExtended/Skillen_Ruler_1_Des,Text,,,,,,
+SkillExtended/Skillen_Ruler_1_EnforceString,Text,,,Healing skill,,治疗技能,
+SkillExtended/Skillen_Ruler_1_Name,Text,,,"Purification: Can target enemies, dealing 150% healing as damage.",,净化：可以指向敌方单位，并造成治疗量150%的伤害,
+SkillExtended/Skillen_Ruler_2_EnforceString,Text,,,,,,
+SkillExtended/Skillen_Ruler_2_Name,Text,,,Revelation: Draws 1 extra skill when obtained.,,天启：抽到这个技能时，额外抽取一个技能,
+SkillExtended/Skillen_Saber_1_Des,Text,,,,,,
+SkillExtended/Skillen_Saber_1_EnforceString,Text,,,,,,
+SkillExtended/Skillen_Saber_1_Name,Text,,,Mana Transfer: Saber's Mana reduces this skill's cost by 1 per 2 Mana.,,魔力转移：阿尔托莉雅每拥有2点魔力，此技能法力消耗-1,
+SkillExtended/Skillen_Saber_2_Des,Text,,,,,,
+SkillExtended/Skillen_Saber_2_EnforceString,Text,,,,,,
+SkillExtended/Skillen_Saber_2_Name,Text,,,Sword Art: Draw 1 skill.,,剑技：抽取一个技能,
+SkillExtended/saber_fengwang_moli2_Name,Text,,,,,,
+SkillKeyword/Assassin_wanzhong_Desc,Text,,,Triggers additional effects based on 「<color=#808080>Death Bell</color>」 toll count.,,基于敲响<color=#808080>晚钟</color>的次数，额外获得效果,
+SkillKeyword/Assassin_wanzhong_Name,Text,,,<color=#808080>Death Bell</color>,,<color=#808080>晚钟</color>,
+SkillKeyword/Assassin_zheduan_D_Desc,Text,,,Gains extra effects under 「<color=#483D8B>Presence Concealment</color>」,,处于<color=#483D8B>气息遮断</color>时获得额外效果,
+SkillKeyword/Assassin_zheduan_D_Name,Text,,,<color=#483D8B>Presence Concealment</color>,,<color=#483D8B>气息遮断</color>,
+SkillKeyword/Berserker_kuanghua_D_Desc,Text,,,Triggers additional effects during 「<color=#DC143C>Madness</color>」,,「<color=#DC143C>狂化</color>」时，触发额外效果,
+SkillKeyword/Berserker_kuanghua_D_Name,Text,,,<color=#DC143C>Madness</color>,,<color=#DC143C>狂化</color>,
+SkillKeyword/Saber_challenge_D_Desc,Text,,,"Prioritizes attacking Artoria. 
+Removed when attacking target.",,"优先攻击阿尔托莉雅。
+攻击目标时解除。",
+SkillKeyword/Saber_challenge_D_Name,Text,,,Challenge,,挑战,
+SkillKeyword/Saber_challenge_plus_D_Desc,Text,,,"Cannot attack non-Artoria targets. Takes damage per turn. 
+Removed when attacking. 
+Cannot reduce HP limit.",," 无法攻击阿尔托莉雅以外的目标，并每回合受到伤害。
+攻击目标时解除。
+无法减少体力极限",
+SkillKeyword/Saber_challenge_plus_D_Name,Text,,,Duel,,决斗,
+SkillKeyword/Saber_fangchu_Desc,Text,,,Consumes stored <color=#00BFFF>Mana</color> to enhance attacks.,,</color>消耗积攒的<color=#00BFFF>魔力</color></color></color></color>，使攻击获得额外效果,
+SkillKeyword/Saber_fangchu_Name,Text,,,<color=#7FFFAA>Mana Burst</color>,,<color=#7FFFAA>魔力放出</color>,
+SkillKeyword/Saber_jianji_D_Desc,Text,,,"Does not generate <color=#00BFFF>Mana</color> when played. If previous skill was <color=#ED5C26>Sword Art</color>, gains extra effects. Grants 1 <color=#00BFFF>Mana</color> if Mana is 0 after use.",,"打出时不会增加<color=#00BFFF>魔力</color></color>，但如果上一次使用了<color=#ED5C26>剑技</color></color></color>,则获得额外的效果;若施展后<color=blue><color=#00BFFF>魔力</color></color>为0，则会获得1点<color=blue><color=#7FFFAA><color=#00BFFF>魔力</color>",
+SkillKeyword/Saber_jianji_D_Name,Text,,,<color=#ED5C26>Sword Art</color>,,<color=#ED5C26>剑技</color>,
+SkillKeyword/Saber_jiejie_A_D_Desc,Text,,,"Defense Penetration +15%
+Critical Rate +15%
+Critical Damage +35%
+Dodge +5%
+Ignores 「Taunt」
+Applies 1 stack of 「<color=#A0AC8F>Wind Erosion</color>」 on damage.
+Slight chance to reduce incoming damage.",,"防御穿透+15%
+暴击率+15%
+暴击伤害+35%
+闪避率+5%
+无视「嘲讽」
+造成伤害时附加一层<color=#A0AC8F></color>「<color=#A0AC8F>风蚀</color>」
+被攻击概率小幅减少",
+SkillKeyword/Saber_jiejie_A_D_Name,Text,,,<color=#808080>Invisible Air</color>,,<color=#808080>风王结界</color>,
+SkillKeyword/Saber_jiejie_B_D_Desc,Text,,,"Preserves HP limit.
+ATK -50%
+Critical Rate -50%
+Critical Damage -50%
+Damage Taken -25%
+Dodge +5%
+Gains 6 Barrier per turn.
+Applies 1 stack of 「<color=#A0AC8F>Wind Erosion</color>」 when damaged.
+Greatly increases aggro.",,"保护体力极限
+攻击力-50%
+暴击率-50%
+暴击伤害-50%
+受到伤害-25%
+闪避+5%
+每回合获得6点保护罩
+受到伤害时对其施加1层<color=#A0AC8F></color>「<color=#A0AC8F>风蚀</color>」
+被攻击概率大幅提升",
+SkillKeyword/Saber_jiejie_B_D_Name,Text,,,<color=#808080>Invisible Air - Dispelled</color>,,<color=#808080>风王结界·散</color>,
+SkillKeyword/Saber_jiejie_D_Desc,Text,,,Gains extra effects under 「<color=#808080>Invisible Air</color>」 or 「<color=#808080>Invisible Air - Dispelled</color>」,,自身有<color=#808080>风王结界</color>或<color=#808080>风王结界·散</color>时，获得额外效果,
+SkillKeyword/Saber_jiejie_D_Name,Text,,,<color=#808080>Invisible Air</color>,,<color=#808080>风王结界</color>,
+SkillKeyword/Saber_moli_D_Desc,Text,,,Artoria's accumulated <color=#00BFFF>Mana</color>,,</color>阿尔托莉雅所积攒的<color=#00BFFF>魔力</color></color></color>,
+SkillKeyword/Saber_moli_D_Name,Text,,,<color=#7FFFAA><color=#00BFFF>Mana</color>,,<color=#7FFFAA><color=#00BFFF>魔力</color>,
+SkillKeyword/Saber_tianchong_Desc,Text,,,Fully charges <color=#00BFFF>Mana</color>. Reduces skill cost by 1 per Mana charged.,,将自身的<color=#00BFFF>魔力</color></color></color>全部填充，每填充1点魔力，降低1点法力消耗,
+SkillKeyword/Saber_tianchong_Name,Text,,,<color=#7FFFAA>Mana Charge</color>,,<color=#7FFFAA>魔力填充</color>,
+SkillKeyword/Saber_xingguang_D_Desc,Text,,,"ATK +10%
+DEF +5%
+
+<color=#808080>She is the star's beloved</color>",,"攻击力+10%
+防御力+5%
+
+<color=#808080>她是星的宠儿</color>",
+SkillKeyword/Saber_xingguang_D_Name,Text,,,Starlight,,星光,
+SkillKeyword/Saber_xuanmu_D_Desc,Text,,,"ATK -10%
+Dodge -5%
+
+<color=#808080>Gazing at intense starlight demands a price.</color>",,"攻击力-10%
+闪避率-5%
+
+<color=#808080>直视强烈的星光，必会付出代价。</color></color>",
+SkillKeyword/Saber_xuanmu_D_Name,Text,,,Dazzle,,炫目,
+SkillKeyword/Saber_xunli_D_Desc,Text,,,Gains extra effects under 「<color=#F0BCAF>Lonely Pilgrimage</color>」,,自身拥有「<color=#F0BCAF>孤独な巡礼</color>」时，获得额外效果,
+SkillKeyword/Saber_xunli_D_Name,Text,,,<color=#F0BCAF>Lonely Pilgrimage</color>,,<color=#F0BCAF>孤独な巡礼</color>,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+

@@ -1,0 +1,10 @@
+Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+System/StatDesc/CriHit_Passive,Text,,,<color=#FDEEF4>Guaranteed crit when passively triggered</color>,,<color=#FDEEF4>被动释放时必定暴击</color>,
+System/StatDesc/PlusAtkNum,Text,,,<color=#FF2400>Additional passive attack count: </color>,,<color=#FF2400>被动额外攻击次数:</color>,
+System/StatDesc/PlusCriDmg,Text,,,<color=#C36241>Critical damage bonus: </color>,,<color=#C36241>暴击伤害加成:</color>,
+System/StatDesc/PlusCriDmg_Use,Text,,,<color=#F75D59>(When actively triggered)</color>,,<color=#F75D59>(主动释放时)</color>,
+System/StatDesc/PlusTarget,Text,,,<color=#2B65EC>Additional attack targets: </color>,,<color=#2B65EC>额外攻击敌人:</color>,
+System/StatDesc/Sputtering,Text,,,<color=#E238EC>Deals splash damage: </color>,,<color=#E238EC>造成溅射伤害:</color>,
+System/StatDesc/YuzuAll,Text,,,<color=#E799A3>Attacks all enemies</color>,,<color=#E799A3>攻击所有敌人</color>,
+System/StatDesc/YuzuDraw,Text,,,"<color=#00FFFF>When dealing damage, draw a skill and reduce its cost by 1.</color>",,<color=#00FFFF>造成伤害时抽取一个技能，其费用减少一点。</color>,
+System/StatDesc/YuzuSide,Text,,,<color=#A74AC7>Attacks enemies on both sides</color>,,<color=#A74AC7>攻击两侧敌人</color>,

@@ -1,0 +1,14 @@
+{
+    "PLANAImage": {
+        "_gdeType_Moded": "Bool",
+        "aModed": true,
+        "_gdeIsList_Sprites": 1,
+        "_gdeType_Sprites": "Sprite",
+        "Sprites": [
+            "1.png",
+            "1_Face.png",
+            "1_SP.png"
+        ],
+        "_gdeSchema": "ImageDatas"
+    }
+}

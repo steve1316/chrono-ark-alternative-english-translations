@@ -1,0 +1,294 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Sakuya_10Rare_0_Description,Text,,패에 있는 스킬을 사용할 수 없습니다.,Cannot use skills in hand.,手札からスキルを使用できない。,无法使用手中的技能。,
+Buff/B_Sakuya_10Rare_0_Name,Text,,시부「프라이빗 스퀘어」,"Time Sign ""Private Square""",時符「プライベートスクウェア」,时符「个人空间」,
+Buff/B_Sakuya_10Rare_Description,Text,,,,,,
+Buff/B_Sakuya_10Rare_Name,Text,,시부「프라이빗 스퀘어」,"Time Sign ""Private Square""",時符「プライベートスクウェア 」,时符「个人空间」,
+Buff/B_Sakuya_12Rare_Description,Text,,,"During countdown, the passive effect ""Ability to Manipulate Time"" will not activate; all of your skills cost 0, gain Swiftness, countdown 1, and skills cannot be drawn by any means.",,倒计时期间，被动“操纵时间程度的能力”效果将不会发动；所有自己的技能变为0费，附加迅速、倒计时1，并且无法以任何方式抽取技能。,
+Buff/B_Sakuya_12Rare_Name,Text,,「퍼펙트 메이드」,Perfect Maid,パーフェクトメイド,完美女仆,
+Buff/B_Sakuya_1_Name,Text,,광속「C. 리코셰」,"Light Speed ""C. Ricochet""",光速「C.リコシェ」,光速「光速跃迁」,
+Buff/B_Sakuya_3_Name,Text,,환재「클락 콥스」,"Illusion Existence ""Clock Corpse""",幻在「クロックコープス」,幻在「钟表的残骸」,
+Buff/B_Sakuya_4_Description,Text,,방해 디버프를 받으면 &a의 피해를 입습니다.,"When you are inflicted with an interference debuff, suffer &a damage.",自身が妨害デバフを受けたとき、&aのダメージを受ける。,当自身被施加干扰减益时，受到&a伤害。,
+Buff/B_Sakuya_4_Name,Text,,칼날 정지,Suspended Flying Knife,スローイングナイフ,悬滞的飞刃,
+Buff/B_Sakuya_4_new_Description,Text,,"「마술」의 추가효과가 발동되거나 [시계「루나 다이얼」]을 사용할 때마다 
+무작위 적에게%a(30%)의 데미지를 줍니다.","Each time you trigger the additional effect of ""Lunar Magic"" or use [Watch ""Lunar Dial""], deal %a (30%) damage to a random enemy.",[月魔法]の追加効果の発動時または「時計-ルナダイアル」を使用時、ランダムな敵1体に%a(30%)のダメージを与える。,每次自己触发「月魔术」的额外效果、或使用[时计「月时计」]时，对随机敌人造成%a(30%)伤害。,
+Buff/B_Sakuya_4_new_Name,Text,,칼날 정지,Suspended Flying Knife,スローイングナイフ,悬滞的飞刃,
+Buff/B_Sakuya_5_Description,Text,,,,,,
+Buff/B_Sakuya_5_Name,Text,,시부「퍼펙트 스퀘어」,"Time Sign ""Perfect Square""",時符「パーフェクトスクウェア」,时符「完美空间」,
+Buff/B_Sakuya_5_new_Description,Text,,,,,,
+Buff/B_Sakuya_5_new_Name,Text,,「퍼펙트 스퀘어」,Perfect Square,パーフェクトスクウェア,完美空间,
+Buff/B_Sakuya_6_0_Description,Text,,,"When attacked, Sakuya counterattacks the source for &a damage <color=#FF7A33>(30% of ATK)</color>. 
+Removes 1 stack after triggering. ",,"受到攻击时，咲夜会对来源进行一次&a伤害的反击<color=#FF7A33>(攻击力的30%)</color>。
+触发后移除一层。",
+Buff/B_Sakuya_6_0_Name,Text,,,Illusion Effect,,幻惑效应,
+Buff/B_Sakuya_6_Description,Text,,,"When another ally is targeted by a skill, redirect the target to yourself. 
+Removes 1 stack after triggering.",,"其他友军被选定为技能的目标时，使目标改为指向自己。
+触发后移除一层。",
+Buff/B_Sakuya_6_Name,Text,,,Misdirection Effect,,误导效应,
+Buff/B_Sakuya_8_Name,Text,,,Special Stopwatch,,特制秒表,
+Buff/B_Sakuya_9_Name,Text,,,Bleeding,,流血,
+Buff/B_Sakuya_Knife_Description,Text,,,"Current accumulated daggers: &a. 
+Each dagger grants 5% Critical rate and Evasion. 
+When dealing Critical damage or evading, consume 1 dagger to perform a Follow-up attack dealing &a damage <color=#FF7A33>(30% of ATK)</color>.",,"当前积攒的飞刀数：&a
+每把飞刀提供5%暴击率和闪避率。
+造成暴击伤害或闪避时，消耗1把飞刀，额外进行一次追加攻击，造成&a伤害<color=#FF7A33>(攻击力的30%)</color>。",
+Buff/B_Sakuya_Knife_Name,Text,,,<color=#EEE9E9>Time-Stop Dagger</color>,,<color=#EEE9E9>时停飞刀</color>,
+Buff/B_Sakuya_LucyD_2_Description,Text,,,Draw 1 skill when triggering Critical or Evasion (max 4 triggers).,,触发暴击或闪避时抽取1个技能（最多触发4次）。,
+Buff/B_Sakuya_LucyD_2_Name,Text,,,Expanding Space,,膨胀空间,
+Buff/B_Sakuya_P_0_Description,Text,,"4중첩 시, [시계「루나 다이얼」]을 1장 패에 추가합니다.","Every 4 stacks, add 1 [Watch ""Lunar Dial""] to your hand.",4ストック得るたび、「時計-ルナダイアル」を手札に1枚加える。,每叠加4层，将1张“时计「月时计」”加入手中。,
+Buff/B_Sakuya_P_0_Name,Text,,시간정지,<color=#00BFFF>Time Stop</color>,時間停止,<color=#00BFFF>时钟停摆</color>,
+Buff/B_Sakuya_P_Description,Text,,행동불가,Cannot take action.,行動不能,无法行动。,
+Buff/B_Sakuya_P_Name,Text,,「루나 다이얼」,Lunar Dial,ルナダイアル,月时计,
+Character/IzayoiSakuya_CampSelectWord,Text,,이곳의 「시간」은 이상하군요. 제가 해결해 드릴까요?,"The flow of ""Time"" here is distorted. Shall I fix it?",ここは 「時間」がずれていますね。 直しましょうか？,这个地方的「时间」不对劲哟。要我帮你解决吗？,
+Character/IzayoiSakuya_PassiveDes,Text,,"사쿠야는 패의 상단 혹은 하단에 위치한 스킬을 시전할 때마다 [시간정지] 1중첩을 얻습니다.
+(시계「루나 다이얼」, 시부「체인질링 매직」, 화[치료의기운]제외)
+
+[시간정지]를 4중첩 획득하면 시계「루나 다이얼」을 1장 패에 넣습니다.
+
+마술 : 사쿠야의 일부 스킬은 패의 상단 혹은 하단에 위치할 때 추가효과가 있습니다.","<b>Ability to Manipulate Time</b> - Each time a skill is played, reduce countdown of all Sakuya's skills by 1. For each skill affected, gain 1 <color=#EEE9E9>Time-Stop Dagger</color>.
+
+<b>Dangerous Trickster</b> - Each time Sakuya plays a skill from the top/bottom of hand, gain 1 stack of <color=#00BFFF>Time Stop</color>. At 4 stacks, add 1 [Watch ""Lunar Dial""] to hand.
+
+<b><color=#4169E1>Lunar Magic</color></b> - Certain skills trigger additional effects when played from the top/bottom of hand.","咲夜が所有者の手札の一番上か下にあるスキルを使用するたびに(「時計-ルナダイアル」「時符-チェンジリングマジック」「ヒーリングブレス」を除く）、[時計停止]を1ストック得る。 [時計停止]を4ストック得るたび、「時計-ルナダイアル」を手札に1枚加える。
+
+月魔法: 咲夜の一部のスキルは、手札の一番上か一番下にある場合、使用時に追加効果を発動する。","<b>操纵时间程度的能力</b> - 每次打出技能时，使所有处于倒计时中的十六夜咲夜的技能倒计时减少1点。每有1个技能因这个效果减少倒计时，获得1把<color=#EEE9E9>时停飞刀</color>。
+
+<b>危险的戏法家</b> - 咲夜每次打出位于手中最上方或最下方的技能时，获得1层<color=#00BFFF>时钟停摆</color>。<color=#00BFFF>时钟停摆</color>堆叠至4层后，将1张“时计「月时计」”加入手中。
+
+<b><color=#4169E1>月魔术</color></b> - 咲夜的部分技能在位于手中最上方或最下方被打出时，能够触发额外效果。",
+Character/IzayoiSakuya_PassiveName,Text,,완벽하고 소쇄한 메이드,The Perfect and Elegant Servant,完全で瀟洒な従者,完美潇洒的女仆,
+Character/IzayoiSakuya_SelectInfo,Text,,"이자요이 사쿠야는 흡혈귀의 저택, 홍마관의 메이드장입니다.
+이변을 해결 하는 도중 길을 잃고 방주로 흘러들어온 후, 조사단에 합류하게되었습니다.
+그녀의 시간을 다루는 정도의 능력을 십분 활용하여 방주의 살림살이를 도맡아 하고있습니다.
+
+그녀는 핸드카드의 위치를 유연하게 조절할 수있으며, 
+상단과 하단에 위치한 스킬의 추가효과를 이용하여 효과적으로 공격합니다.
+또한 이 방법을 통해 충분한 자원이 축적되면 적의 시간을 멈출 수 있습니다.","Sakuya Izayoi manipulates cards and time. 
+
+Skills played from the top/bottom of hand trigger bonus effects. Skills can rearrange hand order. 
+
+Accumulate resources through this method to stop enemy time.","手札と時間を操る魔術師。
+自身のスキルを手札の一番上または一番下で使用時、追加効果が発動する。またスキルを使用して手札の位置を変更する。
+この方法で十分なリソースが貯まったとき、敵の時間を止めることができる。","十六夜咲夜是玩弄手牌与时间的魔术师。
+
+当手牌在最顶上或最底下能够触发额外效果，能够使用技能灵活变换手牌的位置。
+
+当通过这种方法积攒足够资源后，还能够停止敌人的时间。",
+Character/IzayoiSakuya_Text_Battle_Cri_0,Text,,당신의 시간 또한 나의 것.,Your time rests in my hands!,あなたの時間は私の手の中にあります！,你的时间由我掌握！,
+Character/IzayoiSakuya_Text_Battle_Idle_0,Text,,오늘 저녁은 장어로 할까……아니，내가 왜 이런생각을 한거지.,"Tonight's dinner will be eel... Wait, why am I thinking that?",今夜の夕食は鰻にしよう…いや、なぜそう思うの。,今夜的晚饭就来做鳗鱼吧……不对，我怎么会这么想呢。,
+Character/IzayoiSakuya_Text_Battle_Kill_0,Text,,"조금 수고스럽더라도, 빨리 칼을 모으지 않으면.....",Must retrieve the knives quickly to avoid leaving traces...,禍根を残さないように、早くナイフを回収しないと……。,人去不留麻烦，不赶快把刀子回收的话……,
+Character/IzayoiSakuya_Text_Battle_Start_0,Text,,"그럼, 장난은 여기까지.","Now, the game ends here.",さて、お楽しみはここで終わりです。,那么，戏耍就到此为止。,
+Character/IzayoiSakuya_Text_Field_Idle_0,Text,,"이런, 곧 차가 끓어오를 시간이야.","Oh dear, the tea is about to boil.",おっと、もうすぐお茶が沸くわね。,哎呀，马上茶要烧开了哦。,
+Character/IzayoiSakuya_Text_Field_Idle_1,Text,,올 여름은 온통 이변투성이인것 같아.,This summer's weather has been truly peculiar.,今年の夏の天気は本当に変ね。,今年的夏天净是奇怪的天气呢。,
+Character/IzayoiSakuya_Text_MasterTarget,Text,,,Give my regards to the Mistress.,,替我向大小姐问好。,
+Character/IzayoiSakuya_Text_PharosLeader_0,Text,,네……명령을 이행합니다……,Yes... I obey your command...,はい……あなた様に従います……,是的……悉听遵命……,
+Character/IzayoiSakuya_Text_PharosLeader_1,Text,,"어？………………잠시만 기다려주세요, 곧 시간을 되돌리겠습니다.",Wait a moment... I'll rewind time immediately.,ちょっと待ってください、すぐに時間を戻します。,咦？………………请稍等一下，我马上就将时间倒流。,
+Character/IzayoiSakuya_Text_PharosLeader_2,Text,,"주인님을 위해, 여기서 죽어주십시오.",Perish here for my master's sake.,我が主のために、ここで犠牲になりなさい。,为了我主，请你在此地牺牲吧。,
+Character/IzayoiSakuya_Text_Witch_0,Text,,손님을 위해 저주를 청소하는 것도 메이드의 의무 중 하나입니다.,Cleansing curses for guests is part of a maid's duties.,お客様のために呪いの後始末をするのも、メイドの仕事の一つです。,替客人清理诅咒，也是女仆的职责之一。,
+Character/IzayoiSakuya_name,Text,,이자요이 사쿠야,Sakuya Izayoi,十六夜咲夜,十六夜咲夜,
+Character_Skin/IzayoiSakuyaBunny_SkinDesc,Text,,,"Halloween approaches. All preparations complete. The Mistress, Scarlet Devil Mansion, and I.",,"万圣节就快到了。
+一切准备就绪。
+大小姐、红魔馆，还有我。",
+Character_Skin/IzayoiSakuyaBunny_SkinName,Text,,,Halloween Bunny Maid,,万圣节兔女仆,
+Item_Equip/StopWatch_Description,Text,,"전투당 1회, 빈사상태에서 피해를 입을 시 피해를 무효화합니다.",Negate damage once per battle when HP is 0 or below.,1回の戦闘で1回だけ、体力が0以下でダメージを受けたときにそのダメージを無効にする。,每场战斗仅有1次，在体力值为0点及以下的状态下受到伤害时，抵挡该伤害。,
+Item_Equip/StopWatch_name,Text,,회중시계,Time-Stop Pocketwatch,ルナダイアル,时停怀表,
+Item_Passive/R_Sakuya_0_Description,Text,,,"While equipped, remove all Lucy Curse skills.",,装备时，移除所有露西诅咒技能。,
+Item_Passive/R_Sakuya_0_name,Text,,,Auto-Cleaner,,自动扫地机,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Azar_Dialogues_0,Text,,[A]아자르는 이곳의 「시간」에 대해 어떻게 생각해?,"[A]Azar, do you sense anything unusual about this place's ""time""?",,[A]阿扎尔，你对这个地方的「时间」有什么感受吗？,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Azar_Dialogues_1,Text,,"[B]시, 시간?……「시계탑」을 말하는 건가요?","[B]T-time? You mean the ""Clock Tower""?",,[B]时、时间？……是说「钟楼」吗？,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Azar_Dialogues_2,Text,,"[A]아니.... 음, 그렇네. 흘려들고 제가 묻지않은 척 해줘.",[A]No... Hmph. Never mind.,,[A]不…………哼，这样吗。算了，当我没问。,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Blue_Dialogues_0,Text,,[B]너는 달의 힘을 쓰는 거야?,[B]Do you also wield lunar power?,,[B]你也是使用月亮力量的人吗？,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Blue_Dialogues_1,Text,,[A]아마……그렇죠？,[A]Reluctantly... I suppose?,,[A]勉强……算是吗？,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Charon_Dialogues_0,Text,,[B]그 날아다니는 칼! 어떻게 하는지 가르쳐 주실 수 있나요?,[B]Teach me that dagger technique!,,[B]那个飞刀的功夫！能教教我吗？,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Charon_Dialogues_1,Text,,"[A]...이건 배울 수 있는게 아니야. 그리고, 칼은 위험해.",[A]...It's not a technique. And blades are dangerous.,,[A]……这不是功夫。而且，刀很危险。,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Eirin_Dialogues_0,Text,,,[A]Elixir of immortality? The Scarlet Devil Mansion isn't interested.,,[A]长生不老药？抱歉，红魔馆不需要这种推销。,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Eirin_Dialogues_1,Text,,,[B]This one's specially made for you.,,[B]不，不是为了红魔馆，而是为你特制的哦。,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Eirin_Dialogues_2,Text,,,[A]...Your enthusiasm feels suspicious.,,[A]……总感觉特别对我献殷勤到可疑了。,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Eirin_Dialogues_3,Text,,,[B]Let me know if you ever want it~,,[B]嘛，什么时候想要的话尽管来找我要吧。,
+SimpleCampDialogue/CampDial_IzayoiSakuya_FlandreScarlet_Dialogues_0,Text,,"[A]작은 아가씨, 케이크는 천천히 드세요.","[A]Lady Flandre, your cake is served.",,[A]二小姐，蛋糕请慢用。,
+SimpleCampDialogue/CampDial_IzayoiSakuya_FlandreScarlet_Dialogues_1,Text,,"[B]사쿠야, 사쿠야, 저기 풀도치로 「케이크」를 만들어 줘.","[B]Sakuya! Can you make ""cake"" from that grass hedgehog?",,[B]咲夜咲夜，能用那边的草刺猬做「蛋糕」吗？,
+SimpleCampDialogue/CampDial_IzayoiSakuya_FlandreScarlet_Dialogues_2,Text,,[A]음? 그다지 추천은 안합니다만.. 다음에 시도해 보겠습니다.,[A]Hmm... Not recommended. But I'll try next time.,,[A]嗯？虽然不推荐……不过下次我会试试的。,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Hein_Dialogues_0,Text,,[B]전투할 때 그 작은칼로 좀스럽게 그어대는 통에 답답해 죽겠어.,[B]Quit poking around with knives! Just CHOP! SLASH!,,[B]战斗的时候用小刀划来划去的，磨叽死了。,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Hein_Dialogues_1,Text,,[B]기세를 담아 시원하게 베어버리라구! 자르고! 베고! 응?,[B]Where's the fun in delicate knife work?,,[B]就不能痛痛快快地劈！砍！切！吗？,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Hein_Dialogues_2,Text,,"[A]스튜가 완성되었는데, 먹을래?",[A]Stew's ready. Want some?,,[A]炖菜做好了，要吃吗？,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Hein_Dialogues_3,Text,,[B]……고마워.,[B]...Thanks.,,[B]……谢谢。,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Huz_Dialogues_0,Text,,"[B]채찍, 비도, 흡혈귀.... 윽, 내 머리....",[B]Whips... daggers... vampires... My head hurts...,,[B]鞭子、飞刀、吸血鬼……呜，我的头……,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Huz_Dialogues_1,Text,,[A]비디오 게임은 좀 줄이는게 어때.,[A]Play fewer video games.,,[A]少玩点电子游戏吧。,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Ilya_Dialogues_0,Text,,[A]정말 아름다운 검법이네.,[A]Your blade work is exquisite.,,[A]真是漂亮的刀法。,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Ilya_Dialogues_1,Text,,"[B]별말씀을요, 아직 멀었습니다……",[B]I still have much to learn...,,[B]哪里哪里、还差得远呢……,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Iron_Dialogues_0,Text,,[B]제 갑옷의 틈새를 노리지 마십시오.,[B]Stop eyeing the gaps in my armor!,,[B]请不要用视线瞄准我盔甲的缝隙好吗。,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Iron_Dialogues_1,Text,,"[A]음, 죄송합니다. 제 나쁜 버릇이라……",[A]Apologies... Bad habit.,,[A]抱歉，这是我的坏习惯……,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Joey_Dialogues_0,Text,,[B]야！니가 내 빈병을 다 치운거야?,[B]Hey! Did you take my empty bottles?,,[B]喂！你是不是把我的空瓶子都收起来了？,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Joey_Dialogues_1,Text,,"[A]응, 거기에 두면 위험하니까.",[A]Yes. Too dangerous left around.,,[A]是的，放在那里太危险了。,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Joey_Dialogues_2,Text,,[B]아아악! 그건 내 중요한 실험 데이터들이었다고!!!,[B]Those were IMPORTANT EXPERIMENTS!!!,,[B]啊啊啊！那是重要的实验资料啊！！！,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Johan_Dialogues_0,Text,,"[B]잠깐, 부탁인데, 다시는 그 엘리스에 대해 얘기하지 말아줘.",[B]Please stop telling me about your Alice!,,[B]等下，算我求你，别再跟我讲你们那儿那个爱丽丝的事情了。,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Johan_Dialogues_1,Text,,[A].. ...그들이 너에게 무슨 말을 했길래 그런건데?,[A]...What exactly did they say?,,[A]……她们到底对你说了什么？,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Lian_Dialogues_0,Text,,"[B]사쿠야, 그 칼 다루는 솜씨는 누구한테 배운거야?","[B]Sakuya, where'd you learn knife skills?",,[B]咲夜，你用刀的技术是从哪里学的？,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Lian_Dialogues_1,Text,,"[A]독학인데, 뭔가 궁금한게 있어?",[A]Self-taught. Why?,,[A]算是自学吧。有什么问题吗？,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Lian_Dialogues_2,Text,,[B]파지법을 조금 바꾸는게 좋을거 같아서. 이렇게.,[B]Adjust your grip. Like this.,,[B]握住刀的方法，稍微可以再改进一下。就像这样。,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Miss_Dialogues_0,Text,,"[A]미스 체인, 붕대를 감아줄테니 이리로.","[A]Chainsaw Miss, let me bandage that.",,[A]链锯小姐，我来为你包扎。,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Miss_Dialogues_1,Text,,"[B]아, 고마워！사쿠야 덕에 부상도 두렵지 않다구！","[B]Thanks! With you around, injuries don't matter!",,[B]啊，谢谢！有咲夜在，感觉受伤都不算问题了呢！,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Miss_Dialogues_2,Text,,[A]나는 의사가 아니니 자중해줘……,[A]I'm no doctor. Be careful.,,[A]我不是医师，还请自重……,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Mokou_Dialogues_0,Text,,[A]너의 불을 조절할 수 있는 능력덕에 이 황야에서 요리하는게 훨씬 편리하네.,[A]Pyrokinesis must be useful for cooking outdoors.,,[A]有操纵火焰的能力，在这种荒郊野外做饭也方便多了呢。,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Mokou_Dialogues_1,Text,,[B]그렇게 말해봐야.... 내 능력은 죽지 않는 정도의 능력인데?,[B]Actually... My power is immortality?,,[B]话是这么说啦……但我掌握的是不老不死的能力啊？,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Mokou_Dialogues_2,Text,,[A]……응？,[A]...Eh?,,[A]……咦？,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Mokou_Dialogues_3,Text,,[B]……어？,[B]...Huh?,,[B]……诶？,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Patchouli_Dialogues_0,Text,,"[A]파츄리님, 건강은 괜찮으신지요？","[A]Lady Patchouli, are you well?",,[A]帕秋莉大人，身体还安好吗？,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Patchouli_Dialogues_1,Text,,"[B]음, 심각히 문제될것은 없네. 「현실세계」보다는 놀라울 정도로 편해.","[B]Fine. Strangely easier here than the ""real world"".",,[B]嗯。没什么大碍。比起「现实世界」，意外的轻松呢。,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Patchouli_Dialogues_2,Text,,"[A]음, 그럼 다행입니다.",[A]Glad to hear it.,,[A]是吗，那就再好不过了。,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Pheonix_Dialogues_0,Text,,[B]후후후，빵 내놔 빵——,[B]sob Give me bread—,,[B]呜呜呜，请给我面包——,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Pheonix_Dialogues_1,Text,,[A]안 돼. 오늘부터 빵 소비량을 엄중히 통제하겠어.,[A]No. Daily bread rations start today.,,[A]不行。从今天开始由我严格管理每日面包出入的数量。,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Pheonix_Dialogues_2,Text,,[B]갸악！,[B]Gah!,,[B]嘎啊！,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Priest_Dialogues_0,Text,,[B]당신의 운명은 온갖 죄로 더럽혀졌군요……,[B]Your fate is tainted with sin...,,[B]你的命运，已经沾染罪孽……,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Priest_Dialogues_1,Text,,[A]미안하지만 나는「운명」이란 것을 믿지 않아.,"[A]I don't believe in ""fate"".",,[A]抱歉，我不相信什么「命运」。,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Red_Dialogues_0,Text,,"[A]해, 달……별의 자매가 필요하지 않니?","[A]Sun, moon... Need a star sister?",,[A]太阳，月亮……你们差一个星星的姐妹吗？,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Red_Dialogues_1,Text,,"[B]나쁘지 않네. 그런데, 아까 별을 뿌리는 사람이 지나가지 않았어?",[B]No! But did someone shooting stars just fly by?,,[B]才不差啦。但是刚才是不是有个放出星星的人飞过去了？,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Reisen_Dialogues_0,Text,,,"[A]Reisen, enough medicine?",,[A]铃仙，药水的储备量还够吗？,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Reisen_Dialogues_1,Text,,,[B]Used all Master's potions...,,[B]师父给我的药已经全部用完了耶……,
+SimpleCampDialogue/CampDial_IzayoiSakuya_RemiliaScarlet_Dialogues_0,Text,,"[A]아가씨, 홍차는 천천히 드셔주세요","[A]Lady Remilia, your tea.",,[A]大小姐，红茶请慢用。,
+SimpleCampDialogue/CampDial_IzayoiSakuya_RemiliaScarlet_Dialogues_1,Text,,[B]흠……「그것」은 넣지 않은거야？,"[B]Didn't add ""that""?",,[B]嗯……没有放「那个」吗？,
+SimpleCampDialogue/CampDial_IzayoiSakuya_RemiliaScarlet_Dialogues_2,Text,,"[A]다른사람들이 놀랄 수도 있으니, 오늘은 자중해 주시길 부탁드립니다.",[A]It would shock others. Endure for today.,,[A]会吓到其他人的吧。今天就稍微忍耐一下吧。,
+SimpleCampDialogue/CampDial_IzayoiSakuya_RemiliaScarlet_Dialogues_3,Text,,[B]확실히 너는 내가「흡혈귀」라는 것을 두려워 하지 않았지.,"[B]Yet no one fears my ""vampire"" nature.",,[B]明明都不会害怕我是个「吸血鬼」耶。,
+SimpleCampDialogue/CampDial_IzayoiSakuya_SatsukiRin_Dialogues_0,Text,,"[A]아, 너......죄송합니다, 착각했어요.",[A]Ah... My mistake.,,[A]啊拉，你是……抱歉，是我认错了。,
+SimpleCampDialogue/CampDial_IzayoiSakuya_SatsukiRin_Dialogues_1,Text,,"[B]괜찮아, 사소한일인걸. 종종 다른사람들에게 내가 「누군가」와 비슷하다고 듣긴했어.","[B]People say I resemble ""someone"".",,[B]没关系。经常有人说我和「某个人」很相似呢。,
+SimpleCampDialogue/CampDial_IzayoiSakuya_SilverStein_Dialogues_0,Text,,[B]싸울때는 조심해. 총알에는 눈이 없으니까,[B]Watch for bullets in battle!,,[B]战斗的时候小心点啊，子弹可是不长眼的。,
+SimpleCampDialogue/CampDial_IzayoiSakuya_SilverStein_Dialogues_1,Text,,"[A]괜찮아, 총알이 아무리 빨라도 나를 맞출순 없어.",[A]Don't worry. No bullet can hit me.,,[A]放心吧。无论多快的子弹都打不中我。,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Sizz_Dialogues_0,Text,,"[A]시즈, 좀 더 유연한 손가락 기술을 알려줄까?","[A]Sizz, want to learn finger techniques?",,[A]西斯，要我教你更加灵活的手指技法吗？,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Sizz_Dialogues_1,Text,,[B]네? 사쿠야 언니는 운지법을 할 줄 아나요?,[B]You know sleight of hand?,,[B]咦？咲夜小姐还会指法吗？,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Sizz_Dialogues_2,Text,,[A]마술을 할 때 종종 사용하곤 해.,[A]Essential for magic shows.,,[A]表演魔术的时候经常用到呢。,
+SimpleCampDialogue/CampDial_IzayoiSakuya_TouhouAlice_Dialogues_0,Text,,,[A]You seem carefree. Nice.,,[A]你看起来好像烦恼很少的样子，真好啊。,
+SimpleCampDialogue/CampDial_IzayoiSakuya_TouhouAlice_Dialogues_1,Text,,,[B]Rude. I simply have no worries.,,[B]真失礼啊。不是很少，我根本就没有烦恼。,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Trisha_Dialogues_0,Text,,[B]아무리 노력해도 너의 빠른 움직임을 흉내낼 수 없어……,[B]Can't mimic your speed...,,[B]不管试多少次都模仿不来你的快速移动……,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Trisha_Dialogues_1,Text,,[A]이건 인간이 흉내낼 수 없는 기술이니까.,[A]It's beyond human technique.,,[A]那并非人类能模仿到的技法。,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Trisha_Dialogues_2,Text,,[B]너는 인간이 아니라는거야？,[B]Aren't you human?,,[B]你不是人类吗？,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Trisha_Dialogues_3,Text,,[A]……나는 평생'죽는'인간이야.,[A]...I can still die.,,[A]……我被杀还是会死的哦。,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Youmu_Dialogues_0,Text,,"[A]요리를 도와줘서 고마워, 도움이 돼었어.",[A]Your help with stew saved us.,,[A]炖菜的协力真是帮大忙了。,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Youmu_Dialogues_1,Text,,[B]사쿠야씨는 너무 겸손하시네요. 방금도 사쿠야씨의 능력이 아니었다면 솥이 뒤집혔을거에요.,"[B]Without your time powers, we'd have crashed!",,[B]咲夜小姐太客气了，如果不是咲夜小姐的能力，刚才就要翻车了耶。,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Youmu_Dialogues_2,Text,,[A]풀도치가 갑자기 숲에서 튀어나올줄은 몰랐는걸……,[A]Never expected a grass hedgehog attack...,,[A]没想到树林里会突然冲出来一只草刺猬呢……,
+SimpleCampDialogue/CampDial_IzayoiSakuya_Youmu_Dialogues_3,Text,,[B]스튜를 향해 달려갔었죠……,[B]Charged straight at the pot...,,[B]朝着炖菜锅就冲了过来呢……,
+Skill/S_Sakuya_0_0_Description,Text,,"패의 상단 혹은 하단에 스킬을 1개 놓습니다.
+이 스킬이 버려지면 스킬 1개를 뽑습니다.","Move 1 skill to top/bottom of hand. 
+When discarded, draw 1 skill and gain 1 <color=#EEE9E9>Time-Stop Dagger</color>.","スキル1つを手札の一番上または一番下に移動する。
+このスキルが捨てられたとき、スキルを1枚引く。","将1个技能放在手牌最上方或手牌最下方。
+这个技能被丢弃时，抽取1个技能，获得1把<color=#EEE9E9>时停飞刀</color>。",
+Skill/S_Sakuya_0_0_Name,Text,,시부「체인질링 매직」,"Time Sign ""Changeling Magic""",時符-チェンジリングマジック,时符「调换魔法」,
+Skill/S_Sakuya_0_1_Description,Text,,스킬을 패의 상단으로 올립니다.,Move target skill to top of hand.,スキルを手札の一番上に移動する。,将目标技能放在手牌最上方。,
+Skill/S_Sakuya_0_1_Name,Text,,「체인질링 매직」흑,"Time Sign ""Changeling Magic Black""",チェンジリングマジック-黒,调换魔术·黑,
+Skill/S_Sakuya_0_2_Description,Text,,스킬을 패의 하단으로 올립니다.,Move target skill to bottom of hand.,スキルを手札の一番下に移動する。,将目标技能放在手牌最下方。,
+Skill/S_Sakuya_0_2_Name,Text,,「체인질링 매직」백,"Time Sign ""Changeling Magic White""",チェンジリングマジック-白,调换魔术·白,
+Skill/S_Sakuya_0_Description,Text,,마술-시부「체인질링 매직」을 1장 패에 넣습니다.,"Add 1 [Time Sign ""Changeling Magic""] to hand. 
+
+<color=#4169E1>Lunar Magic</color> - Gain <color=#EEE9E9>Time-Stop Daggers</color> equal to hand size.",月魔法:「時符-チェンジリングマジック」を手札に1枚加える。,"将1张“时符「调换魔法」”加入手中。
+
+<color=#4169E1>月魔术</color> - 根据手中技能的数量，获得相同数量的<color=#EEE9E9>时停飞刀</color>。",
+Skill/S_Sakuya_0_Name,Text,,메이드 비기「살인 인형」,"Maid Secret Skill ""Killing Doll""",メイド秘技「殺人ドール」,女仆秘技「杀人玩偶」,
+Skill/S_Sakuya_10Rare_Description,Text,,,Gain 1 extra turn after pressing End Turn.,,按下回合结束按钮后，获得1个额外回合。,
+Skill/S_Sakuya_10Rare_Name,Text,,시부「프라이빗 스퀘어」,"Time Sign ""Private Square""",時符「プライベートスクウェア」,「咲夜的世界」,
+Skill/S_Sakuya_11Rare_Description,Text,,,"Consume all <color=#EEE9E9>Time-Stop Daggers</color>. 
+Each dagger adds a Follow-up attack dealing &a damage <color=#FF7A33>(30% of ATK)</color>.",,"消耗所有<color=#EEE9E9>时停飞刀</color>。
+每有1把<color=#EEE9E9>时停飞刀</color>，额外造成一次追加攻击，造成&a伤害<color=#FF7A33>(攻击力的30%)</color>。",
+Skill/S_Sakuya_11Rare_Name,Text,,환장「밤안개의 환영살인귀」,"Buriallusion ""Phantomic Killer in Night Mist""",幻葬「夜霧の幻影殺人鬼」,幻葬「夜雾幻影杀人鬼」,
+Skill/S_Sakuya_12Rare_Description,Text,,,TODO,,倒计时期间，被动“操纵时间程度的能力”效果将不会发动；所有自己的技能变为0费，附加迅速、倒计时1，并且无法以任何方式抽取技能。,
+Skill/S_Sakuya_12Rare_Name,Text,,은부「퍼펙트 메이드」,"Silver Sign ""Perfect Maid""",銀符「パーフェクトメイド」,银符「完美女仆」,
+Skill/S_Sakuya_14Rare_Description,Text,,"가한 피해의 50%만큼 자신을 초과치유합니다.
+패에 '시부「체인질링 매직」' 1개를 추가합니다.
+[뱀파이어 하트] 1중첩을 얻습니다.","Overheal self for 50% of damage dealt. 
+Add 1 [Time Sign ""Changeling Magic""] to hand. 
+Gain 1 stack of [Vampire Heart].","自身を与えたダメージの50%でオーバーヒールする。
+「時符-チェンジリングマジック」を手札に1枚加える。
+[吸血鬼の心]を1ストック得る。","这个伤害的50%超额治疗自己。
+将1张[时符「调换魔法」]加入手中。
+获得1层[吸血鬼之心]。",
+Skill/S_Sakuya_14Rare_Name,Text,,환홍부「영원히 붉은날의 광상곡」,"Phantom Scarlet Sign ""Eternal RedNight Rhapsody""",幻紅符「永遠に紅き昼の狂騒曲」,幻红符「永恒红昼狂想曲」,
+Skill/S_Sakuya_1_Description,Text,,"추가로 [시간정지] 2중첩을 얻습니다.
+
+마술-비용 1 감소, '도발무시'를 얻습니다. ","Gain 2 stacks of <color=#00BFFF>Time Stop</color>.
+
+ <color=#4169E1>Lunar Magic</color> - Cost -1, ignores Taunt and Defense.","[時間停止]を2ストック得る。
+
+月魔法: コストが1減少し、 挑発を無視を得る。","获得2层<color=#00BFFF>时钟停摆</color>。
+
+<color=#4169E1>月魔术</color> - 降低1点费用，附带无视嘲讽，并且无视防御。",
+Skill/S_Sakuya_1_Name,Text,,속부「루미너스 리코셰」,"Speed Sign ""Luminous Ricochet""",速符「ルミネスリコシェ」,速符「闪光弹跳」,
+Skill/S_Sakuya_2_0_Name,Text,,,"Wound Sign ""Inscribe Red Soul""",,伤符「铭刻于红魂」,
+Skill/S_Sakuya_2_Description,Text,,,"Recast after countdown 3.
+
+<color=#4169E1>Lunar Magic</color> - Recast after countdown 5.",,"以倒计时3重复释放1次。
+
+<color=#4169E1>月魔术</color> - 以倒计时5重复释放1次。",
+Skill/S_Sakuya_2_Name,Text,,상부「인스크라이브 레드 소울」,"Wound Sign ""Inscribe Red Soul""",傷符「インスクライブレッドソウル」,伤符「铭刻于红魂」,
+Skill/S_Sakuya_3_0_Description,Text,,"카운트가 1이 되면 추가로 %a의 피해를 줍니다.
+마술-카운트가 3으로 연장되어 %b의 추가피해를 입힙니다.
+카운트동안 목표대상은 15% 증가한 피해를 입습니다.","After 1 Countdown, deal %a damage. 
+
+<color=#4169E1>Lunar Magic</color> - Extend countdown to 3, deal %b damage. Target takes 15% more damage during countdown.","カウントダウン1で1回繰り返し発動し%aのダメージを追加で与える。
+月魔法:カウントダウンを3に延長し、%bのダメージを追加で与える。カウントダウン中、対象が受けるダメージが15%増加する。","倒计时1后，再造成%a伤害。
+月魔术 - 倒计时延长为3，额外造成%b伤害。倒计时期间，目标受到的伤害增加15%。",
+Skill/S_Sakuya_3_0_Name,Text,,환재「클락 콥스」,"Illusion Existence ""Clock Corpse""",幻在「クロックコープス」,幻在「钟表的残骸」,
+Skill/S_Sakuya_3_1_Description,Text,,"카운트가 1이 되면 추가로 %a의 피해를 줍니다.
+마술-카운트가 3으로 연장되어 %b의 추가피해를 입힙니다.
+카운트동안 목표대상은 15% 증가한 피해를 입습니다.","After countdown 1, deal %a damage. 
+<color=#4169E1>Lunar Magic</color> - Extend countdown to 3, deal %b damage. Target takes 15% more damage during countdown.","カウントダウン1で1回繰り返し発動し%aのダメージを追加で与える。
+月魔法:カウントダウンを3に延長し、%bのダメージを追加で与える。カウントダウン中、対象が受けるダメージが15%増加する。","倒计时1后，再造成%a伤害。
+月魔术 - 倒计时延长为3，额外造成%b伤害。倒计时期间，目标受到的伤害增加15%。",
+Skill/S_Sakuya_3_1_Name,Text,,환유「잭 더 루도빌레」,"Illusion Phantom ""Jack the Ludo Bile""",幻幽「ジャック・ザ・ルドビレ」,幻幽「迷幻的杰克」,
+Skill/S_Sakuya_3_Description,Text,,,"Damage decreases by &a <color=#FF7A33>(50% of ATK)</color> per countdown.
+
+<color=#4169E1>Lunar Magic</color> - Changes to countdown 8.",,"每经过1个倒计时，这个技能的伤害降低&a点<color=#FF7A33>(攻击力的50%)</color>。
+
+<color=#4169E1>月魔术</color> - 变为倒计时8。",
+Skill/S_Sakuya_3_Name,Text,,환재「클락 콥스」,"Illusion Existence ""Clock Corpse""",幻在「クロックコープス」,幻在「钟表的残骸」,
+Skill/S_Sakuya_4_0_Name,Text,,,"Conjuring ""Eternal Meek""",,奇术「永恒的温柔」,
+Skill/S_Sakuya_4_Description,Text,,,"When this skill's countdown is reduced, create a copy with countdown-1 (the generated copy cannot create further copies).",,这个技能因为技能效果降低倒计时时，在倒计时栏中生成1个倒计时-1的复制（生成的复制无法再生成复制）。,
+Skill/S_Sakuya_4_Name,Text,,기술「이터널 믹」,"Conjuring ""Eternal Meek""",奇術「エターナルミーク」,奇术「永恒的温柔」,
+Skill/S_Sakuya_4_new_Name,Text,,기술「이터널 믹」,"Conjuring ""Eternal Meek""",奇術「エターナルミーク」,奇术「永恒的温柔」,
+Skill/S_Sakuya_5_0_Name,Text,,시부「퍼펙트 스퀘어」,"Time Sign ""Perfect Square""",時符「パーフェクトスクウェア」,时符「完美空间」,
+Skill/S_Sakuya_5_Description,Text,,"카운트 도중 피해를 입을경우 1회 발동합니다.
+피해를 받으면 피해량을 0으로 감소시키고 무작위 적에게 %a의 피해를 입힙니다.","During countdown, nullify next damage taken and retaliate with %a damage to random enemy.",カウントダウン中に次にダメージを受けたとき、そのダメージを0にする。その後ランダムな敵に%aのダメージを与える。,倒计时期间，自身仅有1次，受到伤害时，使所受的伤害变为0，随后转为对随机敌人造成%a伤害。,
+Skill/S_Sakuya_5_Name,Text,,시부「퍼펙트 스퀘어」,"Time Sign ""Perfect Square""",時符「パーフェクトスクウェア」,时符「完美空间」,
+Skill/S_Sakuya_5_new_Description,Text,,,"Add 1 [Time Sign ""Changeling Magic""] to hand. 
+If targeting ally, transfer all <color=#EEE9E9>Time-Stop Daggers</color> to them and refresh their fixed skills.",,"将1张“时符「调换魔法」”加入手中。
+如果目标是其他友军，将自身所有<color=#EEE9E9>时停飞刀</color>转移至目标身上，并使其固定技能变为可用状态。",
+Skill/S_Sakuya_5_new_Name,Text,,시부「퍼펙트 스퀘어」,"Time Sign ""Perfect Square""",時符「パーフェクトスクウェア」,时符「完美空间」,
+Skill/S_Sakuya_6_0_Description,Text,,,,,,
+Skill/S_Sakuya_6_0_Name,Text,,기술「환혹 미스디렉션」,"Conjuring ""Mesmerizing Misdirection""",奇術「幻惑ミスディレクション」,奇术「幻惑误导」,
+Skill/S_Sakuya_6_Description,Text,,,"<color=#4169E1>Lunar Magic</color> - Grants ""When attacked, Sakuya counterattacks the attacker"".",,<color=#4169E1>月魔术</color> - 使目标额外获得“受到攻击时，十六夜咲夜会对来源进行一次反击”。,
+Skill/S_Sakuya_6_Name,Text,,기술「미스디렉션」,"Conjuring ""Misdirection""",奇術「ミスディレクション」,奇术「误导」,
+Skill/S_Sakuya_7_Description,Text,,"선택한 스킬은 패의 상단 혹은 하단이 아니더라도 「마술」의 추가효과를 발동시킬 수 있습니다.
+선택한 스킬에 「마술」이 없을 경우 : '비용 1 감소' 및 '신속'을 1회 부여합니다.","If target has <color=#4169E1>Lunar Magic</color>, it triggers from any hand position. 
+Otherwise: Cost -1 and Swiftness for next use. ","選んだスキルは手札の一番上または一番下以外の場所でも[月魔法]の追加効果を発動できる。
+選んだスキルが[月魔法]を持たない場合、次に使用するまでコストが1減少し、迅速を得る。","如果目标带有<color=#4169E1>月魔术</color>关键词，使其即使不在手牌最上方或最下方也能触发<color=#4169E1>月魔术</color>的额外效果；
+否则本场战斗仅一次，使其费用降低1点，附带迅速。",
+Skill/S_Sakuya_7_Name,Text,,환술「마이 나이프 리커전」,"Illusion ""My Knife's Recursions""",幻符「インディスクリミネイト」,幻术「吾刃回归」,
+Skill/S_Sakuya_8_Description,Text,,[시계「루나 다이얼」] 을 1장씩 패에 추가합니다.,"Add 1 [Watch ""Lunar Dial""] to hand.",「時計-ルナダイアル」を手札に1枚ずつ加える。,将1张“时计「月时计」”加入手中。,
+Skill/S_Sakuya_8_Name,Text,,시부「사쿠야 특제 스톱워치」,"Time Sign ""Sakuya's Special Stopwatch""",時符「咲夜特製ストップウォッチ」,时符「咲夜特制秒表」,
+Skill/S_Sakuya_9_Description,Text,,,"On non-Critical: Gain 1 <color=#EEE9E9>Time-Stop Dagger</color> and return this skill to hand. 
+On Critical: Banish this skill.       ",,"未暴击时，获得1把<color=#EEE9E9>时停飞刀</color>，将这个技能拿回手中。
+暴击时，放逐这个技能。",
+Skill/S_Sakuya_9_Name,Text,,,"Silver Sign ""Silver Bound""",,银符「银之跳跃」,
+Skill/S_Sakuya_Knife_Name,Text,,,Time-Stop Dagger,,时停飞刀,
+Skill/S_Sakuya_LucyD_1_Description,Text,,,,,,
+Skill/S_Sakuya_LucyD_1_Name,Text,,,"Void ""Inflation Square""",,空虚「膨胀空间」,
+Skill/S_Sakuya_LucyD_Description,Text,,"스킬 1개를 뽑습니다.
+덱에서 스킬 1개를 선택하여 맨 위에 놓습니다.
+패에 [시부「체인질링 매직」]을 1개 추가합니다.","Draw 1 skill. 
+Choose 1 skill from deck to place on top. 
+Add 1 [Time Sign ""Changeling Magic""] to hand.","スキルを1枚引く。
+デッキからスキルを1枚選び、それをデッキの一番上に置く。
+「時符-チェンジリングマジック」を手札に1枚加える。","抽取1个技能。
+展示牌库中的技能，选择其中1个置于顶部。
+将1个“时符「调换魔法」”加入手中。",
+Skill/S_Sakuya_LucyD_Name,Text,,시부「터널 이펙트」,"Time Sign ""Tunnel Effect""",時符「トンネルエフェクト」,时符「隧穿效应」,
+Skill/S_Sakuya_P_Description,Text,,,,,,
+Skill/S_Sakuya_P_Name,Text,,시계「루나 다이얼」,"Watch ""Lunar Dial""",時計「ルナダイアル」,时计「月时计」,
+SkillExtended/SE_Sakuya_7_0_Des,Text,,신속' 부여 및 비용 1 감소.,Cost -1 and Swiftness.,コストが1減少し、迅速を得る。,费用减少1点、附带迅速。,
+SkillExtended/SE_Sakuya_7_0_Name,Text,,「마이 나이프 리커전」,My Knife's Recursions,インディスクリミネイト,吾刃回归,
+SkillExtended/SE_Sakuya_7_Des,Text,,패의 상단 혹은 하단에 위치하지 않더라도 「마술」의 추가효과를 시전합니다.,Triggers <color=#4169E1>Lunar Magic</color> from any hand position.,手札の一番上か一番下場所でも[月魔法]の追加効果を発動できる。,即使不在手牌顶或手牌底也能触发「月魔术」的额外效果。,
+SkillExtended/SE_Sakuya_7_Name,Text,,「마이 나이프 리커전」,My Knife's Recursions,インディスクリミネイト,吾刃回归,
+SkillExtended/SE_Sakuya_P_EnforceString,Text,,,,,,
+SkillExtended/SE_Sakuya_P_Name,Text,,마술,Lunar Magic,月魔法,月魔术,
+SkillExtended/SE_Sakuya_Rare_12_Name,Text,,,Perfect Maid,,完美女仆,
+SkillExtended/SkillExtended_Sakuya_Name,Text,,,Sakuya Base Class,,咲夜基类,
+SkillKeyword/Keyword_LunaMagic_Desc,Text,,이 스킬은 패의 상단 혹은 하단에 위치하였을때 추가효과를 가집니다.,Triggers additional effects when played from top/bottom of hand.,このスキルが手札の一番上か一番下にある場合、使用時に追加効果を発動する。,该技能在位于手牌顶或手牌底被打出时拥有额外效果。,
+SkillKeyword/Keyword_LunaMagic_Name,Text,,마술,<color=#4169E1>Lunar Magic</color>,月魔法,<color=#4169E1>月魔术</color>,
+,,,,,,,
+

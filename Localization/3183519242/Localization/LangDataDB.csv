@@ -1,0 +1,140 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Miyu_0_Description,Text,,,,,,
+Buff/B_Miyu_0_Name,Text,,치명타 저항 감소,Tango Down,,Tango down（目标击倒）,
+Buff/B_Miyu_1_Name,Text,,치명타 확률 증가,Critical Rate Increase,,暴击率增加,
+Buff/B_Miyu_2_Name,Text,,마인!,"My Fault, Wuwu~",,我的错，呜呜~,
+Buff/B_Miyu_3_Name,Text,,방어력 감소,Defense Reduction,,防御力降低,
+Buff/B_Miyu_4_1_Name,Text,,약화 저항 감소,Weakness Grasp,,弱点把握,
+Buff/B_Miyu_4_Description,Text,,"공격 명중 후 대상이 생존하면 대상에게 약화 저항 감소(<sprite=0>&a%)을 부여합니다.
+해당 디버프를 부여할 때마다 중첩을 소모한다.","After hitting with an attack, if the target survives, apply a Weakness Resistance reduction (<sprite=0>&a%) to the target.
+Each time this debuff is applied, consume 1 stack.",,"攻击技能将为目标添加(<sprite=0>&a%) '弱点把握'
+每次赋予减益将消耗1层",
+Buff/B_Miyu_4_Name,Text,,약화탄 장전,Weakness Bullet Loaded,,弱化弹装填,
+Buff/B_Miyu_R0_Description,Text,,"고통 피해가 아닌 피해를 받을 때 마다, 사용자의 공격력의 비례하여 &a 만큼의 <color=purple>고통 피해</color>를 입습니다.
+(최대 20회 까지)
+
+남은 횟수: &m","When taking non-pain damage, deal <color=purple>pain damage</color> equal to &a based on the user's attack power.
+(Maximum 20 times)
+
+Remaining Count: &m",,"当造成非痛苦伤害时，根据使用者攻击力 &a 给予<color=purple>痛苦伤害</color>
+(最多20次)
+
+剩余次数: &m",
+Buff/B_Miyu_R0_Name,Text,,관측대상,Observation Report,,观测状况报告,
+Buff/B_Miyu_R1_Description,Text,,"피격시 해제하고 ""Rabbit's 사이트"" 스킬을 사용자에게 돌려줍니다. 저항하거나 만료 되었을 경우엔 대신 버린 덱에 넣습니다.","When attacked, remove this effect and return ""Rabbit's Sight"" to the user's hand. If resisted or expired, add it to the discard pile instead.",,"当受到攻击时解除，并在手中生成1张 ""Rabbit4 瞄准""。
+当目标抵抗此减益或持续时间结束时，则将技能加入弃牌库。",
+Buff/B_Miyu_R1_Name,Text,,토끼의 표적,Rabbit's Target,,Rabbit's 目标,
+Buff/B_Miyu_R3_Description,Text,,스텔스가 없으면 자동으로 얻습니다.,Automatically gain Stealth if not already in Stealth.,,角色没有潜行时获得潜行,
+Buff/B_Miyu_R3_Name,Text,,클로킹,Cloaking,,锁定,
+Buff/B_miyu_stealth_Description,Text,,공격받을 확률 크게 감소,Greatly reduces the chance of being attacked.,,受到攻击的概率大幅降低,
+Buff/B_miyu_stealth_Name,Text,,스텔스,Stealth,,潜行,
+Character/Miyu_PassiveDes,Text,,턴 시작시 '스텔스'를 보유하지 않았다면 '스텔스'를 얻습니다. 스텔스는 공격받을 확률을 크게 감소 시켜줍니다.,"At the start of the turn, if not in Stealth, gain Stealth. Stealth greatly reduces the chance of being attacked.",,每回合开始时，若不处于潜行状态，美游会获得潜行,
+Character/Miyu_PassiveName,Text,,옅은 존재감,Faint Presence,,浅薄的存在感,
+Character/Miyu_SelectInfo,Text,,,"Miyu, a member of the RABBIT platoon, entered SRT because she was recognized for her talent as a sniper. Now that the school is closed, she spends her days living in a park with other members of the platoon. Her presence is scarce and is useful as a sniper, but she can be forgotten by her allies sometimes. Her call sign is ""RABBIT 4"".
+""Do I... have to fight?""",,"隶属于SRT特殊学院的 RABBIT小队狙击手。 虽然她期待通过自己的狙击天赋进入SRT特殊学园，但学园却突然关闭。目前与同队的成员住在公园里。她的存在感很弱，这点在狙击任务中很有用，但是她不仅会被敌人忘记，也会被队友忘记。呼号是“RABBIT4”。
+“要，要战斗吗？”",
+Character/Miyu_Text_Battle_AllyND_0,Text,,역시 전 아무것도 못하는 쓰레기에요⋯,"As expected, I'm just useless trash...",,呜呜，果然我是什么都做不到的小垃姬,
+Character/Miyu_Text_Battle_Healed_0,Text,,이거⋯ 제 몫인가요?,Is this... for me?,,欸，这个？是给我的吗？,
+Character/Miyu_Text_Battle_Healed_1,Text,,"
+고, 고맙습니다.",Th-thank you.,,"
+谢，谢谢。",
+Character/Miyu_Text_Battle_Idle_0,Text,,저...또 다시 잊혀진 건가요...,Was I... forgotten again?,,我…又被遗忘了吗…,
+Character/Miyu_Text_Battle_Kill_0,Text,,다른 분들을 방해하지는 않게⋯,I won't get in the way of the others...,,我不能妨碍其他孩子⋯,
+Character/Miyu_Text_Battle_ND_0,Text,,싫어⋯미안⋯.,No... I'm sorry...,,抱歉，大家,
+Character/Miyu_Text_Battle_Start_0,Text,,잘 할 수 있을까⋯,Maybe... I can do it...,,说不定⋯能顺利呢⋯,
+Character/Miyu_Text_Battle_Start_1,Text,,이동하겠습니다.,Moving out.,,进，进行移动,
+Character/Miyu_Text_Character_0,Text,,Other Texts,Other Texts,,Other Texts,
+Character/Miyu_Text_Field_Potion_P_0,Text,,이거⋯ 제 몫인가요?,Is this... for me?,,这⋯是给我的吗？,
+Character/Miyu_Text_Field_Potion_P_1,Text,,"
+고, 고맙습니다.",Th-thank you.,,"
+谢, 谢谢",
+Character/Miyu_Text_PharosLeader_0,Text,,,,,,
+Character/Miyu_Text_PharosLeader_1,Text,,,,,,
+Character/Miyu_Text_PharosLeader_2,Text,,,,,,
+Character/Miyu_name,Text,,미유,Miyu,,美游,
+Skill/Miyu_Skill_R3_Name,Text,,클로킹,Cloaking,,锁定,
+Skill/Miyu_skill_10_Description,Text,,"사용 시 스킬 하나를 뽑고,""사전 답사""를 버린 덱에 생성합니다.","Draw 1 skill.
+Add a ""Preliminary Survey"" to the discard pile.",,"抽取1个技能。
+在弃牌库中添加一张'事前勘察'",
+Skill/Miyu_skill_10_Name,Text,,현장 탐문,Field Investigation,,现场考察,
+Skill/Miyu_skill_11_Description,Text,,기습:이번 턴에 이 스킬을 한번 더 사용 가능합니다.,Ambush: Can use this skill one more time this turn.,,突袭：这回合可以再使用一次,
+Skill/Miyu_skill_11_Name,Text,,특수 작전,Special Operation,,特别作战,
+Skill/Miyu_skill_1_Description,Text,,기습:&a 만큼 추가 피해를 준다.,Ambush: Deals additional damage equal to &a.,,突袭：追加伤害 &a,
+Skill/Miyu_skill_1_Name,Text,,엄호 사격,Covering Fire,,掩护射击,
+Skill/Miyu_skill_2_Description,Text,,"""스텔스""를 얻습니다. 이미 있다면 스킬을 2장 뽑습니다.","Gain Stealth. If already in Stealth, draw 2 skills.",,获得潜行，如果已经拥有则抽取两个技能。,
+Skill/Miyu_skill_2_Name,Text,,나에게 알맞은 곳...,A Place for Me...,,我的容身之处,
+Skill/Miyu_skill_3_0_Description,Text,,"'숨어서...'스킬을 버린 덱에 생성합니다.
+
+기습:스킬을 하나 뽑습니다.","Add a ""Hide..."" to the discard pile.
+
+Ambush: Draw 1 skill.",,"在弃牌库中添加‘快藏起来...’
+突袭：抽取1个技能",
+Skill/Miyu_skill_3_0_Name,Text,,한번...해보자!,Let's... give it a try!,,试...试试看吧,
+Skill/Miyu_skill_3_1_Description,Text,,"스텔스를 얻습니다.
+이 스킬을 사용하면  ""숨어서...""스킬을 버린 덱에 생성합니다.","Gain Stealth.
+Add a ""Hide..."" to the discard pile.",,"获得潜行。
+在弃牌库中添加‘快藏起来...’",
+Skill/Miyu_skill_3_1_Name,Text,,우으...무서워,Wuwu... I'm scared...,,呜呜...好可怕,
+Skill/Miyu_skill_3_Description,Text,,선택:'한번...해보자!' 또는 '우으...무서워' 중 하나를 선택하고 손에 생성합니다.,"Choose:
+Add either ""Let's... give it a try!"" or ""Wuwu... I'm scared..."" to your hand.",,"选择在手中生成：
+ '试...试试看吧'或者'呜呜...好可怕'",
+Skill/Miyu_skill_3_Name,Text,,숨어서...,Hide quickly...,,快藏起来...,
+Skill/Miyu_skill_4_0_Description,Text,,"얻은 턴에는 사용할 수 없습니다.
+사용시 ""힘든 낚시임무""를 손에 생성합니다.
+","Cannot be used on the turn it is obtained.
+Generates 1 ""Difficult Fishing Task"" in hand.",,"在获得的回合无法使用。
+在手中生成1个'艰难的钓鱼任务' ",
+Skill/Miyu_skill_4_0_Name,Text,,낚시 가방,Fishing Backpack,,钓鱼用背包,
+Skill/Miyu_skill_4_Description,Text,,"사용시 ""낚시 가방""을  생성합니다.","Generates 1 ""Fishing Backpack"".",,生成一张'钓鱼用背包',
+Skill/Miyu_skill_4_Name,Text,,힘든 낚시임무,Difficult Fishing Task,,艰难的钓鱼任务,
+Skill/Miyu_skill_5_Description,Text,,"사용 불가
+기습:이 스킬을 사용 가능합니다.","Cannot be used.
+Ambush: Allows usage.",,"无法使用
+突袭：允许使用",
+Skill/Miyu_skill_5_Name,Text,,요인 저격,Target Snipe,,狙击目标,
+Skill/Miyu_skill_6_Description,Text,,"이 스킬이 카운팅 중일 때, 공격스킬을 사용할 때 마다 이 스킬을 무작위 대상에게 즉시 사용한다.
+
+남은 횟수:&a","While this skill is counting down, each time an attack skill is used, this skill is immediately applied to a random enemy.
+
+Remaining uses:&a",,"当该技能处于倒计时中，每次使用攻击技能，都会立刻将该技能作用于随机敌人
+
+剩余次数:&a",
+Skill/Miyu_skill_6_Name,Text,,포인트 알파,Point A,,Point A,
+Skill/Miyu_skill_7_Description,Text,,"루시스킬이 아닌 손에 있는 스킬 하나당 비용 1감소.
+기습:치명타로 적중합니다.","Reduces the cost of skills in hand by 1 (except Lucy skills).
+Ambush: Hits with a critical strike.",,"手中的技能费用降低1（露西技能除外）
+突袭：以暴击命中",
+Skill/Miyu_skill_7_Name,Text,,모아쏘기,Unexpected Strike,,意料之外的一击,
+Skill/Miyu_skill_9_Description,Text,,"사용시 스킬 하나를 뽑고 ""현장 탐문""하나를 버린 덱에 생성합니다.","Draw 1 skill.
+Adds 1 ""Field Investigation"" to the discard pile.",,"抽取1个技能
+在弃牌库中添加一张'现场考察'",
+Skill/Miyu_skill_9_Name,Text,,사전 답사,Preliminary Survey,,事前勘察,
+Skill/Miyu_skill_LucyD_Description,Text,,"사용불가,이 스킬이 손에 있는 동안,턴 시작시 스킬을 하나 더 뽑습니다.","Cannot be used.
+If this skill is in hand at the start of the turn, draw 1 skill.",,"无法使用。
+回合开始时该技能在手中时，抽取1个技能",
+Skill/Miyu_skill_LucyD_Name,Text,,낚시의 맛,The Taste of Fishing,,明天将吹起明日之风,
+Skill/Miyu_skill_R1_Description,Text,,,,,,
+Skill/Miyu_skill_R1_Name,Text,,소심한 관측,Timid Observation,,胆怯者的观测,
+Skill/Miyu_skill_R2_Description,Text,,,,,,
+Skill/Miyu_skill_R2_Name,Text,,Rabbit's 사이트,Rabbit's Sight,,Rabbit4 瞄准,
+Skill/skill_Miyu_8_Name,Text,,약화탄 장전,Special Sniper Round,,狙击用特殊弹,
+SkillKeyword/Keyword_Miyu_Desc,Text,,"스텔스가 있을 때 추가효과를 얻습니다.
+이 스킬을 사용하면 스텔스를 해제 합니다.","Gains additional effects while Stealthed.
+Using an Ambush skill removes Stealth.",,"潜行时获得额外效果。
+使用突袭技能时，移除潜行状态",
+SkillKeyword/Keyword_Miyu_Name,Text,,기습,Ambush,,突袭,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+

@@ -1,0 +1,183 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Angelo_1_0_Description,Text,,천사의 노랫소리가 들려온다...,You hear the angel's song...,,,
+Buff/B_Angelo_1_0_Name,Text,,포르티시모,Fortissimo,,,
+Buff/B_Angelo_1_Description,Text,,천사의 선율을 연주하여 잔이 차올랐다.,"The angel's melody was played, and the cup was filled.",,,
+Buff/B_Angelo_1_Name,Text,,천사의 잔,Angel's Cup,,,
+Buff/B_Barmo_1_1_Name,Text,,보호막,Shield,,,
+Buff/B_Barmo_5_0_Description,Text,,도발 무시,Ignore Taunt,,,
+Buff/B_Barmo_5_0_Name,Text,,도발 무시,Ignore Taunt,,,
+Buff/B_Barmo_5_1_Name,Text,,공격력 증가,Attack Increase,,,
+Buff/B_Barmo_6_0_Name,Text,,공격받을 확률 증가,Increased Chance to be Attacked,,,
+Buff/B_Barmo_6_1_Description,Text,,다음 받는 피해를 0으로 감소시킵니다.,The next damage received is reduced to 0.,,,
+Buff/B_Barmo_6_1_Name,Text,,악마의 위안,Demon's Consolation,,,
+Buff/B_Barmo_7_Description,Text,,,,,,
+Buff/B_Barmo_7_Name,Text,,치유력 증가,Healing Increase,,,
+Buff/B_Barmo_P_0_Description,Text,,"중첩 수가 3일 떄 '안젤로 바르모니카'를 필드에 소환합니다.
+중첩 수가 6일 때 손에 '이신-쥬라르메'를 추가합니다.","When the stack count is 3, summon ""Angelo Vaalmonica"" to the field.
+When the stack count is 6, add ""Duralume, Vaalmonican Heathen Hallow"" to your hand.",,,
+Buff/B_Barmo_P_0_Name,Text,,천사의 인도,Angel's Guidance,,,
+Buff/B_Barmo_P_1_Description,Text,,"중첩 수가 3일 때 '데모네 바르모니카'를 필드에 소환합니다.
+중첩 수가 6일 때 '신이-제브페라'를 손에 추가합니다.","When the stack count is 3, summon ""Demone Vaalmonica"" to the field.
+When the stack count is 6, add ""Zebufera, Vaalmonican Hallow Heathen"" to your hand.",,,
+Buff/B_Barmo_P_1_Name,Text,,악마의 인도,Demon's Guidance,,,
+Buff/B_Barmo_R_0_T_Description,Text,,"중첩 수가 6일 때 무작위 적을 기절(<sprite=2> &a%) 시키고, 중첩 수가 1이 됩니다.","When the stack count is 6, stun a random enemy (<sprite=2> &a%) and the stack count becomes 1.",,,
+Buff/B_Barmo_R_0_T_Name,Text,,향명,Incantation,,,
+Buff/B_Demone_1_0_Description,Text,,악마의 노랫소리가 들려온다...,You hear the demon's song...,,,
+Buff/B_Demone_1_0_Name,Text,,피아니시모,Pianissimo,,,
+Buff/B_Demone_1_Description,Text,,악마의 선율을 연주하여 잔이 차올랐다.,"The demon's melody was played, and the cup was filled.",,,
+Buff/B_Demone_1_Name,Text,,악마의 잔,Demon's Cup,,,
+Character/Barmo_CampSelectWord,Text,,좌우에서 들려오는 천사와 악마의 속삭임── 당신의 선택은?,The whispers of angels and demons from both sides── What will you choose?,,,
+Character/Barmo_PassiveDes,Text,,"아군이 <color=green>치유</color>될 때 '천사의 인도'를 얻고 <color=purple>고통피해</color>를 받을 때 '악마의 인도'를 얻습니다.
+
+셀레트리체 전용스킬의 <color=purple>고통피해</color> 효과는 빈사 상태의 대상을 전투불능 상태로 만들지 않습니다.","When an ally is <color=green>healed</color>, gain ""Angel's Guidance"", and when they take <color=purple>pain damage</color>, gain ""Demon's Guidance"".
+
+The <color=purple>pain damage</color> effect of Selettrice exclusive skills will not incapacitate a critically wounded target.",,,
+Character/Barmo_PassiveName,Text,,성선기의 연주자,Performer of Sacred Harmony,,,
+Character/Barmo_SelectInfo,Text,,"성선기-바르모니카의 선택을 받은 소녀.
+언제나 자신의 주위를 멤도는 천사와 악마의 인도를 따라 자신의 운명을 결정하기 위해 조사단에 합류하였다.
+
+셀레트리체는 치유와 자해효과를 동시에 활용하는 지원 역할군입니다. 덱의 카드를 컨트롤하는 효과가 많기에 능력을 최대한 활용하기 위해선 남은 덱과 버려진 덱을 잘 파악하고 있어야 합니다.","A girl chosen by the Sacred Harmony Vaalmonica. She joined the expedition to determine her destiny by following the guidance of the angels and demons that always circle around her.
+
+Selettrice is a support role that utilizes healing and self-harm effects simultaneously. To maximize the potential of her abilities, it is crucial to monitor the remaining deck and discard pile, as many of her effects control the deck's cards.",,,
+Character/Barmo_Text_Battle_AllyND_0,Text,,도와드릴게요...!,I'll help you...!,,,
+Character/Barmo_Text_Battle_AllyND_1,Text,,어서 치유를...!,Hurry and heal...!,,,
+Character/Barmo_Text_Battle_Cri_0,Text,,<i>템페스토소</i>,<i>Tempestoso</i>,,,
+Character/Barmo_Text_Battle_Healed_0,Text,,고마워요.,Thank you.,,,
+Character/Barmo_Text_Battle_Healed_1,Text,,감사해요.,Thanks.,,,
+Character/Barmo_Text_Battle_Idle_0,Text,,다음 곡은...,The next song is...,,,
+Character/Barmo_Text_Battle_Idle_1,Text,,음...,Hmm...,,,
+Character/Barmo_Text_Battle_Kill_0,Text,,<i>비바체</i>,<i>Vivace</i>,,,
+Character/Barmo_Text_Battle_Kill_1,Text,,<i>비보</i>,<i>Vivo</i>,,,
+Character/Barmo_Text_Battle_ND_0,Text,,아파...!,It hurts...!,,,
+Character/Barmo_Text_Battle_ND_1,Text,,끝... 이렇게...?,End... like this...?,,,
+Character/Barmo_Text_Battle_Start_0,Text,,"데모네, 도와주세요.","Dimonno, help me.",,,
+Character/Barmo_Text_Battle_Start_1,Text,,"안젤로, 연주 준비를.","Angello, prepare to play.",,,
+Character/Barmo_Text_Field_GetItem_0,Text,,반짝거려요...!,It sparkles...!,,,
+Character/Barmo_Text_Field_GetItem_1,Text,,와...!,Wow...!,,,
+Character/Barmo_Text_Field_Idle_0,Text,,저쪽에서 노랫소리가 들려와요...,I hear a song from over there...,,,
+Character/Barmo_Text_Field_Idle_1,Text,,"안젤로, 데모네.
+길을 알려주세요.","Angello, Dimonno. Show me the way.",,,
+Character/Barmo_Text_Field_Potion_P_0,Text,,후아...,Phew...,,,
+Character/Barmo_Text_Field_Potion_P_1,Text,,이걸로 연주하면 어떤 소리가 날까요? ...안된다고요?,What sound will it make if I play this? ...No?,,,
+Character/Barmo_Text_MasterTarget,Text,,운명은... 맡길게요.,I'll leave it to fate.,,,
+Character/Barmo_Text_PharosLeader_0,Text,,교주님... 당신의 선율을 연주하겠습니다.,Master... I will play your melody.,,,
+Character/Barmo_Text_PharosLeader_1,Text,,미안해요...!,I'm sorry...!,,,
+Character/Barmo_Text_PharosLeader_2,Text,,다음 곡은 장송곡으로 할까요.,Shall the next song be a requiem.,,,
+Character/Barmo_Text_Witch_0,Text,,고통은... 익숙해요.,Pain... I'm used to it.,,,
+Character/Barmo_Text_Witch_1,Text,,이제 무리예요...!,I can't do it anymore...!,,,
+Character/Barmo_name,Text,,셀레트리체,Selettrice,,,
+Enemy/S1_Angelo_EnemyStory,Text,,"(속닥속닥... ♪)
+선택은 당신이 하기 나름.","(Whisper whisper... ♪)
+It's all up to your choice.",,,
+Enemy/S1_Angelo_SubName,Text,,천사의 속삭임,Angel's Whisper,,,
+Enemy/S1_Angelo_name,Text,,안젤로 바르모니카,Angello Vaalmonica,,,
+Enemy/S1_Demone_EnemyStory,Text,,"(소곤소곤...!)
+선택은 당신이 하기 나름.","(Murmur murmur...!)
+It's all up to your choice.",,,
+Enemy/S1_Demone_SubName,Text,,악마의 속삭임,Demon's Whisper,,,
+Enemy/S1_Demone_name,Text,,데모네 바르모니카,Dimonno Vaalmonica,,,
+Skill/S_Angelo_Name,Text,,천사의 장난,Angel's Prank,,,
+Skill/S_Barmo_1_0_Description,Text,,손의 가장 아래에 있는 스킬을 버린 뒤 스킬 하나를 뽑습니다.,"Discard the bottom skill in your hand, then draw a skill.",,,
+Skill/S_Barmo_1_0_Name,Text,,천사의 인도,Angel's Guidance,,,
+Skill/S_Barmo_1_1_Description,Text,,"대상에게 <color=purple>&a 고통 피해</color>를 입히고, &b 보호막을 부여한 뒤 자신의 스킬을 우선으로 스킬을 하나 뽑습니다.","Inflict <color=purple>&a pain damage</color> on the target, grant &b shield, and prioritize drawing one of your skills.",,,
+Skill/S_Barmo_1_1_Name,Text,,악마의 인도,Demon's Guidance,,,
+Skill/S_Barmo_1_Description,Text,,"<b>하나 선택</b>
+대상을 <color=green>&a 치유</color>하고, 손의 가장 아래에 있는 스킬을 버린 뒤 스킬 하나를 뽑거나
+또는, 대상에게 <color=purple>&b 고통 피해</color>를 입히고, &c 보호막을 부여한 뒤 자신의 스킬을 우선으로 스킬을 하나 뽑습니다.","<b>Select one</b>
+Heal the target by <color=green>&a</color> and discard the bottom skill in your hand, then draw a skill, or inflict <color=purple>&b pain damage</color> on the target, grant &c shield, and prioritize drawing one of your skills.",,,
+Skill/S_Barmo_1_Name,Text,,바르모니카 셀타,Selettrice Vaalmonica,,,
+Skill/S_Barmo_2_Description,Text,,"대상에게 <color=purple>&a 고통 피해</color>를 입히고 무작위 디버프를 한 개를 해제합니다.
+덱에서 스킬을 하나 골라 버립니다.","Inflict <color=purple>&a pain damage</color> on the target and remove one random debuff.
+Select and discard a skill from the deck.",,,
+Skill/S_Barmo_2_Name,Text,,바르모니카 베르사레,Vaalmonica Versare,,,
+Skill/S_Barmo_3_Description,Text,,버려진 덱에서 희귀스킬과 '바르모니카 인토나레'를 제외한 자신의 스킬을 하나 골라 뽑습니다.,"Select and draw one of your skills from the discard pile, excluding rare skills and ""Vaalmonica Intonare"".",,,
+Skill/S_Barmo_3_Name,Text,,바르모니카 인토나레,Vaalmonica Intonare,,,
+Skill/S_Barmo_4_Description,Text,,"체력이 가득 찬 아군은 대상에 포함되지 않습니다.
+'천사의 인도'와 '악마의 인도'의 중첩 수가 같을 경우 비용이 1 감소합니다.
+대상을 <color=green>&a 치유</color>한 후 <color=purple>&b 고통 피해</color>를 입히고, 회복게이지 보호를 부여합니다.","Targets with full health are not included.
+If the stack count of ""Angel's Guidance"" and ""Demon's Guidance"" is equal, reduce the cost by 1.
+Heal the target by <color=green>&a</color>, inflict <color=purple>&b pain damage</color>, and grant healing gauge protection.",,,
+Skill/S_Barmo_4_Name,Text,,디사르모니아,Vaalmonica Disarmonia,,,
+Skill/S_Barmo_5_0_Description,Text,,,,,,
+Skill/S_Barmo_5_0_Name,Text,,천사의 인도,Angel's Guidance,,,
+Skill/S_Barmo_5_1_Description,Text,,대상에게 <color=purple>&a 고통 피해</color>를 입힙니다.,Inflict <color=purple>&a pain damage</color> on the target.,,,
+Skill/S_Barmo_5_1_Name,Text,,악마의 인도,Demon's Guidance,,,
+Skill/S_Barmo_5_2_Description,Text,,두 선택지의 버프를 모두 부여합니다.,Grant both choice buffs.,,,
+Skill/S_Barmo_5_2_Name,Text,,이신의 인도,Dual Divinity's Guidance,,,
+Skill/S_Barmo_5_Description,Text,,"<b>하나 선택</b>
+대상을 <color=green>&a 치유</color>하고, 도발 무시를 부여하거나
+또는, 대상에게 <color=purple>&b 고통 피해</color>를 입히고, 공격력 증가를 부여합니다.
+'천사의 인도'의 중첩 수가 최대일 경우 두 선택지의 버프를 모두 부여할 수 있습니다.","<b>Select one</b>
+Heal the target by <color=green>&a</color> and grant Ignore Taunt, or inflict <color=purple>&b pain damage</color> on the target and grant Attack Increase.
+If the stack count of ""Angel's Guidance"" is maximized, grant both choice buffs.",,,
+Skill/S_Barmo_5_Name,Text,,율도의 바르모니카,Vaalmonica Followed Rhythm,,,
+Skill/S_Barmo_6_0_Description,Text,,,,,,
+Skill/S_Barmo_6_0_Name,Text,,천사의 인도,Angel's Guidance,,,
+Skill/S_Barmo_6_1_Description,Text,,"대상에게 <color=purple>&a 고통 피해</color>를 입히고, 다음 받는 피해를 0으로 감소시킵니다.",Inflict <color=purple>&a pain damage</color> on the target and reduce the next damage received to 0.,,,
+Skill/S_Barmo_6_1_Name,Text,,악마의 인도,Demon's Guidance,,,
+Skill/S_Barmo_6_2_Description,Text,,두 선택지의 버프를 모두 부여합니다.,Grant both choice buffs.,,,
+Skill/S_Barmo_6_2_Name,Text,,신이의 인도,Divine Guidance,,,
+Skill/S_Barmo_6_Description,Text,,"<b>하나 선택</b>
+대상을 <color=green>&a 치유</color>하고, 대상이 공격 받을 확률을 증가시키거나
+또는, 대상에게 <color=purple>&b 고통 피해</color>를 입히고, 다음 받는 피해를 0으로 감소시킵니다.
+'악마의 인도'의 중첩 수가 최대일 경우 두 선택지의 버프를 모두 부여할 수 있습니다.","<b>Select one</b>
+Heal the target by <color=green>&a</color>, and increase the chance of being attacked, or inflict <color=purple>&b pain damage</color> on the target, and reduce the next damage received to 0.
+If the stack count of ""Demon's Guidance"" is maximized, grant both choice buffs.",,,
+Skill/S_Barmo_6_Name,Text,,선율의 바르모니카,Vaalmonica Chosen Melody,,,
+Skill/S_Barmo_7_Description,Text,,"대상을 <color=green>&a 치유</color>한 후 자신에게 <color=purple>&b 고통 피해</color>를 입히고, 셀레트리체의 전용 스킬을 하나 생성합니다. 생성된 스킬은 제외됨, 2턴 후 버려짐이 부여됩니다.","Heal the target by <color=green>&a</color>, then inflict <color=purple>&b pain damage</color> on yourself, and generate one Selettrice exclusive skill. The generated skill is excluded and is discarded after 2 turns.",,,
+Skill/S_Barmo_7_Name,Text,,창신의 바르모니카,Vaalmonica Creation,,,
+Skill/S_Barmo_8_Description,Text,,"버려진 덱에서 스킬을 3개 골라 덱으로 되돌립니다.
+마나를 2 회복합니다.","Select 3 skills from the discard pile and return them to the deck.
+Recover 2 mana.",,,
+Skill/S_Barmo_8_Name,Text,,에레디타레,Vaalmonica Ereditare,,,
+Skill/S_Barmo_A_0_Description,Text,,손에 '안젤로 바르모니카'를 추가한다.,"Add ""Angelo Vaalmonica"" to your hand.",,,
+Skill/S_Barmo_A_0_Name,Text,,나중에 소환,Summon Later,,,
+Skill/S_Barmo_A_Description,Text,,안젤로 바르모니카를 필드에 소환한다.,"Summon ""Angelo Vaalmonica"" to the field.",,,
+Skill/S_Barmo_A_Name,Text,,안젤로 바르모니카,Angelo Vaalmonica,,,
+Skill/S_Barmo_BA_Description,Text,,"추가로 2회 시전하며, 치유력에 비례하여 피해량이 증가합니다.
+덱에 있는 '율도의 바르모니카'를 하나 뽑고 비용을 1 감소시킵니다.","Cast an additional 2 times, and the damage increases proportionally to healing power.
+Draw one ""Vaalmonica of Rule"" from the deck and reduce its cost by 1.",,,
+Skill/S_Barmo_BA_Name,Text,,이신-쥬라르메,"Duralume, Vaalmonican Heathen Hallow",,,
+Skill/S_Barmo_BD_Description,Text,,"빈사 상태인 아군을 추가로 &a 초과치유합니다.
+버려진 덱에서 '선율의 바르모니카'를 하나 뽑고 비용을 1 감소시킵니다.","Overheal an additional &a to critically wounded allies.
+Draw one ""Vaalmonica Chosen Melody"" from the discard pile and reduce its cost by 1.",,,
+Skill/S_Barmo_BD_Name,Text,,신이-제브페라,"Zebufera, Vaalmonican Hallow Heathen",,,
+Skill/S_Barmo_D_0_Description,Text,,손에 '데모네 바르모니카'를 추가한다.,"Add ""Dimonno Vaalmonica"" to your hand.",,,
+Skill/S_Barmo_D_0_Name,Text,,나중에 소환,Summon Later,,,
+Skill/S_Barmo_D_Description,Text,,데모네 바르모니카를 필드에 소환한다.,"Summon ""Dimonno Vaalmonica"" to the field.",,,
+Skill/S_Barmo_D_Name,Text,,데모네 바르모니카,Dimonno Vaalmonica,,,
+Skill/S_Barmo_LucyD_Description,Text,,"버려진 덱에서 스킬을 하나 골라 뽑습니다.
+덱에서 스킬을 하나 뽑습니다.","Select and draw one skill from the discard pile.
+Draw one skill from the deck.",,,
+Skill/S_Barmo_LucyD_Name,Text,,바르모니카 인비타레,Vaalmonica Invitare,,,
+Skill/S_Barmo_R_0_Description,Text,,"사용시 아군 모두에게 &a <color=purple>고통피해</color>를 입히고 생존한 아군 한명당 &b 방벽을 얻습니다.
+턴 시작시, 홀수 턴이면 '바르모니카 인토나레', 짝수 턴이면 '바르모니카 베르사레'를 제외, 한 턴 후 버려짐, 신속을 부여하여 손에 추가합니다.
+아군이 <color=green>치유</color>되거나 <color=purple>고통피해</color>를 입을 때 '향명' 중첩을 얻습니다.","When used, inflict &a <color=purple>pain damage</color> on all allies and gain &b barrier for each surviving ally.
+At the start of odd turns, add ""Vaalmonica Intonare"" to your hand, and at the start of even turns, add ""Vaalmonica Versare"" to your hand.
+Both are excluded, discarded after one turn, and gain Swiftness. Gain a stack of ""Incantation"" when allies are <color=green>healed</color> or take <color=purple>pain damage</color>.",,,
+Skill/S_Barmo_R_0_Name,Text,,천마의 성선기-바르모니카,"Vaalmonica, the Agathokakological Voice",,,
+Skill/S_Barmo_R_1_Description,Text,,"치유력에 비례하여 피해량이 증가합니다.
+아군이 <color=purple>고통피해</color>를 받을 때 <color=green>&a 초과치유</color>하고 비용이 1 감소합니다.(최대 5회, &b회 발동)
+사용시 위의 효과를 발동한 횟수 만큼 추가로 피해를 입힙니다.","Damage increases proportionally to healing power.
+When allies take <color=purple>pain damage</color>, overheal by <color=green>&a</color> and reduce cost by 1 (maximum 5 times, triggers &b times).
+When used, inflict additional damage based on the number of times the above effect was triggered.",,,
+Skill/S_Barmo_R_1_Name,Text,,바르모니카의 신주-바라르,"Varar, Vaalmonican Concord",,,
+Skill/S_Demone_Name,Text,,악마의 위안,Demon's Consolation,,,
+SkillExtended/SkillEn_Barmo_0_Des,Text,,,,,,
+SkillExtended/SkillEn_Barmo_0_EnforceString,Text,,,,,,
+SkillExtended/SkillEn_Barmo_0_Name,Text,,사용시 자신을 <color=green>6 치유</color>하고 스킬을 한 개 뽑습니다.,"When used, heal yourself by <color=green>6</color> and draw one skill.",,,
+SkillExtended/SkillEn_Barmo_1_Des,Text,,,,,,
+SkillExtended/SkillEn_Barmo_1_EnforceString,Text,,"<sprite name=""비용2""><sprite name=""이상"">","<sprite name=""비용2""><sprite name=""이상"">",,,
+SkillExtended/SkillEn_Barmo_1_Name,Text,,사용시 <color=purple>6 고통피해</color>를 입고 마나를 2 회복합니다. 빈사 상태에서 이 스킬에 의해 피해를 입어도 전투불능 상태가 되지 않습니다.,"When used, take <color=purple>6 pain damage</color> and recover 2 mana. Taking damage from this skill will not incapacitate you when critically wounded.",,,
+SkillKeyword/KeyWord_Angel_Desc,Text,,아군이 회복될 때 중첩 수가 증가합니다.,The stack count increases when allies are healed.,,,
+SkillKeyword/KeyWord_Angel_Name,Text,,천사의 인도,Angel's Guidance,,,
+SkillKeyword/KeyWord_Demon_Desc,Text,,아군이 <color=purple>고통 피해</color>를 입을 때 중첩 수가 증가합니다.,The stack count increases when allies take <color=purple>pain damage</color>.,,,
+SkillKeyword/KeyWord_Demon_Name,Text,,악마의 인도,Demon's Guidance,,,
+SkillKeyword/KeyWord_Sorry_Desc,Text,,이 스킬의 <color=green>치유</color>효과에 관여하는 강화 효과는 적용되지 않습니다.,Enhancement effects that affect this skill's <color=green>healing</color> effect do not apply.,,,
+SkillKeyword/KeyWord_Sorry_Name,Text,,강화 무효,Enhancement Nullification,,,
+SkillKeyword/Keyword_BA_Desc,Text,,이 스킬은 전투 중 '천사의 인도' 효과로만 획득할 수 있습니다.,"This skill can only be obtained during battle through the effect of ""Angel's Guidance"".",,,
+SkillKeyword/Keyword_BA_Name,Text,,획득 불가,Cannot Be Obtained,,,
+SkillKeyword/Keyword_BD_Desc,Text,,이 스킬은 전투 중 '악마의 인도' 효과로만 획득할 수 있습니다.,"This skill can only be obtained during battle through the effect of ""Demon's Guidance"".",,,
+SkillKeyword/Keyword_BD_Name,Text,,획득 불가,Cannot Be Obtained,,,
+,,,,,,,
+

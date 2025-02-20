@@ -1,0 +1,32 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Character/Ruby_PassiveDes_1,Text,,,"A bullet is loaded each time a skill is drawn or an enemy's action count reaches 0.
+When bullets reach 6, reload and fire a ""Revolver Shot"" with a countdown of 0 at a random enemy.
+LV3+ - Special Effect 1: After dealing damage with a skill, if the target has less than 5% HP remaining, execute them and steal their buffs. (Does not work on bosses)
+LV5+ - Special Effect 2: After dealing damage with a skill, if the target has less than 25% HP remaining, execute them and steal their buffs. (Does not work on bosses)","スキルを引くか、敵の行動カウントが0になるたびに、弾丸が1発装填される。
+弾丸が6に達するとリロードされ、ランダムな敵を対象にカウントダウン0の「リボルバー射撃」を発動する 。
+LV3以上-特殊効果1:スキルを使用してダメージを与えた後、対象の体力が5%未満の場合、対象は即死し、持っているバフを奪う。 (ボスには無効) 
+LV5以上-特殊効果2:スキルを使用してダメージを与えた後、対象の体力が25%未満の場合、対象は即死し、持っているバフを奪う。 (ボスには無効)","每抽取一个技能以及敌方行动倒计时为0时，装填一枚子弹
+子弹达到六枚后再次装填时，发射一次倒计时为0、以随机敌人为目标的左轮射击。
+LV3-等级1：自身打出技能造成伤害后若目标仅剩5%的生命，则直接将其斩杀并叠加一层对手增益。（无法对boss生效）
+LV5-等级2：自身打出技能造成伤害后若目标仅剩25%的生命，则直接将其斩杀并叠加一层对手增益。（无法对boss生效）",
+Character/Ruby_PassiveDes_2,Text,,,"A bullet is loaded each time a skill is drawn or an enemy's action count reaches 0.
+When bullets reach 6, reload and fire a ""Revolver Shot"" with a countdown of 0 at a random enemy.
+At the start of battle, if the opponent is a BOSS, generate a random Crimson Wilderness Elite skill.
+If fighting in the Crimson Wilderness, generate the same Crimson Wilderness Elite skill with a cost of 0.","スキルを引くか、敵の行動カウントが0になるたびに、弾丸が1発装填される。
+弾丸が6に達するとリロードされ、ランダムな敵を対象にカウントダウン0の「リボルバー射撃」を発動する。
+戦闘開始時、相手がボスの場合、ランダムな赤い荒野のエリートスキルが生成される。
+赤い荒野で戦闘を行った場合、コスト0の赤い荒野のエリートスキルが生成される。","每抽取一个技能以及敌方倒计时为0时，装填一枚子弹
+子弹达到六枚后再次装填时，发射一次倒计时为0、以随机敌人为目标的左轮射击。
+战斗开始时，如果对手是BOSS单位，则生成随机的荒野精英技能。
+如果在红色荒野进行战斗，则生成相同的荒野精英技能，且生成的技能费用变为0。",
+Character/Ruby_PassiveDes_3,Text,,,"A bullet is loaded each time a skill is drawn or an enemy's action count reaches 0.
+When bullets reach 6, reload and fire a ""Revolver Shot"" with a countdown of 0 at a random enemy.
+When dodging, inflict ""Bleeding"" on the attacker.
+When an enemy with a Pain debuff dies, steal their buffs and apply them to yourself.","スキルを引くか、敵の行動カウントが0になるたびに、弾丸が1発装填される。
+弾丸が6に達するとリロードされ、ランダムな敵を対象にカウントダウン0の「リボルバー射撃」を発動する。
+回避時に、攻撃してきた対象に[出血]を与える。
+苦痛デバフを持つ敵が死亡すると、その対象が死亡時に持っていたバフを奪い自身に与える。","每抽取一个技能以及敌方倒计时为0时，装填一枚子弹
+子弹达到六枚后再次装填时，发射一次倒计时为0、以随机敌人为目标的左轮射击。
+成功闪避时，对攻击来源施加流血减益。
+任意带有痛苦减益的角色死亡时，使自身获得最后的抵抗增益。",
+

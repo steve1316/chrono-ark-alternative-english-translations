@@ -1,0 +1,88 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Character/Esper_PassiveDes,Text,,,"Can use the fixed ability: Nature
+
+Unity: After the battle begins, for every three identical normal skills in the deck, they are decompiled and combined into one enhanced identical .fruit skill.",,"可以使用固定能力：自然
+
+一体：
+战斗开始后，牌库中每有三个同名的普通技能则会反编译并合成一张强化的同名.fruit技能。",
+Character/Esper_PassiveName,Text,,,Nature Unity,,自然一体,
+Character/Esper_SelectInfo,Text,,,"A young high school girl, she is very shy but observant. She wants to change and become more talkative but struggles to express her thoughts verbally.
+Programming makes her feel safe and comfortable, and she quickly learned world-class programming skills.
+Now she has joined Quantum led by QUEEN, following her to investigate the chaotic data streams of the Twisted Lands.",,"年轻的女高中生，她很害羞，但善于观察。她想改变，变得更加健谈，但一直与如何用言语表达思想作斗争。
+编程让她感到安全舒适，她迅速学会了世界级的编程技巧。
+现加入女王带领的量子，跟随女王调查扭曲之地的紊乱数据流。",
+Character/Esper_Text_Battle_AllyND_0,Text,,,,,,
+Character/Esper_Text_Battle_Cri_0,Text,,,,,,
+Character/Esper_Text_Battle_Idle_0,Text,,,,,,
+Character/Esper_Text_Battle_Kill_0,Text,,,,,,
+Character/Esper_Text_Battle_ND_0,Text,,,,,,
+Character/Esper_Text_Battle_Start_0,Text,,,,,,
+Character/Esper_Text_Battle_Start_1,Text,,,,,,
+Character/Esper_Text_Field_GetItem_0,Text,,,,,,
+Character/Esper_Text_Field_Idle_0,Text,,,,,,
+Character/Esper_Text_PharosLeader_0,Text,,,...,,……,
+Character/Esper_Text_PharosLeader_1,Text,,,...,,……,
+Character/Esper_Text_PharosLeader_2,Text,,,...,,……,
+Character/Esper_name,Text,,,ESPER,,爱丝玻,
+Skill/S_Esper_1_Description,Text,,,Draw 1 skill.,,抽取1个技能。,
+Skill/S_Esper_1_Name,Text,,,Cherry.fruit,,樱桃.fruit,
+Skill/S_Esper_1_plus_Description,Text,,,Draw 2 skills.,,抽取2个技能。,
+Skill/S_Esper_1_plus_Name,Text,,,Cherry.fruit+,,樱桃.fruit+,
+Skill/S_Esper_2_Description,Text,,,"When cast, draw an identical skill from the deck to your hand.",,释放时，从抽牌堆中抽取一个同名技能加入手牌。,
+Skill/S_Esper_2_Name,Text,,,Apple.fruit,,苹果.fruit,
+Skill/S_Esper_2_plus_Description,Text,,,"When cast, draw an identical skill from the deck to your hand.",,释放时，从抽牌堆中抽取一个同名技能加入手牌。,
+Skill/S_Esper_2_plus_Name,Text,,,Apple.fruit+,,苹果.fruit+,
+Skill/S_Esper_3_Description,Text,,,"When cast, select a .fruit skill from the discard pile to add to your hand, excluding Banana.fruit.",,释放时，从弃牌堆中选一个.fruit加入手牌，香蕉.fruit除外。,
+Skill/S_Esper_3_Name,Text,,,Banana.fruit,,香蕉.fruit,
+Skill/S_Esper_3_plus_Description,Text,,,"When cast, select a non-Lucy skill from the discard pile to add to your hand, excluding Banana.fruit.",,释放时，从弃牌堆中选一个非露西技能加入手牌，香蕉.fruit除外。,
+Skill/S_Esper_3_plus_Name,Text,,,Banana.fruit+,,香蕉.fruit+,
+Skill/S_Esper_4_Description,Text,,,"When cast, all identical skills in hand will be cast simultaneously.",,释放时，手牌中所有此技能的同名技能将一同释放。,
+Skill/S_Esper_4_Name,Text,,,Lemon.fruit,,柠檬.fruit,
+Skill/S_Esper_4_plus_Description,Text,,,"When cast, all identical skills in hand will be cast simultaneously.",,释放时，手牌中所有此技能的同名技能将一同释放。,
+Skill/S_Esper_4_plus_Name,Text,,,Lemon.fruit+,,柠檬.fruit+,
+Skill/S_Esper_5_Description,Text,,,"When this skill enters the discard pile, deal &a damage to all enemies. (30%)",,此技能进入弃牌堆时，对所有敌人造成&a点伤害。（30%）,
+Skill/S_Esper_5_Name,Text,,,Pomegranate.fruit,,石榴.fruit,
+Skill/S_Esper_5_plus_Description,Text,,,"When this skill enters the discard pile, deal &a damage to all enemies. (60%)",,此技能进入弃牌堆时，对所有敌人造成&a点伤害。（60%）,
+Skill/S_Esper_5_plus_Name,Text,,,Pomegranate.fruit+,,石榴.fruit+,
+Skill/S_Esper_6_Description,Text,,,"For each identical skill in hand, reduce this skill's mana cost by 1.",,手牌中每有1个同名技能，该技能的法力值消耗-1。,
+Skill/S_Esper_6_Name,Text,,,Pumpkin.fruit,,南瓜.fruit,
+Skill/S_Esper_6_plus_Description,Text,,,"For each identical skill in hand, reduce this skill's mana cost by 2.",,手牌中每有1个同名技能，该技能的法力值消耗-2。,
+Skill/S_Esper_6_plus_Name,Text,,,Pumpkin.fruit+,,南瓜.fruit+,
+Skill/S_Esper_Lucy_Description,Text,,,"Draw a skill.
+Add an identical skill card to your hand, then draw an identical skill card (if none, do not draw). If a skill is drawn this way, shuffle this skill back into the deck.",,"抽取一个技能。
+将一张目标技能的同名技能加入手牌，然后抽取一个该技能的同名技能（没有则不抽取），如果以此抽取了一个技能，则将本技能洗入抽牌堆。",
+Skill/S_Esper_Lucy_Name,Text,,,Seed of the World,,世界之种,
+Skill/S_Esper_Nat_1_Description,Text,,,"Choose one of your exclusive skills from the discard pile, add all identical skills from the discard pile to the deck, then draw 1 skill.",,选择弃牌堆中的1个自己的专属技能，将弃牌堆中所有与所选技能的同名技能加入抽牌堆，然后抽取1个技能。,
+Skill/S_Esper_Nat_1_Name,Text,,,Growth.nat,,生长.nat,
+Skill/S_Esper_Nat_2_Description,Text,,,"Choose a skill in hand, discard the selected skill. Add its special effect to other .fruit skills in your hand.",,选择手牌中的1个技能，丢弃被选中的技能。将其技能的特殊效果添加到手牌中的其他.fruit技能中。,
+Skill/S_Esper_Nat_2_Name,Text,,,Pollen.nat,,花粉.nat,
+Skill/S_Esper_Nat_3_Description,Text,,,"Draw a skill.
+After the .fruit skill below this skill is cast, add an identical skill from the discard pile to your hand. Discard this skill after triggering the effect.",,"抽取一个技能
+此技能下方的.fruit技能被释放后，从弃牌堆将一个与被释放技能的同名技能加入手牌中。触发此效果后丢弃这个技能。",
+Skill/S_Esper_Nat_3_Name,Text,,,Greenhouse.nat,,温室.nat,
+Skill/S_Esper_P_0_Description,Text,,,"When cast, choose 1 skill effect from 4 options to cast.",,释放时，可以从4个技能选项中选择1个技能效果释放。,
+Skill/S_Esper_P_0_Name,Text,,,Nature,,自然,
+Skill/S_Esper_P_1_Description,Text,,,"Select one of your .fruit skills from the discard pile, add an identical skill to your hand.
+For each identical skill in the discard pile, reduce overload by the corresponding amount.",,"选择弃牌堆中的1个自己的.fruit技能，将一个与所选技能的同名技能加入手牌中。
+弃牌堆中每有一个与所选技能同名的技能，减少对应数量的过载。",
+Skill/S_Esper_P_1_Name,Text,,,Spring.fruit,,春.fruit,
+Skill/S_Esper_P_2_Description,Text,,,"Select one of your .fruit skills from the deck, add it to your hand.",,选择抽牌堆中的1个自己的.fruit技能，将其加入手牌中。,
+Skill/S_Esper_P_2_Name,Text,,,Summer.fruit,,夏.fruit,
+Skill/S_Esper_P_3_Description,Text,,,"Decompile all .fruit skills in your hand, draw skills based on the number of decompiled skills.",,反编译手牌中所有的.fruit技能，根据反编译技能数抽取技能。,
+Skill/S_Esper_P_3_Name,Text,,,Autumn.fruit,,秋.fruit,
+Skill/S_Esper_P_4_Description,Text,,,"Select one of your .fruit skills from the deck, decompile all identical skills, and draw skills based on the number of decompiled skills.",,选择抽牌堆中的1个自己的.fruit技能，反编译与所选技能的所有同名技能，根据反编译的技能数抽取技能。,
+Skill/S_Esper_P_4_Name,Text,,,Winter.fruit,,冬.fruit,
+Skill/S_Esper_R1_Description,Text,,,"After casting, select one of your .fruit skills from the discard pile, add all identical skills from the discard pile to your hand.",,释放后，选择弃牌堆中的1个自己的.fruit技能，将弃牌堆中所有与所选技能的同名技能加入手牌中。,
+Skill/S_Esper_R1_Name,Text,,,Demeter.fruit,,得墨忒耳.fruit,
+Skill/S_Esper_R2_Description,Text,,,"When cast, exclude all non-Lucy skills in hand costing 1 or less. For each skill excluded, increase this skill's damage by &a (45% attack power) in this battle.",,释放时，放逐手牌中所有1费及以下的非露西技能，每放逐一个技能，此技能的伤害在本场战斗中增加&a(45%攻击力),
+Skill/S_Esper_R2_Name,Text,,,Persephone.fruit,,珀耳塞福涅.fruit,
+SkillExtended/Ex_Esper_1_0_Name,Text,,,This skill is considered a .fruit skill.,,此技能视为.fruit技能,
+SkillExtended/Ex_Esper_1_EnforceString,Text,,,Non-rare skill,,非稀有技能,
+SkillExtended/Ex_Esper_1_Name,Text,,,"At the start of battle, generate an identical skill considered a .fruit skill into the deck.",,战斗开始时，在牌库生成一个视为.fruit技能的同名技能,
+SkillExtended/Ex_Esper_2_Name,Text,,,"When cast, add a Nature card to your hand. Ineffective when ESPER cannot battle.",,释放时，将一张自然加入手牌。爱丝玻无法战斗时无效。,
+SkillKeyword/KeyWord_Esper_Decompile_Desc,Text,,,Remove the target skill from battle.,,从战斗中移除目标技能。,
+SkillKeyword/KeyWord_Esper_Decompile_Name,Text,,,Decompile,,反编译,
+SkillKeyword/KeyWord_Esper_Fruit_Desc,Text,,,This .fruit skill adds an identical skill to the deck at the start of battle.,,这个.fruit技能会在战斗开始时将一个同名技能加入牌堆,
+SkillKeyword/KeyWord_Esper_Fruit_Name,Text,,,Growth,,增长,
+,,,,,,,
+

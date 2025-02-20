@@ -1,0 +1,80 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Yuzu_5_Description, Text,,,"At the start of the next turn, gain ""This turn, fixed abilities gain +&a% critical damage"". Removed after a critical hit.",,下个回合开始时，获得“回合结束前，固定能力的暴击伤害+&a%”增益。造成暴击后解除。,
+Buff/B_Yuzu_5_Name, Text,,,The Password Is...,,密码是……,
+Buff/B_Yuzu_8_Description, Text,,,"Dodge the next attack. If successful, fixed abilities gain +110% critical rate this turn.",,闪避下一次攻击,闪避成功时回合结束前固定能力暴击率+110%。
+Buff/B_Yuzu_8_Name, Text,,,“Invisibility”,,“隐身”,
+Buff/B_Yuzu_P_Description, Text,,,"Yuzu's fixed skills are enhanced this turn. 
+These enhancements carry over to the next turn.",,"柚子的固定技能直到回合结束前得到了强化。|
+这些强化会保留到下一个回合。",
+Buff/B_Yuzu_P_Name, Text,,,One-Time Reload,,一次性装填,
+Buff/B_Yuzu_Stage_Description,Text,,,,,,
+Buff/B_Yuzu_Stage_Name, Text,,,Terrain Affinity,,场地适应性,
+Character/Yuzu_PassiveDes, Text,,,"Can use fixed abilities.
+Fixed abilities are refreshed every turn and come with basic effects.
+Fixed abilities always cost 1 mana.
+
+Lv2: If a fixed skill is not used by the end of the turn, it is automatically used on the target with the most debuffs, dealing -50% damage as a follow-up attack.
+Lv3: Fixed abilities can be used even when unable to act.
+Lv4: Critical damage +22%. All terrain affinity is upgraded to SS.
+
+Terrain Affinity: A~C",,"可以使用固定能力。
+固定能力每回合都会刷新，附带基本功。
+固定能力的法力值消耗固定为1。
+
+Lv2：回合结束时若固定技能未被使用，则对减益种类最多的目标释放，造成的伤害-50%，视为追加攻击。
+Lv3：无法行动时也可以释放固定能力。
+Lv4：暴击伤害+22%，所有的场地适应性改为SS。
+
+场地适应性：A~C",
+Character/Yuzu_PassiveName, Text,,,UZqueen,,UZqueen,
+Character/Yuzu_SelectInfo, Text,,,"Yuzu Hanaoka. A member of the Game Development Club at Millennium Science School. She loves making and playing games, and her passion for gaming is no joke.",,花冈柚子。千年科学学园所属，游戏开发部的部长。喜欢制作和游玩游戏，对游戏的热情绝非随便说说。,
+Character/Yuzu_name, Text,,,Yuzu,,柚子,
+Character_Skin/YuzuSkin_SkinDesc, Text,,,"Even in a different outfit, Yuzu remains Yuzu, but it seems her range of abilities has slightly expanded. Together with the Game Development Club, she faces various challenges.",,即使是和平时不同的样子，柚子也会保持柚子的样子，但是能做的事情的范围好像稍微扩大了一点。和游戏开发部的大家一起，直面各种各样的困难。,
+Character_Skin/YuzuSkin_SkinName, Text,,,Yuzu (Maid),,柚子(女仆）,
+Skill/S_Yuzu1_P_Name, Text,,,Meow Meow Impact,,喵喵冲击,
+Skill/S_Yuzu_1_Description, Text,,,"This turn, the fixed ability's attack targets the enemies on the left and right of the original target. 
+If there is only one enemy, additionally trigger the passive effect at Lv2.",,"回合结束前，固定能力的攻击对象增加目标左右两边的敌人；
+只有一个敌人时，额外触发一次被动Lv2级的效果。",
+Skill/S_Yuzu_1_Name, Text,,,Combo Rush!,,连续Combo！,
+Skill/S_Yuzu_2_Description, Text,,,"This turn, the fixed ability deals an additional &a (90% ATK) damage. 
+Fixed ability's critical damage +26%.",,"回合结束前，固定能力的回合结束前，固定能力额外增加&a(90%攻击力)的伤害；
+固定能力暴击伤害+26%",
+Skill/S_Yuzu_2_Name, Text,,,Debugging...,,Debug中……,
+Skill/S_Yuzu_3_Description, Text,,,"This turn, actively used fixed abilities gain +42% critical damage. 
+Passively triggered fixed abilities are guaranteed to crit.",,"回合结束前，主动释放的固定能力暴击伤害+42%；
+通过被动释放的固定能力以暴击形式命中。",
+Skill/S_Yuzu_3_Name, Text,,,Courage to the Limit,,竭尽全力的勇气,
+Skill/S_Yuzu_4_Description, Text,,,"This turn, fixed abilities gain +20% critical rate. 
+Randomly adds one additional enemy as a target for fixed abilities. 
+If there is only one enemy, draw a skill.",,"回合结束前，固定能力的暴击率+20%；
+固定能力的攻击对象随机增加一个敌人。
+若场上只有一个敌人，抽取一个技能。",
+Skill/S_Yuzu_4_Name, Text,,,Score Optimization,,凹分,
+Skill/S_Yuzu_5_Description, Text,,,"This turn, fixed abilities gain +25% critical damage.",,回合结束前，固定能力的暴击伤害+25%。,
+Skill/S_Yuzu_5_Name, Text,,,Correct Password,,正确的密码,
+Skill/S_Yuzu_6_Description, Text,,,"Fixed abilities deal an additional &a (60% ATK) damage. 
+Additionally trigger the passive effect at Lv2. For each fixed skill on cooldown, repeat this effect once. 
+If the cooldown belongs to a fixed skill of a Millennium Science School student, repeat it an additional time. (Repeats &b times)",,"固定能力额外增加&a(60%攻击力)的伤害。
+额外触发一次被动Lv2级的效果。
+使用时每有一个冷却中的固定技能重复一次，若冷却的是【千年科技学院】学生的固定技能额外重复一次。(重复&b次)",
+Skill/S_Yuzu_6_Name, Text,,,Bonds of the Game Development Club,,游戏开发部的羁绊,
+Skill/S_Yuzu_7_Description, Text,,,"This turn, fixed abilities deal an additional &a (90% ATK) damage. 
+All effects applied to fixed abilities this turn, except for ""Cardboard Box"", are extended to the next turn.",,"回合结束前，固定能力额外增加&a(90%攻击力)的伤害；
+除‘纸箱’外，所有赋予固定能力回合结束前的效果将额外延长至下一回合。",
+Skill/S_Yuzu_7_Name, Text,,,Cardboard Box,,纸箱,
+Skill/S_Yuzu_8_Description, Text,,,"This turn, fixed abilities deal an additional &a (140% ATK) damage. 
+When drawn, draw an additional skill.",,"回合结束前，固定能力额外增加&a(140%攻击力)的伤害；
+抽到时额外抽取一个技能。",
+Skill/S_Yuzu_8_Name, Text,,,404 Not Found,,404 Not Found,
+Skill/S_Yuzu_9_Description, Text,,,"This turn, fixed abilities deal an additional &a (100% ATK) damage. 
+This turn, when dealing damage, prioritize drawing one of your own skills and reduce its cost by 1.",,"回合结束前，固定能力额外增加&a(100%攻击力)的伤害；
+回合结束前，固定能力造成伤害时优先抽取自己的一个技能，其费用减少1点。",
+Skill/S_Yuzu_9_Name, Text,,,403 Forbidden,,403 Forbidden,
+Skill/S_Yuzu_P_Name, Text,,,Meow Meow Impact,,喵喵冲击,
+Skill/S_Yuzu_R1_Description, Text,,,"This turn, fixed abilities deal an additional &a (50% ATK) damage and target all enemies.",,回合结束前，固定能力额外增加&a（50%攻击力）的伤害；攻击目标改为所有敌人。,
+Skill/S_Yuzu_R1_Name, Text,,,Game Start!,,游戏启动！,
+Skill/S_Yuzu_R2_Description, Text,,,"This turn, fixed abilities deal an additional &a (360% ATK) damage and deal &b (120% ATK) splash damage to enemies on either side. 
+Subsequent uses of this skill deal an additional &c (100% ATK) damage and &d (30% ATK) splash damage to enemies on either side.",,"回合结束前，固定能力额外增加&a(360%攻击力)的伤害，造成伤害时对两侧敌人造成&b(120%攻击力)的溅射伤害。
+后续释放此技能时，改为额外增加&c(100%攻击力)的伤害。造成伤害时对两侧敌人造成&d(30%攻击力)的溅射伤害。",
+Skill/S_Yuzu_R2_Name, Text,,,Infiltration Start!,,潜入Start！,
+

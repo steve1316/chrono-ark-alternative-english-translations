@@ -1,0 +1,101 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_yuuka_1_Name, Text,,로직 앤 리즌,Logic and Reason,ロジック＆リーズン,还没完呢,
+Buff/B_yuuka_2_Description, Text,,벙커 사용 시 스킬을 사용하면 최대 체력치를 20% 회복합니다.,"When using cover, restores 20% of max HP when using a skill.",マスキングを使用すると、リリーススキルは最大体力値の20%を回復します。,进入掩体时，释放技能将恢复20%最大体力值。,
+Buff/B_yuuka_2_Name, Text,,고속 암산,High-Speed Mental Calculation,高速暗算,高速心算,
+Buff/B_yuuka_3_Description, Text,,"벙커 사용 시 ""엄폐 성공률"" 버프 회피율이 12% 추가로 증가합니다.","When using cover, increases the evasion rate of the ""Cover Success Rate"" buff by an additional 12%.",マスクを使用する場合、「ブロッキングレット」buffフラッシュバック率は12%増加します。,进入掩体获得的‘掩体格挡’闪避率额外增加12%。,
+Buff/B_yuuka_3_Name, Text,,최적해 도출,Optimal Solution Derivation,最適解の導出,导出最优解,
+Buff/B_yuuka_4_Description, Text,,"벙커 사용 시 ""엄폐 성공률"" 버프 방어력이 12% 추가로 증가합니다.","When using cover, increases the defense of the ""Cover Success Rate"" buff by an additional 12%.",マスクを使用すると、「ブロックレスト」ブッフ防御力がさらに12%増加します。,进入掩体获得的‘掩体格挡’防御力额外增加12%。,
+Buff/B_yuuka_4_Name, Text,,완벽해.,Perfect Calculation,計算完了。,如我所算,
+Buff/B_yuuka_6_Description,Text,,,,,,
+Buff/B_yuuka_6_Name, Text,,인수 분해,Factorization,因数分解,因数分解,
+Buff/B_yuuka_7_Description, Text,,"적에게 피해를 입었을 때 벙커를 사용한다.
+회피로 벙커에 입장하여 획득한'엄폐 성공률'의 회피율은 8% 추가 증가합니다.
+적에게 피해를 입었을 때 1 층 감소됩니다.","When taking damage from an enemy, enters cover.
+Evasion entering cover increases the ""Cover Success Rate"" evasion by an additional 8%.
+Loses 1 stack when taking damage from an enemy.","敵からダメージを受けた場合はマスキングを使用する。
+侵入マスクを回避することによって得られる「ブロックレート」の回避率は、さらに8%増加する。
+敵のダメージを受けた時に1層減らす。","受到敌人伤害时进入掩体。
+由回避进入掩体获得的‘掩体格挡’闪避率额外增加8%。
+受到敌人伤害时减少1层。",
+Buff/B_yuuka_7_Name, Text,,회피,Evasion,回避,回避,
+Buff/B_yuuka_7_T_Description, Text,,"유우카 이외의 대상은 절대 공격할 수 없습니다.
+대상을 공격하면 해제됩니다.","Cannot attack targets other than Yuuka.
+Effect is removed when attacking a target.","ユウカ以外の対象に攻撃できない。
+対象を攻撃すると解除される。","无法攻击优香以外的敌人。
+攻击目标后解除。",
+Buff/B_yuuka_7_T_Name, Text,,이성적 판단,Rational Judgment,合理的判断,推断,
+Buff/B_yuuka_8_Description, Text,,벙커 사용 시 치료력 50%의 보호막을 2라운드 획득한다.,"While in cover, gains a shield equal to 50% healing power for 2 rounds.",マスキングを使用した場合、治療力50%のシールドを2ラウンド得た。,自身处于掩体时，获得治疗力50%的护盾2回合。,
+Buff/B_yuuka_8_Name, Text,,수분 보충,Hydration,水分補給,水分补给,
+Buff/B_yuuka_9_Name, Text,,최적 동선 산출,Optimal Path Calculation,最適動線算出,高效策略,
+Buff/B_yuuka_D_Name, Text,,보호막,Shield,シールド,护盾,
+Buff/B_yuuka_P_Name, Text,,엄폐 성공률,Cover Success Rate,ブロックレート,掩体格挡,
+Buff/B_yuuka_PlusStat_Name, Text,,Buff,Buff,Buff,增益,
+Buff/B_yuuka_R1_Description, Text,,"회피 시, 'Q.E.D.보호막'1 라운드 연장.","When evading, extends the ""Q.E.D Shield"" by 1 round.",退避時、「Q.E.D.シールド」を1ターン延長します。,闪避时，延长Q.E.D.护盾1回合。,
+Buff/B_yuuka_R1_Name, Text,,Q.E.D,Q.E.D,Q.E.D,Q.E.D,
+Buff/B_yuuka_R1d_Name, Text,,Q.E.D보호막,Q.E.D Shield,Q.E.Dシールド,Q.E.D护盾,
+Buff/B_yuuka_R2_Name, Text,,R.S.G！보호막,R.S.G! Shield,R.S.G！シールド,R.S.G！护盾,
+Buff/B_yuuka_R3_Description, Text,,"스킬 시전 시 1 층 중첩, 라운드 종료 시 1 층 감소.최소 1 층 이하는 아닙니다.","Gains 1 stack when using a skill, loses 1 stack at the end of the round. Cannot go below 1 stack.",スキルを解放する際にレイヤーを重ね、ターン終了時にレイヤーを1つ減らす。最低でも1つ下にはなりません。,释放技能时叠加一层，回合结束时减少一层。最低不会低于一层。,
+Buff/B_yuuka_R3_Name, Text,,유우카의 함수 계산기,Yuuka's Function Calculator,ユウカの関数電卓,优香的电子计算器,
+Buff/B_yuuka_Stage_Description,Text,,,,,,
+Buff/B_yuuka_Stage_Name, Text,,장소 적응성,Terrain Affinity,サイト適性,场地适应性,
+Buff/B_yuuka_Y_Name, Text,,벙커,Cover,マスキング,掩体,
+Buff/B_yuuka_Y_Pre_Name,Text,,,Cover,,掩体,
+Character/yuuka_CampSelectWord,Text,,,,,,
+Character/yuuka_PassiveDes, Text,,"라운드 시작 시 35% 확률로'벙커'에 입장하여 회피율 +24%의'엄폐 성공률'버프를 획득.
+만약 파티 중의 다른 아군이 벙커에 입장하면, 마찬가지로 【엄폐 성공률】 이득 효과를 획득합니다.
+
+장소 적응성:A~B","At the start of the round, has a 35% chance to enter cover, gaining the ""Cover Success Rate"" buff with +24% evasion. 
+If another ally in the party enters cover, they also gain the ""Cover Success Rate"" effect. 
+
+Terrain Affinity: A~B","ラウンド開始時に35%の確率で「マスキング」に入り、フラッシュバック率+24%の「ブロックレート」buffを得る。
+チームの中に他の友軍がマスクに入っていれば、同様に【ブロックレート】の利得効果を得ることができる。
+
+サイト適性:A~B","优香在回合开始时有35%的概率进入掩体，获得闪避率+24%的‘掩体格挡’增益。
+若队伍中的有其他友军进入掩体，同样享有‘掩体格挡’增益效果。
+
+场地适应性：A~B",
+Character/yuuka_PassiveName, Text,,냉혹한 계산사,Ruthless Calculator,ヒューマンコンピュータ,冷酷计算使,
+Character/yuuka_SelectInfo, Text,,"밀레니엄 사이언스 스쿨 소속 학생으로, 학생회인 세미나의 회계이자 집행위원이다.
+'수학의 귀재'라는 설정답게 모든 일을 논리나 수치로 표현하려는 입버릇이 있다. 수많은 동아리들의 부비로 지급되는 예산을 관리하는 역할을 한다.","A student of Millennium Science School, Yuuka is the accountant and executive committee member of the student council, Seminar.
+True to her setting as a ""mathematical genius"", she has a habit of expressing everything in terms of logic or numbers.
+She is responsible for managing the budget allocated to numerous clubs.","ミレニアムサイエンススクール所属、生徒会「セミナー」の会計。
+理系生徒の比率が高いミレニアムでも指折りの数学の鬼才で、ミレニアムの予算周りの管理を統括している。
+特技は算盤で、複雑なことに悩まされていたり、葛藤している時などに算盤を弾いて落ち着かせる癖がある。","早濑优香。千年科学学园所属，学生会【研讨会】的会计。
+在充斥着理系学生的千年科学学园里也是首屈一指的数学鬼才，负责管理千年科学学园的预算部分。
+特长是弹算盘，在被繁杂的事务缠身的时，有弹算盘冷静下来的习惯。",
+Character/yuuka_SkinDesc,Text,,,The everyday uniform of the Millennium Seminar.,,日常的千年研讨会制服。,
+Character/yuuka_name, Text,,유우카,Yuuka,ユウカ,优香,
+Character_Skin/yuukaskin02_SkinDesc,Text,,,"As the treasurer of the Millennium Seminar, Yuuka changes into her pajamas to relax. Despite maintaining a perfect work demeanor daily, the constant stress and insomnia caused by endless troubles make it hard for her to rest well. Though she has prepared soft pillows and comfortable pajamas... the antics of someone causing chaos day and night at Millennium make it seem like peaceful sleep is still far away.",,千年科学学园所属，为了悠闲地休息而换上睡衣的研讨会的会计。虽然她每天都要表现出完美的工作状态，但是由于不断的麻烦事带来的压力和失眠，很难说她能保证好休息。虽然准备了柔软的枕头和触感很好的睡衣……但是因为有个不分昼夜都在千年内搞事的某人，想让她能够安心熟睡的日子似乎还要等很久。,
+Character_Skin/yuukaskin02_SkinName,Text,,,Yuuka (Pajamas),,优香（睡衣）,
+Character_Skin/yuukaskin_SkinDesc,Text,,,"As the treasurer of the Millennium Seminar, Yuuka changes into a gym uniform to participate in the Halo Festival.
+<color=#919191>So stylish.</color>",,"千年科学学园所属，为了参加晄轮大祭参加而换上体操服的研讨会的会计。
+<color=#919191>好有感觉。</color>",
+Character_Skin/yuukaskin_SkinName,Text,,,Yuuka (Gym Uniform),,优香(体操服）,
+Skill/S_yuuka_1_Description, Text,,적을 명중시킬 때 엄호에 들어간다.,Enters cover when hitting an enemy.,敵に当たったら援護に入る。,命中敌人时进入掩体。,
+Skill/S_yuuka_1_Name, Text,,로직 앤 리즌,Logic and Reason,ロジック＆リーズン,逻辑与理性,
+Skill/S_yuuka_2_Description, Text,,마스크 사용.,Uses cover.,カバーを使用します。,进入掩体。,
+Skill/S_yuuka_2_Name, Text,,고속 암산,High-Speed Mental Calculation,高速暗算,高速心算,
+Skill/S_yuuka_3_Description, Text,,마스크 사용.,Uses cover.,カバーを使用します。,进入掩体。,
+Skill/S_yuuka_3_Name, Text,,최적해 도출,Optimal Solution Derivation,最適解の導出,导出最优解,
+Skill/S_yuuka_4_Description, Text,,모든 우군이 벙커로 들어갔다.자신이 벙커에 있을 때 비용은 0이 됩니다.,"All allies enter cover. While in cover, the cost becomes 0.",すべての友軍がマスクに入った。マスキング時の費用は0になります.,所有友军进入掩体。自身处于掩体时费用变为0。,
+Skill/S_yuuka_4_Name, Text,,완벽해.,Perfect Calculation,計算完了。,如我所算,
+Skill/S_yuuka_5_Description, Text,,"방어를 무시하다.
+공격력 60%에 추가 피해 2회를 준다.",Ignores defense. Deals 60% of attack power as additional damage twice.,"防御を無視する。
+攻撃力60%のダメージを2回追加する。","无视防御。
+追加造成60%攻击力的伤害2次。",
+Skill/S_yuuka_5_Name, Text,,I.F.F,I.F.F,I.F.F,I.F.F,
+Skill/S_yuuka_5_Plus_Name, Text,,I.F.F,I.F.F,I.F.F,I.F.F,
+Skill/S_yuuka_6_Description, Text,,이 스킬을 놓으면 손카드에 적어도 하나의 스킬을 보유한 아군이 벙커에 입장합니다.,"When this skill is used, allies with at least one skill in hand enter cover.",このスキルをリリースすると、手札にスキルを持つ味方がマスキングに入る。,释放此技能后，手牌中持有技能的友军将进入掩体。,
+Skill/S_yuuka_6_Name, Text,,인수 분해,Factorization,因数分解,因数分解,
+Skill/S_yuuka_7_Description,Text,,,,,,
+Skill/S_yuuka_7_Name, Text,,완벽한 컴퓨팅,Perfect Computation,完璧な計算,完美的计算,
+Skill/S_yuuka_8_Description, Text,,&a (80% 치료력) 보호막을 획득합니다.,Gains a shield equal to &a (80% healing power).,&a（治療力80%）シールドを獲得した。,获得&a(80%治疗力)护盾。,
+Skill/S_yuuka_8_Name, Text,,수분 보충,Hydration,水分補給,水分补给,
+Skill/S_yuuka_9_Description, Text,,마스크 사용.,Uses cover.,カバーを使用します。,自身进入掩体。,
+Skill/S_yuuka_9_Name, Text,,최적 동선 산출,Optimal Path Calculation,最適動線算出,最佳移动路线算出,
+Skill/S_yuuka_R1_Description, Text,,&a (314% 치료력) 의 보호막을 획득합니다.,Gains a shield equal to &a (314% healing power).,&a（314%治療力）シールドを獲得した。,获得等同于314%治疗力的护盾。,
+Skill/S_yuuka_R1_Name, Text,,Q.E.D,Q.E.D,Q.E.D,Q.E.D,
+Skill/S_yuuka_R2_Description, Text,,&a (168% 치료력) 의 보호막을 획득합니다.,Gains a shield equal to &a (168% healing power).,&a（168%治療力）シールドを獲得した。,获得等同于168%治疗力的护盾。,
+Skill/S_yuuka_R2_Name, Text,,R.S.G！,R.S.G!,R.S.G！,R.S.G！,
+Skill/S_yuuka_R3_Description, Text,,자신과 체력이 가장 낮은 아군이 벙커에 들어간다.,Yuuka and the ally with the lowest HP enter cover.,自身と体力値が最も低い味方がマスクに入る。,自身和体力值最低的友军进入掩体。,
+Skill/S_yuuka_R3_Name, Text,,유우카의 함수 계산기,Yuuka's Function Calculator,ユウカの関数電卓,优香的电子计算器,

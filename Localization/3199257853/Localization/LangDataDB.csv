@@ -1,0 +1,136 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Aris_0_Description,Text,,,,,,
+Buff/B_Aris_0_Name,Text,,,Critical Rate Increase,,暴击率增加,
+Buff/B_Aris_1_Description,Text,,,,,,
+Buff/B_Aris_1_Name,Text,,,This is Enhancement Magic!,,这是强化魔法！,
+Buff/B_Aris_Ex_2_0_Name,Text,,,ATK Reduction,,攻击力减少,
+Buff/B_Aris_Ex_2_1_Description,Text,,,,,,
+Buff/B_Aris_Ex_2_1_Name,Text,,,DEF Reduction,,防御力减少,
+Buff/B_Aris_Ex_2_Description,Text,,,"When landing a Critical hit, additionally heals a random ally for 50% of the damage dealt. 
+Removed upon using a fixed skill.",,"暴击时额外给予随机友方角色伤害量50%的治疗。
+使用固定能力后解除。",
+Buff/B_Aris_Ex_2_Name,Text,,,Emotional High,,情绪高涨,
+Buff/B_Aris_Hikari_Description,Text,,,Current Sword of Light charges: &a.,,当前光之剑充能：&a。,
+Buff/B_Aris_Hikari_Name,Text,,,"Light, heed my call!",,光啊！,
+Buff/B_Aris_Job_0_Description,Text,,,"Once per turn, when killing an enemy on the far left/right with a single-target attack skill, cast it again on adjacent enemies. Attacks triggered this way have a Critical rate capped at 54%. 
+Removed upon using a fixed skill.",,"每回合一次，使用单体攻击技能击杀最左或最右侧敌人时，对相邻敌人再次释放，以此方法释放的攻击暴击率最高为54%。
+使用固定技能后解除。",
+Buff/B_Aris_Job_0_Name,Text,,,Class Trait: Brave Alice!,,职业特性：勇者爱丽丝！,
+Buff/B_Aris_Job_1_Description,Text,,,"When dealing damage with a single-target attack skill, deal an additional 30% of ATK as damage. 
+Critical rate is capped at 70%, excess rate is converted into double Critical damage. Current Critical damage: 150+&a%. 
+Removed upon using a fixed skill.",,"使用单体攻击技能造成伤害时，额外追加攻击力30%的伤害。
+暴击率上限锁定为70%，超出部分会转化为2倍的暴击伤害。当前暴击伤害：150+&a%
+使用固定技能后解除。",
+Buff/B_Aris_Job_1_Name,Text,,,Class Trait: Maid Knight!,,职业特性：女仆勇者！,
+Buff/B_Aris_Job_2_Description,Text,,,"All allies gain ATK+1/Healing+1/DEF+10% based on their class. 
+Removed upon using a fixed skill.",,"所有友军根据其职业，获得攻击力+1/治疗力+1/防御力+10%的增益。
+使用固定技能后解除。",
+Buff/B_Aris_Job_2_Hide_Description,Text,,,,,,
+Buff/B_Aris_Job_2_Name,Text,,,Class Trait: Idol Alice!,,职业特性：偶像爱丽丝！,
+Buff/B_Aris_P_Name,Text,,,"Awaken, Supernova!",,觉醒吧，超新星！,
+Buff/B_Aris_Rare_0_Description,Text,,,"Up to 3 times per turn: When landing a Critical hit, add a ""Basic Attack Magic"" card with Swiftness, Exclude, and ""Discard after 1 turn"" to your hand, reducing its cost to 0. 
+Removed upon using a fixed skill.",,"每回合限3次，每当自身暴击时，将一张附带迅速，放逐，一回合后弃牌的“一般攻击魔法”置入手牌，使其费用变为0。
+使用固定技能后解除。",
+Buff/B_Aris_Rare_0_Name,Text,,,Class Trait: Cosmic Knight!,,职业特性：宇宙勇者！,
+Buff/B_Aris_Rare_1_Description,Text,,,"Recast the first skill of each turn once. 
+Removed and fully heals HP upon entering Death's Door.",,"每回合自身使用的第一个技能将重复释放一次。
+进入濒死状态时解除并恢复所有生命值。",
+Buff/B_Aris_Rare_1_Name,Text,,,Parallel Processing,,并行计算,
+Character/ArisTendou_PassiveDes,Text,,,"While active, grants the weapon: ""Sword of Light: Supernova"". 
+When equipped, adds ""Beginning of All Miracles"" to the deck at battle start. Transforms into other skills based on class buffs. 
+Using this skill or its copies increases Critical rate by 10% and Critical damage by 10% for 3 turns, scaling up to 1.5x or 2x based on Sword of Light charge stacks.",,"激活此被动时获得武器：“光之剑：超新星”。
+装备“光之剑：超新星”时，战斗开始时将一张“所有奇迹的开始”置入牌库。根据自身职业增益不同，此技能会转化为其他技能。
+使用此技能或其衍生技能时，3回合内自身暴击率增加10%，暴击伤害增加10%，根据光之剑能量填充的层数效果增加至1.5或2倍。",
+Character/ArisTendou_PassiveName,Text,,,"Awaken, Supernova!",,觉醒吧，超新星！,
+Character/ArisTendou_SelectInfo,Text,,,"Tendou Alice, member of Millennium Science School's Game Development Club. 
+A mysterious girl found in ruins, with all details including age unknown. Now a passionate gaming enthusiast alongside Momoi, Midori, and Yuzu. 
+
+<color=#919191>""...I have been waiting for the moment that voice would call to me.""</color>",,"天童爱丽丝，千年科学学园所属，游戏开发部的部员。
+在废墟中被发现的谜之少女，包括年龄在内的情报完全未知。现今，成为了与桃井、绿以及柚子三人共同享受游戏的重度发烧友。
+
+<color=#919191>""……我一直在等待，被那道声音呼唤的时刻""</color>",
+Character/ArisTendou_Text_Battle_AllyND_0,Text,,,Alice will not give up...,,爱丽丝不会放弃……,
+Character/ArisTendou_Text_Battle_Cri_0,Text,,,Opportunity to strike!,,攻击的机会！,
+Character/ArisTendou_Text_Battle_Cri_1,Text,,,A righteous strike to vanquish evil...,,击碎邪恶的正义一击...,
+Character/ArisTendou_Text_Battle_Cri_2,Text,,,Pan-Paka-Pan~!,,邦邦咔邦！,
+Character/ArisTendou_Text_Battle_Healed_0,Text,,,HP potion acquired.,,是HP药水。,
+Character/ArisTendou_Text_Battle_Healed_1,Text,,,HP restored!,,HP回复了！,
+Character/ArisTendou_Text_Battle_Idle_0,Text,,,Alice is here. Alice will assist.,,爱丽丝在这里。爱丽丝会帮忙。,
+Character/ArisTendou_Text_Battle_Idle_1,Text,,,The light shall guide our path.,,光会指引前路的对吧。,
+Character/ArisTendou_Text_Battle_Idle_2,Text,,,Courage is the strongest magic.,,勇气，是最强的魔法。,
+Character/ArisTendou_Text_Battle_Idle_3,Text,,,O brave one. May light be with you.,,勇者啊。愿光明与你同在。,
+Character/ArisTendou_Text_Battle_Kill_0,Text,,,Enemy confirmed eliminated. Mission accomplished.,,敌人确定歼灭。任务完成。,
+Character/ArisTendou_Text_Battle_Kill_1,Text,,,Alice will continue cleaning!,,爱丽丝，继续打扫！,
+Character/ArisTendou_Text_Battle_ND_0,Text,,,HP bar is turning red!,,血量条已经开始变红了！,
+Character/ArisTendou_Text_Battle_ND_1,Text,,,Maid rank insufficient...,,女仆等级不够……,
+Character/ArisTendou_Text_Battle_Start_0,Text,,,"Today, Alice's role is single-target Light DPS!",,今天爱丽丝的职责是，光属性单体输出！,
+Character/ArisTendou_Text_Battle_Start_1,Text,,,My class is Attacker.,,我的职业是进攻者呢。,
+Character/ArisTendou_Text_Battle_Start_2,Text,,,Monsters aren't frightening. Dark attributes are always weak to Light.,,怪物的存在一点也不可怕。因为暗属性一定被光属性克制。,
+Character/ArisTendou_Text_Field_Idle_0,Text,,,What adventure awaits today? Alice is ready to journey.,,今天要去什么样的冒险呢？爱丽丝准备好一起踏上旅程了。,
+Character/ArisTendou_Text_Field_Idle_1,Text,,,Hmm. Energy low. Eh...? Alice doesn't consume batteries!,,嗯。肚子饿了。诶…？爱丽丝，不吃电池的！,
+Character/ArisTendou_Text_Field_Idle_2,Text,,,No humans have come here for millennia... Always wanted to say that line.,,已经数千年没有人类来到这里了…。总想说这样的台词。,
+Character/ArisTendou_Text_PharosLeader_0,Text,,,System anomaly detected.,,机体发生异常。,
+Character/ArisTendou_Text_PharosLeader_1,Text,,,Initiating reboot.,,系统重置。,
+Character/ArisTendou_Text_PharosLeader_2,Text,,,Cleaning duty complete!,,打扫任务，完成！ ,
+Character/ArisTendou_name,Text,,,Alice,,爱丽丝,
+Item_Equip/Equip_Aris_Description,Text,,,"Gains 1 charge stack (Critical Rate +10%) at turn end if not fully charged. 
+Critical damage scales with Alice's level.",,"每回合结束时，若自身充能未满，则获得一层充能（暴击率+10%）。
+暴击伤害随爱丽丝等级提高。",
+Item_Equip/Equip_Aris_name,Text,,,Sword of Light: Supernova,,光之剑：超新星,
+Skill/S_Aris_0_Description,Text,,,"Generates random exclusive Alice skills (excluding class cards) with Exclude and ""Discard after 2 turns"".",,随机生成爱丽丝的专属技能（不包括职业卡），并使其附带放逐，2回合后弃牌。,
+Skill/S_Aris_0_Name,Text,,,Falling Down the Rabbit Hole,,掉进兔子洞,
+Skill/S_Aris_1_Description,Text,,,"Cannot be used. 
+While in hand, grants 20% Critical Rate and 25% Critical Damage.",,"无法使用。
+位于手中时，获得20%暴击率以及25%暴击伤害加成。",
+Skill/S_Aris_1_Name,Text,,,This is Enhancement Magic!,,这是强化魔法！,
+Skill/S_Aris_2_Description,Text,,,"When class buff changes, draw this skill from deck or discard pile.",,每当自身职业增益发生变化时，从牌库或弃牌堆抽取此技能。,
+Skill/S_Aris_2_Name,Text,,,Basic Attack Magic,,一般攻击魔法,
+Skill/S_Aris_3_Description,Text,,,Only usable with active class buff. Removes class buff and returns class card to hand after use.,,自身有职业增益时才能使用。释放后，解除职业增益并将职业卡拿回手中。,
+Skill/S_Aris_3_Name,Text,,,All-In,,孤注一掷,
+Skill/S_Aris_4_Description,Text,,,"While in hand, reduces this skill's countdown by 1 and increases Critical Rate by 20%/Accuracy by 10% whenever allies use skills.    ",,位于手中时，每当其他友军使用技能，减少本技能1倒计时，并提升20%暴击率和10%命中率。,
+Skill/S_Aris_4_Name,Text,,,Charged Shot,,充能射击,
+Skill/S_Aris_5_Description,Text,,,"Recast three times, each hit's damage increases equal to the previous hit's damage.",,重复释放共三次，每次的伤害都会根据前一次的伤害等量增加。,
+Skill/S_Aris_5_Name,Text,,,Sword of Light: Burst Mode,,光之剑：连射模式,
+Skill/S_Aris_Ex_0_Description,Text,,,"Ignores DEF. 
+Cost and multiplier scale with Alice's level. 
+If killing target, recasts at half power on all enemies. Damage increases by 1.5x or 2x based on charge stacks. Consumes all charges.",,"无视防御。
+费用和倍率随爱丽丝等级提升。
+若击杀目标则以一半倍率对所有敌人再次释放，根据能量填充的层数，使其伤害量增加至1.5或2倍。发射后，消耗所有充能层数。",
+Skill/S_Aris_Ex_0_Name,Text,,,The World's Laws Shall Crumble!,,世界的 法则 即将崩坏！,
+Skill/S_Aris_Ex_1_Description,Text,,,"(Critical Rate increases with Alice's level) 
+Critical hits deal 2x or 3x final damage based on charge stacks. Consumes all charges.  ",,"（暴击率根据爱丽丝的等级提升）
+暴击时，根据能量填充的层数，使最终伤害变为2或3倍。发射后，消耗所有充能层数。",
+Skill/S_Aris_Ex_1_Name,Text,,,Alice's Cleaning Time!,,爱丽丝，来扫除啦！,
+Skill/S_Aris_Ex_2_Description,Text,,,,,,
+Skill/S_Aris_Ex_2_Name,Text,,,Concert Time!,,演唱会！,
+Skill/S_Aris_Ex_Origin_Description,Text,,,"Prioritizes drawing class skills. 
+Transforms into corresponding skill when class buff is active.",,"优先抽取自身的职业技能。
+持有职业增益时，变为对应技能。",
+Skill/S_Aris_Ex_Origin_Name,Text,,,Beginning of All Miracles,,所有奇迹的开始,
+Skill/S_Aris_Ex_Rare_Description,Text,,,"While in hand, reduces this skill's cost and countdown by 1 per Critical hit. 
+After casting, deals damage equal to skill's value (boss HP cannot drop below 1).",,"位于手中时，每当自身暴击时减少此技能1点费用和倒计时。
+释放后，根据此技能面板伤害，等量削减敌人生命值。（对boss敌人不会使其小于1）",
+Skill/S_Aris_Ex_Rare_Name,Text,,,Sword of Light: Atrahasis Supernova,,光之剑：阿特拉哈西斯的超新星,
+Skill/S_Aris_Job_0_Description,Text,,,,,,
+Skill/S_Aris_Job_0_Name,Text,,,Sword of Light: Sweep!,,光之剑横扫！,
+Skill/S_Aris_Job_1_Name,Text,,,Maid Commission?,,女仆委托？,
+Skill/S_Aris_Job_2_Description,Text,,,Heals all other allies for &a HP (60% of Alice's ATK).,,治疗所有其他友军&a点体力值，基于爱丽丝攻击力（60%）,
+Skill/S_Aris_Job_2_Name,Text,,,Idol Project,,偶像企划,
+Skill/S_Aris_LucyD_Description,Text,,,"Draw 2 skills. If boss or cursed enemies are present, draw 3 instead.",,抽取2个技能。如果场上存在boss或诅咒敌人，改为抽取3个技能。,
+Skill/S_Aris_LucyD_Name,Text,,,Raid Addiction,,总力战成瘾,
+Skill/S_Aris_Rare_0_Description,Text,,,"Draw ""Beginning of All Miracles"" from deck or discard pile.",,从牌库或弃牌堆抽取“所有奇迹的开始”。,
+Skill/S_Aris_Rare_0_Name,Text,,,Board the Spaceship!,,登上宇宙战舰！,
+Skill/S_Aris_Rare_1_Name,Text,,,Nameless Princess,,无名王女,
+Skill/S_Aris_null_Description,Text,,,Cannot be used,,无法使用,
+Skill/S_Aris_null_Name,Text,,,Daydreaming,,发呆,
+SkillExtended/Extended_Aris_Rare_1_Des,Text,,,Repeats once after casting.,,使用后，重复释放一次。,
+SkillExtended/Extended_Aris_Rare_1_EnforceString,Text,,,,,,
+SkillExtended/Extended_Aris_Rare_1_Name,Text,,,Parallel Processing,,并行计算,
+SkillKeyword/KeyWord_Job_Desc,Text,,,"When in fixed skill slot, gains corresponding class trait buffs. 
+If this skill lacks Exclude: Casting from hand replaces current fixed skill instead of going to discard. 
+Casting as fixed skill shuffles into discard pile.",,"此技能在固定技能位时会获得相应的职业特性增益。
+如果此技能不带有放逐，则：
+从手中释放时，不会进入弃牌堆而是替换当前固定技能。
+作为固定技能释放后，洗入弃牌堆。",
+SkillKeyword/KeyWord_Job_Name,Text,,,Class Skill,,职业技能,
+

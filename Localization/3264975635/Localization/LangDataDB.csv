@@ -1,0 +1,143 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Satsuki_0_Description,Text,,다음 번 주거나 받는 치유 효과 +50%.,Next healing effect dealt or received +50%. Removed after triggering.,次に与えるか受ける治癒効果+50%。,下1次造成或受到的治疗效果+50%。触发后移除该增益。,
+Buff/B_Satsuki_0_Name,Text,,훈풍,Vernal Breeze,薫風,薰风,
+Buff/B_Satsuki_11Rare_Description,Text,,,,,,
+Buff/B_Satsuki_11Rare_Name,Text,,환상천생,Fantasy Nature,幻想天生,幻想天生,
+Buff/B_Satsuki_12Rare_Description,Text,,"효과 지속 중 받은 피해와 회복을 모두 기록하고 무효로 한다. 효과 종료 시 기록된 피해량 만큼 고통 피해를 받는다. 회복량은 2배로 적용된다.
+현재 피해량: %a
+현재 회복량: %b","Negates all damage and healing received during effect. At end, takes total as Pain damage (healing is doubled).
+Current damage: %a
+Current healing: %b","効果中に受けたダメージと回復をすべて記録し無効にする。効果終了時に計算し苦痛ダメージとして受ける。回復量はその2倍で計算される。
+現在のダメージ: %a
+現在の回復量: %b","持续时间内受到的所有伤害和治疗效果将在效果结束后结算，其中治疗效果加倍结算。
+当前伤害值：%a
+当前治疗量：%b",
+Buff/B_Satsuki_12Rare_Name,Text,,풍화선월,Blossoming Moonlit Wind,風花鮮月,风花艳月,
+Buff/B_Satsuki_1_Description,Text,,다음 스킬의 피해량 +50%.,Next damage dealt +50%. Removed after triggering.,次に与えるダメージ+50%。,下1次造成的伤害效果+50%。触发后移除该增益。,
+Buff/B_Satsuki_1_Name,Text,,풍염,Scorching Wind,風炎,焚风,
+Buff/B_Satsuki_2_Description,Text,,"다음 턴 시작 시, 자신의 공격 스킬을 우선적으로 1장 드로우한다.","At start of next turn, prioritize drawing 1 Attack skill. Removed after triggering.",次のターンの開始時に、自分の攻撃スキルを優先的に1枚引く。,下个回合开始时，优先抽取1个自己的攻击技能。触发后移除该增益。,
+Buff/B_Satsuki_2_Name,Text,,계절풍,Monsoon,季節風,季风,
+Buff/B_Satsuki_3_Description,Text,,"다음 턴 시작 시, 자신의 회복 스킬을 우선적으로 1장 드로우한다.","At start of next turn, prioritize drawing 1 Healing skill. Removed after triggering.",次のターンの開始時に、自分の回復スキルを優先的に1枚引く。,下个回合开始时，优先抽取1个自己的治疗技能。触发后移除该增益。,
+Buff/B_Satsuki_3_Name,Text,,삭풍,Boreal Wind,朔風,朔风,
+Buff/B_Satsuki_5_0_Description,Text,,다음 자신이 가하는 피해량은 0이 된다.,Dealt damage becomes 0. Removed after 1 activation.,与えるダメージは0になる。,造成的伤害变为0。生效1次后移除。,
+Buff/B_Satsuki_5_0_Name,Text,,월말의 여름날,Summer Gale,盛夏流颪,盛夏流颪,
+Buff/B_Satsuki_5_Description,Text,,자신이 받는 고통 피해가 0이 된다.,Pain damage received becomes 0.,受ける苦痛ダメージは0になる。,受到的痛苦伤害变为0。,
+Buff/B_Satsuki_5_Name,Text,,백화요란,Blossoming Splendor,百花繚乱,似锦繁花,
+Buff/B_Satsuki_6_Description,Text,,,,,,
+Buff/B_Satsuki_6_Name,Text,,흐르는 금빛과 녹지,Gilded Verdure,流金積翠,流金叠翠,
+Buff/B_Satsuki_7_0_Description,Text,,,,,,
+Buff/B_Satsuki_7_0_Name,Text,,흉년잔설,Ominous Snow,凶年残雪,凶年残雪,
+Buff/B_Satsuki_7_Description,Text,,,,,,
+Buff/B_Satsuki_7_Name,Text,,풍년서설,Auspicious Snow,豊年瑞雪,丰年瑞雪,
+Buff/B_Satsuki_P_Description,Text,,,,,,
+Buff/B_Satsuki_P_Name,Text,,환광,Phantasmal Light,幻光,幻光,
+Character/SatsukiRin_CampSelectWord,Text,,여기서 만나게 되다니 정말 놀랍네요. 제가 도와드릴게요.,What a serendipitous meeting here. Allow me to lend you my aid.,ここで会うとは本当に驚きですね。お手伝いさせてください。,在这里相遇真是奇遇呢。就让我来帮你一臂之力吧。,
+Character/SatsukiRin_PassiveDes,Text,,"전투 시작 시, 사츠키 린은 20/23/26/26/29/32/35 중첩의 [환광]을 얻는다. [환광]이 1중첩 쌓일 때마다 최대 체력이 1 증가한다.
+체력이 0 이하로 떨어질 때마다 [몽환] 10이 발생하여 체력을 최대치까지 회복한다.
+몽환 X : 사츠키 린의 [환광] 중첩이 X개 이상일 때, 스킬 사용 시 [환광] 중첩을 X개 만큼 소모하고 추가 효과를 발동시킨다.","At battle start, Satsuki Rin gains 20/23/26/29/32/35 stacks of [Phantasmal Light]. Each stack increases Max HP by 1.
+
+When HP drops to 0 or below, triggers [Disillusion] 10 - fully restores HP.
+
+Disillusion X: When [Phantasmal Light] stacks ≥X, consume X stacks on skill use to trigger additional effects.","戦闘開始時に、冴月麟は20/23/26/29/32/35スタックの[幻光]を得る。 [幻光]のスタック数1ごとに最大体力が1増加する。
+体力が0以下になるたびに[夢幻]10が発生し、体力を最大まで回復する。
+夢幻X： 冴月麟の[幻光]のスタック数がX以上の時、スキルを使用すると[幻光]のスタック数をX消費し、追加効果が発動する。","战斗开始时，冴月麟获得20/23/26/29/32/35层[幻光]。每层[幻光]会增加1点最大体力值。
+
+每当体力低于0时，触发幻灭10 - 将体力恢复至体力上限。
+
+幻灭X：当冴月麟身上的[幻光]层数不小于X层时，使用技能时会消耗对应层数的[幻光]，触发额外效果。",
+Character/SatsukiRin_PassiveName,Text,,환상,Unrealized Fantasy,存在しない幻想,未存于世的幻想,
+Character/SatsukiRin_SelectInfo,Text,,"사츠키 린은 풍부한 회복 수단과 방해 수단을 가진 서포터 캐릭터이다. 스킬 사용 시 아군에게 버프를 줄지, 적을 방해할지를 유연하게 선택할 수 있다. 또한, 사츠키 린은 최대 체력을 희생해 쓰러진 아군을 부활시킬 수 있다.","Satsuki Rin is a support-type character with versatile healing and disruption. 
+She can flexibly choose to buff allies or debuff enemies when using skills. 
+Additionally, she can revive fallen allies by sacrificing her Max HP.",冴月麟は豊富な回復手段と妨害手段を持つサポートキャラクター。スキル使用時に味方にバフをかけるか、敵に妨害するかを柔軟に選択できる。さらに、冴月麟は最大体力を犠牲にして倒れた味方を復活させることができる。,冴月麟是拥有丰富治疗和干扰手段的辅助型角色。在技能出手时，能够自由灵活地选择是对友方施加增益、亦或是对敌方施加干扰。除此之外，冴月麟能够以自己的最大体力值为代价，复活阵亡的友军。,
+Character/SatsukiRin_Text_Battle_AllyND_0,Text,,지금 당장 구해드릴게요! 지금……!,I'll save you right away! Just hold on...!,马上就会救你的！马上……！,马上就会救你的！马上……！,
+Character/SatsukiRin_Text_Battle_Cri_0,Text,,그래서 어쩌죠?,How about... this?!,这样！如何呢？,这样！如何呢？,
+Character/SatsukiRin_Text_Battle_Cri_1,Text,,"꽃, 새, 바람, 달 ...... 흩어져라!","Flowers, birds, wind, moon... scatter!",花鸟风月……散！,花鸟风月……散！,
+Character/SatsukiRin_Text_Battle_Healed_0,Text,,걱정시켜서 죄송해요.,Apologies for worrying you.,抱歉，让你担心了。,抱歉，让你担心了。,
+Character/SatsukiRin_Text_Battle_Idle_0,Text,,괜찮아요. 저는 기다리는 데 익숙하니까요.,"I’ve grown accustomed to waiting, you know.",我已经习惯了等待哦。,我已经习惯了等待哦。,
+Character/SatsukiRin_Text_Battle_Kill_0,Text,,죄송합니다. .......를 위한 불가피한 희생이에요.,Forgive me... this is a necessary sacrifice.,抱歉呢，这是为了……必要的牺牲。,抱歉呢，这是为了……必要的牺牲。,
+Character/SatsukiRin_Text_Battle_Start_0,Text,,"돌연변이 정화 작업이 시작됩니다! ...... 아, 예전부터 이렇게 크게 외쳐보고 싶었어요.","Incident purge commencing! ...Hehe, I’ve always wanted to shout that.",异变肃清开始！……呵呵，很早就想这么喊着试试看了呢。,异变肃清开始！……呵呵，很早就想这么喊着试试看了呢。,
+Character/SatsukiRin_Text_Field_GetItem_0,Text,,어? 보물인가요?,Huh? A treasure?,咦？宝物吗？,咦？宝物吗？,
+Character/SatsukiRin_Text_Field_Idle_0,Text,,돌아다니고... 돌아다니고... 돌아다니고...,Wandering... drifting... strolling...,四处……兜兜……转转……逛逛……,四处……兜兜……转转……逛逛……,
+Character/SatsukiRin_Text_Field_Idle_1,Text,,여기가 「외부」인가요? 신선한 경험이네요.,"So this is the ""outside""? Quite a novel experience.",这就是「外面」吗？很新鲜的体验呢。,这就是「外面」吗？很新鲜的体验呢。,
+Character/SatsukiRin_Text_Field_Potion_P_0,Text,,감사합니다.,Thank you.,谢谢你。,谢谢你。,
+Character/SatsukiRin_Text_MasterTarget,Text,,죄송합니다. 앞으로의 여정에는 동행하지 못할 것 같아요. 행운을 빌어요...,Forgive me. I cannot accompany you further. Stay strong.,抱歉。前面的路，就没法陪你再走下去了。要加油哦。,抱歉。前面的路，就没法陪你再走下去了。要加油哦。,
+Character/SatsukiRin_Text_PharosLeader_0,Text,,충성의 서약......충성.....,Swear... allegiance...,宣誓……效忠……,宣誓……效忠……,
+Character/SatsukiRin_Text_PharosLeader_1,Text,,윽......뭔가요....?,Hmm... What exactly...?,呜……到底是……？,呜……到底是……？,
+Character/SatsukiRin_Text_PharosLeader_2,Text,,...... 의 모든 것 ......,...All for the sake of...,……一切都是为了……,……一切都是为了……,
+Character/SatsukiRin_Text_Witch_0,Text,,저주? 아주 새롭지만 ...... 여전히 조금 무서워요 ...... 조금은요.,A curse? How intriguing... though still a tad frightening. Just a tad.,诅咒吗？非常新奇……但是还是稍微有点害怕呢……稍微。,诅咒吗？非常新奇……但是还是稍微有点害怕呢……稍微。,
+Character/SatsukiRin_name,Text,,사츠키 린,Satsuki Rin,冴月麟,冴月麟,
+Skill/S_Satsuki_0_Description,Text,,,,,,
+Skill/S_Satsuki_0_Name,Text,,풍부 「환생의 바람」,Wind Spell「The Newborn Breeze」,風符「生まれたての風」,风符「新生之风」,
+Skill/S_Satsuki_10Rare_Description,Text,,몽환 X - 체력을 X만큼 회복시켜 모든 아군을 전투불능 상태에서 회복시킨다. X는 [환광]의 중첩 수와 같다 (현재 %a).,Disillusion X - Overheal for X and revive all allies. X equals [Phantasmal Light] stacks (Current: %a).,夢幻X - 体力をXオーバーヒールし、すべての味方を戦闘不能状態から復帰させる。 Xは、[幻光] のスタック数と等しい (現在 %a)。,幻灭X - 超额恢复X点体力值；解除所有友军的不可战斗状态。X等于自身所有的[幻光]层数（当前为%a）。,
+Skill/S_Satsuki_10Rare_Name,Text,,종언 「빛나는 요람 속에서」,Final Spell「In the cradle overflowing with light」,終焉「光りあふれる揺りかごの中で」,终焉「满溢着光的摇篮中」,
+Skill/S_Satsuki_11Rare_Description,Text,,몽환 X - 보호막을 X만큼 얻는다. X는 [환광]의 중첩 수의 절반(내림)이다 (현재 %a).,Disillusion X - Gain party barrier equal to half [Phantasmal Light] stacks (rounded down) (Current: %a).,夢幻X - バリアをX得る。Xは、[幻光] のスタック数の半分 (切り捨て)である (現在 %a)。,幻灭X - 获得X点防护墙。X为自身一半的[幻光]层数（向下取整）（当前为%a）。,
+Skill/S_Satsuki_11Rare_Name,Text,,「그것은 환상이 될 수 없었다」,「It was an illusion」,「それは幻想になれなかったモノ」,「那无法成为幻想的某物」,
+Skill/S_Satsuki_12Rare_Description,Text,,모든 디버프를 제거한다,Remove all debuffs from the target.,すべてのデバフを除去する,解除所有减益状态。,
+Skill/S_Satsuki_12Rare_Name,Text,,「False Promise」,「False Promise」,「偽りの約束」,「False Promise」,
+Skill/S_Satsuki_1_Description,Text,,,,,,
+Skill/S_Satsuki_1_Name,Text,,풍부 「바람과 불의 흐름」,Wind Spell「Flowing wind like fire」,風符「風と炎の流れ」,风符「流风若火」,
+Skill/S_Satsuki_2_Name,Text,,유풍 「바람의 종착지」,Flowing Wind「Where the Wind Arrives」,流風「風の辿り着く场所」,流风「风到达的地方」,
+Skill/S_Satsuki_3_Description,Text,,"아래 버프 중 하나 이상을 가지고 있을 때만 사용할 수 있다.
+자신이 가진 [훈풍], [풍염], [계절풍], [백화요란], [흐르는 금빛과 녹지]를 대상 아군에게 이동시킨다.
+이동시킨 버프 1중첩당 [환광]을 3중첩 얻는다.","Usable only if you have at least 1 of the following buffs: [Vernal Breeze], [Scorching Wind], [Monsoon], [Blossoming Splendor], [Gilded Verdure].
+
+Transfer these buffs to an ally. Gain 3 [Phantasmal Light] per transferred buff.","以下のバフのうち少なくとも 1 つを持っている場合にのみ使用できる。
+自身が持つ[薫風]、[風炎]、[季節風]、[百花繚乱]、[流金積翠]を対象の味方に移動させる。
+移動させたバフのスタック数1ごとに[幻光]を3スタック得る。","自己身上有下述至少1种增益时才能使用。
+
+将自己身上的[薰风]、[焚风]、[季风]、[似锦繁花]和[流金叠翠]转让给目标调查员。
+
+每转让1种增益，自身获得3层[幻光]。",
+Skill/S_Satsuki_3_Name,Text,,정적 「바람을 기다리며」,Wind Close「Days of waiting for the wind」,凪息「風を待つた日」,凪息「等待风的日子」,
+Skill/S_Satsuki_4_0_Name,Text,,봄 「하늘에 핀 벚꽃」,Spring Flowers「Flowing cherry blossoms all over the sky」,春ノ花「その桜帘を抜けて」,春之花「漫天流樱」,
+Skill/S_Satsuki_4_Description,Text,,"무작위 디버프 1개를 제거한다. 무작위 적 1명에게 %a(60%)의 피해를 준다.
+적에게 사용 가능. 적에게 사용하면 적에게 %a(60%) 피해를 입히고, 대상의 [흐르는 금빛과 녹지]를 제거하고, 무작위 아군 1명의 체력을 %b(130%) 회복한다.","Remove 1 random debuff. Deal %a (60%) damage to a random enemy.
+
+If used on an enemy: Deal %a (60%) damage, dispel their [Gilded Verdure], and heal an ally for %b (130%).","ランダムなデバフを1つ除去する。 ランダムな敵1体に%a(60%)のダメージを与える。
+敵に使用できる。 敵に使用すると%a(60%)ダメージを与え、対象の[流金積翠]を除去し、ランダムな味方1人の体力を%b(130%)で回復する。","随机驱散1个减益效果。对随机敌人造成%a(60%)伤害。
+
+可以对敌人释放。对敌人释放时，造成%a(60%)伤害，驱散目标身上的[流金叠翠]，恢复随机队友%b(130%)点体力。",
+Skill/S_Satsuki_4_Name,Text,,봄 「하늘에 핀 벚꽃」,Spring Flowers「Flowing cherry blossoms all over the sky」,春ノ花「その桜帘を抜けて」,春之花「漫天流樱」,
+Skill/S_Satsuki_5_Description,Text,,"아군에게 사용시 [백화요란]을 부여한다.
+적에게 사용시 회복이 아닌 [월말의 여름날]을 부여한다.","Grants [Blossoming Splendor] to allies.
+If used on an enemy: Applies [Summer Gale] instead of healing.","味方に使用すると[百花繚乱]を与える。
+敵に使用できる。 敵に使用すると回復ではなく[盛夏流颪]が与えられる。","对队友释放时，施加[似锦繁花]。
+
+可以对敌人释放。对敌人释放时，没有治疗效果，施加[盛夏流颪]。",
+Skill/S_Satsuki_5_Name,Text,,여름 「흐르는 바람에 핀 해바라기」,Summer Flower「Sunflower Color in the Flowing Wind」,夏ノ花「风になびく向日葵色のワンピース」,夏之花「流风中的向日葵色」,
+Skill/S_Satsuki_6_Description,Text,,"치유력에 비례해 <color=purple>%a (110%) 고통 피해</color>를 입힌다.
+적에게 사용 가능.","Deal <color=purple>%a(110%) Pain damage</color> based on Healing Power.
+
+Can target enemies.","治癒力に基づいて、<color=purple>%a (110%) の苦痛ダメージ</color>を与える。
+敵に使用できる。","基于治疗力，造成<color=purple>%a(110%)痛苦伤害</color>。
+
+可以对敌人释放。",
+Skill/S_Satsuki_6_Name,Text,,가을 「Trifolium repens」,Autumn Flower「White Quilt Grass」,秋ノ花「白詰草」,秋之花「白诘草」,
+Skill/S_Satsuki_7_Description,Text,,"아군 전체에게 [풍년서설]을 부여한다.
+적 전체에게 [흉년잔설]을 부여한다.","Apply [Auspicious Snow] to all allies.
+Apply [Ominous Snow] to all enemies.","味方全体に[豊年瑞雪]を与える。
+敵全体に[凶年残雪]を与える。","对所有队友施加[丰年瑞雪]；
+对所有敌人施加[凶年残雪]。",
+Skill/S_Satsuki_7_Name,Text,,겨울 「아네모네」,Winter Flower「Windflower」,冬ノ花「牡丹一華」,冬之花「Windflower」,
+Skill/S_Satsuki_8_Description,Text,,"몽환 15 - 전투불능 상태의 아군 1명을 부활시키고 체력을 15까지 회복한다.
+전투불능 상태의 아군이 없거나 [환광] 중첩이 15 미만인 경우, 대신 [환광]을 5중첩 획득하고 스킬을 1장 뽑고 마나를 1회 회복한다.","Disillusion 15 - Revive 1 fallen ally and restore their HP to 15.
+
+If no allies are fallen or [Phantasmal Light] <15: Gain 5 [Phantasmal Light], draw 1 skill and restore 1 Mana.","夢幻15 – 戦闘不能状態の味方1人を復活させ、体力を15まで回復する。
+戦闘不能状態の味方がいないか、[幻光]のスタック数が15未満の場合、代わりに[幻光]を5スタック得てスキルを1枚引き、マナを1回復する。","幻灭15 - 随机复活1个阵亡的调查员，使他的体力恢复至15点。
+
+如果没有调查员阵亡、或是[幻光]层数不足以触发幻灭，改为自身获得5层[幻光]，抽取1个技能，恢复1点法力值。",
+Skill/S_Satsuki_8_Name,Text,,종부 「화조풍월은 머뭇거림의 여정」,"Final Spell「Flowers, birds, wind, and moon, wandering steps」",終符「花鳥風月は彷徨い歩く」,终符「花鸟风月为彷徨之行」,
+Skill/S_Satsuki_9_Description,Text,,,,,,
+Skill/S_Satsuki_9_Name,Text,,야풍 「밤과 비의 기도」,Night Wind「Prayer for Night and Rain」,夜風「夜と雨の祈り」,夜风「夜与雨的祷告」,
+Skill/S_Satsuki_LucyD_Description,Text,,스킬 2장을 뽑는다.,Draw 2 skills.,スキルを2枚引く。,抽取2个技能。,
+Skill/S_Satsuki_LucyD_Name,Text,,「화천월지、광풍소월」,「Kachoufuugetsu」,「花天月地、光風霄月」,「花天月地、光风霄月」,
+SkillExtended/SE_Satsuki_0_Des,Text,,다음 번 주는 치유 효과 +50%.,Next healing effect +50%.,次に与える治療効果+50%。,下1次造成的治疗效果+50%。,
+SkillExtended/SE_Satsuki_0_Name,Text,,훈풍,Vernal Breeze,薫風,薰风,
+SkillExtended/SE_Satsuki_1_Des,Text,,다음 스킬의 피해량 +50%.,Next skill's damage increased by 50%.,次のスキルのダメージが50％増加する。,下一个技能造成的伤害增加50%。,
+SkillExtended/SE_Satsuki_1_EnforceString,Text,,,,,,
+SkillExtended/SE_Satsuki_1_Name,Text,,풍염,Scorching Wind,風炎,焚风,
+SkillExtended/SE_Satsuki_2_EnforceString,Text,,비용 >= 1,Cost >= 1,コスト>=  1,费用 >=  1,
+SkillExtended/SE_Satsuki_2_Name,Text,,"사용 시, 체력이 가장 낮은 아군의 체력을 사츠키 린의 치유력의 50% 만큼 회복한다.","On hit, heal lowest HP ally for 50% of Satsuki Rin's Healing.",命中時、冴月麟を治癒力の50%で回復する。,打出时，血量最低的友军受到冴月麟50%治疗量的恢复。,
+SkillKeyword/Keyword_Disillusion_Desc,Text,,"몽환 X : 사츠키 린의 [환광] 중첩이 X개 이상일 때, 스킬 사용 시 [환광] 중첩을 X개 만큼 소모하고 추가 효과를 발동시킨다.","When the user has ≥X [Phantasmal Light] stacks, consume X stacks on skill use to trigger additional effects.",使用者が持つ[幻光]のスタック数がX以上の時、スキルを使用すると[幻光]のスタック数をX消費し、追加効果が発動する。,当使用者身上的[幻光]层数不小于X层时，使用技能时会消耗对应层数的[幻光]，触发额外效果。,
+SkillKeyword/Keyword_Disillusion_Name,Text,,몽환,Disillusion,夢幻,幻灭,
+

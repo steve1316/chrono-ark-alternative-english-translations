@@ -1,0 +1,976 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Abrasion_Description,Text,,,,,,
+Buff/B_Abrasion_Name, Text,,마모,Abrasion,関節摩耗,关节磨损,關節磨損
+Buff/B_C4_Description, Text,,해제 시 자신에게 &a 데미지를 입히고 아군에게 &b 데미지를 입힙니다.,"When removed, deals &a damage to self and &b damage to allies.",解除時、自身に&a点Damageを与え、友軍に&b点Damageを与える。,解除时，对自身造成 &a 点伤害，对友军造成 &b 点伤害。,解除時，對自身造成 &a 點傷害，對友軍造成 &b 點傷害。
+Buff/B_C4_Name, Text,,C4,C4,C4,塑胶炸弹,塑膠炸彈
+Buff/B_C5atk_Description,Text,,,,,,
+Buff/B_C5atk_Name, Text,,,Thunderbolt Weakness,,召雷弹虚弱,
+Buff/B_Concentration_Description, Text,,"대기시 자신의 과부하를 비우기 합니다.
+해제시 체력과 회복게이지를 기록시로 되돌립니다.
+치명적인 피해를 입을 경우 바로 해제합니다.
+<b>현재 기록한 체력：&hpr</b>
+<b>현재 기록한 회복게이지：&hpg</b>","While waiting, clears self's Overload.
+When removed, restores HP and Healing Gauge to recorded values.
+Immediately removed upon receiving fatal damage.
+<b>Current recorded HP: &hpr</b>
+<b>Current recorded Healing Gauge: &hpg</b>","待機中に、自身のオーバロードをクリアします。
+解除すると、体力値と回復ゲージをすぐに記録時に戻します。
+致命的なダメージを受けた場合は、すぐに解除します。
+<b>現在記録されている体力値：&hpr</b>
+<b>現在記録されている回復ゲージ：&hpg</b>","等待时，清空自身的过载。
+解除时，将体力值和体力极限立即回滚至记录时。
+受到致命伤害时，立即解除。
+<b>当前记录的体力值：&hpr</b>
+<b>当前记录的体力极限：&hpg</b>","等待時，清空自身的過載。
+解除時，將體力值和體力極限立即回滾至記錄時。
+受到致命傷害時，立即解除。
+<b>當前記錄的體力值：&hpr</b>
+<b>當前記錄的體力極限：&hpg</b>"
+Buff/B_Concentration_Name, Text,,위상력 개방,Concentration,,聚精会神,聚精會神
+Buff/B_DefendSignal_Description, Text,,,"When dodging, if there are no defensive allies, creates a barrier equal to the enemy's Attack.",,自身闪避时，若己方没有防御类角色，则增加等同于敌方单位攻击力的防护墙。,自身閃避時，若己方沒有防禦類角色，則增加等同於敵方單位攻擊力的防護墻。
+Buff/B_DefendSignal_Name, Text,,방어 신호,Defense Signal,防禦信号,防守信号,防守信號
+Buff/B_ElectChain_Description, Text,,자신이 &b 입을 때마다 번개 체인을 가지고 있는 모든 단위는 &a 고통 피해를 입습니다.,"Whenever self takes &b damage, all units with ""Lightning Chain"" take &a pain damage.",自身が&bを受けるたびに、所有するすべての単位が&a点苦痛ダメージを受ける。,每当自身受到&b时，所有拥有闪电链的单位受到&a点痛苦伤害。,每當自身受到&b時，所有擁有閃電鏈的單位受到&a點痛苦傷害。
+Buff/B_ElectChain_Name, Text,,번개 체인,Lightning Chain,でんりゅう,闪电链,閃電鏈
+Buff/B_FirstAidSignal_Description, Text,,티나씨가 파티에 없고 루시씨가 파티의 오른쪽 아래에 있으면 이 버프는 유효하지 않습니다.,"If Tina is not in the party and Lucy is in the bottom-right corner, this buff is invalid.",Tinaがチームにいなく、Lucyがチームの右下隅にいる場合、このbuffは無効です。,若缇娜不在队伍中且露西位于队伍右下角，则此buff无效。,若緹娜不在隊伍中且露西位於隊伍右下角，則此Buff無效。
+Buff/B_FirstAidSignal_Name, Text,,생명 회복,First Aid Signal,再生能力,生命恢复,生命恢復
+Buff/B_Fridge_Description, Text,,행동할 수 없습니다.,Unable to act.,行動できない。,无法行动。,無法行動。
+Buff/B_Fridge_Name, Text,,혼자 있고 싶다,Leave Me Alone,タイムアローン Time Iron,我想静静,我想靜靜
+Buff/B_IraishinBeacon_Description, Text,,"이슬비에 도발과 관계없이 대상으로 지정 할 수 있습니다.
+해당 단위를 대상으로 시전한 [S]스킬은 반드시 적중됩니다.","Can be targeted by Sylvi regardless of taunt.
+Skills targeting this unit will always hit.",,"可被李瑟钰无视嘲讽指定为目标。
+指向该单位释放的空间技能必定命中。","可被李瑟鈺無視嘲諷指定為目標。
+指向該單位釋放的空間技能必定命中。"
+Buff/B_IraishinBeacon_Name, Text,,비콘,Beacon,飛雷神術式,信标,信標
+Buff/B_IraishinCover_Description,Text,,,,,,
+Buff/B_IraishinCover_Name, Text,,시공간 엄호,Spacetime Cover,時空間援護,时空间掩护,時空間掩護
+Buff/B_IraishinMode_Description, Text,,성공적으로 회피한 경우 1중첩이 증가합니다.,Successfully dodging increases the stack by 1.,回避に成功した場合は、レイヤーを追加します。,成功闪避时，增加一层层数。,成功閃避時，增加1層層數。
+Buff/B_IraishinMode_Name, Text,,윔홀,Wormhole,飛雷神準備,虫洞,蟲洞
+Buff/B_IseubiGTaunt_Description,Text,,,Must be defeated first.,,无法指定其他角色。,
+Buff/B_IseubiGTaunt_Name,Text,,,Taunt,,嘲讽,
+Buff/B_IseubiTaunt_Description, Text,,다른 캐릭터를 타겟으로 지정할 수 없게 됩니다.,Must be defeated first.,他キャラクターをターゲットに指定できない。,无法指定其他角色。,無法指定其他角色。
+Buff/B_IseubiTaunt_Name, Text,,도발,Taunt,挑発,嘲讽,嘲諷
+Buff/B_Iseubi_grab_Description, Text,,행동할 수 없습니다.,Cannot take action.,行動できない。,无法行动。,無法行動
+Buff/B_Iseubi_grab_Name, Text,,포획,Grab,捕まえた,抓取,抓取
+Buff/B_Iseubi_taunt_Description, Text,,"&target 이외의 대상은 절대 공격 할 수 없습니다.
+대상을 공격하면 해제됩니다.","Cannot attack targets other than &target.
+Removed when attacking the target.","&target以外の対象に攻撃できない。
+ 対象を攻撃すると解除される。","无法攻击除&target以外的目标。
+攻击目标时解除。","無法攻擊除&target以外的目標。
+攻擊目標時解除。"
+Buff/B_Iseubi_taunt_Name, Text,,요격,Intercept,ブロック,拦截,攔截
+Buff/B_L_iseubi0_2_Description, Text,,,Reduces Attack by 30% and Defense by 12.,,降低30%攻击力与12点防御力,
+Buff/B_L_iseubi0_2_Name, Text,,,Heavy Pressure,,重压,
+Buff/B_LethalStrikeEX_Description, Text,,한 턴에 한번，자신에게 임의의 디버프가 인가될 경우 4중첩을 소모하고 인가될 디버프1중첩이 제거됩니다.,"Once per turn, when a debuff is applied to self, consumes 4 stacks and removes 1 stack of the debuff to be applied.",,每回合限一次，当自身被施加任意减益时，消耗四层并清除一层将被施加的减益。,每回合限一次，當自身被施加任意減益時，消耗4層並清除一層被施加的減益。
+Buff/B_LethalStrikeEX_Name, Text,,비트: 약점 공략EX,Lethal Strike EX,弱点ヒットEX,致命打击EX,致命打擊EX
+Buff/B_LethalStrike_Description,Text,,,,,,
+Buff/B_LethalStrike_Name, Text,,비트: 약점 공략,Lethal Strike,弱点ヒット,致命打击,致命打擊
+Buff/B_LucyMagicChipForAlly_Description,Text,,,,,,
+Buff/B_LucyMagicChipForAlly_Name, Text,,,Fragment Assistance,,碎片协助,
+Buff/B_LucyMagicChip_Description, Text,,"현장의 모든 조사단원 적중률+&a%，회피율+&b%，치명타 확률+&c%.
+턴 시작시 <b>비트 : 루시</b> 중첩 수가 5이하이면 5중첩을 소모하고 덱 1장을 뽑습니다.","All field investigators gain +&a% Hit Rate, +&b% Dodge Rate, and +&c% Critical Rate.
+At the start of the turn, if <b>Lucy's Magic Fragment</b> stacks are 5 or more, consumes 5 stacks and draws 1 card.","すべてのフィールドの調査団員の命中率+&a%、フラッシュ率+&b%、致命的な一撃確率+&c%。
+ターン開始時に<b>ルシーのビット</b>の層数が5以上であれば、5層を消費してカードを1枚抽出する。","所有在场的调查员命中率+&a%，闪避率+&b%，暴击概率+&c%。
+回合开始时，若<b>露西的魔法碎片</b>层数不少于5，则消耗5层并抽取1张牌。","所有在場的調查員命中率+&a%，閃避率+&b%，暴擊概率+c%。
+回合開始時，若<b>露西的魔法碎片</b>層數不少於5，則消耗5層並抽取1張牌。"
+Buff/B_LucyMagicChip_Name, Text,,비트 : 루시,Lucy's Magic Fragment,ルシーのビット,露西的魔法碎片,露西的魔法碎片
+Buff/B_LucyiseubiProxyBuff_Description,Text,,,,,,
+Buff/B_LucyiseubiProxyBuff_Name,Text,,,Sylvi Lee Lucy Proxy Buff,,李瑟钰露西代理buff,
+Buff/B_MagicChip_Description, Text,,"일부 스킬에 필요한 자원.
+초과된 부분은【비트 : 루시】으로 바뀝니다.","A resource required for certain skills.
+Excess is converted into ""Lucy's Magic Fragment"".","一部のスキルに必要なリソース。
+超えた部分は「ルシーのビット」になります。","部分技能必需的资源。
+超出部分将转化为【露西的魔法碎片】。","部分技能必需的資源。
+超出部分將轉化為【露西的魔法碎片】。"
+Buff/B_MagicChip_Name, Text,,비트,Magic Fragment,ビット,魔法碎片,魔法碎片
+Buff/B_MyiseubiProxyBuff_Description,Text,,,,,,
+Buff/B_MyiseubiProxyBuff_Name, Text,,,Sylvi Lee Lucy Proxy Buff,,李瑟钰自身代理buff,
+Buff/B_Overheat_Description, Text,,15층까지 쌓으면 【과열】을 획득할 때마다 자신에게 &b(10% HP)의 고통데미지를 입힙니다.,"After stack reaches 15, each stack of ""Overheat"" deals &b (10% of HP) pain damage to self.",15層まで積み重ねた後、【熱い】を得るごとに&b（10%HP）の苦痛Damageを与えます。,堆叠至15层后，每获得一层【过热】将会对自身造成&b(10%HP)的痛苦伤害。,堆疊至15層後，每獲得一層【過熱】將會對自身造成 &b (10%HP)的痛苦傷害。
+Buff/B_Overheat_Name, Text,,과열,Overheat,熱い,过热,過熱
+Buff/B_PursueAndAttack_Description, Text,,"덱을 바꿀 때 덱 한 장을 뽑고 마나 1를 복구합니다.
+현장에 있는 체력이 15% 미만인 적에 대하여 자신 상대의 동일한 명칭의 스킬은 무효화됩니다.","When swapping cards, draw 1 card and restore 1 Mana.
+Skills targeting self from enemies with less than 15% HP are nullified.","交換時に、カードを1枚抽出してAP+1にする。
+フィールド上の体力値が15%未満の敵に対して、自身を指すスキルは無効化されます。","换牌时，抽取一张牌并恢复1点法力值。
+对于场上体力值不足15%的敌人，其指向自身的技能将被无效化。","換牌時，抽取一張牌並恢復1點法力值。
+對於場上體力值不足15%的敵人，其指向自身的技能將被無效化。"
+Buff/B_PursueAndAttack_Name, Text,,치명적인 위상력,Pursue and Attack,,乘胜追击,乘勝追擊
+Buff/B_ShinratenseExhausted_Description, Text,,,Cannot use Shinra Tensei again this turn.,,本回合不可再使用神罗天征,
+Buff/B_ShinratenseExhausted_Name, Text,,,Shinra Tensei Exhaustion,,神罗天征疲惫,
+Buff/B_SpaceDodge_Description,Text,,,,,,
+Buff/B_SpaceDodge_Name, Text,,긴급 회피,Emergency Dodge,緊急回避,紧急闪避,緊急閃避
+Buff/B_StormEyes_Description, Text,,"다음 이슬비의 [E]스킬에 적중 전，이 스킬은 반드시 적중되며 치명타 피해는 30% 증가합니다.
+","Before being hit by Sylvi's next Electromagnetic skill, this skill will always hit and gain +30% critical damage.","次にミコトの雷遁技に命中される前に、この技は必ず命中し、致命的な一撃ダメージ+30%を与える。
+","下一次被李瑟钰的电磁技能命中前，该技能必定命中且暴击伤害+30%。
+","下一次被李瑟鈺的電磁技能命中前，該技能必定命中且暴擊傷害+30%。
+"
+Buff/B_StormEyes_Name, Text,,폭풍의 눈,Storm's Eye,嵐の目,风暴之眼,風暴之眼
+Buff/B_TinaC2def_Description,Text,,,,,,
+Buff/B_TinaC2def_Name, Text,,방어력 감소!,Defense Reduction,防御力ダウン！,防御力减少,防御力減少
+Buff/B_TinaC7atk_Description,Text,,,,,,
+Buff/B_TinaC7atk_Name, Text,,공격력 감소,Attack Reduction,攻撃力減少,攻击力减少,攻擊力減少
+Buff/B_iseubi14_Description,Text,,,,,,
+Buff/B_iseubi14_Name, Text,,중압,Heavy Pressure,高圧,重压,重壓
+Buff/B_iseubi4_Description, Text,,,Removed and refreshes fixed abilities when stack reaches 4.,,叠加至4层时解除并刷新固定能力。,
+Buff/B_iseubi4_Name, Text,,,Wormhole Shuttle Counter,,虫洞穿梭计数器,
+Buff/B_iseubiProxyBuff_Description,Text,,,,,,
+Buff/B_iseubiProxyBuff_Name, Text,,,Sylvi Lee Lucy Proxy Buff,,李瑟钰代理buff,
+Buff/B_tina2_0_Description,Text,,,,,,
+Buff/B_tina2_0_Name,Text,,,B_tina2_0,,B_tina2_0,
+Character/Iseubi_CampSelectWord, Text,,정말 제가 전선에 나가도 되는 건가요?,"The dew falls as the flowers remain, yet dawn fades; the flowers wither as the dew vanishes, yet dusk waits not.",本当に私なんかを前線に出していいんですか？,露坠花存而破晓将逝；花谢露消而黄昏不待；,露坠花存而破曉將逝，花谢露消而黃昏不待；。
+Character/Iseubi_PassiveDes, Text,,"[클로저스]: 패시브는 1 레벨에서 잠금을 해제, 실효하지 않으며, 일부 기본기 의 스킬이 고정 능력 에 있을 때 제외 와 일회성 를 취소합니다.스킬북, 승급 시 1개 옵션을 추가합니다.
+다른 캐릭터의 스킬 사용 시 비트+1.
+<b>비트 생성 스킬</b> 또는 <b> 비트 소모 스킬</b>을 낼 때  치명타는 5% 증가하며 치명타 피해는 8% 증가합니다(연속 3턴간，최대 5중첩).
+이슬비는 가지고 있는 희귀 스킬에 따라 파별을 전환하며 조사가 수행됨에 따라 점차 성장합니다.
+현재 파별：<b>&sect</b>
+현재 <b>&exp</b>회 전투를 완료.","[CLOSERS]: Passive unlocks at level 1 and cannot be disabled. Innate Class skills can be used every turn ignoring ""Exclude"" and ""Once"". Using skill books or leveling up adds 1 more option.
+When other characters use skills, gain +1 ""Magic Fragment"".
+Using <b>Magic Fragment Generation Skills</b> or <b>Magic Fragment Consumption Skills</b> grants +5% Critical Rate and +8% Critical Damage (lasts 3 turns, max 5 stacks).
+Sylvi switches styles based on rare skills owned and grows as investigations progress.
+Current style: <b>&sect</b>
+Completed <b>&exp</b> battles.","[クロザス Closers]: パッシブはlv 1でロック解除され、無効になることはなく。一部基本のスキルが固定能力のときに除外と単発をキャンセルします。スキルブックの使用、アップグレード時のオプションを1つ追加します。
+他のキャラクターのスキルが手に入ると、ビット+1。
+<b>魔ビット生成スキル</b>または<b>ビット消費スキル</b>を使用すると、致命的な一撃率が5%上昇し、致命的な一撃ダメージが8%増加するゲインを獲得する（3ターン継続、最大5層重ね）
+ミコトは持っている珍しい技によって流派を切り替え、調査が進むにつれて成長していく。
+現在の流派:<b>&sect</b>
+現在、<b>&exp</b>フィールドの戦闘が完了しています。","【封印者】：被动在1级解锁、不会失效。部分基本功的技能处于固定能力时每回合皆可使用。使用技能书、升级时增加1个选项。
+其他角色的技能出手时，碎片+1。
+使用<b>魔法碎片生成技能</b>或<b>魔法碎片消耗技能</b>时，获得暴击率提升5%，暴击伤害增加8%的增益（持续3回合，最多叠加5层）
+李瑟钰会根据拥有的稀有技能切换流派，并且会随着调查的进行而逐渐成长。
+当前流派为：<b>&sect</b>
+当前已完成<b>&exp</b>场战斗。","【封印者】：被動在1級解鎖、不會失效。部分基本功的技能處於固定能力時無視放逐和一次性。使用技能書、升級時增加1個選項。
+其他角色的技能出手時，碎片+1。
+使用<b>魔法碎片生成技能</b>或<b>魔法碎片消耗技能</b>時，獲得暴擊率提升5%，暴擊傷害增加8%的增益(持續3回合，最多疊加5層)
+李瑟鈺會根據擁有的稀有技能切換流派，並且會隨著調查的進行而逐漸成長。
+當前流派為：<b>&sect</b>
+當前已完成<b>&exp</b>場戰鬥。"
+Character/Iseubi_PassiveName, Text,,클로저스,CLOSERS,クロザス Closers,封印者,封印者
+Character/Iseubi_SelectInfo, Text,,"A급 봉인자로 천둥, 중력, 공간 세 가지 마법에 능통합니다. 평원지문에서 파라레몬을 추격할 때 공간의 틈에 떨어져 방주에 오게 되었으며 이 세계에 잠깐 머물게 되었습니다.","A-rank Closer, proficient in lightning, gravity, and spatial magic. Fell into a spatial rift while chasing dimensional beasts at the Plains Gate, arriving at the Ark and temporarily staying in this world.
+
+Whether in offense, defense, or support, Sylvi can play a powerful role.","A級封印者で、雷、引力、空間の3種類の魔法に精通している。ゲトが次元獣を追撃していたところ、意外にも空間の隙間に落ちて方舟に来て、しばらくこの世界に滞在していた。
+ミコトは攻撃も防御もアシストも強力な役割を果たすことができる。","A级封印者，精通雷电、引力、空间三种魔法。在平原之门追击次元兽时意外掉进空间裂隙来到方舟，暂时滞留在这个世界。
+无论是进攻、防御、辅助，李瑟钰都可以发挥强大的作用。","A級封印者，精通雷電、引力、空間三種魔法。在平原之門追擊次元獸時意外掉進空間裂隙來到方舟，暫時滯留在這個世界。
+無論是進攻、防禦、輔助，李瑟鈺都可以發揮強大的作用。"
+Character/Iseubi_Text_Battle_AllyND_0, Text,,전세가 이렇게 불리하니 저의 책임을 면할 수 없습니다,It's all my fault.,私のせいだ,战局不利至此，我难辞其咎。,戰局不利至此，我難辭其咎。
+Character/Iseubi_Text_Battle_AllyND_1, Text,,전술을 바꾸려면 아직도 늦지 않았습니다!,"Change tactics, there's still time!",戦術を変える、まだ間に合う。,改变战术，现在还来得及！,改變戰術，現在還來得及！
+Character/Iseubi_Text_Battle_Cri_0, Text,,지금 번개도 제가 장악하고 있습니다!,"Now, even lightning is under my control!",今、雷すらも手懷ける！,现在，闪电也由我掌控！,現在，閃電也由我掌控！
+Character/Iseubi_Text_Battle_Cri_1, Text,,우리 앞에서 계략을 부려도 소용없습니다!,"Before us, even the most cunning schemes are useless!",私たちのまえには、どのような策も通じない！,在我们面前，卖弄计谋亦是无用！,在我們面前，賣弄計謀亦是無用！
+Character/Iseubi_Text_Battle_Cri_2, Text,,천둥번개가 내리칩니다!,"Chase the clouds and lightning, thunder reigns across the heavens!",狙え！凛と煌く視線は 狂い無く闇を切り裂く~,追云逐电，雷纵九天！,追雲逐電，雷縱九天！
+Character/Iseubi_Text_Battle_Cri_3, Text,,정확하게 적중하였습니다!,Direct hit!,ヒット！,准确命中！,準確命中！
+Character/Iseubi_Text_Battle_Cri_4, Text,,전혀 기회가 없으므로 포기하십시오!,"You have no chance at all, give up!",あんたに万が一わない、諦めろ！,你没有任何一点机会，放弃吧！,你沒有任何一點機會，放棄吧！
+Character/Iseubi_Text_Battle_Healed_0, Text,,대단합니다. 저도 이것을 배우고 싶습니다.,"So impressive, I want to learn this too.",すごい、私に教えてくれますか？,好厉害，我也想学这个。,好厲害，我也想學這個。
+Character/Iseubi_Text_Battle_Healed_1, Text,,다른 사람을 치료하는 법에 대해 알려주시겠습니까?,Can you teach me how to heal others?,医術を教えてください。,可以教教我怎么治疗别人吗？,可以教教我怎麼治療別人嗎？
+Character/Iseubi_Text_Battle_Idle_0, Text,,어떻게 해야 되지？,What should I do?,どうすればいいの？,该怎么做呢？,該怎麼做呢？
+Character/Iseubi_Text_Battle_Kill_0, Text,,천둥과 번개와 함께 소멸하라!,Disappear with the thunder and lightning!,雷鳴を伴って、散れ。,随着雷鸣和电光一同消逝吧！,隨著雷鳴和電光一同消逝吧！
+Character/Iseubi_Text_Battle_Kill_1, Text,,아픔 없이 한순간에 끝납니다.,"There will be no pain, it will end in an instant.",痛みわない、一瞬で終わる。,不会有疼痛，一瞬间就会结束。,不會有疼痛，一瞬間就會結束。
+Character/Iseubi_Text_Battle_Kill_2, Text,,스스로 무덤을 파는군요，도망갈 길이 없습니다!,"You're digging your own grave, there's no escape!",逃げ場わない。,你在作茧自缚，你已无路可逃！,你在作繭自縛，你已無路可逃！
+Character/Iseubi_Text_Battle_Kill_3, Text,,당신의 억지부림은 여기까지입니다. 퇴장하세요.,"Your bravado ends here, time to exit.",強がっでもここまでのようだな、ご退場願おうか。,你的逞强也就到此为止，可以退场了。,你的逞強也就到此為止，可以退場了。
+Character/Iseubi_Text_Battle_ND_0, Text,,으윽…으윽……,Cough... cough...,くっ…くっ……,咳…咳……,咳…咳……
+Character/Iseubi_Text_Battle_ND_1, Text,,질 수 없어요…,I can't lose...,負けないで…,我不能输…,我不能輸…
+Character/Iseubi_Text_Battle_ND_2, Text,,더 싸울 수 있습니다…,I... can still fight...,まだまだ……,我…还能再战…,我…還能再戰…
+Character/Iseubi_Text_Battle_ND_3, Text,,운이 따라주지 않네요…,Oh… bad luck.,もど戦力をねで…次こそ必ず……,可叹桢干命也迂…,可歎楨干命也迂…
+Character/Iseubi_Text_Battle_Start_0, Text,,목표를 확인하고 적 목표물을 섬멸합니다.,"Target confirmed, eliminating enemy targets.",目標確認、敵を殲滅つします。,目标确认，歼灭敌方目标。,目標確認，殲滅敵方目標。
+Character/Iseubi_Text_Battle_Start_1, Text,,서둘러야겠어요，생방송이 곧 시작됩니다. 아니…아닙니다!,"Hurry up, the live stream is about to start. No... nothing!",速くしないと、ドラマわ始まる。な…何でもありません！,得快点了，直播就要开始了。没…没什么！,得快點了，直播就要開始了。沒…沒什麼！
+Character/Iseubi_Text_Battle_Start_2, Text,,괜찮습니다. 할 수 있어요. 시작합시다!,"It's fine, I can do this. Let's begin!",大丈夫、私わできる。行きます！,没事的，我可以的。开始吧！,沒事的，我可以的。開始吧！
+Character/Iseubi_Text_Battle_Start_3, Text,,알겠습니다. 곧 목표 장소로 이동하겠습니다!,"Understood, I will head to the target location immediately!",了解しました、直ちに目標地点に向かいます。,明白了，我将立即前往目标地点！,明白了，我將立即前往目標地點！
+Character/Iseubi_Text_Battle_Start_4, Text,,알겠습니다. 전투를 시작합니다.,"Understood, battle begins.",了解しました、これより作戦を開始します。,明白了，战斗开始。,明白了，戰鬥開始。
+Character/Iseubi_Text_Battle_Start_5, Text,,이슬비，움직임을 시작하세요!,"Sylvi Lee, moving out!",ミコト　アマミヤ、しつどします！,李瑟钰，开始行动！,李瑟鈺，開始行動！
+Character/Iseubi_Text_Battle_Start_6, Text,,당신을 믿습니다.,I believe in you.,あなたたちの事、信じ出るわよ！,我相信你们。,我相信你們。
+Character/Iseubi_Text_Battle_Start_7, Text,,기대를 저버리지 않고 힘내겠습니다.,"I won't let you down, I'll do my best.",期待いにお答える出来るよ、頑張ります。,不会辜负你的期望，我会加油的。,不會辜負你的期望，我會加油的。
+Character/Iseubi_Text_Field_GetItem_0, Text,,이것도 필요합니까?,Do you need this too?,これを必要ですか？,这你也要吗？,這你也要嗎？
+Character/Iseubi_Text_Field_GetItem_1, Text,,그럼 갖고 갑시다.,"Alright, let's take it.",わがった。,好吧，带上吧。,好吧，帶上吧。
+Character/Iseubi_Text_Field_Idle_0, Text,,연락 유지하세요,Maintain communication.,切らないで。,保持通讯。,保持通訊。
+Character/Iseubi_Text_Field_Idle_1, Text,,루시，당신은 알고 있었어야 했습니다.,Will it really end once we reach the clock tower?,時計塔に着いたら本当に終わるのだろうか。,到达钟楼后就真的会结束吗？,到達鐘樓後就真的會結束嗎？
+Character/Iseubi_Text_Field_Idle_2, Text,,계속 직진.,Keep moving forward.,続く。,继续前进。,繼續前進。
+Character/Iseubi_Text_Field_Potion_N_0, Text,,,"Ugh, this tastes awful!",,呜哇，好难喝！,嗚哇，好難喝。
+Character/Iseubi_Text_Field_Potion_N_1, Text,,,Are you sure this is drinkable?,,你确定这能喝？,你確定這能喝？
+Character/Iseubi_Text_Field_Potion_P_0, Text,,약효가 이렇게 빠릅니까?,The effect kicks in this fast?,薬効はこんなに早く来ましたか。,药效来得这么快？,藥效來得這麼快？
+Character/Iseubi_Text_Field_Potion_P_1, Text,,물약이 자리를 차지하니 일찍 마시는 것이 좋습니다.,"Potions take up too much space, better drink them early.",薬は場所を取りやすいから、早く飲んだほうがいい。,药水好占地方，还是早点喝了好。,藥水好佔地方，還是早點喝了好。
+Character/Iseubi_Text_Field_Potion_P_2, Text,,이거 음료수이죠?,"This is a drink, right?",美味い,这是饮料吧？,這是飲料吧？
+Character/Iseubi_Text_MasterTarget,Text,,,"Lucy, we'll meet again.",,露西，我们还会再见面的。,
+Character/Iseubi_Text_PharosLeader_0, Text,,무슨 일입니까，몸을 통제할 수 없습니다!,What's going on? I can't control my body!,一体どうよ事だ？体わ動かない。,怎么回事，身体不受控制了！,怎麼回事，身體不受控制了！
+Character/Iseubi_Text_PharosLeader_1, Text,,죄송합니다…,I'm sorry…,ごめなさい…,对不起…,對不起…
+Character/Iseubi_Text_PharosLeader_2, Text,,지금 그만두는 게 좋을 거야，파로스 교주,"Pharos, you'd better stop now.",今すぐやめたほうがいい、パロス教主。,法洛斯，你最好现在就停手。,法洛斯，你最好現在就停手。
+Character/Iseubi_Text_Witch_0, Text,,나한테 맡기세요!,Leave it to me!,任せて！,交给我吧！,交給我吧！
+Character/Iseubi_Text_Witch_1, Text,,우리 모두가 쓰러지기 전에 그녀를 물리칩시다!,"Defeat her, before we are defeated!",私たちに倒すの前に、彼女を倒す！,在我们都倒下之前，打败她！,在我們都倒下之前，打敗她！
+Character/Iseubi_name, Text,,이슬비,Sylvi Lee,ミコト　アマミヤ,李瑟钰,李瑟鈺
+Character/Tina_CampSelectWord, Text,,,Lucid Dream.,,清醒梦。,清醒夢。
+Character/Tina_PassiveDes, Text,,"【클로저스】：패시브는 1 레벨에서 잠금을 해제, 실효하지 않으며, 일부 기본기 의 스킬이 고정 능력 에 있을 때 제외 와 일회성 를 취소합니다.스킬북, 승급 시 1개 옵션을 추가합니다.
+【전쟁 전 준비】：등장 시 레벨 5로 【하얀 무덤】 통과하기 전 한 구역에 도착할 때마다 레벨 1이 낮아집니다.
+【탄막】：자신 타격당 최대 공격력의 33%만큼 피해를 입힙니다. 데미지가 넘치면 데미지 결산 후 넘친 데미지로 1회 추가 공격을 가합니다.
+【보급】：팀은 매 18회 공격 또는 스킬 사용 후 랜덤으로 【고폭 수류탄】 또는 【긴급 회피】 1장 획득; 30회, 랜덤으로 【혼자 있고 싶다】 또는 【구급가방】 1장 획득; 48회, 【3점사가】 또는 소유한 루시 스킬을스킬 1장을 랜덤으로 획득(핏빛 안개와 루시의 저주 스킬 포함하지 않음).
+【방화벽】：【완전한 복종】、【정신 혼란】、【분노】를 면역합니다.
+【온도 상승】：자신이 기술을 사용할 때마다 자신에게 【과열】(<sprite=0>100%)를 가합니다.
+【마모】：전투가 완료될 때마다 자신에게 【마모】를 가합니다.
+현재 <b>&exp</b>회 전투를 완료.","[CLOSERS]: Passive unlocks at level 1 and cannot be disabled. Innate Class skills can be used every turn ignoring ""Exclude"" and ""Once"". Using skill books or leveling up adds 1 more option.
+[Pre-Battle Preparation]: Starts at level 5, decreases by 1 level for each area reached before passing ""White Graveyard"".
+[Barrage]: Each hit deals up to 33% of Attack as damage. If damage overflows, an additional attack is made with the overflow damage.
+[Supply]: After 18 attacks or skill uses, randomly gain a ""Grenade"" or ""Emergency Dodge""; after 30, randomly gain a ""Leave Me Alone"" or ""First Aid Kit""; after 48, randomly gain a ""Triple Shot"" or a Lucy skill (excluding Blood Mist and Lucy's Curse).
+[Firewall]: Immune to ""Absolute Obedience"", ""Mental Chaos"", and ""Rage"".
+[Overheat]: Using skills applies ""Overheat"" (<sprite=0>100%) to self.
+[Abrasion]: Completing a battle applies ""Joint Abrasion"" to self.
+Completed <b>&exp</b> battles.","【クロザス Closers】：パッシブはlv 1でロック解除され、無効になることはなく。一部基本のスキルが固定能力のときに除外と単発をキャンセルします。スキルブックの使用、アップグレード時のオプションを1つ追加します。
+【戦前準備】：出場時はLevel 5で、【白い墓地】を通過する前に1エリアに到達するごとにLevel 1を下げる。
+【弾幕】：Tinaの攻撃毎に最大33%の攻撃力を与えるDamageがOverflowすると、Damageの決済が完了した後にオーバーフローしたDamageで追加攻撃を行う。
+【ほきゅう】：チームは18回の攻撃やスキルを使用した後、Randomに【MK3手榴弾】または【緊急回避】を獲得します。30回、Randomに【タイムアローン Time Iron】または【救急箱】を手に入れた。48回、Randomに【3連バースト】または持っているLucy Card（血霧やLucyのJinxを除く）を1枚獲得する、
+【ファイアウォール Fire wall】：免疫【完全支配】、【精神錯乱】、【怒り】。
+【かねつ】：自身がスキルを使用するたびに、自身に【過熱】(<sprite=0>100%)が適用されます。
+【まもう】：戦闘を完了するたびに、自分自身に【関節摩耗】がかかります。
+現在、<b>&exp</b>フィールドの戦闘が完了しています。","【封印者】：被动在1级解锁、不会失效，部分基本功的技能处于固定能力时每回合皆可使用。使用技能书、升级时增加1个选项。
+【战前准备】：出场时等级为5级，在通过【白色墓地】前，每抵达一个区域都将降低1级等级。
+【弹幕】：自身每次攻击至多造成攻击力33%的伤害，若伤害溢出，则在伤害结算完毕后以溢出的伤害进行一次额外的攻击。
+【补给】：团队每进行18次攻击或使用技能后，随机获得一张【手榴弹】或【紧急闪避】；30次，随机获得一张【我想静静】或【急救包】；48次，随机获得一张【三连发】或拥有的露西技能(不包括血色迷雾和露西诅咒技能)；
+【防火墙】：免疫【绝对服从】、【精神错乱】、【激怒】。
+【升温】：每当自身使用技能时，都会为自身施加【过热】(<sprite=0>100%)。
+【磨损】：每完成一次战斗，都会为自身施加【关节磨损】。
+当前已完成 <b>&exp</b> 场战斗。","【封印者】：被動在1級解鎖、不會失效，部分基本功的技能處於固定能力時每回合皆可使用。使用技能書、升級時增加1個選項。
+【戰前準備】：出場時等級為5級，在通過【白色墓地】前，每抵達一個區域都將降低1級等級。
+【彈幕】：自身每次攻擊至多造成攻擊力33%的傷害，若傷害溢出，則在傷害結算完畢後以溢出的傷害進行一次額外的攻擊。
+【補給】：團隊每進行18次攻擊或使用技能後，隨機獲得一張【手榴彈】或【緊急閃避】；30次，隨機獲得一張【我想靜靜】或【急救包】；48次，隨機獲得一張【三連發】或擁有的露西技能(不包括血色迷霧和露西詛咒技能)；
+【防火墻】：免疫【絕對服從】、【精神錯亂】、【激怒】。
+【升溫】：每當自身使用技能時，都會為自身施加【過熱】(<sprite=0>100%)。
+【磨損】：每完成一次戰鬥，都會為自身施加【關節磨損】。
+當前已完成 <b>&exp</b> 場戰鬥。"
+Character/Tina_PassiveName, Text,,클로저스,CLOSERS,クロザス Closers,封印者,封印者
+Character/Tina_SelectInfo, Text,,,"B-rank Closer, former member of the Wolfdog team. Suffered severe injuries in battle, underwent full-body cybernetic reconstruction, with her left brain replaced by an offline AI. Excels in reconnaissance, assassination, and firepower coverage. Accidentally arrived at the Ark while investigating the Plains Gate with Sylvi, now operates alongside her.
+
+Tina can deal multi-stage damage and performs well in healing, support, and defense.",,"B级封印者，前帕切斯处理部队成员。曾在作战中身负重伤，全身进行义体改造，左脑被离线人工智能替代。擅长进行侦查、暗杀、火力覆盖等作战任务。在与李瑟钰一同调查平原之门的过程中意外来到方舟，现随李瑟钰行动。
+缇娜可以进行多段伤害，并且在治疗、辅助和防御方面都有着不错的发挥。","B級封印者，前帕切斯處理部隊成員。曾在作戰中身負重傷，全身進行義體改造，左腦被離線人工智能替代。擅長進行偵查、暗殺、火力覆蓋等作戰任務。在與李瑟鈺一同調查平原之門的過程中意外來到方舟，現隨李瑟鈺行動。
+緹娜可以進行多段傷害，並且在治療、輔助和防禦方面都有著不錯的發揮。"
+Character/Tina_Text_Battle_AllyND_0, Text,,,Please let me heal them.,,请让我为其治疗。,請讓我為他治療。
+Character/Tina_Text_Battle_AllyND_1, Text,,버텨주세요.,Hang in there.,持ちこたえてください。,坚持住。,堅持住。
+Character/Tina_Text_Battle_Cri_0, Text,,,"One shot, one kill.",一発で終わらせる。,一发入魂。,一發入魂。
+Character/Tina_Text_Battle_Cri_1, Text,,,Terminate.,Terminate.,终止。,終止。
+Character/Tina_Text_Battle_Cri_2, Text,,Clear.,Clear.,Clear.,清理。,清理。
+Character/Tina_Text_Battle_Healed_0, Text,,,Repaired.,,已修复。,已修復。
+Character/Tina_Text_Battle_Healed_1, Text,,감사합니다.,Thank you.,ありがとうございます。,感谢您。,感謝您。
+Character/Tina_Text_Battle_Idle_0, Text,,대기 중……,On standby…,待機中……,待机中……,待機中……
+Character/Tina_Text_Battle_Idle_1, Text,,명령을 내려주세요.,Please give the order.,命令をください。,请下令吧。,請下令吧。
+Character/Tina_Text_Battle_Kill_0, Text,,,Headshot!,Headshot!,爆头！,爆頭！
+Character/Tina_Text_Battle_Kill_1, Text,,,Target down.,倒れた。,目标已倒下。,目標已倒下。
+Character/Tina_Text_Battle_Kill_2, Text,,,Eliminated.,Eliminated.,已清除。,已清除。
+Character/Tina_Text_Battle_ND_0, Text,,의료지원을 요청합니다! ,Sustaining exterior damage.,医療支援を要請します！,需要医疗援助！,需要醫療援助！
+Character/Tina_Text_Battle_Start_0, Text,,준비 완료,"Tina, ready for action.",Tina、準備完了。,缇娜，准备完毕。,緹娜，準備完畢。
+Character/Tina_Text_Battle_Start_1, Text,,,"Ambient temperature is high, need to end the battle quickly.",ここは熱きる、速やかに作戦を終わらせる。,环境温度较高，需尽快结束战斗。,環境溫度較高，需盡快結束戰鬥。
+Character/Tina_Text_Battle_Start_2, Text,,현장에 도착했다.,"This is Tina, I've arrived at the scene.",こじらTina、現場に着いた。,这里是缇娜，我已抵达现场。,這裡是緹娜，我已抵達現場。
+Character/Tina_Text_Battle_Start_3, Text,,기체 상태가 양호하다，전투가 시작되다.,"All systems nominal, commencing battle.",胴体状態良好、作戦を開始する。,身体状况良好，战斗开始。,身體狀況良好，戰鬥開始。
+Character/Tina_Text_Battle_Start_4, Text,,전투가 시작되다.,"Roger, engaging now.",了解、作戦を開始する。,了解，战斗开始。,了解，戰鬥開始。
+Character/Tina_Text_Battle_Start_5, Text,,제 차례인가요?,Is it my turn?,私の出番か？,到我了么？,到我了麼？
+Character/Tina_Text_Battle_Start_6, Text,,,"Ready, where is the enemy target?",準備完了、敵は何処だ？,准备完毕，敌方目标在哪里？,準備完畢，敵方目標在哪裡？
+Character/Tina_Text_Battle_Start_7, Text,,,"No need to worry, I won't be careless.",心配は無用です、油断はProgramされでいませんから。,不必担心，我不会疏忽大意。,不必擔心，我不會疏忽大意。
+Character/Tina_Text_Battle_Start_8, Text,,,"Enemy target location confirmed, moving in.",敵の位置確認完了、移動する。,敌方目标位置已确认，正在移动。,敵方目標位置已確認，正在移動。
+Character/Tina_Text_Battle_Start_9, Text,,,"This is Tina, target confirmed.",こじらTina、目標を確認。,这里是缇娜，目标已确认。,這裡是緹娜，目標已確認。
+Character/Tina_Text_Field_GetItem_0, Text,,정말 가소롭다.,It's hard not to laugh.,可笑しい,令人忍俊不禁。,令人忍俊不禁。
+Character/Tina_Text_Field_GetItem_1, Text,,하하.,Haha.,アハハ。,哈哈。,哈哈。
+Character/Tina_Text_Field_Idle_0, Text,,,No enemy activity detected.,,未发现敌情。,未發現敵情。
+Character/Tina_Text_Field_Idle_1, Text,,탐색 경로가 기록되었습니다.,Exploration path recorded.,探索経路が記録されている。,已记录探索路径。,已記錄探索路徑。
+Character/Tina_Text_Field_Idle_2, Text,,,There might be treasure nearby.,,附近可能存在宝藏。,附近可能存在寶藏。
+Character/Tina_Text_Field_Potion_N_0, Text,,,"Ugh, this tastes awful!",,呜哇，好难喝！,
+Character/Tina_Text_Field_Potion_N_1, Text,,,Are you sure this is drinkable?,,你确定这能喝？,
+Character/Tina_Text_Field_Potion_P_0, Text,,,"Taken as per instructions, potion effectiveness confirmed.",,已按说明书指示服用，药水有效性已确认。,已按說明書指示服用，藥水有效性已確認。
+Character/Tina_Text_Field_Potion_P_1, Text,,,"Perfect in color, aroma, and taste.",,色香味俱全。,色香味俱全。
+Character/Tina_Text_Field_Potion_P_2, Text,,,Finally didn't forget it.,,可算没忘记它。,可算沒忘記它。
+Character/Tina_Text_MasterTarget, Text,,,Did you think I would die?,,你以为我会死么？,你以為我會死麼？
+Character/Tina_Text_PharosLeader_0, Text,,,Firewall activated.,,防火墙已开启。,防火墻已開啟。
+Character/Tina_Text_PharosLeader_1, Text,,,"System garbage collection complete, freed 0.9GB of storage.",,系统垃圾回收完毕，共释放0.9GB存储空间。,系統垃圾回收完畢，共釋放0.9GB存儲空間。
+Character/Tina_Text_Witch_0, Text,,,Let me handle it.,,让我来吧。,讓我來吧。
+Character/Tina_Text_Witch_1, Text,,,Severe damage…,,损伤严重…,損傷嚴重…
+Character/Tina_name, Text,,티나,Tina,チィナ Tina,缇娜,緹娜
+Item_Active/Prop_DebugModeAP_Description, Text,,,Mana +1,,AP+1,
+Item_Active/Prop_DebugModeAP_name, Text,,,Artifact: Mana Crystal,,神器·魔力水晶,
+Item_Active/Prop_DebugModeCard_Description, Text,,,Draw 1 card.,,Draw 1 card.,
+Item_Active/Prop_DebugModeCard_name, Text,,,Artifact: Treasure Bag,,神器·宝藏袋,
+Item_Active/Prop_DebugModeClear_Description, Text,,,Clear all enemies or unlock the next stage.,,Clear all enemy or unlock the entry of next stage.,
+Item_Active/Prop_DebugModeClear_name, Text,,,Artifact: Sylvi's Phone,,神器·李瑟钰的手机,
+Item_Active/Prop_DebugModeTestBattle_Description, Text,,,Enter a test battle.,,Enter a test battle.,
+Item_Active/Prop_DebugModeTestBattle_name, Text,,,Artifact: Combat Power Observer,,神器·战斗力观测器,
+SimpleCampDialogue/CampDial_Iseubi_Azar_Dialogues_0, Text,,[A]아자르，루시와 좀 떨어져 있어요！,"[A]Azar, stay away from Lucy!",[A]アザール、ルシーから離れて！,[A]阿扎尔，离露西远一点！,[B]阿扎爾，離露西遠一點！
+SimpleCampDialogue/CampDial_Iseubi_Azar_Dialogues_1, Text,,[B]왜요?,[B]Why?,[B]なぜ？,[B]为什么？,[B]為什麼？
+SimpleCampDialogue/CampDial_Iseubi_Azar_Dialogues_2, Text,,[A]별다른 이유는 없어요. 그냥 좀 멀리 떨어져 있어요!,"[A]No reason, just stay away from her!",[A]うるさい！彼女から離れて！,[B]没有为什么，离她远一点！,[B]沒有為什麼，裡她遠一點！
+SimpleCampDialogue/CampDial_Iseubi_Hein_Dialogues_0, Text,,[B]당신에게서 광기와 비슷한 무언가를 느꼈습니다.,[B]I sense something akin to madness in you.,[B]俺はお前に狂気と似たものを感じました。,[B]我在你身上感受到了和狂气类似的东西。,[B]我在你身上感受到了和狂氣類似的東西。
+SimpleCampDialogue/CampDial_Iseubi_Hein_Dialogues_1, Text,,[A]제 법술은 일부가 증오에서 나왔습니다.,[A]Some of my magic comes from hatred.,[A]私の魔法、憎しみから来たものもある。,[A]我的法术，也有一部分来自于仇恨。,[A]我的法術，也有一部分來自於仇恨。
+SimpleCampDialogue/CampDial_Iseubi_Ilya_Dialogues_0, Text,,[A]당신의 번개는 왜 노란색인가요?,[A]Why is your lightning yellow?,[A]あなたの雷はどうして黄色ですか？,[A]你的闪电为什么是黄色的？,[A]你的閃電為什麼是黃色的？
+SimpleCampDialogue/CampDial_Iseubi_Ilya_Dialogues_1, Text,,[B]저의 실력이 아직 모자라기 때문인 것 같아요.,[B]Maybe my technique isn't perfect.,[B]私は技術が足りないのかもしれません。,[B]可能是我技术不够完美。,[B]可能是我的技術不夠完美。
+SimpleCampDialogue/CampDial_Iseubi_Ilya_Dialogues_2, Text,,[A]가르쳐줄게요，먼저 전하를 칼끝에 모으고，노출하지 말구요. 그 다음……,"[A]Let me teach you, first concentrate the charge on the blade, don't let it leak. Then…",[A]教えてあげましょう。まず電荷を刃に集中して、外に出さないでください。そして……,[A]我来教你吧，先将电荷集中在刀锋上，不要外露。然后……,[A]我來教你吧，先把電荷集中在刀鋒上，不要外露。然後……
+SimpleCampDialogue/CampDial_Iseubi_Iron_Dialogues_0, Text,,[B]화력을 다하라. 이슬비，우리가 다칠 걱정은 하지 말구요. ,"[B]Go all out, Sylvi, don't worry about hitting us.",[B]火力全開でしょ、ミコトさん、私たちを傷つける心配はありません。,[B]火力全开吧，李瑟钰，不用担心误伤到我们。,[A]火力全開吧，李瑟鈺，不用擔心誤傷到我們。
+SimpleCampDialogue/CampDial_Iseubi_Joey_Dialogues_0, Text,,[B]저런 적들은 모두 쉽게 대처할 수 있습니다.,[B]You handle such powerful enemies with ease.,[B]このような強力な敵にも簡単に対応できる。,[B]这么强大的敌人都能轻松应对。,[B]這麼強大的敵人都能輕鬆應對。
+SimpleCampDialogue/CampDial_Iseubi_Joey_Dialogues_1, Text,,[B]당신은 제가 인정하는 몇몇 안되는 천재입니다.,[B]You're one of the few geniuses I acknowledge.,[B]お前は私に認められた数少ない天才です。,[B]你是为数不多被我认可的天才。,[B]你是為數不多被我認可的天才。
+SimpleCampDialogue/CampDial_Iseubi_Joey_Dialogues_2, Text,,[A]과찬이십니다. 사실 저 역시 못하는 것이 꽤많습니다.,"[A]You flatter me, there are many things I'm not good at.",[A]褒めすぎです。実は私も苦手なものがたくさんあります。,[A]过奖了，实际上我也有好多不擅长的东西。,[A]過獎了，實際上我也有好多不擅長的東西。
+SimpleCampDialogue/CampDial_Iseubi_Leryn_Dialogues_0, Text,,[B]이슬비，그 술을 한번 다시 보여주시겠어요?,"[B]Sylvi, can you show me that move again?",[B]ミコトちゃん、その技をもう一度披露してくれませんか。,[B]李瑟钰，你可以再表演一下那一招嘛？,[B]李瑟鈺，你可以再表演一下那一招嘛？
+SimpleCampDialogue/CampDial_Iseubi_Leryn_Dialogues_1, Text,,[A]좋아요，어느 수를 말하는거죠?,"[A]Sure, which move?",いいですよ。どのスキルですか？,[A]可以喔，是哪一招？,[A]可以喔，是哪一招？
+SimpleCampDialogue/CampDial_Iseubi_Leryn_Dialogues_2, Text,,[B]레일 캐논，그리고 중력장，연구해보구 싶어요.,"[B]The railgun, and the gravity field, I want to study them.",[B]レールガン、グラビティもあるので、検討したいと思います。,[B]电磁枪，还有重力场，我想研究一下。,[B]電磁槍，還有重力場，我想研究一下。
+SimpleCampDialogue/CampDial_Iseubi_Lian_Dialogues_0, Text,,[B]슬비가 방주에 온지 꽤 되었죠.,"[B]It's been a while since Sylvi came to the Ark, right?",[B]ミコトちゃんがアークに来たのも、もうしばらくの間でしょう。,[B]瑟钰来方舟也已经有一段时间了吧。,[B]瑟鈺來方舟也已經有一段時間了吧。
+SimpleCampDialogue/CampDial_Iseubi_Lian_Dialogues_1, Text,,[A]네. 방주에 있는 여러분과 익숙해졌어요.,"[A]Yes, I've gotten familiar with everyone on the Ark.",[A]はい、Arkの皆さんともよく知っています。、,[A]对，和方舟的各位也比较熟悉了。,[A]對，和方舟的各位也比較熟悉了。
+SimpleCampDialogue/CampDial_Iseubi_Lian_Dialogues_2, Text,,[B]조사단에 합류할 생각이 없나요? 당신의 재능을 더욱 잘 발휘할 수 있을거에요.,"[B]Sylvi, have you thought about joining the investigation team? Your talents would be put to good use.",[B]ミコトちゃんは調査団に参加する考えはありますか？あなたの才能はもっと役に立つでしょう。,[B]瑟钰有没有加入调查团的想法？你的才能会有更多用武之地的。,[B]瑟鈺有沒有加入調查團的想法？你的才能會有更多用武之地的。
+SimpleCampDialogue/CampDial_Iseubi_Lian_Dialogues_3, Text,,[A]죄송합니다. 당신들에게 누를 끼칠 것 같습니다. ,"[A]Sorry, I might hold you back.",[A]申し訳ありませんが、私はあなたたちを引きずるかもしれません。,[A]对不起，我可能会拖累你们。,[A]對不起，我可能會拖累你們。
+SimpleCampDialogue/CampDial_Iseubi_Miss_Dialogues_0, Text,,[A]추워요……,[A]So cold…,[A]寒い……,[A]好冷……,[A]好冷……
+SimpleCampDialogue/CampDial_Iseubi_Miss_Dialogues_1, Text,,[B]자，안아줄게요，슬비~,"[B]Come here, Sylvi, let me hug you~",[B]はい、ミコトちゃん~,[B]来吧，瑟钰抱抱~,[B]來吧，瑟鈺抱抱~
+SimpleCampDialogue/CampDial_Iseubi_Narhan_Dialogues_0, Text,,[B](그랬군요…그 세계는…그리고 그녀 자신 또한…),[B](I see… that world… and herself…),[B]（なるほど…あの世界…そして彼女自身…）,[B]（原来是这样…那个世界…还有她自己…）,[B]（原來是這樣…那個世界…還有她自己…）
+SimpleCampDialogue/CampDial_Iseubi_Narhan_Dialogues_1, Text,,[A]나르한，뭘 연구하고 있나요?,"[A]Narhan, what are you researching?",[A]ナールハンさん、何を研究していますか。,[A]纳尔汗，你在研究什么呀？,[A]納爾汗，你在研究什麼呀？
+SimpleCampDialogue/CampDial_Iseubi_Pheonix_Dialogues_0, Text,,[B]이슬비，당신은 오징어를 어떻게 갖고 왔습니까?,"[B]Sylvi, how did you bring the squid here?",[B]ミコト、どうやってイカを持ってきたの？,[B]李瑟钰，你是怎么把乌贼带来的？,[B]李瑟鈺，妳是怎麼把烏賊帶來的？
+SimpleCampDialogue/CampDial_Iseubi_Pheonix_Dialogues_1, Text,,[A]방주쪽에서 보내온 겁니다. 매우 신선합니다!,[A]It was teleported from the Ark. It's very fresh!,[A]Arkから送られてきた。とても新鮮ですよ！,[A]从方舟那边传送过来的。很新鲜的喔！,[A]從方舟那邊傳送過來的，很新鮮的喔！
+SimpleCampDialogue/CampDial_Iseubi_Pheonix_Dialogues_2, Text,,[B]저도 한입 먹어봅시다!,[B]Let me have a bite too!,[B]わしにも一口食べさせて！,[B]让我也吃一口！,[B]讓我也吃一口！
+SimpleCampDialogue/CampDial_Iseubi_Priest_Dialogues_0, Text,,[B]신을 믿습니까?,[B]Do you believe in God?,[B]神を信じますか？,[B]您信神吗？,[B]您信神嗎？
+SimpleCampDialogue/CampDial_Iseubi_Priest_Dialogues_1, Text,,[A]우리 화제를 바꿉시다.,[A]Let's change the subject.,[A]話を変えましょう。,[A]我们换个话题吧。,[A]我們換個話題吧。
+SimpleCampDialogue/CampDial_Iseubi_SilverStein_Dialogues_0, Text,,[B]당신의 공략 규묘는 엄청납니다.,[B]Your attacks are on a massive scale.,[B]あなたの攻撃は規模が大きい。,[B]你的攻击规模很庞大。,[B]妳的攻擊規模很龐大。
+SimpleCampDialogue/CampDial_Iseubi_SilverStein_Dialogues_1, Text,,[B]다음 전투는 당신이 주로 공략하고 제가 당신을 대신해 장애물을 제거하겠습니다.,"[B]For the next battle, you take the lead, and I'll clear the obstacles for you.",[B]次の戦いはあなたが主導して攻撃するほどではありません。俺はあなたのために障害を取り除きます。,[B]下一场战斗不如你来主攻，我替你清除障碍。,[B]下一場戰鬥妳來主攻，我替你清除障礙。
+SimpleCampDialogue/CampDial_Iseubi_SilverStein_Dialogues_2, Text,,[A]네.,"[A]Alright, I'll follow your lead.",[A]はい。,[A]好，听你的。,[A]好，聽你的。
+SimpleCampDialogue/CampDial_Iseubi_Sizz_Dialogues_0, Text,,[B]슬비，아직 직업이 없으신가봐요?,"[B]Sylvi, you don't have a job yet, do you?",[B]ミコトちゃん、まだ仕事をしていないようですね。,[B]瑟钰好像，还没有工作吧？,[B]瑟鈺好像，還沒有工作吧？
+SimpleCampDialogue/CampDial_Iseubi_Sizz_Dialogues_1, Text,,[A]네. 전 잘하는 것이 없습니다. 배우는 것도 매우 느려 어디 가도 폐만 끼칩니다.,"[A]Yes, I’m not good at anything. I learn things very slowly, and wherever I go, I just end up being a burden.",[A]うん、私は何も得意ではないし、勉強も遅いし、どこに行っても邪魔をしている。,[A]嗯，我什么都不擅长，学东西也很慢，去哪里都是在添乱。,[A]嗯，我什麼都不擅長，學東西也很慢，去哪裡都是在添亂。
+SimpleCampDialogue/CampDial_Iseubi_Sizz_Dialogues_2, Text,,[B]아닙니다! 조사단에 합류하십시오!,[B]No! Please join the investigation team!,[B]いいえ！調査団に入ろう！,[B]不会的！来加入调查团吧！,[B]不會的！來加入調查團吧！
+SimpleCampDialogue/CampDial_Iseubi_Sizz_Dialogues_3, Text,,[B]왜곡된 땅의 괴물을 때리는데는 슬비가 가장 강합니다.,"[B]When it comes to dealing with monsters from the Distorted Land, Sylvi is the best.",[B]歪んだ地の怪物に対処するには、ミコトちゃんが一番だ。,[B]打那些扭曲之地的怪物，瑟钰最厉害了。,[B]打那些扭曲之地的怪物，瑟鈺最厲害了。
+SimpleCampDialogue/CampDial_Iseubi_Trisha_Dialogues_0, Text,,[b]이슬비，자네도 암살자인가?,[B]Are you an assassin too?,[B]お前はも刺客か？,[B]你也是一名刺客？,[B]妳也是一名刺客？
+SimpleCampDialogue/CampDial_Iseubi_Trisha_Dialogues_1, Text,,[B]아니요.,"[A]No, I’m not.",[B]違うよ。,[A]并不是啦。,[A]並不是啦。
+SimpleCampDialogue/ClosersCampDial_Iseubi_TinaA_Dialogues_0,Text,,,[A]I’m so bored.,,[A]好无聊。,
+SimpleCampDialogue/ClosersCampDial_Iseubi_TinaA_Dialogues_1,Text,,,"[A]I’ve already rewatched ""Love and Interdimensional War"" several times.",,[A]《恋爱与异次元战争》都已经刷了好几遍了。,
+SimpleCampDialogue/ClosersCampDial_Iseubi_TinaA_Dialogues_2,Text,,,[B]I’ve saved some other anime. Want to watch?,,[B]我还保存了其他的动漫，要看么？,
+SimpleCampDialogue/ClosersCampDial_Iseubi_TinaA_Dialogues_3,Text,,,"[A]Yes, yes, I want to watch!",,[A]好呀好呀，我要看！,
+SimpleCampDialogue/ClosersCampDial_Iseubi_TinaA_Dialogues_4,Text,,,"[B]Then let’s watch this one, ""Dreaming of Becoming a Closer"".",,[B]那就这一部吧，《憧憬成为封印者》,
+SimpleCampDialogue/ClosersCampDial_Iseubi_TinaA_Dialogues_5,Text,,,[A]Don’t… don’t play it here!,,[A]别…别在这里播呀！,
+SimpleCampDialogue/ClosersCampDial_Iseubi_TinaB_Dialogues_0,Text,,,[B]Do you still remember New Seoul?,,[B]你还记得新首尔吗？,
+SimpleCampDialogue/ClosersCampDial_Iseubi_TinaB_Dialogues_1,Text,,,[A]New Seoul… It’s such a pity. I’ll never see it again.,,[A]新首尔…太遗憾了，我再也看不到它。,
+SimpleCampDialogue/ClosersCampDial_Iseubi_TinaB_Dialogues_2,Text,,,"[A]Suddenly, everything you were familiar with was gone.",,[A]突然间，你熟悉的一切都不见了。,
+SimpleCampDialogue/ClosersCampDial_Iseubi_TinaB_Dialogues_3,Text,,,[B]Everything we did back then had meaning.,,[B]那时我们所做的一切都是有意义的。,
+SimpleCampDialogue/ClosersCampDial_Iseubi_TinaB_Dialogues_4,Text,,,[A]I really want to see Angel again.,,[A]我真的想再看看安琪儿。,
+SimpleCampDialogue/ClosersCampDial_Iseubi_TinaB_Dialogues_5,Text,,,[B]And Milky Way and Luna too.,,[B]还有银河和露娜。,
+SimpleCampDialogue/ClosersCampDial_Iseubi_TinaC_Dialogues_0,Text,,,[A]“Sometimes I feel like we’re just puppets on strings.”,,[A]“有些时候我觉得我们就像提线木偶。”,
+SimpleCampDialogue/ClosersCampDial_Iseubi_TinaC_Dialogues_1,Text,,,"[A]“Dancing a ridiculous dance, with our lives and deaths in someone else’s hands.”",,[A]“跳着滑稽的舞蹈，生死命于人手。”,
+SimpleCampDialogue/ClosersCampDial_Iseubi_TinaC_Dialogues_2,Text,,,[B]Don’t think like that at night. Go to sleep quickly.,,[B]晚上就不要这样了，快点睡吧。,
+SimpleCampDialogue/ClosersCampDial_Iseubi_TinaC_Dialogues_3,Text,,,[A]I want a kiss.,,[A]我要亲一个。,
+SimpleCampDialogue/ClosersCampDial_Iseubi_TinaC_Dialogues_4,Text,,,[B]I can’t handle you…,,[B]真拿你没办法……,
+SimpleCampDialogue/ClosersCampDial_Iseubi_TinaD_Dialogues_0,Text,,,[A]How did we meet again?,,[A]我们是怎么认识的来着？,
+SimpleCampDialogue/ClosersCampDial_Iseubi_TinaD_Dialogues_1,Text,,,[B]The first time we met was probably right after you finished the mission at Guro Station.,,[B]我们第一次见面，应该是在你刚结束九老地铁站的任务的时候。,
+SimpleCampDialogue/ClosersCampDial_Iseubi_TinaD_Dialogues_2,Text,,,"[B]Back then, you were trying to save Yulia, while our mission was to kill her. So you fought with Nata.",,[B]那时你要救尤利娅，而我们的任务是杀掉她。你就和纳塔打了起来。,
+SimpleCampDialogue/ClosersCampDial_Iseubi_TinaD_Dialogues_3,Text,,,"[A]After that, it seemed like I didn’t see you for a long time.",,[A]后来好像好长一段时间都没见到你。,
+SimpleCampDialogue/ClosersCampDial_Iseubi_TinaD_Dialogues_4,Text,,,"[B]Right, later we teamed up to take down Gerard.",,[B]对，后来我们一起讨伐杰拉德。,
+SimpleCampDialogue/ClosersCampDial_Iseubi_TinaD_Dialogues_5,Text,,,[A]I can’t believe I forgot something so important. My memories are getting a little hazy.,,[A]这么重要的事情，我都忘了。记忆渐渐有些模糊了。,
+SimpleCampDialogue/ClosersCampDial_Iseubi_TinaE_Dialogues_0,Text,,,[A]Catch your heart~,,[A]Catch your heart~,
+SimpleCampDialogue/ClosersCampDial_Iseubi_TinaE_Dialogues_1,Text,,,[A]Love is like a fever~,,[A]Love is like a fever~,
+SimpleCampDialogue/ClosersCampDial_Iseubi_TinaE_Dialogues_2,Text,,,[B]I remember this song is a duet.,,[B]我记得这首歌是两个人对唱的。,
+SimpleCampDialogue/ClosersCampDial_Iseubi_TinaE_Dialogues_3,Text,,,[A]Can Tina sing it with me?,,[A]那缇娜可以一起唱嘛？,
+SimpleCampDialogue/ClosersCampDial_Iseubi_TinaF_Dialogues_0,Text,,,[B]Have you ever tried grilled pork offal?,,[B]试过烤猪杂么？,
+SimpleCampDialogue/ClosersCampDial_Iseubi_TinaF_Dialogues_1,Text,,,[A]I remember when I first became a Closer.,,[A]我记得我刚当上封印者时。,
+SimpleCampDialogue/ClosersCampDial_Iseubi_TinaF_Dialogues_2,Text,,,"[A]Every month, I would take the Black Sheep team to Sulin’s place to order this dish.",,[A]我每个月都会带黑羊小队去苏琳那边点这道菜。,
+SimpleCampDialogue/ClosersCampDial_Iseubi_TinaF_Dialogues_3,Text,,,[B]Want to try mine?,,[B]要不要试试我烤的？,
+SimpleCampDialogue/ClosersCampDial_Iseubi_TinaG_Dialogues_0,Text,,,"[A]The other day, I watched a movie on the Ark.",,[A]我前些日子在方舟看了一部电影。,
+SimpleCampDialogue/ClosersCampDial_Iseubi_TinaG_Dialogues_1,Text,,,[B]Don’t tell me it’s another horror movie.,,[B]不会又是恐怖电影吧。,
+SimpleCampDialogue/ClosersCampDial_Iseubi_TinaG_Dialogues_2,Text,,,"[A]Yes, I really liked it.",,[A]对，我挺喜欢的。,
+SimpleCampDialogue/ClosersCampDial_Iseubi_TinaG_Dialogues_3,Text,,,"[A]It’s called ""The Dog Fairy"". Super scary, with electric claws.",,[A]就是那部《狗妖精》。超级吓人，爪子带电。,
+SimpleCampDialogue/ClosersCampDial_Iseubi_TinaG_Dialogues_4,Text,,,"[A]If you say its name four times in a row, it will come for you.",,[A]如果你连读它的名字四次，它就会来找你。,
+SimpleCampDialogue/ClosersCampDial_Iseubi_TinaG_Dialogues_5,Text,,,[A]It will catch you at all costs.,,[A]不惜一切代价把你抓住。,
+SimpleCampDialogue/ClosersCampDial_Iseubi_TinaG_Dialogues_6,Text,,,"[B]You’ve seen all kinds of dimensional beasts, and you find this scary?",,[B]见过各种各样次元兽的你，居然会觉得它吓人吗……,
+Skill/CL_iseubi0_0_Description, Text,,"비트+25
+[비트: 약점 공략] 8개 획득
+손에 있는 모든 [E]스킬은 이번 전투 동안 치명타 피해+15%","Magic Fragment +25
+Gain 8 stacks of ""Critical Strike""
+All electromagnetic skills in hand gain +15% critical damage during this battle.","ビット+25
+8層【弱点ヒット】を獲得する
+手にしたすべての雷遁スキルがこの戦闘中に致命的な一撃ダメージ+15%","魔法碎片+25
+获得8层【致命打击】
+手中所有電磁技能在本场战斗期间暴击伤害+15%","魔法碎片+25
+獲得8層【致命打擊】
+手中所有電磁技能在本場戰鬥期間暴擊傷害+15%"
+Skill/CL_iseubi0_0_Name, Text,,[E]전하 에너지 충전,Charge Energy,でんこうせっか,电荷充能,電荷充能
+Skill/CL_iseubi0_1_Description, Text,,자기에게 1중첩 [윔홀]을 부여하고 모든 과부하를 제거합니다. 대기 횟수+1,"Apply 1 stack of ""Wormhole"" to self and remove all Overload. Gain +1 Standby count.",自身に1層の「飛雷神準備」を施し、自身の過負荷をすべて取り除く。待機回数+1。,对自身施加1层【虫洞】并消除自身所有过载。等待次数+1。,對自身施加一層【蟲洞】並消除自身所有過載。等待次數+1。
+Skill/CL_iseubi0_1_Name, Text,,[S]프로파우더,Skyward Swallow Dance: Flash Shadow,時空疾風閃光連の段・零式,天翔燕舞光瞬影,天翔燕舞光瞬影
+Skill/CL_iseubi0_2_Description, Text,,이슬비가 적어도 3개 비트를 가지고 있다면 3개 비트를 소모하여 모든 적에게 포획을 부여합니다(100%<sprite=2>).,"If Sylvi has at least 3 Magic Fragments, consume 3 and apply Grab to all enemies (100% <sprite=2>).","ビット消費スキル(3個)
+すべての敵に捕まえたを加えます（100%<sprite=2>）。",若李瑟钰拥有至少3枚魔法碎片，则消耗3枚魔法碎片并对所有敌人施加抓取(100%<sprite=2>)。,若李瑟鈺擁有至少3枚魔法碎片，則消耗3枚魔法碎片並對所有敵人施加抓取(100%<sprite=2>)。
+Skill/CL_iseubi0_2_Name, Text,,[G]10배 지구 인력,Tenfold Gravity,エコーズ ACT3,十倍地心引力,十倍地心引力
+Skill/CL_iseubi0_Description, Text,,"다음 세가지 옵션중 하나를 선택합니다
+-[E]전하 에너지 충전
+-[S]프로파우더
+-[G]10배 지구 인력
+옵션 효과에 따라 우선적으로 대응하는 스킬을 2개 뽑습니다.","Choose one effect to trigger:
+- Charge Energy
+- Skyward Swallow Dance: Flash Shadow
+- Tenfold Gravity
+Draw 2 skills of the corresponding type based on the chosen effect.","選択:
+ -でんこうせっか
+ -時空疾風閃光連の段・零式
+ -エコーズ ACT3","选择一个效果触发：
+ -电荷充能
+ -天翔燕舞光瞬影
+ -十倍地心引力
+根据选择的效果优先抽取2个对应类型的技能。","選擇一個效果觸發：
+ -電荷充能
+ -天翔燕舞光瞬影
+ -十倍地心引力
+ 根據選擇的效果優先抽取2個對應類型的技能。"
+Skill/CL_iseubi0_Name, Text,,퀸 오브 하트 포메이션,Queen of Hearts,ハート クイーン,红桃Q,紅桃Q
+Skill/CL_iseubi1_0_Description, Text,,대기+1,Add 1 Standby count.,待機+1,等待次数+1。,等待次數+1。
+Skill/CL_iseubi1_0_Name, Text,,위상력 개방,Concentration,位相力解放,聚精会神,聚精會神
+Skill/CL_iseubi1_1_Description, Text,,교환할 수 +1,Add 1 Exchange count.,交換+1,换牌次数+1。,換牌次數+1。
+Skill/CL_iseubi1_1_Name, Text,,치명적인 위상력,Relentless Pursuit,位相増幅,乘胜追击,乘勝追擊
+Skill/CL_iseubi1_Description, Text,,"가져오는 방법: Pluralism 1 개 전투 완료
+전체 조사원의 과부하 수에 따라 비용을 늘리다.
+우선적으로 루시 스킬을 2개 뽑고 신속을 부여하되 [핏빛 안개]와 루시 저주 스킬은 이에 포함되지 않습니다.
+다음 두가지 옵션중 하나를 선택합니다.
+ -위상력 개방
+ -치명적인 위상력
+","Obtained by completing 1 battle under the Pluralism archetype.
+Cost increases based on the total Overload of all investigators.
+Prioritize drawing 2 Lucy skills, granting Haste, excluding ""Bloody Mist"" and Lucy's curse skills.
+Choose one effect to trigger:
+- Focused Mind
+- Relentless Pursuit
+<b>If the archetype is changed, this skill will be lost.</b>","取得方法：Pluralism、1つの戦闘をクリアする
+調査団員全員のオーバロードに応じて費用を増やす。
+優先的に2つのルシースキルを抽出し、迅速に付属し、【血霧】とルシーのジンクスは含まれていない。
+効果トリガを選択します。
+-位相力解放
+-位相増幅","获得方式：在Pluralism流派下完成1场战斗
+根据全体调查员的过载增加费用。
+优先抽取两个露西技能，附带迅速，不包括【血色迷雾】和露西诅咒技能。
+选择一个效果触发：
+ -聚精会神
+ -乘胜追击
+<b>若变更流派，则会失去此技能。</b>","獲得方式：在Pluralism流派下完成1場戰鬥。
+根據全體調查員的過載增加費用。
+優先抽取兩個露西技能，附帶迅速，不包括【血色迷霧】和露西詛咒技能。
+選擇一個效果觸發：
+ -聚精會神
+ -乘勝追擊
+<b>若變更流派，則會失去此技能</b>"
+Skill/CL_iseubi1_Name, Text,,퀸 오브 하트 포메이션,Synergy: Sylvi Lee,キラークイーン,协同作战：李瑟钰,協同作戰：李瑟鈺
+Skill/CL_tina0_Description, Text,,"사용 후 &a (우방인원수) 회 교환 횟수를 증가.
+고정 능력형식으로 사용하면 비용-1, 효과는 모든 손패를 포기하고 포기수 + 1장의 카드를 추출하는 것으로 변경됩니다.
+전투가 시작될 때, 파티 내 캐릭터 【티나】가 존재하면, 【티나】의 고정 능력【장전 탄약】으로 변경됩니다.","After use, increase Exchange count by &a (number of allies).
+If used as a fixed ability, cost -1, effect changes to discard all cards in hand and draw discarded cards + 1.
+At the start of battle, if Tina is in the party, Tina's fixed ability is replaced with ""Reload"".","使用後に&a（味方人数）回のCard交換回数を増やす。
+能力を固定した形で使用すると、Cost-1、効果はすべての手札を廃棄し、廃棄数+1枚の札を抽出するように変更される。
+戦闘開始時に、チーム内にTinaが存在すると、Tinaの固定能力は【弾薬装填】に置き換えられる。","使用后增加 &a (友方人数)次换牌次数。
+若以固定能力的形式使用，则费用-1，效果变更为弃置所有手牌，抽取弃置数+1张牌。
+战斗开始时，队伍内若存在角色【缇娜】，则【缇娜】的固定能力被更换为【重新装弹】。","使用後增加 &a (友方人數)次換牌次數。
+若以固定能力的形式使用，則費用-1，效果變更為棄置所有手牌，抽取棄置數+1張牌。
+戰鬥開始時，隊伍內若存在角色【緹娜】，則【緹娜】的固定能力被更換為【重新裝彈】。"
+Skill/CL_tina0_Name, Text,,장전 탄약,Reload,弾薬装填,重新装弹,重新裝彈
+Skill/CL_tina1_0_Description, Text,,"AP+1
+경기장에서 체력치가 가장 낮은 적에게 &a (공격력 100%, 최소 14) 데미지를 입힙니다.
+체력치가 절반 이하인 목표를 지정하면 이번 공격은 반드시 적중하고 치명타가 된다.","Mana +1.
+Deal &a (100% of Attack, minimum 14) damage to the enemy with the lowest HP on the field.
+If the target has less than half HP, this attack will always hit and always crit.","AP+1
+Field上で体力値が最も低い敵に&a（攻撃力100%、少なくとも14）Damageを与える。
+体力値が半分以下の目標を指定すると、この攻撃は必ず命中し、必ず致命的になる。","法力值+1。
+对场上体力值最低的敌方造成 &a (攻击力100%，至少为14)点伤害。
+若指定了体力值低于一半的目标，则此次攻击必定命中且必定暴击。","法力值+1。
+對場上體力值最低的敵方造成 &a (攻擊力100%，至少為14)點傷害。
+若指定了體力值低於一半的目標，則此次攻擊必定命中且必定暴擊。"
+Skill/CL_tina1_0_Name, Text,,공격 신호,Assault Signal,進攻信号,进攻信号,進攻信號
+Skill/CL_tina1_1_Description, Text,,"대기 회수 1 증가
+팀 전체에 &a(대원 HP 상한선 합계¹4)점벽을을 가함.","Standby count +1.
+Apply &a (total HP of team members ÷ 4) points of barrier to the entire team.","待機回数+1
+チーム全体に&a（HP上限総和÷4）防壁を施す。","等待次数+1。
+为全队施加 &a (队员HP上限总和÷4)点防护墙。","等待次數+1。
+為全隊施加 &a (隊員HP上限總和÷4)點防護墻。"
+Skill/CL_tina1_1_Name, Text,,방어 신호,Defense Signal,防禦信号,防守信号,防守信號
+Skill/CL_tina1_2_Description, Text,,"교환 횟수+1
+전체 회복&a(치료력 140%)점 체력치.
+팀 내에 티나캐릭터가 있고 치료 캐릭터가 없으면 구급가방2장이 생성됩니다.그렇지 않으면 우선 치료 스킬 2개를 뽑습니다.","Exchange count +1.
+Restore &a (140% of Healing Power) HP to the entire team.
+If Tina is in the party and there is no healer, generate 2 ""First Aid Kit"". Otherwise, prioritize drawing 2 healing skills.","交換回数+1
+全体回復&a（治療力140%）点体力値。
+チーム内にティナがいて治療役がいなければ、【救急箱】が2枚生成される。そうでなければ、2つの治療スキルを優先的に抽出します。","换牌次数+1。
+全体恢复 &a (治疗力140%)点体力值。
+若队伍内有缇娜且没有治疗角色，则生成两张【急救包】。否则优先抽取2个治疗技能。","換牌次數+1。
+全體回復 &a (治療力140%)點體力值。
+若隊伍內有緹娜且沒有治療角色，則生成兩張【急救包】。否則優先抽取2個治療技能。"
+Skill/CL_tina1_2_Name, Text,,응급 신호,Emergency Signal,救急信号,急救信号,急救信號
+Skill/CL_tina1_3_Description, Text,,,"Prioritize drawing 2 Lucy cards, granting Haste.",,优先抽取两张露西的牌，附带迅速。,優先抽取兩張露西的牌，附帶迅速。
+Skill/CL_tina1_3_Name, Text,,보급 신호,Supply Signal,補給信号,补给信号,補給信號
+Skill/CL_tina1_Description, Text,,"획득 방법: 팀 내에 임의의 클로저스가 존재합니다.
+선택:
+- 공격 신호
+- 방어 신호
+- 응급 신호
+- 보급 신호
+<b>다른 티나레어 스킬을 획득하면 이 스킬을 잃게 됩니다.</b>","Obtained by having any Closer in the team.
+Choose:
+- Assault Signal
+- Defense Signal
+- Emergency Signal
+- Supply Signal
+<b>If another rare skill of Tina is obtained, this skill will be lost.</b>","獲得方法：チーム内に任意のクロザスClosersが存在する。
+選択:
+-攻撃信号
+-防禦信号
+-救急信号
+-補給信号
+<b>他のTinaのレアスキルを手に入れると、その技を失うことになる。</b>","获得方式：队伍内存在任意封印者。
+选择：
+ -进攻信号
+ -防守信号
+ -急救信号
+ -补给信号
+<b>若获得了其他缇娜的稀有技能，则会失去此技能。</b>","獲得方式：隊伍內存在任意封印者。
+選擇：
+ -進攻信號
+ -防守信號
+ -急救信號
+ -補給信號
+<b>若獲得了其他緹娜的稀有技能，則會失去此技能。</b>"
+Skill/CL_tina1_Name, Text,,합동기 : 베테라누스 포메이션,Synergy: Tina,スペード エース,协同作战：缇娜,協同作戰·緹娜
+Skill/C_iseubi0_Description, Text,,"적중 후 &a회 반복 시전합니다.
+비트+&b.
+고정 능력으로 낼 경우 냉각시에 <b>비트로 스킬 소모</b>를 내면 고정 능력을 바로 새로고침합니다.","Repeat casting &a times after hitting.
+Magic Fragment +&b.
+When used as a fixed ability, if a <b>Magic Fragment-consuming skill</b> is used during cooldown, immediately refresh the fixed ability.","&a回の連続攻撃を加える
+ビット生成スキル(&b個)
+固定能力に置くし、ビットを消費する場合、固定能力をもう一度使える","命中后重复释放&a次。
+魔法碎片+&b。
+作为固定能力使用时，若在冷却时使用<b>魔法碎片消耗技能</b>，则立即刷新固定能力。","命中後重複釋放&a次。
+魔法碎片+&b。
+作為固定能力使用時，若在冷卻時間使用<b>魔法碎片消耗技能</b>，則立即刷新固定能力。"
+Skill/C_iseubi0_Name, Text,,[G]규율의 칼날,Gravity: Blade of Discipline,パニッシュメント,引力·戒律之刃,引力·戒律之刃
+Skill/C_iseubi10_Description, Text,,"비트+1
+현재 첫 번째 턴인 경우 1중첩 [윔홀] 및 비트+1을 추가로 획득합니다. ","Magic Fragment +1
+If it is the first turn, gain an additional stack of ""Wormhole"" and Magic Fragment +1.","ビット生成スキル(1個)
+現在第1ラウンドであれば、自分で追加で「飛雷神準備」とビット+1を獲得する","魔法碎片+1
+若当前是第一回合，则自身额外获得一层【虫洞】且魔法碎片+1","魔法碎片+1
+若當前是第一回合，則自身額外獲得一層【蟲洞】且魔法碎片+1"
+Skill/C_iseubi10_Name, Text,,[S]입장곡,Space: Overture,飛雷神·でんこうわれくう序曲,空间·入场曲,空間·入場曲
+Skill/C_iseubi11_0_Description, Text,,"선택한 스킬을 손패의 가장 위측으로 이동합니다.
+적 대상 스킬을 선택한 경우 이번 전투 동안 선택한 스킬은 대상에게 번개 체인을 부여할 수 있습니다(110%<sprite=1>)
+선택한 스킬이 ‘전투 시작시 덱에 없던 스킬’이면 이를 삭제하고 비트 3개를 획득합니다.","Move the selected skill to the top of the hand.
+If an enemy-targeting skill is selected, during this battle, the selected skill can apply ""Lightning Chain"" to the target (110% <sprite=1>).
+If the selected skill is not in the deck at the start of battle, delete it and gain 3 fragments.","選択したスキルを手札の一番上に移動します。
+敵を指すスキルが選択されている場合、この戦闘中、選択されたスキルはターゲットに「でんりゅう」を施すことができます（110%<sprite=1>）
+選択したスキルが「戦闘開始時にデッキに存在しないスキル」であれば削除し、3枚のbitを獲得します。","将选中的技能移动到手牌最上方。
+若选中了指向敌方的技能，则本场战斗期间，所选技能将可以对目标施加闪电链(110%<sprite=1>)
+若选中的技能是“战斗开始时不在牌库中的技能”，则将其删除，并获得3枚碎片。","將選中的技能移動到手牌最上方。
+若選中了指向敵方的技能，則本場戰鬥期間，所選技能將可以對目標施加閃電鏈(110%<sprite=1>)
+若選中的技能是“戰鬥開始時不在牌庫中的技能”，則將其刪除，並獲得3枚碎片。"
+Skill/C_iseubi11_0_Name, Text,,선택한 스킬을 손패(덱)의 가장 위측으로 이동합니다.,Move to Top,一番上に移動,移动到最上方,移動到最上方
+Skill/C_iseubi11_1_Description, Text,,"선택한 스킬을 손패의 가장 아래측으로 이동합니다.
+적 대상 스킬을 선택한 경우 이번 전투 동안 선택한 스킬은 대상에게 번개 체인을 부여할 수 있습니다(110%<sprite=1>)
+선택한 스킬이 ‘전투 시작시 덱에 없던 스킬’이면 이를 삭제하고 비트 3개를 획득합니다.","Move the selected skill to the bottom of the hand.
+If an enemy-targeting skill is selected, during this battle, the selected skill can apply ""Lightning Chain"" to the target (110% <sprite=1>).
+If the selected skill is not in the deck at the start of battle, delete it and gain 3 fragments.","選択したスキルを手札の一番下に移動します。
+敵を指すスキルが選択されている場合、この戦闘中、選択されたスキルはターゲットに「でんりゅう」を施すことができます（110%<sprite=1>）
+選択したスキルが「戦闘開始時にデッキに存在しないスキル」であれば削除し、3枚のbitを獲得します","将选中的技能移动到手牌最下方。
+若选中了指向敌方的技能，则本场战斗期间，所选技能将可以对目标施加闪电链(110%<sprite=1>)
+若选中的技能是“战斗开始时不在牌库中的技能”，则将其删除，并获得3枚碎片。","將選中的技能移動到手牌最下方。
+若選中了指向敵方的技能，則本場戰鬥期間，所選技能將可以對目標施加閃電鏈(110%<sprite=1>)
+若選中的技能是“戰鬥開始時不在牌庫中的技能”，則將其刪除，並獲得3枚碎片。"
+Skill/C_iseubi11_1_Name, Text,,선택한 스킬을 손패의 가장 아래측으로 이동합니다.,Move to Bottom,一番下に移動,移动到最下方,移動到最下方
+Skill/C_iseubi11_Description, Text,,"다음 두가지 옵션중 하나를 선택합니다.
+-선택한 스킬을 손패(덱)의 가장 위측으로 이동합니다.
+-선택한 스킬을 손패의 가장 아래측으로 이동합니다.
+적 대상 스킬을 선택한 경우 이번 전투 동안 선택한 스킬은 대상에게 번개 체인을 부여할 수 있습니다(110%<sprite=1>)
+선택한 스킬이 ‘전투 시작시 덱에 없던 스킬’이면 이를 삭제하고 비트 3개를 획득합니다.","Choose:
+- Move the selected skill to the top of the hand.
+- Move the selected skill to the bottom of the hand.
+If an enemy-targeting skill is selected, during this battle, the selected skill can apply ""Lightning Chain"" to the target (110% <sprite=1>).
+If the selected skill is not in the deck at the start of battle, delete it and gain 3 fragments.","選択:
+-選択したスキルを手札の一番上に移動します。
+-選択したスキルを手札の一番下に移動します。
+敵を指すスキルが選択されている場合、この戦闘中、選択されたスキルはターゲットに「でんりゅう」を施すことができます（110%<sprite=1>）
+選択したスキルが「戦闘開始時にデッキに存在しないスキル」であれば削除し、3枚のbitを獲得します。","选择：
+ -将选中的技能移动到手牌最上方。
+ -将选中的技能移动到手牌最下方。
+若选中了指向敌方的技能，则本场战斗期间，所选技能将可以对目标施加闪电链(110%<sprite=1>)
+若选中的技能是“战斗开始时不在牌库中的技能”，则将其删除，并获得3枚碎片。","選擇：
+ -將選中的技能移動到手牌最上方。
+ -將選中的技能移動到手牌最下方。
+若選中了指向敵方的技能，則本場戰鬥期間，所選技能將可以對目標施加閃電鏈(110%<sprite=1>)
+若選中的技能是“戰鬥開始時不在牌庫中的技能”，則將其刪除，並獲得3枚碎片。"
+Skill/C_iseubi11_Name, Text,,[E]번개 칼날,Electromagnetic: Lightning Blade,雷遁·雷の刀,电磁·闪电刀锋,電磁·閃電刀鋒
+Skill/C_iseubi12_0_Description, Text,,"제외 및 잊기 [E]결전기 : 레일 캐논. 모든 비트 : 루시와 비트: 약점 공략를 소모합니다.
+공격력 40%*x(합계&b%)인 추가 피해를 입힙니다(x 소모된 파편과 비트: 약점 공략의 층수)","Banish and forget ""Electromagnetic: Rail Cannon"", consuming all Lucy's Magic Fragments and Critical Strikes.
+Deal additional damage equal to 40%*x (total &b%) of Attack (x is the number of consumed fragments and Critical Strike stacks).","除外して忘れて雷遁·超電磁砲。すべての'ルシーのビット'と'弱点ヒット'を消費します。
+攻撃力40%*x(合計&b%)の追加ダメージを与える（xは消費ビットと弱点ヒット数）","放逐并遗忘电磁·超电磁炮，消耗所有露西的魔法碎片与致命打击。
+造成攻击力40%*x(共&b%)的额外伤害。（x为消耗的碎片与致命打击的层数）","放逐並遺忘電磁·超電磁砲，消耗所有露西的魔法碎片與致命打擊。
+造成攻擊力40%*x(共&b%)的額外傷害（x為消耗的碎片與致命打擊的層數）"
+Skill/C_iseubi12_0_Name, Text,,극한 불꽃,Final Spark,ファイナルフラッシュ,极限火花,極限火花
+Skill/C_iseubi12_1_Description, Text,,반복 시전 x(&a)회(x는 소모한 비트 수),Repeat casting x(&a) times (x is the number of consumed fragments).,繰り返しリリースx(&a)回（xは消費ビット数）,重复释放x(&a)次（x为消耗的碎片数量）,重複釋放x(&a)次（x為消耗的碎片數量）
+Skill/C_iseubi12_1_Name, Text,,광각 소사,Prismatic Sweep,小惑星帯,光棱扫射,光棱掃射
+Skill/C_iseubi12_Description, Text,,"모든 비트를 소모하여 비트가 없을 경우 공격 불가
+비트 5개를 가지고 있을 때마다 비용+1 증가(최대+4)
+다음 두가지 옵션중 하나를 선택합니다
+-광각 소사(추가 횟수: &a)
+-극한 불꽃(추가 데미지: &b%)","Consume all fragments. Cannot be used if no fragments are available.
+For every 5 fragments, cost +1 (max +4).
+Choose one effect to trigger:
+- Prismatic Sweep (Extra times: &a)
+- Final Spark (Extra damage: &b%).","ビット消費スキル(全て)
+5ビットごとにMana+1（最大+4）
+選択：
+ -小惑星帯(余分な回数: &a)
+ -ファイナルフラッシュ(Extra damage: &b%)","消耗所有碎片，没有魔法碎片时不可发动
+每拥有5个碎片，费用+1（最多+4）
+选择一个效果触发：
+ -光棱扫射（额外次数：&a）
+ -极限火花（额外伤害：&b%）","消耗所有碎片，沒有魔法碎片時不可發動
+每擁有5個碎片，費用+1（最多+4）
+選擇一個效果觸發：
+ -光棱掃射（額外次數：&a）
+ -極限火花（額外傷害：&b%）"
+Skill/C_iseubi12_Name, Text,,[E]결전기 : 레일 캐논,Electromagnetic: Rail Cannon,雷遁·超電磁砲,电磁·超电磁炮,電磁·超電磁砲
+Skill/C_iseubi13_0_Description,Text,,,,,,
+Skill/C_iseubi13_0_Name,Text,,,Space: Subway Strike,,飞雷神·地铁直击,
+Skill/C_iseubi13_Description, Text,,"적중 후 다른 모든 적에게 공격력 100%인 피해를 입힙니다
+현장에 한개 대상이 있을 때마다 비트 2개를 생성합니다
+현장에 [비콘] 표기의 대상 또는 자신이 [윔홀]에 처해 있을 경우 비용이 1 감소되고 신속을 획득합니다.
+현장에 [비콘] 표기의 대상 또는 체력이 50% 이하인 대상이 있을 경우 치명을 부여합니다.","After hitting, deal 100% of Attack to all other enemies.
+Generate 2 fragments for each target on the field.
+If a target with ""Beacon"" is on the field or you are in ""Wormhole"" state, cost -1 and gain Haste.
+If a target with ""Beacon"" and HP below 50% of max HP is on the field, apply Fatal.","ビット消費スキル(2*敵の数個)
+命中すると他のすべての敵に攻撃力100%のダメージを与える
+フィールド上に「飛雷神術式」を持つターゲットが存在するか、自分が「飛雷神準備」にある場合、Cost-1で迅速に獲得されます。
+フィールド上に「飛雷神術式」があり、体力値が体力値上限の50%未満の目標があれば、致命的になる。","命中后对其他所有敌人造成攻击力100%的伤害
+场上每存在一个目标都会生成2个碎片
+若场上存在带有【信标】的目标或自身处于【虫洞】状态下，费用-1并获得迅速。
+若场上存在带有【信标】且体力值低于体力值上限50%的目标，则附带致命。","命中後對其他所有敵人造成攻擊力100%的傷害
+場上每存在一個目標都會生成2個碎片
+若場上存在帶有【信標】的目標或自身處於【蟲洞】狀態下，費用-1並獲得迅速。
+若場上存在帶有【信標】且體力值低於體力值上限50%的目標，則附帶致命。"
+Skill/C_iseubi13_Name, Text,,[S]결전기 : 지하철 직격,Space: Subway Strike,飛雷神·ぶらり廃駅下車の旅,空间·地铁直击,空間·地鐵直擊
+Skill/C_iseubi14_Description, Text,,비트 2개를 소모합니다. 부족한 경우 시전할 수 없습니다.,Consume 2 fragments. Cannot be used if insufficient fragments are available.,ビット消費スキル(2個),消耗2个碎片，若不足，则无法释放。,消耗2個碎片，若不足，則無法釋放。
+Skill/C_iseubi14_Name, Text,,[G]3배★중력 가속도,Gravity: Triple★Gravity Acceleration,三倍★重圧,引力·三倍★重力加速度,引力·三倍★重力加速度
+Skill/C_iseubi1_0_Description, Text,,"5개 비트를 소모합니다. 부족한 경우 시전할 수 없습니다.
+체력이 60% 미만이 아닌 적을 대상으로 시전할 경우 피해는 15% 증가합니다.","Consume 5 fragments. Cannot be used if insufficient fragments are available.
+When targeting an enemy with HP not below 60%, damage increases by 15%.","ビット消費スキル(5個)
+体力値が60%以上の敵を指してリリースすると、ダメージが15%増加する。","消耗5个碎片，若不足，则无法释放。
+指向体力值不低于60%的敌人释放时，伤害增加15%。","消耗5個碎片，若不足，則無法釋放。
+指向體力值不低於60%的敵人釋放時，傷害增加15%。"
+Skill/C_iseubi1_0_Name, Text,,[E]전자 폭풍 - 초전도,Electromagnetic: Thunderfall,雷遁·麒麟,电磁·落雷,電磁·落雷
+Skill/C_iseubi1_Description, Text,,"적중 후 2회 반복 시전합니다.
+반복 시전 종료 후 이때 비트 5개 이상을 가지고 있을 경우 【[E]전자 폭풍 - 초전도】를 생성하고 추적，신속，제외를 부여하고 1턴 후 버려집니다.","After hitting, repeat release 2 times.
+After repeating, if you have 5 or more fragments, generate ""Electromagnetic: Thunderfall"", granting Tracking, Haste, Banish, and discard after 1 turn.","ヒット後にリリースを2回繰り返します。
+繰り返しリリース終了後、この時点で5つ以上のbitがあれば、【雷遁·麒麟】を生成し","命中后重复释放2次。
+重复释放结束后，若此时有5个以上碎片，生成【电磁·落雷】，附带追踪、迅速、放逐、1回合后弃牌。","命中後重複釋放2次。
+重複釋放結束後，若此時有5個以上碎片，生成【電磁·落雷】，附帶追蹤、迅速、放逐、1回合後棄牌。",封印者
+Skill/C_iseubi1_Name, Text,,[E]전자 폭풍,Electromagnetic: Lightning Storm,雷遁·ライトニング,电磁·闪电风暴,電磁·閃電風暴,
+Skill/C_iseubi2_Description, Text,,"비트 15개를 소모합니다. 비트가 모자라는 경우에도 시전할 수 없습니다.
+&a 고통 피해를 입습니다(부족한 비트 수*2).
+적의 수의 2배 상당하는 비트를 반납합니다.
+&b회 반복 시즌(6-적의 수，적어도 3)
+적중된 적은 카운트 또는 카운트가 5 이상인 스킬을 시전할 수 없습니다.
+손에서 낼 때 손에 적어도 6가지 다른 덱명의 스킬이 있을 경우 손에 있는 모든 스킬을 버리고 2 마나를 복구하고 버린 스킬 수 + 1만큼 덱에서 스킬을 뽑고 신속 및 포획(100%<sprite=2>) 효과를 부여합니다.","Consume 15 fragments. Can be used even if fragments are insufficient.
+Take &a points of Pain damage (missing fragments * 2).
+Return twice the number of fragments as enemies.
+Repeat release &b times (6 - number of enemies, minimum 3).
+Enemies hit cannot use skills with a countdown greater than 5.
+If you have at least 6 different skill names in hand when used, discard all skills in hand, restore 2 Mana, draw the amount of discarded skills + 1 from the deck, and grant Haste and Grab (100% <sprite=2>).","ビット消費スキル(15個)
+&a点の苦痛ダメージを受ける（欠けているビット数*2）。
+敵の数の2倍のビットを返す。
+リリース&bを繰り返す（6-敵の数、少なくとも3）
+命中した敵はカウントダウン中でカウントダウンが5より大きいスキルを解放できない。
+手を出した時に少なくとも6種類の異なる牌名の技能を手にした場合、手にしたすべての技能を廃棄し、2点の法力値を回復し、牌庫から廃棄数+1個の技能を抽出し、迅速とキャプチャ（100%<sprite=2>）効果を付随する。","消耗15个碎片，碎片不足时也可释放。
+受到&a点痛苦伤害（缺少的碎片数量*2）。
+返还两倍于敌人数量的碎片。
+重复释放&b次(6-敌人数量，至少为3)
+命中的敌人无法释放正在倒计时且倒计时大于5的技能。
+若出手时手中拥有至少6种不同牌名的技能，则弃置手中所有技能，恢复2点法力值，从牌库中抽取丢弃数+1个技能并附带迅速与抓取(100%<sprite=2>)效果。","消耗15個碎片，碎片不足時也可釋放。
+受到&a點痛苦傷害（缺少的碎片數量*2）。
+返還兩倍於敵人數量的碎片。
+重複釋放&b次（6-敵人數量，至少為3）
+命中的敵人無法釋放正在倒計時且倒計時大於5的技能。
+若出手時手中擁有至少6種不同牌名的技能，則棄置手中所有技能，回復2點法力值，從牌庫中抽取丟棄數+1個技能並附帶迅速與抓取(100%<sprite=2>)效果。",
+Skill/C_iseubi2_Name, Text,,[G]중력장,Gravity: Gravity Field,グラビティ,引力·重力场,引力·重力場,
+Skill/C_iseubi3_Description, Text,,"비트 1개를 소모합니다. 부족한 경우 시전할 수 없습니다.
+추가로 &a(연타 횟수*15%) 피해를 입힙니다.
+자신이 적어도 1개 비트를 가지고 있다면 [[E]레이건·연타]를 획득하고 신속，제외，1턴 후 버려짐을 부여합니다.
+최대 【[E]레이건·연타】 4장을 획득합니다","Consume 1 fragment. Cannot be used if insufficient fragments are available.
+Deal additional damage equal to &a (Combo Count * 15%).
+If you have at least 1 fragment, gain ""Electromagnetic: Railgun Combo"", granting Haste, Banish, and discard after 1 turn.
+Can gain up to 4 ""Electromagnetic: Railgun Combo"".","ビット消費スキル(1個)
+追加で&a（連撃回数*15%）のダメージを与える。
+自身が少なくとも1つのビットを持っていれば、【雷遁・レールガン・連段】を獲得し、迅速、除外、1Turn後にを捨てる。
+最大4枚獲得【雷遁・レールガン・連段】","消耗1个碎片，若不足，则无法释放。
+额外造成造成&a(连击次数*15%)点伤害。
+若自身拥有至少1个碎片，获得【电磁·电磁枪·连击】，附带迅速、放逐、1回合后弃牌。
+最多获得4张【电磁·电磁枪·连击】","消耗1個碎片，若不足，則無法釋放。
+額外造成&a(連擊次數*15%)點傷害。
+若自身擁有至少1個碎片。獲得【電磁·電磁槍·連擊】，附帶迅速、放逐、1回合後棄牌。
+最多獲得4張【電磁·電磁槍·連擊】",
+Skill/C_iseubi3_Name, Text,,[E]레일건,Electromagnetic: Railgun,雷遁·レールガン,电磁·电磁枪,電磁·電磁槍,
+Skill/C_iseubi4_Description, Text,,"비트 1개를 소모합니다. 부족한 경우 시전할 수 없습니다.
+고정 능력으로 낼 경우 냉각시에 임의의 스킬 또는 고정 능력을 총 3회 내면 고정 능력을 바로 새로고침합니다.","Consume 1 fragment. Cannot be used if insufficient fragments are available.
+When used as a fixed ability, if 3 skills or fixed abilities are used during cooldown, immediately refresh the fixed ability.",,"消耗1个碎片，若不足，则无法释放。
+作为固定能力使用时，若在冷却时累计使用3次任意技能或固定能力，则立即刷新固定能力。","消耗1個碎片，若不足，則無法釋放。
+作為固定能力使用時，若在冷卻時累計使用3此任意技能或固定能力，則立即刷新固定能力。",
+Skill/C_iseubi4_Name, Text,,[S]웜홀 생성,Space: Wormhole Dash,飛雷神·ディメンションチェイス,空间·虫洞穿梭,空間·蟲洞穿梭,
+Skill/C_iseubi5_0_Description, Text,,,,,,,
+Skill/C_iseubi5_0_Name, Text,,[E]전하 집속탄,Electromagnetic: Charged Cluster Bomb,ディストーション,电荷集束弹,電荷集束彈,
+Skill/C_iseubi5_1_Description, Text,,적중된 단위 공격력이 및 고통 저항력 영구적으로 20% 낮아집니다(단위당 1회 제한),Reduces the Attack and <sprite=1> Pain Resist of the target by 20% permanently (once per unit).,全ターゲット攻撃力と<sprite=1>苦痛レジストが20%低下。（目標ごとに1回のみ有効）,使被命中的单位攻击力和<sprite=1>痛苦抵抗力永久下降20%(每个单位限一次),使被命中的單位攻擊力和<sprite=1>痛苦抵抗力永久下降20%(每個單位限一次),
+Skill/C_iseubi5_1_Name, Text,,[E]뉴트론 버스터,Electromagnetic: Neutron Buster,ニュートロンバスター,电子破坏者,電子破壞者,
+Skill/C_iseubi5_Description, Text,,"비트 &a(적의 수)개를 소모합니다. 부족한 경우 시전할 수 없습니다.
+다음 두가지 옵션중 하나를 선택합니다
+ -전하 집속탄
+ -뉴트론 버스터","Consumes &a (number of enemies) fragments. Cannot be used if insufficient fragments are available.
+Choose one effect to trigger:
+- Charged Cluster Bomb
+- Neutron Buster","ビット消費スキル(&a個)(敵の数量)
+ 選択：
+ -ディストーション
+ -ニュートロンバスター","消耗&a(敌方数量)个碎片，若不足，则无法释放。
+ 选择一个效果触发：
+ -电荷集束弹
+ -电子破坏者
+","消耗&a(敵方數量)個碎片，若不足，則無法釋放。
+ 選擇一個效果觸發：
+ -電荷集束彈
+ -電子破壞者",
+Skill/C_iseubi5_Name, Text,,[E]뉴트론 버스터,Electromagnetic: Thunder Call,雷遁·召雷彈,电磁·召雷弹,電磁·召雷彈,
+Skill/C_iseubi6_0_Description, Text,,적중 후 2회 반복 시전합니다,Cast an additional 2 times after hit.,2回の連続攻撃を加える,命中后重复释放2次。,命中後重複釋放2次。,
+Skill/C_iseubi6_0_Name, Text,,삼체운동,Gravity: Three-Body Motion,さんたいうんどう,黑洞压缩·三体运动,黑洞壓縮·三體運動,
+Skill/C_iseubi6_1_Description,Text,,,,,,,
+Skill/C_iseubi6_1_Name, Text,,붕괴,Gravity: Collapse,くじけ,黑洞压缩·坍缩,黑洞壓縮·坍縮,
+Skill/C_iseubi6_Description, Text,,"비트+3
+다음 두가지 옵션중 하나를 선택합니다
+ -삼체운동
+ -붕괴
+","Magic Fragment +3
+Choose one effect to trigger:
+- Three-Body Motion
+- Collapse","ビット生成スキル(3個)
+選択：
+ -さんたいうんどう
+ -くじけ","魔法碎片+3
+选择一个效果触发：
+ -三体运动
+ -坍缩","魔法碎片+3
+選擇一個效果觸發：
+ -三體運動
+ -坍縮",
+Skill/C_iseubi6_Name, Text,,[G]공간 압축,Gravity: Black Hole Compression,萬象天引,引力·黑洞压缩,引力·黑洞壓縮,
+Skill/C_iseubi7_Description, Text,,"비트 1개를 소모합니다. 부족한 경우 시전할 수 없습니다.
+이 스킬은 행동 불능 상태에서도 낼 수 있습니다. ","Consumes 1 fragment. Cannot be used if insufficient fragments are available.
+This skill can be used even when unable to act.","ビット消費スキル(1個)
+このスキルは行動不能状態でも使える。","消耗1个碎片，若不足，则无法释放。
+该技能可在无法行动状态下使用。
+","消耗1個碎片，若不足，則無法釋放。
+該技能可在無法行動狀態下使用。
+",
+Skill/C_iseubi7_Name, Text,,[G]강제 캔슬,Gravity: Force Interrupt,神羅天征,引力·强制打断,引力·強制打斷,
+Skill/C_iseubi8_0_Description, Text,,"비트 3개를 소모합니다. 부족한 경우 시전할 수 없습니다.
+대상을 처치한 경우 자신의 모든 과부하가 제거되고 【[S]광속】을 획득하며 제외，1턴 후 버려짐을 부여합니다.","Consumes 3 fragments. Cannot be used if insufficient fragments are available.
+If the target is killed, remove all Overload and gain ""Space: Lightspeed"", granting Banish and discard after 1 turn.","ビット消費スキル(3個)
+ターゲットを撃ち殺した時、自身のすべてのオーバーロードを消去して【飛雷神・神速】を獲得し、除外、1ターン後にカードを捨てる。","消耗3个碎片，若不足，则无法释放
+击杀目标时，消除自身所有过载并获得【空间·光速】，附带放逐、1回合后弃牌。","消耗3個碎片，若不足，則無法釋放
+擊殺目標時，消除自身所有過載並獲得【空間·光速】，附帶放逐、1回合後棄牌。",
+Skill/C_iseubi8_0_Name, Text,,[S]광속 2단,Space: Superluminal,飛雷神·神速二の段,空间·超光速,空間·超光速,
+Skill/C_iseubi8_Description, Text,,"비트+3
+【[S]광속 2단】을 획득하고 제외，1턴 후 버려짐을 부여합니다.
+대상이 【비콘】 표기가 있을 경우 대기 횟수는 1 증가합니다.
+대상 처치시 마나 1을 획득합니다.
+자신이 【윔홀】을 가지고 있으면 도발 무시를 획득합니다. ","Magic Fragment +3
+Gain ""Space: Superluminal"", granting Banish and discard after 1 turn.
+If the target has ""Beacon"", Standby count +1.
+If the target is killed, gain 1 Mana.
+If you have ""Wormhole"", gain Taunt Immunity.","ビット生成スキル(3個)
+【飛雷神・神速二の段】を獲得し、除外付き、1ターン後にカードを捨てる。
+ターゲットに「飛雷神術式」が付いている場合は、待ち回数+1。
+ターゲットを撃ち殺した場合、1点の法力値を得る。
+自身が「飛雷神準備」を持っていれば、挑発無視を得ることができる。","魔法碎片+3
+获得【空间·超光速】，附带放逐、1回合后弃牌。
+若目标带有【信标】，等待次数+1。
+击杀目标时，获得1点法力值。
+若自身拥有【虫洞】，则获得无视嘲讽。","魔法碎片+3
+獲得【空間·超光速】，附帶放逐、1回合後棄牌。
+若目標帶有【信標】，等待次數+1並獲得迅速。
+擊殺目標時，獲得1點法力值。",
+Skill/C_iseubi8_Name, Text,,[S]광속,Space: Lightspeed,飛雷神·神速,空间·光速,空間·光速,
+Skill/C_iseubi9_Description, Text,,"대상이 【비콘】 표기가 있을 경우 치명타로 적중합니다.
+자신이 [윔홀]을 가지고 있으면 추가로 &a(75%) 피해를 입습니다.","If the target has ""Beacon"", hits as a critical strike.
+If you have ""Wormhole"", deal additional &a (75% of Attack) damage.","ターゲットに「飛雷神術式」があれば、致命的な一撃で命中する。
+自身に「飛雷神準備」があれば、追加で&a（75%）のダメージを与える。","若目标带有【信标】，以暴击形式命中。
+若自身带有【虫洞】，额外造成&a(75%)点伤害。","若目標帶有【信標】，以暴擊形式命中。
+若自身帶有【蟲洞】，額外造成&a(75%)點傷害。",
+Skill/C_iseubi9_Name, Text,,[S]시공간 참수,Space: White Light Blade,飛雷神斬,空间·白光刃,空間·白光刃,
+Skill/C_iseubi_Cancel_Description, Text,,취소,Perform no action.,操作ない,不进行任何操作。,不進行任何操作,
+Skill/C_iseubi_Cancel_Name, Text,,취소,Cancel,キャンセル,取消,取消,
+Skill/C_tina0_0_Description, Text,,,"Unaffected by barrage mechanics.
+Deals &a (40% of Attack) damage to all targets.",,"不受弹幕机制影响。
+对全体目标造成&a(40%)点伤害。",,
+Skill/C_tina0_0_Name, Text,,,Grenade,,手榴弹,,
+Skill/C_tina0_Description, Text,,"다른 적에게 & a(40%) 데미지를 입힙니다.
+고정 능력시 비용1 포인트 절감.","Deals &a (40% of Attack) damage to other enemy targets.
+When used as a fixed ability, reduces cost by 1.","他の敵に&a（40%）のDamageを与える。
+固定能力とする場合は、費用を1点減らす。","对其他敌方目标造成&a(40%)点伤害。
+作为固定能力时，减少1点费用。","对其他敵方目標造成&a(40%)點傷害。
+作為固定能力時，減少1點費用。",
+Skill/C_tina0_Name, Text,,고폭 수류탄,Grenade,MK3手榴弾,手榴弹,手榴彈,
+Skill/C_tina10_Description, Text,,"목표의 25% 최대 생명력을 추가로 회복합니다.
+이 카드가 생성되면 회복 효과가 반감됩니다.","Restores an additional 25% of the target's max HP.
+If this card is generated, the healing effect is halved.","目標の最大25%ライフ追加。
+このCardが生成されると、効果は半減する。","额外恢复目标25%最大生命值。
+若此牌是被生成出的，则恢复效果减半。","額外恢復目標25%最大生命值。
+若此牌是被生成出的，則恢復效果減半。",
+Skill/C_tina10_Name, Text,,구급가방,First Aid Kit,救急箱,急救包,急救包,
+Skill/C_tina11_Description, Text,,"전투불능의 우리측 역할을 가리킬 수 있습니다.
+대상 역할이 빈사 상태이면 모든 회복게이지을 복원합니다.
+대상 캐릭터가 전투불능 상태이면 생명치를 50%로 회복하고 모든 기술을 카드 라이브러리에 추가합니다.","Can target an ally who is unable to fight.
+If the target is at Death's Door, restores all HP.
+If the target is unable to fight, restores their HP to 50% and adds all their skills to the deck.","戦闘不能な味方を指すことができる。
+Targetが瀕死の状態にある場合は、すべての回復ゲージを回復します。
+Targetが戦闘不能状態にある場合は、HPを50%に戻し、すべてのCardsをDeckに追加します。","可指向无法战斗的我方角色。
+若目标角色处于濒死状态，则恢复其所有体力极限。
+若目标角色处于无法战斗状态，则将其生命值恢复至50%并将其所有技能加入牌库。","可指向無法戰鬥的我方角色。
+若目標角色處於瀕死狀態，則回復其所有體力極限。
+若目標角色處於無法戰鬥狀態，則將其生命值恢復至50%並將其所有技能加入牌庫。",
+Skill/C_tina11_Name, Text,,A.E.D.,A.E.D.,除細動器,除颤器,除顫器,
+Skill/C_tina11_Target_Description,Text,,,,,,,
+Skill/C_tina11_Target_Name, Text,,목표,Target,目標,目标,目標,
+Skill/C_tina12_0_Description,Text,,,,,,,
+Skill/C_tina12_0_Name, Text,,,Rocket Launcher Splash,,火箭筒溅射,,
+Skill/C_tina12_Description, Text,,"과열+9.
+방어 무시.
+대상을 지정하면 라운드가 끝날 때까지 대상의 모든 버프가 무효화됩니다.
+적의 다른 목표에게 &a(공격력 30%) 포인트 대미지를 준다.","Overheat +9.
+Ignores Defense.
+After targeting, all Buffs on the target are nullified until the end of the turn.
+Deals &a (30% of Attack) damage to other enemy targets.","【熱い】+9。
+防御力無視。
+Targetを指定すると、TargetのすべてのBuffがターン終了まで無効になります。
+他の敵に&a（攻撃力30%）のDamageを与える。","过热+9。
+无视防御。
+指定目标后，目标所有Buff失效直至回合结束。
+对敌方其他目标造成 &a (攻击力30%)点伤害。","過熱+9。
+無視防禦。
+指定目標後，目標所有Buff失效直至回合結束。
+對敵方其他目標造成 &a (攻擊力30%)點傷害。",
+Skill/C_tina12_Name, Text,,결전기 : 배틀필드,Rocket Launcher,決戦技 バトルフィールド Battlefield,火箭筒,火箭筒,
+Skill/C_tina13_Description, Text,,"과열+1.
+방해<sprite=2> 디버프 대상에게 반드시 적중.","Overheat +1.
+Always hits targets with the Interference <sprite=2> debuff.","【熱い】+1。
+妨害効果<sprite=2>のターゲットには必ず命中する。","过热+1。
+必定命中持有干扰<sprite=2>减益的目标。","過熱+1。
+必定命中持有干擾<sprite=2>減益的目標。",
+Skill/C_tina13_Name, Text,,기관단총 소사,Submachine Gun Sweep,突撃銃掃射,冲锋枪扫射,衝鋒槍掃射,
+Skill/C_tina1_0_Description, Text,,도발 중인 대상에게 &a(33%) 만큼 추가 피해를 입힙니다.,Deals &b (33% of Attack) additional damage to taunted targets.,挑発状態のターゲットに&b(攻撃力33%)の追加Damageを与える。,对嘲讽目标造成 &b (33%)点额外伤害。,,
+Skill/C_tina1_0_Name, Text,,클로즈 컴뱃-산탄총,Close Combat: Shotgun Blast,散弾銃射撃,近身战·散弹枪射击,近身戰·散彈槍射擊,
+Skill/C_tina1_1_Description, Text,,필드의 모든 【C4】 제거,"Clears all ""C4"" on the field.",Field上のすべての【C4】をClearする,清除场上所有的【塑胶炸弹】,清除場上所有的【塑膠炸彈】,
+Skill/C_tina1_1_Name, Text,,폭발,Detonate,カッツ！,引爆,引爆,
+Skill/C_tina1_Description, Text,,"대상에게 1 회 데미지를 &a(40%) 포인트로 공격하고 조롱 대상에게 &b(33%) 포인트 추가 데미지를 입힙니다.
+【폭발】 1장 생성, 추가 배제, 3라운드 후 카드 포기.","After resolving, deals an additional &a (40% of Attack) damage to the target and &b (33% of Attack) additional damage to taunted targets.
+Generates a ""Detonate"" card, granting Banish and discard after 3 turns.","ターゲットに対して&a（40%）ポイントの攻撃を行い、挑発状態のターゲットに&b(攻撃力33%)の追加Damageを与える。
+1枚の【カッツ！】を生成し、除外、3Turn後にを捨てる。","结算完毕后，额外对目标进行一次伤害为 &a (40%)点的攻击，且对嘲讽目标造成 &b (33%)点额外伤害。
+生成一张【引爆】，附带放逐、三回合后弃牌。","結算完畢後，額外對目標進行一次傷害為 &a (40%)點的攻擊，且對嘲諷目標造成 &b (33%)點額外傷害。
+生成一張【引爆】，附帶放逐、三回合後棄牌。",
+Skill/C_tina1_Name, Text,,클로즈 컴뱃,Close Combat,クローズコンバット,近身战,近身戰,
+Skill/C_tina2_0_Description, Text,,,"After hitting, reduces the target's Defense, Evasion, and all Resistances to 0 until the end of the turn.",,命中后使目标防御力、闪避率、所有抵抗率降低至0，直至回合结束。,命中後使目標防御力、閃避率、所有的抵抗率降低至0，直至回合結束。,
+Skill/C_tina2_0_Name, Text,,권총,Swift Strike: Pistol,手銃,雷厉之击·手枪,雷厲之擊·手槍,
+Skill/C_tina2_1_Description, Text,,도발 중인 대상에게 &a(33%) 만큼 추가 피해를 입힙니다.,Deals &a (33% of Attack) additional damage to taunted targets.,挑発状態のターゲットに&a(攻撃力33%)の追加Damageを与える。,对嘲讽目标造成 &a (攻击力33%)点额外伤害。,對嘲諷目標造成 &a (攻擊力33%)點額外傷害。,
+Skill/C_tina2_1_Name, Text,,산탄총,Swift Strike: Shotgun,散弾銃,雷厉之击·散弹枪,雷厲之擊·散彈槍,
+Skill/C_tina2_2_Description, Text,,목표의 방어력 20% 를 무시합니다.,Ignores 20% of the target's Defense.,目標の20%防御力を無視する。,无视目标20%防御力。,無視目標20%防御力。,
+Skill/C_tina2_2_Name, Text,,자동소총,Swift Strike: Rifle,自動小銃,雷厉之击·步枪,雷厲之擊·步槍,
+Skill/C_tina2_3_Description, Text,,이번 공격【탄막】데미지 임계치가 20%로 변경되었습니다.,"This attack's ""Barrage"" damage threshold is changed to 20%.",【弾幕】Damage閾値は20%。,本次攻击【弹幕】伤害阈值改为20%。,本次攻擊【彈幕】傷害閾值改為20%,
+Skill/C_tina2_3_Name, Text,,기관단총,Swift Strike: Submachine Gun,突撃銃,雷厉之击·冲锋枪,雷厲之擊·衝鋒槍,
+Skill/C_tina2_4_Description, Text,,"카드 더미 꼭대기에 있는 처음 4장의 카드에 따라 데미지가 증가합니다.매 1장당 【샤프슈팅】의 비용과 동일, 추가 &a(공격력 30%)점 데미지를 입힙니다","Increases damage based on the top 4 cards of the deck. For each card with the same cost as ""Swift Strike"", deal an additional &a (30% of Attack) damage.",デッキトップの前の4枚のカードによってDamageを加える。1枚につき【シャプシュタイピング】の費用と同じで、追加で&a（攻撃力30%）のDamageを与える。,根据牌堆顶的前4张牌增加伤害。每有一张与【雷厉之击】的费用相同，额外造成 &a (攻击力30%)点伤害。,根據牌堆頂的前4張牌增加傷害。每有一張與【雷厲之擊】的費用相同，額外造成 &a (攻擊力30%)點傷害。,
+Skill/C_tina2_4_Name, Text,,저격소총,Swift Strike: Sniper Rifle,狙撃銃,雷厉之击·狙击枪,雷厲之擊·狙擊槍,
+Skill/C_tina2_Description, Text,,"다음 다섯 가지 무기 중에서 무작위로 한 가지 무기를 선택하고, 다른 네 가지 무기를 전시하고 그 중 하나를 선택한다.선택한 두 종류의 무기를 이번 공격의 형식으로 삼다.
+권총, 산탄총, 자동소총, 기관단총, 저격소총.","Randomly selects one weapon from the following five, then displays the other four and allows you to choose one. The selected two weapons determine the form of this attack:
+
+- Pistol
+- Shotgun
+- Assault Rifle
+- Submachine Gun
+- Sniper Rifle","以下の5種類の武器の中から1つをRandomに選択し、他の4種類の武器を展示し、いずれかを選択します。選択した2種類の武器を今回の攻撃の形式とする。
+手銃、散弾銃、自動小銃、突撃銃、狙撃銃。","从以下五种武器中随机选择一种武器，再展示其他四种武器并任选其一。以选择的两种武器作为本次攻击的形式。
+手枪、散弹枪、自动步枪、冲锋枪、狙击枪。",從以下五種武器中選擇一種武器，再展示其他四種武器並任選其一。以選擇的兩種武器作為本次攻擊的形式。,
+Skill/C_tina2_Name, Text,,샤프슈팅,Swift Strike,シャープシューティング # Shooting,雷厉之击,雷厲之擊,
+Skill/C_tina3_Description, Text,,"스킬이 초읽기 표시줄에 있을 때, 지정된 아군이 대상으로 선정되면 즉시 이 스킬을 방출하고 적군이 방출할 스킬 명중률을 100% 감소시킵니다.
+목표 아군을 회피시키지 못하면 이번 라운드 종료 시 버려진 카드 더미나 카드 더미에서 【긴급 회피】 1장을 획득합니다.","When this skill is in the countdown bar, if the designated ally is targeted, immediately release this skill and reduce the hit rate of the enemy's next skill by 100%.
+If the target ally is not evaded, gain a ""Emergency Evasion"" from the discard pile or deck at the end of the turn.","CardがCount down listにある場合、指定された友軍として選択されている場合は、直ちにこのCardを解放し、敵が解放しようとしているSkillの命中率を100%低下させます。
+標的味方を退避させることができなかった場合、Turn終了時に捨てられたDeckまたはDeckから【緊急退避】を獲得する。","当技能处于倒计时栏时，若指定的友军被选定为目标，则立即释放此技能并令敌方即将释放的技能命中率降低100%。
+若未能使目标友军闪避，则在本回合结束时从弃牌堆或牌堆中获得一张【紧急闪避】。","當技能處於倒計時欄時，若指定的友軍被選定為目標，則立即釋放此技能並令敵方即將釋放的技能命中率降低100%。
+若未能使目標友軍閃避，則在本回合結束時從棄牌堆或牌堆中獲得一張【緊急閃避】。",
+Skill/C_tina3_Name, Text,,긴급 회피,Emergency Evasion,緊急回避,紧急闪避,緊急閃避,
+Skill/C_tina4_0_Description, Text,,카운트다운 표시줄의 【저격】를 즉시 사용합니다.,"Immediately uses ""Snipe"" from the countdown bar.",カウントダウンバーの【狙撃】をすぐに使う,立即使用倒计时栏中的【狙击】。,立即使用倒計時欄中的【狙擊】,
+Skill/C_tina4_0_Name, Text,,미리 쏴,Preemptive Shot,繰り上げ射撃,提前开火,提前開火,
+Skill/C_tina4_1_Description,Text,,,,,,,
+Skill/C_tina4_1_Name, Text,,,Snipe,,狙击,,
+Skill/C_tina4_Description, Text,,"은닉한 적 목표를 선택할 수 있습니다.
+스킬이 카운트다운 표시줄에 있을 때 자신이 스킬을 사용하면 이 스킬은 무효입니다.
+카드 더미 지붕의 처음 4개 스킬에 따라 데미지가 증가합니다.각 스킬 비용이 스킬보다 높지 않을 때마다 &a(50% 공격력)점 추가 데미지가 증가합니다.
+적중 후 목표를 이번 라운드 행동 불가.
+카운트다운 막대에 들어갈 때,【미리 쏴】를 생성하고, 부대 제외, 1라운드 후 카드를 버린다.","Can target hidden enemy units.
+When this skill is in the countdown bar, if you use another skill, this skill becomes invalid.
+Increases damage based on the top 4 skills of the deck. For each skill with a cost not higher than this skill, deal an additional &a (50% of Attack) damage.
+After hitting, the target cannot act this turn.
+When entering the countdown bar, generates a ""Preemptive Shot"", granting Banish and discard after 1 turn.","隠れている敵を選択することができます。
+CardがCount down listにある場合、自分でCardを使用すると無効になります。
+Deckの前4つのCardに応じてDamageを増加させる。1つのCardの費用がこのCardより高くないたびに、&a（攻撃力50%）の追加Damageが増加します。
+命中した後、Targetを今Turn中に行動できなくする。
+Count down listに入ると、【繰り上げ射撃】を1枚生成し、除外を付随し、1Turn後にを捨てる。","可选中隐匿的敌方目标。
+当技能处于倒计时栏时，若自身使用技能，则此技能将无效。
+根据牌堆顶的前4个技能增加伤害。每有一个技能费用不高于此技能，都会增加 &a (50%攻击力)点额外伤害。
+命中后使目标本回合无法行动。
+进入倒计时栏时，生成一张【提前开火】，附带放逐、1回合后弃牌。","可選中隱匿的敵方目標。
+當技能處於倒計時欄時，若自身使用技能，則此技能將無效。
+根據牌堆頂的前4個技能增加傷害，每有一個技能費用不高於此技能，都會增加 &a (50%攻擊力)點額外傷害。
+命中後使目標本回合無法行動。
+進入倒計時欄時，生成一張【提前開火】，附帶放逐、1回合後棄牌。",
+Skill/C_tina4_Name, Text,,저격,Snipe,狙撃,狙击,狙擊,
+Skill/C_tina5_Description, Text,,과열과 고통을 없애고 이익을 줄이다.,"Clears ""Overheat"" and Pain debuffs.",【熱い】と苦痛減益を解消する。,清空【过热】和痛苦减益。,清空【過熱】和痛苦減益。,
+Skill/C_tina5_Name, Text,,혼자 있고 싶다,Time Alone,タイムアローン Time Iron,我想静静,我想靜靜,
+Skill/C_tina6_Description, Text,,이번 공격【탄막】임계치가 50%로 변경되었습니다.,"This attack's ""Barrage"" damage threshold is changed to 50%.",今回の攻撃【弾幕】閾値を50%に変更しました。,本次攻击【弹幕】伤害阈值改为50%。,本次攻擊【彈幕】傷害閾值改為50%。,
+Skill/C_tina6_Name, Text,,3점사가,Triple Burst,3連バースト,三连发,三連發,
+Skill/C_tina7_0_Description, Text,,"목표를 처치 시, 1 포인트의 마법력을 반환하고【급래피드 파이어】을 획득, 부대 제외, 2 라운드 후 카드를 포기.","If the target is killed, refund 1 Mana and gain ""Rapid Fire"", granting Banish and discard after 2 turns.",ターゲットを撃った場合、AP+1、【トリックショット Quick Shoot】を獲得し、除外、2Turn後にを捨てる。,击杀目标时，返还1点法力值并获得【急速射击】，附带放逐、2回合后弃牌。,擊殺目標時，返還1點法力值並獲得【急速射擊】，附帶放逐、2回合後棄牌。,
+Skill/C_tina7_0_Name, Text,,머리 사격,Rapid Fire: Headshot,頭部射撃,急速射击·爆头,急速射擊·爆頭,
+Skill/C_tina7_Description, Text,,"목표를 처치하지 않았을 때, 【머리 사격】를 획득, 부대 제외, 1 라운드 후 카드 포기.","If the target is not killed, gain ""Rapid Fire: Headshot"", granting Banish and discard after 1 turn.",Targetを撃たなかった場合、【頭部射撃】を獲得し、除外、1Turn後にを捨てる。,未击杀目标时，获得【急速射击·爆头】，附带放逐、1回合后弃牌。,未擊殺目標時，獲得【急速射擊·爆頭】，附帶放逐、1回合後棄牌。,
+Skill/C_tina7_Name, Text,,래피드 파이어,Rapid Fire,トリックショット Quick Shoot,急速射击,急速射擊,
+Skill/C_tina8_Description, Text,,도발 중인 대상에게 &a (33%)만큼 추가 피해를 입힙니다.,Deals &a (33% of Attack) additional damage to taunted targets.,挑発状態のターゲットに&a(33%)の追加Damageを与える。,对嘲讽目标造成 &a (33%)点额外伤害。,對嘲諷目標造成 &a (33%)點傷害。,
+Skill/C_tina8_Name, Text,,산탄총 사격,Shotgun Blast,ショットガン,散弹枪射击,散彈槍射擊,
+Skill/C_tina9_0_Description, Text,,턴이 끝날 때 이 스킬이 손에 남아있다면7 층 【과열】(<sprite=0>100%)증가,"At the end of the turn, if this card remains in hand, gain 7 ""Overheat"" (<sprite=0>100%).",ターン終了時、このスキルが手札に残っていると、【熱い】+7(<sprite=0>100%)。,回合结束时，若这张牌仍留在手中，则增加7点【过热】(<sprite=0>100%),回合結束時，若這張牌仍留在手中，則增加7點【過熱】(<sprite=0>100%),
+Skill/C_tina9_0_Name, Text,,내던지다,Peacemaker: Machine Gun Toss,ドロップアウト Drop out,和平缔造者·机枪投掷,和平締造者·機槍投擲,
+Skill/C_tina9_Description, Text,,"과열+4.
+【내던지다】 1장 생성, 부대 제외, 1 라운드 후 카드 포기.","Overheat +4.
+Generates a ""Machine Gun Toss"", granting Banish and discard after 1 turn.","【熱い】+4。
+【ドロップアウト Drop out】を1枚生成し、除外を付随し、1Turn後にを捨てる。","过热+4。
+生成一张【机枪投掷】，附带放逐，1回合后弃牌。","過熱+4。
+生成一張【機槍投擲】，附帶放逐，1回合後棄牌。",
+Skill/C_tina9_Name, Text,,결전기 : 피스메이커,Peacemaker,決戦技 ピースメーカー,和平缔造者,和平締造者,
+Skill/Prop_SE_DebugModeAP_Description, Text,,,Mana +1,,AP+1,,
+Skill/Prop_SE_DebugModeAP_Name, Text,,,Mana Crystal,,魔力水晶,,
+Skill/Prop_SE_DebugModeCard_Description, Text,,,Draw 1 card.,,Draw 1 card.,,
+Skill/Prop_SE_DebugModeCard_Name, Text,,,Treasure Bag,,宝藏袋,,
+Skill/Prop_SE_DebugModeClear_Description, Text,,,Clear all enemies or unlock the entry to the next stage.,,Clear all enemy or unlock the entry of next stage.,,
+Skill/Prop_SE_DebugModeClear_Name, Text,,,Sylvi Lee's Phone,,李瑟钰的手机,,
+SkillExtended/CEn_iseubi0_Des,Text,,,,,,,
+SkillExtended/CEn_iseubi0_EnforceString,Text,,,,,,,
+SkillExtended/CEn_iseubi0_Name, Text,,이슬비가 비트 5개를 추가로 받습니다.,Grants Sylvi an additional 5 Magic Fragments.,ビット生成スキル(5個),使李瑟钰额外获得5枚魔法碎片。,使李瑟鈺額外獲得5枚魔法碎片。,
+SkillExtended/CEn_iseubi1_Des,Text,,,,,,,
+SkillExtended/CEn_iseubi1_EnforceString,Text,,,,,,,
+SkillExtended/CEn_iseubi1_Name, Text,,비용이 1 감소，그러나 이슬비의 비트 3개를 소모합니다. 부족한 경우 시전할 수 없습니다.,"Reduces cost by 1, but consumes 3 of Sylvi's Magic Fragments. Cannot be used if insufficient fragments are available.","ビット消費スキル(3個)。
+コストが1減少する。",减少1点费用，但需要消耗李瑟钰的3枚魔法碎片，若不足，则无法使用。,減少1點費用，但需要消耗李瑟鈺的3枚魔法碎片，若不足，則無法使用。,
+SkillExtended/CEn_iseubi2_Des,Text,,,,,,,
+SkillExtended/CEn_iseubi2_EnforceString, Text,,비용 2 이상,"<sprite name=""cost2""> or higher","<sprite name=""비용2"">以上","<sprite name=""비용2"">以上","<sprite name=""비용2"">以上",
+SkillExtended/CEn_iseubi2_Name, Text,,현재 이슬비의 유파에 근거하여 대응하는 유파의 기술을 획득，비용이 1증가하고，2턴 후 버려짐을 부여합니다,"Based on Sylvi's current archetype, gain a corresponding archetype skill, granting Banish, increasing cost by 1, and discard after 2 turns.",現在のミコトの流派によると、対応するスキルを獲得する。このスキルに除外、コスト1アップ、1ターン後に捨てられるを与える。,根据当前李瑟钰的流派，获得对应流派的技能，附带放逐，增加1点费用，2回合后弃牌。,根據當前李瑟鈺的流派，獲得對應流派的技能，附带放逐，增加1點費用，2回合後棄牌。,
+SkillExtended/CEn_iseubi3_Des,Text,,,,,,,
+SkillExtended/CEn_iseubi3_EnforceString, Text,,적에게 향하는 스킬.,A skill aimed at the enemy.,A skill aimed at the enemy.,指向敌方的技能。,指向敵方的技能。,
+SkillExtended/CEn_iseubi3_Name, Text,,현재 이슬비의 유파에 근거하여 대응 유파의 상태를 가하다,"Based on Sylvi's current archetype, applies a corresponding archetype state.",現在のミコトの流派によると、対応するDebuffをに与える。,根据当前李瑟钰的流派，施加对应流派的状态,根據當前李瑟鈺的流派，施加對應流派的狀態。,
+SkillExtended/CS_iseubi0_Des,Text,,,,,,,
+SkillExtended/CS_iseubi0_EnforceString,Text,,,,,,,
+SkillExtended/CS_iseubi0_Name,Text,,,Non-Generated Mark,,非生成标记,,
+SkillExtended/CS_iseubiPlusHit_Des,Text,,,,,,,
+SkillExtended/CS_iseubiPlusHit_EnforceString,Text,,,,,,,
+SkillExtended/CS_iseubiPlusHit_Name,Text,,,Extra Attack Mark,,额外攻击标记,,
+SkillExtended/Ex_L_iseubi0_0_Des, Text,,치명타 피해 +15%,Critical Damage +15%,クリティカルダメージ +15%,暴击伤害+15%,暴擊傷害+15%,
+SkillExtended/Ex_L_iseubi0_0_EnforceString,Text,,,,,,,
+SkillExtended/Ex_L_iseubi0_0_Name, Text,,에너지 충전,Charge,電荷充填,充能,充能,
+SkillExtended/Ex_TinaDamageLimiter_Des,Text,,,,,,,
+SkillExtended/Ex_TinaDamageLimiter_EnforceString,Text,,,,,,,
+SkillExtended/Ex_TinaDamageLimiter_Name, Text,,,Tina Damage Limiter,,缇娜伤害限制器,,
+SkillExtended/Ex_iseubi11_Des,Text,,,,,,,
+SkillExtended/Ex_iseubi11_EnforceString,Text,,,,,,,
+SkillExtended/Ex_iseubi11_Name, Text,,번개 부마,Lightning Enchant,電流付随,闪电附魔,閃電附魔,
+SkillExtended/Ex_iseubi2_Des, Text,,신속，포획을 부여합니다.,Grants Haste and Grab.,クイック、捕まえた付き,附带迅速、抓取。,附帶迅速、抓取。,
+SkillExtended/Ex_iseubi2_EnforceString,Text,,,,,,,
+SkillExtended/Ex_iseubi2_Name, Text,,중력 변화,Gravity Shift,重力改变,重力改变,重力改變,
+SkillExtended/Ex_tina10_Des,Text,,,,,,,
+SkillExtended/Ex_tina10_EnforceString,Text,,,,,,,
+SkillExtended/Ex_tina10_Name, Text,,생성된 구급가방절반만 치료량을 가질 수 있다.,Generated First Aid Kits only have half the healing amount.,生成された救急箱は治療量の半分しか持たない。,被生成的急救包只能拥有一半的治疗量。,被生成的急救包只能擁有一半的治療量。,
+SkillExtended/Ext_RailgunLiteCounter_Des,Text,,,,,,,
+SkillExtended/Ext_RailgunLiteCounter_EnforceString,Text,,,,,,,
+SkillExtended/Ext_RailgunLiteCounter_Name, Text,,,Railgun Counter,,电磁枪计数器,,
+SkillKeyword/K_Barrage0_Desc, Text,,【탄막】 의 영향을 받지 않다.,"Unaffected by ""Barrage"".",【弾幕】の影響を受けない。,不受【弹幕】影响。,不受【彈幕】影響。,
+SkillKeyword/K_Barrage0_Name, Text,,탄막 취소,Cancel Barrage,弾幕なし,取消弹幕,取消彈幕,
+SkillKeyword/K_BitCost_Desc, Text,,사용 후 비트 소모,Consumes Magic Fragments after use. Cannot be used if insufficient fragments are available.,使用後消費ビット,使用后消耗魔法碎片，若不足，则无法使用。,使用後消耗魔法碎片，若不足，則無法使用。,
+SkillKeyword/K_BitCost_Name, Text,,비트 소비,Magic Fragment Consuming Skill,ビット消費スキル,魔法碎片消耗技能,魔法碎片消耗技能,
+SkillKeyword/K_BitGet_Desc, Text,,사용 후 비트 증가,Generates Magic Fragments after use.,使用後のビットの追加,使用后生成魔法碎片。,使用後生成魔法碎片。,
+SkillKeyword/K_BitGet_Name, Text,,비트 생성,Magic Fragment Generating Skill,ビット生成スキル,魔法碎片生成技能,魔法碎片生成技能,
+SkillKeyword/K_Overheat0_Desc, Text,,【과열】 증가하지 않음,"Does not increase ""Overheat"" after use.",増加しない【熱い】,使用后不增加【过热】。,使用後不增加【過熱】。,
+SkillKeyword/K_Overheat0_Name, Text,,과열제거,"Cancel ""Overheat""",【熱い】なし,取消过热,取消過熱,
+,,,,,,,,
+,,,,,,,,
+

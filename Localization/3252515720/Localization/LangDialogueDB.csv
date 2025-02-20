@@ -1,0 +1,496 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Dialogue/Youmu_YuyukoDead/002,Text,,"[auto4]<color=#EfC0CB><i><b>소[t0.1] 녀[t0.1] 여</b></i></color>[t2]
+                              <color=#EfC0CB><i><b>그[t0.1] 저[t0.1] 스[t0.1] 러[t0.1] 질[t0.1] 뿐</b></i></color>[t0.1]","[auto4]<color=#EfC0CB><i><b>Au[t0.1]to[t0.1]ma[t0.1]ta</b></i></color>[t2]
+                              <color=#EfC0CB><i><b>Yo[t0.1]ur[t0.1] De[t0.1]ath[t0.1] is[t0.1] In[t0.1]ev[t0.1]ita[t0.1]ble</b></i></color>[t0.1]","[auto4]<color=#EfC0CB><i><b>オ[t0.1]ト[t0.1]メ[t0.1]ヨ</b></i></color>[t2]
+                              <color=#EfC0CB><i><b>タ[t0.1]イ[t0.1]死[t0.1]ヌ[t0.1]イ[t0.1]ダ[t0.1]ケ</b></i></color>[t0.1]","[auto4]<color=#EfC0CB><i><b>オ[t0.1]ト[t0.1]メ[t0.1]ヨ</b></i></color>[t2]
+                              <color=#EfC0CB><i><b>タ[t0.1]イ[t0.1]死[t0.1]ヌ[t0.1]イ[t0.1]ダ[t0.1]ケ</b></i></color>[t0.1]","[auto4]<color=#EfC0CB><i><b>オ[t0.1]ト[t0.1]メ[t0.1]ヨ</b></i></color>[t2]
+                              <color=#EfC0CB><i><b>タ[t0.1]イ[t0.1]死[t0.1]ヌ[t0.1]イ[t0.1]ダ[t0.1]ケ</b></i></color>[t0.1]"
+Dialogue/FS_Youmu_Gift_Normal/001,Text,,"*콘파쿠 요우무
+이, 이걸 저에게?
+저는 드릴만한 게 없는데……","*Youmu Konpaku
+Th-this is for me?
+But I have nothing to give in return...","*魂魄妖梦
+这，这是要给我吗？
+我没什么东西能给你啊……","*魂魄妖梦
+这，这是要给我吗？
+我没什么东西能给你啊……","*魂魄妖夢
+這，這是要給我嗎？
+我沒什麼東西能給你啊……"
+Dialogue/FS_Youmu_Gift_Normal/002,Text,,"*콘파쿠 요우무
+에? 그냥 주신다구요?
+고… 고마워요, 루시.","*Youmu Konpaku
+Eh? A gift for me?
+Th-thank you, Lucy.","*魂魄妖梦
+欸？送给我的？
+谢…谢谢你，露西。","*魂魄妖梦
+欸？送给我的？
+谢…谢谢你，露西。","*魂魄妖夢
+欸？送給我的？
+謝…謝謝你，露西。"
+Dialogue/FS_Youmu_Gift_Sake/001,Text,,"*콘파쿠 요우무
+음~! 이 향기는 사케네요.","*Youmu Konpaku
+Mmm~! This aroma... it's sake, isn't it?","*魂魄妖梦
+嗯~！这股酒香味，是清酒吧。","*魂魄妖梦
+嗯~！这股酒香味，是清酒吧。","*魂魄妖夢
+嗯~！這股酒香味，是清酒吧。"
+Dialogue/FS_Youmu_Gift_Sake/002,Text,,"*콘파쿠 요우무
+연회에 자주 참여하곤 했는데, 사케는 절대로 빠질 수 없었죠.","*Youmu Konpaku
+I often attended banquets before. Sake was always essential.","*魂魄妖梦
+我以前经常参加宴会，清酒可是宴会上不可或缺的一员啊。","*魂魄妖梦
+我以前经常参加宴会，清酒可是宴会上不可或缺的一员啊。","*魂魄妖夢
+我以前經常參加宴會，清酒可是宴會上不可或缺的一員啊。"
+Dialogue/FS_Youmu_Gift_Sake/003,Text,,"*콘파쿠 요우무
+정말 평온한 나날이었죠. 그립네요……","*Youmu Konpaku
+Those were such carefree days... I miss them.","*魂魄妖梦
+以前那可真是段悠闲的日子啊，真是令人怀念……","*魂魄妖梦
+以前那可真是段悠闲的日子啊，真是令人怀念……","*魂魄妖夢
+以前那可真是段悠閒的日子啊，真是令人懷念……"
+Dialogue/FS_Youmu_Gift_Sake/004,Text,,"*콘파쿠 요우무
+응? 루시도 연회에 참여하고 싶으세요?","*Youmu Konpaku
+Hm? Do you want to join a banquet too, Lucy?","*魂魄妖梦
+嗯？露西你也想参加吗？","*魂魄妖梦
+嗯？露西你也想参加吗？","*魂魄妖夢
+嗯？露西你也想參加嗎？"
+Dialogue/FS_Youmu_Gift_Sake/005,Text,,"*콘파쿠 요우무
+좋아요! 기회되면 제가 안내해드릴게요.","*Youmu Konpaku
+Then I'll take you to one when we get the chance.","*魂魄妖梦
+那以后有机会的话，我就带你去参加吧。","*魂魄妖梦
+那以后有机会的话，我就带你去参加吧。","*魂魄妖夢
+那以後有機會的話，我就帶你去參加吧。"
+Dialogue/FS_Youmu_Gift_Sake/006,Text,,"*콘파쿠 요우무
+물론, 술은 마시면 안 돼요.","*Youmu Konpaku
+But you can't drink any alcohol, of course.","*魂魄妖梦
+当然，你不能喝酒哦。","*魂魄妖梦
+当然，你不能喝酒哦。","*魂魄妖夢
+當然，你不能喝酒哦。"
+Dialogue/FS_Youmu_Gift_Cake/001,Text,,"*콘파쿠 요우무
+와, 멋진 치즈 케이크네요.
+보기만 해도 맛있다는게 느껴져요!","*Youmu Konpaku
+Oh? This cheesecake looks exquisite.
+I can tell it'll taste wonderful.","*魂魄妖梦
+嗯？好精致的芝士蛋糕啊。
+看着就知道味道一定不会差。","*魂魄妖梦
+嗯？好精致的芝士蛋糕啊。
+看着就知道味道一定不会差。","*魂魄妖夢
+嗯？好精緻的芝士蛋糕啊。
+看著就知道味道一定不會差。"
+Dialogue/FS_Youmu_Gift_Cake/002,Text,,"*콘파쿠 요우무
+헤? 주신다구요?
+정말요?","*Youmu Konpaku
+Wait, you're giving this to me?
+Really?","*魂魄妖梦
+欸？你要送给我？
+真的吗？","*魂魄妖梦
+欸？你要送给我？
+真的吗？","*魂魄妖夢
+欸？你要送給我？
+真的嗎？"
+Dialogue/FS_Youmu_Gift_Cake/003,Text,,"*콘파쿠 요우무
+그럼 저희 같이 먹죠!","*Youmu Konpaku
+Let's enjoy it together then!","*魂魄妖梦
+那就让我们一起来享用它吧！","*魂魄妖梦
+那就让我们一起来享用它吧！","*魂魄妖夢
+那就讓我們一起來享用它吧！"
+Dialogue/FS_Youmu_Gift_Cake/004,Text,,"*콘파쿠 요우무
+자요, 루시.
+아앙~","*Youmu Konpaku
+Here, Lucy.
+Open wide, aaah~","*魂魄妖梦
+来，露西。
+张嘴，啊~","*魂魄妖梦
+来，露西。
+张嘴，啊~","*魂魄妖夢
+來，露西。
+張嘴，啊~"
+Dialogue/FS_Youmu_Gift_Fan/001,Text,,"*콘파쿠 요우무
+오오! 고급스러워 보이는 프라이팬이네요!","*Youmu Konpaku
+Whoa! This frying pan looks high-quality!","*魂魄妖梦
+哦！这个平底锅看起来好高级啊！","*魂魄妖梦
+哦！这个平底锅看起来好高级啊！","*魂魄妖夢
+哦！這個平底鍋看起來好高級啊！"
+Dialogue/FS_Youmu_Gift_Fan/002,Text,,"*콘파쿠 요우무
+이래 봬도 전 요리를 잘한답니다? 유유코님의 식사도 매일 만들고 있는걸요.","*Youmu Konpaku
+Don't underestimate me—I'm quite skilled at cooking! I handle Lady Yuyuko's meals.","*魂魄妖梦
+别看我这样，我可是很擅长料理的哦，幽幽子大人的日常饮食都是我做的。","*魂魄妖梦
+别看我这样，我可是很擅长料理的哦，幽幽子大人的日常饮食都是我做的。","*魂魄妖夢
+別看我這樣，我可是很擅長料理的哦，幽幽子大人的日常飲食都是我做的。"
+Dialogue/FS_Youmu_Gift_Fan/003,Text,,"*콘파쿠 요우무
+괜찮다면 다음번에 제가 만든 요리를 드셔보세요!","*Youmu Konpaku
+Come try my dishes sometime!","*魂魄妖梦
+以后可以的话，来尝尝我做的料理吧！","*魂魄妖梦
+以后可以的话，来尝尝我做的料理吧！","*魂魄妖夢
+以後可以的話，來嘗嘗我做的料理吧！"
+Dialogue/FS_Youmu_Gift_Fan/004,Text,,"*콘파쿠 요우무
+분명 마음에 드실거에요~","*Youmu Konpaku
+You'll love them, I promise~","*魂魄妖梦
+你一定会喜欢的~","*魂魄妖梦
+你一定会喜欢的~","*魂魄妖夢
+你一定會喜歡的~"
+Dialogue/FS_Youmu_Gift_Mugwort/001,Text,,"*콘파쿠 요우무
+저에게 주시는건가요?
+고마워요, 루시.","*Youmu Konpaku
+A gift for me?
+Thank you, Lucy.","*魂魄妖梦
+这是送给我的礼物？
+谢谢你，露西。","*魂魄妖梦
+这是送给我的礼物？
+谢谢你，露西。","*魂魄妖夢
+這是送給我的禮物？
+謝謝你，露西。"
+Dialogue/FS_Youmu_Gift_Mugwort/002,Text,,"*콘파쿠 요우무
+와, 쑥이네요.
+정원을 가꾸다 보면 자주 보인답니다.","*Youmu Konpaku
+Oh, mugwort! I find lots of this while gardening.","*魂魄妖梦
+哇，是艾草啊。
+我在修剪庭院的时候会发现不少呢。","*魂魄妖梦
+哇，是艾草啊。
+我在修剪庭院的时候会发现不少呢。","*魂魄妖夢
+哇，是艾草啊。
+我在修剪庭院的時候會發現不少呢。"
+Dialogue/FS_Youmu_Gift_Mugwort/003,Text,,"*콘파쿠 요우무
+쑥은 식재료로도, 약재로도 쓸 수 있어요.","*Youmu Konpaku
+It's versatile—used in food and medicine~","*魂魄妖梦
+艾草的用途可广了呢，既能做食材，又是药材呢~","*魂魄妖梦
+艾草的用途可广了呢，既能做食材，又是药材呢~","*魂魄妖夢
+艾草的用途可廣了呢，既能做食材，又是藥材呢~"
+Dialogue/FS_Youmu_Gift_Mugwort/004,Text,,"*콘파쿠 요우무
+방주에 돌아가면 루시에게 쑥떡을 만들어 드릴게요!","*Youmu Konpaku
+When we return to the Ark, I'll make mugwort mochi for you!","*魂魄妖梦
+等回到了方舟，我用它来做艾叶糍粑给露西你尝吧！","*魂魄妖梦
+等回到了方舟，我用它来做艾叶糍粑给露西你尝吧！","*魂魄妖夢
+等回到了方舟，我用它來做艾葉糍粑給露西你嘗吧！"
+Dialogue/FS_Youmu_Lv1/001,Text,,<color=#919191>(요우무는 불 옆에서 검을 손질하고 있다.)</color>,<color=#919191>(Youmu Konpaku is maintaining her swords by the fire)</color>,<color=#919191>（魂魄妖梦在火堆旁保养着自己的刀）</color>,<color=#919191>（魂魄妖梦在火堆旁保养着自己的刀）</color>,<color=#919191>（魂魄妖夢在火堆旁保養著自己的刀）</color>
+Dialogue/FS_Youmu_Lv1/002,Text,,"*콘파쿠 요우무
+루시, 그렇게 빤히 쳐다보면 부끄러워요.","*Youmu Konpaku
+Lucy, your staring is making me self-conscious.","*魂魄妖梦
+露西，你这样目不转睛地盯着我看我会不好意思的。","*魂魄妖梦
+露西，你这样目不转睛地盯着我看我会不好意思的。","*魂魄妖夢
+露西，你這樣目不轉睛地盯著我看我會不好意思的。"
+Dialogue/FS_Youmu_Lv1/003,Text,,"아, 미안.
+방금 전의 일이 생각나서.","Ah, sorry.
+I was lost in thought.","啊，抱歉。
+我在想刚刚的事。","啊，抱歉。
+我在想刚刚的事。","啊，抱歉。
+我在想剛剛的事。"
+Dialogue/FS_Youmu_Lv1/004,Text,,"*콘파쿠 요우무
+방금 전?","*Youmu Konpaku
+About what?","*魂魄妖梦
+刚刚的事？","*魂魄妖梦
+刚刚的事？","*魂魄妖夢
+剛剛的事？"
+Dialogue/FS_Youmu_Lv1/005,Text,,"적들이 전혀 상대도 안 됐잖아.
+정말 굉장해, 요우무 씨.","Those enemies earlier were no match for you.
+You're amazing, Lady Youmu.","刚刚那些挡着我们的敌人都不是你的对手。
+你好厉害啊，妖梦小姐。","刚刚那些挡着我们的敌人都不是你的对手。
+你好厉害啊，妖梦小姐。","剛剛那些擋著我們的敵人都不是你的對手。
+你好厲害啊，妖夢小姐。"
+Dialogue/FS_Youmu_Lv1/006,Text,,"*콘파쿠 요우무
+그냥 요우무라고 불러주세요. 나이 차이도 많이 안 나는걸요.","*Youmu Konpaku
+Just ""Youmu"" is fine. I'm not much older.","*魂魄妖梦
+叫我妖梦就好啦，我也没比你大多少。","*魂魄妖梦
+叫我妖梦就好啦，我也没比你大多少。","*魂魄妖夢
+叫我妖夢就好啦，我也沒比你大多少。"
+Dialogue/FS_Youmu_Lv1/007,Text,,"*콘파쿠 요우무
+그리고, 저는 오랫동안 검술을 수련했거든요.
+그만큼 연습하면 누구나 할 수 있을거에요.","*Youmu Konpaku
+I've simply practiced swordsmanship for centuries.
+You could reach this level too.","*魂魄妖梦
+我只是修行了很长很长时间的剑术啦。
+如果只是这种程度的话你也可以做到的。","*魂魄妖梦
+我只是修行了很长很长时间的剑术啦。
+如果只是这种程度的话你也可以做到的。","*魂魄妖夢
+我只是修行了很長很長時間的劍術啦。
+如果只是這種程度的話你也可以做到的。"
+Dialogue/FS_Youmu_Lv1/008,Text,,정말? 나도 강해져서 모두의 도움이 되고싶어.,Really? I want to grow stronger—to contribute more.,真的吗？我也想变得更加强大，能够在探索中出一份力。,真的吗？我也想变得更加强大，能够在探索中出一份力。,真的嗎？我也想變得更加強大，能夠在探索中出一份力。
+Dialogue/FS_Youmu_Lv1/009,Text,,"*콘파쿠 요우무
+하지만 루시만이 타임 셰이드를 찾을 수 있잖아요?
+이미 큰 도움이 되고 있는걸요.","*Youmu Konpaku
+Lucy, you are the Girl of Prophecy, only you can find the Time Shades.
+You have already helped us a lot in that regard.","*魂魄妖梦
+露西你是预言少女，只有你才能找到时光之影。
+你已经在这方面帮到我们很多了。","*魂魄妖梦
+露西你是预言少女，只有你才能找到时光之影。
+你已经在这方面帮到我们很多了。","*魂魄妖夢
+露西你是預言少女，只有你才能找到時光之影。
+你已經在這方面幫到我們很多了。"
+Dialogue/FS_Youmu_Lv1/010,Text,,난 모두가 싸울 때 항상 보호만 받잖아. 나도 같이 싸워서 돕고싶어.,"But in battles, I'm always protected. I want to fight too.",可是每次战斗时，我总是在被你们保护着，我也想为战斗出一份力。,可是每次战斗时，我总是在被你们保护着，我也想为战斗出一份力。,可是每次戰鬥時，我總是在被你們保護著，我也想為戰鬥出一份力。
+Dialogue/FS_Youmu_Lv1/011,Text,,"*콘파쿠 요우무
+으음…… 그래도 제가 가르쳐 드릴만한건……","*Youmu Konpaku
+Hmm... I don't know what I could teach you...","*魂魄妖梦
+嗯……就算这样，我也没什么可以教给你的啊……","*魂魄妖梦
+嗯……就算这样，我也没什么可以教给你的啊……","*魂魄妖夢
+嗯……就算這樣，我也沒什麼可以教給你的啊……"
+Dialogue/FS_Youmu_Lv1/012,Text,,그럼 내 검술 연습을 도와주는건 어때?,Then train me in swordsmanship!,那你来帮我进行剑术修行吧，怎么样？,那你来帮我进行剑术修行吧，怎么样？,那你來幫我進行劍術修行吧，怎麼樣？
+Dialogue/FS_Youmu_Lv1/013,Text,,"*콘파쿠 요우무
+응? 루시도 검을 쓸 줄 아세요?","*Youmu Konpaku
+Eh? You know sword techniques?","*魂魄妖梦
+啊？露西你会用剑的吗？","*魂魄妖梦
+啊？露西你会用剑的吗？","*魂魄妖夢
+啊？露西你會用劍的嗎？"
+Dialogue/FS_Youmu_Lv1/014,Text,,아자르가 조금 가르쳐줬어. 목검만 써보긴 했지만……,"Azar taught me a little bit of swordsmanship, but I've always used a wooden sword…",阿扎尔有教过我一点点剑法，不过一直在用木剑就是了……,阿扎尔有教过我一点点剑法，不过一直在用木剑就是了……,阿紮爾有教過我一點點劍法，不過一直在用木劍就是了……
+Dialogue/FS_Youmu_Lv1/015,Text,,"*콘파쿠 요우무
+알겠어요, 시계탑에서 복귀하면 도와드릴게요.","*Youmu Konpaku
+Fine. After we leave the Clock Tower, I'll train you.","*魂魄妖梦
+行吧，等到从钟楼回去之后，我就教你。","*魂魄妖梦
+行吧，等到从钟楼回去之后，我就教你。","*魂魄妖夢
+行吧，等到從鐘樓回去之後，我就教你。"
+Dialogue/FS_Youmu_Lv1/016,Text,,"좋아, 약속한거야?",Okay~ It's a deal!,好~一言为定！,好~一言为定！,好~一言為定！
+Dialogue/FS_Youmu_Lv1/017,Text,,"*콘파쿠 요우무
+네, 하지만 오늘은 이만 자는게 좋겠어요. 내일은 일찍 일어나야 하니까요.","*Youmu Konpaku
+Time to sleep. We rise early tomorrow.","*魂魄妖梦
+时候不早了，该睡觉了，明天还要早起呢。","*魂魄妖梦
+时候不早了，该睡觉了，明天还要早起呢。","*魂魄妖夢
+時候不早了，該睡覺了，明天還要早起呢。"
+Dialogue/FS_Youmu_Lv1/018,Text,,"잘 자, 요우무.","Goodnight, Youmu~",晚安，妖梦~,晚安，妖梦~,晚安，妖夢~
+Dialogue/FS_Youmu_Lv1/019,Text,,"*콘파쿠 요우무
+루시도 안녕히 주무세요.","*Youmu Konpaku
+Sleep well~","*魂魄妖梦
+嗯，晚安~","*魂魄妖梦
+嗯，晚安~","*魂魄妖夢
+嗯，晚安~"
+Dialogue/FS_Youmu_Lv2/001,Text,,요우무……,Youmu…,妖梦……,妖梦……,妖夢……
+Dialogue/FS_Youmu_Lv2/002,Text,,"*콘파쿠 요우무
+……………","*Youmu Konpaku
+...","*魂魄妖梦
+……………","*魂魄妖梦
+……………","*魂魄妖夢
+……………"
+Dialogue/FS_Youmu_Lv2/003,Text,,요우무 씨!,Miss Youmu!,妖梦小姐！,妖梦小姐！,妖夢小姐！
+Dialogue/FS_Youmu_Lv2/004,Text,,"*콘파쿠 요우무
+[sh]꺄악! 루, 루시였군요……","*Youmu Konpaku
+[sh]Eep! Oh, it's just you...","*魂魄妖梦
+[sh]啊！原来是露西你叫我啊……","*魂魄妖梦
+[sh]啊！原来是露西你叫我啊……","*魂魄妖夢
+[sh]啊！原來是露西你叫我啊……"
+Dialogue/FS_Youmu_Lv2/005,Text,,"*콘파쿠 요우무
+휴우, 유령인 줄 알았어요……","*Youmu Konpaku
+I thought you were a ghost...","*魂魄妖梦
+我还以为是什么幽灵……","*魂魄妖梦
+我还以为是什么幽灵……","*魂魄妖夢
+我還以為是什麼幽靈……"
+Dialogue/FS_Youmu_Lv2/006,Text,,반인반령인데 유령이 무서워?,"Aren't you half-human and half-phantom, why are you afraid of ghosts?",你不是半人半灵嘛，怎么还怕幽灵的？,你不是半人半灵嘛，怎么还怕幽灵的？,你不是半人半靈嘛，怎麼還怕幽靈的？
+Dialogue/FS_Youmu_Lv2/007,Text,,"*콘파쿠 요우무
+하지만 무서운건 무서운걸요……","*Youmu Konpaku
+I'm afraid of many things...","*魂魄妖梦
+害怕的东西就是怕嘛……","*魂魄妖梦
+害怕的东西就是怕嘛……","*魂魄妖夢
+害怕的東西就是怕嘛……"
+Dialogue/FS_Youmu_Lv2/008,Text,,……………,...,……………,……………,……………
+Dialogue/FS_Youmu_Lv2/009,Text,,"*콘파쿠 요우무
+그, 그건 그렇고 루시, 저에게 무슨 볼일이라도 있나요?","*Youmu Konpaku
+Anyway, why did you call me?","*魂魄妖梦
+不说这个了，露西你叫我有什么事吗？","*魂魄妖梦
+不说这个了，露西你叫我有什么事吗？","*魂魄妖夢
+不說這個了，露西你叫我有什麼事嗎？"
+Dialogue/FS_Youmu_Lv2/010,Text,,그 반령 만져봐도 될까?,Can I pet your Half-Phantom?,我能摸摸你的半灵吗？,我能摸摸你的半灵吗？,我能摸摸你的半靈嗎？
+Dialogue/FS_Youmu_Lv2/011,Text,,"*콘파쿠 요우무
+네, 상관은 없는데요……
+차가우니까 조심하세요.","*Youmu Konpaku
+I don't mind...
+It's cold though.","*魂魄妖梦
+嘛，我其实是无所谓的……
+很冰的哦，要小心点。","*魂魄妖梦
+嘛，我其实是无所谓的……
+很冰的哦，要小心点。","*魂魄妖夢
+嘛，我其實是無所謂的……
+很冰的哦，要小心點。"
+Dialogue/FS_Youmu_Lv2/012,Text,,<color=#919191>(요우무는 반령을 루시에게 보냈다.)</color>,<color=#919191>(Youmu controls the phantom to float into Lucy's hands)</color>,<color=#919191>（妖梦操控着半灵飞到了露西的手中）</color>,<color=#919191>（妖梦操控着半灵飞到了露西的手中）</color>,<color=#919191>（妖夢操控著半靈飛到了露西的手中）</color>
+Dialogue/FS_Youmu_Lv2/013,Text,,"와, 정말로 차갑네.
+그런데 부드러워.","Wow, chilly!
+But so fluffy.","哇，好冰！
+不过摸起来软软的。","哇，好冰！
+不过摸起来软软的。","哇，好冰！
+不過摸起來軟軟的。"
+Dialogue/FS_Youmu_Lv2/014,Text,,"안고있으니 진정되는 느낌도 들고…
+같이 껴안고 자도 될까?","It'd make a great pillow.
+Can I sleep with it?","感觉抱着会很舒服耶。
+我能抱着它睡觉嘛~","感觉抱着会很舒服耶。
+我能抱着它睡觉嘛~","感覺抱著會很舒服耶。
+我能抱著它睡覺嘛~"
+Dialogue/FS_Youmu_Lv2/015,Text,,"*콘파쿠 요우무
+앗! 네, 네! 전 좋아요!","*Youmu Konpaku
+Eh?! S-sleep together?!","*魂魄妖梦
+欸！要，要一起睡觉吗！","*魂魄妖梦
+欸！要，要一起睡觉吗！","*魂魄妖夢
+欸！要，要一起睡覺嗎！"
+Dialogue/FS_Youmu_Lv2/016,Text,,"*콘파쿠 요우무
+그런데, 제가 잠버릇이 별로 안 좋은데 괜찮을까요……","*Youmu Konpaku
+I... I toss and turn...","*魂魄妖梦
+我的睡相不是很好啊……","*魂魄妖梦
+我的睡相不是很好啊……","*魂魄妖夢
+我的睡相不是很好啊……"
+Dialogue/FS_Youmu_Lv2/017,Text,,나는 반령만 있으면 되는걸. 요우무는 없어도 돼.,Just the Half-Phantom then. You don't have to come with me.,我只要半灵就好了，妖梦你不用一起过来的。,我只要半灵就好了，妖梦你不用一起过来的。,我只要半靈就好了，妖夢你不用一起過來的。
+Dialogue/FS_Youmu_Lv2/018,Text,,"*콘파쿠 요우무
+반령도 반인도 저라구요!
+우우우……","*Youmu Konpaku
+I'm a half-human, AND half-phantom too!
+Boohoo…","*魂魄妖梦
+半人是我，半灵也是我啊！
+呜呜呜……","*魂魄妖梦
+半人是我，半灵也是我啊！
+呜呜呜……","*魂魄妖夢
+半人是我，半靈也是我啊！
+嗚嗚嗚……"
+Dialogue/FS_Youmu_Lv2/018_Option1,Text,,그럼 됐어,Then forget it.,那还是算了吧,那还是算了吧,那還是算了吧
+Dialogue/FS_Youmu_Lv2/018_Option2,Text,,반령만 줘,"As expected, I still want the Phantom.",果然还是就要半灵,果然还是就要半灵,果然還是就要半靈
+Dialogue/FS_Youmu_Lv2/018_Option3,Text,,같이 자자,Let's sleep together.,那我们就一起睡吧,那我们就一起睡吧,那我們就一起睡吧
+Dialogue/FS_Youmu_Lv2/018_1_1,Text,,"귀찮아……
+역시 그만둘래.","So troublesome...
+Then, forget it.","听起来好麻烦啊……
+果然还是算了吧。","听起来好麻烦啊……
+果然还是算了吧。","聽起來好麻煩啊……
+果然還是算了吧。"
+Dialogue/FS_Youmu_Lv2/018_1_2,Text,,"*콘파쿠 요우무
+아앗, 포기가 빨라.","*Youmu Konpaku
+Lost interest already?","*魂魄妖梦
+欸，这么快就厌倦了吗。","*魂魄妖梦
+欸，这么快就厌倦了吗。","*魂魄妖夢
+欸，這麼快就厭倦了嗎。"
+Dialogue/FS_Youmu_Lv2/018_1_3,Text,,"*콘파쿠 요우무
+그래요, 루시가 원하는대로 하는게 최고죠.","*Youmu Konpaku
+Well, whatever makes you happy, I guess.","*魂魄妖梦
+嘛，露西你高兴就好。","*魂魄妖梦
+嘛，露西你高兴就好。","*魂魄妖夢
+嘛，露西你高興就好。"
+Dialogue/FS_Youmu_Lv2/018_2_1,Text,,"아니, 역시 반령이만 있으면 충분해.","No, I still want the Phantom.",不行，果然还是就要半灵就好了。,不行，果然还是就要半灵就好了。,不行，果然還是就要半靈就好了。
+Dialogue/FS_Youmu_Lv2/018_2_2,Text,,"*콘파쿠 요우무
+애초에 서로 멀리 떨어질 수 없다구요!","*Youmu Konpaku
+We can't separate that far.","*魂魄妖梦
+我不能分开太远的，做不到的啊。","*魂魄妖梦
+我不能分开太远的，做不到的啊。","*魂魄妖夢
+我不能分開太遠的，做不到的啊。"
+Dialogue/FS_Youmu_Lv2/018_2_3,Text,,끈질겨……,"Youmu, you're lame...",妖梦，好逊……,妖梦，好逊……,妖夢，好遜……
+Dialogue/FS_Youmu_Lv2/018_3_1,Text,,"알았어, 같이 자자.","Fine, let's sleep together.",好啦好啦，那我们就一起睡吧。,好啦好啦，那我们就一起睡吧。,好啦好啦，那我們就一起睡吧。
+Dialogue/FS_Youmu_Lv2/018_3_2,Text,,"*콘파쿠 요우무
+루시……","*Youmu Konpaku
+Lucy…","*魂魄妖梦
+露西……","*魂魄妖梦
+露西……","*魂魄妖夢
+露西……"
+Dialogue/FS_Youmu_Lv2/018_3_3,Text,,하지만 잠들기 전에 꼭 빼놓을 수 없는게 있지. 바로 유령 이야기야.,But first—ghost stories!,不过说到睡前不可缺少的环节，果然还是鬼故事环节吧！,不过说到睡前不可缺少的环节，果然还是鬼故事环节吧！,不過說到睡前不可缺少的環節，果然還是鬼故事環節吧！
+Dialogue/FS_Youmu_Lv2/018_3_4,Text,,"*콘파쿠 요우무
+[sh]아와와와…… 싫어요 싫어요, 귀신 무서워……","*Youmu Konpaku
+[sh]N-no! I hate ghosts!","*魂魄妖梦
+[sh]啊哇哇哇……不要啊，我最怕鬼了……","*魂魄妖梦
+[sh]啊哇哇哇……不要啊，我最怕鬼了……","*魂魄妖夢
+[sh]啊哇哇哇……不要啊，我最怕鬼了……"
+Dialogue/FS_Youmu_Lv2/018_3_5,Text,,귀여워……,"Hehe, cute reaction.",呵呵，妖梦好可爱。,呵呵，妖梦好可爱。,呵呵，妖夢好可愛。
+Dialogue/FS_Youmu_Lv2/019,Text,,"*콘파쿠 요우무
+어쨌든, 이만 잘 시간이에요. 내일도 뒤틀린 땅을 탐사해야 하니까요.","*Youmu Konpaku
+Anyway, it's time to rest. We still have to continue exploring the Twisted Land tomorrow.","*魂魄妖梦
+不管怎么说，该休息了。明天还要继续探索扭曲之地呢。","*魂魄妖梦
+不管怎么说，该休息了。明天还要继续探索扭曲之地呢。","*魂魄妖夢
+不管怎麼說，該休息了。明天還要繼續探索扭曲之地呢。"
+Dialogue/FS_Youmu_Lv2/020,Text,,"잘 자 요우무.
+잘 자 반령아.","Good night, Youmu.
+Good night, Phantom~","那就晚安了，妖梦。
+晚安，半灵~","那就晚安了，妖梦。
+晚安，半灵~","那就晚安了，妖夢。
+晚安，半靈~"
+Dialogue/FS_Youmu_Lv2/021,Text,,"*콘파쿠 요우무
+반령도 저라니까요……","*Youmu Konpaku
+But I am also a half-phantom…","*魂魄妖梦
+所以说半灵也是我啦……","*魂魄妖梦
+所以说半灵也是我啦……","*魂魄妖夢
+所以說半靈也是我啦……"
+Dialogue/FS_Youmu_Lv3/001,Text,,<color=#919191>(요우무는 불 옆에서 즐거운듯이 빵을 굽고있다.)</color>,<color=#919191>(Youmu cheerfully toasts bread by the fire)</color>,<color=#919191>（魂魄妖梦在火堆旁愉快地烤着面包）</color>,<color=#919191>（魂魄妖梦在火堆旁愉快地烤着面包）</color>,<color=#919191>（魂魄妖夢在火堆旁愉快地烤著麵包）</color>
+Dialogue/FS_Youmu_Lv3/002,Text,,요우무는 요리를 할 줄 아는구나.,"You cook too, Youmu?",妖梦，你原来是会做饭的啊。,妖梦，你原来是会做饭的啊。,妖夢，你原來是會做飯的啊。
+Dialogue/FS_Youmu_Lv3/003,Text,,"*콘파쿠 요우무
+흐흥, 언제나 유유코님의 식사를 준비하고 있으니까요!","*Youmu Konpaku
+Heh, Lady Yuyuko's meals are my duty~","*魂魄妖梦
+哼哼，幽幽子大人的日常饮食都是我负责的呢~","*魂魄妖梦
+哼哼，幽幽子大人的日常饮食都是我负责的呢~","*魂魄妖夢
+哼哼，幽幽子大人的日常飲食都是我負責的呢~"
+Dialogue/FS_Youmu_Lv3/004,Text,,"*콘파쿠 요우무
+그리고 환상향에서는 연회가 자주 열리곤 했죠.
+가끔 간식거리도 만들어 갔답니다.","*Youmu Konpaku
+Gensokyo held frequent banquets.
+I sometimes brought snacks.","*魂魄妖梦
+而且以前幻想乡经常会举办宴会呢。
+我偶尔也会做点小点心带过去。","*魂魄妖梦
+而且以前幻想乡经常会举办宴会呢。
+我偶尔也会做点小点心带过去。","*魂魄妖夢
+而且以前幻想鄉經常會舉辦宴會呢。
+我偶爾也會做點小點心帶過去。"
+Dialogue/FS_Youmu_Lv3/005,Text,,요리 솜씨가 정말 좋은가봐.,Your skills look professional.,你的厨艺看起来很好呢。,你的厨艺看起来很好呢。,你的廚藝看起來很好呢。
+Dialogue/FS_Youmu_Lv3/006,Text,,"*콘파쿠 요우무
+유유코님은 식탐이 많으셔서, 언제나 새로운 요리를 준비해야 하거든요……","*Youmu Konpaku
+Lady Yuyuko's appetite demands creativity...","*魂魄妖梦
+毕竟幽幽子大人很贪吃嘛，我总是要做一些新奇的食物……","*魂魄妖梦
+毕竟幽幽子大人很贪吃嘛，我总是要做一些新奇的食物……","*魂魄妖夢
+畢竟幽幽子大人很貪吃嘛，我總是要做一些新奇的食物……"
+Dialogue/FS_Youmu_Lv3/007,Text,,그래서 유유코가 대체 누구야?,"Who's this ""Yuyuko"" you keep mentioning?",所以你一直在说的幽幽子谁啊？,所以你一直在说的幽幽子谁啊？,所以你一直在說的幽幽子誰啊？
+Dialogue/FS_Youmu_Lv3/008,Text,,"*콘파쿠 요우무
+아, 제가 말을 안 했었나요?","*Youmu Konpaku
+Didn't I explain before?","*魂魄妖梦
+啊，原来我没说过吗？","*魂魄妖梦
+啊，原来我没说过吗？","*魂魄妖夢
+啊，原來我沒說過嗎？"
+Dialogue/FS_Youmu_Lv3/009,Text,,응.,Nope.,没有哦。,没有哦。,沒有哦。
+Dialogue/FS_Youmu_Lv3/010,Text,,"*콘파쿠 요우무
+유유코님은 제 주인이시자, 사이교우지 가의 장녀세요.
+원래는 명계의 백옥루에서 같이 지냈어요.","*Youmu Konpaku
+Lady Yuyuko Saigyouji—my master, princess of Hakugyokurou in the Netherworld.","*魂魄妖梦
+幽幽子大人是我的主人，是西行寺家的大小姐。
+平时我们就生活在冥界的白玉楼里。","*魂魄妖梦
+幽幽子大人是我的主人，是西行寺家的大小姐。
+平时我们就生活在冥界的白玉楼里。","*魂魄妖夢
+幽幽子大人是我的主人，是西行寺家的大小姐。
+平時我們就生活在冥界的白玉樓裡。"
+Dialogue/FS_Youmu_Lv3/011,Text,,주인? 사이교우지? 명계?,Master? Netherworld?,主人？西行寺家？冥界？,主人？西行寺家？冥界？,主人？西行寺家？冥界？
+Dialogue/FS_Youmu_Lv3/012,Text,,무슨 말인지 하나도 모르겠어.,I didn't understand anything you said.,你怎么一直在说我听不懂的东西。,你怎么一直在说我听不懂的东西。,你怎麼一直在說我聽不懂的東西。
+Dialogue/FS_Youmu_Lv3/013,Text,,"*콘파쿠 요우무
+그, 그러니까 유유코님은… 공주님 같은 분이세요.
+저는 공주님의 호위구요.","*Youmu Konpaku
+Just think of her as a princess I protect.","*魂魄妖梦
+额，总之你就当幽幽子大人是个公主吧。
+我就是公主大人的护卫。","*魂魄妖梦
+额，总之你就当幽幽子大人是个公主吧。
+我就是公主大人的护卫。","*魂魄妖夢
+額，總之你就當幽幽子大人是個公主吧。
+我就是公主大人的護衛。"
+Dialogue/FS_Youmu_Lv3/014,Text,,"오오, 멋진데.","Wow, that sounds so cool.",哇，听起来好帅啊。,哇，听起来好帅啊。,哇，聽起來好帥啊。
+Dialogue/FS_Youmu_Lv3/015,Text,,백옥루에선 무슨 일을 하는거야?,What do you usually do at Hakugyokurou?,你平时都在白玉楼里做什么呢。,你平时都在白玉楼里做什么呢。,你平時都在白玉樓裡做什麼呢。
+Dialogue/FS_Youmu_Lv3/016,Text,,"*콘파쿠 요우무
+보통은 정원을 순찰하면서 식물들을 다듬는 정도네요.
+가끔 장을 보러 나가기도 하고요.","*Youmu Konpaku
+Gardening, mostly. Sometimes shopping trips.","*魂魄妖梦
+平日就在庭院里巡逻，修剪花草吧。
+不过偶尔还是会外出购物什么的。","*魂魄妖梦
+平日就在庭院里巡逻，修剪花草吧。
+不过偶尔还是会外出购物什么的。","*魂魄妖夢
+平日就在庭院裡巡邏，修剪花草吧。
+不過偶爾還是會外出購物什麼的。"
+Dialogue/FS_Youmu_Lv3/017,Text,,"*콘파쿠 요우무
+그리고 유유코님이 외출하실 때 저도 같이 따라가요.","*Youmu Konpaku
+I accompany Lady Yuyuko on outings—usually to banquets.","*魂魄妖梦
+如果幽幽子大人外出的话，我也会一起陪同外出。","*魂魄妖梦
+如果幽幽子大人外出的话，我也会一起陪同外出。","*魂魄妖夢
+如果幽幽子大人外出的話，我也會一起陪同外出。"
+Dialogue/FS_Youmu_Lv3/018,Text,,"*콘파쿠 요우무
+그 외출의 대부분은 연회에 가는 거지만요……","*Youmu Konpaku
+After all, lady Yuyuko goes out mostly to attend banquets…","*魂魄妖梦
+说到底幽幽子大人外出大多数也是去参加宴会吧……","*魂魄妖梦
+说到底幽幽子大人外出大多数也是去参加宴会吧……","*魂魄妖夢
+說到底幽幽子大人外出大多數也是去參加宴會吧……"
+Dialogue/FS_Youmu_Lv3/019,Text,,유유코를 정말 잘 따르네.,"You adore her, don't you?",你真的好喜欢幽幽子啊。,你真的好喜欢幽幽子啊。,你真的好喜歡幽幽子啊。
+Dialogue/FS_Youmu_Lv3/020,Text,,"*콘파쿠 요우무
+물론이죠! 유유코님을 지키는게 제 사명인걸요!","*Youmu Konpaku
+Absolutely! Protecting her is my life's purpose!","*魂魄妖梦
+当然了！守护幽幽子大人就是我的使命！","*魂魄妖梦
+当然了！守护幽幽子大人就是我的使命！","*魂魄妖夢
+當然了！守護幽幽子大人就是我的使命！"
+Dialogue/FS_Youmu_Lv3/021,Text,,"*콘파쿠 요우무
+제 목숨이 다할 때까지 말이에요.","*Youmu Konpaku
+I'll guard Lady Yuyuko until my last breath.","*魂魄妖梦
+我会守护住幽幽子大人，直到生命的尽头。","*魂魄妖梦
+我会守护住幽幽子大人，直到生命的尽头。","*魂魄妖夢
+我會守護住幽幽子大人，直到生命的盡頭。"
+Dialogue/FS_Youmu_Empty/001,Text,,"*콘파쿠 요우무
+고마워요.","*Youmu Konpaku
+Thank you.","*魂魄妖梦
+谢谢你。","*魂魄妖梦
+谢谢你。","*魂魄妖夢
+謝謝你。"
+,,,,,,,
+

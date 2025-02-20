@@ -1,0 +1,12 @@
+{
+    "B_PLANA_9_Shield": {
+        "Name": "噗噜噗噜",
+        "ClassName": "PLANA.B_PLANA_9_Shield",
+        "Icon": "B_PLANA_9\\B_PLANA_9_Shield_Icon.png",
+        "Description": "普拉娜在你受伤时保护你(剩余&a次)。",
+        "Tick": "null",
+        "BuffTag": "null",
+        "Caution": false,
+        "_gdeSchema": "Buff"
+    }
+}

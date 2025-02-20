@@ -1,0 +1,288 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Chess_Bishop_Description, Text,,버프를 획득하면 즉시 체스코드 스킬을 생성합니다. 매 턴의 시작마다 중첩된 버프의 숫자에 따라 체스코드 스킬을 생성합니다.,"When a buff is gained, immediately generate the corresponding "".chess"" skill. At the start of each turn, calculate the buff stacks and generate the corresponding "".chess"" skill.","バフを獲得したら、すぐに「.chess」スキルを使用します。
+ターンの開始時に、このバフのスタック数分だけ「.chess」スキルを使用します。",获得增益时，立即生成对应.chess技能；每回合开始时，结算增益层数并生成对应.chess技能,
+Buff/B_Chess_Bishop_Name, Text,,체스코드.비숍,Bishop.chess,Bishop.chess,执棋：主教,
+Buff/B_Chess_King_Description, Text,,"이 버프가 존재하는 동안 생성된 체스코드는 다음과 같은 효과를 얻습니다:
+폰: 추가 피해 20%(35% → 55%)
+룩: 받는 피해 감소량 20%에서 30%로 증가
+나이트: 공격횟수 1 증가
+비숍: 회복량이 피해량의 70%에서 120%로 증가
+퀸: 사용후 마나 1 회복","While this buff is active, generated chess pieces gain the following effects:
+Pawn: Additional 20% damage (35% → 55%)
+Rook: Damage reduction increased from -20% to -30%
+Knight: Number of attacks +1
+Bishop: Healing increased from 70% to 120% of damage dealt
+Queen: Restore 1 mana after action.","このバフの持続中に使用するチェスカードに、以下の効果を付与します。
+ポーン: 追加ダメージ+20% (35% → 55%)
+ルーク: ダメージ軽減が-20%から-30%に増加
+ナイト:攻撃回数+1
+ビショップ: 回復量がダメージの70%から120%に増加
+クイーン:行動後に1マナ回復","本增益存在期间生成的棋子行动获得对应增益：
+禁军：附加20%伤害（35%→55%）
+战车：减少的伤害值由-20%提升至-30%
+骑士：攻击次数+1
+主教：治疗值由伤害的70%提升至伤害的120%
+皇后：行动后恢复1点法力值",
+Buff/B_Chess_King_Name, Text,,체스코드.킹,King.chess,King.chess,执棋：国王,
+Buff/B_Chess_Knight_Description, Text,,버프를 획득하면 즉시 체스코드 스킬을 생성합니다. 매 턴의 시작마다 중첩된 버프의 숫자에 따라 체스코드 스킬을 생성합니다.,"When a buff is gained, immediately generate the corresponding "".chess"" skill. At the start of each turn, calculate the buff stacks and generate the corresponding "".chess"" skill.","バフを獲得したら、すぐに「.chess」スキルを使用します。
+ターンの開始時に、このバフのスタック数分だけ「.chess」スキルを使用します。",获得增益时，立即生成对应.chess技能；每回合开始时，结算增益层数并生成对应.chess技能,
+Buff/B_Chess_Knight_Ex_Description, Text,,"이 대상을 향해 사용하는 '체스코드'가 아닌 피해가 &a% 증가합니다.
+조사단의 턴마다 버프 지속 시간이 감소합니다.","The damage of non ""Pawn.chess"" skills targeting this character is increased by &a%.
+The duration of this debuff decreases with each investigator's turn.","このキャラクターをターゲットとする「Pawn.chess」でないダメージは&a%増加します。
+このバフの持続ターンは、味方のターンと共に減少します。 ","以该角色为目标的非禁军棋子伤害增加&a%.
+这个减益的持续时间随调查员回合减少。",
+Buff/B_Chess_Knight_Ex_Name, Text,,균형 잃음,Collision Imbalance,バランスを失う,冲撞失衡,
+Buff/B_Chess_Knight_Name, Text,,체스코드.나이트,Knight.chess,Knight.chess,执棋：骑士,
+Buff/B_Chess_Pawn_Description, Text,,버프를 획득하면 즉시 체스코드 스킬을 생성합니다. 매 턴의 시작마다 중첩된 버프의 숫자에 따라 체스코드 스킬을 생성합니다.,"When a buff is gained, immediately generate the corresponding "".chess"" skill. At the start of each turn, calculate the buff stacks and generate the corresponding "".chess"" skill.","バフを獲得したら、すぐに「.chess」スキルを使用します。
+ターンの開始時に、このバフのスタック数分だけ「.chess」スキルを使用します。",获得增益时，立即生成对应.chess技能；每回合开始时，结算增益层数并生成对应.chess技能,
+Buff/B_Chess_Pawn_Name, Text,,체스코드.폰,Pawn.chess,Pawn.chess,执棋：禁军,
+Buff/B_Chess_Queen_Description, Text,,버프를 획득하면 즉시 체스코드 스킬을 생성합니다. 매 턴의 시작마다 중첩된 버프의 숫자에 따라 체스코드 스킬을 생성합니다.,"When a buff is gained, immediately generate the corresponding "".chess"" skill. At the start of each turn, calculate the buff stacks and generate the corresponding "".chess"" skill.","バフを獲得したら、すぐに「.chess」スキルを使用します。
+ターンの開始時に、このバフのスタック数分だけ「.chess」スキルを使用します。",获得增益时，立即生成对应.chess技能；每回合开始时，结算增益层数并生成对应.chess技能,
+Buff/B_Chess_Queen_Name, Text,,체스코드.퀸,Queen.chess,Queen.chess,执棋：皇后,
+Buff/B_Chess_Rook_Description, Text,,버프를 획득하면 즉시 체스코드 스킬을 생성합니다. 매 턴의 시작마다 중첩된 버프의 숫자에 따라 체스코드 스킬을 생성합니다.,"When a buff is gained, immediately generate the corresponding "".chess"" skill. At the start of each turn, calculate the buff stacks and generate the corresponding "".chess"" skill.","バフを獲得したら、すぐに「.chess」スキルを使用します。
+ターンの開始時に、このバフのスタック数分だけ「.chess」スキルを使用します。",获得增益时，立即生成对应.chess技能；每回合开始时，结算增益层数并生成对应.chess技能,
+Buff/B_Chess_Rook_Ex_Description, Text,,,,,,
+Buff/B_Chess_Rook_Ex_Name, Text,,위치로,Rook in Position,位置している,战车就位,
+Buff/B_Chess_Rook_Name, Text,,체스코드.룩,Rook.chess,Rook.chess,执棋：战车,
+Buff/B_Queen_Promotion_Description, Text,,턴 시작시 프로모션이 8중첩일 경우 모든 중첩을 사용하여 무작위 체스코드 버프를 획득합니다.,"At the start of the turn, if the stacks reach 8, you can choose to consume all stacks and randomly gain one "".chess"" buff.",ターンの開始時に8スタックある場合、全てのスタックを消費してランダムな「.chessバフ」を獲得します。,回合开始时，若叠加至8层，则可选择消耗所有层数并随机获得一种“执棋”增益。,
+Buff/B_Queen_Promotion_Name, Text,,프로모션,Promotion,Promotion,升变,
+Buff/B_Queen_QP_Rare_2_BattleStart_Description, Text,,,,,,
+Buff/B_Queen_QP_Rare_2_BattleStart_Name, Text,,checkmateCount,checkmateCount,checkmateCount,checkmateCount,
+Buff/B_Queen_QP_Rare_2_Description, Text,,,,,,
+Buff/B_Queen_QP_Rare_2_Name, Text,,checkmateCount,checkmateCount,checkmateCount,checkmateCount,
+Character/Queen_QP_PassiveDes, Text,,"전투가 시작할 때, ""체스코드.폰""을 카운트 3으로 시전합니다.
+Lv3 : ""체스코드.폰""을 추가로 시전합니다.
+Lv4 : ""체스코드.폰""을 추가로 시전합니다.
+
+여왕의 공격 스킬이 적에게 적중하면, 가장 낮은 카운트를 가진 체스코드를 즉시 사용합니다.","At the start of battle, place 1 ""Pawn.chess"" with a countdown of 3.
+Lv3: Place an additional ""Pawn.chess"".
+Lv4: Place another ""Pawn.chess"".
+When your attack skill hits an enemy, the chess piece with the lowest countdown in the queue will follow up with an action.","戦闘開始時に、カウントダウン3 の「Pawn.chess」を配置します。
+Lv3：「Pawn.chess」を追加
+Lv4：「Pawn.chess」を追加
+クイーンの攻撃スキルで敵を攻撃すると、最もカウントダウンの少ない.chessが即座に使用されます。","战斗开始时，置入1个倒计时为3的“禁军.chess”
+lv3：额外置入1个“禁军.chess”
+lv4：再额外置入1个“禁军.chess”
+使用自己的攻击技能命中敌人时，倒计时队列中倒计时数最小的棋子行动将跟随释放",
+Character/Queen_QP_PassiveName, Text,,체크메이트,Checkmate,チェックメイト,将军行动,
+Character/Queen_QP_SelectInfo, Text,,"여왕은 파로스 교단으로 인해 생성된 혼란스러운 데이터 흐름을 조사하기 위해 개체 투영 장치와 해킹용 글러브(연구소에서 제공됨)를 장비했습니다.
+
+체스말은 여왕에게 매우 공격적인 전투 수단을 제공합니다. 여왕은 지속적으로 공격을 사용하는 '체스말' 버프를 자신에게 적용합니다. 체스판에 군대를 배치하는 것과 같은 이러한 전투스타일은 여왕에게 강력한 연속 공격 기능을 제공합니다.","A world-renowned hacker—at least before the Great Catastrophe. Her right hand is equipped with a specially coated hacking glove, a tool for infiltrating physical terminals.
+
+To investigate the chaotic data flow brought by the Pharos Order, she is now secretly employed by the investigation team, using a physical projection device and a modified hacking glove (both provided by the research institute) to materialize invasion codes as attack methods.
+
+Chess code provides QUEEN with highly aggressive attack methods. QUEEN can apply "".chess"" buffs to herself that continuously generate attacks, giving her a powerful sustained damage output akin to deploying troops on a chessboard.","ファロス教団によってもたらされた混沌としたデータの流れを調査するために、彼女は現在、調査チームに密かに雇われており、実体投影装置と改造されたハッカーグローブ（両方とも研究所が提供したもの）を使用することで、侵入用コードを実証しています。
+
+チェスコードはクイーンに非常に攻撃的な攻撃手段を提供します。女王は、継続的に攻撃を生成できる「.chess」バフを自分自身に適用できます。チェス盤上に軍隊を配置するようなこの戦闘スタイルは、彼女に強力な継戦能力を与えます。","世界著名的黑客——至少在大灾难发生前是如此。其右手的黑客手套上覆有特制的薄膜，是入侵物理终端的工具。
+
+为了调查法洛斯教团带来的紊乱数据流，现秘密受雇于调查团，利用实体投影装置与改造后的黑客手套（均由研究所提供），将用于入侵的代码实体化作为攻击手段。 
+
+象棋代码为女王提供高侵略性的攻击手段。女王可以为自己施加能够持续生成攻击的‘执棋’增益，这种如同在棋盘上排兵布阵的作战风格让她有着强大的持续输出能力。",
+Character/Queen_QP_Text_Battle_AllyND_0, Text,,방화벽 기동.,Firewall activated.,ファイアウォールをオンにするわ,开启防火墙。,
+Character/Queen_QP_Text_Battle_Cri_0, Text,,취약점 발견.,Vulnerability found.,脆弱性が見つかったわ……,找到漏洞了。,
+Character/Queen_QP_Text_Battle_Cri_1, Text,,공격.,Attack!,攻撃！,进攻。,
+Character/Queen_QP_Text_Battle_Healed_0, Text,,감사.,Thank you.,…ありがとう,感谢。,
+Character/Queen_QP_Text_Battle_Idle_0, Text,,스크립트 반복은 정상적입니다.,Script iteration normal.,スクリプトの反復は正常よ,脚本迭代正常。,
+Character/Queen_QP_Text_Battle_Kill_0, Text,,미션 완수됨.,Mission accomplished.,任務完了,任务完成。,
+Character/Queen_QP_Text_Battle_Kill_1, Text,,코드가 잘 작동하는지 확인해보죠.,Let's see how they handle this.,彼らがどのように処理するかを見てみましょう,让我看看他们要怎么处理这些东西。,
+Character/Queen_QP_Text_Battle_ND_0, Text,,자체 테스트 프로그램 준비.,Preparing self-test program.,セルフテストプログラムを準備しているわ,正在准备自检程序。,
+Character/Queen_QP_Text_Battle_ND_1, Text,,조금 긁혔을 뿐이에요.,Just a scratch.,ただのかすり傷よ,仅仅是刮伤罢了,
+Character/Queen_QP_Text_Battle_Start_0, Text,,시스템 기동.,System activated.,システム起動,系统启动。,
+Character/Queen_QP_Text_Battle_Start_1, Text,,언제든 재프로그래밍할 수 있습니다.,Ready to reprogram at any time.,いつでもリプログラムする準備はできているわ,随时可以准备重编程。,
+Character/Queen_QP_Text_Field_GetItem_0, Text,,쓸모있는 플러그인이네요.,Useful plugin.,便利なプラグインね,有用的插件。,
+Character/Queen_QP_Text_Field_Idle_0, Text,,,...,,..........,
+Character/Queen_QP_Text_Field_Potion_N_0, Text,,,,,,
+Character/Queen_QP_Text_Field_Potion_N_1, Text,,,,,,
+Character/Queen_QP_Text_Field_Potion_P_0, Text,,좋아요.,No problem.,いいわ,无妨。,
+Character/Queen_QP_Text_PharosLeader_0, Text,,,...,,..........,
+Character/Queen_QP_Text_PharosLeader_1, Text,,,...,,..........,
+Character/Queen_QP_Text_PharosLeader_2, Text,,,...,,..........,
+Character/Queen_QP_UnlockString, Text,,,,,,
+Character/Queen_QP_name, Text,,여왕,QUEEN,クイーン,女王,
+Skill/S_Chess_Bishop_Description, Text,,"프로모션:4
+대상이 사망하면 다시 카운트되고, 공격 대상을 전환합니다. 도발중이지 않은 대상과, 낮은 체력을 가진 대상에게 우선적으로 사용됩니다. 특수 효과를 부여합니다.","Promotion: 4
+When dealing damage, chain-heal a random ally for 70% of the damage dealt.","要求プロモーション:4
+ダメージを与えた時、他の味方をダメージ値の70%で連鎖治癒します。","升变:4
+造成伤害时，连锁治疗随机友军该次伤害值70%",
+Skill/S_Chess_Bishop_Name, Text,,체스코드.비숍,Bishop.chess,Bishop.chess,主教.chess,
+Skill/S_Chess_King_Description, Text,,프로모션:모두,Promotion: All,プロモーション:All,升变:All,
+Skill/S_Chess_King_Name, Text,,체스코드.킹,King.chess,King.chess,国王.chess,
+Skill/S_Chess_Knight_Description, Text,,"프로모션:3
+대상이 사망하면 다시 카운트되고, 공격 대상을 전환합니다. 도발중이지 않은 대상과, 낮은 체력을 가진 대상에게 우선적으로 사용됩니다. 특수 효과를 부여합니다.","Promotion: 3
+When placed in the countdown queue or when a unit dies, switch attack targets, prioritizing non-taunt and low-health targets.","要求プロモーション:3
+カウントダウン中に攻撃対象のユニットが死亡すると、挑発がなく体力の低いターゲットを優先して対象を切り替えます。その時、特殊効果を与えます。","升变:3
+置入倒计时队列和单位死亡时转换攻击目标，优先指定无嘲讽的目标和低血量的目标",
+Skill/S_Chess_Knight_Name, Text,,체스코드.나이트,Knight.chess,Knight.chess,骑士.chess,
+Skill/S_Chess_Knight_Tw_Description, Text,,"프로모션:4
+비아냥거리지 않는 적을 대상으로 우선 지정하고, 카운트다운은 목표 행동 카운트다운으로 조정(min)","Promotion: 4
+Prioritize non-taunt enemies as targets, adjusting the countdown to the target's action countdown (min).","要求プロモーション:4
+カウントダウン中に攻撃対象のユニットが死亡すると、挑発がなく体力の低いターゲットを優先して対象を切り替えます。その時、特殊効果を与えます。","升变:4
+优先指定非嘲讽敌人为目标，倒计时调整为目标行动倒计时（min）",
+Skill/S_Chess_Knight_Tw_Name, Text,,체스코드.나이트,Knight.chess,Knight.chess,骑士.chess,
+Skill/S_Chess_Pawn_Description, Text,,"프로모션:0
+카운트중인 스킬에 이미 폰이 있다면, 카운트를 1 추가합니다.
+공격시 프로모션 중첩을 1 획득합니다.","Promotion: 0
+If another Pawn already exists in the countdown queue, delay by 1 countdown.
+Gain 1 stack of Promotion when attacking.","要求プロモーション: 0
+他のPawnが既にカウントダウン キューに存在する場合、カウントダウンを1追加します。
+攻撃時、プロモーションが1上がります。","升变:0
+如果该倒计时队列中已存在其他禁军，则后退1倒计时置入。
+攻击时获得1层升变",
+Skill/S_Chess_Pawn_Name, Text,,체스코드.폰,Pawn.chess,Pawn.chess,禁军.chess,
+Skill/S_Chess_Queen_Description, Text,,"프로모션:5
+모든 적을 공격합니다.","Promotion: 5
+Attack all enemies.","要求プロモーション:5
+全体攻撃","升变:5
+攻击所有敌人",
+Skill/S_Chess_Queen_Name, Text,,체스코드.퀸,Queen.chess,Queen.chess,皇后.chess,
+Skill/S_Chess_Rook_Description, Text,,"프로모션:4
+방어력 무시
+카운트되는 동안 여왕이 공격받으면 즉시 시전합니다. 이 효과가 발생할 경우, 이번턴 동안 여왕이 받는 피해가 20% 감소합니다.","Promotion: 4
+Ignores defense.
+If QUEEN is attacked during the countdown, immediately trigger this effect, reducing the damage taken by 20%.","要求プロモーション:4
+防御無視。
+カウントダウン中に女王が攻撃された場合、すぐに使用されます。この効果が発動すると、クイーンはダメージの20%を受けます。","升变:4
+无视防御
+倒计时期间若女王受到攻击则立即释放，触发该效果时女王受到的此次伤害-20%",
+Skill/S_Chess_Rook_Name, Text,,체스코드.룩,Rook.chess,Rook.chess,战车.chess,
+Skill/S_Queen_Button_2_Promotion_Description, Text,,프로모션을 3중첩 획득합니다.,Gain 3 stacks of Promotion.,プロモーションを3スタック獲得します。,获得3层升变,
+Skill/S_Queen_Button_2_Promotion_Name, Text,,프로모션 준비,Prepare for Promotion,昇進準備,准备升变,
+Skill/S_Queen_Button_4_Chess_Description, Text,,무작위로 체스코드 버프를 획득합니다. 두번 반복합니다.,"Randomly gain 1 stack of .chess effect, repeat 2 times.",.chess 効果をランダムに1スタック獲得、これを2回繰り返します。,随机获得1层执棋效果，重复2次,
+Skill/S_Queen_Button_4_Chess_Name, Text,,공격!,Attack!,攻撃！,加快进攻,
+Skill/S_Queen_Button_4_Promotion_Description, Text,,프로모션을 6중첩 획득합니다.,Gain 6 stacks of Promotion.,プロモーションを6スタック獲得します。,获得6层升变,
+Skill/S_Queen_Button_4_Promotion_Name, Text,,프로모션!,Promotion!,プロモーション！,加速升变,
+Skill/S_Queen_Promotion_Cancel_Description, Text,,프로모션을 취소합니다.,Do not promote.,昇進しない,不进行晋升。,
+Skill/S_Queen_Promotion_Cancel_Name, Text,,프로모션 취소,Cancel Promotion,昇進しない,取消晋升,
+Skill/S_Queen_Promotion_Confirm_Description, Text,,"모든 프로모션을 사용하여, 무작위로 체스코드""버프를 획득합니다.""","Consume all stacks and randomly gain 1 stack of "".chess"" buff.",全てのプロモーションバフを消費し、ランダムな「.chess」バフを1スタック獲得します。,消耗所有层数并随机获得1层“执棋”增益。,
+Skill/S_Queen_Promotion_Confirm_Name, Text,,프로모션,Promotion,昇進,晋升,
+Skill/S_Queen_QP_1_Description, Text,,"각 유형의 ""체스코드"" 버프마다 10%의 추가 피해를 줍니다.
+사용시 다음의 두 효과중 하나를 발동합니다:
+1.""체스코드.폰"" 1중첩 획득
+2.프로모션 5중첩을 사용하여 ""체스코드.퀸"" 1중첩 획득","Each "".chess"" buff provides 10% additional damage.
+When used, choose one of the following effects:
+①. Gain 1 stack of ""Pawn.chess"" buff.
+②. Consume 5 stacks of Promotion to gain 1 stack of ""Queen.chess"" buff.","各「.chess」バフは10%の追加ダメージを与えます。
+使用時、次の2つの効果のいずれかを選択します。
+1.「Pawn.chess」バフを1スタック獲得
+2.プロモーションを5スタック消費し、「Queen.chess」バフを1スタック獲得","自身的每种“执棋”增益提供10%额外伤害
+释放时，从以下2个选项中选择一个触发：
+①.获得1层“执棋：禁军”增益
+②.消耗5层升变，获得1层“执棋：王后”增益",
+Skill/S_Queen_QP_1_Name, Text,,퀸사이드,Queenside Gambit.queen,クイーンサイド,后翼弃兵.queen,
+Skill/S_Queen_QP_2_Description, Text,,"다음의 세 효과중 하나를 발동합니다:
+1.""체스코드.폰"" 1중첩 획득
+2.지정된 양의 프로모션 중첩을 사용하여 체스코드 버프 획득(무작위 2종이 제시됩니다)
+3.프로모션 3중첩 획득","Choose one of the following effects:
+①. Gain 1 stack of ""Pawn.chess"" buff.
+②. Consume corresponding Promotion stacks to gain the presented Chess buffs (randomly select 2).
+③. Gain 3 stacks of Promotion.","使用時、次の3つの効果のいずれかを選択します。
+1.「Pawn.chess」バフを1スタック獲得
+2.対応する数のプロモーションスタックを消費することで、「.chess」バフを取得できる(提示されるのはランダム2種)。
+3.プロモーションを 3 スタック獲得","从以下3个选项中选择一个触发：
+①获得1层执棋：禁军增益
+②消耗对应升变层数，获得出现的执棋增益（随机抽选2个）
+③获得3层升变",
+Skill/S_Queen_QP_2_Name, Text,,준비된 오프닝,Opening Preparation.queen,得意戦術,开局准备.queen,
+Skill/S_Queen_QP_3_Description, Text,,"카운트중인 모든 체스코드 스킬이 도발을 무시하고 대상을 공격하며, 피해량이 55% 증가합니다.","All "".chess"" pieces in the countdown will ignore taunt and target this unit, with damage increased by 55%.",カウントダウン中の全ての「.chess 」はこのユニットを対象として使用され、そのダメージは55%増加します。,倒计时中的所有棋子的攻击将无视嘲讽以该单位为目标，且伤害提升55%,
+Skill/S_Queen_QP_3_Name, Text,,스큐어,Skewer.queen,スキュア,穿串.queen,
+Skill/S_Queen_QP_4_Description, Text,,"총 3회 사용할 수 있습니다.
+모든 체스코드 버프를 제거합니다.
+사용시 다음의 두 효과중 하나를 발동합니다.
+1.프로모션 6중첩 획득
+2.무작위 체스코드 버프 획득(킹 제외)
+2번 반복합니다.","Can be used 3 times in total.
+Remove all "".chess"" buffs.
+When used, choose one of the following effects:
+①. Gain 6 stacks of Promotion.
+②. Gain 1 random stack of "".chess"" buff (excluding King), repeat 2 times.","合計3回使用可能
+全ての「.chess」バフを削除します。
+使用時、次の2つの効果のいずれかを選択し、それを2回繰り返します。
+1.プロモーションを6スタック獲得
+2.ランダムな「.chess」バフ(king.chessを除く)のスタックを1つ獲得","总共可使用3次
+解除所有执棋增益
+释放时，从以下2个选项中选择一个触发：
+①.获得6层升变
+②.获得随机1层执棋增益（国王除外），重复2次",
+Skill/S_Queen_QP_4_Name, Text,,정리 희생,Clearance.queen,クリアランス,腾挪.queen,
+Skill/S_Queen_QP_5_Description, Text,,"모든 체스코드 버프의 지속시간이 1 감소하고, 체스코드 버프에 따라 체스코드 스킬을 생성합니다.","Reduce the duration of all "".chess"" buffs by 1 turn and immediately trigger their start-of-turn effects.",全ての「.chess」バフの持続ターン数を1減少させ、ターン開始時の生成効果を即座に発動させます。,所有执棋增益的持续回合数-1，并立即触发其回合开始时的生成效果,
+Skill/S_Queen_QP_5_Name, Text,,디스커버드 어택,Discovered Attack.queen,ディスカバード,闪击埋伏.queen,
+Skill/S_Queen_QP_6_Description, Text,,"적중시 ""체스코드.폰"" 2중첩을 획득합니다.","On hit, gain 2 stacks of ""Pawn.chess"" buff.",命中すると、「Pawn.chess」バフを2スタック獲得します。,命中时，获得2层执棋：禁军增益,
+Skill/S_Queen_QP_6_Name, Text,,커넥티드 패스드 폰,Connected Passed Pawn.queen,コネクト・ポーン,通路联兵.queen,
+Skill/S_Queen_QP_7_Description, Text,,"적의 수만큼 프로모션 중첩을 획득합니다.
+사용시 다음의 두 효과중 하나를 발동합니다.
+1.""체스코드.폰"" 1중첩 획득
+2.프로모션 4중첩을 사용하여 ""체스코드.룩"" 1중첩 획득","Gain Promotion stacks equal to the number of enemies present.
+When used, choose one of the following effects:
+①. Gain 1 stack of ""Pawn.chess"" buff.
+②. Consume 4 stacks of Promotion to gain 1 stack of ""Rook.chess"" buff.","敵の数と同じ数値のプロモーションスタックを取得します。
+使用時、次の2つの効果のいずれかを選択します。
+1.「Pawn.chess」バフを1スタック獲得
+2.プロモーションを4スタック消費し、「Rook.chess」バフを1スタック獲得","根据在场敌人数获得升变层数
+释放时，从以下2个选项中选择一个触发：
+①.获得1层“执棋：禁军”增益
+②.消耗4层升变，获得1层“执棋：战车”增益",
+Skill/S_Queen_QP_7_Name, Text,,퀸사이드 캐슬링,Queenside Castling.queen,キャスリング,王车易位.queen,
+Skill/S_Queen_QP_8_Description, Text,,"체스코드 버프의 지속시간을 1턴 증가시킵니다.
+사용시 다음의 두 효과중 하나를 발동합니다.
+1.""체스코드.폰"" 1중첩 획득
+2.프로모션 4중첩을 사용하여 ""체스코드.비숍"" 1중첩 획득","Increase the duration of all your "".chess"" buffs by 1 turn.
+When used, choose one of the following effects:
+①. Gain 1 stack of ""Pawn.chess"" buff.
+②. Consume 4 stacks of Promotion to gain 1 stack of ""Bishop.chess"" buff.","「.chess」バフの持続ターンを1増やします。
+使用時、次の2つの効果のいずれかを選択します。
+1.「Pawn.chess」バフを1スタック獲得
+2.プロモーションを4スタック消費し、「Bishop.chess」バフを1スタック獲得","自身所有“执棋”增益持续回合数+1
+释放时，从以下2个选项中选择一个触发：
+①.获得1层“执棋：禁军”增益
+②.消耗4层升变，获得1层“执棋：主教”增益",
+Skill/S_Queen_QP_8_Name, Text,,비숍쌍,Bishop Pair.queen,ビショップ・ペア,双象优势.queen,
+Skill/S_Queen_QP_9_Description, Text,,"프로모션 중첩수에 따라 소모하는 마나가 감소합니다.
+사용시 다음의 두 효과중 하나를 발동합니다.
+1.""체스코드.폰"" 1중첩 획득
+2.프로모션 3중첩을 사용하여 ""체스코드.나이트"" 1중첩 획득","Reduce the mana cost of this skill by the number of Promotion stacks.
+When used, choose one of the following effects:
+①. Gain 1 stack of ""Pawn.chess"" buff.
+②. Consume 3 stacks of Promotion to gain 1 stack of ""Knight.chess"" buff.","プロモーションバフのスタック数だけ、このスキルのマナコストを減少させます。
+使用時、次の2つの効果のいずれかを選択します。
+1.「Pawn.chess」バフを1スタック獲得
+2.プロモーションを3スタック消費し、「Knight.chess」バフを1スタック獲得","技能消耗的法力值降低升变层数的数值
+释放时，从以下2个选项中选择一个触发：
+①.获得1层“执棋：禁军”增益
+②.消耗3层升变，获得1层“执棋：骑士”增益",
+Skill/S_Queen_QP_9_Name, Text,,블로케이드,Blockade.queen,ブロケード,阻塞战术.queen,
+Skill/S_Queen_QP_LucyD_Description, Text,,"덱에서 스킬을 2개 뽑고, 프로모션을 2중첩 획득합니다.
+손에 있을때 카운트중인 스킬을 사용할 때 마다 이 스킬의 카운트가 1 감소합니다.","Draw two skills and gain 2 stacks of Promotion.
+While in hand, whenever an investigator's skill is used from the countdown queue, reduce this skill's countdown by 1.","スキルを2枚引いて、2プロモーションを得ます。
+手札に持っている時、カウントダウンで他のスキルが使用される度に、このスキルのカウントダウンが1ずつ減少します。","抽取两个技能，获得2层升变
+握在手中时，每当倒计时队列中有调查员的技能释放，该技能的倒计时-1",
+Skill/S_Queen_QP_LucyD_Name, Text,,재프로그램.퀸,Reprogram.queen,Reprogram.queen,重编程.queen,
+Skill/S_Queen_QP_Rare_1_Description, Text,,"'체스코드.킹'을 1중첩 획득합니다.
+모든 프로모션 중첩을 소모하고, 소모한 중첩 3개마다 무작위 체스코드 버프를 획득합니다.","Gain 1 stack of ""King.chess"" buff.
+Consume all Promotion stacks, and for every 3 stacks consumed, randomly gain 1 stack of "".chess"" buff.","戦闘開始時：「Pawn.chess」バフの最大スタック数+4
+プロモーションバフのスタック数に応じて、カウントダウンしている .chess スキル1つが即座に使用されます。
+「Pawn.chess」を使用するとダメージが+100％になり、プロモーションの追加スタックが得られます。
+使用後、消費マナが+1されて手札に戻ります。","获得1层 “执棋：国王”增益
+消耗所有升变层数,每消耗3层便随机获得1层执棋增益",
+Skill/S_Queen_QP_Rare_1_Name, Text,,킹사이드.퀸,Kingside.queen,Kingside.queen,王翼.queen,
+Skill/S_Queen_QP_Rare_2_Description, Text,,"전투 시작시: '체스코드.폰'의 최대 중첩수 +4
+프로모션 중첩 수와 일치하는 카운트를 가진 체스코드 스킬을 즉시 사용합니다. 이때 피해량이 100% 증가하고, '체스코드.폰'을 사용할 때 추가로 프로모션 중첩을 획득합니다.
+사용 후 손으로 되돌아오고, 소모하는 마나가 1 증가합니다.","At the start of battle, increase the maximum stacks of ""Pawn.chess"" by 4.
+Immediately release the actions of one chess piece in the countdown based on Promotion stacks, with damage increased by 100% and gaining an additional stack of Promotion when using ""Pawn.chess"".
+After use, return to hand and increase mana cost by 1.","戦闘開始時：「Pawn.chess」バフの最大スタック数+4
+プロモーションバフのスタック数に応じて、カウントダウンしている .chess スキル1つが即座に使用されます。
+「Pawn.chess」を使用するとダメージが+100％になり、プロモーションの追加スタックが得られます。
+使用後、消費マナが+1されて手札に戻ります。","战斗开始时：“执棋：禁军”的最大层数+4
+根据升变层数立即依次释放倒计时中一种棋子的行动，此次伤害+100%且使用“禁军”时额外获得1层升变
+使用后回到手牌，消耗法力值+1",
+Skill/S_Queen_QP_Rare_2_Name, Text,,체크메이트.퀸,Checkmate.queen,Checkmate.queen,Checkmate.queen,
+SkillExtended/S_Queen_QP_En_1_Des, Text,,,,,,
+SkillExtended/S_Queen_QP_En_1_EnforceString, Text,,,,,,
+SkillExtended/S_Queen_QP_En_1_Name, Text,,체스코드.폰 버프를 1중첩 획득합니다.,"QUEEN gains 1 stack of ""Pawn.chess"" buff.",クイーンは「Pawn.chess」バフを1スタック獲得します。,女王获得1层执棋：禁军增益,
+SkillExtended/S_Queen_QP_En_2_Des, Text,,,,,,
+SkillExtended/S_Queen_QP_En_2_EnforceString, Text,,,,,,
+SkillExtended/S_Queen_QP_En_2_Name, Text,,소비한 마나만큼 프로모션 중첩을 획득합니다.,QUEEN gains Promotion stacks equal to the mana consumed.,クイーンは消費したマナと同じプロモーションスタックを獲得します。,女王获得与消耗法力值相同的升变层数,
+SkillKeyword/KeyWord_Queen_QP_Desc, Text,,"스킬 사용을 통해 체스코드 버프를 획득할 때, 체스코드 버프에 소모되는 만큼의 중첩을 획득합니다.","When gaining a "".chess"" buff by consuming Promotion through a skill, gain the number of Promotion stacks required for that "".chess"" buff.",スキル消費エスカレーションによりチェスバフを取得する場合、チェスバフに必要なエスカレーションスタック数を取得します。,通过技能消耗升变获得执棋增益时，获得该棋子执棋增益所需要消耗的升变层数。,
+SkillKeyword/KeyWord_Queen_QP_Name, Text,,프로모션,Promotion,プロモーション,升变,
+,,,,,,,
+,,,,,,,
+

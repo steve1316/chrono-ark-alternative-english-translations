@@ -1,0 +1,235 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Knight_0_Description,Text,,,,,,
+Buff/B_Knight_0_Name,Text,,,Gift Mark,,赠礼标记,
+Buff/B_Knight_11_R_0_Description,Text,,다음 데미지는 1로 감소됩니다.공격 받으면 1 층 감소됩니다.,The next damage taken is reduced to 1. Stack decreases by 1 when attacked.,,下次所受伤害减少为1。受到攻击时减少一层。,
+Buff/B_Knight_11_R_0_Name,Text,,시공 수호,Temporal Protection,,时空守护,
+Buff/B_Knight_11_R_1_Description,Text,,매번 중상 / 넉다운 / 띄우기 이득을 가하여 약간의 마법치를 회복합니다.,Restores 1 mana for each debuff applied (Severe Injury/Knockdown/Launch).,,每施加一次重伤/击倒/击飞减益，恢复一点法力值。,
+Buff/B_Knight_11_R_1_Name,Text,,난순 에너지,Chaotic Energy,,乱序能量,
+Buff/B_Knight_12_R_2_Description,Text,,,,,,
+Buff/B_Knight_12_R_2_Name,Text,,보호막,Protective Shield,,保护罩,
+Buff/B_Knight_12_R_4_Description,Text,,,,,,
+Buff/B_Knight_12_R_4_Name,Text,,잠금,Locked,,锁定,
+Buff/B_Knight_12_R_5_Description,Text,,체력의 한계를 보호하다.,Protects the limit of health.,,保护体力极限。,
+Buff/B_Knight_12_R_5_Name,Text,,정의!,Justice!,,正义！,
+Buff/B_Knight_12_R_6_Description,Text,,게으른 mk99를 찾아라!,Find the slacking Mk.99!,,寻找偷懒的mk99！,
+Buff/B_Knight_12_R_6_Name,Text,,게으름 피우는 mk99 찾기,Find the Slacking Mk.99,,寻找偷懒的mk99,
+Buff/B_Knight_14_LucyD_Description,Text,,,"During this round, draw a skill each time you apply Knockdown/Severe Injury/Launch to an enemy. This effect can draw up to 4 skills.",,本次回合期间每当给敌人施加击倒/重伤/击飞异常时抽取技能，依靠此效果最多抽取4个技能,
+Buff/B_Knight_14_LucyD_Name,Text,,,Battle Ballad,,战斗歌谣,
+Buff/B_Knight_2_L_Description,Text,,,,,,
+Buff/B_Knight_2_L_Name,Text,,유령이 얽히다,Haunted by Ghosts,,幽灵缠身,
+Buff/B_Knight_5_L_Description,Text,,,,,,
+Buff/B_Knight_5_L_Name,Text,,두려움이 없다,Fearless,,无畏,
+Buff/B_Knight_6_Description,Text,,,,,,
+Buff/B_Knight_6_L_Description,Text,,,,,,
+Buff/B_Knight_6_L_Name,Text,,공격 감소,Attack Reduction,,攻击减免,
+Buff/B_Knight_6_Name,Text,,방어 감면,Defense Reduction,,防御减免,
+Buff/B_Knight_7_Description,Text,,아군 1명이 생존할 때마다 공격력이 5% 증가합니다.,Increases attack power by 5% for each surviving ally.,,每存活一名友军则提升5%的攻击力。,
+Buff/B_Knight_7_Name,Text,,사기가 충천하다,Soaring Morale,,士气冲天,
+Buff/B_Knight_P_Description,Text,,13층까지 접었을 때 챔피언의 검을 손에 넣는다.,"When stacked to 13, the ""Champion's Sword"" is obtained.",,叠至13层时将冠军之剑拿到手中。,
+Buff/B_Knight_P_Name,Text,,챔피언을 깨우는 검,Awaken the Champion's Sword,,唤醒冠军之剑,
+Buff/B_Knight_dw_Description,Text,,"움직일 수 없다.
+넉다운/중상/띄우기 감익은 한 단위에만 존재할 수 있습니다.","Cannot act.
+Only one of Knockdown/Severe Injury/Launch debuffs can exist on a single unit.",,"无法行动。
+击倒/重伤/击飞减益只能在一个单位身上存在一种。",
+Buff/B_Knight_dw_Name,Text,,쓰러뜨리다,Knockdown,,击倒,
+Buff/B_Knight_dw_ab_Description,Text,,전체 레이어에 접었을 때 넉다운을 부여합니다.,Grants Knockdown when fully stacked.,,叠至满层时赋予击倒。,
+Buff/B_Knight_dw_ab_Name,Text,,넉다운 예외,Knockdown Anomaly,,击倒异常,
+Buff/B_Knight_sf_Description,Text,,넉다운/중상/띄우기 감익은 한 단위에만 존재할 수 있습니다.,Only one of Knockdown/Severe Injury/Launch debuffs can exist on a single unit.,,击倒/重伤/击飞减益只能在一个单位身上存在一种。,
+Buff/B_Knight_sf_Name,Text,,띄우기,Launch,,击飞,
+Buff/B_Knight_sf_ab_Description,Text,,레이어를 가득 채울 때 띄우기를 부여합니다.,Grants Launch when fully stacked.,,叠至满层时赋予击飞。,
+Buff/B_Knight_sf_ab_Name,Text,,띄우기 예외,Launch Anomaly,,击飞异常,
+Buff/B_Knight_si_Description,Text,,넉다운/중상/띄우기 감익은 한 단위에만 존재할 수 있습니다.,Only one of Knockdown/Severe Injury/Launch debuffs can exist on a single unit.,,击倒/重伤/击飞减益只能在一个单位身上存在一种。,
+Buff/B_Knight_si_Name,Text,,중상,Severe Injury,,重伤,
+Buff/B_Knight_si_ab_Description,Text,,만층으로 쌓였을 때 중상을 입힙니다.,Grants Severe Injury when fully stacked.,,叠至满层时赋予重伤。,
+Buff/B_Knight_si_ab_Name,Text,,중상 이상,Severe Injury Anomaly,,重伤异常,
+Character/Knight_PassiveDes,Text,,자신의 카드 13장을 손에서 사용해 챔피언의 검을 손에 넣는다.,"After using 13 of your own cards from your hand, obtain ""Champion's Sword"".",,从手中使用13张自己的牌之后将冠军之剑拿到手中,
+Character/Knight_PassiveName,Text,,챔피언을 깨우는 검,Awaken the Champion's Sword,,唤醒冠军之剑,
+Character/Knight_SelectInfo,Text,,"어린 기사는 원래 칸트보레 왕국의 수호 기사, 챔피언의 검의 소유자, 부유성의 주인이었다.한 모험 중 어둠의 대마법사 베스의 마법에 걸려 가상세계로 오인했고, 캔터베리를 돌려주기 위해 조사단에 합류해 돌아오는 방법을 모색했다.
+
+기사회는 챔피언들의 힘을 통해 적에게 독특한 해로운 효과를 주며, 해로운 효과가 완전히 가해지면 강력한 연쇄 기술을 사용할 수 있다.","The Knight was originally the guardian knight of the Kingdom of Kanterbury, the wielder of the Champion's Sword, and the master of the Floating Castle. During an adventure, she was struck by the magic of the Dark Archmage Beth and mistakenly entered a virtual world. To return to Canterbury, she joined the investigation team to find a way back.
+
+The Knight uses the power of champions to apply unique debuffs to enemies. After fully applying the debuffs, she can unleash powerful chain skills.",,"小骑士原是坎特博雷王国的守护骑士，冠军之剑的持有者，浮游城的主人。在一次冒险时，被黑暗大魔法师-贝丝的魔法所击中误入虚拟世界中，为了返还坎特伯雷于是加入调查团，探索返回的方法。
+
+骑士会通过冠军们的力量给敌人施加独特的减益效果，在减益效果完全施加后，将可以使用强大的连锁技能。",
+Character/Knight_Text_Battle_AllyND_0,Text,,속도 올려!,Speed up!,,加快速度！,
+Character/Knight_Text_Battle_AllyND_1,Text,,나는 응전해야 한다.,I must fight.,,我必须应战。,
+Character/Knight_Text_Battle_AllyND_2,Text,,좀 무서운데...,A bit scary...,,有点吓人...,
+Character/Knight_Text_Battle_AllyND_3,Text,,보조!,Support!,,辅助！,
+Character/Knight_Text_Battle_Cri_0,Text,,봐!,Take this!,,看招！,
+Character/Knight_Text_Battle_Cri_1,Text,,지금 당장!,Now's the time!,,趁现在！,
+Character/Knight_Text_Battle_Healed_0,Text,,부탁이야.,Please.,,拜托了。,
+Character/Knight_Text_Battle_Idle_0,Text,,제발!,Please!,,拜托了！,
+Character/Knight_Text_Battle_Kill_0,Text,,좋다--!,Nice--!,,好耶--！,
+Character/Knight_Text_Battle_Kill_1,Text,,나 성공했어!,I did it!,,我成功啦！,
+Character/Knight_Text_Battle_ND_0,Text,,그게 말이 돼?!,How is this possible?!,,这怎么可能？！,
+Character/Knight_Text_Battle_ND_1,Text,,어...,Uh...,,呃......,
+Character/Knight_Text_Battle_ND_2,Text,,아파!,That hurts!,,好痛啊！,
+Character/Knight_Text_Battle_Start_0,Text,,나 왔어!,I'm here!,,我来了！,
+Character/Knight_Text_Battle_Start_1,Text,,나한테 맡겨.,Leave it to me.,,包在我身上。,
+Character/Knight_Text_Field_GetItem_0,Text,,나 이거 좋아.,I like this.,,我喜欢这个。,
+Character/Knight_Text_Field_GetItem_1,Text,,업그레이드!,Upgrade!,,升级！,
+Character/Knight_Text_Field_Idle_0,Text,,"공주님, 제가 돌아가면...","Princess, wait for me to return...",,公主，等我回去...,
+Character/Knight_Text_Field_Idle_1,Text,,내가 더 이상 플랑크톤 공주님이 슬퍼하지 않으면,"If I don't return, the Princess of Kanterbury will be sad.",,如果我再不浮游城公主会伤心的。,
+Character/Knight_Text_Field_Potion_P_0,Text,,나 변신한다.,I'm going to transform now.,,我要变身了喔。,
+Character/Knight_Text_PharosLeader_0,Text,,뛰어!,Run!,,快跑！,
+Character/Knight_Text_PharosLeader_1,Text,,다들 괜찮아요?,Is everyone okay?,,大家没事吧。,
+Character/Knight_Text_PharosLeader_2,Text,,모든 침략자 를 격퇴 하다,Repel all invaders.,,击退所有侵略者。,
+Character/Knight_name,Text,,기사,Knight,,骑士,
+Item_Equip/EarthRing_Description,Text,,,,,,
+Item_Equip/EarthRing_name,Text,,대지의 반지,Ring of the Earth,,大地戒指,
+Item_Equip/Libe_Description,Text,,감익을 보유한 단위에게 입힌 데미지를 20% 증가시킵니다.,Increases damage dealt to units with debuffs by 20%.,,对持有减益的单位造成的伤害提高20%。,
+Item_Equip/Libe_name,Text,,리베,Libe,,利贝,
+Item_Equip/MagicCard_Description,Text,,,,,,
+Item_Equip/MagicCard_name,Text,,내게 미소 공주 카드,Smiling Princess Magic Card,,向我微笑公主魔卡,
+Item_Equip/Ribera_Description,Text,,"해익을 보유한 단위에 대한 데미지를 20% 증가시킵니다.
+장비 중 살아있는 동안 BOSS 2명을 처치하면 장비를 리베로 승급가능.","Increases damage dealt to units with debuffs by 20%.
+If you kill two BOSSes with this equipped, the item is upgraded to Libe.",,"对持有减益的单位造成的伤害提高20%。
+若在装备过程中活着击杀两名BOSS，则将装备升级为利贝。",
+Item_Equip/Ribera_name,Text,,리베라,Libera,,利贝拉,
+Item_Equip/SharpshooterEarrings_Description,Text,,,,,,
+Item_Equip/SharpshooterEarrings_name,Text,,명사수 귀걸이,Sharpshooter Earrings,,神枪手耳环,
+Item_Equip/TaurenNecklace_Description,Text,,,,,,
+Item_Equip/TaurenNecklace_name,Text,,소머리 목걸이,Tauren Necklace,,牛头人项链,
+Item_Passive/BaroqueHead_Description,Text,,"스킬을 능동적으로 방출할 때마다 계층 수가 중첩됩니다.
+5층까지 겹쳤을 때 카드 교환 횟수에 1을 더한 다음 층수를 비웁니다.","Each time you actively cast a skill, gain 1 stack.
+When stacked to 5, increase card draw by 1, then clear stacks.",,"每当主动释放技能时叠加一层层数。
+叠加至5层时，换牌次数加1，然后清空层数。",
+Item_Passive/BaroqueHead_name,Text,,바로크의 두개골,Baroque's Skull,,巴洛克的头颅,
+Item_Passive/LightningWalker_Description,Text,,"속도 +1,
+매 라운드 시작 시 수중의 스킬을 신속, 1 개 스킬을 사용 후 이번 라운드 실효.","Speed +1,
+At the start of each round, make a skill in hand Swiftness. This effect expires after using 1 skill.",,"速度+1，
+每回合开始时使手中的技能变为迅捷，使用1个技能后本回合失效。",
+Item_Passive/LightningWalker_name,Text,,플래시 워커 카드,Lightning Walker Card,,闪电行者魔卡,
+Skill/S_Knight_0_1_Description,Text,,스킬 2개를 뽑습니다.,Draw 2 skills.,,抽取2个技能。,
+Skill/S_Knight_0_1_Name,Text,,다이아몬드,Diamond,,钻石,
+Skill/S_Knight_0_2_Description,Text,,이번 라운드에만 2 포인트 마법력을 즉시 획득.,Immediately gain 2 Mana this round only.,,仅在本回合立即获得2点法力值。,
+Skill/S_Knight_0_2_Name,Text,,스타 코인,Star Coin,,星币,
+Skill/S_Knight_0_3_Description,Text,,무작위로 이득을 하나 빼다.,Randomly remove one debuff.,,随机减除一个减益。,
+Skill/S_Knight_0_3_Name,Text,,금화,Gold Coin,,金币,
+Skill/S_Knight_0_Description,Text,,"이 스킬은 1회에 한 번만 사용 가능.
+랜덤으로 다이아몬드 선물/성화 선물/금화 선물을 손에 넣습니다.","Can only be used once per round.
+Randomly obtain Diamond/Star Coin/Gold Coin.",,"一回合只能使用一次小公主的赠礼。
+随机将钻石礼物/星币礼物/金币礼物拿到手中。",
+Skill/S_Knight_0_Name,Text,,작은 공주의 선물,Little Princess's Gift,,小公主的赠礼,
+Skill/S_Knight_10_Description,Text,,이 전투에서 신속함을 얻을 수 있도록 스킬 중 하나를 선택하십시오.,Choose a skill in hand to make it Swiftness for this battle.,,选择手中一个技能使其在本场战斗中获得迅捷。,
+Skill/S_Knight_10_Name,Text,,수호의 짐승 - 백설원고에너지,"Guardian Beast - Snow, Ancient Energy",,守护之兽-白雪 远古能量,
+Skill/S_Knight_11_R_0_Description,Text,,,,,,
+Skill/S_Knight_11_R_0_Name,Text,,차원 장벽,Dimensional Barrier,,次元屏障,
+Skill/S_Knight_11_R_1_Description,Text,,모든 과부하를 해제합니다.,Removes all Overload.,,解除全部过载。,
+Skill/S_Knight_11_R_1_Name,Text,,시공 난서,Temporal Chaos,,时空乱序,
+Skill/S_Knight_11_R_Description,Text,,"석방 후 선택.
+차원 장벽을 손에 넣고,
+시공간의 난서를 손에 넣거나","After cast, choose:
+Obtain Dimensional Barrier,
+or obtain Temporal Chaos.",,"释放后选择。
+将次元屏障拿到手中，
+或将时空乱序拿到手中。",
+Skill/S_Knight_11_R_Name,Text,,강림!미래 공주 시공폭풍,"Descend! Future Princess, Temporal Storm",,降临！未来公主 时空风暴,
+Skill/S_Knight_12_R_0_Description,Text,,,,,,
+Skill/S_Knight_12_R_0_Name,Text,,양산 로봇,Mass-Produced Robot,,量产机器人,
+Skill/S_Knight_12_R_1_Description,Text,,,,,,
+Skill/S_Knight_12_R_1_Name,Text,,mk99 출격!,Mk.99 Sortie!,,mk99出击！,
+Skill/S_Knight_12_R_2_Description,Text,,,,,,
+Skill/S_Knight_12_R_2_Name,Text,,엔지니어링 로봇,Engineering Robot,,工程机器人,
+Skill/S_Knight_12_R_3_Description,Text,,,,,,
+Skill/S_Knight_12_R_3_Name,Text,,하녀 로봇,Maid Robot,,女仆机器人,
+Skill/S_Knight_12_R_4_Description,Text,,스킬 2개를 뽑습니다.,Draw 2 skills.,,抽取2个技能。,
+Skill/S_Knight_12_R_4_Name,Text,,샤오바오 로봇 AA72,AA72,,小宝机器人AA72,
+Skill/S_Knight_12_R_5_Description,Text,,이번 라운드에만 2 포인트 마법력을 즉시 획득.,Immediately gain 2 Mana this round only.,,仅在本回合立即获得2点法力值。,
+Skill/S_Knight_12_R_5_Name,Text,,정의로운 로봇 카이,H.E.R.O.S KAI,,,正义机器人KAI
+Skill/S_Knight_12_R_6_Description,Text,,"카드를 뽑아라.
+게으름을 피우는 mk99를 찾아서 일을 해야 한다고 말해라!","Draw a card.
+Find the slacking Mk.99 and tell it to get back to work!",,"抽一张牌。
+找到偷懒的mk99，告诉它该工作了！",
+Skill/S_Knight_12_R_6_Name,Text,,게으름 피우는 mk99,Slacking Mk.99,,偷懒的mk99,
+Skill/S_Knight_12_R_Description,Text,,랜덤으로 2명의 플랑크톤 로봇을 만들어 손에 넣었다.,Randomly generate two Floating Castle Robots and add them to your hand.,,随机生成两名浮游城机器人拿到手中。,
+Skill/S_Knight_12_R_Name,Text,,로레인?부유성 지휘,Lorraine? Floating Castle Command,,罗兰因？浮游城指挥,
+Skill/S_Knight_13_R_0_Description,Text,,,Repeatedly cast based on the number of debuffs the target has.,,根据目标持有的减益状态数量重复释放。,
+Skill/S_Knight_13_R_0_Name,Text,,,"Guardian Knight Leader - Eva, Holy Wrath",,守护骑士之长-伊娃 神圣愤怒,
+Skill/S_Knight_13_R_Description,Text,,대상이 보유한 해로운 상태 수에 따라 반복적으로 방출됩니다.,Repeatedly cast based on the number of debuffs the target has.,,根据目标持有的减益状态数量重复释放。,
+Skill/S_Knight_13_R_Name,Text,,수호기사의 장 - 에바 신성 분노,"Guardian Knight Leader - Eva, Holy Wrath",,守护骑士之长-伊娃 神圣愤怒,
+Skill/S_Knight_14_LucyD_Description,Text,,"이번 라운드 동안 적에게 넉다운/중상/플라이 이상을 가할 때마다 스킬을 뽑습니다. 이 효과로 최대 4개의 스킬을 뽑습니다.
+스킬 1개를 뽑습니다.","During this round, draw a skill each time you apply Knockdown/Severe Injury/Launch to an enemy. This effect can draw up to 4 skills.
+Draw 1 skill.",,"本次回合期间每当给敌人施加击倒/重伤/击飞异常时抽取技能，依靠此效果最多抽取4个技能。
+抽取1个技能。",
+Skill/S_Knight_14_LucyD_Name,Text,,세실의 가요,Cecil's Ballad,,塞西尔的歌谣,
+Skill/S_Knight_1_Description,Text,,이 스킬로 인해 목표에게 넉다운 감익/명중 넉다운 감익이 있는 목표를 획득하면 체인합니다!집중 포격을 손에 넣다.,"If this skill causes the target to gain Knockdown debuff or hits a target with Knockdown debuff, obtain ""Chain! Concentrated Barrage"" in your hand.",,若因该技能使目标获得击倒减益/命中持有击倒减益的目标，则将连锁！集中炮击拿到手中。,
+Skill/S_Knight_1_L_Description,Text,,,,,,
+Skill/S_Knight_1_L_Name,Text,,체인!집중 포격,Chain! Concentrated Barrage,,连锁！集中炮击,
+Skill/S_Knight_1_Name,Text,,챔피언의 힘 - 마리안 훼멸사격,"Champion's Power - Marian, Annihilation Shot",,冠军之力-玛丽安 毁灭射击,
+Skill/S_Knight_2_Description,Text,,"스킬 목표와 조롱 상태가 같은 모든 적을 동시에 공격한다.
+이 스킬로 목표에게 중상감익/중상감익을 보유한 목표를 획득하면 연쇄합니다!유령 발사기를 손에 넣다.","Simultaneously attack all enemies with the same taunt status as the skill target.
+If this skill causes the target to gain Severe Injury debuff or hits a target with Severe Injury debuff, obtain ""Chain! Ghost Launcher"" in your hand.",,"同时攻击与技能目标嘲讽状态相同的所有敌人。
+若因该技能使目标获得重伤减益/命中持有重伤减益的目标，则将连锁！幽灵发射器拿到手中。",
+Skill/S_Knight_2_L_Description,Text,,,,,,
+Skill/S_Knight_2_L_Name,Text,,체인!유령 발사기,Chain! Ghost Launcher,,连锁！幽灵发射器,
+Skill/S_Knight_2_Name,Text,,챔피언의 힘 - 소피 레이저 체인,"Champion's Power - Sophie, Laser Chain",,冠军之力-索菲 激光链,
+Skill/S_Knight_3_0_Description,Text,,,,,,
+Skill/S_Knight_3_0_Name,Text,,여진,Aftershock,,余震,
+Skill/S_Knight_3_1_Description,Text,,목표 방어력 무시,Ignores the target's defense.,,无视目标防御力,
+Skill/S_Knight_3_1_Name,Text,,분쇄,Crush,,粉碎,
+Skill/S_Knight_3_Description,Text,,"릴리즈 시 다시 릴리즈됩니다. 이 스킬은 9로 카운트다운되며 추가 감익이 없습니다.
+이 스킬로 인해 목표에게 에어 이득 / 명중 에어 이득이 있는 목표를 획득하면 분쇄 공격을 손에 넣습니다.","Cast again upon activation. This skill has a countdown of 9 and does not apply debuffs.
+If this skill causes the target to gain Launch debuff or hits a target with Launch debuff, obtain ""Crush Attack"" in your hand.",,"释放时再次释放，该技能倒计时为9，且不会附加减益。
+若因该技能使目标获得击飞减益/命中持有击飞减益的目标，则将粉碎攻击拿到手中。",
+Skill/S_Knight_3_L_Description,Text,,"목표의 방어력을 무시한다.
+릴리즈 시 다시 릴리즈됩니다. 이 스킬은 카운트다운이 9이며 추가 감익이 없습니다.","Ignores the target's defense.
+Cast again upon activation. This skill has a countdown of 9 and does not apply debuffs.",,"无视目标防御力。
+释放时再次释放，该技能倒计时为9，且不会附加减益。",
+Skill/S_Knight_3_L_Name,Text,,체인!분쇄공격,Chain! Crush Attack,,连锁！粉碎攻击,
+Skill/S_Knight_3_Name,Text,,챔피언의 힘 - 매튜 인육지진,"Champion's Power - Matthew, Human Quake",,冠军之力-马修 人肉地震,
+Skill/S_Knight_4_Description,Text,,"이 스킬이 초읽기 중 아군이 데미지를 입으면 해당 스킬의 치명타 확률이 100% 증가합니다.
+이 스킬로 인해 대상에게 에어 이득 / 명중 에어 이득이 있는 목표를 획득하면 강타를 손에 넣습니다.","While this skill is on countdown, if an ally takes damage, this skill's critical hit chance increases by 100%.
+If this skill causes the target to gain Launch debuff or hits a target with Launch debuff, obtain ""Power Strike"" in your hand.",,"当此技能处于倒计时期间，若友军受到伤害则该技能暴击几率增加100%。
+若因该技能使目标获得击飞减益/命中持有击飞减益的目标，则将劲击拿到手中。",
+Skill/S_Knight_4_L_Description,Text,,이 스킬이 초읽기 중 아군이 데미지를 입으면 치명타 데미지가 100% 증가합니다.,"While this skill is on countdown, if an ally takes damage, critical hit damage increases by 100%.",,当此技能处于倒计时期间，若友军受到伤害则暴击伤害提升100%。,
+Skill/S_Knight_4_L_Name,Text,,체인!강격,Chain! Power Strike,,连锁！劲击,
+Skill/S_Knight_4_Name,Text,,우승의 힘 - 패아패왕 빙염탄,"Champion's Power - Pei, Tyrant's Ice Flame Bullet",,冠军之力-佩儿 霸王冰焰弹,
+Skill/S_Knight_5_Description,Text,,이 스킬로 인해 목표에게 타격 감익/명중 타격 감익이 있는 목표를 획득하면 전호를 손에 넣습니다.,"If this skill causes the target to gain Launch debuff or hits a target with Launch debuff, obtain ""Battle Cry"" in your hand.",,若因该技能使目标获得击飞减益/命中持有击飞减益的目标，则将战吼拿到手中。,
+Skill/S_Knight_5_L_Description,Text,,,,,,
+Skill/S_Knight_5_L_Name,Text,,체인!전호,Chain! Battle Cry,,连锁！战吼,
+Skill/S_Knight_5_Name,Text,,챔피언의 힘 - 크레이그 돌격 공격,"Champion's Power - Craig, Charge Attack",,冠军之力-克雷格 冲锋攻击,
+Skill/S_Knight_6_Description,Text,,이 스킬로 목표에게 중상감익/중상감익을 보유한 목표를 명중시키면 우박을 손에 넣습니다.,"If this skill causes the target to gain Severe Injury debuff or hits a target with Severe Injury debuff, obtain ""Hailstorm"" in your hand.",,若因该技能使目标获得重伤减益/命中持有重伤减益的目标，则将冰雹拿到手中。,
+Skill/S_Knight_6_L_Description,Text,,,,,,
+Skill/S_Knight_6_L_Name,Text,,체인!우박,Chain! Hailstorm,,连锁！冰雹,
+Skill/S_Knight_6_Name,Text,,챔피언의 힘 - 코코 스톰,"Champion's Power - Coco, Blizzard",,冠军之力-可可 暴风雪,
+Skill/S_Knight_7_Description,Text,,이 스킬로 인해 목표에게 넉다운 감익/명중 넉다운 감익이 있는 목표를 획득하면 전진 지휘를 손에 넣습니다.,"If this skill causes the target to gain Knockdown debuff or hits a target with Knockdown debuff, obtain ""Frontline Command"" in your hand.",,若因该技能使目标获得击倒减益/命中持有击倒减益的目标，则将阵前指挥拿到手中。,
+Skill/S_Knight_7_L_Description,Text,,두 명의 우군이 살아남을 때마다 한 장의 카드를 뽑는다.,Draw a card for every two surviving allies.,,每存活两名友军则抽取一张牌。,
+Skill/S_Knight_7_L_Name,Text,,체인!진두지휘,Chain! Frontline Command,,连锁！阵前指挥,
+Skill/S_Knight_7_Name,Text,,챔피언의 힘 - 아이샤 황실 칙명,"Champion's Power - Aisha, Royal Decree",,冠军之力-阿伊莎 皇家敕命,
+Skill/S_Knight_8_0_Description,Text,,,,,,
+Skill/S_Knight_8_0_Name,Text,,환영참: 귀환,Phantom Slash: Return,,幻影斩：归来,
+Skill/S_Knight_8_Description,Text,,"석방 후 환영참: 돌아와서 손에 쥐어라.
+이 스킬로 목표에게 중상 해익 / 중상 해익을 보유한 목표를 명중시키면 악마의 발톱을 손에 넣습니다.","After casting, obtain ""Phantom Slash: Return"" in your hand.
+If this skill causes the target to gain Severe Injury debuff or hits a target with Severe Injury debuff, obtain ""Demon's Claw"" in your hand.",,"释放后将幻影斩：归来拿到手中。
+若因该技能使目标获得重伤减益/命中持有重伤减益的目标，则将恶魔之爪拿到手中。",
+Skill/S_Knight_8_L_0_Description,Text,,,,,,
+Skill/S_Knight_8_L_0_Name,Text,,악마의 잡기: 꽉 잡기,Demon's Grasp: Tight Grip,,恶魔之抓：紧握,
+Skill/S_Knight_8_L_Description,Text,,석방 후 악마의 잡기: 꽉 잡고 손에 쥐세요.,"After casting, obtain ""Demon's Grasp: Tight Grip"" in your hand.",,释放后恶魔之抓：紧握拿到手中。,
+Skill/S_Knight_8_L_Name,Text,,체인!악마의 발톱,Chain! Demon's Claw,,连锁！恶魔之爪,
+Skill/S_Knight_8_Name,Text,,챔피언의 힘 - 릴리스 환영 베기,"Champion's Power - Lilith, Phantom Slash",,冠军之力-莉莉丝 幻影斩,
+Skill/S_Knight_9_Description,Text,,"전체 과부하를 해제합니다.
+무작위로 자신의 세 가지 스킬을 생성하고 추방을 첨부합니다.","Removes all Overload.
+Randomly generates three of your own attack skills, with Banish attached.",,"解除全部过载。
+随机生成自己的三个攻击技能，并附带放逐。",
+Skill/S_Knight_9_Name,Text,,용자의 파트너. - 유진 응원.,"Hero's Partner - Eugene, Cheer",,勇者的搭档-尤金 应援,
+Skill/S_Knight_P_Description,Text,,"목표물이 넉다운/중상/플라이를 가지고 있을 때, 방출 시 추가 효과가 발생합니다.
+쓰러뜨리기, 치료력에 따라 방호벽 생성
+타격, 적중 시 반드시 치명타
+중상, 공격력에 따라 추가적인 고통 데미지를 입힙니다","When the target has Knockdown/Severe Injury/Launch, casting this skill produces additional effects.
+Knockdown: Generates a protective wall based on healing power.
+Launch: Guaranteed critical hit on hit.
+Severe Injury: Deals additional pain damage based on attack power.",,"当目标持有击倒/重伤/击飞时，释放时产生额外效果。
+击倒，根据治疗力生成防护墙
+击飞，命中时必定暴击
+重伤，根据攻击力造成额外的痛苦伤害",
+Skill/S_Knight_P_Name,Text,,챔피언의 검,Champion's Sword,,冠军之剑,
+SkillExtended/SkillEn_Knight_0_Des,Text,,,,,,
+SkillExtended/SkillEn_Knight_0_EnforceString,Text,,1비 이상의 스킬,Skills costing 1 or more mana.,,1费及以上的技能,
+SkillExtended/SkillEn_Knight_0_Name,Text,,스킬 비용에 따라 랜덤으로 팀 내 인원의 스킬을 생성하여 손에 넣습니다,Randomly generates skills of team members based on skill cost and adds them to your hand.,,根据技能的费用，随机生成队伍中人员的技能到手中,
+SkillExtended/SkillEn_Knight_1_Des,Text,,,,,,
+SkillExtended/SkillEn_Knight_1_EnforceString,Text,,단일 목표 공격 스킬,Single-target attack skills.,,单体目标攻击技能,
+SkillExtended/SkillEn_Knight_1_Name,Text,,넉다운/바운드/중상 감익이 있는 적을 가리킬 경우 1 포인트 마법력 회복,Restores 1 mana when targeting an enemy with Knockdown/Launch/Severe Injury debuffs.,,指向带有击倒/击飞/重伤减益的敌人时，恢复1点法力值,
+,,,,,,,
+,,,,,,,
+

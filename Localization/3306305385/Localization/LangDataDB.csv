@@ -1,0 +1,87 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Character/Leo_PassiveDes,Text,,,"Can use the fixed ability: Mech Pod
+
+[Mech]
+Mech skills have health points, which are equal to the skill's mana points.
+When health points drop to 0, discard this skill.
+
+[Mech Charge]
+Special effects triggered when this skill's health decreases.
+Mech Charge gained when entering the discard pile will be reset.",,"可以使用固定能力：机甲吊舱
+
+【机甲】
+机甲技能拥有生命值，生命值同时等于技能法力值。
+生命值降为0时，丢弃这个技能。
+
+【机甲充能】
+此技能的生命值减少时，触发的特殊效果。
+进入弃牌堆时获得的机甲充能将被重置。",
+Character/Leo_PassiveName,Text,,,Mechanical Riot,,机械暴动,
+Character/Leo_SelectInfo,Text,,,"Worked as a wilderness team leader in a construction crew, where a software malfunction once led to the death of his team members. To prevent such incidents from happening again, he taught himself information technology. Now he has joined Quantum, led by QUEEN, to investigate the chaotic data streams of the Twisted Lands.",,以一位建设队伍的野外队队长的身份工作，有一次软件故障导致了他的队员死亡。为了不让这种事再次发生，他自学了信息技术。现加入女王带领的量子，跟随女王调查扭曲之地的紊乱数据流。,
+Character/Leo_name,Text,,,LEO,,里奥,
+Skill/S_Leo_1_0_Name,Text,,,Axe-1X.mech.AOE,,斧式-1X.mech.AOE,
+Skill/S_Leo_1_Description,Text,,,"[Mech]
+If this skill is charged more than 2 times, deal &b damage (100% attack power) to all enemies.
+[Mech Charge]: This skill deals an additional &a damage (50% attack power each time).",,"【机甲】
+该技能充能次数超过2次时，对所有敌人造成&b（100%攻击力）伤害。
+【机甲充能】：此技能造成&a点的额外伤害（每次50%攻击力）。",
+Skill/S_Leo_1_Name,Text,,,Axe-1X.mech,,斧式-1X.mech,
+Skill/S_Leo_2_Description,Text,,,"[Mech]
+[Mech Charge]: Each charge allows this skill to be cast one additional time.",,"【机甲】
+【机甲充能】：每次充能可以使技能释放时重复释放此技能1次。",
+Skill/S_Leo_2_Name,Text,,,Suppressor-G1.mech,,压制者-G1.mech,
+Skill/S_Leo_3_Description,Text,,,"[Mech]
+When drawn, deal damage to all [Mech] in hand until their health is 1.
+[Mech Charge]: This skill deals an additional &a damage (15% attack power each time).",,"【机甲】
+抽取该技能时，对手牌中所有【机甲】造成伤害至生命值为1。
+【机甲充能】：此技能造成&a的额外伤害（每次15%攻击力）。",
+Skill/S_Leo_3_Name,Text,,,Crusher-H2.mech,,粉碎者-H2.mech,
+Skill/S_Leo_4_Description,Text,,,"[Mech]
+When this skill enters the discard pile, charge all .mech skills in hand once (ignoring charging conditions).",,"【机甲】
+此技能进入弃牌堆时，为手牌中所有.mech的技能进行1次机甲充能（无视充能条件）。",
+Skill/S_Leo_4_Name,Text,,,Gun-SP.mech,,枪式-SP.mech,
+Skill/S_Leo_5_Description,Text,,,"Add a [Mech] from the discard pile to your hand.
+Actively trigger the [Mech Charge] effect for [Mech] in hand and deck once (without consuming health points).",,"将弃牌堆中一张【机甲】加入手卡。
+主动触发1次手牌与抽牌堆中【机甲】的【机甲充能】效果。（不消耗生命值）",
+Skill/S_Leo_5_Name,Text,,,Mech Union,,机甲联合,
+Skill/S_Leo_6_Description,Text,,,"[Mech]
+After casting, select a .mech from the discard pile, charge it once (if applicable) (ignoring charging conditions), and add it to your hand.",,"【机甲】
+释放后，选择弃牌堆中的一张.mech，为其进行1次机甲充能（若有）（无视充能条件），然后加入手牌。",
+Skill/S_Leo_6_Name,Text,,,Waterwheel.mech,,水轮号.mech,
+Skill/S_Leo_7_0_Name,Text,,,Thunder.mech,,雷鸣号.mech,
+Skill/S_Leo_7_Description,Text,,,"[Mech]
+When casting your own skill, trigger this skill's Mech Charge once.
+[Mech Charge]: Add an attack for each charge, dealing &b damage to the target each time (20% attack power).
+Current: &Charge times",,"【机甲】
+释放自己的技能时，触发1次此技能的机甲充能。
+【机甲充能】：根据充能次数追加攻击，每次对目标造成&b点伤害。（20%攻击力）
+目前：&Charge次",
+Skill/S_Leo_7_Name,Text,,,Thunder.mech,,雷鸣号.mech,
+Skill/S_Leo_8_Description,Text,,,"Draw a skill. During the skill countdown, when using a skill from hand, charge a random .mech skill in hand once (if applicable) (ignoring charging conditions).",,抽取一个技能。技能倒计时期间，当从手牌中使用技能时，对手牌中随机一个.mech技能进行1次机甲充能（若有）（无视充能条件）。,
+Skill/S_Leo_8_Name,Text,,,Command Tower,,作战指挥塔,
+Skill/S_Leo_9_0_Description,Text,,,"Consume all Mech Charges from .mech skills in hand. Add attacks based on the number consumed, dealing &b damage to all enemies each time (20% attack power).",,消耗手牌中所有.mech技能的机甲充能。根据消耗的数量追加攻击，每次对全体敌人造成&b点伤害。（20%攻击力）,
+Skill/S_Leo_9_0_Name,Text,,,Barrage,,弹幕,
+Skill/S_Leo_9_Description,Text,,,"Consume all Mech Charges from .mech skills in hand. Add attacks based on the number consumed, dealing &b damage to all enemies each time (40% attack power*&Charge times).",,消耗手牌中所有.mech技能的机甲充能。根据消耗的数量追加攻击，每次对全体敌人造成&b点伤害。(40%攻击力*&Charge次),
+Skill/S_Leo_9_Name,Text,,,Barrage,,弹幕,
+Skill/S_Leo_Lucy_Description,Text,,,"Draw two skills.
+Charge all .mech skills in hand once (if applicable) (ignoring charging conditions).",,"抽取两个技能
+为手牌中所有.mech的技能进行1次机甲充能（若有）（无视充能条件）。",
+Skill/S_Leo_Lucy_Name,Text,,,Reprogramming.leo,,重编程.leo,
+Skill/S_Leo_P_Description,Text,,,"Select one of your [Mech] skills in hand and deal 2 damage to its health points.
+Then prioritize drawing one of your [Mech] skills. The drawn skill takes 1 damage and is discarded after 2 turns.",,"选择手牌中一张自己的【机甲】技能，对其造成2点生命值伤害。
+然后优先抽取自己的一个【机甲】技能。抽取的技能受到1点生命值伤害，附带2回合后弃牌。",
+Skill/S_Leo_P_Name,Text,,,Mech Pod,,机甲吊舱,
+Skill/S_Leo_R1_Description,Text,,,"[Mech]
+When other .mech skills in hand are charged, trigger this skill's Mech Charge once.
+[Mech Charge]: Increase the number of attack targets of this skill by 1 (randomly select targets).
+Current: &Charge targets",,"【机甲】
+手牌中的其他.mech技能进行机甲充能时，触发1次此技能的机甲充能。
+【机甲充能】：此技能的攻击目标数+1（随机选取目标）
+目前：&Charge个",
+Skill/S_Leo_R1_Name,Text,,,Plasma.mcch,,等离子号.mcch,
+Skill/S_Leo_R2_Description,Text,,,"When cast, charge all .mech skills in hand once. Then select 1 .mech from the deck and discard pile to add to your hand and charge it 3 times (if applicable) (ignoring charging conditions).",,释放时，为手牌中所有.mech技能进行1次机甲充能。然后从抽牌堆和弃牌堆中各选取1张.mech，加入手牌并为其进行3次机甲充能。（若有）（无视充能条件）,
+Skill/S_Leo_R2_Name,Text,,,Mountain,,群山,
+SkillExtended/S_Leo_Mech_HP_Name,Text,,,[Mech Durability],,[机甲耐久],
+,,,,,,,
+,,,,,,,
+

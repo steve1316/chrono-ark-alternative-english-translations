@@ -1,0 +1,184 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_gmyls_0_1_Name,Text,,,Hunt Mark,,追猎标记,
+Buff/B_gmyls_0_Description,Text,,,"Whenever a unit dies on the field, gain an additional stack. 
+When an ally's HP is reduced due to Pain damage, they take &b damage and lose 1 stack.",,"每当场上有单位死亡时，额外叠加一层
+队员因受到痛苦伤害导致体力值减少时，受到&b点伤害并减少一层
+",
+Buff/B_gmyls_0_Name,Text,,,Hunt,,追猎,
+Buff/B_gmyls_10_Name,Text,,,War Fever,,斗争渴望,
+Buff/B_gmyls_P_0_Description,Text,,,,,,
+Buff/B_gmyls_P_0_Name,Text,,,Substitute Usage Hint,,替身使用提示,
+Buff/B_gmyls_P_Description,Text,,,"Using a skill deals 10% ATK as Pain damage to all enemies. 
+Removed at the end of the turn, dealing 30% ATK as Pain damage to all enemies.",,"使用技能对所有敌人造成10%攻击力的痛苦伤害
+回合结束时解除，并对所有敌人造成30%攻击力的痛苦伤害
+
+",
+Buff/B_gmyls_P_Name,Text,,,Substitute,,替身,
+Buff/B_gmyls_R1_Description,Text,,,"After taking damage, if HP is below 1, set it to 1. 
+When this buff ends, immediately enter Substitute.",,"受到伤害后，若生命值低于1，将其变为1
+Buff结束时立刻进入替身
+",
+Buff/B_gmyls_R1_Name,Text,,,Shattered Resilience,,肉折骨断,
+Buff/B_gmyls_R2_0_Description,Text,,,"Whenever an ally's HP changes, take 30% damage. 
+If the change was caused by Pain damage, take 90% damage instead. 
+Whenever a unit dies on the field, take 100% damage. 
+When HP is below 20%, immediately take 200% damage and remove this buff.",,"每当队员的体力值发生变动时，受到30%倍率伤害。
+若此次变动原因是受到痛苦伤害，改为受到90%倍率伤害。
+每当场上有单位死亡时，受到100%倍率伤害。
+血量低于20%时，立即受到200%倍率点伤害并解除此buff
+",
+Buff/B_gmyls_R2_0_Name,Text,,,Prey,,猎物,
+Buff/B_gmyls_R2_1_Description,Text,,,"When using a skill from hand, take 3 Pain damage.",,从手中使用技能时，受到3点痛苦伤害,
+Buff/B_gmyls_R2_1_Name,Text,,,Hunter,,猎人,
+Buff/B_gmyls_R2_2_Name,Text,,,Mark,,标记,
+Buff/B_gmyls_R3_0_Description,Text,,,"Attacks apply 1 stack of Hunt. 
+Maximum Hunt stacks increased to 6.",,"攻击附带一层“追猎”
+追猎的最大层数改为6
+",
+Buff/B_gmyls_R3_0_Name,Text,,,Ægir's Depths,,阿戈尔的深邃,
+Buff/B_gmyls_ysml_Description,Text,,,"When HP is below 0 and a skill is used, heal HP equal to 50% of ATK.",,血量低于0时释放技能时，恢复自身攻击力50%倍率的生命值,
+Buff/B_gmyls_ysml_Name,Text,,,"""Instinct""",,“本能”,
+Character/gmyls_CampSelectWord,Text,,,If you call my combat style madness... I'll take it as a compliment.,,如果你说我的战斗方式疯狂......我会认为这是一种褒奖。,
+Character/gmyls_PassiveDes,Text,,,"Once per turn, when receiving fatal damage, if not in Substitute state, heal all HP, clear all debuffs, enter Substitute state, and apply 1 stack of Hunt to all enemies.",,每回合限1次，当受到致命伤害时，若自身不处于替身状态，回复所有生命值，清除所有debuff，进入替身状态，并为所有敌人添加一层追猎。,
+Character/gmyls_PassiveName,Text,,,Born as One,,生而为一,
+Character/gmyls_SelectInfo,Text,,,"A ""Hunter"" wielding a circular saw, though in this era, hunting seems unnecessary. Possesses a ""Substitute"" to disengage in combat, adapting to different battlefield scenarios. 
+She calls herself ""Specter"", exhibiting astonishing destructiveness and outstanding combat skills in battle, using her saw to carve paths for the investigation team in the Twisted Lands.",,"手持圆锯的“猎人”，但在如今的时代似乎已经没有狩猎的必要。拥有可以在战斗中脱身的“替身”来应对不同情景的战场。
+其自称“幽灵鲨”，在战斗中拥有惊人的破坏性与卓越的战斗技巧，用她的锯子在扭曲之地为调查团开辟道路。
+",
+Character/gmyls_Text_Battle_Cri_0,Text,,,My current mood... is excellent!,,我现在的心情......非常好！,
+Character/gmyls_Text_Battle_Healed_0,Text,,,Good support.,,不错的支援,
+Character/gmyls_Text_Battle_Idle_0,Text,,,Is it time to hunt?,,该狩猎了吗？,
+Character/gmyls_Text_Battle_Idle_1,Text,,,Waiting is also an art.,,等待也是一门艺术。,
+Character/gmyls_Text_Battle_Kill_0,Text,,,May you stay awake even in your dreams.,,祝你在梦中也能保持清醒。,
+Character/gmyls_Text_Battle_Kill_1,Text,,,Heh heh heh.,,呵呵呵,
+Character/gmyls_Text_Battle_ND_0,Text,,,"Come on, more, more!",,来吧，再多些，再多些！,
+Character/gmyls_Text_Battle_ND_1,Text,,,Our definitions of danger likely differ.,,我们之间对危险的定义恐怕并不相同,
+Character/gmyls_Text_Battle_Start_0,Text,,,The tide is rising.,,涨潮了。,
+Character/gmyls_Text_Battle_Start_1,Text,,,The fun begins now.,,快乐的时光开始了。,
+Character/gmyls_Text_Field_Idle_0,Text,,,Things aren't as complicated as they seem.,,事情，有时候其实没有那么复杂,
+Character/gmyls_Text_PharosLeader_0,Text,,,"...Listen, the vast Lord of All, murmuring in the darkness...",,......听，茫茫的万物之主，在黑暗中，喃喃自语......,
+Character/gmyls_Text_PharosLeader_1,Text,,,Seems... I lost control...,,看来...没能控制好呢...,
+Character/gmyls_Text_PharosLeader_2,Text,,,Heh heh heh...,,呵呵呵...,
+Character/gmyls_name,Text,,,Specter the Unchained,,归溟幽灵鲨,
+Character_Skin/gmylsSpine2_SkinDesc,Text,,,"The sculpture leaves a shadow, just as a coin has two sides, day and night divided. When both become aware of their duality, Laurentina possesses the most complete soul, akin to twin moons.",,雕刻留下阴影，正如硬币正反，日夜双分。当彼此都意识到自我的两面性时，劳伦缇娜便拥有双月般最完整的灵魂。,
+Character_Skin/gmylsSpine2_SkinName,Text,,,Born as One,,生而为一,
+SimpleCampDialogue/CampDial_gmyls_Accelerator_Dialogues_0,Text,,,[B]Hunter... do you know magic?,,[B]猎人...你会魔法吗？,
+SimpleCampDialogue/CampDial_gmyls_Accelerator_Dialogues_1,Text,,,"[A]Are you joking, sir... Such things don't exist in this world.",,[A]先生在说笑吗...世上怎么会有那种东西呢。 ,
+SimpleCampDialogue/CampDial_gmyls_Azar_Dialogues_0,Text,,,[B]Do you know that Ishar'mla?,,[B]你和那个伊莎玛拉，认识？,
+SimpleCampDialogue/CampDial_gmyls_Azar_Dialogues_1,Text,,,[A]Perhaps.,,[A]也许吧。,
+SimpleCampDialogue/CampDial_gmyls_Blue_Dialogues_0,Text,,,[B]Your outfit looks nice.,,[B]你的衣服，很好看,
+SimpleCampDialogue/CampDial_gmyls_Blue_Dialogues_1,Text,,,[A]Thank you. Our leader has good taste in clothing.,,[A]谢谢，我们队长对服装的品味看来是很好。,
+SimpleCampDialogue/CampDial_gmyls_Charon_Dialogues_0,Text,,,[B]The power of black and white is so cool.,,[B]黑与白的力量，好酷,
+SimpleCampDialogue/CampDial_gmyls_Charon_Dialogues_1,Text,,,"[A]It's just the color of the clothes, really.",,[A]其实只是服装颜色的区别哦。,
+SimpleCampDialogue/CampDial_gmyls_Hein_Dialogues_0,Text,,,[B]You're completely different when you go berserk.,,[B]你疯起来可和现在完全不是一个样子啊。,
+SimpleCampDialogue/CampDial_gmyls_Hein_Dialogues_1,Text,,,[A]Oh? Maybe so.,,[A]哦？或许是这样吧。,
+SimpleCampDialogue/CampDial_gmyls_Huz_Dialogues_0,Text,,,[B]Time for treatment! Why did you switch to Substitute...,,[B]来治疗啦！怎么切换为替身了...,
+SimpleCampDialogue/CampDial_gmyls_Huz_Dialogues_1,Text,,,[A]...,,[A]...,
+SimpleCampDialogue/CampDial_gmyls_Ilya_Dialogues_0,Text,,,[A]Between you and greatness lies only a lack of confidence.,,[A]你与强大之间，单单缺少了自信。,
+SimpleCampDialogue/CampDial_gmyls_Ilya_Dialogues_1,Text,,,[B]Really...,,[B]真的吗...,
+SimpleCampDialogue/CampDial_gmyls_Iron_Dialogues_0,Text,,,"[B]With your Substitute, you don't need me to shield you anymore...",,[B]你有替身，好像也不需要我挡在前面了...,
+SimpleCampDialogue/CampDial_gmyls_Iron_Dialogues_1,Text,,,[A]Others still need your protection.,,[A]没关系，其它调查员还需要你的帮助。,
+SimpleCampDialogue/CampDial_gmyls_Joey_Dialogues_0,Text,,,"[A]Must a true elite always maintain this ""elite"" facade?",,[A]真正的精英，需要一直保持这副“精英”的模样吗。,
+SimpleCampDialogue/CampDial_gmyls_Joey_Dialogues_1,Text,,,[B]That's exactly what makes me elite!,,[B]正是这样我才是精英！,
+SimpleCampDialogue/CampDial_gmyls_Johan_Dialogues_0,Text,,,"[B]A hunter, huh? You seem... formidable.",,[B]猎人吗，看着深藏不露...,
+SimpleCampDialogue/CampDial_gmyls_Johan_Dialogues_1,Text,,,"[A]You look like a ""hunter"" yourself.",,[A]你的样子，也像是一个“猎人”。,
+SimpleCampDialogue/CampDial_gmyls_Leryn_Dialogues_0,Text,,,"[B]""Abyssal Hunter""? Technology far beyond our comprehension...",,[B]“深海猎人”吗？完全超出我们理解范畴的科技啊...,
+SimpleCampDialogue/CampDial_gmyls_Leryn_Dialogues_1,Text,,,"[A]This world has many mysteries too, doesn't it?",,[A]这个世界也有许多我们无法理解的地方，不是吗？,
+SimpleCampDialogue/CampDial_gmyls_Lian_Dialogues_0,Text,,,[B]Roaming the battlefield freely—you're strong.,,[B]游离于战场之中，你很强大,
+SimpleCampDialogue/CampDial_gmyls_Lian_Dialogues_1,Text,,,[A]Thank you. That's the highest praise for a hunter.,,[A]谢谢，这是对一个猎人最好的赞美。,
+SimpleCampDialogue/CampDial_gmyls_Miss_Dialogues_0,Text,,,[B]Charge forward and crush the enemies!,,[B]向前冲，把敌人都打倒吧！,
+SimpleCampDialogue/CampDial_gmyls_Miss_Dialogues_1,Text,,,[A]Such enthusiasm.,,[A]很有干劲呢。,
+SimpleCampDialogue/CampDial_gmyls_Momori_Dialogues_0,Text,,,[B]Switching to Substitute... It's like resurrection! So cool!,,[B]替换替身...看上去像死而复生了一样...好酷,
+SimpleCampDialogue/CampDial_gmyls_Momori_Dialogues_1,Text,,,[A]Want to learn? It's a hunter's technique.,,[A]想学吗。这也是猎人的技巧之一。,
+SimpleCampDialogue/CampDial_gmyls_Narhan_Dialogues_0,Text,,,[B]You and your Substitute—which is the real you?,,[B]你和你的替身，那个是真正的你。,
+SimpleCampDialogue/CampDial_gmyls_Narhan_Dialogues_1,Text,,,[A]We are born as one.,,[A]我们生而为一。,
+SimpleCampDialogue/CampDial_gmyls_Pheonix_Dialogues_0,Text,,,[A]Hmm... This existence resembles the Beast Lords...,,[A]嗯，这种存在...与兽主相似呢...,
+SimpleCampDialogue/CampDial_gmyls_Pheonix_Dialogues_1,Text,,,[B]Not sure what you mean... But I am a divine beast!,,[B]虽然不知道你在说什么...但本大人的确是神兽哦。,
+SimpleCampDialogue/CampDial_gmyls_Priest_Dialogues_0,Text,,,[A]Does your god answer your prayers?,,[A]你们的神明会回应你们的祷告吗。,
+SimpleCampDialogue/CampDial_gmyls_Priest_Dialogues_1,Text,,,[B]Of course. I act by divine will.,,[B]当然，我循着神明的旨意行事。,
+SimpleCampDialogue/CampDial_gmyls_Red_Dialogues_0,Text,,,[B]Is your Substitute your sister or a puppet?,,[B]替身是你的姐妹，还是人偶？,
+SimpleCampDialogue/CampDial_gmyls_Red_Dialogues_1,Text,,,"[A]Another me—in a sense, my sister? Heh.",,[A]另一个我，某种意义上也是我的姐妹？呵呵。,
+SimpleCampDialogue/CampDial_gmyls_SilverStein_Dialogues_0,Text,,,[B]Using Substitute to draw aggro... Such veteran tactics.,,[B]能让替身帮忙吸引怪物，真是经验老道阿。,
+SimpleCampDialogue/CampDial_gmyls_SilverStein_Dialogues_1,Text,,,"[A]A hunter's survival instinct, no?",,[A]这是属于猎人的生存法则，不是吗。,
+SimpleCampDialogue/CampDial_gmyls_Sizz_Dialogues_0,Text,,,[B]Is your Substitute your partner?,,[B]替身，是你的伙伴吗。,
+SimpleCampDialogue/CampDial_gmyls_Sizz_Dialogues_1,Text,,,"[A]Or rather, the Substitute is me.",,[A]或者说，替身就是我自己哦。,
+SimpleCampDialogue/CampDial_gmyls_SuzakuinMomiji_Dialogues_0,Text,,,[B]Incredible physical prowess... This world is amazing.,,[B]好强大的身体素质...这个世界真是神奇啊。,
+SimpleCampDialogue/CampDial_gmyls_SuzakuinMomiji_Dialogues_1,Text,,,"[A]Though I'm from elsewhere too, your swords and armor differ greatly from Aegir's technology.",,[A]虽说我也是从其它地方来的，不过，你们的剑和铠甲，和阿戈尔的技术也有很大差别呢。,
+SimpleCampDialogue/CampDial_gmyls_SuzakuinNadeshiko_Dialogues_0,Text,,,"[B]Your combat style with the Substitute is like a dance! Let's spar, Specter!",,[B]好酷的战斗方式，和替身在场上像跳舞一样，幽灵鲨小姐，我们来切磋吧。,
+SimpleCampDialogue/CampDial_gmyls_SuzakuinNadeshiko_Dialogues_1,Text,,,[A]I avoid wasting energy... But I'll make an exception this time.,,[A]虽然不想在无谓的地方浪费体力，但这一次，就算破例哦。 ,
+SimpleCampDialogue/CampDial_gmyls_SuzakuinTsubaki_Dialogues_0,Text,,,[A]You work hard. You'll become strong.,,[A你很努力，你也一定会变得很强大。,
+SimpleCampDialogue/CampDial_gmyls_SuzakuinTsubaki_Dialogues_1,Text,,,[B]Thank you. I'll keep improving to catch up to my sisters.,,[B]谢谢，我会继续变强，追上姐姐她们。,
+SimpleCampDialogue/CampDial_gmyls_Trisha_Dialogues_0,Text,,,[B]The Substitute is perfect for stealth.,,[B]替身就是最完美的隐蔽啊。,
+SimpleCampDialogue/CampDial_gmyls_Trisha_Dialogues_1,Text,,,[A]Perhaps.,,[A]或许是吧。,
+SimpleCampDialogue/CampDial_gmyls_hlshj_Dialogues_0,Text,,,[A]Saw you once on Rhodes Island. Interesting—when did you get this gear?,,[A]在罗德岛上见过你一次，有意思，你什么时候弄到的这套神奇的装备。,
+SimpleCampDialogue/CampDial_gmyls_hlshj_Dialogues_1,Text,,,[B]By chance. Changed my weapons.,,[B]机缘巧合之下吧，改用这种武器了。,
+SimpleCampDialogue/CampDial_gmyls_ysml_Dialogues_0,Text,,,"[A]It's you... But in my world, you weren't like this...",,[A]是你...可是，不，在我的那个世界，你不是这个样子...,
+SimpleCampDialogue/CampDial_gmyls_ysml_Dialogues_1,Text,,,"[B]Is that so? I recall you... You should be dead. Regardless, the Hivemind isn't here. We aren't enemies.",,[B]是这样吗，我对你们有印象，你应该已经死了...不管这些，这里没有大群，你也不必将我再当作敌人。,
+SimpleCampDialogue/CampDial_gmyls_ysml_Dialogues_2,Text,,,[B]Our shared goal is to find the Time Shard.,,[B]去找到时光之影，才是我们共同的目标。,
+Skill/S_gmyls_10_Description,Text,,,"If this card is in the deck, at the start of battle, lose 50% max HP, increase ATK by 20% for 2 turns.",,"
+若牌库中拥有这张牌，战斗开始时，失去50%maxhp%的体力值，提升攻击力20%（2t）
+",
+Skill/S_gmyls_10_Name,Text,,,Return to the Depths,,归溟,
+Skill/S_gmyls_1_Description,Text,,,"First, the ally with the highest HP takes equal damage. Then restore all HP limit. If targeting self, no damage is taken.",,"先使生命最高的友军受到等量伤害,恢复自身所有体力极限，若为自己，则不受到伤害。",
+Skill/S_gmyls_1_Name,Text,,,The Skill to Survive,,生存的技巧,
+Skill/S_gmyls_2_Description,Text,,,"If the enemy does not have Hunt, apply 3 additional stacks. 
+If they have Hunt, self takes 30% max HP as Pain damage.",,"若敌方未带有“追猎”，则额外附带三层“追猎”
+若带有“追猎”，则自身受到30%maxhp的痛苦伤害
+",
+Skill/S_gmyls_2_Name,Text,,,Hunting Saw,,巡猎之锯,
+Skill/S_gmyls_3_0_Name,Text,,,Pursuit,,追击,
+Skill/S_gmyls_3_Description,Text,,,"If own HP percentage is higher than the enemy's, lose 30% max HP. Otherwise, deal an additional 40% ATK as Pain damage. 
+Apply 3 Follow-up attacks (40% ATK) to enemies adjacent to the target, inflicting Hunt.",,"若自身生命值比例高于敌方，自身失去30%maxhp体力值，否则额外造成一次40%攻击力的痛苦伤害
+对所选目标相邻两个敌人施加3次追击（40%倍率），附带“追猎”
+",
+Skill/S_gmyls_3_Name,Text,,,The Pressure to Survive,,生存的重压,
+Skill/S_gmyls_4_Description,Text,,,"Returns to hand after use, and take 50% max HP as Pain damage.",,使用后回到手中，并受到50%maxhp的痛苦伤害。,
+Skill/S_gmyls_4_Name,Text,,,Rend Again,,再撕裂,
+Skill/S_gmyls_5_Description,Text,,,"Deal additional damage equal to 300% of lost HP. 
+If the enemy is killed, take 30% max HP as Pain damage.",,"对敌方额外造成自身已经损失生命值300%的伤害
+若击杀敌人，自身受到30%maxhp的痛苦伤害
+",
+Skill/S_gmyls_5_Name,Text,,,Gamble of Survival,,生存的博弈,
+Skill/S_gmyls_6_Description,Text,,,"Deal 10% ATK as Pain damage to all units. 
+<color=#FFA636FF>Substitute</color>: Deal an additional 100% Pain damage to all enemies.   ",,"对所有单位造成10%攻击力的痛苦伤害
+<color=#FFA636FF>替身</color>：对所有敌方再造成100%痛苦伤害
+",
+Skill/S_gmyls_6_Name,Text,,,Voice of the Abyss,,深海之声,
+Skill/S_gmyls_7_Description,Text,,,"For each stack of Hunt on the target, take 2 Pain damage. 
+<color=#FFA636FF>Substitute</color>: Deal 150% Pain damage to the target.  ",,"根据目标附带的追猎层数，额外对自身造成等次数的2点痛苦伤害
+<color=#FFA636FF>替身</color>：对目标造成150%倍率痛苦伤害
+",
+Skill/S_gmyls_7_Name,Text,,,The Beauty in the Incomplete,,未竟之美,
+Skill/S_gmyls_8_Description,Text,,,"Choose a skill in hand to create 2 copies. 
+Cannot select rare or Lucy skills. 
+<color=#FFA636FF>Substitute</color>: Deal 30% Pain damage per skill cost to random enemies.",,"选择手中的一个技能，生成2个相同的技能。
+无法选择稀有技能和露西技能。
+<color=#FFA636FF>替身</color>： 根据选中技能的费用对随机敌人造成等次的30%倍率痛苦伤害
+",
+Skill/S_gmyls_8_Name,Text,,,Puppet Dance,,傀儡舞,
+Skill/S_gmyls_9_Description,Text,,,Immediately exit Substitute state and refresh passive uses this turn.,,立刻解除一次替身状态，并刷新本回合的被动使用次数,
+Skill/S_gmyls_9_Name,Text,,,Embraced Self,,拥抱自我,
+Skill/S_gmyls_Lucy_Description,Text,,,Draw 2 skills. Apply 1 stack of Hunt to all enemies.,,抽取2个技能，为所有敌方添加一层“追猎”,
+Skill/S_gmyls_Lucy_Name,Text,,,"""Vinyl Record"" Box",,“唱片”收藏箱,
+Skill/S_gmyls_R1_Description,Text,,,"After use, taunt all enemies.",,使用后嘲讽所有敌人,
+Skill/S_gmyls_R1_Name,Text,,,The Thirst to Survive,,生存的渴望,
+Skill/S_gmyls_R2_Description,Text,,,<color=#FFA636FF>Substitute</color>: Restore 1 Mana.,,<color=#FFA636FF>替身</color>：回复1点法力值 ,
+Skill/S_gmyls_R2_Name,Text,,,Shadow of the Hunt,,寻猎之影,
+Skill/S_gmyls_R3_Name,Text,,,"Abyss, Hunter",,深海，猎人,
+SkillExtended/Ex_gmyls_1_Des,Text,,,,,,
+SkillExtended/Ex_gmyls_1_EnforceString,Text,,,,,,
+SkillExtended/Ex_gmyls_1_Name,Text,,,"Cost reduced by 1. After use, all allies take 1 Pain damage.",,费用减少1点，使用后全队受到1点痛苦伤害,
+SkillExtended/Ex_gmyls_2_EnforceString,Text,,,,,,
+SkillExtended/Ex_gmyls_2_Name,Text,,,"Gain Swiftness, Tracking, Critical. After use, take 4 Pain damage.",,获得迅速，追踪，致命，使用后受到4点痛苦伤害,
+SkillKeyword/K_gmyls_0_Desc,Text,,,"Can be used while unable to act. 
+If not in Substitute state, enter Substitute state when used. 
+If in Substitute state, trigger the skill's special effect.",,"可以在无法行动时使用
+使用时若自身不处于替身状态，进入替身状态
+若处于替身状态，则触发技能的特殊效果
+",
+SkillKeyword/K_gmyls_0_Name,Text,,,Substitute,,替身,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+

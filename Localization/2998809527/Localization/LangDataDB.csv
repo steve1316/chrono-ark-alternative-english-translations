@@ -1,0 +1,138 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_DRAGOON_1_Description,Text,,,"At the end of the turn or after two countdowns (&a/2), if no damage greater than 1 was taken while this buff was active, draw a ""Phoenix.myth"" from the discard pile and remove this buff.",,按下回合结束时或两个倒计时后(&a/2)，若持有本增益期间没有受到大于1的伤害，从弃牌堆中抽取一张“凤凰.myth”并解除该增益。,
+Buff/B_DRAGOON_1_Name,Text,,,Rebirth,,涅槃,
+Buff/B_DRAGOON_2_0_Name,Text,,,Golem Link,,魔像链接,
+Buff/B_DRAGOON_2_Description,Text,,,"When an ally takes physical damage, take an equal amount of <color=#873FBC>Pain damage</color>.
+When taking damage, prioritize counterattacking an enemy with Taunt, dealing &a (40% of ATK) damage.
+Damage taken cannot exceed 1, and reduces stacks when taking damage.",,"友方受到物理伤害时，自己受到等量痛苦伤害。
+受到伤害时优先对具有嘲讽的敌人进行一次反击，造成&a（40%攻击力）伤害。
+受到的伤害不会大于1，受到伤害时减少一层。
+",
+Buff/B_DRAGOON_2_Name,Text,,,Golem,,魔像,
+Buff/B_DRAGOON_3_Description,Text,,,"Damage taken from attack skills increased by &a%.
+If it's a "".myth"" skill, increased by &b% instead.",,"受到来自攻击技能的伤害+&a%.
+如果是.myth技能，改为+&b%.",
+Buff/B_DRAGOON_3_Name,Text,,,Pleiades,,宿星,
+Buff/B_DRAGOON_4_Description,Text,,,"Gain a stack when taking action.
+Removed at the end of the turn.",,"行动时叠加一层
+回合结束时解除。",
+Buff/B_DRAGOON_4_Name,Text,,,Petrify,,石毒,
+Buff/B_DRAGOON_5_Description,Text,,,"When dealing damage, deal additional damage equal to the difference between max HP and current HP (&a). This effect can only trigger once. Current &b.",,造成伤害时，追加相当于体力极限与当前生命值的差值的伤害（&a），这个效果只能生效1次。当前&b。,
+Buff/B_DRAGOON_5_Name,Text,,,Singing Hymns,,歌声,
+Buff/B_DRAGOON_R2_0_Name,Text,,,Absolute Guard,,守护,
+Buff/B_DRAGOON_R2_Description,Text,,,Lose 1 stack after taking damage.,,受到伤害后减少1层,
+Buff/B_DRAGOON_R2_Name,Text,,,Fleeting Moment,,过隙,
+Character/DRAGOON_PassiveDes,Text,,,"When using a skill book, two additional skill options from other teammates are added.
+When entering battle, ATK and Healing Power are set to the higher of the two values.",,"使用技能书时额外出现两个所有者为自己的其他队友技能选项。
+进入战斗时，攻击力和治疗力将转变为两值中的最高值。",
+Character/DRAGOON_PassiveName,Text,,,Infinite Curiosity,,无限求知,
+Character/DRAGOON_SelectInfo,Text,,,"The most advanced chips are actually scales from creatures called ""Dragon Spirits."" DRAGOON is the last surviving Dragon Spirit.
+QUEEN later discovered DRAGOON—to protect her from exploitation.
+
+Now acting as QUEEN's aide, she assists the Quantum Squad in the Twisted Lands while delivering highly efficient protection.",,"最高端的芯片其实是一种被称作“龙灵”的生物的鳞片。而“珑祺”则是最后一只龙灵。
+后来女王找到了珑祺——为了保护她不被利用。
+现在作为女王的助手，在扭曲之地中协助量子小队行动的同时提供相应的高效保护。",
+Character/DRAGOON_Text_Battle_AllyND_0,Text,,,No... I did poorly.,,不…我做的很糟糕。,
+Character/DRAGOON_Text_Battle_Cri_0,Text,,,Attack.,,攻击。,
+Character/DRAGOON_Text_Battle_Healed_0,Text,,,Hmm.,,嗯。,
+Character/DRAGOON_Text_Battle_Idle_0,Text,,,Hacking in progress.,,骇入中。,
+Character/DRAGOON_Text_Battle_Kill_0,Text,,,Go ahead.,,去吧。,
+Character/DRAGOON_Text_Battle_ND_0,Text,,,Oh.,,哦。,
+Character/DRAGOON_Text_Battle_Start_0,Text,,,"Hacking, begin.",,骇入，开始。,
+Character/DRAGOON_Text_Field_GetItem_0,Text,,,Program received.,,程序已接收。,
+Character/DRAGOON_Text_Field_Potion_N_0,Text,,,Program received.,,程序已接收。,
+Character/DRAGOON_Text_Field_Potion_P_0,Text,,,Program received.,,程序已接收。,
+Character/DRAGOON_Text_PharosLeader_0,Text,,,...,,……,
+Character/DRAGOON_Text_PharosLeader_1,Text,,,...,,……,
+Character/DRAGOON_Text_PharosLeader_2,Text,,,...,,……,
+Character/DRAGOON_name,Text,,,DRAGOON,,珑祺,
+Skill/S_DRAGOON_10_Description,Text,,,"After being held in hand for one turn, becomes enhanced, gains ""Chain Heal"" and increasing healing by 20%.",,在手中一回合后获得强化，变为连锁治疗并且治疗量增加20%。,
+Skill/S_DRAGOON_10_Name,Text,,,Flash,,闪光,
+Skill/S_DRAGOON_1_Description,Text,,,"When used, if this skill has already been used this turn, delay all enemy countdowns by 1.
+When discarded or exchanged, apply ""Rebirth"" buff to the holder.
+<sprite name=link>DRAGOON Link: Gain 1 Exchange count.",,"使用时，若本回合已使用过该技能，所有敌人行动倒计时+1.
+被丢弃或交换时，对持有者施加“涅槃”增益。
+<sprite name=link>DRAGOON式链接：获得1交换次数。",
+Skill/S_DRAGOON_1_Name,Text,,,Phoenix.myth,,凤凰.myth,
+Skill/S_DRAGOON_2_0_Name,Text,,,Golem Counter!,,魔像反击！,
+Skill/S_DRAGOON_2_Description,Text,,,"<sprite name=link>DRAGOON Link: Prioritize drawing a skill with the ""<sprite name=link>DRAGOON Link"" effect.",,<sprite name=link>DRAGOON式链接：优先抽取一个具有“<sprite name=link>DRAGOON式链接”效果的技能。,
+Skill/S_DRAGOON_2_Name,Text,,,Golem.myth,,魔像.myth,
+Skill/S_DRAGOON_3_Description,Text,,,"For each stack of Pleiades debuff on the target, this skill's damage increases by 30%.
+<sprite name=link>DRAGOON Link: Apply 1 stack of ""Pleiades"" debuff to all enemies. If there's only one enemy, apply an additional stack.",,"攻击目标每有1层宿星减益，该技能伤害提升30%.
+<sprite name=link>DRAGOON式链接：对所有敌人施加1层“宿星”减益，如果只有一个敌人，额外施加1层",
+Skill/S_DRAGOON_3_Name,Text,,,Arae.myth,,天坛座.myth,
+Skill/S_DRAGOON_4_Description,Text,,,"Can be used when the total remaining countdown of all enemy skills and ally skills in countdown reaches 21 (&a/21).
+When used, delay all enemies' action countdowns by 10.
+<sprite name=link>DRAGOON Link: Delay all enemies' action countdowns by 3, gain Standby count +3.",,"所有敌人技能和友方倒计时中的技能的剩余倒计时总和达到21时可以使用(&a/21)。
+释放时，所有敌人行动倒计时+10.
+<sprite name=link>DRAGOON式链接：所有敌人行动倒计时+3，等待次数+3.",
+Skill/S_DRAGOON_4_Name,Text,,,Cockatrice.myth,,鸡蛇.myth,
+Skill/S_DRAGOON_5_Description,Text,,,"Can be played if there are at least three differently named skills in the discard pile.
+If a target has full HP limit, prioritize drawing one of your own skills.
+Restore the target's Healing Gauge to max HP.
+<sprite name=link>DRAGOON Link: Trigger this skill's HP limit restoration effect on yourself.",,"弃牌堆中至少有三张不同名技能时可以打出。
+若目标中有体力极限已满的角色，优先抽取自己的一个技能。
+将目标的体力极限回复至最大生命值。
+<sprite name=link>DRAGOON式链接：对自己触发该技能的体力极限恢复效果。",
+Skill/S_DRAGOON_5_Name,Text,,,Mermaid.myth,,人鱼.myth,
+Skill/S_DRAGOON_6_Description,Text,,,"Decompile the target skill, then place a copy of the target skill into your hand.
+The copy costs 0 Mana and has ""Swiftness"", ""Exclude"", ""Discard after 2 turns"", and a random enhancement. When an enemy is killed using this copy, add a ""Dragon Breath"" to your hand.",,"反编译目标技能，然后将目标技能的一张复制置入手中。
+该复制法力值消耗变为0，并附带迅速、放逐、2回合后弃牌和随机强化。使用该复制击杀一个敌人时，将一张由目标技能使用者使用的龙息置入手牌。",
+Skill/S_DRAGOON_6_Name,Text,,,Dragon Breath,,龙息,
+Skill/S_DRAGOON_7_Description,Text,,,"After use, all non-boss enemies act immediately.
+Shuffle all your skills except this one from the discard pile and hand into the draw pile, then draw skills until you have 4 in hand.",,"使用后所有非boss敌人立即行动一次。
+将弃牌堆和手牌中该技能以外的自己的技能洗入抽牌堆中，然后抽取技能至手中有4个技能。",
+Skill/S_DRAGOON_7_Name,Text,,,Initialize,,初始化,
+Skill/S_DRAGOON_8_Description,Text,,,"Randomly select 5 unlearned common skills from all allies, choose 1 to add to your hand with ""Exclude"".
+If no skills are available, draw 2 skills.",,"从所有友军可学习的未学习普通技能中随机5张，选择其中1张加入手中并附加放逐。
+如果没有可获得的技能，抽取2个技能。",
+Skill/S_DRAGOON_8_Name,Text,,,Cache,,缓存,
+Skill/S_DRAGOON_9_Description,Text,,,"Generate a ""Flash"" with a 2-turn countdown and ""Exclude"". Its healing is increased by 66% of the amount that this skill's healing amount exceeds the max HP.",,"生成一张附带倒计时2、放逐的""闪光""，其治疗量额外增加相当于此技能治疗量超出体力极限部分的66%。",
+Skill/S_DRAGOON_9_Name,Text,,,Thunderclap,,眩光,
+Skill/S_DRAGOON_Lucy2_Description,Text,,,"Randomly reveal 5 unique skills from all investigators in the team.
+Choose 2 to add to your hand, with the chosen skills' owner being the target ally.",,"随机展示队伍中所有调查队员的专属技能5个
+选择两个加入手牌，选择的技能所有者为目标友军。",
+Skill/S_DRAGOON_Lucy2_Name,Text,,,Source Cache,,源缓存器,
+Skill/S_DRAGOON_Lucy_Description,Text,,,"Shuffle all non-Lucy skills with ""Once"" used in this battle into the deck, then draw cards equal to the number shuffled (does not exceed hand limit).
+For this battle, all skills in the draw pile, discard pile, and hand are considered to have any suffix.",,"将本场战斗中使用过的一次性非露西技能洗入牌库，然后抽取等同于洗入的技能的数量。(不会超过手牌上限)
+本场战斗中抽牌堆、弃牌堆和手牌中所有技能视为拥有任意后缀。",
+Skill/S_DRAGOON_Lucy_Name,Text,,,Mirage,,幻象,
+Skill/S_DRAGOON_R1_0_Description,Text,,,"<sprite name=link>DRAGOON Link: Skills that would be discarded due to triggering ""<sprite name=link>DRAGOON Link"" with this skill are not discarded, then discard this skill.",,<sprite name=link>DRAGOON式链接：与该技能一起触发“DRAGOON式链接”而将被丢弃的技能不会被丢弃，然后丢弃该技能。,
+Skill/S_DRAGOON_R1_0_Name,Text,,,Treasure,,宝藏,
+Skill/S_DRAGOON_R1_Description,Text,,,"Can be played if you have at least 3 skills with ""<sprite name=link>DRAGOON Link"" in hand.
+When this skill is drawn or discarded, if your hand is not full, add 1 ""Treasure"" to your hand.
+<sprite name=link>DRAGOON Link: Gain all effects of the skill that triggered this DRAGOON Link.
+<color=#919191>Griffin's treasure... code treasure? &get</color>",,"手中至少有3张具有“DRAGOON式链接”的技能时可以打出。
+该技能被抽取时或被丢弃时，若手牌数未达到上限，向手中加入1张“羽翼”。
+<sprite name=link>DRAGOON式链接：获得触发该DRAGOON式链接的技能的所有效果。
+
+<color=#919191>狮鹫的财宝….代码财宝？&get</color>",
+Skill/S_DRAGOON_R1_Name,Text,,,Griffin.myth,,狮鹫.myth,
+Skill/S_DRAGOON_R2_0_Name,Text,,,Miracle,,奇迹,
+Skill/S_DRAGOON_R2_Description,Text,,,"Once per battle, when an ally is attacked while at Death's Door, withstand the damage, then draw and play this skill from the deck or discard pile. When played this way, this skill gains ""Exclude"", then add a ""Miracle"" to your hand.
+While this skill is in your hand, at the start of the turn, if your hand is not full, add 1 ""Miracle"" to your hand.
+<sprite name=link>DRAGOON Link: Grant 2 stacks of ""Absolute Guard"" to the ally with the lowest HP.",,"每场战斗限一次，当有队员在濒死状态受到攻击时，撑住这一次伤害，同时把这个技能从抽牌堆、弃牌堆中抽取到手牌中并释放，以这种方式释放的此技能将会被放逐，然后在手中加入一张“奇迹”。
+该技能在手牌中时，回合开始时，若手牌数未达到上限，向手中加入1张“奇迹·”。
+<sprite name=link>DRAGOON式链接：给予队伍中生命值最低的队员2层完美护盾。",
+Skill/S_DRAGOON_R2_Name,Text,,,Unicorn.myth,,独角兽.myth,
+SkillExtended/Ex_DRAGOON_1_EnforceString,Text,,,Any Skill,,任意技能,
+SkillExtended/Ex_DRAGOON_1_Name,Text,,,"Gains ""Once"", Mana cost becomes 0, gains Discard after 1 turn when added to hand. When killing an enemy, add a ""Dragon Breath"" to your hand.",,一次性、法力值消耗变为0，加入手中时获得1回合后弃牌。击杀敌人时，将一张龙息置入手牌。,
+SkillExtended/Ex_DRAGOON_2_EnforceString,Text,,,Any Skill,,任意技能,
+SkillExtended/Ex_DRAGOON_2_Name,Text,,,"Cost +3
+When played, prioritize drawing 3 skills with the ""<sprite name=link>DRAGOON Link"" effect.
+DRAGOON Link: Repeat the skill that triggered this effect.",,"费用+3
+打出时优先抽取3个具有“<sprite name=link>DRAGOON式链接”效果的技能。
+DRAGOON式链接：重复释放触发该效果的技能。",
+SkillExtended/Ex_DRAGOON_6_0_Des,Text,,,"When an enemy is killed with this skill, add a ""Dragon Breath"" with ""Exclude"" to your hand.",,使用该技能击杀一个敌人时，将一张由目标技能使用者使用的、附带放逐的龙息置入手牌。,
+SkillExtended/Ex_DRAGOON_6_0_Name,Text,,,Dragon Breath,,龙息,
+SkillKeyword/DRAGOON_decompile_Desc,Text,,,Remove the target skill from the battle.,,从战斗中移除目标技能。,
+SkillKeyword/DRAGOON_decompile_Name,Text,,,Decompile,,反编译,
+SkillKeyword/KeyWord_DRAGOONSLINK_Desc,Text,,,"When used, discard all other skills in hand with the ""<sprite name=link>DRAGOON Link"" effect and trigger the ""<sprite name=link>DRAGOON Link"" effects of the discarded skills.
+<color=#919191>Programs created by DRAGOON are interconnected.</color>",,"使用时丢弃手中所有其它具有DRAGOON式链接效果的技能并触发被丢弃的技能的DRAGOON式链接效果。
+<color=#919191>由DRAGOON创建的程序是彼此关联的。</color>",
+SkillKeyword/KeyWord_DRAGOONSLINK_Name,Text,,,DRAGOON Link,,DRAGOON式链接,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+

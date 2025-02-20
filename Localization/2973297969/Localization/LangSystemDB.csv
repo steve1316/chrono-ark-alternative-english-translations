@@ -1,0 +1,17 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+CharText/Rainbow/Foggy,Text,,<color=#B048B5>안개</color>.,<color=#B048B5>Fog</color>,<color=#B048B5>霧</color>.,<color=#B048B5>雾</color>,
+CharText/Rainbow/FoggyC,Text,,뒤틀린 날씨 효과:<color=#B048B5>안개</color>.,The current weather in the Twisted Land:<color=#B048B5>Fog</color>.,現在は<color=#B048B5>霧</color>.,当前扭曲之地处于<color=#B048B5>雾</color>状态。,
+CharText/Rainbow/None,Text,,없음,None,なし,无,
+CharText/Rainbow/NoneC,Text,,감지할 수 없습니다.,The weather state of the Twisted Land cannot be detected at this time.,今のところ天候を知ることはできない.,当前扭曲之地无法探知到天气状态。,
+CharText/Rainbow/NoneHistoryRecord,Text,,왜곡된 땅에서는 일기 기록이 전혀 발견되지 않았다.,No weather records have been detected in the Twisted Land.,現在気象記録は検出されていません,当前扭曲之地没有检测到天气记录。,
+CharText/Rainbow/Rainy,Text,,<color=#6495ED>비</color>.,<color=#6495ED>Rain</color>,<color=#6495ED>雨</color>.,<color=#6495ED>雨</color>,
+CharText/Rainbow/RainyC,Text,,뒤틀린 날씨 효과:<color=#6495ED>비</color>.,The current weather in the Twisted Land:<color=#6495ED>Rain</color>.,現在は<color=#6495ED>雨</color>.,当前扭曲之地处于<color=#6495ED>雨</color>状态。,
+CharText/Rainbow/SelectionA,Text,,선택,Rainbow is considering whether to discard a skill.,カードを捨てる,虹正在思考要不要丢弃技能,
+CharText/Rainbow/SelectionB,Text,,버릴 수,Rainbow is deciding which skill to discard.,”カードを捨てる,虹正在思考丢弃哪个技能,
+CharText/Rainbow/Sunny,Text,,<color=#FFE87C>맑음</color>.,<color=#FFE87C>Sunny</color>,<color=#FFE87C>晴れ</color>.,<color=#FFE87C>晴</color>,
+CharText/Rainbow/SunnyC,Text,,뒤틀린 날씨 효과:<color=#FFE87C>맑음</color>.,The current weather in the Twisted Land:<color=#FFE87C>Sunny</color>.,現在は<color=#FFE87C>晴れ</color>.,当前扭曲之地处于<color=#FFE87C>晴</color>状态。,
+CharText/Rainbow/Turn_Begin,Text,,다음 라운드 시작 시:,The weather sequence that will change at the start of the next round:,次のラウンドの開始時に変わる天気,。下个回合开始时将要变换的天气序列：,
+CharText/Rainbow/Turn_End,Text,,라운드 종료 시 변경됨:,The weather sequence that will change at the end of the round:,ラウンド終了時に変わる天気,回合结束时将要变换的天气序列：,
+CharText/Rainbow/Windy,Text,,<color=#57E964>바람</color>.,<color=#57E964>Wind</color>,<color=#57E964>風</color>.,<color=#57E964>风</color>,
+CharText/Rainbow/WindyC,Text,,뒤틀린 날씨 효과:<color=#57E964>바람</color>.,The current weather in the Twisted Land:<color=#57E964>Wind</color>.,現在は<color=#57E964>風</color>.,当前扭曲之地处于<color=#57E964>风</color>状态。,
+

@@ -1,0 +1,285 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Dialogue/Reimu_Gift_Normal/001,Text,,,"Reimu Hakurei
+What? This is for me?",,"*博丽灵梦
+什么？这是给我的礼物？","*博麗靈夢
+什麼？這是给我的禮物？"
+Dialogue/Reimu_Gift_Normal/002,Text,,,"Reimu Hakurei
+Heheh, I've gotten gifts from all sorts over the years, but this is the first time receiving one from such a tiny human kid.",,"*博丽灵梦
+嘿嘿，这些年被各种各样的人送过礼物，但是被这么小的人类孩子送礼倒还是头一次。","*博麗靈夢
+嘿嘿，這些年被各種各样的人送過禮物，
+但是被這麼小的人類孩子送禮，倒還是頭一次。"
+Dialogue/Reimu_Gift_Normal/003,Text,,,"Reimu Hakurei
+I'll take good care of it.",,"*博丽灵梦
+我会好好珍惜的。","*博麗靈夢
+我會好好珍惜的。"
+Dialogue/Reimu_Gift_Sake/001,Text,,,"Reimu Hakurei
+Sake? This stuff's popular nationwide in Japan, you know.",,"*博丽灵梦
+清酒？这在日本可是人见人爱的东西哦。","*博麗靈夢
+清酒？這在日本可是人見人愛的東西哦。"
+Dialogue/Reimu_Gift_Sake/002,Text,,,"Reimu Hakurei
+But minors can't drink! Big Sister Reimu will confiscate this~",,"*博丽灵梦
+不过，未成年人可不能饮酒哦。这东西就由灵梦姐姐收下啦。","*博麗靈夢
+不過，未成年人可不能飲酒哦。這東西就由靈夢姐姐收下啦。"
+Dialogue/Reimu_Gift_Sake/003,Text,,,"Reimu Hakurei
+Me? Pfft, human laws don't apply to shrine maidens.",,"*博丽灵梦
+我吗？嘿嘿，我可不受人类法律的束缚哦？","*博麗靈夢
+我嗎？嘿嘿，我可不受人類法律的束缚哦？"
+Dialogue/Reimu_Gift_Sake/004,Text,,,"Reimu Hakurei
+My whole deal is being free and unbound anyway.",,"*博丽灵梦
+毕竟我的能力就是能够自由自在、不受束缚的影响嘛。","*博麗靈夢
+畢竟我的能力就是能夠自由自在、不受束縛的影響嘛。"
+Dialogue/Reimu_Gift_Cake/001,Text,,,"Reimu Hakurei
+Cheesecake? This is luxury goods in the Twisted Lands! You're giving it to me?",,"*博丽灵梦
+芝士蛋糕？这在扭曲之地可是珍惜品耶！要送给我吗？","*博麗靈夢
+這蛋糕？這在扭曲之地可是珍惜品耶！要送给我嗎？"
+Dialogue/Reimu_Gift_Cake/002,Text,,,"Reimu Hakurei
+Thanks Lucy! Haven't had proper cake since arriving here.",,"*博丽灵梦
+谢谢你，露西！自从来到扭曲之地之后，我还从来没有品尝过蛋糕呢。","*博麗靈夢
+謝謝你，露西！自從來到扭曲之地之後，我還從來沒有品嚐過蛋糕呢。"
+Dialogue/Reimu_Gift_Cake/003,Text,,,"Reimu Hakurei
+Remilia would love this... Hm? Who's Remilia?",,"*博丽灵梦
+蕾米一定很喜欢这种东西吧……你问我蕾米是谁？","*博麗靈夢
+蕾米一定很喜歡這種東西吧……妳問我蕾米是誰？"
+Dialogue/Reimu_Gift_Cake/004,Text,,,"Reimu Hakurei
+One of my... associates. You'd get along scarily well.",,"*博丽灵梦
+她是我的一个伙伴哦。你一定也会很喜欢她的。","*博麗靈夢
+她是我的一個伙伴哦。妳一定也會很喜歡她的。"
+Dialogue/Reimu_Gift_FishingRod/001,Text,,,"Reimu Hakurei
+Lucy, how'd you know about my secret fishing hobby?",,"*博丽灵梦
+露西，你是怎么知道我有钓鱼的秘密爱好的？","*博麗靈夢
+露西，妳是怎麼知道我有釣魚的秘密愛好的？"
+Dialogue/Reimu_Gift_FishingRod/002,Text,,,"Reimu Hakurei
+Truth is, my shrine was pretty deserted back in the day.",,"*博丽灵梦
+其实我虽然是巫女，但是神社曾经非常冷清，没多少人来光顾呢。","*博麗靈夢
+其實我雖然是巫女，但是神社曾經非常冷清，沒多少人來光顧呢。"
+Dialogue/Reimu_Gift_FishingRod/003,Text,,,"Reimu Hakurei
+Fishing at Misty Lake killed time - one of my few hobbies.",,"*博丽灵梦
+在雾之湖钓鱼打发时间算是我为数不多的爱好之一哦。","*博麗靈夢
+在霧之湖釣魚打發時間，算是我為數不多的愛好之一哦。"
+Dialogue/Reimu_Gift_FishingRod/004,Text,,,"Reimu Hakurei
+...Till mermaids moved in and ruined everything.",,"*博丽灵梦
+……虽然自从有人鱼入驻以后再也没法去钓鱼了啦。","*博麗靈夢
+……雖然因為有人魚入住，再也沒法去釣魚了啦。"
+Dialogue/Reimu_Gift_Mugwort/001,Text,,,"Reimu Hakurei
+Not that I like mugwort, but it's essential for rituals.",,"*博丽灵梦
+虽然我并不算特别喜欢艾草啦，但是艾草可是祭祀的必需品哦？","*博麗靈夢
+雖然我並不算特別喜歡艾草，但艾草可是祭祀的必需品哦？"
+Dialogue/Reimu_Gift_Mugwort/002,Text,,,"Reimu Hakurei
+Hey now, I'm still a proper shrine maiden underneath it all.",,"*博丽灵梦
+嘛……别看我这样，我好歹也是一名巫女嘛。","*博麗靈夢
+嘛……别看我這樣，我好歹也是一名巫女嘛。"
+Dialogue/Reimu_Gift_Mugwort/003,Text,,,"Reimu Hakurei
+I'll show you a Hakurei blessing ceremony sometime.",,"*博丽灵梦
+有机会的话，让你见识一下博丽巫女的祝仪仪式哦。","*博麗靈夢
+有機會的话，讓妳見識一下博麗巫女的祝儀儀式哦。"
+Dialogue/Reimu_Lv1/001,Text,,,"Reimu Hakurei
+Hmm... We've walked forever but keep circling the same area.",,"*博丽灵梦
+哎呀……明明出发也有一段时间了，却一直像是在同一个地方打转呢。","*博麗靈夢
+哎呀……明明出發也有一段時間了，卻一直像是在同一個地方打轉呢。"
+Dialogue/Reimu_Lv1/002,Text,,,"Lucy
+Miss Reimu, you're so calm. Not scared at all?",,"*露西
+灵梦小姐，你看起来很冷静的样子，一点都不害怕。","*露西
+靈夢小姐，妳看起來很冷靜的樣子，一點都不害怕。"
+Dialogue/Reimu_Lv1/003,Text,,,"*Reimu Hakurei
+Oh? I'm an incident resolver—failure never crosses my mind.",,"*博丽灵梦
+是吗？因为我可是解决异变的专家，我可从没想过自己会失败呢。","*博麗靈夢
+是嗎？因為我可是解决異變的專家，我可從沒想過自己會失敗呢。"
+Dialogue/Reimu_Lv1/004,Text,,,"*Lucy
+Having you here makes me feel braver.",,"*露西
+有灵梦小姐在身边，好像自己也有了勇气一样。","*露西
+有靈夢小姐在身邊，好像自己也有了勇氣一樣。"
+Dialogue/Reimu_Lv1/005,Text,,,"*Reimu Hakurei
+Truthfully, I prefer working alone. Less hassle.",,"*博丽灵梦
+其实比起团队合作，我更喜欢单人行动呢，那样比较自在一点。","*博麗靈夢
+其實，比起團隊合作，我更喜歡單人行動呢，那樣比較自在一點。"
+Dialogue/Reimu_Lv1/006,Text,,,"*Reimu Hakurei
+But that black-white troublemaker isn't here. The Distorted Land feels oddly quiet without her antics.",,"*博丽灵梦
+不过，这次那个黑白的家伙好像不在这里。扭曲之地这么大，反倒显得有些冷清了。","*博麗靈夢
+不過，這次那個黑白的家伙好像不在這裡。扭曲之地這麼大，反倒顯得有些冷清了。"
+Dialogue/Reimu_Lv1/007,Text,,,"*Lucy
+Do you feel lonely, Miss Reimu?",,"*露西
+灵梦小姐也会寂寞吗？","*露西
+靈夢小姐也會寂寞嗎？"
+Dialogue/Reimu_Lv1/008,Text,,,"*Reimu Hakurei
+Normally no. But this place... reminds me of the past.",,"*博丽灵梦
+一般情况下不会吧。不过，也许是这里的环境，一直让我想起过去的事情。","*博麗靈夢
+一般情况下不會吧。不過，也許是這裡的環境，一直讓我想起過去的事情。"
+Dialogue/Reimu_Lv1/009,Text,,,"*Reimu Hakurei
+Solitude used to be peaceful.",,"*博丽灵梦
+如果一直是一个人的话，或许会轻松一点。","*博麗靈夢
+如果一直是一個人的話，或許會輕鬆一點。"
+Dialogue/Reimu_Lv1/010,Text,,,"*Reimu Hakurei
+Yet after growing accustomed to lively companions, returning to silence feels... colder.",,"*博丽灵梦
+但是习惯了身边朋友们的吵闹之后，再次回到孑然一人的环境，反倒开始有些哆嗦了呢。","*博麗靈夢
+但是習慣了身邊朋友們的吵鬧之後，再次回到孑然一人的環境，反倒開始有些哆嗦了呢。"
+Dialogue/Reimu_Lv1/011,Text,,,"*Lucy
+Then I'll keep you company!",,"*露西
+如果这样的话，那我就多陪陪灵梦小姐吧。","*露西
+如果這樣的話，那我就多陪陪靈夢小姐吧。"
+Dialogue/Reimu_Lv1/012,Text,,,"*Reimu Hakurei
+Haha, I'd pester you regardless. You're our hope in this distorted mess.",,"*博丽灵梦
+哈哈哈，不用你说我也会来找你的。你可是我们在扭曲之地的希望呀。","*博麗靈夢
+哈哈哈，不用妳說，我也會來找妳的。妳可是我們在扭曲之地的希望呀。"
+Dialogue/Reimu_Lv2/001,Text,,,"*Lucy
+Miss Reimu, what are you doing?",,"*露西
+灵梦小姐，你在做什么？","*露西
+靈夢小姐，妳在做什麼？"
+Dialogue/Reimu_Lv2/002,Text,,,"*Reimu Hakurei
+Hm? Just reminiscing. This fog... reminds me of an old incident.",,"*博丽灵梦
+嗯？是露西呀。没什么，只是看到这雾气，想起了以前的事情。","*博麗靈夢
+嗯？是露西呀。沒什麼，只是看到這霧氣，想起了以前的事情。"
+Dialogue/Reimu_Lv2/003,Text,,,"*Lucy
+You mentioned it before. What happened?",,"*露西
+灵梦小姐上次也讲过。以前发生了什么吗？","*露西
+靈夢小姐上次也講過。以前發生了什麼嗎？"
+Dialogue/Reimu_Lv2/004,Text,,,"*Reimu Hakurei
+Before that... but I suppose it was the ""beginning of everything.""",,"*博丽灵梦
+虽然在那之前还有其他的故事……但那应该算是「一切的开端」吧？","*博麗靈夢
+雖然在那之前還有其他的故事……但那應該算是「一切的開端」吧？"
+Dialogue/Reimu_Lv2/005,Text,,,"*Reimu Hakurei
+A fearsome vampire clan invaded my land, shrouding it in scarlet mist to claim Gensokyo as their playground.",,"*博丽灵梦
+有一个可怕的吸血鬼家族入侵了我所守护的土地，大肆掀起红雾、遮蔽天日，妄图在名为“幻想乡”的净土中横行。","*博麗靈夢
+有一個可怕的吸血鬼家族入侵了我所守護的土地，
+大肆掀起紅霧、遮蔽天日，妄图在名為「幻想鄉」的淨土中橫行。"
+Dialogue/Reimu_Lv2/006,Text,,,"*Lucy
+V-Vampires? But they're just myths!",,"*露西
+吸、吸血鬼？那不是幻想生物吗？","*露西
+吸、吸血鬼？那不是幻想生物嗎？"
+Dialogue/Reimu_Lv2/007,Text,,,"*Reimu Hakurei
+To humans, yes. But in Gensokyo, vampires are very real.",,"*博丽灵梦
+嗯……对你们人类来说，吸血鬼确实沦为了“幻想生物”没错。不过在我们幻想乡中，确实存在着那么几只吸血鬼哟。","*博麗靈夢
+嗯……對你們人類來說，吸血鬼確實淪為了「幻想生物」沒錯。
+不過在我們幻想鄉中，確實存在著那麼幾隻吸血鬼哟。"
+Dialogue/Reimu_Lv2/008,Text,,,"*Lucy
+What happened to them?",,"*露西
+那，后来呢？那些吸血鬼怎么样了？","*露西
+那，後來呢？那些吸血鬼怎麼樣了？"
+Dialogue/Reimu_Lv2/009,Text,,,"*Reimu Hakurei
+After I trounced them, their leader Remilia started loitering at my shrine. A nuisance, really.",,"*博丽灵梦
+被我全部打倒了以后，身为家主的蕾米天天赖在我的神社里作客，害我没时间休息耶。","*博麗靈夢
+被我全部打倒了以後，身為家主的蕾米天天賴在我的神社裡做客，害我沒時間休息耶。"
+Dialogue/Reimu_Lv2/010,Text,,,"*Lucy
+...Eh?!",,"*露西
+……咦？","*露西
+……咦？"
+Dialogue/Reimu_Lv2/011,Text,,,"*Reimu Hakurei
+Haha! Your face! Surprised?",,"*博丽灵梦
+哈哈哈，看你的表情，是不是很惊讶？","*博麗靈夢
+哈哈哈，看妳的表情，是不是很驚訝？"
+Dialogue/Reimu_Lv2/012,Text,,,"*Reimu Hakurei
+Weak humans coexisting with mighty youkai—not exactly ""harmonious,"" but that's Gensokyo.",,"*博丽灵梦
+没错哟，弱小的人类和强大的妖怪共存，虽然称不上有多“和谐”吧，但这就是幻想乡。","*博麗靈夢
+沒錯哟，弱小的人類和強大的妖怪共存……
+雖然稱不上有多「和諧」吧，但這就是幻想鄉。"
+Dialogue/Reimu_Lv2/013,Text,,,"*Reimu Hakurei
+Gensokyo embraces all existence. Eastern, Western—everything survives here.",,"*博丽灵梦
+幻想乡包容着世间的一切。无论是东方的、还是西方的，只要是存在着的，都被允许活下去。","*博麗靈夢
+幻想鄉包容著世間的一切。無論是東方的、還是西方的，只要是存在著的，都被允許活下去。"
+Dialogue/Reimu_Lv2/013_Option1,Text,,,What if we encounter villains?,,那如果遇到坏蛋呢？,那如果遇到壞蛋呢？
+Dialogue/Reimu_Lv2/013_Option2,Text,,,I want to visit Gensokyo too.,,我也想进入幻想乡。,我也想進入幻想鄉。
+Dialogue/Reimu_Lv2/013_1_1,Text,,,"*Reimu Hakurei
+Then this shrine maiden steps in.",,"*博丽灵梦
+如果有坏蛋出现的话，那就轮到本巫女出手啦。","*博麗靈夢
+如果有壞蛋出現的話，那就輪到本巫女出手啦。"
+Dialogue/Reimu_Lv2/013_1_2,Text,,,"*Reimu Hakurei
+I pummel villains until they reform!",,"*博丽灵梦
+一直殴打坏蛋，直到坏蛋不再是坏蛋为止哟！","*博麗靈夢
+一直毆打壞蛋，直到壞蛋不再是壞蛋為止哟！"
+Dialogue/Reimu_Lv2/013_1_3,Text,,,"*Lucy
+Miss Reimu, you're terrifying...",,"*露西
+灵梦小姐，好可怕……","*露西
+靈夢小姐，好可怕……"
+Dialogue/Reimu_Lv2/013_2_1,Text,,,"*Reimu Hakurei
+Hah, I'll take you to Gensokyo someday if possible.",,"*博丽灵梦
+哈哈，有机会的话就带露西去幻想乡逛一圈吧。","*博麗靈夢
+哈哈，有機會的話，就帶露西去幻想鄉逛一圈吧。"
+Dialogue/Reimu_Lv2/014,Text,,,"*Reimu Hakurei  
+It's bedtime. I'll tell you more about Gensokyo tomorrow if there's time.  ",,"*博丽灵梦
+到睡觉的时间啰。明天有机会的话，再给你讲讲幻想乡的事情吧。","*博麗靈夢
+到睡覺的時間了。明天有機會的話，再給妳講講幻想鄉的事情吧。"
+Dialogue/Reimu_Lv3/001,Text,,,"*Lucy
+Miss Reimu, could you tell me more stories about Gensokyo?",,"*露西
+灵梦小姐，能再给我讲讲幻想乡的故事吗？","*露西
+靈夢小姐，能再给我講講幻想鄉的故事嗎？"
+Dialogue/Reimu_Lv3/002,Text,,,"*Reimu Hakurei
+Where to begin this time... Ah, let's talk about the Celestials.",,"*博丽灵梦
+这次从哪里开始讲起好呢……对了，讲讲有关天人的故事吧。","*博麗靈夢
+這次從哪裡開始講起好呢……對了，講講有關天人的故事吧。"
+Dialogue/Reimu_Lv3/003,Text,,,"*Lucy
+Celestials? People living above the heavens?",,"*露西
+天人？是居住在天之上的人吗？","*露西
+天人？是居住在天之上的人嗎？"
+Dialogue/Reimu_Lv3/004,Text,,,"*Reimu Hakurei
+Hmm... That's not entirely wrong. When humans cultivate to a certain level, they become Hermits. And when Hermits sever all earthly desires through further cultivation, they ascend as Celestials.",,"*博丽灵梦
+嗯……这么说也没错吧。如果人类修行到一定程度，就能晋升为仙人。而仙人修行到某种程度，斩断全部七情六欲后，就能成为天人。","*博麗靈夢
+嗯……這麼說也沒錯吧。如果人類修行到一定程度，就能晉升為仙人。
+而仙人修行到某種程度，斬斷全部七情六欲後，就能成為天人。"
+Dialogue/Reimu_Lv3/005,Text,,,"*Reimu Hakurei
+However, there was once a girl who became a Celestial merely through family legacy, lacking the proper virtues expected of one.",,"*博丽灵梦
+不过，曾经也有这么一名少女，仅仅只是追随家族成为天人，因此不具备天人应有的品行。","*博麗靈夢
+不過，曾經也有這麼一名少女，僅僅只是追隨家族成為天人，因此不具備天人應有的品行。"
+Dialogue/Reimu_Lv3/006,Text,,,"*Reimu Hakurei
+Out of sheer boredom, she caused weather anomalies to lure Gensokyo's residents into confronting her—all for her amusement.",,"*博丽灵梦
+她仅仅因为无聊就引发天气异变，吸引幻想乡诸多居民前往讨伐她，而她则从中寻乐。","*博麗靈夢
+她僅僅因為無聊就引發天氣異變，吸引幻想鄉諸多居民前往討伐她，而她則從中尋樂。"
+Dialogue/Reimu_Lv3/006_Option1,Text,,,Isn't that terrible...,,那岂不是很恶劣吗……,那豈不是很惡劣嗎……
+Dialogue/Reimu_Lv3/006_Option2,Text,,,I wish I could be that free.,,我也想这么自由自在。,我也想這麼自由自在。
+Dialogue/Reimu_Lv3/006_1_1,Text,,,"*Lucy
+Wasn't she being incredibly selfish...? Wouldn't everyone hate her?",,"*露西
+那她岂不是任性到了极点……会被很多人讨厌的吧？","*露西
+那她豈不是任性到了極點……會被很多人討厭的吧？"
+Dialogue/Reimu_Lv3/006_2_1,Text,,,"*Lucy
+I wish I could be like her, doing whatever I want.",,"*露西
+我也想和她一样，能像她一样做自己想做的事情。","*露西
+我也想和她一樣，能像她一樣做自己想做的事情。"
+Dialogue/Reimu_Lv3/007,Text,,,"*Reimu Hakurei
+Haha, is that how you see it, Lucy?",,"*博丽灵梦
+哈哈，露西是这么想的吗？","*博麗靈夢
+哈哈，露西是這麼想的嗎？"
+Dialogue/Reimu_Lv3/008,Text,,,"*Reimu Hakurei
+In truth, her pure-hearted nature eventually won Gensokyo's acceptance.",,"*博丽灵梦
+事实上，因为她的这份纯粹，结果幻想乡的大家逐渐地接受了她。","*博麗靈夢
+事實上，因為她的這份纯粹，結果幻想鄉的大家逐漸地接受了她。"
+Dialogue/Reimu_Lv3/009,Text,,,"*Reimu Hakurei
+A powerful yet playful child would terrify ordinary people. But in Gensokyo where powerful youkai dominate...",,"*博丽灵梦
+拥有力量而又贪玩的孩子，对常人来说是非常可怕的。但是在幻想乡中，拥有力量的妖怪占据着多数地方。","*博麗靈夢
+擁有力量而又貪玩的孩子，對常人來說非常可怕。
+但是在幻想鄉中，其實是擁有力量的妖怪佔據著多數地方。"
+Dialogue/Reimu_Lv3/010,Text,,,"*Reimu Hakurei
+...her innocent vivacity made her blend right in with youkai who love contests and parties.",,"*博丽灵梦
+结果，相反的，纯真而又活泼的天人反倒很快地融入了喜好比试和聚会的妖怪们当中。","*博麗靈夢
+結果，相反的，纯真而又活潑的天人，反倒很快地融入了喜好比試和聚會的妖怪們當中。"
+Dialogue/Reimu_Lv3/011,Text,,,"*Reimu Hakurei
+...Hmm...",,"*博丽灵梦
+……唔嗯……","*博麗靈夢
+……唔嗯……"
+Dialogue/Reimu_Lv3/012,Text,,,"*Lucy
+What's wrong, Miss Reimu? Did something happen later?",,"*露西
+怎么了，灵梦小姐？后面发生了什么吗？","*露西
+怎麼了，靈夢小姐？後面發生了什麼嗎？"
+Dialogue/Reimu_Lv3/013,Text,,,"*Reimu Hakurei
+...Yes. While everyone accepted her, personally... ""forgiving her"" still weighs on me.",,"*博丽灵梦
+……是呢。虽然大家很快接受了天人，不过就我个人而言，要说“原谅她”的话……倒还是有些郁结于心呢。","*博麗靈夢
+……是呢。雖然大家很快接受了天人，
+不過就我個人而言，要說「原諒她」的話……倒還是有些鬱結於心呢。"
+Dialogue/Reimu_Lv3/014,Text,,,"*Lucy
+""Forgive""? What did that Celestial do to you?",,"*露西
+“原谅”？那位天人小姐，对你怎么了吗？","*露西
+「原諒」？那位天人小姐，對你怎麼了嗎？"
+Dialogue/Reimu_Lv3/015,Text,,,"*Reimu Hakurei
+Sigh... It's nothing major, really. She just smashed a crater into my shrine to flaunt her power and grab attention.",,"*博丽灵梦
+唉……说来其实也没什么大不了的。只是为了夸耀她的力量、吸引所有人的目光，所以把我的神社砸了一个大坑而已。","*博麗靈夢
+唉……說來其實也沒什麼大不了的。
+只是為了誇耀她的力量、吸引所有人的目光，所以把我的神社砸了一個大坑而已。"
+Dialogue/Reimu_Lv3/016,Text,,,"*Lucy
+What?! Destroying a shrine maiden's sacred ground isn't major?!",,"*露西
+诶？！砸坏了巫女祭拜的神社，这不是大事吗？","*露西
+欸？！砸壞了巫女祭拜的神社，這不是大事嗎？"
+Dialogue/Reimu_Lv3/017,Text,,,"*Reimu Hakurei
+Exactly. That's why next time we meet, I'll thoroughly discipline her...",,"*博丽灵梦
+是啊。所以说，等下次再见面的时候，我一定要再狠狠地收拾她一顿……","*博麗靈夢
+是啊。所以說，等下次再見面的時候，我一定要再狠狠地收拾她一頓……"
+Dialogue/Reimu_Lv3/018,Text,,,"*Reimu Hakurei
+...And I sense that day approaches sooner than later.",,"*博丽灵梦
+……而且我有预感，距离那一天到来的日子，已经不远了呢。","*博麗靈夢
+……而且我有預感，距離那一天到來的日子，已經不遠了呢。"

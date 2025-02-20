@@ -1,0 +1,10 @@
+{
+    "Equip_PLANA_0": {
+        "name": "什亭之匣",
+        "image": "Item\\Equip_PLANA_0_image.png",
+        "Description": "装备者不为普拉娜时增加10%防御力。 \n战斗开始时，使装备者获得\"防护力场\"，之后每3回合，给予回合数两倍的保护罩(最大为8)。 \n普拉娜装备时，改为给予其他所有友方，获得保护罩改为获得防护墙(最大为10)，并增加1层\"支援演算\"叠加上限。 \n\n<color=#919191>“一个似乎已经损坏的平板。",
+        "Equip_Script": "PLANA.Equip_PLANA_0",
+        "Itemclass": "Legendary",
+        "_gdeSchema": "Item_Equip"
+    }
+}

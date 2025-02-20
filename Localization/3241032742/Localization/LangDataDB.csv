@@ -1,0 +1,269 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_CivilightEterna_0_Description,Text,,,,,,
+Buff/B_CivilightEterna_0_Name,Text,,,Sincere Expectations,,诚挚期许,
+Buff/B_CivilightEterna_1_Description,Text,,,"When receiving non-Pain damage, recover &dustNum (Dust stacks) HP.
+
+<color=red>&lowLayerIcon Collective Souls' Call stacks >= &ceLowLayer: Reflect &dustDamage (Dust stacks * &dustRate) Pain damage to the source when receiving non-Pain damage.</color>
+<color=green>&middleLayerIcon Collective Souls' Call stacks >= &ceMiddleLayer: At max Dust stacks, gain ""Dust"" and deal &regDmg (&regDmgPer% Healing Power) damage to a random enemy.</color>
+<color=yellow>&highLayerIcon Collective Souls' Call stacks >= &ceHighLayer: Reflected damage increases by &buffDmg (&buffDmgPer% of your buff stacks).</color>",,"受到非痛苦伤害时，回复&dustNum(微尘层数)点体力值.
+
+</color>&lowLayerIcon众魂层数>=&ceLowLayer: 受到非痛苦伤害时，对伤害来源反弹&dustDamage(自身“微尘”增益层数*&dustRate)点痛苦伤害.
+</color>&middleLayerIcon众魂层数>=&ceMiddleLayer: 在“微尘”增益层数已满时获得“微尘”增益，对随机敌人造成&regDmg(&regDmgPer%治疗力)点伤害.
+</color>&highLayerIcon众魂层数>=&ceHighLayer: 反弹的伤害值增加&buffDmg(自身&buffDmgPer%增益层数).</color>",
+Buff/B_CivilightEterna_1_Name,Text,,,Harmony of Light and Dust,,和光同尘,
+Buff/B_CivilightEterna_2_T_0_Description,Text,,,Crit Rate additionally increases by Dust stacks * &criDustRate.,,暴击率额外增加自身“微尘”层数*&criDustRate.,
+Buff/B_CivilightEterna_2_T_0_Name,Text,,,Collective Souls' Wrath,,众魂之怒,
+Buff/B_CivilightEterna_2_T_1_Description,Text,,,,,,
+Buff/B_CivilightEterna_2_T_1_Name,Text,,,Collective Souls' Breath,,众魂之息,
+Buff/B_CivilightEterna_3_T_0_Description,Text,,,"This buff can grant Dust up to &maxAddDust times.
+
+<color=red>&lowLayerIcon Collective Souls' Call stacks >= &ceLowLayer: When applying Pain debuffs, &dustDotPer% chance to gain Dust.</color>
+<color=green>&middleLayerIcon Collective Souls' Call stacks >= &ceMiddleLayer: When applying Weakness debuffs, &dustDebuffPer% chance to gain Dust.</color>
+<color=yellow>&highLayerIcon Collective Souls' Call stacks >= &ceHighLayer: When applying Disruption debuffs, &dustCCPer% chance to gain Dust.</color>",,"此增益获得的“微尘”增益次数最多为&maxAddDust.
+
+</color>&lowLayerIcon众魂层数>=&ceLowLayer: 对敌人施加痛苦减益时，&dustDotPer%概率获得微尘.
+</color>&middleLayerIcon众魂层数>=&ceMiddleLayer: 对敌人施加弱化减益时，&dustDebuffPer%概率获得微尘.
+</color>&highLayerIcon众魂层数>=&ceHighLayer: 对敌人施加干扰减益时，&dustCCPer%概率获得微尘.</color>",
+Buff/B_CivilightEterna_3_T_0_Name,Text,,,Where Destiny Lies,,命途何在,
+Buff/B_CivilightEterna_4_T_0_Description,Text,,,Grants ATK and Healing Power equal to &attrPer% of current HP limit (up to &maxAttrNum).,,根据当前体力极限的&attrPer%获得攻击力和治疗力加成(最高为&maxAttrNum).,
+Buff/B_CivilightEterna_4_T_0_Name,Text,,,Empathy of Sorrow,,哀恸共情,
+Buff/B_CivilightEterna_5_T_0_Description,Text,,,,,,
+Buff/B_CivilightEterna_5_T_0_Name,Text,,,Vision of Mercy,,慈悲愿景,
+Buff/B_CivilightEterna_6_T_0_Description,Text,,,,,,
+Buff/B_CivilightEterna_6_T_0_Name,Text,,,Monarch's Erosion,,魔王的侵蚀,
+Buff/B_CivilightEterna_6_T_1_Description,Text,,,,,,
+Buff/B_CivilightEterna_6_T_1_Name,Text,,,Monarch's Awe,,魔王的震慑,
+Buff/B_CivilightEterna_6_T_2_Description,Text,,,,,,
+Buff/B_CivilightEterna_6_T_2_Name,Text,,,Monarch's Radiance,,魔王的威光,
+Buff/B_CivilightEterna_7_T_0_Description,Text,,,"During countdown, attack skills target random enemies, dealing &totalDamageNum (&regDmgPer% Healing Power + &pBuffDmgPer% Collective Souls' Call stacks + &recoverPer% HP limit record) damage. Max &maxAtkTimes uses.
+
+Remaining uses: &lastAtkTimes",,"倒计时期间，使用攻击技能时攻击随机敌人, 造成&totalDamageNum(&regDmgPer%治疗力 + &pBuffDmgPer%众魂层数 + &recoverPer%体力极限记录值)点伤害，最多&maxAtkTimes次.
+
+剩余次数: &lastAtkTimes",
+Buff/B_CivilightEterna_7_T_0_Name,Text,,,Sword and Scales,,剑与天秤,
+Buff/B_CivilightEterna_Dust_Description,Text,,,,,,
+Buff/B_CivilightEterna_Dust_Name,Text,,,Dust,,微尘,
+Buff/B_CivilightEterna_EQ_0_Description,Text,,,,,,
+Buff/B_CivilightEterna_EQ_0_Name,Text,,,Collective Souls' Trial,,众魂的考验,
+Buff/B_CivilightEterna_EQ_1_0_Description,Text,,,Incoming damage increased by &damageAddPer%,,受到的伤害增加&damageAddPer%,
+Buff/B_CivilightEterna_EQ_1_0_Name,Text,,,Pressure,,威压,
+Buff/B_CivilightEterna_EQ_1_Description,Text,,,,,,
+Buff/B_CivilightEterna_EQ_1_Name,Text,,,Summons,,号召,
+Buff/B_CivilightEterna_P_1_Description,Text,,,"The Collective Souls follow the Monarch, believing in her path",,众魂追随着魔王，坚信她引领的道路,
+Buff/B_CivilightEterna_P_1_Name,Text,,,Collective Souls' Call,,众魂呼号,
+Buff/B_CivilightEterna_P_2_Description,Text,,,Grants 1 stack of Dust to a random ally each turn,,每回合为随机队员赋予1层“微尘”增益,
+Buff/B_CivilightEterna_P_2_Name,Text,,,Dust's Embrace,,微尘萦绕,
+Buff/B_CivilightEterna_P_3_Description,Text,,,"""I Am Here"" gains Dust with 100% chance.
+<color=#A5AAA3>""I will stay by Amiya's side""</color>",,"“我在”获得“微尘”增益的概率变为100%.
+</color><color=#A5AAA3>“我会陪在阿米娅身边”</color>",
+Buff/B_CivilightEterna_P_3_Name,Text,,,Prayer,,祈愿,
+Buff/B_CivilightEterna_P_4_Description,Text,,,,,,
+Buff/B_CivilightEterna_P_4_Name,Text,,,Collective Souls' Protection,,众魂庇护,
+Buff/B_CivilightEterna_P_Description,Text,,,"Heals (Civilight Eterna's Level (&recoverNum) + &healRegPer% Healing Power (&healRegNum)) HP per turn.
+&createDustPer% chance to gain 1 Dust stack each turn",,"每回合治疗值相当于魔王等级(&recoverNum)+&healRegPer%治疗力(&healRegNum).
+每回合有&createDustPer%的概率获得1层“微尘”增益",
+Buff/B_CivilightEterna_P_LM_0_Description,Text,,,"When dealing damage to enemies, heals a random ally for 10% of the damage dealt (minimum 1).",,对敌人造成伤害时，伤害值的10%(最低为1)对随机队员进行治疗.,
+Buff/B_CivilightEterna_P_LM_0_Name,Text,,,Withering and Flourishing,,枯荣,
+Buff/B_CivilightEterna_P_LM_1_Description,Text,,,"When overhealed, gain 1 stack of Collective Souls' Protection",,当回复超出体力极限时，获得1层“众魂庇护”增益,
+Buff/B_CivilightEterna_P_LM_1_Name,Text,,,Vitality,,生息,
+Buff/B_CivilightEterna_P_Name,Text,,,"""I Am Here""",,“我在”,
+Buff/B_CivilightEterna_R_0_Description,Text,,,"Increases ATK and Healing Power by &normalInitAddNum initially, then by &normalTurnAddLayerNum per turn (up to Civilight Eterna's Level (&buffUserLv)).
+""I Am Here"" gains Dust with &skillR0Per% probability.
+
+<color=red>&lowLayerIcon Collective Souls' Call stacks >= &ceLowLayer: Initial ATK/Healing bonus becomes &lowInitAddNum.</color>
+<color=green>&middleLayerIcon Collective Souls' Call stacks >= &ceMiddleLayer: Turn-based increase becomes &middleTurnAddLayerNum.</color>
+<color=yellow>&highLayerIcon Collective Souls' Call stacks >= &ceHighLayer: Increases Crit Rate by &addCriNum%.</color>",,"攻击力与治疗力增加&normalInitAddNum，并每回合增加&normalTurnAddLayerNum，最高达到魔王的等级(&buffUserLv).
+“我在”的获得“微尘”增益概率提高至&skillR0Per%.
+</color>&lowLayerIcon众魂层数>=&ceLowLayer: 初始的攻击力、治疗力加成变为&lowInitAddNum.
+</color>&middleLayerIcon众魂层数>=&ceMiddleLayer: 每回合增加的数值变为&middleTurnAddLayerNum.
+</color>&highLayerIcon众魂层数>=&ceHighLayer: 增加&addCriNum%暴击率.</color>",
+Buff/B_CivilightEterna_R_0_Name,Text,,,Echoes of the Past,,往昔萦绕身旁,
+Buff/B_CivilightEterna_R_1_Description,Text,,,"Damage increases by the target's Pain debuff stacks (max &maxDotDmgAdd).
+ 
+<color=red>&lowLayerIcon Collective Souls' Call stacks >= &ceLowLayer: Inflicts Stun (<sprite=2> &controlPer%) when dealing damage.</color>
+<color=green>&middleLayerIcon Collective Souls' Call stacks >= &ceMiddleLayer: Adds &pBuffDmgNum (&pBuffDmgPer% Collective Souls' Call stacks) bonus damage.</color>
+<color=yellow>&highLayerIcon Collective Souls' Call stacks >= &ceHighLayer: Duration increased by &addLifeTime turns.</color>",,"造成伤害时，伤害值增加目标痛苦减益层数的值(最高&maxDotDmgAdd)
+
+</color>&lowLayerIcon众魂层数>=&ceLowLayer: 造成伤害时，对目标造成眩晕(<sprite=2> &controlPer%).
+</color>&middleLayerIcon众魂层数>=&ceMiddleLayer: 伤害增加值附加&pBuffDmgNum(&pBuffDmgPer%众魂层数)的数值.
+</color>&highLayerIcon众魂层数>=&ceHighLayer: 持续时间增加&addLifeTime回合.</color>",
+Buff/B_CivilightEterna_R_1_Name,Text,,,Tomorrow Beyond Reach,,明日渺远不及,
+Character/CivilightEterna_CampSelectWord,Text,,,I will protect you.,,我会保护你的.,
+Character/CivilightEterna_PassiveDes,Text,,,"<b>Starts with ""Collective Souls' Trial"" equipment. Defeating enemies grants ""Collective Souls' Call"" stacks for the entire cycle. At certain stacks, enhances Civilight Eterna's skills.</b>
+
+Collective Souls >=25: Choose between ""Withering and Flourishing"" or ""Vitality"" branch buffs.
+
+<color=#919191>- Active from Level 1</color>",,"<b>初始获得装备“众魂的试炼”, 装备后击败敌人可获得“众魂呼号”增益，持续整个循环，“众魂呼号”到达一定层数时使魔王的技能获得增强效果.</b>
+
+众魂层数>=25时: 选择获得分支增益“枯荣”或“生息”.
+
+<color=#919191>- 此被动从1级开始生效</color>",
+Character/CivilightEterna_PassiveName,Text,,,Collective Souls' Call,,众魂呼号,
+Character/CivilightEterna_SelectInfo,Text,,,"The Monarch walks with life, leading souls against fate. Now, she fights alongside you.",,魔王以生践行，引领众魂反抗命运，如今的她，正与你并肩而战.,
+Character/CivilightEterna_SkinDesc,Text,,,"The Monarch's usual attire, suitable for any occasion.",,魔王常穿的款式，可以在任何场合穿着，非常方便.,
+Character/CivilightEterna_Text_Battle_AllyND_0,Text,,,I will protect you. Hold on!,,"我会保护你的, 坚持住!",
+Character/CivilightEterna_Text_Battle_Cri_0,Text,,,We must hurry!,,要抓紧时间了!,
+Character/CivilightEterna_Text_Battle_Healed_0,Text,,,Feeling better now.,,感觉好多了.,
+Character/CivilightEterna_Text_Battle_Healed_1,Text,,,Thank you. Let's continue...,,谢谢，我们继续战斗吧...,
+Character/CivilightEterna_Text_Battle_Idle_0,Text,,,Do not rush.,,不要着急.,
+Character/CivilightEterna_Text_Battle_Idle_1,Text,,,Consider carefully.,,深思熟虑.,
+Character/CivilightEterna_Text_Battle_Kill_0,Text,,,Return to the Collective Souls.,,回归众魂吧.,
+Character/CivilightEterna_Text_Battle_ND_0,Text,,,Don't worry about me...,,不用担心我...,
+Character/CivilightEterna_Text_Battle_ND_1,Text,,,I can...still endure...,,我还能..坚持...,
+Character/CivilightEterna_Text_Battle_Start_0,Text,,,Proceed cautiously.,,谨慎应对.,
+Character/CivilightEterna_Text_Battle_Start_1,Text,,,A necessary struggle.,,必要的斗争.,
+Character/CivilightEterna_Text_Field_GetItem_0,Text,,,Let me see.,,让我看看.,
+Character/CivilightEterna_Text_Field_GetItem_1,Text,,,An intriguing object...,,有趣的物品...,
+Character/CivilightEterna_Text_Field_Idle_0,Text,,,Where to next?,,下一步要去哪里?,
+Character/CivilightEterna_Text_Field_Idle_1,Text,,,Shall I scan the map?,,需要我检索下地图吗?,
+Character/CivilightEterna_Text_Field_Idle_2,Text,,,Stay calm. I'm here.,,不要着急，我在你的身边.,
+Character/CivilightEterna_Text_Field_Idle_3,Text,,,Confirm our objectives.,,确认好行动目标.,
+Character/CivilightEterna_Text_Field_Idle_4,Text,,,Reliving memories?,,在回顾往事吗.,
+Character/CivilightEterna_Text_Field_Potion_N_0,Text,,,"Hah, an odd flavor.",,哈哈，真是奇怪的味道.,
+Character/CivilightEterna_Text_Field_Potion_N_1,Text,,,Any other varieties?,,还有其他口味的吗.,
+Character/CivilightEterna_Text_Field_Potion_P_0,Text,,,"Hah, an odd flavor.",,哈哈，真是奇怪的味道.,
+Character/CivilightEterna_Text_Field_Potion_P_1,Text,,,Any other varieties?,,还有其他口味的吗.,
+Character/CivilightEterna_Text_MasterTarget,Text,,,,,,
+Character/CivilightEterna_Text_PharosLeader_0,Text,,,A new path...,,新的道路...,
+Character/CivilightEterna_Text_PharosLeader_1,Text,,,Apologies for the wait!,,久等，我回来了！,
+Character/CivilightEterna_Text_PharosLeader_2,Text,,,This isn't my wish!,,这并非我所愿！,
+Character/CivilightEterna_Text_Witch_0,Text,,,Suffering is trivial.,,苦难不值一提.,
+Character/CivilightEterna_Text_Witch_1,Text,,,Come...I don't mind...,,来吧..没有关系...,
+Character/CivilightEterna_UnlockString,Text,,,,,,
+Character/CivilightEterna_name,Text,,,Civilight Eterna,,魔王,
+Item_Equip/EQ_CivilightEterna_0_Description,Text,,,"Grants all enemies ""ATK+15%, Healing Power+15%, Max HP+20%"".
+
+Defeating enemies:
+Normal: +1 Collective Souls' Call
+Cursed: +2 Collective Souls' Call
+BOSS: +3 Collective Souls' Call
+
+Exclusive to Civilight Eterna. Upgrades at max Collective Souls' Call.",,"所有敌人获得""攻击力+15%, 治疗力+15%, 最大生命值+20%""的增益.
+
+击败敌人时:
+普通级敌人: 获得1层“众魂呼号”增益.
+诅咒级敌人: 获得2层“众魂呼号”增益.
+BOSS级敌人: 获得3层“众魂呼号”增益.
+
+该装备无法通过常规途径获得, 仅魔王可以装备.
+在“众魂呼号”增益达到最高层数时升级.",
+Item_Equip/EQ_CivilightEterna_0_name,Text,,,Collective Souls' Trial,,众魂的考验,
+Item_Equip/EQ_CivilightEterna_1_Description,Text,,,"Battle start: All allies gain ""Crit Rate+10%"". 
+All enemies gain ""Damage Taken+10%"" (<sprite=0>300%).
+
+Exclusive to Civilight Eterna.",,"战斗开始时，为所有队员添加“暴击率+10%”的增益.
+为所有敌人添加“受到的伤害+10%”(<sprite=0>300%)的减益.
+
+该装备无法通过常规途径获得, 仅魔王可以装备.",
+Item_Equip/EQ_CivilightEterna_1_name,Text,,,"""(Illusory) Civilization's Continuance""",,“(幻)文明的存续”,
+Item_Passive/T_CivilightEterna_0_Description,Text,,,"At turn end, Support allies deal damage equal to 10% Healing Power + 50% of their Healing over time to all enemies.",,按下回合结束按钮时，所有支援型角色各自以自身治疗力10%+持续治疗值的50%对所有敌人造成伤害.,
+Item_Passive/T_CivilightEterna_0_name,Text,,,Hand of Purification,,净尘之手,
+Skill/S_CivilightEterna_0_Description,Text,,,"This skill can be used 3 times.
+
+<color=red>&lowLayerIcon Collective Souls' Call stacks>= &ceLowLayer: Grants 1 stack of Dust to self.</color>
+<color=green>&middleLayerIcon Collective Souls' Call stacks >= &ceMiddleLayer: Gain &healNum (&healPBuffPer% Collective Souls' Call stacks) Healing over time.</color>
+<color=yellow>&highLayerIcon Collective Souls' Call stacks >= &ceHighLayer: Randomly removes one Pain or Weakness debuff from the target.</color>",,"此技能可使用3次.
+
+</color>&lowLayerIcon众魂层数>=&ceLowLayer: 为自身赋予1层“微尘”增益.
+</color>&middleLayerIcon众魂层数>=&ceMiddleLayer: 获得&healNum(&healPBuffPer%众魂层数)点持续治疗.
+</color>&highLayerIcon众魂层数>=&ceHighLayer: 为目标随机解除一个痛苦、弱化减益.</color>",
+Skill/S_CivilightEterna_0_Name,Text,,,Sincere Expectations,,诚挚期许,
+Skill/S_CivilightEterna_1_Description,Text,,,,,,
+Skill/S_CivilightEterna_1_Name,Text,,,Harmony of Light and Dust,,和光同尘,
+Skill/S_CivilightEterna_2S_0_Description,Text,,,,,,
+Skill/S_CivilightEterna_2S_0_Name,Text,,,Collective Souls' Wrath,,众魂之怒,
+Skill/S_CivilightEterna_2_Description,Text,,,"<color=red>&lowLayerIcon Collective Souls' Call stacks>= &ceLowLayer: Grants &barrierNum (&barrierPer% Healing) Shield.</color>
+<color=green>&middleLayerIcon Collective Souls' Call stacks >= &ceMiddleLayer: Healing increased by &pBuffHealNum (&pBuffHealPer% Collective Souls' Call stacks).</color>
+<color=yellow>&highLayerIcon Collective Souls' Call stacks >= &ceHighLayer: Target gains ""Collective Souls' Wrath"" buff.</color>",,"</color>&lowLayerIcon众魂层数>=&ceLowLayer: 获得&barrierNum(&barrierPer%治疗值)点护盾值.
+</color>&middleLayerIcon众魂层数>=&ceMiddleLayer: 治疗值增加&pBuffHealNum(&pBuffHealPer%众魂层数).
+</color>&highLayerIcon众魂层数>=&ceHighLayer: 目标获得“众魂之怒”增益.</color>",
+Skill/S_CivilightEterna_2_Name,Text,,,Trail of Monarchs,,列王行迹,
+Skill/S_CivilightEterna_3_Description,Text,,,"Grants Healing over time equal to &healPer% HP limit + &pBuffHealPer% Collective Souls (&pBuffHealNum), then triggers existing Healing over time effects.",,根据各个目标的&healPer%体力极限+&pBuffHealPer%众魂层数(&pBuffHealNum)获得持续治疗增益，并立即触发一次目标的持续治疗效果.,
+Skill/S_CivilightEterna_3_Name,Text,,,Where Destiny Lies,,命途何在,
+Skill/S_CivilightEterna_4S_0_Description,Text,,,,,,
+Skill/S_CivilightEterna_4S_0_Name,Text,,,Empathy of Sorrow,,哀恸共情,
+Skill/S_CivilightEterna_4_Description,Text,,,"Adjust all allies' HP to the lowest member's ratio (minimum 1), then grant a group Shield equal to &barrierPer% of the total reduction.
+
+<color=red>&lowLayerIcon Collective Souls' Call stacks>= &ceLowLayer: Allies with >&proDustNum Dust gain ""Healing Gauge Protection"".</color>
+<color=green>&middleLayerIcon Collective Souls' Call stacks >= &ceMiddleLayer: If reduction >0, deal equal Pain damage to a random enemy.</color>
+<color=yellow>&highLayerIcon Collective Souls' Call stacks >= &ceHighLayer: Target gains ""Empathy of Sorrow"".</color>",,"所有队员体力值调整至最低的队员的比例(最低为1)，获得总向下调整值&barrierPer%的群体保护罩.
+
+</color>&lowLayerIcon众魂层数>=&ceLowLayer: 微尘层数大于&proDustNum的友军获得“保护体力极限”增益.
+</color>&middleLayerIcon众魂层数>=&ceMiddleLayer: 如果调整值大于0，则对随机敌人造成调整值的痛苦伤害.
+</color>&highLayerIcon众魂层数>=&ceHighLayer: 目标获得“哀恸共情”增益.</color>",
+Skill/S_CivilightEterna_4_Name,Text,,,Empathy of Sorrow,,哀恸共情,
+Skill/S_CivilightEterna_5S_0_Description,Text,,,,,,
+Skill/S_CivilightEterna_5S_0_Name,Text,,,Vision of Mercy,,慈悲愿景,
+Skill/S_CivilightEterna_5_Description,Text,,,"Deals &costHpPer% of max HP as Pain damage to target and self.
+
+<color=red>&lowLayerIcon Collective Souls' Call stacks>= &ceLowLayer: Self and target gain ""Vision of Mercy"".</color>
+<color=green>&middleLayerIcon Collective Souls' Call stacks >= &ceMiddleLayer: Draw 1 skill when used.</color>
+<color=yellow>&highLayerIcon Collective Souls' Call stacks >= &ceHighLayer: Gain &highAddDustLayer additional Dust stacks.</color>",,"对目标与自身造成&costHpPer%体力上限的痛苦伤害
+
+</color>&lowLayerIcon众魂层数>=&ceLowLayer, 自身与目标获得“慈悲愿景”增益.
+</color>&middleLayerIcon众魂层数>=&ceMiddleLayer, 使用时抽取1个技能.
+</color>&highLayerIcon众魂层数>=&ceHighLayer, 额外获得&highAddDustLayer层“微尘”增益.</color>",
+Skill/S_CivilightEterna_5_Name,Text,,,Legacy of Mercy,,慈悲遗愿,
+Skill/S_CivilightEterna_6S_0_Description,Text,,,,,,
+Skill/S_CivilightEterna_6S_0_Name,Text,,,Monarch's Erosion,,魔王的侵蚀,
+Skill/S_CivilightEterna_6S_1_Description,Text,,,,,,
+Skill/S_CivilightEterna_6S_1_Name,Text,,,Monarch's Awe,,魔王的震慑,
+Skill/S_CivilightEterna_6S_2_Description,Text,,,,,,
+Skill/S_CivilightEterna_6S_2_Name,Text,,,Monarch's Radiance,,魔王的威光,
+Skill/S_CivilightEterna_6_0_Description,Text,,,,,,
+Skill/S_CivilightEterna_6_0_Name,Text,,,,,,
+Skill/S_CivilightEterna_6_Description,Text,,,"Records the total HP limit of all allies upon use. Deals &totalAttackTimes (Dust stacks on field + &extraAtkTimes) instances of &totalDamageNum (&regDmgPer% Healing Power + &pBuffDmgPer% Collective Souls' Call stacks + &recoverPer% recorded HP limit) damage to random enemies. Consumes all Dust.
+
+<color=red>&lowLayerIcon Collective Souls' Call stacks>= &ceLowLayer: Applies ""Monarch's Erosion"" debuff (<sprite=1>100%) on hit.</color>
+<color=green>&middleLayerIcon Collective Souls' Call stacks >= &ceMiddleLayer: Applies ""Monarch's Awe"" debuff (<sprite=0>100%) on hit.</color>
+<color=yellow>&highLayerIcon Collective Souls' Call stacks >= &ceHighLayer: Applies ""Monarch's Radiance"" debuff (<sprite=0>100%) on hit.</color>",,"记录使用时所有友军的体力极限之和, 对敌方随机目标造成&totalAttackTimes(场上微尘层数 + &extraAtkTimes)次&totalDamageNum(&regDmgPer%治疗力 + &pBuffDmgPer%众魂层数 + &recoverPer%体力极限记录值)点伤害，消除所有微尘
+
+</color>&lowLayerIcon众魂层数>=&ceLowLayer: 攻击时对目标施加“魔王的侵蚀”减益(<sprite=1>100%).
+</color>&middleLayerIcon众魂层数>=&ceMiddleLayer: 攻击时对目标施加“魔王的震慑”减益(<sprite=0>100%).
+</color>&highLayerIcon众魂层数>=&ceHighLayer: 攻击时对目标施加“魔王的威光”减益(<sprite=0>100%).</color>",
+Skill/S_CivilightEterna_6_Name,Text,,,Monarch's Echo,,魔王残响,
+Skill/S_CivilightEterna_7_0_Description,Text,,,,,,
+Skill/S_CivilightEterna_7_0_Name,Text,,,,,,
+Skill/S_CivilightEterna_7_Description,Text,,,"On use, deals &hpDmgPer% of max HP as Pain damage to all allies and records their total HP limit. During countdown, attacking with non-Healing skills deals (&regDmgPer% Healing Power + &pBuffDmgPer% Collective Souls' Call stacks + &recoverPer% recorded HP limit) damage to a random enemy (up to &maxAtkTimes times).
+
+<color=red>&lowLayerIcon Collective Souls' Call stacks>= &ceLowLayer: Allies with >&proDustNum Dust gain ""Healing Gauge Protection"".</color>
+<color=green>&middleLayerIcon Collective Souls' Call stacks >= &ceMiddleLayer: Attacks randomly apply 1 stack of a Pain debuff (Bleed, Burn, Poison).</color>
+<color=yellow>&highLayerIcon Collective Souls' Call stacks >= &ceHighLayer: After triggering &apAtkTimes follow-up attacks, restore 1 Mana (up to &apTimes times).</color>",,"使用时, 对所有友军造成&hpDmgPer%体力上限的痛苦伤害，记录所有友军的体力极限之和. 倒计时期间,使用非治疗技能时攻击随机敌人, 造成(&regDmgPer%治疗力 + &pBuffDmgPer%众魂层数 + &recoverPer%体力极限记录值)点伤害，最多&maxAtkTimes次.
+
+</color>&lowLayerIcon众魂层数>=&ceLowLayer: 微尘层数大于&proDustNum的友军获得“保护体力极限”增益.
+</color>&middleLayerIcon众魂层数>=&ceMiddleLayer: 攻击会随机附带1层痛苦减益(流血、灼烧、中毒).
+</color>&highLayerIcon众魂层数>=&ceHighLayer: 触发&apAtkTimes次追击后，回复1点法力值(最多&apTimes次).</color>",
+Skill/S_CivilightEterna_7_Name,Text,,,Sword and Scales,,剑与天秤,
+Skill/S_CivilightEterna_Lucy_Description,Text,,,"Draw 2 skills. If any ally has max Dust, draw +1.",,"抽取2个技能, 如果有队员微尘层数已满, 则额外抽取1个技能.",
+Skill/S_CivilightEterna_Lucy_Name,Text,,,Dust of the Past,,过往尘埃,
+Skill/S_CivilightEterna_P_Description,Text,,,,,,
+Skill/S_CivilightEterna_P_LM_0_Description,Text,,,,,,
+Skill/S_CivilightEterna_P_LM_0_Name,Text,,,Withering and Flourishing,,枯荣,
+Skill/S_CivilightEterna_P_LM_1_Description,Text,,,,,,
+Skill/S_CivilightEterna_P_LM_1_Name,Text,,,Vitality,,生息,
+Skill/S_CivilightEterna_P_Name,Text,,,"""I Am Here""",,“我在”,
+Skill/S_CivilightEterna_R_0_Description,Text,,,"Placed atop the deck at battle start.  
+This skill's effects grow while held in hand.",,"战斗开始时，放在牌库的最上方.
+此技能效果在手牌中也会增长.",
+Skill/S_CivilightEterna_R_0_Name,Text,,,Echoes of the Past,,往昔萦绕身旁,
+Skill/S_CivilightEterna_R_1_Description,Text,,,,,,
+Skill/S_CivilightEterna_R_1_Name,Text,,,Tomorrow Beyond Reach,,明日渺远不及,
+Skill/S_CivilightEterna_R_2_Description,Text,,,"Removes all Pain and Weakness debuffs from the target and spreads them to all enemies.
+
+<color=red>&lowLayerIcon Collective Souls' Call stacks>= &ceLowLayer: Grants ""Healing Gauge Protection"" to the target.</color>
+<color=green>&middleLayerIcon Collective Souls' Call stacks >= &ceMiddleLayer: Deals damage equal to &healDmgPer% of the target's Healing over time to a random enemy.</color>
+<color=yellow>&highLayerIcon Collective Souls' Call stacks >= &ceHighLayer: Grants &highAddDustLayer additional Dust stacks.</color>",,"解除目标所有痛苦、弱化减益并扩散至所有敌人.
+
+</color>&lowLayerIcon众魂层数>=&ceLowLayer: 目标获得“体力极限保护”增益.
+</color>&middleLayerIcon众魂层数>=&ceMiddleLayer: 目标根据自身持续治疗值的&healDmgPer%对随机敌人造成伤害.
+</color>&highLayerIcon众魂层数>=&ceHighLayer: 额外获得&highAddDustLayer层“微尘”增益.</color>",
+Skill/S_CivilightEterna_R_2_Name,Text,,,Weaving Reality Anew,,编织重构现世,
+SkillExtended/S_CivilightEterna_EN_0_EnforceString,Text,,,Attack skills costing 2+ Mana.,,2费及以上攻击技能.,
+SkillExtended/S_CivilightEterna_EN_0_Name,Text,,,Damage increased by 25% of HP limit.,,伤害提高25%体力极限的值.,
+SkillExtended/S_CivilightEterna_EN_1_EnforceString,Text,,,,,,
+SkillExtended/S_CivilightEterna_EN_1_Name,Text,,,"On play: Heal random ally for 40% of higher value between ATK/Healing Power, then grant 1 Dust.",,打出时以攻击力和治疗力的较高值的40%对随机队员治疗，并赋予1层“微尘”增益.,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+

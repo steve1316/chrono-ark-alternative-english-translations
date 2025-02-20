@@ -1,0 +1,197 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Amiya_10_CivilightEterna_Description,Text,,"한 번 죽음을 면함
+<i><color=#919191>안녕히 주무세요, 전하</color></i>","Immune to death once.
+<i><color=#919191>Goodnight, Your Highness.</color></i>","一度死亡を免れる
+<i><color=#919191>おやすみなさい、殿下</color></i>","免疫一次死亡
+<i><color=#919191>晚安，殿下</color></i>","免疫一次死亡
+<i><color=#919191>晚安，殿下</color></i>"
+Buff/B_Amiya_10_CivilightEterna_Name,Text,,문명의 지속,Civilight Eterna,文明の存続,文明的存续,文明的存續
+Buff/B_Amiya_10_violin_Description,Text,,,,,,
+Buff/B_Amiya_10_violin_Name,Text,,솔로의 여운,Echoes of a Solo,独奏の余韻,独奏的余音,獨奏的餘音
+Buff/B_Amiya_11_sword_Description,Text,,,,,,
+Buff/B_Amiya_11_sword_Name,Text,,칼 상처,Sword Wound,刀傷,刀伤,刀傷
+Buff/B_Amiya_1_flame_Description,Text,,,,,,
+Buff/B_Amiya_1_flame_Name,Text,,푸른 분노의 불꽃,Blue Flames of Rage,蒼き怒火,青色怒焰,青色怒焰
+Buff/B_Amiya_2_week_Description,Text,,,,,,
+Buff/B_Amiya_2_week_Name,Text,,약함,Weakness,虚弱,虚弱,虛弱
+Buff/B_Amiya_3_double_Description,Text,,다음 스킬을 두 번 발동,The next skill is activated twice.,次のスキルは2回発動する。 ,下次技能释放两次,下次技能釋放兩次
+Buff/B_Amiya_3_double_Name,Text,,이중 발동,Double Cast,二重詠唱,二重咏唱,二重詠唱
+Buff/B_Amiya_4_mood_Description,Text,,"각 층마다 공격력을 6% 줄이고, 5층까지 쌓인 후에 층을 제거하고, 스턴을 발동합니다(스턴 효과는 최대 5회까지만 발동할 수 있습니다).","Each stack reduces attack power by 6%. At 5 stacks, the stacks are cleared, and Stun is triggered (Stun can only be triggered up to 5 times).",ストック毎に攻撃力が6％減少し、ストック5になるとストックが消滅し、スタンが発動する(スタンは5回までのみ発動する)。,每层减少6%攻击力，累计五层清除层数，触发眩晕（眩晕效果只能触发五次）,每層減少6%攻擊力，累計五層清除層數，觸發眩暈（眩暈效果只能觸發五次）
+Buff/B_Amiya_4_mood_Name,Text,,감정 흡수,Emotion Absorption,アブソープション,情绪吸收,情緒吸收
+Buff/B_Amiya_5_mood_Description,Text,,5층에서 효과 변경,"At 5 stacks, the effect changes.",ストック5になると異なる効果を得る。,累计五层有不同效果,累計五層有不同效果
+Buff/B_Amiya_5_mood_Name,Text,,감정 흡수,Emotion Absorption,アブソープション,情绪吸收,情緒吸收
+Buff/B_Amiya_6_lead_Description,Text,,,,,,
+Buff/B_Amiya_6_lead_Name,Text,,리더,Leader,リーダー,领导者,領導者
+Buff/B_Amiya_7_ring_Description,Text,,"5층까지 누적하면 사망을 면제하고, '마왕' 형태에서는 모든 생명력을 회복하고, 스킬을 발동할 수 없습니다.","At 5 stacks, death is negated once. In ""Demon King"" form, restores all HP but cannot use skills.",ストック5になると戦闘不能を1回まで無効化し、「魔王」形態では最大体力まで回復するが、スキルを発動できない。,"累计到五层免疫死亡，“魔王”形态下，恢复所有生命值，无法释放技能
+","累計到五層免疫死亡，“魔王”形態下，恢復所有生命值，無法釋放技能
+"
+Buff/B_Amiya_7_ring_Name,Text,,마왕의 반지,Demon King's Ring,魔王の指輪,魔王的戒指,魔王的戒指
+Buff/B_Amiya_8_king1_Description,Text,,"마나 회복. 스킬을 발동할 때마다 최대 생명치의 10%를 감소시키고, 마나를 한 점 회복하고, 카드를 한 장 뽑습니다.라운드 종료 시 최대 체력의 10%를 추가로 감소","Restores 1 Mana.
+Each time a skill is used, reduces max HP by 10%, restores 1 Mana, and draws 1 card. At the end of the round, reduces max HP by an additional 10%.",マナを1回復。<br>スキルを発動する度に体力を最大体力の10％減少させ、マナを1回復し、スキルを1個引く。ラウンド終了時に最大HPの10％を追加で差し引く ,"恢复法力
+每次释放技能扣除10%最大生命值，恢复一点法力，抽一张牌。回合结束额外扣除10%最大生命值
+","恢復法力
+每次釋放技能扣除10%最大生命值，恢復一點法力，抽一張牌。回合結束時額外扣除10%最大生命值
+"
+Buff/B_Amiya_8_king1_Name,Text,,마왕,Demon King,魔王,魔王,魔王
+Buff/B_Amiya_8_king_Description,Text,,2층까지 쌓이면 '상변'을 발동합니다.,"At 2 stacks, triggers ""Promotion"".",ストック2になると「昇格」を発動する。,累计到两层释放“升变”,累計到兩層釋放“升變”
+Buff/B_Amiya_8_king_Name,Text,,마왕의 탄생,Birth of the Demon King,魔王の誕生,魔王的诞生,魔王的誕生
+Buff/B_Amiya_9_dead_Description,Text,,스킬을 발동할 수 없습니다,Cannot use skills.,スキルを発動できない。,无法释放技能,無法釋放技能
+Buff/B_Amiya_9_dead_Name,Text,,불굴,Unyielding,不屈,不屈,不屈
+Character/Amiya_CampSelectWord,Text,,여기는 아미야입니다.,This is Amiya.,こちらアーミヤ。 ,这里是阿米娅。,這裡是阿米婭。
+Character/Amiya_PassiveDes,Text,,"각 라운드의 시작 시, 아직 '감정 흡수' 기능을 가지고 있지 않은 첫 번째 스킬에 '감정 흡수'를 추가합니다(발동 시 카드를 한 장 뽑고, 마나를 두 점 회복합니다. 카드를 버릴 경우, 카드를 한 장 뽑고, 마나를 한 점 회복합니다. 같은 스킬은 중첩될 수 있습니다).","At the start of each round, adds ""Emotion Absorption"" to the first skill that does not already have it.
+When a skill with ""Emotion Absorption"" is used, draws 1 card and restores 2 Mana. If the skill is discarded, draws 1 card and restores 1 Mana instead. (This effect can stack on the same skill.)",ターン開始時、手札のまだ「アブソープション」効果を持たない一番上のスキルに「アブソープション」効果を与える。<br>「アブソープション」効果を与えられたスキルを使用するとスキルを1個引いてマナを2回復する。スキルを捨てるとスキルを1個引いてマナを1回復する。(この効果は同じ1つのスキルに重複できる。),"每回合开始，为第一个没有""情绪吸收""技能添加“情绪吸收”
+（释放时抽一张牌恢复两点法力，若弃牌，则改为抽一张牌恢复一点法力。同一个技能可以叠加）
+","每回合開始，為第一個没有""情緒吸收""添加“情緒吸收”
+（釋放時抽一張牌恢復兩點法力，若棄牌，則改為抽一張牌恢復一點法力。同一個技能可以疊加）
+"
+Character/Amiya_PassiveName,Text,,감정 흡수,Emotion Absorption,アブソープション,情绪吸收,情緒吸收
+Character/Amiya_SelectInfo,Text,,"아미야는 로도스 섬의 리더로, 매우 높은 저항력과 단일 터뜨림 능력을 가지고 있습니다. 그녀는 팀에 상당한 보너스를 제공할 수 있습니다. 그러나 아미야의 체력은 매우 적고, 스킬은 주로 피를 팔기 위한 것입니다. 아미야의 상태를 항상 주의하십시오。","Amiya, the leader of Rhodes Island, possesses extremely high resistance and single-target burst capabilities, providing significant bonuses to the team. However, Amiya has very low HP, and her skills often involve sacrificing her own health. Please always keep an eye on Amiya's condition.",ロドスの公表リーダー。<br>非常に高いレジストと単体瞬間火力を持っており、チームには優れた恩恵を与えることが可能です。<br>しかし、アーミヤの最大体力は非常に低く、獲得するスキルは主に苦痛ダメージを受ける物です。<br>アーミヤの状態には常に注意してください。,阿米娅，罗德岛的领导人，拥有极高的抗性和单体爆发能力，能为团队提供不俗的加成，但阿米娅的血量极少，技能多以卖血为主，请时刻注意阿米娅的状态。,阿米婭，羅德島的領導人，擁有極高的抗性和單體爆發能力，能為團隊提供不俗的加成，但阿米婭的血量極少，技能多以賣血為主，請時刻注意阿米婭的狀態。
+Character/Amiya_Text_Battle_AllyND_0,Text,,...무슨 일이 생겼나요? 이럴 리가 없는데...,...What happened? This shouldn't be...,"……何があったの？
+こんなはずじゃ……",......发生什么了？不应该是这样......,......發生什麼了？不應該是這樣......
+Character/Amiya_Text_Battle_Cri_0,Text,,"휴, 이제 잠시 쉬어도 될 것 같아。","Whew, I think I can take a little break now.","ふぅ、これで少しは
+休めますね。",咻，应该可以小小休息一下了吧。,咻，應該可以小小休息一下了吧。
+Character/Amiya_Text_Battle_Healed_0,Text,,"박사님, 잠시......제 말 좀 들어주실 수 있을까요?","Doctor, please... could you listen to me for a moment?","ドクター、あの……少し
+お話を聞いてください、
+いいですか？",博士，请......稍微听我说几句话，好吗？,博士，請......稍微聽我說幾句話，好嗎？
+Character/Amiya_Text_Battle_Idle_0,Text,,"저는 괜찮아요... 여러분, 힘내주세요!","I'm fine... Everyone, please stay strong!","私は大丈夫です……
+みなさん、
+しっかりしてください！",我没事的......大家，请振作起来！,我沒事的......大家，請振作起來！
+Character/Amiya_Text_Battle_Kill_0,Text,,당신의 불의에 대해 어떻게 대답해야 할까요。,How should I respond to your injustice?,"「何を以て貴様の
+不義理に報いようか？」",我该用什么来回答你的不义,我該用什麼來回答你的不義
+Character/Amiya_Text_Battle_ND_0,Text,,"만약 전투를 피할 수 없다면......""이것은 이전에 제가 가장 신뢰했던 사람이 가르쳐준 말입니다。","If the battle is unavoidable... ""This is something the person I once trusted the most taught me"".","「それが必要な
+　戦いならば……」。
+これはかつて私が一番
+信頼していた人が
+教えてくれた言葉です。",如果战斗不可避免......”这是以前我最信任的人教给我的话。,如果戰鬥不可避免......”這是以前我最信任的人教給我的話。
+Character/Amiya_Text_Battle_Start_0,Text,,행동 시작. 우리 가요!,Operation start. Let's go!,作戦開始。行きます！,行动开始。我们走！,行動開始。我們走！
+Character/Amiya_Text_Character_0,Text,,여기는 아미야입니다,This is Amiya.,こちらアーミヤ。,这里是阿米娅,這裡是阿米婭
+Character/Amiya_Text_Field_GetItem_0,Text,,"박사님, 후처리는 제게 맡겨주세요。","Doctor, leave the cleanup to me.","ドクター、
+後始末は私に
+任せてください。",博士，让我去处理善后吧。,博士，讓我去處理善後吧。
+Character/Amiya_Text_Field_Idle_0,Text,,"박사님, 괜찮으세요?","Doctor, are you okay? Do you want to take a break? I'll help you. Don't worry, I'm fine. Just make sure you rest well.","大丈夫ですか？少し休憩
+しませんか？私が支えて
+連れていきましょう。",博士，你还好吗？要去休息一下吗，我扶你去吧。不用担心，我挺好的，只要你休息好就可以了。,博士，你還好嗎？要去休息一下嗎，我扶你去吧。不用擔心，我挺好的，只要你休息好就可以了。
+Character/Amiya_Text_Field_Potion_P_0,Text,,박사님... 요즘... 제가... 제 자신 같지 않은 건 아닌가요?,Doctor... lately... have I... not been myself? Those sudden bursts of anger... are they really mine?,"最近の私……なんだか
+自分らしくないって
+感じがしませんか？",博士......我最近......是不是变得有点不像自己？那些偶然升起的无名怒火......是我的吗？,博士......我最近......是不是變得有點不像自己？那些偶然升起的無名怒火......是我的嗎？
+Character/Amiya_Text_PharosLeader_0,Text,,...날... 화나게 하지 마세요。,Don't... don't provoke me.,私を……なめるなよ。,不要......不要惹恼我。,不要......不要惹惱我。
+Character/Amiya_Text_PharosLeader_1,Text,,...무슨 일이 생겼나요? 이럴 리가 없는데...,...What happened? This shouldn't be...,"……何があったの？
+こんなはずじゃ……",......发生什么了？不应该是这样......,......發生什麼了？不應該是這樣......
+Character/Amiya_Text_PharosLeader_2,Text,,......,...,……,......,......
+Character/Amiya_name,Text,,아미야,Amiya,アーミヤ,阿米娅,阿米娅
+Item_Equip/E_Amiya_Crown_Description,Text,,"여성이 착용하면, 물리적 흡혈이 추가로 30% 증가합니다.증가시키도록 변경되며, 공격할 때마다 최대 생명치의 15%의 피해를 입고, 카드를 한 장 뽑습니다。","When equipped by a female, grants an additional 30% physical lifesteal. When equipped by a male, each attack deals 15% of max HP as damage and draws 1 card.",このアイテムは装備するものによって性能が変化する。<br>男性: 攻撃する毎に最大体力の15%のダメージを受ける、スキルを1個引く<br>女性: 物理吸血が追加で30%増加する,"女性佩戴额外30%物理吸血。
+男性佩戴每次攻击受到15%最大生命值伤害，抽一张牌","女性佩戴額外30%物理吸血。
+男性佩戴，每次攻擊受到15%最大生命值傷害，抽一張牌"
+Item_Equip/E_Amiya_Crown_name,Text,,마왕의 왕관,Demon King's Crown,魔王の王冠,魔王的皇冠,魔王的皇冠
+Skill/S_Amiya_L_Description,Text,,"이 스킬은 '감정 흡수'를 얻고, 한 명의 팀원에게 '불굴'을 추가합니다。","This skill gains ""Emotion Absorption"" and grants ""Unyielding"" to one ally.",このスキルは「アブソープション」効果を持つ、味方1人に「不屈」を与える。,"此技能获得""情绪吸收""，为一名队友添加“不屈”","此技能獲得""情緒吸收""，為一名隊友添加“不屈”"
+Skill/S_Amiya_L_Name,Text,,협력,Cooperation,合作,合作,合作
+Skill/S_Amiya_b1_Description,Text,,이 스킬은 '감정 흡수'를 얻습니다. 덱에 있는 다른 조사단원들의 공격 스킬을 우선적으로 사용하여 추격합니다. <i><color=#919191>행동 시작. 우리 가요!</color><i>,"This skill gains ""Emotion Absorption"" and prioritizes using other team members' attack skills from the deck to perform follow-up attacks.
+<i><color=#919191>Operation start. Let's go!</color><i>",このスキルは「アブソープション」効果を持つ。<br>他の味方の攻撃スキルを優先的に使用し追撃を行う。<br><i><color=#919191>作戦開始。行きます！</color><i>,"此技能获得""情绪吸收""
+优先使用牌库中其它调查队员的攻击技能追击
+<i><color=#919191>行动开始。我们走！</color><i>
+","此技能獲得""情緒吸收""
+優先使用牌庫中其它調查隊員的攻擊技能追擊
+<i><color=#919191>行動開始。我們走！</color><i>
+"
+Skill/S_Amiya_b1_Name,Text,,리더,Leader,リーダー,领导者,領導者
+Skill/S_Amiya_b2_Description,Text,,모든 팀원에게 '푸른 분노의 불꽃'을 한 층 추가합니다.<i><color=#919191>--저는 많은 사람들의 분노를 짊어지고 있습니다.</color><i>,"Adds one stack of ""Blue Flames of Rage"" to all teammates.
+<i><color=#919191>—I carry the anger of many people.</color><i>",<i><color=#919191>――私は多くの人々の怒りを背負っています。</color><i>,"对所有队友增加一层""青色怒焰""
+<i><color=#919191>——我背负着许多人的愤怒。</color><i>
+","對所有隊友增加一層""青色怒焰""
+<i><color=#919191>——我背負著許多人的憤怒。</color><i>
+"
+Skill/S_Amiya_b2_Name,Text,,푸른 분노의 불꽃,Blue Flames of Rage,蒼き怒火,青色怒焰,青色怒焰
+Skill/S_Amiya_b3_Description,Text,,,,,,
+Skill/S_Amiya_b3_Name,Text,,솔로,Solo,独奏,独奏,獨奏
+Skill/S_Amiya_b4_Description,Text,,"이 스킬은 '감정 흡수'를 얻고, 자신에게 최대 체력의 30%(&a)의 피해를 입힙니다。","This skill gains ""Emotion Absorption"" and deals 30% (&a) of max HP as damage to the user.",このスキルは「アブソープション」効果を持つ。<br>瀕死状態では使用不可。<br>最大体力の30%<color=purple>(&a)分の苦痛ダメージ</color>を受ける。 ,"此技能获得""情绪吸收""
+对自己造成30%(&a)最大生命值伤害","此技能獲得""情緒吸收""
+對自己造成30%(&a)最大生命值傷害"
+Skill/S_Amiya_b4_Name,Text,,잠입,Infiltration,潜行,潜行,潛行
+Skill/S_Amiya_b5_Description,Text,,이 스킬은 '감정 흡수'를 획득합니다. 생명력의 50%(&a)를 감소시킵니다. 다음 스킬은 두 번 발동합니다. 한 턴 후에 카드를 사용하지 않고 버리면 추방됩니다.,"This skill gains ""Emotion Absorption"".
+Reduces HP by 50% (&a).
+The next skill is activated twice.
+If not used within one turn, it is banished when discarded.",このスキルは「アブソープション」効果を持つ。<br>瀕死状態では使用不可。<br>最大体力の50%<color=purple>(&a)分の苦痛ダメージ</color>を受ける。,"此技能获得""情绪吸收""
+扣除50%(&a)生命
+下次技能触发两次
+若未使用一回合后弃牌，放逐","此技能獲得""情緒吸收""
+扣除50%(&a)生命
+下次技能觸發兩次
+若未使用一回合後棄牌，放逐"
+Skill/S_Amiya_b5_Name,Text,,이중 발동,Double Cast,二重詠唱,二重咏唱,二重詠唱
+Skill/S_Amiya_fx1_dx_Description,Text,,"자신의 최대 생명력을 30% 감소시키고, 무작위로 선택된 적 한 명에게 '리더'를 발동합니다. 감정 흡수가 5층 이상인 경우, '키메라', '그림자 하늘·절대 그림자', '마왕의 탄생' 중 하나를 선택하여 발동할 수 있습니다.","Reduces your max HP by 30% and activates ""Leader"" on a random enemy.
+If ""Emotion Absorption"" has 5 or more stacks, you can choose to activate one of the following: ""Chimera,"" ""Shadow Sky: Absolute Shadow,"" or ""Birth of the Demon King.""",瀕死状態では使用不可。<br><color=purple>最大体力の30%分の苦痛ダメージ</color>を受ける。 <br>ランダムな敵1人に「リーダー」を発動する。<br>自身の「アブソープション」ストックが5以上の場合、「キメラ」「影霄·絶影」「魔王の誕生」のいずれかを選択し発動する。,"减少自己30%最大生命值，
+对随机一位敌人释放“领导者”，
+若情绪吸收大于等于5层，则可以选择释放“奇美拉”“影霄·绝影”“魔王的诞生”
+","減少自己30%最大生命值，
+對隨機一位敵人釋放“領導者”，
+若情緒吸收大於等於5層，則可以選擇釋放“奇美拉”“影霄·絕影”“魔王的誕生”
+"
+Skill/S_Amiya_fx1_dx_Name,Text,,독행,Solo,独行,独行,獨行
+Skill/S_Amiya_k1_Description,Text,,"자신의 모든 생명력을 회복하고, 손패 최대 4장에 '감정 흡수'를 한 층 추가하고, '마왕의 탄생' 한 층을 획득하고, '감정 흡수'를 제거합니다.","Restores all HP, adds one stack of ""Emotion Absorption"" to up to 4 cards in hand, gains one stack of ""Birth of the Demon King"", and removes ""Emotion Absorption.""",自身を最大体力まで回復し、手札の最大4枚に「アブソープション」効果をストック1与え、「魔王の誕生」ストックを1得て、自身の「アブソープション」を消滅させる。,"恢复自己所有生命值，为最多4张手牌添加一层""情绪吸收""，获得一层""魔王的诞生"",清除""情绪吸收""","恢復自己所有生命值，為最多4張手牌添加一層""情緒吸收""，獲得一層""魔王的誕生"",清除""情緒吸收"""
+Skill/S_Amiya_k1_Name,Text,,마왕의 탄생,Birth of the Demon King,魔王の誕生,魔王的诞生,魔王的誕生
+Skill/S_Amiya_k2_Description,Text,,버프 '마왕' 획득,"Gains the ""Demon King"" buff.",バフ「魔王」を得る。,获得魔王,獲得魔王
+Skill/S_Amiya_k2_Name,Text,,상변,Promotion,昇格,升变,升變
+Skill/S_Amiya_m1_0_Description,Text,,정신 폭발,Soul Boost,ソウルブースト,精神爆发,精神爆發
+Skill/S_Amiya_m1_0_Name,Text,,정신 폭발,Soul Boost,ソウルブースト,精神爆发,精神爆發
+Skill/S_Amiya_m1_Description,Text,,"자신의 <color=purple>생명력의 50%&a</color>를 감소시키고, 적 한 명에게 '감정 흡수' 층 수 +1회를 순환하여 발동합니다. <i><color=#919191>모두가 저를 믿고 있어요!</color><i>","Reduces your HP by <color=purple>50% (&a)</color> and repeatedly activates ""Emotion Absorption"" stacks +1 on one enemy. 
+<i><color=#919191>Everyone believes in me!</color></i>",瀕死状態では使用不可。<br>最大体力の50%<color=purple>(&a)分の苦痛ダメージ</color>を受ける。 <br>ターゲットに対して「アブソープション」ストック+1の数だけ発動する。<br><i><color=#919191>みなさんが私のことを信じてくれてますから！</color><i>,"扣除自己<color=purple>50%生命值&a</color>，对一名敌人循环释放释放""情绪吸收""层数加1的次数
+<i><color=#919191>大家可都相信着我！</color><i>
+","扣除自己<color=purple>50%生命值&a</color>，對一名敵人迴圈釋放釋放""情緒吸收""層數加1的次數
+<i><color=#919191>大家可都相信著我！</color><i>
+"
+Skill/S_Amiya_m1_Name,Text,,정신 폭발,Soul Boost,ソウルブースト,精神爆发,精神爆發
+Skill/S_Amiya_m2_0_Description,Text,,,,,,
+Skill/S_Amiya_m2_0_Name,Text,,정신 변동,Soul Surge,ソウルサージ,精神波动,精神波動
+Skill/S_Amiya_m2_Description,Text,,"자신의 <color=purple>생명력의 50%&a</color>를 감소시키고, 명중한 적의 수 +1회를 추가로 반복합니다. <i><color=#919191>당신들은 저를 두려워하고 있나요?</color><i>","Reduces your HP by <color=purple>50% (&a)</color> and repeats the effect for each additional enemy hit.
+<i><color=#919191>Are you afraid of me?</color></i>",瀕死状態では使用不可。<br>最大体力の50%<color=purple>(&a)分の苦痛ダメージ</color>を受ける。<br>追加で命中した敵+1の数だけ「ソウルシュリーク」を発動する。<br><i><color=#919191>私が、怖いですか？</color><i>,"扣除自己<color=purple>50%生命值&a</color>，额外重复释放命中的敌人数目+1次
+<i><color=#919191>你们在害怕我？</color><i>
+","扣除自己<color=purple>50%生命值&a</color>，額外重複釋放命中的敵人數目+1次
+<i><color=#919191>你們在害怕我？</color><i>
+"
+Skill/S_Amiya_m2_Name,Text,,정신 분출,Soul Scream,ソウルシュリーク,精神暴走,精神暴走
+Skill/S_Amiya_re1_qml_Description,Text,,"이 스킬은 '감정 흡수'를 획득합니다. '감정 흡수'가 5층 미만인 경우, 스킬 종료 후 <color=purple>최대 체력의 50%</color>에 상당하는 피해를 입습니다. '감정 흡수'가 5층 이상인 경우, 모든 '감정 흡수'를 제거하고 두 번 발동하며, 방어 무시 키메라를 추가로 한 번 발동하고, <color=purple>최대 체력의 80%</color>를 잃습니다.<i><color=#919191>--당신들은 저를 두려워하고 있나요?</color><i>","This skill gains ""Emotion Absorption"".
+If ""Emotion Absorption"" has fewer than 5 stacks, you take damage equal to <color=purple>50% of max HP</color> after the skill ends. If ""Emotion Absorption"" has 5 or more stacks, removes all ""Emotion Absorption"", activates twice, activates ""Chimera"" once (ignoring defense), and loses <color=purple>80% of max HP</color>.
+<align=""right""><i><color=#919191>—Are you afraid of me?</color></i></align>","このスキルは「アブソープション」効果を持つ。<br>「アブソープション」ストックが5未満の場合、スキル終了後に<color=purple>最大体力の50%分の苦痛ダメージ</color>を受ける。<br>「アブソープション」ストックが5以上の場合、全ての「アブソープション」を消滅させ、2回発動し、防御を無視するキメラを追加で1回発動し、<color=purple>最大体力の80%分の苦痛ダメージ</color>を受ける。<br><align=""right""><i><color=#919191>――私が、怖いですか？</color><i></align>","此技能获得""情绪吸收""
+若""情绪吸收""小于五层，技能结束后会受到相当于<color=purple>最大体力值 50%  </color>
+若""情绪吸收""大于五层，清除所有""情绪吸收""额外释放一次无视防御的奇美拉，失去<color=purple>最大体力值 80%  </color><color=purple></color>
+<align=""right""><i><color=#919191>——你们在害怕我？</color><i></align>
+","此技能獲得""情緒吸收""
+若""情緒吸收""小於五層，技能結束後會受到相當於<color=purple>最大體力值 50%  </color>
+若""情緒吸收""大於五層，清除所有""情緒吸收""釋放兩次，額外釋放一次無視防禦的奇美拉，失去<color=purple>最大體力值 80%  </color><color=purple></color>
+<i><color=#919191>——你們在害怕我？</color><i>
+"
+Skill/S_Amiya_re1_qml_Name,Text,,키메라,Chimera,キメラ,奇美拉,奇美拉
+Skill/S_Amiya_re2_sword1_Description,Text,,방어 무시,Ignores defense.,ターゲットの防御力を無視する。,无视防御,無視防禦
+Skill/S_Amiya_re2_sword1_Name,Text,,그림자 하늘·절대 그림자,Shadow Sky: Absolute Shadow,影霄・絶影,影霄·绝影,影霄·絕影
+Skill/S_Amiya_re2_sword_Description,Text,,"이 스킬은 '감정 흡수'를 획득합니다. '감정 흡수'가 5층 미만인 경우, '감정 흡수' 층 수만큼 방어 무시하는 베기를 연속으로 발동하고, <color=purple>최대 체력의 60%</color>에 상당하는 피해를 입습니다. '감정 흡수'가 5층 이상인 경우, '감정 흡수'를 제거하고, 방어 무시하는 베기를 10번 연속으로 발동하고, 모든 '감정 흡수'를 제거하고, '푸른 분노의 불꽃' 한 층을 추가로 획득하고, <color=purple>최대 체력의 80%</color>에 상당하는 피해를 입습니다.","This skill gains ""Emotion Absorption"".
+If ""Emotion Absorption"" has fewer than 5 stacks, performs a series of slashes equal to the number of ""Emotion Absorption"" stacks (ignoring defense) and takes damage equal to <color=purple>60% of max HP</color>.
+If ""Emotion Absorption"" has 5 or more stacks, removes all ""Emotion Absorption,"" performs 10 consecutive slashes (ignoring defense), gains one stack of ""Blue Flames of Rage,"" and takes damage equal to <color=purple>80% of max HP</color>.",このスキルは「アブソープション」効果を持つ。<br>「アブソープション」ストックが5未満の場合、「アブソープション」ストック数と同じ回数だけ防御力無視の斬撃を連続で発動し、<color=purple>最大体力の60%分の苦痛ダメージ</color>を受ける。<br>「アブソープション」ストックが5以上の場合、「アブソープション」を消滅させ、防御力無視の斬撃を10回連続で発動し、全ての「アブソープション」を消滅させ、追加で「蒼き怒火」ストックを1得て、<color=purple>最大体力の80%分の苦痛ダメージ</color>を受ける。,"此技能获得""情绪吸收
+若""情绪吸收""小于五层，连续释放""情绪吸收""层数的无视防御的斩击，受到相当于<color=purple>最大体力值 60%伤害  </color>
+若""情绪吸收""大于五层，清除""情绪吸收""，连续释放10次无视防御的斩击，清除所有""情绪吸收""，额外获得一层""青色怒焰""，受到相当于<color=purple>最大体力值 80%伤害</color>","此技能獲得""情緒吸收
+若""情緒吸收""小於五層，連續釋放""情緒吸收""層數的無視防禦的斬擊，受到相當於<color=purple>最大體力值 60%傷害  </color>
+若""情緒吸收""大於五層，清除""情緒吸收""，連續釋放10次無視防禦的斬擊，清除所有""情緒吸收""，額外獲得一層""青色怒焰""，受到相當於<color=purple>最大體力值 80%傷害</color>"
+Skill/S_Amiya_re2_sword_Name,Text,,그림자 하늘·절대 그림자,Shadow Sky: Absolute Shadow,影霄・絶影,影霄·绝影,影霄·絕影
+Skill/S_Amiya_s1_0_Description,Text,,"<color=purple>반드시 크리티컬 히트를 하고, 방어를 무시하며, '그림자 하늘·칼 뽑기'에 의한 피해를 추가합니다.</color>","<color=purple>Guaranteed critical hit, ignores defense, and adds damage from ""Shadow Sky: Draw Sword"".</color>",ターゲットの防御力を無視する。,"<color=purple>必定暴击，无视防御，附加""影霄·拔剑""造成的伤害""</color>
+","<color=purple>必定暴擊，無視防禦，附加""影霄·拔劍""造成的傷害""</color>
+"
+Skill/S_Amiya_s1_0_Name,Text,,그림자 하늘·베기,Shadow Sky: Slash,影霄・斬撃,影霄·斩击,影霄·斬擊
+Skill/S_Amiya_s1_Description,Text,,"자신에게 '푸른 분노의 불꽃' 한 층을 추가하고, 한 턴 후에 '그림자 하늘·베기'를 추가로 한 번 발동합니다. <i><color=#919191>...날... 화나게 하지 마세요.</color><i>","Adds one stack of ""Blue Flames of Rage"" to yourself and activates ""Shadow Sky: Slash"" one additional time after one turn.
+<i><color=#919191>Don't... don't provoke me.</color></i>",追加で「影霄·斬撃」を1回発動する。<br><i><color=#919191>私を……なめるなよ。</color><i>,"为自己添加一层“青色怒焰”,额外追加一次“影霄·斩击”
+<i><color=#919191>不要......不要惹恼我。</color><i>","為自己添加一層“青色怒焰”,額外追加一次“影霄·斬擊”
+<i><color=#919191>不要......不要惹惱我。</color><i>"
+Skill/S_Amiya_s1_Name,Text,,그림자 하늘·칼 뽑기,Shadow Sky: Draw Sword,影霄・抜剣,影霄·拔剑,影霄·拔劍
+Skill/S_Amiya_s2_Description,Text,,"최소 체력을 가진 적에게 추가 대미지를 입히며, 대상이 한 명일 경우 <color=purple>&a 포인트의 추가 대미지</color>를 입힙니다.
+
+<i><color=#919191>당신의 생각, 당신의 주문, 난 모두를 찢어버릴 수 있어.</color></i>","Deals additional damage to the enemy with the lowest HP. If there is only one target, deals <color=purple>&a additional damage</color>.
+<i><color=#919191>Your thoughts, your spells—I can cut through them all.</color></i>",最も体力の少ない敵に追加攻撃を行う、ターゲットが1体の場合、<color=purple>&aの追加ダメージ</color>を与える。<br><i><color=#919191>あなたの考えも、アーツも、切り裂けます。</color></i>,"额外对一名血量最少的敌人造成伤害，若只有一个目标，造成<color=purple>&a点额外伤害</color>
+<i><color=#919191>你的想法，你的法术，我都能切开。</color><i>
+","額外對一名血量最少的敵人造成傷害，若只有一個目標，造成<color=purple>&a點額外傷害</color>
+<i><color=#919191>你的想法，你的法術，我都能切開。</color><i>
+"
+Skill/S_Amiya_s2_Name,Text,,그림자 하늘·밤 돌진,Shadow Sky: Night Charge,影霄・奔夜,影霄·奔夜,影霄·奔夜
+SkillExtended/Amiya_Ex_0_Des,Text,,"카드를 한 장 뽑고, 마나를 두 점 회복합니다. 카드를 버릴 경우, 카드를 한 장 뽑고, 마나를 한 점 회복하도록 변경합니다. 이것은 중첩될 수 있습니다.","Draws 1 card and restores 2 Mana. If the card is discarded, draws 1 card and restores 1 Mana instead.
+This effect can stack.",スキルを使用するとスキルを1個引いてマナを2回復する。スキルを捨てると、スキルを1個引いてマナを1回復する。<br>この効果は同じ1つのスキルに重複できる。,"抽一张牌恢复两点法力，若弃牌，则改为抽一张牌恢复一点法力。
+可以叠加","抽一張牌恢復兩點法力，若棄牌，則改為抽一張牌恢復一點法力。
+可以疊加"
+SkillExtended/Amiya_Ex_0_EnforceString,Text,,,,,,
+SkillExtended/Amiya_Ex_0_Name,Text,,감정 흡수,Emotional Absorption,アブソープション,情绪吸收,情緒吸收

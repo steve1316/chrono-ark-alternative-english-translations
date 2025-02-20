@@ -1,0 +1,158 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_kiana_0_Description,Text,,"모든 파티원의 공격력, 치명율, 회피율이 20%증가한다.","Increases all party members' Attack, Critical rate, and Evasion rate by 20%.",全てのパーティーメンバーの 会心率、回避率が20%増加する。,所有队员的 暴击率和闪避率提高20%,
+Buff/B_kiana_0_Name,Text,,종언의 가호,Blessings of Hersher of Finality,終焉の加護,終焉的加護,
+Buff/B_kiana_1_Name,Text,,[강림],Descent,「降臨」,「降临」,
+Buff/B_kiana_2_Name,Text,,백화의 가호,"Eternal Blossom, Blessed",白花の加護,百花的庇护,
+Buff/B_kiana_3_Name,Text,,우도진,Fenghuang Down,渡世の羽,羽渡尘,
+Buff/B_kiana_4_Name,Text,,제약,Oath,誓約,誓約,
+Buff/B_kiana_5_Name,Text,,[윤회의 시간],Time Wave,「輪廻の波」,「轮回时澜」,
+Buff/B_kiana_6_Name,Text,,영원무결한 사랑의 시종,A Love Unspoiled by Time,無瑕なる愛の終始,无暇爱佑的终始,
+Buff/B_kiana_7_Name,Text,,죄와 벌,Sin and Punishment,罪と罰,罪与罚,
+Character/Kiana_CampSelectWord,Text,,,,,,
+Character/Kiana_PassiveDes,Text,,"전투 시작시 키아나는 모든 파티원에게 종언의 가호를 내린다. 이로인해 모든 파티원의 치명율, 회피율이 20%증가한다.
+
+자신의 스킬을 사용할때 마다 [강림]을 획득합니다.
+[강림]은 특수한 스킬 사용시 소모됩니다.","At the start of battle, Kiana grants all party members Blessing of Finality, increasing their Attack, Critical rate and Evasion rate by 20%.
+
+Each time you use a skill, gain [Descent].
+[Descent] is consumed when using special skills.","戦闘開始時、キアナはすべてのパーティーメンバーに終焉の加護を与える。 これにより、すべてのパーティーメンバーの攻撃力、会心率、回避率が20%増加する。
+
+自分のスキルを使用するたびに[降臨]を獲得します。
+[降臨]は特殊なスキルを使用すると消耗します。","战斗开始时，琪亚娜为所有队员施下终焉的恩惠。由此，所有队员的攻击力、暴击率和闪避率提高20%。
+
+每次使用自己的技能时，都会获得「降临」。
+「降临」在使用特殊技能时消耗。",
+Character/Kiana_PassiveName,Text,,달의 흔적이 검이 되어,With Lunar Traces as the Blade,この月痕で剣を描く,绘此月痕作剑,
+Character/Kiana_SelectInfo,Text,,"일찍이 운명은 세상에 물었다
+그리고 영웅은 답을 내놓았다
+길고 긴 윤회를 넘어
+각자의 이야기가 탄생한다","Once, fate posed its question to the world.
+And the hero answered.
+Beyond the endless cycle of rebirth,
+Our own stories shall unfold.","かつて、運命は世界に問いかけた。
+そして、英雄は答えを出す。
+長きに渡った輪廻の先へ。
+そこには、みんなの物語がある。","命運曾向世界提問
+於是，英雄給出了回答
+跨越漫長的輪迴
+創造屬於每一個人的故事",
+Character/Kiana_Text_Battle_Cri_0,Text,,나이스!,Nice!,nice!,nice!,
+Character/Kiana_Text_Battle_Cri_1,Text,,백발백중!,Bullseye!,"百発百中.
+","百発百中.
+",
+Character/Kiana_Text_Battle_Healed_0,Text,,"
+최상인 상태야!",I'm in perfect condition!,最高の状態だよ！,处于最佳状态！,
+Character/Kiana_Text_Battle_Idle_0,Text,,"빨리 움직이지 않으면 이쪽이 지쳐버린다고.
+","If we don't move faster, I'll get exhausted first.",早く動かないとこっちが疲れちゃうよ。,如果不快点行动的话，这边会累垮的,
+Character/Kiana_Text_Battle_Idle_1,Text,,"수면 부족이면 세계를 구할 수 없게 되어 버려.
+","Can't save the world on sleep deprivation, y'know.",寝不足だと世界が救えなくなってしまう。,如果睡眠不足，就无法拯救世界了,
+Character/Kiana_Text_Battle_Kill_0,Text,,키아나의 턴!,Kiana's turn!,キアナのターン！,琪亚娜的回合,
+Character/Kiana_Text_Battle_Kill_1,Text,,"종언 강림!
+",Finality's Descent!,終焉降臨！,終焉降臨！,
+Character/Kiana_Text_Battle_ND_0,Text,,방심했어...,I let my guard down...,油断した···,我疏忽了...,
+Character/Kiana_Text_Battle_Start_0,Text,,워밍업의 시간이네!,Time to warm up!,ウォーミングアップの時間だね！,是热身的时间了！,
+Character/Kiana_Text_Battle_Start_1,Text,,금방 정리할게!,I'll finish this quickly!,すぐに整理するよ！,我很快就会搞定的！,
+Character/Kiana_Text_Field_GetItem_0,Text,,"넣어 두자. 필요한 사람이 있을 테니까.
+",Let's leave this here for whoever needs it.,入れておこう。必要な人がいるから。,先放着吧，总会有人需要的,
+Character/Kiana_Text_Field_GetItem_1,Text,,"이건 도움이 될거야.
+
+",This'll be useful.,これは役に立つ。,这会有帮助的,
+Character/Kiana_Text_Field_Idle_0,Text,,"이 페이스 그대로 가자. 해야 할 일은 많이 있으니까.
+",Let's keep this pace. We've got lots to do.,このペースで行こう。 やるべきことはたくさんあるから。,就按照这个节奏继续吧，还有很多事情要做,
+Character/Kiana_Text_Field_Idle_1,Text,,"역시 땅에 발을 딛는게 나아.
+",Feeling grounded helps me focus.,やっぱり地に足が付いてる方がいい。,果然还是脚踏实地比较好,
+Character/Kiana_Text_Field_Potion_P_0,Text,,Thank you~ 살았어!,Thank you~ That hit the spot!,Thank you~助かった！, Thank you~ 活过来了!,
+Character/Kiana_Text_Witch_0,Text,,,,,,
+Character/Kiana_Text_Witch_1,Text,,,,,,
+Character/Kiana_name,Text,,키아나,Kiana,キアナ,琪亞娜,
+Item_Equip/E_kiana_0_name,Text,,겁멸(劫灭),Might of An-Utu,劫滅,劫灭,
+Item_Equip/E_kiana_1_Description,Text,,,,,,
+Item_Equip/E_kiana_1_name,Text,,에덴의 별,Star of Eden,エデンの星,伊甸之星,
+Item_Equip/E_kiana_2_name,Text,,영원한 달・초승,Eternal Moon - Crescent,,,
+Item_Passive/A_kiana_0_Description,Text,,"적을 처치하면 즉시 마나 1을 얻습니다.
+전투 불능 저항 33% 증가.
+
+<color=#919191>그것은 빠따. </color>","Defeating enemies immediately grants 1 Mana.
+Increases Death's Door resistance by 33%.
+
+<color=#919191>It's a bat.</color>","敵を始末すると、すぐにマナ1を得ます。
+戦闘不能抵抗33%増加。
+
+<color=#919191>それはバット </color>","击败敌人后立即获得1点法力
+战斗无法抵抗的抗性增加33%
+
+<color=#919191>那是棒子 </color>",
+Item_Passive/A_kiana_0_name,Text,,카스라나가문의 증명,Proof of House Kaslana,カスラナ家の証明,卡斯兰娜家的证明,
+Skill/S_kiana_0_Description,Text,,,,,,
+Skill/S_kiana_0_Name,Text,,백화의 가호가 있길,"Eternal Blossom, Blessed",白花が咲き、永き夢が綻ぶ,愿白花永绽相护,
+Skill/S_kiana_10_LucyD_Description,Text,,"[윤회의 시간] １스택 소모하여 발동합니다.
+
+손에 있는 모든 스킬의 비용을 5 감소시킵니다.
+이후 덱의 모든 스킬을 확인하고 그중 ３개를 선택하여 손으로 가져옵니다.","Consumes 1 stack of [Time Wave] to activate.
+
+Reduces Cost of all skills in hand by 5.
+Then search your deck and choose 3 skills to add to your hand.","「輪廻の波」 1スタック消耗して発動します。
+
+手にあるすべてのスキルのコストを 5 削減します。
+その後、デッキのすべてのスキルを確認し、そのうちの 3 つを選択して手に取り込みます。","「轮回时澜」 消耗1个堆叠后触发
+
+减少手中所有技能的费用5
+然后查看牌库中的所有技能，并选择其中3个带到手中",
+Skill/S_kiana_10_LucyD_Name,Text,,[절대 시공 단열],Absolute Time Fracture,「絶対時空断裂」,「绝对时空断裂」,
+Skill/S_kiana_11_Description,Text,,자신에게 [강림] 버프가 있으면 한 번 더 시전합니다.,Casts this skill again if you have [Descent].,自分に「降臨」バフがあればもう一度使います,如果自己身上有「降临」增益，则再次施放,
+Skill/S_kiana_11_Name,Text,,광익전개,Wings of Light,光翼展開。,光翼展開,
+Skill/S_kiana_12_Description,Text,,자신에게 [강림] 버프가 있으면 한 번 더 시전합니다.,Casts this skill again if you have [Descent].,自分に「降臨」バフがあればもう一度使います,如果自己身上有「降临」增益，则再次施放,
+Skill/S_kiana_12_Name,Text,,여정의 끝에 도달한 소녀,"Searching Drifter, Answered",放浪遊侠の真解,尽途游侠的真解,
+Skill/S_kiana_13_Description,Text,,"적의 체력을 0으로 만듭니다.
+대상이 보스일경우에는, 보스의 체력이 50% 이하일 때 사용 가능합니다.","Reduces target's HP to 0.
+If the target is a boss, it can only be used when the boss's HP is 50% or lower.","敵の体力を0にします。
+対象がボスの場合は、ボスの体力が50%以下のときに使用可能です。","将敌人的生命值降低至0
+如果目标是BOSS，则只有在BOSS的生命值低于50%时才能使用",
+Skill/S_kiana_13_Name,Text,,태허검신,Edge of Taixuan,太虚剣神,太虚剣神,
+Skill/S_kiana_1_Description,Text,,[윤회의 시간] 1스택을 소비하여 발동한다.,Consumes 1 stack of [Time Wave] to activate.,「輪廻の波」1スタックを消費して発動する。,「轮回时澜」消耗1个堆叠后触发,
+Skill/S_kiana_1_Name,Text,,종언의 일격★,Finality's Strike★,終焉の、一撃！！　バーン！！,終焉的一撃,
+Skill/S_kiana_2_Description,Text,,,,,,
+Skill/S_kiana_2_Name,Text,,선인의 기억이 날개가 되어,"Celestial Memory, Featherized",この仙憶は羽と化す,以此仙忆化羽,
+Skill/S_kiana_3_Name,Text,,신은결계,Elysion Pedion,神恩結界,神恩結界,
+Skill/S_kiana_4_Description,Text,,"자신의 [강림]스택을 5개 소모하여 발동합니다.
+
+스킬 사용후 자신은 [윤회의 시간]을 획득한다.","Consumes 5 stacks of [Descent] to activate.
+
+Gain [Time Wave] after use.","自分の「降臨」スタックを5つ消耗して発動します。
+
+スキル使用後、自分は「輪廻の波」を獲得する。","消耗自己5个「降临」堆叠后触发
+
+技能使用后，自己获得「轮回时澜」",
+Skill/S_kiana_4_Name,Text,,월검의 자세,Moon Blade stance,月鋒形態,月锋姿态,
+Skill/S_kiana_5_Description,Text,,"자신의 [강림]스택을 5개 소모하여 발동합니다.
+
+스킬 사용후 자신은 [윤회의 시간]을 획득한다.","Consumes 5 stacks of [Descent] to activate.
+
+Gain [Time Wave] after use.","自分の「降臨」スタックを5つ消耗して発動します。
+
+スキル使用後、自分は「輪廻の波」を獲得する。","消耗自己5个「降临」堆叠后触发
+
+技能使用后，自己获得「轮回时澜」",
+Skill/S_kiana_5_Name,Text,,시간의 자세,Time Flint stance,時燧形態,时燧姿态,
+Skill/S_kiana_6_Description,Text,,,,,,
+Skill/S_kiana_6_Name,Text,,기원의 진리를 받은 검,"Edge of Origin's Return, Gripped",起源の帰還を受けし鋒,受始源真归之铸锋,
+Skill/S_kiana_7_Description,Text,,자신에게 [강림]을 3스택을 추가로 부여합니다.,Grants 3 additional stacks of [Descent].,自分に「降臨」を3スタックを追加で付与します。,为自己额外增加3个「降临」堆叠。,
+Skill/S_kiana_7_Name,Text,,진리의 순환을 더한 신관,"Ring of Truth's Circle, Donned",輪転の真理を統べし冠,加真理回环之神冕,
+Skill/S_kiana_8_Name,Text,,염야의 꿈을 바쳐,"Stygian Phantasm, Bestowed",星渊に星夢を,赠以星渊星梦,
+Skill/S_kiana_9_0_Description,Text,,마나를 2회복,Restore 2 Mana.,マナを2回復,恢复2点法力,
+Skill/S_kiana_9_0_Name,Text,,탄생으로 돌아가는 종말,Terminus Reborn,終末、再び誕生へ,终末，复归诞生,
+Skill/S_kiana_9_1_Description,Text,,모든 아군의 방해 디버프를 제거,Removes all debuffs from allies.,すべての味方のデバフを除去,解除所有友军的 debuff,
+Skill/S_kiana_9_1_Name,Text,,"스러지는 꽃, 피어나는 꽃망울","Fallen Petals, Reborn Buds",落花、いつか蕾に,落花，再缔初蕾,
+Skill/S_kiana_9_Description,Text,,"선택 - 마나를 2회복합니다.
+
+모든 아군의 디버프를 제거합니다.","Choose:
+
+Restore 2 Mana.
+Removes all debuffs from allies.","選択 - マナを 2 回復します。
+
+すべての味方のデバフを取り除きます。","选择 - 恢复2点法力
+
+解除所有友军的debuff",
+Skill/S_kiana_9_Name,Text,,영원한 밤의 포옹,Embrace of the Eternal Night,永遠の夜の抱擁,棲於永夜,
+,,,,,,,
+

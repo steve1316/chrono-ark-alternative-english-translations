@@ -1,0 +1,27 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+System/Item/Equip_Kail_3,Text,,"전설: 감정 카드 3단계를 찾으면, 희귀 카드를 발견할 수 있습니다. (칼리에게만 적용)","Legend: When finding a Level 3 Emotion Card, you may discover a rare card. (Applies only to Kali)",,"
+红雾传说:发现三级情感卡时可能会发现特殊卡。(仅对卡莉生效)",
+System/Item/Relic_Kail_1_0,Text,,<color=#919191><i> 혈무의 난이도에 따라서 유물이 추가적인 효과를 가질지도 모릅니다. </i></color>,<color=#919191><i> The relic may gain additional effects depending on the Blood Mist difficulty. </i></color>,,<color=#919191><i>在血雾难度下好像会获得额外效果...?</i></color>,
+System/Item/Relic_Kail_1_1,Text,,<color=#EC160D>혈무 1</color >: 혈무의 적 강화 효과가 최대 체력 +40%와 공격력 +1로 변경됩니다. 모든 아군이 추가 공격력 및 치유력 +15%의 효과를 받습니다.,<color=#EC160D>Blood Mist 1</color>: Blood Mist's enemy enhancement is changed to +40% Max HP and +1 Attack. All allies gain +15% Attack and Healing.,,<color=#EC160D>血雾1</color>:血雾的敌方强化改为+40%生命值、+1攻击力。所有友军+15%攻击力和治疗力。,
+System/Item/Relic_Kail_1_2,Text,,<color=#EC160D>혈무 2</color >: 스킬북을 얻습니다.,<color=#EC160D>Blood Mist 2</color>: Gain a Skill Book.,,<color=#EC160D>血雾2</color>:获得一本普通技能书。,
+System/Item/Relic_Kail_1_3,Text,,"<color=#EC160D>혈무 3</color >: 황금 스킬북 하나를 얻고, '핏빛 안개'를 덱에 추가합니다.","<color=#EC160D>Blood Mist 3</color>: Gain a Golden Skill Book and add ""Crimson Mist"" to the deck.",,<color=#EC160D>血雾3</color>:获得一本黄金技能书，向露西卡组加入一张血色迷雾。,
+System/Item/Relic_Kail_1_4,Text,,<color=#EC160D>혈무 4</color >: 혈무의 적 강화 효과가 최대 체력 +50%와 공격력 +1로 변경됩니다. 혈무 3의 효과를 무효로 합니다.,<color=#EC160D>Blood Mist 4</color>: Blood Mist's enemy enhancement is changed to +50% Max HP and +1 Attack. Nullifies the effect of Blood Mist 3.,,<color=#EC160D>血雾4</color>:血雾的敌方强化改为+50%生命值、+1攻击力。无效化血雾3的机制。,
+System/Item/Relic_Kail_1_5,Text,,<color=#919191><i>보상은 필드에 진입 시 부여됩니다.</i></color>,<color=#919191><i>Rewards are granted upon entering a non-camp map.</i></color>,,<color=#919191><i>奖励会在进入非篝火地图提供。</i></color>,
+System/RandomEvent/Event_Kail_Bird_OrderStrings_0,Text,,"종말새는 사라졌습니다. 빛은 세 개의 ""알""을 날개로 변화시켰습니다.","The Apocalypse Bird has disappeared. The light transformed three ""eggs"" into wings.",,终末鸟消失了，散发出的光芒使三颗“卵”化作了翅膀。,
+System/RandomEvent/Event_Kail_Bird_OrderStrings_1,Text,,"종말새는 사라졌습니다. 빛은 세 개의 ""알""을 무기로 변화시켰습니다.","The Apocalypse Bird has disappeared. The light transformed three ""eggs"" into weapons.",,终末鸟消失了，散发出的光芒使三颗“卵”化作了武器。,
+System/RandomEvent/Event_Kail_Bird_OrderStrings_2,Text,,종말새 근처의 장비를 찾았습니다. 쓸만한 것을 챙겨 떠납니다.,Found equipment near the Apocalypse Bird. Took something useful and left the monster's remains.,,在终末鸟附近发现了一些装备，带走一个赶紧离开这个怪物的残骸。,
+System/SkillSelect/S_Kail_Dice,Text,,감정 카드를 선택하십시오,Select an Emotion Card.,,反击伤害,
+System/SkillSelect/S_Kail_Dice_S,Text,,반격 주사위: 피해량,Counter Dice: Damage,,反击骰子：伤害,
+System/SkillSelect/S_Kail_P1,Text,,스킬을 선택하십시오.,Select a skill.,,选择一张情感卡,
+System/SkillSelect/S_Kail_P2,Text,,감정 카드의 효과를 받을 아군을 선택하십시오,Select an ally to receive the Emotion Card's effect.,,选择一名友方获得情感卡效果,
+System/SkillSelect/S_Kail_R12,Text,,스킬을 선택하십시오.,"Select a skill to ""Mimic"".",,选择一个技能“模仿”,
+System/StatDesc/B_Kail_CounterDices_Description,Text,,공격 당하면 가장 위의 반격 주사위를 공격자에게 사용합니다. 만약 중첩의 수가 3 이상이면 2개를 사용합니다.,"When attacked, use the top Counter Dice against the attacker. If the number of stacks is 3 or more, use 2 dice.",,受到攻击时对攻击者使用最上面的1个反击骰子，若骰子数不小于3则使用2个。,
+System/StatDesc/S_Kail_R12,Text,,"<color=#919191>
+감정과 동화되며, 끊임없이 사람을 모방하려 하는 무기.
+<i> 모든 ""미미크리 구현""은 같은 효과를 가지고 있으며, 언제나 ""가속""과 같은 ""전투 중"" 효과를 받지는 않습니다. </i></color>","<color=#919191>
+A weapon that resonates with emotions, constantly mimicking humans.
+<i>All ""Mimicry Implementations"" have the same effect and are not always affected by ""in-combat"" effects like ""Haste"".</i></color>",,"<color=#919191>
+能与情感产生共鸣的武器,无时无刻不在模仿人类。
+<i>所有的“拟态模拟”的效果相同，且不会一直受到“加速”等“本场战斗内”效果的影响。</i></color>",
+,,,,,,,
+,,,,

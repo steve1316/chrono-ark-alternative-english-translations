@@ -1,0 +1,274 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_SF_Dreamer_0_Description,Text,,,"&A Range Superiority: &b / &c. 
+Other allies lose 1 point when their Healing Gauge is lost. 
+At the end of the turn, if all surviving allies have this buff, lose the points of the ally with the lowest value.",,"&A射程优势: &b / &c
+其它友军失去体力极限时失去1点。
+回合结束时若存活的友军均有此增益，失去点数最低的友军所拥有的点数。","&A射程優勢: &b / &c
+其它友軍失去體力極限時失去1點。
+回合結束時若存活的友軍均有此增益，失去點數最低的友軍所擁有的點數。"
+Buff/B_SF_Dreamer_0_Name,Text,,,Range Superiority,,射程优势,射程優勢
+Buff/B_SF_Dreamer_0_bac_Description,Text,,,,,,
+Buff/B_SF_Dreamer_0_bac_Name,Text,,,,,,
+Buff/B_SF_Dreamer_0_oth_Description,Text,,,Temporarily unused,,暂未使用,
+Buff/B_SF_Dreamer_0_oth_Name,Text,,,Healing Gauge Protection Buff,,体力极限检测Buff,
+Buff/B_SF_Dreamer_10_0_Description,Text,,,,,,
+Buff/B_SF_Dreamer_10_0_Name,Text,,,,,,
+Buff/B_SF_Dreamer_10_1_Description,Text,,,,,,
+Buff/B_SF_Dreamer_10_1_Name,Text,,,,,,
+Buff/B_SF_Dreamer_10_2_Description,Text,,,,,,
+Buff/B_SF_Dreamer_10_2_Name,Text,,,,,,
+Buff/B_SF_Dreamer_10_3_Description,Text,,,,,,
+Buff/B_SF_Dreamer_10_3_Name,Text,,,,,,
+Buff/B_SF_Dreamer_10_Description,Text,,,"When targeted by an enemy, &B10 preemptively shoots the enemy, dealing &b damage. Damage taken from this attack is reduced by 25% and the Healing Gauge is protected. If the enemy has [Weakness Mark] applied by &B10, dodge this damage.",,被敌人瞄准时，&B10抢先对敌人进行射击，造成 &b点伤害。受到的本次攻击伤害降低25%且保护体力极限，如果敌人被&B10施加了【弱点标记】，则闪避本次伤害。,被敵人瞄準時，&B10搶先對敵人進行射擊，造成 &b點傷害。受到的本次攻擊傷害降低25%且保護體力極限，如果敵人被&B10施加了【弱點標記】，則閃避本次傷害。
+Buff/B_SF_Dreamer_10_Name,Text,,,Hawkeye Protection,,鹰眼庇护,鷹眼庇護
+Buff/B_SF_Dreamer_11_Description,Text,,,,,,
+Buff/B_SF_Dreamer_11_Name,Text,,,Body Calibration,,素体磨合,
+Buff/B_SF_Dreamer_13_Description,Text,,,,,,
+Buff/B_SF_Dreamer_13_Name,Text,,,Neurotoxin,,神经毒素,神經毒素
+Buff/B_SF_Dreamer_14_Description,Text,,,"When using a single-target attack (non-Follow-up attack), apply 1 stack of [Trajectory Correction] to the target. 
+[Trajectory Correction] and [Weakness Mark] applied to enemy units take effect for all allies.",,"使用单体攻击(非追加攻击)时对目标施加1层【弹道修正】。
+敌方单位被施加的【弹道修正】与【弱点标记】对全体友军生效。","使用單體攻擊(非追加攻擊)時對目標施加1層【彈道修正】。
+敵方單位被施加的【彈道修正】與【弱點標記】對全體友軍生效。"
+Buff/B_SF_Dreamer_14_Name,Text,,,Collective Support,,并群支援,並羣支援
+Buff/B_SF_Dreamer_17_S_Description,Text,,,"Marks the enemy last attacked (single-target non-Follow-up attack) by &a, increasing damage taken from &a by &b% (stackable). 
+[Weakness Mark] applied by &a to marked enemies is not removed at turn end.",,"标记&a最后攻击(单体非追加攻击)的敌人，并使其受到的&a的伤害增加&b%(可叠加)。
+标记的敌人被&a施加的【弱点标记】不会在回合结束时解除。","標記&a最後攻擊(單體非追加攻擊)的敵人，並使其受到的&a的傷害增加&b%(可疊加)。
+標記的敵人被&a施加的【弱點標記】不會在回合結束時解除。"
+Buff/B_SF_Dreamer_17_S_Name,Text,,,Suppression and Sniping,,压制与狙击,壓制與狙擊
+Buff/B_SF_Dreamer_17_T_Description,Text,,,"[Weakness Mark] applied by &a is not removed at turn end. 
+Damage taken from &a increases by &b.",,"被&a施加的【弱点标记】不会在回合结束时解除。
+受到的&a的伤害增加&b。","被&a施加的【弱點標記】不會在回合結束時解除。
+受到的&a的傷害增加&b。"
+Buff/B_SF_Dreamer_17_T_Name,Text,,,Annihilation Mark,,歼灭印记,殲滅印記
+Buff/B_SF_Dreamer_2_Description,Text,,,,,,
+Buff/B_SF_Dreamer_2_Name,Text,,,Execution Moment Amplification,,行刑时刻增幅,
+Buff/B_SF_Dreamer_3_1_Description,Text,,,,,,
+Buff/B_SF_Dreamer_3_1_Name,Text,,,Locked,,锁定,
+Buff/B_SF_Dreamer_3_Description,Text,,,,,,
+Buff/B_SF_Dreamer_3_Name,Text,,,Burn,,烧伤,燒傷
+Buff/B_SF_Dreamer_4_2_Description,Text,,,test,,test,
+Buff/B_SF_Dreamer_4_2_Name,Text,,,Weakness Mark: Self,,弱点标记：自身,
+Buff/B_SF_Dreamer_4_Description,Text,,,"When hit by a single-target attack from &B4, ignore Defense, cannot be evaded, and guarantees Critical. 
+&B4 ignores Taunt and Stealth to target this enemy. 
+Removed at turn end after triggering at least once.",,"受到&B4的单体攻击时无视防御、无法回避、必定暴击。
+&B4可无视嘲讽与隐匿指向此敌人。
+触发至少1次上述效果后，于回合结束时解除。","受到&B4的單體攻擊時無視防禦、無法迴避、必定暴擊。
+&B4可無視嘲諷與隱匿指向此敵人。
+觸發至少1次上述效果後，於回合結束時解除。"
+Buff/B_SF_Dreamer_4_Name,Text,,,Weakness Mark,,弱点标记,弱點標記
+Buff/B_SF_Dreamer_4_cridmg_Description,Text,,,,,,
+Buff/B_SF_Dreamer_4_cridmg_Name,Text,,,Weakness Mark Critical Damage Boost,,弱点标记暴击增伤,
+Buff/B_SF_Dreamer_5_Description,Text,,,,,,
+Buff/B_SF_Dreamer_5_Name,Text,,,CD: Propulsion Leap,,cd：喷射跳跃,
+Buff/B_SF_Dreamer_6_Description,Text,,,,,,
+Buff/B_SF_Dreamer_6_Name,Text,,,Phantom Mist,,鬼雾,鬼霧
+Buff/B_SF_Dreamer_7_Description,Text,,,"When hit by a single-target attack (non-Follow-up attack) from allies other than &B7, &B7 performs a joint attack dealing &a damage. 
+Remaining duration is based on player turns.",,"受到&B7以外的友军的单体攻击(非追加攻击)时，&B7进行协同攻击，造成 &a点伤害。
+剩余回合数基于玩家回合而非敌人行动。","受到&B7以外的友軍的單體攻擊(非追加攻擊)時，&B7進行協同攻擊，造成 &a點傷害。
+剩餘回合數基於玩家回合而非敵人行動。"
+Buff/B_SF_Dreamer_7_Name,Text,,,Coordinated Snipe,,协同狙击,協同狙擊
+Buff/B_SF_Dreamer_p_Description,Text,,,"When hit by a single-target attack from &A, cannot evade. 
+&A ignores Taunt and Stealth to target this enemy. 
+Removed at turn end after triggering at least once. 
+Reapplying [Trajectory Correction] from the same source removes it and applies [Weakness Mark].",,"受到&A的单体攻击时无法回避。
+&A可无视嘲讽与隐匿指向此敌人。
+被再次施加相同来源的【弹道修正】时，解除并施加【弱点标记】。
+触发至少1次上述效果后，于回合结束时解除。","受到&A的單體攻擊時無法迴避。
+&A可無視嘲諷與隱匿指向此敵人。
+觸發至少1次上述效果後，於回合結束時解除。
+被再次施加相同來源的【彈道修正】時，解除並施加【弱點標記】。"
+Buff/B_SF_Dreamer_p_Name,Text,,,Trajectory Correction,,弹道修正,彈道修正
+Character/SF_Dreamer_CampSelectWord,Text,,,"The cradle of night, so sweet...",,黑夜的摇篮，如此甜美······,黑夜的搖籃，如此甜美······
+Character/SF_Dreamer_PassiveDes,Text,,,"Dreamer's single-target attacks (non-Follow-up) apply 1 stack of [Trajectory Correction]. 
+Gain 1 [Range Superiority] on Critical. 
+Attack increases with [Range Superiority]. 
+
+At Level 3: Obtain [Targeted Analysis Contract] to replace 1 exclusive skill. 
+At Level 5: Obtain 2nd [Targeted Analysis Contract] and equipment [Sky Dominator]. 
+
+<color=#919191>-Active from Lv1.</color>",,"梦想家的单体攻击(非追加攻击)给予目标1层【弹道修正】。
+梦想家的单体攻击(非追加攻击)造成暴击时获得1点【射程优势】，
+梦想家的攻击力随【射程优势】的点数增大而提升。
+
+3级时获得道具【定向解析契约】，使用后可替换1个专属技能。
+5级时获得第2张【定向解析契约】与装备【天空支配者】。
+
+<color=#919191>-此被动从1级开始生效。</color>","夢想家的單體攻擊(非追加攻擊)給予目標1層【彈道修正】。
+夢想家的單體攻擊(非追加攻擊)造成暴擊時獲得1點【射程優勢】，
+夢想家的攻擊力隨【射程優勢】的點數增大而提升。
+
+3級時獲得道具【定向解析契約】，使用後可替換1個專屬技能。
+5級時獲得獲得第2張【定向解析契約】與裝備【天空支配者】。
+
+<color=#919191>-此被動從1級開始生效。</color>"
+Character/SF_Dreamer_PassiveName,Text,,,Sangvis Tactics: Dreamer,,铁血战术·梦想家,鐵血戰術·夢想家
+Character/SF_Dreamer_SelectInfo,Text,,,"Elite Defense Doll, Model SPACA
+
+Combat-Oriented and possesses extremely long-range pinpoint sniping capability. She was only produced after the ""Butterfly Incident"", with Elisa as her direct superior. Her abilities mean she does not need to physically show up in person to do her job, so she usually stays in the Sangvis Ferri headquarters and bullies Judge for her own amusement. Her graceful smile hides arrogance and mystery. She is extremely mentally unstable and is very egotistical. In battle she reveals a maniacal, uncontrollable side. In addition, she possesses fearsome destructive power and will often disregard her allies safety. Fortunately she does not normally appear in direct combat.
+
+Excels at dealing massive single-target damage under ally protection.",,"梦想家是铁血工造的精英防御人形，拥有超远距离定点打击的能力。优雅的笑容中透着傲慢和难以捉摸，精神状态极不稳定，总是以自我为中心，作战中会露出疯狂而不受控制的一面，加上可怕的破坏力，连同伴的安全都不会考虑。
+
+具有极强的单体攻击能力，擅长在友军的保护下对单个敌人造成高额伤害。","夢想家是鐵血工造的精英防禦人形，擁有超遠距離定點打擊的能力。優雅的笑容中透着傲慢和難以捉摸，精神狀態極不穩定，總是以自我爲中心，作戰中會露出瘋狂而不受控制的一面，加上可怕的破壞力，連同伴的安全都不會考慮。
+
+具有極強的單體攻擊能力，擅長在友軍的保護下對單個敵人造成高額傷害。"
+Character/SF_Dreamer_Text_Battle_AllyND_0,Text,,,T_drm_3_1:Hmm?,,T_drm_3_1:嗯？,T_drm_3_1:嗯？
+Character/SF_Dreamer_Text_Battle_AllyND_1,Text,,,"T_drm_3_2:Good, but don't get cocky...",,T_drm_3_2:很好，不过可别得意太早···,T_drm_3_2:很好，不過可別得意太早···
+Character/SF_Dreamer_Text_Battle_Cri_0,Text,,,T_drm_6_1:Mmm~,,T_drm_6_1:嗯哼~,T_drm_6_1:嗯哼~
+Character/SF_Dreamer_Text_Battle_Cri_1,Text,,,"T_drm_6_2:Hahahaha! Kneel, kneel before me!",,T_drm_6_2:哈哈哈哈哈！跪下，给我跪下！,T_drm_6_2:哈哈哈哈哈！跪下，給我跪下！
+Character/SF_Dreamer_Text_Battle_Cri_2,Text,,,"T_drm_6_3:Flee, flee all you want! Hahaha...",,T_drm_6_3:逃吧，尽情地逃吧！哈哈哈哈···,T_drm_6_3:逃吧，盡情地逃吧！哈哈哈哈···
+Character/SF_Dreamer_Text_Battle_Healed_0,Text,,,T_drm_7_1:How tender.,,T_drm_7_1:真是温柔呢。,T_drm_7_1:真是溫柔呢。
+Character/SF_Dreamer_Text_Battle_Healed_1,Text,,,"T_drm_7_2:""Thanks""...is what you wanted to hear, right?",,T_drm_7_2:谢谢···你很想听这句吧？,T_drm_7_2:謝謝···你很想聽這句吧？
+Character/SF_Dreamer_Text_Battle_Idle_0,Text,,,T_drm_1_1:Keep waiting and dawn will break.,,T_drm_1_1:再等下去，天都要亮了哦？,T_drm_1_1:再等下去，天都要亮了哦？
+Character/SF_Dreamer_Text_Battle_Kill_0,Text,,,T_drm_5_1:Not over yet! Keep going!,,T_drm_5_1:还没完呢！继续，给我继续啊！,T_drm_5_1:還沒完呢！繼續，給我繼續啊！
+Character/SF_Dreamer_Text_Battle_Kill_1,Text,,,T_drm_5_2:Ending already? I was just getting started!,,T_drm_5_2:这样就结束了吗？我还没有享受够啊！,T_drm_5_2:這樣就結束了嗎？我還沒有享受夠啊！
+Character/SF_Dreamer_Text_Battle_Kill_2,Text,,,T_drm_5_3:How boring.,,T_drm_5_3:真是无趣啊。,T_drm_5_3:真是無趣啊。
+Character/SF_Dreamer_Text_Battle_ND_0,Text,,,T_drm_2_1:Ah...the scent of death...you'll taste it next...,,T_drm_2_1:啊···死亡的气息···下一次，你也会尝到的···,T_drm_2_1:啊···死亡的氣息···下一次，你也會嚐到的···
+Character/SF_Dreamer_Text_Battle_ND_1,Text,,,"T_drm_2_2:Haha♪ Un-believable, this is...HAHAHA—",,T_drm_2_2:哈哈♪难、难以置信，这真是···哈哈哈哈————,T_drm_2_2:哈哈?難、難以置信，這真是···哈哈哈哈————
+Character/SF_Dreamer_Text_Battle_ND_2,Text,,,T_drm_2_3:To think it'd end like this...just as things got interesting...,,T_drm_2_3:没想到竟然会这样···明明才刚变得有趣起来···,T_drm_2_3:沒想到竟然會這樣···明明纔剛變得有趣起來···
+Character/SF_Dreamer_Text_Battle_Start_0,Text,,,T_drm_4_1:I'll enjoy myself thoroughly♪,,T_drm_4_1:我会好好尽兴的♪,T_drm_4_1:我會好好盡興的?
+Character/SF_Dreamer_Text_Battle_Start_1,Text,,,T_drm_4_2:Starting the main event so soon?,,T_drm_4_2:这么快就要开始精彩的表演了吗？,T_drm_4_2:這麼快就要開始精彩的表演了嗎？
+Character/SF_Dreamer_Text_Field_GetItem_0,Text,,,T_drm_9_1:Another step closer to new heights.,,T_drm_9_1:似乎朝着新的高度又近了一步呢。,T_drm_9_1:似乎朝着新的高度又近了一步呢。
+Character/SF_Dreamer_Text_Field_GetItem_1,Text,,,T_drm_9_2:Power surges...I like this feeling.,,T_drm_9_2:力量涌入···是我喜欢的气息。,T_drm_9_2:力量涌入···是我喜歡的氣息。
+Character/SF_Dreamer_Text_Field_Idle_0,Text,,,T_drm_8_1:Wonder what opponents await. Exciting.,,T_drm_8_1:不知道会遇上什么样的对手，很期待呢。,T_drm_8_1:不知道會遇上什麼樣的對手，很期待呢。
+Character/SF_Dreamer_Text_Field_Idle_1,Text,,,T_drm_8_2:Fine weather for hunting~,,T_drm_8_2:今天天气不错，很适合猎杀哦~,T_drm_8_2:今天天氣不錯，很適合獵殺哦~
+Character/SF_Dreamer_Text_Field_Potion_P_0,Text,,,T_drm_10_1:Hmm...,,T_drm_10_1:嗯···,T_drm_10_1:嗯···
+Character/SF_Dreamer_Text_PharosLeader_0,Text,,,T_drm_11_1:Hehe~ As you wish.,,T_drm_11_1:嘻嘻~那就如你所愿吧。,T_drm_11_1:嘻嘻~那就如你所願吧。
+Character/SF_Dreamer_Text_PharosLeader_1,Text,,,T_drm_11_2:Amusing.,,T_drm_11_2:有点意思。,T_drm_11_2:有點意思。
+Character/SF_Dreamer_Text_PharosLeader_2,Text,,,T_drm_11_3:Haha...,,T_drm_11_3:哈哈···,T_drm_11_3:哈哈···
+Character/SF_Dreamer_UnlockString,Text,,,,,,
+Character/SF_Dreamer_name,Text,,,Dreamer,,梦想家,夢想家
+Item_Consume/Item_SF_1_Description,Text,,,"Forget an exclusive skill, then select a new one from all exclusive skills.",,遗忘一个专属技能，然后从所有专属技能中选择一个学习。,遺忘一個專屬技能，然後從所有專屬技能中選擇一個學習。
+Item_Consume/Item_SF_1_name,Text,,,Targeted Analysis Contract,,定向解析契约,定向解析契約
+Item_Equip/E_SF_Dreamer_0_Description,Text,,,Each [Range Superiority] increases Critical damage by 5%. [Range Superiority] has no cap. <color=red>Dreamer only</color>,,"每点【射程优势】提升5%暴击伤害。
+【射程优势】的点数不再受上限限制。
+<color=red>仅限梦想家佩戴</color>","每點【射程優勢】提升5%暴擊傷害。
+【射程優勢】的點數不再受上限限制。
+<color=red>僅限夢想家佩戴</color>"
+Item_Equip/E_SF_Dreamer_0_name,Text,,,Sky Dominator,,天空支配者,天空支配者
+Skill/S_SF_Dreamer_0_Description,Text,,,Can be used multiple times per turn as a Fixed Skill. Gain 2 [Range Superiority].,,"作为固定能力可在一回合内多次使用。
+获得2点【射程优势】。","作爲固定能力可在一回合內多次使用。
+獲得2點【射程優勢】。"
+Skill/S_SF_Dreamer_0_Name,Text,,,Active Pulse,,活跃脉动,活躍脈動
+Skill/S_SF_Dreamer_10_1_Description,Text,,,"When used on enemy: Apply [Coordinated Snipe]. When used on ally: No damage, apply [Hawkeye Protection].",,,
+Skill/S_SF_Dreamer_10_1_Name,Text,,,Falcon's Execution Ground,,,
+Skill/S_SF_Dreamer_10_Description,Text,,,"Purge all non-colorless debuffs (including uncleansable), clear Overload, heal to max HP, gain two one-time 0-Mana Tactical Plans",,"对敌人使用时，对目标施加【协同狙击】。
+对友军使用时，不造成伤害并对目标施加【鹰眼庇护】。","對敵人使用時，對目標施加【協同狙擊】。
+對友軍使用時，不造成傷害並對目標施加【鷹眼庇護】。"
+Skill/S_SF_Dreamer_10_Name,Text,,,Body Replacement,,猎鹰刑场,獵鷹刑場
+Skill/S_SF_Dreamer_11_Description,Text,,,Prioritize drawing 2 Dreamer skills. Drawn skills cost 1 less.,,清除所有非无色减益(包括不可解除)，清除自身过载，体力回复至上限，获得两张一次性、0AP的战术规划,
+Skill/S_SF_Dreamer_11_Name,Text,,,Backup Power Source,,素体更换,
+Skill/S_SF_Dreamer_12_LucyDraw_Description,Text,,,"When enemies without Taunt exist, can only target non-Taunted enemies. Gains Swiftness and applies [Weakness Mark] when attacking non-Taunted enemies. On Critical, apply &a <color=purple>Pain damage</color> per turn for 2 turns with <sprite=1>.",,优先抽取2个梦想家的技能，抽取的技能费用减少1点。,優先抽取2個夢想家的技能，抽取的技能費用減少1點。
+Skill/S_SF_Dreamer_12_LucyDraw_Name,Text,,,Soul-Piercing Sting,,备用能源,備用能源
+Skill/S_SF_Dreamer_13_Description,Text,,,Collective Support,,"场上存在非嘲讽状态的敌人时，只能指定非嘲讽状态的敌人。
+对非嘲讽状态的敌人释放时，此技能获得迅速并对目标施加【弱点标记】。
+暴击时对目标施加每回合造成&a点<color=purple>痛苦伤害</color>并持续2回合的<sprite=1>痛苦减益。","場上存在非嘲諷狀態的敵人時，只能指定非嘲諷狀態的敵人。
+對非嘲諷狀態的敵人釋放時，此技能獲得迅速並對目標施加【弱點標記】。
+暴擊時對目標施加每回合造成&a點<color=purple>痛苦傷害</color>，持續2回合的<sprite=1>痛苦減益。"
+Skill/S_SF_Dreamer_13_Name,Text,,,Damage increases by 30% against debuffed targets.,,惊魂毒刺,驚魂毒刺
+Skill/S_SF_Dreamer_14_Description,Text,,,,,,
+Skill/S_SF_Dreamer_14_Name,Text,,,Collective Support,,并群支援,並羣支援
+Skill/S_SF_Dreamer_15_Description,Text,,,Damage increases by 30% against debuffed targets.,,目标具有减益时，伤害增加30%。,目標具有減益時，傷害增加30%。
+Skill/S_SF_Dreamer_15_Name,Text,,,Owl Strike,,枭兽打击,梟獸打擊
+Skill/S_SF_Dreamer_16_Description,Text,,,"Deals extra damage equal to 10% of target's max HP. 
+Extra damage exceeding &b is reduced by 35%.",,"额外造成目标最大生命值10%的伤害。
+上述效果提供的额外伤害每超过&b点，超出部分的额外伤害减少35%。","額外造成目標最大生命值10%的傷害。
+上述效果提供的額外傷害每超過&b點，超出部分的額外傷害減少35%。"
+Skill/S_SF_Dreamer_16_Name,Text,,,Mistwalker,,雾夜游灵,霧夜遊靈
+Skill/S_SF_Dreamer_17_Description,Text,,,Drawn at battle start.,,战斗开始时抽取。,戰鬥開始時抽取。
+Skill/S_SF_Dreamer_17_Name,Text,,,Fog Moon Hunting Ground,,雾月猎场,霧月獵場
+Skill/S_SF_Dreamer_1_Description,Text,,,"Can be used multiple times per turn. 
+Subsequent uses lose Swiftness and refund Mana based on Overload (up to half cost).",,"可在一回合内多次使用。
+从第二次开始失去迅速效果，且根据使用时的过载返还法力值，最多不超过技能费用的一半。","可在一回合內多次使用。
+從第二次開始失去迅速效果，且根據使用時的過載返還法力值，最多不超過技能費用的一半。"
+Skill/S_SF_Dreamer_1_Name,Text,,,Rapid Snipe,,快速狙击,快速狙擊
+Skill/S_SF_Dreamer_2_Description,Text,,,"Can only target enemies with <color=#32CD32>highest</color> or <color=#F62817>lowest</color> HP. 
+While held, each [Range Superiority] gained increases damage based on current stacks (max &c times, 16% per). 
+Current multiplier: &d%. 
+Critical multiplier: 200%.",,"只能指定生命值<color=#32CD32>最高</color>或<color=#F62817>最低</color>的敌人。
+握在手中时，每获得1点【射程优势】，根据此前【射程优势】点数，基于当前伤害提升伤害(最多提升&c次，单次最高16%)。
+当前总伤害倍率: &d%
+暴击时伤害倍率为200%。","只能指定體力值<color=#32CD32>最高</color>或<color=#F62817>最低</color>的敵人。
+握在手中時，每獲得1點【射程優勢】，根據此前【射程優勢】點數，基於當前傷害提升傷害(最多提升&c次，單次最高16%)。
+當前傷害倍率： &d%
+暴擊時傷害倍率爲200%。"
+Skill/S_SF_Dreamer_2_Name,Text,,,Execution Moment,,行刑时刻,行刑時刻
+Skill/S_SF_Dreamer_3_Description,Text,,,"Attack target &a additional times. Count decreases by 1 when using own skills, increases by 1 when using others.",,额外重复攻击目标&a次，倒计时期间每次使用自己的技能，次数减1；每次使用其他技能，次数加1。,額外重複攻擊目標&a次，倒計時期間每次使用自己的技能，次數減1；每次使用其他技能，次數加1。
+Skill/S_SF_Dreamer_3_Name,Text,,,Silent Annihilation,,寂灭爆破,寂滅爆破
+Skill/S_SF_Dreamer_4_Description,Text,,,,,,
+Skill/S_SF_Dreamer_4_Name,Text,,,Hawkeye Marking,,鹰眼定标,鷹眼定標
+Skill/S_SF_Dreamer_5_Description,Text,,,"Drawn at battle start.
+ Gain 5 [Range Superiority]. 
+If used within 3 turns of last use, cost increases by 2 per turn remaining.",,"战斗开始时抽取。
+获得5点【射程优势】。
+使用时若离上一次使用少于3回合，则每少1个回合，费用增加2点。","戰鬥開始時抽取。
+獲得5點【射程優勢】。
+使用時若離上一次使用少於3回合，則每少1個回合，費用增加2點。"
+Skill/S_SF_Dreamer_5_Name,Text,,,Pulse Leap,,脉冲跳跃,脈衝跳躍
+Skill/S_SF_Dreamer_6_Description,Text,,,,,,
+Skill/S_SF_Dreamer_6_Name,Text,,,Phantom Mist,,鬼雾,鬼霧
+Skill/S_SF_Dreamer_7_1_Description,Text,,,,,,
+Skill/S_SF_Dreamer_7_1_Name,Text,,,,,,
+Skill/S_SF_Dreamer_7_Description,Text,,,"When used on ally: Grant [Hawkeye Protection]. 
+When used on enemy: Deal &a damage and apply [Coordinated Snipe].",,"对友军使用时，给与目标【鹰眼庇护】。
+对敌人使用时，造成&a点伤害并给与目标【协同狙击】。",
+Skill/S_SF_Dreamer_7_Name,Text,,,Falcon's Execution Ground,,猎鹰刑场,
+Skill/S_SF_Dreamer_8_Description,Text,,,"Shuffle your discarded skills into deck, then draw 1 non-Tactical Plan skill.",,将弃牌库中自己的技能洗入牌库，然后选取1个战术规划以外的技能抽取。,
+Skill/S_SF_Dreamer_8_Name,Text,,,Tactical Planning,,战术规划,
+Skill/S_SF_Dreamer_9_Description,Text,,,"Usable while disabled. 
+Clear Impairments, shuffle discarded skills into deck and draw 1. 
+If unimpaired, draw +1. 
+As Fixed Skill: Draw -1. 
+(Cannot select self)",,"可在无法行动状态下使用。
+清除自身的干扰减益，将弃牌库中自己的技能洗入牌库并选择1个自己的技能抽取。
+若无干扰减益，额外选择1个自己的技能抽取。
+作为固定能力使用时，少抽取1个技能。
+(不能选择自身)","可在無法行動狀態下使用。
+清除自身的干擾減益，將棄牌庫中自己的技能洗入牌庫並選擇1個自己的技能抽取。
+若無干擾減益，額外選擇1個自己的技能抽取。
+作爲固定能力使用時，少抽取1個技能。
+(不能選擇自身)"
+Skill/S_SF_Dreamer_9_Name,Text,,,Body Reboot,,素体重启,素體重啓
+SkillExtended/EX_SF_Dreamer_2_Des,Text,,,Enemies with &a HP,, 生命值&a的敌人,
+SkillExtended/EX_SF_Dreamer_2_EnforceString,Text,,,,,,
+SkillExtended/EX_SF_Dreamer_2_Name,Text,,,Targeting Logic,,索敌逻辑,
+SkillExtended/EX_SF_Dreamer_4_Des,Text,,,,,,
+SkillExtended/EX_SF_Dreamer_4_EnforceString,Text,,,,,,
+SkillExtended/EX_SF_Dreamer_4_Name,Text,,,Guaranteed Critical,,必定暴击,
+SkillExtended/EX_SF_Dreamer_5_Des,Text,,,,,,
+SkillExtended/EX_SF_Dreamer_5_EnforceString,Text,,,,,,
+SkillExtended/EX_SF_Dreamer_5_Name,Text,,,Cooldown,,冷却时间,
+SkillExtended/SkillEn_SF_Dreamer_0_Des,Text,,,,,,
+SkillExtended/SkillEn_SF_Dreamer_0_EnforceString,Text,,,,,指向单个敌人的技能,指向單個敵人的技能
+SkillExtended/SkillEn_SF_Dreamer_0_Name,Text,,,"Single-target enemy skills apply [Coordinated Snipe] 
+(source: Dreamer)",,"给目标施加【协同狙击】
+(来源为梦想家)","給目標施加【協同狙擊】
+(來源爲夢想家)"
+SkillExtended/SkillEn_SF_Dreamer_1_Des,Text,,,,,,
+SkillExtended/SkillEn_SF_Dreamer_1_EnforceString,Text,,,Skills targeting single enemies  ,,指向单个友军的技能,指向單個友軍的技能
+SkillExtended/SkillEn_SF_Dreamer_1_Name,Text,,,"Apply [Hawkeye Protection] to the target.
+(Applied by Dreamer)",,"给目标施加【鹰眼庇护】
+(来源为梦想家)","給目標施加【鷹眼庇護】
+(來源爲夢想家)"
+SkillKeyword/KeyWord_SF_0_Desc,Text,,,Forget a skill,,选择一个技能遗忘,選擇一個技能遺忘
+SkillKeyword/KeyWord_SF_0_Name,Text,,,,,,
+SkillKeyword/KeyWord_SF_Dreamer_0_1_Desc,Text,,,"This skill is Dreamer's default Fixed Skill. When replaced, it doesn't enter the skill pool but can be reset as a Fixed Skill.",,此技能为梦想家的默认固定能力，被更换时不会进入持有技能，但仍可再次设置此技能为固定能力。,此技能爲夢想家的默認固定能力，被更換時不會進入持有技能，但仍可再次設置此技能爲固定能力。
+SkillKeyword/KeyWord_SF_Dreamer_0_1_Name,Text,,,Default Fixed Skill,,默认固定能力,默認固定能力
+SkillKeyword/KeyWord_SF_Dreamer_0_2_Desc,Text,,,Massively reduced aggro,,被攻击概率极大幅减少,被攻擊概率極大幅減少
+SkillKeyword/KeyWord_SF_Dreamer_0_2_Name,Text,,,,,,
+SkillKeyword/KeyWord_SF_Dreamer_0_Desc,Text,,,"Each [Range Superiority] slightly increases Evasion and lowers Threat. Above 6 stacks, slightly reduces damage taken.",,每点【射程优势】小幅度提升闪避、降低仇恨值，多于6点时小幅降低受到的伤害。,每點【射程優勢】小幅度提升閃避、降低仇恨值，多於6點時小幅降低受到的傷害。
+SkillKeyword/KeyWord_SF_Dreamer_0_Name,Text,,,Range Superiority,,射程优势,射程優勢
+SkillKeyword/KeyWord_SF_Dreamer_1_Desc,Text,,,"Cannot evade single-target attacks from &A. 
+&A ignores Taunt and Stealth to target this enemy. 
+Reapplying [Trajectory Correction] from the same source removes it and applies [Weakness Mark].",,"受到&A的单体攻击时无法回避。
+&A可无视嘲讽与隐匿指向此敌人。
+被再次施加相同来源的【弹道修正】时，解除并施加【弱点标记】。","受到施加者的單體攻擊時無法迴避。
+施加者可無視嘲諷與隱匿指向此敵人。
+被再次施加相同來源的【彈道修正】時，解除並施加【弱點標記】。"
+SkillKeyword/KeyWord_SF_Dreamer_1_Name,Text,,,Trajectory Correction,,弹道修正,彈道修正
+SkillKeyword/KeyWord_SF_Dreamer_2_Desc,Text,,,Can only target enemies with highest/lowest HP. Targets with hidden HP qualify.,,只能指定敌方生命值最高或最低的角色作为目标，目标生命值不可见时视为满足条件。,只能指定敵方體力值最高或最低的角色作爲目標，目標體力值不可見時視爲滿足條件。
+SkillKeyword/KeyWord_SF_Dreamer_2_Name,Text,,,Execution Moment,,行刑时刻,行刑時刻
+SkillKeyword/KeyWord_SF_Dreamer_4_Desc,Text,,,"Caster's single-target attacks ignore Defense, cannot be evaded, and guarantee Critical hits. Caster ignores Taunt and Stealth to target this enemy.",,受到施加者的单体攻击时无视防御、无法回避、必定暴击，施加者可无视嘲讽与隐匿指向此敌人。,受到施加者的單體攻擊時無視防禦、無法迴避、必定暴擊，施加者可無視嘲諷與隱匿指向此敵人。
+SkillKeyword/KeyWord_SF_Dreamer_4_Name,Text,,,Weakness Mark,,弱点标记,弱點標記
+SkillKeyword/KeyWord_SF_Dreamer_antiVanish_Desc,Text,,,Can target enemies in Stealth.,,可以无视隐匿指定敌人。,可以無視隱匿指定敵人。
+SkillKeyword/KeyWord_SF_Dreamer_antiVanish_Name,Text,,,Ignore Stealth,,无视隐匿,無視隱匿
+

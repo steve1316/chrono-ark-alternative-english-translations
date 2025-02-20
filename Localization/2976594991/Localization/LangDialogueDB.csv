@@ -1,0 +1,416 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Dialogue/Ark/01,Text,露西,,Why are you just standing here and not talking to anyone else?,,你就一直站在这里，为什么不跟别人聊天？,
+Dialogue/Ark/02,Text,,,"*Tiamat
+I'm not very accustomed to verbal communication.",,"*提亚玛特
+我不太习惯用语言交流。",
+Dialogue/Ark/03,Text,露西,,...That's weird. Does that mean you prefer body language or something?,,……你说话好奇怪，那是说你更喜欢肢体语言一类的？,
+Dialogue/Ark/04,Text,,,"*Tiamat
+In your concept, it's more like telepathic communication.",,"*提亚玛特
+用你们的概念理解是心灵感应那样的能力。",
+Dialogue/Ark/05,Text,露西,,"Really? That sounds amazing, but kind of suspicious. Are there others in the Ark who can do that?",,真的？感觉很厉害，但还是好可疑，方舟里还有人会用这样的能力？,
+Dialogue/Ark/06,Text,,,"*Tiamat
+Yes, it's real.",,"*提亚玛特
+是真的。",
+Dialogue/Ark/07,Text,露西,,(Lucy stares intently),,（盯）,
+Dialogue/Ark/08,Text,,,"*Tiamat
+Unfortunately, I can't demonstrate it to you, as this ability only works on my kin or individuals I have formed intimate connections with.",,"*提亚玛特
+很可惜，我没法向你展示，因为这个能力只对我的眷属还有建立了亲密关系的个体有效。",
+Dialogue/Ark/09,Text,露西,,Your kin?,,眷属？,
+Dialogue/Ark/10,Text,,,"*Tiamat
+They are my children.",,"*提亚玛特
+就是我的孩子们。",
+Dialogue/Ark/11,Text,露西,,Huh? ...Chi-children... them...,,啊？……孩，孩子……们……,
+Dialogue/Ark/12,Text,露西,,"By the way, what does 'intimate relationship' mean? Isn't our relationship close enough?",,另一个呢，亲密关系是什么意思，我们的关系还不够亲密吗？,
+Dialogue/Ark/13,Text,,,"*Tiamat
+...",,"*提亚玛特
+……",
+Dialogue/Ark/14,Text,,,"*Tiamat
+In your language, a spousal relationship is often referred to as an intimate relationship as well.",,"*提亚玛特
+在你们的语言中，配偶关系通常也叫做亲密关系。",
+Dialogue/Ark/15,Text,露西,,"I'm sorry, I shouldn't have asked!",,对不起，我不该问的！,
+Dialogue/Ark/16,Text,,,"*Tiamat
+Lucy, you should spend some time reading more books.",,"*提亚玛特
+露西，你应该花点时间多读书。",
+Dialogue/Ark/17,Text,露西,,Okay...,,好的，呜。,
+Dialogue/ClockTower/01,Text,,,"*Tiamat
+Yes. It was quite an interesting journey.",,"*提亚玛特
+嗯，很有趣的一次旅程。",
+Dialogue/ClockTower/02,Text,,,"*Tiamat
+Sadly, even this kind of scenario will one day grow tiresome, even my conversation with you.",,"*提亚玛特
+可惜这样的场景也总有一天会厌倦吧，哪怕是我与你的这段对话。",
+Dialogue/ClockTower/02_O1_01,Text,,,"*Tiamat
+Plans? Maybe I have them, but I don't want to tell you.",,"*提亚玛特
+计划？可能有，但我不想告诉你。",
+Dialogue/ClockTower/02_O1_02,Text,,,"*Tiamat
+...No, it’s not for that kind of reason.",,"*提亚玛特
+……不，并不是那种原因。",
+Dialogue/ClockTower/02_O1_03,Text,,,"*Tiamat
+To put it simply—after the world resets, there’s still so much you need to do. As long as you don’t give up on seeking the future, we’ll meet again.",,"*提亚玛特
+简单来说——世界重启之后你还有很多事情要做，只要你不放弃探求未来，我们还会相见。",
+Dialogue/ClockTower/02_O2_01,Text,,,"*Tiamat
+It’s nothing special.",,"*提亚玛特
+没什么特别的。",
+Dialogue/ClockTower/02_O2_02,Text,,,"*Tiamat
+...The universe cycles. Civilization, life, and even the entire world will eventually start over again, and all we can hold onto is the present.",,"*提亚玛特
+……宇宙轮回，文明、生命、乃至整个世界都将最终重新来过，你我能把握住的只有现在。",
+Dialogue/ClockTower/02_O2_03,Text,,,"*Tiamat
+So, don’t let yourself feel regret.",,"*提亚玛特
+所以，不要让自己后悔就好。",
+Dialogue/ClockTower/02_Option0,Text,,,Ask about future plans,,关于今后的计划,
+Dialogue/ClockTower/02_Option1,Text,,,Ask how Tiamat feels,,询问感想,
+Dialogue/FS_LV1/01,Text,,,"*Tiamat
+Lucy.",,"*提亚玛特
+露西。",
+Dialogue/FS_LV1/02,Text,露西,,?,,?,
+Dialogue/FS_LV1/03,Text,,,"*Tiamat
+Do you usually have that expression on your face?",,"*提亚玛特
+你平时都是这个表情吗？",
+Dialogue/FS_LV1/04,Text,露西,,Look who’s talking. Aren’t you the same?,,你还说我呢，你难道不是？,
+Dialogue/FS_LV1/05,Text,,,"*Tiamat
+I have plenty of ways to express myself, like directly using telepathy or turning my thoughts into actions.",,"*提亚玛特
+我有很多种表达方法，例如直接利用心灵沟通，还有把想法直接付诸行动。",
+Dialogue/FS_LV1/06,Text,露西,,...Oh.,,……呃。,
+Dialogue/FS_LV1/07,Text,,,"*Tiamat
+But you’re a bit special.",,"*提亚玛特
+但是你比较特别。",
+Dialogue/FS_LV1/08,Text,露西,,"Am I? I think I’m pretty normal. It’s not strange to rarely show emotion, right? Anyway, I’ll fight alongside you all.",,有吗？我觉得自己很正常，很少露出表情的人不奇怪吧。反正我会跟你们并肩作战的。,
+Dialogue/FS_LV1/09,Text,,,"*Tiamat
+I’m not used to making my thoughts visible, and you’re unwilling to let your emotions show.",,"*提亚玛特
+我不习惯把自己的思考浮于表面，你是不愿意让自己的情感解放出来。",
+Dialogue/FS_LV1/10,Text,露西,,"So, that means everyone here is a stoic, right? Let’s not sweat over these little details.",,那也就是说，大家都是面瘫咯。就不要在这种细节上太纠结了。,
+Dialogue/FS_LV1/11,Text,,,"*Tiamat
+You’re kind of cute.",,"*提亚玛特
+你还挺可爱的。",
+Dialogue/FS_LV1/12,Text,露西,,Huh? ...What are you talking about...?,,啊？……你在说什么呢……？,
+Dialogue/FS_LV1/13,Text,,,"*Tiamat
+Exactly that.",,"*提亚玛特
+就是这点。",
+Dialogue/FS_LV1/14,Text,露西,,Are you messing with me?,,耍我是吧？,
+Dialogue/FS_LV2/01,Text,露西,,"Tiamat... Ugh, your name’s too long. Can I just call you Tia?",,提亚玛特，哎，名字太长了，叫提亚可以吗？,
+Dialogue/FS_LV2/02,Text,,,"*Tiamat
+Yes.",,"*提亚玛特
+可以。",
+Dialogue/FS_LV2/03,Text,露西,,"If this is too intrusive, I apologize in advance. We’ve been on missions together for a while, so I’ve been meaning to ask...",,如果有所冒犯我先道歉，我们在一起执行任务也很久了，所以我很想问。,
+Dialogue/FS_LV2/04,Text,,,"*Tiamat
+It’s fine, go ahead.",,"*提亚玛特
+没关系，你说吧。",
+Dialogue/FS_LV2/05,Text,露西,,"Okay... I was wondering, do you not feel pain?",,好的……我想知道，你是没有痛觉吗？,
+Dialogue/FS_LV2/06,Text,,,"*Tiamat
+Why do you think so?",,"*提亚玛特
+为什么会这么想？",
+Dialogue/FS_LV2/07,Text,露西,,Because you show no fear of blades or bullets. It’s easy to sense that there’s something different about you—it’s like you don’t care about those things at all.,,因为你对刀刃还有子弹那些东西没有恐惧，在你身后很容易就能感觉到你的不同，打个比方就像是你不在乎这些事情。,
+Dialogue/FS_LV2/08,Text,,,"*Tiamat
+A well-trained soldier could probably manage that too.",,"*提亚玛特
+经过良好训练的士兵应该也做得到吧。",
+Dialogue/FS_LV2/09,Text,露西,,"Maybe, but are you one?",,应该可以，但是你是吗？,
+Dialogue/FS_LV2/10,Text,,,"*Tiamat
+I’m not... but you’re right. I’m not worried about this level of damage. While my body here can’t withstand heavy blows, my original self is far tougher than what you see.",,"*提亚玛特
+我不是……但是你说得对，我并不担心这种程度的损伤，虽然在这里的身体承受不了大量打击，但是原本的我的承受力远比你看到的样子更强。",
+Dialogue/FS_LV2/11,Text,,,"*Tiamat
+If you think it would be better for me to react to those injuries more closely to you, I can also give it a try.",,"*提亚玛特
+如果你觉得我对那些伤害表现得更贴近你们一些会更好的话，我也可以试试。",
+Dialogue/FS_LV2/12,Text,露西,,"Honestly, being around you feels pretty safe, except sometimes you make me wonder if you’re even human... Uh, I didn’t mean that in a bad way.",,没有，在你身边还是挺有安全感的，除了有时候让我怀疑你到底是不是人类以外……呃，我不是那个意思。,
+Dialogue/FS_LV2/13,Text,,,"*Tiamat
+You’re not wrong.",,"*提亚玛特
+你说的没错。",
+Dialogue/FS_LV2/14,Text,露西,,What?,,什么？,
+Dialogue/FS_LV2/15,Text,,,"*Tiamat
+I possess psychic and illusion abilities far beyond what typical humanoid beings can achieve, along with the self-healing trait you just mentioned. ",,"*提亚玛特
+我拥有一般类人生物达不到的心灵和幻术能力，还有刚刚你提到的自愈体质。",
+Dialogue/FS_LV2/16,Text,,,"*Tiamat
+The abilities you all have here were formed through countless battles and with the aid of certain fictional frameworks.",,"*提亚玛特
+你们在这里的能力都是在一次次战斗还有借助某种虚构的方式辅助建立起来的。",
+Dialogue/FS_LV2/17,Text,露西,,You’re talking too fast. What do you mean? Are you saying I don’t actually know how to use a sword?,,你说的太快了，什么意思，你想说我其实不会用剑？,
+Dialogue/FS_LV2/18,Text,,,"*Tiamat
+Yes and no. What I can tell you is that I excel at illusion defense, and my self-healing ability is not something gained through postnatal adjustment or learning—it’s innate.",,"*提亚玛特
+是，也不是。我能告诉你的是，我精通幻术防御，还有身体的自愈能力并不是因为后天调整和学习，而是我自己的能力。",
+Dialogue/FS_LV2/19,Text,,,"*Tiamat
+Whether here or elsewhere, I remain consistent inside and out.",,"*提亚玛特
+无论是在这里，或是其他地方，我也表里如一。",
+Dialogue/FS_LV2/20,Text,露西,,"So, you’re basically like some kind of superhuman?",,就是超人一类的什么东西是吧。,
+Dialogue/FS_LV2/21,Text,,,"*Tiamat
+You could see it that way. The original me was about 2.4 meters tall and had a self-healing speed far faster than what you see now.",,"*提亚玛特
+可以这么理解。原本的我大约有两米四高，还有远快于现在的自愈速度。",
+Dialogue/FS_LV2/22,Text,,,"*Tiamat
+Forget swords—even large-caliber bullets couldn’t cause any real harm.",,"*提亚玛特
+不要说是刀剑了，就是大口径的子弹也很难造成实际伤害。",
+Dialogue/FS_LV2/23,Text,露西,,"This… is that also considered a kind of ""illusion""?",,这也算是一种“幻术”吗？,
+Dialogue/FS_LV2/24,Text,,,"*Tiamat
+The essence of illusions lies in the fact that people only believe what they want to believe.",,"*提亚玛特
+幻术的本质是因为人们只相信自己相信的东西。",
+Dialogue/FS_LV2/25,Text,露西,,"This is getting harder to understand. Here, the bread’s toasted. Eat it while it’s hot.",,越来越难懂了，给，面包烤好了，快吃吧。,
+Dialogue/FS_LV2/26,Text,,,"*Tiamat
+Mmm, thank you. Can I have a few more slices?",,"*提亚玛特
+唔，谢谢，可以再多给我几块吗？",
+Dialogue/FS_LV2/27,Text,露西,,"...Hmm, alright.",,……嗯，好。,
+Dialogue/FS_LV3/01,Text,,,"*Tiamat
+What you call psychic power starts with understanding hierarchical structures. The universe is like a hamburger: most beings can only perceive a limited number of layers.",,"*提亚玛特
+所谓灵能，要从层级结构开始了解。宇宙就像是一个汉堡，大部分生命能感知到的层数有限。",
+Dialogue/FS_LV3/02,Text,,,"*Tiamat
+For example, nearly all individuals can perceive the material reality, but it’s much harder to perceive layers made of pure energy.",,"*提亚玛特
+例如几乎所有个体都能感知到物质实在，但是却很难感受到纯粹能量构成的层。",
+Dialogue/FS_LV3/03,Text,露西,,"Whoa, that sounds hard to grasp. Are you saying matter and energy are separate?",,喔，有点难懂，你是说物质和能量是分开的。,
+Dialogue/FS_LV3/04,Text,,,"*Tiamat
+No, they’re actually together. I use that analogy because you can’t see them or directly interact with them.",,"*提亚玛特
+不是，它们其实在一起，只是因为你看不到也不能直接与它交互，所以才这么举例。",
+Dialogue/FS_LV3/05,Text,,,"*Tiamat
+For example, consciousness is based on your brain, but it doesn’t only exist in the physical realm—it also extends into many energy layers.",,"*提亚玛特
+比如，意识基于你的大脑，但是它不止在物质中存在，它也延伸到许多能量层。",
+Dialogue/FS_LV3/06,Text,,,"*Tiamat
+Thus, influencing the world is generally categorized into two types. Science and magic are the first category—they are both methods that manipulate layers to influence other layers.",,"*提亚玛特
+因此影响世界一般被归为两个大类。科学和魔法是第一类，它们都是一种利用方法论，基于各种层来影响其他层的方式。",
+Dialogue/FS_LV3/07,Text,,,"*Tiamat
+Whether it’s shooting a gun or casting a fireball through a magic circle, there’s no difference between the two.",,"*提亚玛特
+无论是用枪射击或者是法阵发射出的火焰箭，这两者没有区别。",
+Dialogue/FS_LV3/08,Text,露西,,Huh? Really?,,哎？是这样吗？,
+Dialogue/FS_LV3/09,Text,,,"*Tiamat
+The second type is defined as psychic power. Psychic abilities don’t rely on tools or devices; they depend on an individual’s non-material layers to directly project power across all layers.",,"*提亚玛特
+另一种定义是灵能，灵能不借助设备辅助，而是依赖个体的非物质层能力在各个层中直接投射力量。",
+Dialogue/FS_LV3/10,Text,,,"*Tiamat
+My illusions fall into this category.For me, space and reality are things I can mold and reshape.",,"*提亚玛特
+我的幻术就是这样的能力，对我来说，空间和实在都是可以塑造和改变的。",
+Dialogue/FS_LV3/11,Text,露西,,Amazing... I didn’t know you were so knowledgeable. I thought illusions were just basic tricks like creating a simple mirage or something.,,真厉害……没想到你这么博学，我以为幻术什么的只是做个幻影那样朴实的事情。,
+Dialogue/FS_LV3/12,Text,,,"*Tiamat
+I only learned these concepts later. For me, directly controlling energy layers comes naturally.",,"*提亚玛特
+这些知识是我后来才学到的，因为对我来说，直接操控能量层是自然而然的事情。",
+Dialogue/FS_LV3/13,Text,露西,,"The people around me are all geniuses, huh... So how does one use psychic illusions?",,我身边的天才真多呢……那么灵能幻术要怎么使用？,
+Dialogue/FS_LV3/14,Text,,,"*Tiamat
+You can’t use them.",,"*提亚玛特
+你用不了。",
+Dialogue/FS_LV3/15,Text,露西,,"Can’t use them? Why not? Last time someone taught me healing magic, I could use that just fine.",,用不了？为什么？上一次其他人教给我的治疗法术我也可以用啊。,
+Dialogue/FS_LV3/16,Text,,,"*Tiamat
+That’s because your magic is unique to this world, governed by the preset rules of this space.",,"*提亚玛特
+因为你们的法术是在这个世界中独有的，被这个空间预设好的规则。",
+Dialogue/FS_LV3/17,Text,,,"*Tiamat
+Your body can’t support psychic abilities, just like no matter how hard you try, you can’t see gravitational waves with your naked eyes.",,"*提亚玛特
+你的身体无法支持灵能法术，就像你再怎么努力也没法只依靠自己的肉体看见引力波一样。",
+Dialogue/FS_LV3/18,Text,露西,,Then what makes psychic powers special?,,那灵能有什么特别呢？,
+Dialogue/FS_LV3/19,Text,,,"*Tiamat
+Psychic powers truly exist, like mathematics—they can be used anywhere. Magic, in contrast, is like a toy, unique to this place.",,"*提亚玛特
+灵能真实存在，就像数学一样在哪里都可以使用。实际上法术也是，只是你们的法术是只属于这里的玩具。",
+Dialogue/FS_LV3/20,Text,露西,,"Ugh, so complicated... Anyway, I don’t understand magic from books, so I’ll stick to using a sword.",,好麻烦……反正我看书也看不懂那些法术，还是用剑更好。,
+Dialogue/FS_LV3/21,Text,,,"*Tiamat
+From a practical standpoint, swordsmanship does make more sense. In fact, I know some sword techniques too. Want to try?",,"*提亚玛特
+从结果上说，剑术的确更符合实际。其实我也会一些剑术，要试试吗？",
+Dialogue/FS_LV3/22,Text,露西,,Really?,,真的吗？,
+Dialogue/FS_LV3/23,Text,,,"*Tiamat
+Using a giant sword with a body like this, piercing defenses, delivering strikes as light as a butterfly...",,"*提亚玛特
+用身体那么大的巨剑穿透防御，像蝴蝶一样轻柔的攻势。",
+Dialogue/FS_LV3/24,Text,露西,,Uh... let me think about it.,,呃……让我再想想吧。,
+Dialogue/FS_LV4/01,Text,,,"*Tiamat
+Hmm.",,"*提亚玛特
+嗯。",
+Dialogue/FS_LV4/02,Text,露西,,I haven't spoken yet?,,我还没开口呢？,
+Dialogue/FS_LV4/03,Text,,,"*Tiamat
+I know you're going to find Azar.",,"*提亚玛特
+我知道你要去找阿扎尔了。",
+Dialogue/FS_LV4/04,Text,露西,,"So, will you help me?",,所以你肯帮我吗？,
+Dialogue/FS_LV4/05,Text,,,"*Tiamat
+Of course, until the very end.",,"*提亚玛特
+当然，直至终结。",
+Dialogue/FS_LV4/06,Text,露西,,…………,,…………,
+Dialogue/FS_LV4/07,Text,露西,,Alright If you say so.,,好吧，既然你这么说的话。,
+Dialogue/FS_LV4/08,Text,露西,,……,,……,
+Dialogue/FS_LV4/09,Text,露西,,Really?,,真的吗？,
+Dialogue/FS_LV4/10,Text,,,"*Tiamat
+Hmm.",,"*提亚玛特
+嗯。",
+Dialogue/FS_LV4/11,Text,露西,,"…Alright, let’s move forward.",,……好，前进。,
+Dialogue/FS_LV4_Failed/1,Text,,,"[y] Tiamat [g] simply looks into the distance, remaining calm about everything that has happened.[sys] (※ You do not have enough Tokens of Friendship, or you did not meet a certain requirement.)",,"[y]提亚玛特[g]只是静静地看着远方，她对于目前发生的一切都很平静。
+[sys]（※ 信物不足或未满足特定条件。）",
+Dialogue/FS_LV4_Simple/1,Text,,,"*Tiamat
+Go stand before him. Let him see that infuriatingly radiant brilliance of yours.",,"*提亚玛特
+去站到他面前，让他看见你那惹人恼怒的耀眼光芒。",
+Dialogue/Gift_Cake/1,Text,,,"*Tiamat
+Can I exchange one more piece by performing a magic trick?",,"*提亚玛特
+用幻术表演可以再多交换一块吗？",
+Dialogue/Gift_Cake/2,Text,,,"*Tiamat
+Mmm, it’s delicious and full of energy. My fondness for food probably has something to do with my body.",,"*提亚玛特
+嗯，它很好吃，富有热量。其实对于食品的爱好跟我的身体有关。",
+Dialogue/Gift_Cake/3,Text,,,"*Tiamat
+Something like that—it’s quite consuming… Mmm…",,"*提亚玛特
+差不多是那个意思，消耗很高……嗯……",
+Dialogue/Gift_Coffee/1,Text,,,"*Tiamat
+A truly impressive drink.",,"*提亚玛特
+令人印象深刻的饮品。",
+Dialogue/Gift_Coffee/2,Text,,,"*Tiamat
+Come to think of it, by human standards, wouldn’t coffee count as a type of fruit juice?",,"*提亚玛特
+说起来，按照人类的标准，咖啡应该算是一种果汁？",
+Dialogue/Gift_Coffee/3,Text,,,"*Tiamat
+Isn’t it? Or perhaps it’s not soy milk either…",,"*提亚玛特
+不是吗？那肯定也不是豆浆……",
+Dialogue/Gift_Coffee/4,Text,,,"*Tiamat
+How strange. What exactly is coffee?",,"*提亚玛特
+真奇怪，咖啡到底是什么？",
+Dialogue/Gift_DVD/1,Text,,,"*Tiamat
+Compared to logic or knowledge, I find your emotional aspects more fascinating. Even though these stories are embellished… they’re still quite interesting.",,"*提亚玛特
+比起逻辑或者是知识，你们感性的部分更能吸引我。虽然这些故事经过了加工，但……还挺有趣的。",
+Dialogue/Gift_DVD/2,Text,,,"*Tiamat
+Lucy, don’t you have someone you like?",,"*提亚玛特
+露西你没有自己喜欢的人吗？",
+Dialogue/Gift_DVD/3,Text,,,"*Tiamat
+For humans, passing on their lineage seems very important. I would suggest...",,"*提亚玛特
+对于人类来说，传宗接代应该是很重要的事，我建议……",
+Dialogue/Gift_DVD/4,Text,,,"*Tiamat
+It seems you don’t like this topic, so I’ll drop it.",,"*提亚玛特
+看来你不喜欢这个话题，那就算了。",
+Dialogue/Gift_Milk/1,Text,,,"*Tiamat
+A truly remarkable liquid, rich in nutrients.",,"*提亚玛特
+非常棒的液体，营养丰富。",
+Dialogue/Gift_Milk/2,Text,,,"*Tiamat
+Though unfortunately, relying on it for energy alone would be a challenge.",,"*提亚玛特
+可惜想要依靠它获取热量还是困难了些。",
+Dialogue/Gift_Milk/3,Text,,,"*Tiamat
+Perhaps pairing it with some dessert…",,"*提亚玛特
+或许可以搭配些甜品……",
+Dialogue/Gift_Normal/1,Text,,,"*Tiamat
+Are you giving this to me? Mmm, I’ll take it.",,"*提亚玛特
+这个要给我吗？嗯，我会收下的。",
+Dialogue/Gift_Normal/2,Text,,,"*Tiamat
+To spare your feelings, let me warn you—I might dispose of items that are not very practical.",,"*提亚玛特
+为了照顾你的情感，我要事先说明，那些不太实用的东西我可能会处理掉。",
+Dialogue/Gift_Normal/3,Text,,,"*Tiamat
+…Hmm, as long as that’s okay with you.",,"*提亚玛特
+……嗯，没关系就好。",
+Dialogue/Gift_SFNovel/1,Text,,,"*Tiamat
+Imagination is both cruel and romantic. It’s like you, Lucy, leading people to search for light in a cold world. Humanity’s imagination is the light of its progress.",,"*提亚玛特
+想象力是残酷又浪漫的，就像露西你在冰冷的世界中带领人们寻找灯火，人类的想象力也是发展的灯火。",
+Dialogue/Gift_SFNovel/2,Text,,,"*Tiamat
+Each story has its own charm, but I like those where people refuse to give up in the face of nature’s wrath or internal civilizational disasters the most.",,"*提亚玛特
+这些作品各有特色，但我最喜欢的还是那些面对自然和文明内部的灾难不言放弃的故事？",
+Dialogue/Gift_SFNovel/3,Text,,,"*Tiamat
+Maybe it’s related to my gestalt consciousness.",,"*提亚玛特
+或许跟我本是格式塔意识有些关系吧。",
+Dialogue/Gift_SFNovel/4,Text,,,"*Tiamat
+Gestalt? …It doesn’t matter. I was referring to those stories in the novels.",,"*提亚玛特
+格式塔？……没关系，我刚才在说这些小说里的故事。",
+Dialogue/KingRoom/1,Text,,,"*Tiamat
+It’s time to face the ones you must confront.",,"*提亚玛特
+该去面对必须面对的人了。",
+Dialogue/KingRoom/2,Text,,,"*Tiamat
+How do you feel, Lucy?",,"*提亚玛特
+你感觉怎么样，露西?",
+Dialogue/KingRoom/3,Text,,,"*Tiamat
+Excited, afraid, or sorrowful?",,"*提亚玛特
+是兴奋，是害怕，还是哀伤?",
+Dialogue/Master/01,Text,,,"*Tiamat
+Lucy, is there something you want to say?",,"*提亚玛特
+露西，你想说什么？",
+Dialogue/Master/02,Text,露西,,I’m checking how you’re doing.,,我来看看你的状态怎么样。,
+Dialogue/Master/03,Text,,,"*Tiamat
+You don’t need to worry about me.",,"*提亚玛特
+你不用担心我。",
+Dialogue/Master/04,Text,露西,,Hmm... I’m not worried about you; it’s just that your calmness makes me feel confused.,,嗯……我没有担心你，你的表现让我感觉到疑惑。,
+Dialogue/Master/05,Text,露西,,"I can’t remember who said it, but “Lies never hurt; the truth is the real sharp blade.” Returning to the real world, the ones who wake up won’t be the same as who we are now. My head hurts a little.",,不记得是谁说的了，“谎言从不伤人，真相才是一把快刀”。回到现实世界，醒来的也不是现在的我们。我有点头疼。,
+Dialogue/Master/06,Text,露西,,But you seem so calm.,,但是你看起来太平静了。,
+Dialogue/Master/07,Text,,,"*Tiamat
+That’s because I already knew.",,"*提亚玛特
+因为我原本就知道。",
+Dialogue/Master/08,Text,,,"*Tiamat
+No one ever said consciousness couldn’t exist independently. The Ark Project has advanced so far, and I wanted to take a look, so here I stand before you.",,"*提亚玛特
+从来没人说过意识不能独立存在，方舟项目向前走了很远，我想要来看看，所以我站在了你面前。",
+Dialogue/Master/09,Text,露西,,You knew the truth? Then why didn’t you say so earlier?,,你知道真相？那为什么不早说。,
+Dialogue/Master/10,Text,,,"*Tiamat
+Because that's not my purpose.",,"*提亚玛特
+因为那不是我的目的。",
+Dialogue/Master/11,Text,露西,,This is really important to me!,,这对我来说很重要！,
+Dialogue/Master/12,Text,,,"*Tiamat
+Is it truly important to you?",,"*提亚玛特
+它真的对你来说很重要吗？",
+Dialogue/Master/13,Text,露西,,What do you mean? Why isn’t it important?,,什么意思？为什么不重要?,
+Dialogue/Master/14,Text,,,"*Tiamat
+Existential crises are everywhere. After an individual’s death, there’s no reincarnation—death is true death, serving no purpose.",,"*提亚玛特
+存在危机无处不在。个体死亡之后没有轮回，死亡就是真正的死亡，死亡不会带来任何用处。",
+Dialogue/Master/15,Text,,,"*Tiamat
+When you realize this and understand that you’ve been deceived by the idea of “meaning,” you begin to question the significance of your existence.",,"*提亚玛特
+当你认识到这一点，认识到自己总是被“意义”欺骗，开始质疑自己存在的意义。",
+Dialogue/Master/16,Text,露西,,"So, doesn’t that mean it’s important?",,对，所以这难道不重要吗？,
+Dialogue/Master/17,Text,,,"*Tiamat
+I’m not denying its importance, but you should focus on other things.",,"*提亚玛特
+我没有否认它的重要性，但是你应该把目光放在别处。",
+Dialogue/Master/18,Text,,,"*Tiamat
+Humans are absolutely free.",,"*提亚玛特
+人是绝对自由的。",
+Dialogue/Master/19,Text,露西,,What?,,什么？,
+Dialogue/Master/20,Text,,,"*Tiamat
+Through repeated choices and coincidences, humans become who they are. There are no absolute rules binding living beings. Even moral standards are merely constructs you believe in…",,"*提亚玛特
+通过一次次的选择，在偶然性中，人才成为了自己。没有一个绝对的规则束缚着生物，就连道德标准也只是你们认为创造出来的……",
+Dialogue/Master/21,Text,,,"*Tiamat
+That’s why humans are absolutely free.",,"*提亚玛特
+所以，人是绝对自由的。",
+Dialogue/Master/22,Text,,,"*Tiamat
+The world itself has no inherent rules; its logic is chaotic. Humanity’s absolute freedom gradually evolves into self-deception. This deception makes you believe you have no freedom of choice and binds you to pale ""truths"".",,"*提亚玛特
+世界本身没有其规则，逻辑是混乱的，人的绝对自由逐渐演变成了一种自我欺骗。这种欺骗让你以为自己没有选择的自由，相信那些苍白的“真理”。",
+Dialogue/Master/23,Text,露西,,I don’t understand. What are you saying?,,我不明白，你在说什么？,
+Dialogue/Master/24,Text,,,"*Tiamat
+Convincing yourself that “there’s no choice but to end the project” is an excuse.",,"*提亚玛特
+说服自己“别无选择，只有结束项目”这是一种开脱。",
+Dialogue/Master/25,Text,,,"*Tiamat
+In reality, no matter what choice you make, you’ll never know if the alternative would’ve been better. You’ll always have regrets. Between “existence” and “essence,” we are first “existence.",,"*提亚玛特
+因为实际上，无论你做出什么选择，你都不会知道另一个选择是否更加优秀。你总会后悔。在“存在”和“本质”之间，我们首先是“存在”。",
+Dialogue/Master/26,Text,,,"*Tiamat
+You’re rushing to stop Azar and the Administrator because you want to participate in and influence this existential crisis.",,"*提亚玛特
+匆匆忙忙地想要阻止阿扎尔和管理员，因为你想要参与并影响这一场存在危机。",
+Dialogue/Master/27,Text,,,"*Tiamat
+Suppose the Ark Project didn’t exist—where would you be? Would that satisfy everyone? If someone seeks the end, it’s already everywhere.",,"*提亚玛特
+假设没有方舟计划，你又在哪里呢？这是否能够合所有人的意？如果有人想要的是终结，那它其实无处不在。",
+Dialogue/Master/28,Text,露西,,……,,……,
+Dialogue/Master/29,Text,露西,,"The things you're saying, I don't understand. For me, I only get angry when I face bad behavior. So right now, I'm not angry, but I want him to know that what I'm doing cannot be ignored.",,你说的东西，我不懂；对我来说，只有面对那些不好的行为，我才会生气。所以现在的我不生气，但是我要让他知道，我所做的事情不能被忽视。,
+Dialogue/Master/30,Text,,,"*Tiamat
+Good. That’s how it should be.",,"*提亚玛特
+很好。这就对了。",
+Dialogue/Master/31,Text,,,"*Tiamat
+Go forth, my dear. The universe is small, the world vast—we shall meet again.",,"*提亚玛特
+出发吧，亲爱的。宇宙很小，世界很大——我们终将再会。",
+Dialogue/Master_Simple/1,Text,,,"*Tiamat
+Life is merely the dream of a planet, a fleeting moment in endless darkness. Countless splendors will eventually wither, layered and intertwined, forming the poetry of civilizations.",,"*提亚玛特
+生命只是星球的梦，无尽黑暗中的一刹。无数辉煌都将凋零，重重叠叠，交织而成文明的诗篇。",
+Dialogue/Root/01,Text,,,"*Tiamat
+Hmm...",,"*提亚玛特
+嗯……",
+Dialogue/Root/02,Text,露西,,You seem much calmer than the others. Did you know from the beginning?,,你看起来比其他人平静的多，是早就知道了吗？,
+Dialogue/Root/03,Text,,,"*Tiamat
+My capacity for acceptance is stronger than yours.",,"*提亚玛特
+我的接受能力比你们要强。",
+Dialogue/Root/04,Text,露西,,…Really?,,……真的吗？,
+Dialogue/Root/05,Text,露西,,"You’re sure you’re okay? Then I’ll go check on the others, alright?",,你真的没问题？那我就先去关心其他人了哟？,
+Dialogue/Root/06,Text,,,"*Tiamat
+I was just pondering something.",,"*提亚玛特
+我只是在思考一件事情。",
+Dialogue/Root/07,Text,露西,,What?,,什么？,
+Dialogue/Root/08,Text,,,"*Tiamat
+If this place is merely a virtual existence, how can you be so sure that what you call the 'truth' is actually true?",,"*提亚玛特
+如果这里只是一个虚拟的存在，那么你就这么确定所谓的“真相”是真相吗？",
+Dialogue/Root/09,Text,露西,,What do you mean?,,什么意思？,
+Dialogue/Root/10,Text,,,"*Tiamat
+One box can be nested inside countless other boxes.",,"*提亚玛特
+一个盒子可以再套上无数层盒子。",
+Dialogue/Root/11,Text,,,"*Tiamat
+Since memories can be erased, as long as you have enough time, you could create infinite layers of overlapping worlds.",,"*提亚玛特
+既然记忆能够被删除，只要有足够的时间，你可以创造出无数个层层叠叠的世界。",
+Dialogue/Root/12,Text,露西,,"I think I understand your point, but I’m certain that the outside is the real world.",,……我大概明白你的意思，但是我确定外面就是现实世界。,
+Dialogue/Root/13,Text,露西,,"…At least, that’s what Phoenix said.",,……起码凤凰是这么说的。,
+Dialogue/Root/14,Text,,,"*Tiamat
+You’re right.",,"*提亚玛特
+你说得对。",
+Dialogue/Root/15,Text,露西,,"Alright, as long as you can accept it, we’ll talk later.",,嗯，你能接受就好，我们稍后见。,
+Dialogue/Root/16,Text,,,"*Tiamat
+Sure, see you later.",,"*提亚玛特
+好的，一会儿再见。",
+Dialogue/Root/17,Text,,,"*Tiamat
+…………",,"*提亚玛特
+…………",
+Dialogue/Root/18,Text,,,"*Tiamat
+……………………",,"*提亚玛特
+……………………",
+Dialogue/Root/19,Text,,,"*Tiamat
+How many times have you heard this conversation between us, the one outside the box?",,"*提亚玛特
+这是你第几次听到我们的对话呢，在盒子外存在的那位？",
+Dialogue/Root/20,Text,,,"*Tiamat
+Well, being able to meet here at least proves I’ve done something right, doesn’t it?",,"*提亚玛特
+不过，能在这里相见，至少说明我做的还不错，对吧。",
+Dialogue/Root/21,Text,,,"*Tiamat
+To the one I’ve never met—my Master.",,"*提亚玛特
+我未曾谋面的——主人。",
+,,,,,,,
+

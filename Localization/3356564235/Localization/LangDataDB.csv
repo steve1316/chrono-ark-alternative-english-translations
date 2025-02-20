@@ -1,0 +1,365 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Mizuki_0_Description,Text,,회복 될 때 마다 1 초과 회복 된다.,Grants 1 stack of Overheal for each time healed.,回復するたびに1超回復する。,每次受到治疗时，對自身超额治疗（层数）点体力值。,每次受到治療時，對自身超額治療（層數）點體力值。
+Buff/B_Mizuki_0_Name,Text,,"25시, 나이트 코드에서.","25:00, Nightcord.",25時、ナイトコードで。,25时，Nightcord见。,25時，Nightcord見。
+Buff/B_Mizuki_1_Description,Text,,"이번 턴 동안 피해를 입지 않으며, 회복이 불가능해진다.","All damage taken becomes 0 this turn.
+<b>All healing received becomes 0.</b>",今回のターン中にダメージを受けず、回復が不可能になる。,"受到的所有伤害变为 0 点。
+<b>受到的所有治疗变为 0 点。</b>","受到的所有傷害變為 0 點。
+<b>受到的所有治療變為 0 點。</b>"
+Buff/B_Mizuki_1_Name,Text,,한때의 안식,Momentary Respite,ひとときの安息,休息片刻,休息片刻
+Buff/B_Mizuki_4_Description,Text,,,,,,
+Buff/B_Mizuki_4_Name,Text,,먼저 갈게!,I'll go first!,お先に失礼,我先走了！,我先走了！
+Buff/B_Mizuki_5_1_Description,Text,,체력이 0 이하가 되면 자신을 &a 연쇄 치유한다.,"When HP drops to 0 or below, chain heal self for &a <color=#FF7A33>(80% of healer's Healing Power)</color>.",体力が0以下になれば自分を&a連鎖治癒する。,生命值在 0 点或以下时解除，並對自身连锁治疗&a点体力值<color=#FF7A33>(施加者治疗力的80%)</color>。,生命值在 0 點或以下時解除，並對自身連鎖治療&a點體力值<color=#FF7A33>(施加者治療力的80%)</color>。
+Buff/B_Mizuki_5_1_Name,Text,,용기,Courage,勇気,勇气,勇氣
+Buff/B_Mizuki_5_Description,Text,,,,,,
+Buff/B_Mizuki_5_Name,Text,,용기,Courage,勇気,勇气,勇氣
+Buff/B_Mizuki_6_0_Description,Text,,,,,,
+Buff/B_Mizuki_6_0_Name,Text,,비,Rain,雨,雨,雨
+Buff/B_Mizuki_6_1_Description,Text,,턴 당 1 초과 회복을 받는다.,Grants 1 stack of Overheal per turn.,ターン当たり1超過回復を受ける。,回合开始时，超额恢復 1 点体力值。,回合開始時，超額恢復 1 點體力值。
+Buff/B_Mizuki_6_1_Name,Text,,비,Rain,雨,雨,雨
+Buff/B_Mizuki_7_Description,Text,,,,,,
+Buff/B_Mizuki_7_Name,Text,,절망,Despair,絶望,绝望,絕望
+Buff/B_Mizuki_8_0_Description,Text,,회복 게이지 감소 불가,Healing Gauge cannot be reduced.,,,
+Buff/B_Mizuki_8_0_Name,Text,,<color=#D1180B>IX The Hermit</color>,<color=#D1180B>IX The Hermit</color>,<color=#D1180B>IX The Hermit</color>,<color=#D1180B>IX The Hermit</color>,<color=#D1180B>IX The Hermit</color>
+Buff/B_Mizuki_8_1_Description,Text,,"........
+
+<i>미즈키는 ? 상태에서 추가 치유력을 획득한다.</i>","...
+
+<i>Mizuki gains additional Healing Power while in ? state.</i>","........
+
+<i>瑞希は？状態で追加の治癒力を獲得する。 </i> </color>","......
+
+<i>瑞希在？狀态时会增加治疗力。</i></color>","......
+
+<i>瑞希在？狀態時會增加治療力。</i></color>"
+Buff/B_Mizuki_8_1_Name,Text,,의심,Doubt,疑い,怀疑,懷疑
+Buff/B_Mizuki_8_2_Description,Text,,,,,,
+Buff/B_Mizuki_8_2_Name,Text,,ㅁㅁ,Ahh... Ahh...,aa,啊啊,啊啊
+Buff/B_Mizuki_P1_Name,Text,,?,?,?,？,？
+Buff/B_Mizuki_P2_Description,Text,,,,,,
+Buff/B_Mizuki_P2_Name,Text,,붕괴,Collapse,崩壊,分解,分解
+Buff/B_Mizuki_P_Description,Text,,..............,...,..............,..............,..............
+Buff/B_Mizuki_P_Name,Text,,비밀,Secret,秘密,秘密,秘密
+Buff/B_Mizuki_R0_0_Description,Text,,뭐야 그 눈... 역시나 그 눈.....,"What's with that look... As expected, that look...",なにその目 やっぱその目,"那个眼神是怎样？那种眼神，果然……
+なにその目 やっぱその目","那個眼神是怎樣？那種眼神，果然……
+なにその目 やっぱその目"
+Buff/B_Mizuki_R0_0_Name,Text,,<color=#4F0F10>눈</color>,<color=#4F0F10>Gaze</color>,<color=#4F0F10>目</color>,<color=#4F0F10>眼神</color>,<color=#4F0F10>眼神</color>
+Buff/B_Mizuki_R0_1_Description,Text,,뭐야 그 눈... 역시나 그 눈.....,"What's with that look... As expected, that look...",なにその目 やっぱその目,"那个眼神是怎样？那种眼神，果然……
+なにその目 やっぱその目","那個眼神是怎樣？那種眼神，果然……
+なにその目 やっぱその目"
+Buff/B_Mizuki_R0_1_Name,Text,,<color=#4F0F10>눈</color>,<color=#4F0F10>Gaze</color>,<color=#4F0F10>目</color>,<color=#4F0F10>眼神</color>,<color=#4F0F10>眼神</color>
+Buff/B_Mizuki_R0_2_Description,Text,,<color=#ff8e99>나를 건드리지 마세요</color>,<color=#ff8e99>Don't touch me...</color>,<color=#ff8e99>私に触れないで</color>,<color=#ff8e99>不要碰我……</color>,<color=#ff8e99>不要碰我……</color>
+Buff/B_Mizuki_R0_2_Name,Text,,<color=#e0115f>둔갑의 꽃</color>,<color=#e0115f>Monstrous Bloom</color>,<color=#e0115f>化けの花</color>,<color=#e0115f>怪物之花 化けの花</color>,<color=#e0115f>怪物之花 化けの花</color>
+Buff/B_Mizuki_R1_Name,Text,,<color=#CCAA88>잃어버리고 만 것</color>,<color=#CCAA88>That Which Was Lost</color>,<color=#CCAA88>失われてしまったもの</color>,<color=#CCAA88>已經失去的東西</color>,<color=#CCAA88>已經失去的東西</color>
+Buff/B_Mizuki_R2_0_Description,Text,,"<color=#D1180B><b>구원</b></color>
+여기에 있어준다면, 떨어지지 않고 있을 수 있다면
+
+<i>공격 대상이 유다로 고정된다.</i>","<color=#D1180B><b>Salvation</b></color>
+Attack target is fixed to Judas.
+
+<i>If you stay here with me... If you never let go...</i>","<color=#D1180B><b>救い</b></color>
+ここに居てくれるなら　離さずいられたら
+
+<i>攻撃対象がユダに固定される。</i></color>","优先成为""女巫之槌""的攻击目标。
+<color=#D1180B><b>救赎</b></color>
+<i>如果你能待在这里的话，如果你能不离开我的话……
+ここに居てくれるなら 离さず居られたら</i></color>","優先成為「女巫之槌」的攻擊目標。
+<color=#D1180B><b>救贖</b></color>
+<i>如果你能待在這裡的話，如果你能不離開我的話……
+ここに居てくれるなら 離さず居られたら</i></color>"
+Buff/B_Mizuki_R2_0_Name,Text,,"<sub>    예수</sub>
+마녀","<sub>Jesus</sub>
+Witch","<sub>イエス</sub>
+魔女","<sub> 耶稣</sub>
+魔女","<sub> 耶稣</sub>
+魔女"
+Buff/B_Mizuki_R2_1_Description,Text,,"따르고 싶은 본심을 토해내지 못하도록 삼켜서
+
+<i>은화 30닢을 획득한다.</i>","Gain 30 Silver Coins.
+<i>Swallowed the urge to obey my true heart...</i>","従いたい心根を吐き出さぬように込めて
+
+<i>銀貨30枚を獲得する。</i></color>","立刻获得30金币。
+<i>为了不吐露出想遵从的內心深层，已經贯注全神……
+従いたい心根を吐き出さぬように込めて</i></color>","立刻獲得30金幣。
+<i>為了不吐露出想遵從的內心深層，已經貫注全神……
+従いたい心根を吐き出さぬように込めて</i></color>"
+Buff/B_Mizuki_R2_1_Name,Text,,"<sub>  배신자</sub>
+유다","<sub>Betrayer</sub>
+Judas","<sub>裏切り者</sub>
+ユダ","<sub> 叛徒</sub>
+犹大","<sub> 叛徒</sub>
+猶大"
+Buff/B_Mizuki_R2_2_Description,Text,,아직 누구도 모르는 감각으로 구원받아가,Saved by sensations unknown to all...,まだ誰も知らない感覚で救われていく,被無人知曉的感覺給拯救了,被無人知曉的感覺給拯救了
+Buff/B_Mizuki_R2_2_Name,Text,,"<sub>    죄악</sub>
+구원?","<sub>Sin</sub>
+Salvation?","<sub>罪</sub>
+救い？","<sub> 罪孽</sub>
+救赎？","<sub> 罪孽</sub>
+救贖？"
+Character/Mizuki_PassiveDes,Text,,"<color=#DDAACC>""귀여운 것이라면, 뭐든 환영이야♪""</color>
+피해를 입을 때, 미즈키의 치유력에 비례하여 무작위 아군을 치유력의 30% 만큼 연쇄 치유한다.
+
+<color=#884499>가시밭길</color>
+고통 피해를 받을 시 비밀을 1중첩 획득한다.
+비밀이 8중첩이 될 시 미즈키가 ? 상태가 된다.
+? 상태에서 미즈키는 여러 추가 효과를 얻는다.","<color=#DDAACC>""If it's cute, anything is welcome♪""</color>
+When taking damage, chain heal random ally for 30% of Mizuki's Healing Power.
+
+<color=#884499>Path of Thorns</color>
+Gain 1 stack of Secret when receiving Pain damage.
+Enter ? state at 8 stacks of Secret. ? state grants increased Healing Power and unique effects.
+
+<color=#919191>- This passive activates from Lv1.</color>","ダメージを受ける時、瑞希の治癒力に比例してランダム味方を治癒力の30％だけ連鎖治癒する。
+
+苦痛被害を受ける時秘密を1重複獲得する。
+秘密が8重なりになると瑞希は？状態になる。
+？状態で瑞希はいくつかの追加効果を得る。","<color=#DDAACC>""我喜欢可爱的东西喔♪""</color>
+受到非痛苦伤害时，对随机队员连锁治疗（瑞希治疗力的30%）。
+在""？""状态下，受到痛苦伤害时也会连锁治疗。
+
+<color=#884499>荆棘之路</color>
+受到痛苦伤害时，获得 1 层""秘密""；""秘密""达到 8 层时，转换为""？""状态。
+""？""状态的瑞希获得效果：治疗力增加 1 点；手中自己的技能都会被丢弃，并生成""........""。
+
+<color=#919191>- 此被动从1级开始生效。 </color>","<color=#DDAACC>「我喜歡可愛的東西喔♪」</color>
+受到非痛苦傷害時，對隨機隊員連鎖治療（瑞希治療力的30%）。
+在「？」狀態下，受到痛苦傷害時也會連鎖治療。
+
+<color=#884499>荊棘之路</color>
+受到痛苦傷害時，獲得 1 層「秘密」；「秘密」達到 8 層時，轉換為「？」狀態。
+「？」狀態的瑞希獲得效果：治療力增加 1 點；手中自己的普通技能都會被丟棄，並生成「........」。
+
+<color=#919191>- 此被動從1級開始生效。 </color>"
+Character/Mizuki_PassiveName,Text,,<b>Amia</b>,<b>Amia</b>,<b>Amia</b>,<b>Amia</b>,<b>Amia</b>
+Character/Mizuki_SelectInfo,Text,,"25시, 나이트 코드에서. MV 제작 담당
+'25시, 나이트 코드에서.'의 동영상 담당. 
+점점 어머니와 관계가 악화되는 마휴유를 걱정하면서도, 미즈키 자신 또한 자신의 비밀과 마주하지 못하는 상황에 무력감을 느끼고 있었다. 
+하지만 그 경험을 통해 도망침으로써 얻는 것도 있다는 사실을 깨닫고, 마후유에게 '도망쳐도 된다.'라고 조언한다.
+
+미즈키는 낮은 계수를 가졌지만, 여러 버프와 스킬효과를 이용하여 아군을 지원한다.","While worried about Mafuyu's worsening family relations, Mizuki also struggles with their own hidden secrets.
+Through these experiences, they learn the value of escapism and advise Mafuyu: ""It's okay to run away.""
+
+Mizuki supports allies through buffs and skill effects despite low damage multipliers.","「25時、ナイトコードで。MV制作担当
+「25時、ナイトコードで。」の動画担当。
+どんどん母親との関係が悪化するまふゆを心配しながらも、瑞希自身も自分の秘密に直面できない状況に無力感を感じていた。
+しかし、その経験を通して逃げることによって得ることもあるという事実を悟り、まふゆに「逃げてもよい」と助言する。
+
+瑞希は低い係数を持っていたが、いくつかのバフとスキル効果を利用して味方を支援する。
+","在""25时， Nightcord见""负责视频制作。
+虽然很担心和妈妈关系越来越恶化的真冬，但瑞希也因无法面对自己的秘密而感到无力。
+但藉由这个经历，她意识到了因逃避而获得的收获，于是告诉真冬""逃避也没关系""。
+
+虽然瑞希的技能倍率较低，但他会使用各种增益和技能效果进行辅助。","在「25時， Nightcord見」負責影片製作。
+雖然很擔心和媽媽關係越來越惡化的真冬，但瑞希也因無法面對自己的秘密而感到無力。
+但藉由這個經歷，她意識到了因逃避而獲得的收穫，於是告訴真冬「逃避也沒關係」。
+
+雖然瑞希的技能倍率較低，但他會使用各種增益和技能效果進行輔助。"
+Character/Mizuki_name,Text,,아키야마 미즈키,Akiyama Mizuki,暁山 瑞希,晓山 瑞希,曉山 瑞希
+Skill/S_Mizuki_0_Description,Text,,"<color=#DDAACC>""나는, 있는 그대로의 나여도 괜찮을지도 모른다는 생각이 들었어.""</color>","<color=#DDAACC>""I thought... maybe it's okay to stay true to myself.""</color>","<color=#DDAACC>""私は、そのままの私でも大丈夫かもしれないと思った。""</color>","<color=#DDAACC>""我觉得，维持现状，就做我自己，也是可以的吧。""</color>",<color=#DDAACC>「我覺得，維持現狀，就做我自己，也是可以的吧。」</color>
+Skill/S_Mizuki_0_Name,Text,,"25시, 나이트 코드에서.","25:00, Nightcord.",25時、ナイトコードで。,25时， Nightcord见,25時， Nightcord見
+Skill/S_Mizuki_1_Description,Text,,"이게 린에게 어울릴 것 같았어♪
+
+<i>대상에게 &a(치유력의 70%)의 고통 피해를 입히고 이번 턴 동안 무적과 치유불가를 부여한다.</i>","Inflict &a Pain damage <color=#FF7A33>(70% of Healing Power)</color> to target and grant Invincibility/Healing Gauge Protection this turn.
+
+<i>This seemed perfect for Rin♪</i>","これ、リンに合うと思ったんだ♪
+
+<i>対象に＆a（治癒力の70％）の苦痛被害を与え、今回のターン中に無敵と治癒不可を付与する。</color></i>","對目标造成&a点痛苦伤害<color=#FF7A33>(治疗力的70%)</color>。
+
+<i>我觉得这很适合铃♪</color></i>","對目標造成&a點痛苦傷害<color=#FF7A33>(治療力的70%)</color>。
+
+<i>我覺得這很適合鈴♪</color></i>"
+Skill/S_Mizuki_1_Name,Text,,한때의 안식,Momentary Respite,ひとときの安息,片刻的安宁,片刻的安寧
+Skill/S_Mizuki_2_Description,Text,,"……좋아해도, 괜찮을까.",<i>...Is it okay to keep loving this?</i>,……好きでいても、いいのかな,<i>……只要我喜欢，就可以了吗？</color></i>,<i>……只要我喜歡，就可以了嗎？</color></i>
+Skill/S_Mizuki_2_Name,Text,,다정함에 격려를 받아,Encouraged by Kindness,優しさに励まされて,被温柔所鼓励,被溫柔所鼓勵
+Skill/S_Mizuki_3_Description,Text,,"마후유, 메시지 봤으려나.
+
+<i>대상의 스킬을 우선적으로 1장 드로우한다.</i>","Priority draw 1 skill from target.
+
+<i>Mafuyu, did you see my message?</i>","まふゆ、メッセージ見てくれたかな
+
+<i>対象のスキルを優先的に1枚ドローする。</color></i>","抽取 1 个技能（优先抽取目标的）。
+
+<i>真冬，你看到讯息了吗？</color></i>","抽取 1 個技能（優先抽取目標的）。
+
+<i>真冬，妳看到訊息了嗎？</color></i>"
+Skill/S_Mizuki_3_Name,Text,,직접 전하고 싶어서,Wanting to Tell You Directly,直接伝えたくて,我想亲自傳达給你,我想親自傳達給妳
+Skill/S_Mizuki_4_Description,Text,,"에나 동생, 먼저 갈게~♪","<i>Ena's brother, I'm heading out first~♪</i>",弟くん、おっ先～♪,<i>绘名弟，我先走了～♪</i></color>,<i>繪名弟，我先走了～♪</i></color>
+Skill/S_Mizuki_4_Name,Text,,먼저 갈게!,I'll go first!,お先に失礼,我先走了！,我先走了！
+Skill/S_Mizuki_5_Description,Text,,"그래도…… 난……
+
+<i>자신은 &a(치유력의 20%)의 고통 피해를 받고 3턴동안 체력이 1 이하로 감소할시 자신을 &b(치유력의 80%) 연쇄 치유한다.</i>","Take &a Pain damage <color=#FF7A33>(20% of Healing Power)</color>. If HP drops ≤1 within 3 turns, chain heal self for &b <color=#FF7A33>(80% of Healing Power)</color>.
+<i>Even so... I...</i>","でも……ボクは……
+
+<i>自分は＆a（治癒力の20％）の苦痛被害を受けて3ターンの間、体力が1以下に減少したときに自分を＆b（治癒力の80％）連鎖治癒する。</i ></color>","对自身造成&a点痛苦伤害<color=#FF7A33>(治疗力的20%)</color>。
+<i>但是……我……</i></color>","對自身造成&a點痛苦傷害<color=#FF7A33>(治療力的20%)</color>。
+<i>但是……我……</i></color>"
+Skill/S_Mizuki_5_Name,Text,,용기를 준 것,The One Who Gave Courage,勇気をくれたもの,给我勇气的人,給我勇氣的人
+Skill/S_Mizuki_6_Description,Text,,"나는 비, 세상을 번지게 하는
+
+<i>비를 내리게 한다.
+아군은 턴 당 1 초과 회복을 받고, 적과 미즈키는 턴 당 &a(치유력의 10%)의 고통 피해를 입는다.</i>","Allies gain 1 Overheal per turn. Enemies and Mizuki take &a Pain damage <color=#FF7A33>(10% of Healing Power)</color> per turn.
+
+<i>I am the rain, blurring the world's edges</i>","私は雨　セカイを暈す
+
+<i>雨を降らせる。
+味方はターン当たり1超過回復を受け、敵と瑞希はターン当たり＆a（治癒力の10％）の苦痛被害を受ける。</color></i>","自身以外的我方队員获得增益""每回合超额恢復 1 点体力值""，持續 3 回合。
+自身和所有敌人获得""每回合 &a 点伤害<color=#FF7A33>(治疗力的10%)</color>""，持續 3 回合。
+
+<i>我是雨，洒遍世界的雨。</color></i>","自身以外的我方隊員獲得增益「每回合超額恢復 1 點體力值」，持續 3 回合。
+自身和所有敵人獲得「每回合 &a 點傷害<color=#FF7A33>(治療力的10%)</color>」，持續 3 回合。
+
+<i>我是雨，灑遍世界的雨。</color></i>"
+Skill/S_Mizuki_6_Name,Text,,나는 비,I Am the Rain,私は雨,我才能说的话,我才能說的話
+Skill/S_Mizuki_7_Description,Text,,"희망이라. 그랬으면 좋겠다……
+
+<i>자신에게 &a(치유력의 20%)의 고통 피해를 가하고, 비밀을 1중첩 획득한다.
+미즈키의 패시브를 3회 활성화 한다.</i>","Inflict &a Pain damage <color=#FF7A33>(20% of Healing Power)</color> to self. Gain 1 Secret. Activate Mizuki's passive 3 times.
+<i>If this is hope... I wish it were true...</i>","希望、か。そうだったら、いいな……
+
+<i>自分に＆a（治癒力の20％）の苦痛被害を加え、秘密を1重複獲得する。
+瑞希のパッシブを3回活性化する。 </color></i>","對自身造成&a点痛苦伤害<color=#FF7A33>(治疗力的30%)</color>。
+瑞希使用时，该伤害使""Amia""的连锁治疗额外生效 2 次。
+<i>我希望如此……</color></i>","對自身造成&a點痛苦傷害<color=#FF7A33>(治療力的30%)</color>。
+瑞希使用時，該傷害使「Amia」的連鎖治療額外生效 2 次。
+<i>我希望如此……</color></i>"
+Skill/S_Mizuki_7_Name,Text,,생각과 현실의 경계에서,Between Dreams and Reality,想いと現実の狭間で,在心愿与现实的缝隙,在心願與現實的縫隙
+Skill/S_Mizuki_8_Description,Text,,"이걸로 잘 해 왔는데……
+
+<i>이 스킬은 &a(치유력의 50%)의 추가 피해를 준다.
+자신에게 &b(치유력의 35%)의 고통 피해를 가하고, 비밀을 &c(미즈키를 제외한 생존한 아군 수)중첩 획득한다.
+모든 생존한 아군은 의심을 얻는다.</i>","Deal &a bonus damage <color=#FF7A33>(50% of Healing Power)</color>.
+Take &b Pain damage <color=#FF7A33>(35% of Healing Power)</color>.
+Gain &c stacks of Secret <color=#FF7A33>(equal to surviving allies excluding Mizuki)</color>.
+All allies gain Doubt.
+
+<i>I've managed well until now...</i>","これでうまくやれてきたのにな……
+
+<i>このスキルは、&a(治癒力の50%)の追加ダメージを与える。
+自分に＆b（治癒力の35％）の苦痛被害を加え、秘密を＆c（生存した味方数）重複獲得する。
+すべての生き残った味方は疑いを得る。</color></i>","造成 &a 点额外伤害<color=#FF7A33>(治疗力的50%)</color>。
+對自身造成&b点痛苦伤害<color=#FF7A33>(治疗力的35%)</color>。
+获得&c层""秘密""（自身以外的存活队員數）。
+自身以外的存活队員都获得""怀疑""。
+
+<i>我在这方面一直做得很好……</color></i>","造成 &a 點額外傷害<color=#FF7A33>(治療力的50%)</color>。
+對自身造成&b點痛苦傷害<color=#FF7A33>(治療力的35%)</color>。
+獲得（自身以外的存活隊員數）層「秘密」。
+自身以外的存活隊員都獲得「懷疑」。
+
+<i>我在這方面一直做得很好……</color></i>"
+Skill/S_Mizuki_8_Name,Text,,허밋 리버스,Hermit Reverse,ハーミット・リバース,Hermit、Reverse,Hermit、Reverse
+Skill/S_Mizuki_9_Description,Text,,"어째서 이렇게 쓸쓸한 거지……
+
+<i>자신에게 &a(치유력의 30%)의 고통 피해를 가하고, 비밀을 2중첩 획득한다.
+미즈키의 잃은 체력(30%이하에서 최대)에 비례하여 자신을 연쇄 치유&b하고, 적에게 치유력에 기반한 피해를 입힌다.</i>","Take &a Pain damage <color=#FF7A33>(30% of Healing Power)</color>. Gain 2 Secret.
+Chain heal &b based on lost HP (max at ≤30%). Deal equivalent damage to enemies.
+
+<i>Why does this loneliness cut so deep...</i>","どうして、こんなに寂しいんだろう……
+
+<i>自分に&a(治癒力の30%)の苦痛被害を加え、秘密を2重複獲得する。
+瑞希の失われた体力（30％以下で最大）に比例して自分を&b連鎖治癒し、敵に治癒力に基づくダメージを与える。</i></color>","對自身造成&a点痛苦伤害<color=#FF7A33>(治疗力的30%)</color>，获得2层""秘密""。
+對自身连锁治疗&b点体力值，並造成&b点伤害。
+（基础值为<color=#FF7A33>(治疗力的100%)</color>；当前体力值越低，效果越低，但在33%以下或100%时达到最大）
+
+<i>为什么我如此孤独……</i></color>","對自身造成&a點痛苦傷害<color=#FF7A33>(治療力的30%)</color>，獲得 2 層「秘密」。
+對自身連鎖治療&b點體力值，並造成&b點傷害。
+（基礎值為<color=#FF7A33>(治療力的100%)</color>；當前體力值越低，效果越低，但在33%以下或100%時達到最大）
+
+<i>為什麼我如此孤獨……</i></color>"
+Skill/S_Mizuki_9_Name,Text,,솔리투스 유토피아,Solitary Utopia,ソリトゥスユートピア,孤独的乌托邦,孤獨的烏托邦
+Skill/S_Mizuki_D_Description,Text,,"……응, 엄청 즐거웠어.
+
+<i>대상 아군의 스킬을 우선적으로 2장 드로우한다.</i>","Priority draw 2 skills from target ally.
+<i>...Yeah, it was really fun.</i>","……うん。楽しかったよ、すごくね
+
+<i>対象味方のスキルを優先的に2枚ドローする。</i></color>","抽取 2 个技能（优先抽取目标的）。
+<i>……是啊，非常开心。</i></color>","抽取 2 個技能（優先抽取目標的）。
+<i>……是啊，非常開心。</i></color>"
+Skill/S_Mizuki_D_Name,Text,,Happy Birthday!!,Happy Birthday!!,Happy Birthday!!,Happy Birthday!,Happy Birthday!
+Skill/S_Mizuki_P_Description,Text,,"…………아……아…………
+
+<color=#a0a0a0><i>&a(치유력의 80%)의 추가피해를 준다.
+사용 시 자신과 대상에게 &b(치유력의 20%) 고통피해를 입히는 디버프를 부여하고 카드를 1장 드로우한다.</i></color>","<color=#a0a0a0>Deal &a bonus damage <color=#FF7A33>(80% of Healing Power)</color>.
+Inflict &b Pain damage <color=#FF7A33>(20% of Healing Power)</color> debuff to self/target. Draw 1 card.</color>
+<i>... Ah... Ah...</i>","…………あ……あ…………
+
+<i>&a(治癒力の80%)の追加ダメージを与える。
+使用時に自分と対象に＆b（治癒力の20％）の痛み被害を与えるデバフを与え、カードを1枚ドローする。</i></color>","造成&a点额外伤害<color=#FF7A33>(治疗力的80%)</color>。
+抽取 1 个技能。
+<i>…… …… …… ……啊… ……啊… …… …… ……</i></color>","造成&a點額外傷害<color=#FF7A33>(治療力的80%)</color>。
+抽取 1 個技能。
+<i>…… …… …… ……啊… ……啊… …… …… ……</i></color>"
+Skill/S_Mizuki_P_Name,Text,,........,...,........,........,........
+Skill/S_Mizuki_R0_Description,Text,,"그건 마치 피어나버린 둔갑의 꽃
+
+<i>이 스킬은 &a(치유력의 40%)의 추가 피해를 준다.
+아군을 모두 &b(치유력의 60%)만큼 연쇄 치유한다.
+모든 생존한 아군은 받는 회복량이 30% 증가한다.</i>","Deal &a bonus damage <color=#FF7A33>(40% of Healing Power)</color>.
+Chain heal all allies for &b <color=#FF7A33>(60% of Healing Power)</color>.
+All allies gain +30% healing received for 6 turns.
+<i>A blossoming monstrous flower</i>","まるで咲いてしまった 化けの花
+
+<i>このスキルは、&a(治癒力の40%)の追加ダメージを与える。
+味方をすべて＆b（治癒力の60％）だけ連鎖治癒する。
+すべての生き残った味方は、受ける回復量が30％増加する。</color></i>","造成&a点额外伤害<color=#FF7A33>(治疗力的40%)</color>。
+對每位队員都连锁治疗&b点体力值<color=#FF7A33>(治疗力的60%)</color>。
+赋予自身以外的所有队員""受到治疗量增加30%""，持續 6 回合。
+<i>宛如一朵盛放的怪物之花</color></i>","造成&a點額外傷害<color=#FF7A33>(治療力的40%)</color>。
+對每位隊員都連鎖治療&b點體力值<color=#FF7A33>(治療力的60%)</color>。
+賦予自身以外的所有隊員「受到治療量增加30%」，持續 6 回合。
+<i>宛如一朵盛放的怪物之花</color></i>"
+Skill/S_Mizuki_R0_Name,Text,,<color=#e0115f>둔갑의 꽃</color>,<color=#e0115f>Monstrous Bloom</color>,<color=#e0115f>化けの花</color>,<color=#e0115f>化けの花（怪物之花）</color>,<color=#e0115f>化けの花（怪物之花）</color>
+Skill/S_Mizuki_R1_Description,Text,,"…………아……아…………
+
+<i>전투 시작 시 덱의 가장 위에 놓는다.
+즉시 ? 상태에 진입 하며 ? 상태에서의 스킬 계수가 상승한다.</i>","Placed atop deck at battle start.
+Immediately enter ? state with enhanced skill coefficients.
+
+<i>... Ah... Ah...</i>","…………あ……あ…………
+
+<i>戦闘開始時にデッキの一番上に置く。
+すぐに？状態に入りますか？状態でのスキル係数が上昇する。 </color></i>","学习此技能时，在""？""狀态的""Amia""治疗量变为<color=#FF7A33>(治疗力的50%)</color>。
+战斗开始时，放在牌库的最上方。
+
+进入""？""狀态。
+<i>…… …… …… ……啊… ……啊… …… …… ……</color></i>","學習此技能時，在「？」狀態的「Amia」治療量變為<color=#FF7A33>(治療力的50%)</color>。
+戰鬥開始時，放在牌庫的最上方。
+
+進入「？」狀態。
+<i>…… …… …… ……啊… ……啊… …… …… ……</color></i>"
+Skill/S_Mizuki_R1_Name,Text,,<color=#CCAA88>잃어버리고 만 것</color>,<color=#CCAA88>That Which Was Lost</color>,<color=#CCAA88>失われてしまったもの</color>,<color=#CCAA88>已经失去的东西</color>,<color=#CCAA88>已經失去的東西</color>
+Skill/S_Mizuki_R2_1_Description,Text,,"마녀를 심판하는 망치
+
+<i>마녀를 우선적으로 공격해야 한다.
+마녀에게는 대상의 최대 체력의 40%의 고정 피해를 입힌다. (보스에게는 미즈키의 레벨 * 15 이상의 피해를 입힐 수 없다.)</i>","Must prioritize attacking Witches.
+Deals 40% of target's max HP as fixed damage to Witches (capped at Lv×15 vs bosses).
+
+<i>The Witch-Hunting Hammer</i>","魔女を裁くハンマー
+
+<i>魔女を優先的に攻撃しなければならない。
+魔女には対象の最大体力の40％の固定ダメージを与える。 （ボスにはレベル*15以上のダメージを与えることはできない。）</i></color>","""巫婆""在場时，只能指定""巫婆""为目标。
+對""巫婆""造成相当於其最大生命值 40% 的额外伤害。 （若目标为Boss，則有自身等级 x 15点的上限。）
+
+<i>拉丁文：女巫之槌。</i></color>","「巫婆」在場時，只能指定「巫婆」為目標。
+對「巫婆」造成相當於其最大生命值 40% 的額外傷害。 （若目標為Boss，則有自身等級 x 15點的上限。）
+
+<i>拉丁文：女巫之槌。</i></color>"
+Skill/S_Mizuki_R2_1_Name,Text,,말레우스 말레피카룸,Malleus Maleficarum,Malleus maleficarum,Malleus maleficarum,Malleus maleficarum
+Skill/S_Mizuki_R2_Description,Text,,"그래, 간단한 기원이었어 처음부터",<i>Yes... It began as a simple wish...</i>,そう簡単な祈りだった　端から,<i>是啊，最开始只是个簡單的願望……</i></color>,<i>是啊，最開始只是個簡單的願望……</i></color>
+Skill/S_Mizuki_R2_Name,Text,,<color=#5700ae>로워</color>,<color=#5700ae>Lower</color>,<color=#5700ae>ロウワー</color>,<color=#5700ae>ロウワー（Lower）</color>,<color=#5700ae>ロウワー（Lower）</color>
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,

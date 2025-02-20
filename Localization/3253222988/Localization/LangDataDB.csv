@@ -1,0 +1,136 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_PLANA_0_Description,Text,,,"Gain 30% of Plana's Attack and Healing Power, with an additional +15% per stack.",プラナの攻撃力と治癒力の30%を得る。 1スタックごとに+15%追加で増加する。,获得普拉娜30%的攻击力与治愈力，每多一层额外+15%。,
+Buff/B_PLANA_0_Name,Text,,,Support Calculation,演算支援,支援演算,
+Buff/B_PLANA_1_Description,Text,,,"When taking damage, reduce the damage to 1/3. If Plana is alive, instead nullify the damage and deal &a Pain damage to Plana. Removed after activation.",ダメージを受けた時、そのダメージを1/3に減少させる。プラナが生存している場合、そのダメージを免除し、プラナに&aの苦痛ダメージを与える。発動後に解除される。,受到伤害时将此次伤害减少至1/3。若普拉娜存活，则改为免除该次伤害并对普拉娜造成&a痛苦伤害，触发后解除。,
+Buff/B_PLANA_1_Name,Text,,,Defense Field,防御フィールド,防护力场,
+Buff/B_PLANA_2_Description,Text,,,"Unable to act.
+Plana is undergoing self-maintenance.","行動不能
+プラナは自己メンテナンス中","无法行动。
+普拉娜正在维护自机。",
+Buff/B_PLANA_2_Name,Text,,,Emergency Maintenance,緊急メンテナンス,紧急维护,
+Buff/B_PLANA_2_OK_Description,Text,,,"At the start of the turn, gain 1 Mana, and all other allies gain ""Support Calculation"" and ""Defense Field"".",ターン開始時に1マナを得て、他の味方全員に[演算支援]と[防御フィールド]を与える。,"回合开始时获得1点法力，其他所有友军获得""支援演算""和""防护力场""。",
+Buff/B_PLANA_2_OK_Name,Text,,,Please wait...,お待ちください...,请稍候...,
+Buff/B_PLANA_3_Description,Text,,,"At the end of the turn, heal for &a.",ターン終了時に&a回復する。,回合结束时获得&a点治疗。,
+Buff/B_PLANA_3_Name,Text,,,Rest Time,休憩時間,休憩时间,
+Buff/B_PLANA_4_Name,Text,,,Action Prediction,行動予測,行动预测,
+Buff/B_PLANA_5_Description,Text,,,"When healed, draw a card from an ally's deck and gain &a barrier. Removed after activation.",回復されたとき、スキルを1枚引いて&aのバリアを得る。発動後に除去される。,受到治疗时，优先抽取一张該友方的牌并获得&a点保护罩，触发后解除。,
+Buff/B_PLANA_5_Name,Text,,,L.O.V.E,L.O.V.E,L.O.V.E,
+Buff/B_PLANA_6_Description,Text,,,"Plana is less likely to be targeted by attacks, her Defense is increased and gains Healing Gauge Protection.",プラナは攻撃を受けにくく、防御力アップを得ている。 ,普拉娜不容易受到攻击，防御力增加。,
+Buff/B_PLANA_6_Name,Text,,,A.R.O.N.A,A.R.O.N.A,A.R.O.N.A,
+Buff/B_PLANA_7_Description,Text,,,"Whenever you use a card from your hand, deal &a Pain damage (remaining &b times this turn).",手札からスキルを使用するたび、&aの苦痛ダメージを与える(このターンの残り回数：&b )。,每当你使用手牌时，造成&a点痛苦伤害(本回合剩余&b次),
+Buff/B_PLANA_7_Name,Text,,,Trajectory Calculation,弾道計算,弹道计算,
+Buff/B_PLANA_8_Description,Text,,,Plana will copy the next card you play.,プラナは次に使用するスキルを複製する。,普拉娜会复制你下张出手的牌。,
+Buff/B_PLANA_8_Name,Text,,,Stare~,じー,盯~,
+Buff/B_PLANA_9_Description,Text,,,Plana will never abandon you.,プラナは決してあなたを見捨てない。 ,普拉娜绝不会放弃你。,
+Buff/B_PLANA_9_Name,Text,,,Gurgle Gurgle,グルグル,咕噜咕噜,
+Buff/B_PLANA_9_Shield_Description,Text,,,Plana protects you when you take damage (remaining &a times).,味方がダメージを受けたときプラナが守る（残り回数&a）,普拉娜在你受伤时保护你(剩余&a次)。,
+Buff/B_PLANA_9_Shield_Name,Text,,,Plop Plop,プルプル,噗噜噗噜,
+Buff/B_PLANA_9_resist_Description,Text,,,Plana takes damage in your place.,プラナがあなたの代わりにダメージを引き受ける。,普拉娜替你承受伤害,
+Buff/B_PLANA_9_resist_Name,Text,,,Mew Mew,ミルミル,咪噜咪噜,
+Buff/B_PLANA_Rare_0_Description,Text,,,"Whenever you use a skill with a cost of 2 or more, restore 1 Mana.",コスト2以上のスキルを使用するたびに、マナを1回復する。,每当你使用费用大于等于2的技能时，回复一点法力。,
+Buff/B_PLANA_Rare_0_Name,Text,,,Beginning of Miracles,奇跡の始まり,奇迹的起点,
+Buff/B_PLANA_Rare_1_Description,Text,,,"At the start of the turn, gain an additional 2 Mana.
+Plana will not enter ""Emergency Maintenance"" during this time.","ターンの開始時に追加で2マナ得る。
+この間、プラナは休眠しない。","回合开始时，额外获得2点法力值。 
+普拉娜在此期间内不会进入休眠。",
+Buff/B_PLANA_Rare_1_Name,Text,,,Inherited Hope,希望 の継承,继承的希望,
+Character/PLANA_CampSelectWord,Text,,,Connection confirmed.,接続確認,确认连线。,
+Character/PLANA_PassiveDes,Text,,,"At the start of battle, grant all other allies ""Support Calculation"" and ""Defense Field"" on the second turn. However, Plana will enter ""Emergency Maintenance"" every 3 turns after entering battle.
+Support Calculation: Gain 30% of Plana's Attack and Healing Power, with an additional +15% per stack.
+Defense Field: When taking damage, reduce the damage to 1/3. If Plana is alive, instead nullify the damage and deal Pain damage equal to 1/5 of Plana's max HP. Removed after activation.","戦闘開始時、他の味方全員に[演算支援]と2ターンの[防御フィールド]を与える。戦闘開始後は3ターンごとにプラナはメンテナンスのために休眠する。
+演算支援：プラナの攻撃力と治癒力の30%を得る。 1スタックごとに+15%追加で増加する。
+防御フィールド: 攻撃されると、それを防ぎ、&aのバリアを得る。発動後に除去される。","战斗开始时，使其他所有友军获得""支援演算""，并于第二回合给予""防护力场""，但进入战斗后普拉娜每3回合会停机维护1回合。 
+支援演算：获得普拉娜30%的攻击力与治愈力，后续每层+15%。 
+防护力场：受到伤害时将此次伤害减少至1/3。若普拉娜存活，则改为免除该次伤害并对普拉娜造成最大hp/5的痛苦伤害，触发后解除。",
+Character/PLANA_PassiveName,Text,,,Shittim Chest,シティングの箱,什亭之匣,
+Character/PLANA_SelectInfo,Text,,,"The operating system of the Shittim Chest, A.R.O.N.A.
+""Plana"" is the name given to her by her Sensei.","シッテムの箱のOS、A.R.O.N.A。
+「プラナ」は前任者が彼女につけた名前である。 ","什亭之匣的操作系统A.R.O.N.A。
+""普拉娜""是一位前辈替她取的名字。",
+Character/PLANA_Text_Battle_AllyND_0,Text,,,"Sensei, it's about time to wake up...",先輩、そろそろ起きないと……。 ,前辈，差不多该起来了......。,
+Character/PLANA_Text_Battle_Cri_0,Text,,,...,,......,
+Character/PLANA_Text_Battle_Healed_0,Text,,,I'll... join you...,私も……一緒に……,我也......一起......,
+Character/PLANA_Text_Battle_Idle_0,Text,,,On standby.,待機中,待机中。,
+Character/PLANA_Text_Battle_Idle_1,Text,,,Will I be useful...?,役に立つのでしょうか……？ ,能派上用场吗......?,
+Character/PLANA_Text_Battle_Kill_0,Text,,,Hmm... So that's how it's structured.,ふむ……そういう構造なんですね。 ,呼姆......是那种构造呀。,
+Character/PLANA_Text_Battle_ND_0,Text,,,Sensei...,先生 ...…,老師......,
+Character/PLANA_Text_Battle_Start_0,Text,,,Hmm... I see.,ふむ……なるほど。,唔恩......原来如此。,
+Character/PLANA_Text_Battle_Start_1,Text,,,It's time to start working.,お仕事を始める時間です。 ,到该开始工作的时间了。,
+Character/PLANA_Text_Field_GetItem_0,Text,,,So this is... how it is.,ここは……そういうことなのですね。 ,这里......是这么回事啊。,
+Character/PLANA_Text_Field_Idle_0,Text,,,...I feel someone watching.,……視線を感じます。 ,......感觉到了视线。,
+Character/PLANA_Text_Field_Idle_1,Text,,,"If it rains, use this.",雨が降ったらこれで…… ,下雨的话，就用这个。,
+Character/PLANA_Text_Field_Potion_P_0,Text,,,This is...?,これは……？ ,这是......?,
+Character/PLANA_Text_PharosLeader_0,Text,,,Puzzled. These actions are incomprehensible.,混乱。理解できない行動です。,混乱。 是无法理解的行动。,
+Character/PLANA_Text_PharosLeader_1,Text,,,,,,
+Character/PLANA_Text_PharosLeader_2,Text,,,,,,
+Character/PLANA_name,Text,,,Plana,プラナ,普拉娜,
+Item_Equip/Equip_PLANA_0_Description,Text,,,"When equipped by someone other than Plana, increase Defense by 10%.
+At the start of battle, grant the equipped ""Defense Field"", and every 3 turns, gain barrier equal to twice the turn count (max 8).
+When equipped by Plana, instead grant a party barrier (max 10) and increase the stack limit of ""Support Calculation"" by 1.
+
+<color=#919191>""A seemingly damaged tablet.""</color>","着用者がプラナでない場合、防御力10%アップ。
+戦闘開始時に装着者は[防御フィールド]を得て、以降3ターンごとにターン数の2倍（最大8）のバリア与えられる。
+プラナが装備すると、代わりに他の味方全員に[防御フィールド]を与え、バリアが防壁に変化し(最大10)、[演算支援]の上限が1スタック増加する。
+
+<color=#919191>破損しているように見える板。</color>","装备者不为普拉娜时增加10%防御力。
+战斗开始时，使装备者获得""防护力场""，之后每3回合，获得回合数两倍的保护罩(最大为8)。 
+普拉娜装备时，改为给予其他所有友方，获得保护罩改为获得防护墙(最大为10)，并增加1层""支援演算""叠加上限。 
+
+<color=#919191>“一个似乎已经损坏的平板。",
+Item_Equip/Equip_PLANA_0_name,Text,,,Shittim Chest,シッテムの箱,什亭之匣,
+Skill/S_PLANA_0_Description,Text,,,"If the top card of the discard pile is not Plana's skill, create a copy of that skill. Otherwise, create a random Plana-exclusive skill with Exclude and ""Discard after 2 turns"".",捨て札の一番上のスキルが自分のスキルでない場合は、そのスキルのコピーを生成する。そうでない場合は、除外と2ターン後に捨てるを持つランダムなプラナ専用スキルを生成する。,若弃牌库顶卡片不为自己的技能，生成该技能的复制，否則则生成随机一个普拉娜的专属技能，并附带放逐、两回合后弃牌。,
+Skill/S_PLANA_0_Name,Text,,,Shadow of the Past,過去の影,往日虚影,
+Skill/S_PLANA_1_Description,Text,,,"Generate a &a party barrier, and Plana will copy the next card played by the target and add it to your hand.",&aの防壁を生成し、プラナは対象が次に使用するスキルを複製して手札に加える。,生成&a点防护墙，普拉娜会复制目标下一张出手的牌放到手中。,
+Skill/S_PLANA_1_Name,Text,,,Reflection of the Heart,イメージの投影,心象倒影,
+Skill/S_PLANA_2_Description,Text,,,"If the target's current HP is less than 75% of the total HP of all surviving allies, deal damage equal to &a of that total, and all other surviving allies share half of that damage.
+Otherwise, deal half damage and chain heal for half the damage dealt.","対象の現在の体力が生存している味方の総体力の75%未満の場合、その合計&aのダメージを与え、生存している味方全員がこのダメージの半分を受ける。
+それ以外の場合、ダメージは半分になり、ダメージの半分値で連鎖治癒する。","若目标当前血量小于其他存活友方HP总和的75%，给予此总和&a的伤害，所有其他存活友方平摊此值一半的伤害。
+否则改为一半伤害并连锁治疗等同本次伤害数值一半的HP",
+Skill/S_PLANA_2_Name,Text,,,Roche Limit,ロシュ限界,洛希极限,
+Skill/S_PLANA_3_Description,Text,,,"Lock onto the target, increasing damage taken by &a% and reducing Attack and Defense.
+The debuff value scales with Healing Power.","攻撃対象をロックし、受けるダメージを&a%増加し、攻撃力と防御力を減少する。
+デバフ量は治癒力に比例して増加する。","锁定攻击目标，使其受到伤害增加&a%和攻防降低
+减益值根据治疗力比例增加。",
+Skill/S_PLANA_3_Name,Text,,,Target Acquired,戦術ロック,战术锁定,
+Skill/S_PLANA_4_Description,Text,,,"Remove 1 random debuff from the target and grant them ""L.O.V.E"" and ""Rest Time"".",対象のランダムなデバフを1つ除去し、対象に[L.O.V.E]と[休憩時間]を与える。,"解除目标的随机1个减益，给予目标""L.O.V.E""和""休憩时间""",
+Skill/S_PLANA_4_Name,Text,,,Secret of Two,二人の秘密,两人的秘密,
+Skill/S_PLANA_5_Description,Text,,,"During the skill's countdown, generate a &a party barrier for each card played (max 10 times).
+This card deals additional damage based on Healing Power.
+The extra damage dealt to the target is reduced by the total party barrier, and if the reduction is more than half, grant the target ""Trajectory Calculation"".","カウントダウン中、使用したスキル1枚につき&aの防壁を生成する（最大10回）。
+このスキルは治癒力に応じて&bの追加ダメージを与える。
+対象に与える追加ダメージは、防壁の合計値で減少し、減少量が半分以上の場合は対象に[弾道計算]が与えられる。 ","技能倒数期间，每使用一张牌就产生&a点防护墙(最多10次)。 
+此牌会基于治愈力额外造成&b的伤害。
+对目标造成的额外伤害将扣除我方防护墙总和，若扣除值高于一半，则给予目标""弹道计算""。",
+Skill/S_PLANA_5_Name,Text,,,Antinomy,二律背反,二律背反,
+Skill/S_PLANA_6_Description,Text,,,"Shuffle all cards from your hand into the deck, then draw an equal number of cards and heal HP based on the number drawn.",手札をすべてデッキに戻してシャッフルした後、同じ枚数の引き、引いた枚数に応じて追加で体力を回復する。,将所有手牌洗回牌堆后，抽取等量的牌，根据抽取数量追加治疗HP。,
+Skill/S_PLANA_6_Name,Text,,,Unchanging Things,普遍的物事,不变的事物,
+Skill/S_PLANA_7_Description,Text,,,"Draw a card and restore Mana equal to its cost. Clear all allies' Overload. Heal all allies for ""Number of cards played this turn &a"" * a percentage of Plana's Healing Power.",スキルを1枚引き、そのスキルのコストに等しいマナを回復する。他の味方のオーバーロードをすべて取り除く。すべての味方を、「このターンに使用したスキルの枚数&a」*プラナの治癒力の一定割合で回復する。 ,"抽一张牌，并回复等同该卡的费用。 清除所有友方的过载。 追加治疗所有友方等同""你本回合使用卡片的数量&a""*普拉娜一定比例治愈力",
+Skill/S_PLANA_7_Name,Text,,,"""Future""",未来,"""未来""",
+Skill/S_PLANA_8_Description,Text,,,"During the countdown, all allies are immune to damage. At the end of the countdown, Plana takes Pain damage equal to half the total damage taken during this period and removes 1 random debuff.
+This damage cannot cause death.","カウントダウン中、すべての味方はダメージを受けない。カウントダウンが終了すると、プラナはこの間に受けたダメージの合計の半分の苦痛ダメージを受け、ランダムなデバフが1つ除去される。
+このダメージでは戦闘不能にならない。","倒计时期间所有友方不会受到伤害，倒数结束时使普拉娜受到此期间内所受伤害总和一半的痛苦伤害，并移除一个随机减益。
+此伤害不会导致死亡。",
+Skill/S_PLANA_8_Name,Text,,,End of Responsibility,責任の終焉 ,责任的最后,
+Skill/S_PLANA_Rare_0_Description,Text,,,"Cast all cards in your hand except Lucy skills, and add a copy of that skill to your hand.
+Whenever you use a card with a cost of 2 or more, reduce this card's cost by 1.","手札からルシースキル以外のスキルを発動し、発動後にそのスキルの複製を手札に加える。
+このスキルは手札から2コスト以上のスキルを使うたびにコストが1減少する。","施放你手中露西技能以外的所有手牌，并在施放后放置一个该技能的复制到你的手中。 
+每当使用费用大于2的手牌时此卡减少1费。",
+Skill/S_PLANA_Rare_0_Name,Text,,,Proxy of Will,意思の代行,意志代行,
+Skill/S_PLANA_Rare_1_Description,Text,,,"Cost is reduced based on the number of cards in your hand.
+Restore all Mana. Each time you use a skill with a cost of 2 or more this turn, restore 1 Mana, and for the next 2 turns, gain an additional 2 Mana at the start.
+Grant all other allies ""Defense Field"" and max out the stacks of ""Support Calculation"".","コストは手札のスキルの枚数1枚ごとに-1される。
+すべてのマナを回復する。 コスト2以上のスキルを使用するたびに、マナを1回復し、次の2ターンの間は開始時に追加で2マナ得る。
+他の味方全員に[防御フィールド]を与え、[演算支援]のスタックを最大にする。","费用依据你的手牌数量减少。 
+恢复所有法力值。本回合内每次使用费用大于2的技能时回复一点法力，之后2回合额外获得2点法力。 
+给予其他所有友方""防护力场""，并将""支援演算""层数提升至满层。",
+Skill/S_PLANA_Rare_1_Name,Text,,,Where All Miracles Begin,あまねく奇跡の始発点,所有奇迹的起点,
+Skill/S_PLANA_lucy0_Description,Text,,,"Draw 1 skill. Grant the target ""Stare~"" and ""Defense Field"".",スキルを1枚引く。 対象に[見つめる]と[防御フィールド]を与える。,"抽取1个技能。 给予指定目标""盯~""和""防护力场""。",
+Skill/S_PLANA_lucy0_Name,Text,,,Day of Memories,ある日の思い出,回憶之日,
+SkillExtended/SkillEn_PLANA_0_Des, Text,,,,,,
+SkillExtended/SkillEn_PLANA_0_EnforceString, Text,,,Non-consumable skills with a cost of 2 or more,2コスト以上の単発を持たないないスキル,2费以上的非一次性技能,
+SkillExtended/SkillEn_PLANA_0_Name, Text,,,"After playing, generate a copy of this skill in your hand with Exclude and ""Discard after 2 turns"".",使用後、除外と2ターン後に捨てられるを持つこのスキルのコピーが手札に生成される。,出手后生成一个该技能的复制到手中，附带放逐、两回合后弃牌。,
+SkillExtended/SkillEn_PLANA_1_Des, Text,,,,,,
+SkillExtended/SkillEn_PLANA_1_EnforceString, Text,,,Non-consumable attack skills with a cost of 1 or more,1コスト以上の単発を持たない攻撃スキル,1费以上的非一次性伤害技能,
+SkillExtended/SkillEn_PLANA_1_Name, Text,,,Becomes consumable and can be played once more after use.,単発を得て、使用後に1度だけ再発動するようになる。,変为一次性，出手后再次释放1次。,
+,,,,,,,
+,,,,,,,

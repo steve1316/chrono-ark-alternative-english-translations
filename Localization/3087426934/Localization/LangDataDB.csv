@@ -1,0 +1,205 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_szk_11_Description,Text,,<color=#919191>알코올 무첨가</color>,<color=#919191>Non-alcoholic</color>,<color=#919191>ノンアルコール</color,<color=#919191>并非含酒精</color>,<color=#919191>并非含酒精</color>
+Buff/B_szk_11_Name,Text,,스자쿠 하이퍼 맥~~~~~~주!,<color=#00FA9A>Suzaku Hyper Drrrrrryyy!</color>,SuzakuHyperDrrrrrryyy!,Suzaku Hyper Drrrrrryyy!,Suzaku Hyper Drrrrrryyy!
+Buff/B_szk_1_Description,Text,,"공격을 받을 때, 즉시 '신속참격'을 한 번 시전합니다. 
+발동될 때마다 1중첩 감소합니다.","When attacked, immediately unleash <color=#5F9EA0>Swift Slash</color> once.
+Reduces 1 stack upon activation.",攻撃を受けると、すぐに「神速斬撃」を放つ。トリガ時にレイヤーを1つ減らします。,"受到攻击时,立即释放一次“神速斩击”。
+触发时减少1层。","受到攻击时,立即释放一次“神速斩击”。
+触发时减少1层。"
+Buff/B_szk_1_Name,Text,,신안극수,"Divine Eye, Ultimate Hand",神眼の持ち主,神眼极手,神眼极手
+Buff/B_szk_2_Description,Text,,,,,,
+Buff/B_szk_2_Name,Text,,간파,<color=#DC143C>Insight</color>,見破る,识破,识破
+Buff/B_szk_9_Description,Text,,,,,,
+Buff/B_szk_9_Name,Text,,영시,Spirit Vision,霊視,灵视,灵视
+Character/Suzakuin Momiji_CampSelectWord,Text,,,"Are you taking me along? Ah, I was thinking of resting though...",,要带上我吗，啊我想休息来着的诶。,
+Character/Suzakuin Momiji_PassiveDes,Text,,"전투 시작 시와 적을 처치시에 '신안극수' 1중첩을 얻습니다, 턴 시작 시 무작위 적에게 '간파' 디버프를 부여합니다. (간파 : 회피율 -5% / 받는 치명타 확률 +5% 최대 5중첩)
+
+<color=#919191>뇌 회로를 초고속 사전 판독 프레임워크로 전환하고 수집된 정보를 기반으로 상대방의 행동을 초정밀하게 예측하여 상대방을 완전히 파악합니다. 
+적들은 신안극수에서 벗어날 수 없습니다.</color>""","At the start of battle, gain 1 stack of <color=#6A5ACD>Divine Eye, Ultimate Hand</color>. Gain 1 stack when defeating an enemy.
+At the start of the turn, apply <color=#DC143C>Insight</color> debuff to a random enemy.
+
+<color=#919191>Switches brain circuits to a high-speed prediction framework, using collected data to precisely predict the opponent's actions, completely seeing through them. It's nearly impossible for a normal person to escape <color=#6A5ACD>Divine Eye, Ultimate Hand</color>.</color>",時に1層の神眼極手ゲインを獲得する。ターン開始時にランダムな敵に対して見破る減益を与える。<color=#919191>脳回路を超高速の先読みフレームに切り替え、収集した情報に基づいて相手を超精密な行動予測を行い、相手を完全,"战斗开始时获得1层神眼极手增益；击杀敌人时获得1层神眼极手增益。
+回合开始时对随机敌人施加识破减益。
+
+<color=#919191>将大脑回路切换成超高速的预读框架，并基于收集到的情报对对手进行超精密的行动预测，使得对手被完全看穿，正常人很难从神眼极手中逃脱。</color>","战斗开始时获得1层神眼极手增益；击杀敌人时获得1层神眼极手增益。
+回合开始时对随机敌人施加识破减益。
+
+<color=#919191>将大脑回路切换成超高速的预读框架，并基于收集到的情报对对手进行超精密的行动预测，使得对手被完全看穿，正常人很难从神眼极手中逃脱。</color>"
+Character/Suzakuin Momiji_PassiveName,Text,,신안극수,"<color=#6A5ACD>Divine Eye, Ultimate Hand</color>",神眼の持ち主,神眼极手,神眼极手
+Character/Suzakuin Momiji_SelectInfo,Text,,"그녀는 검술로 권위있는 가문인 스자쿠인 가문의 장녀로, 특별한 천구 '신안극수'로 상대방의 움직임을 계산해 최적의 승리 방법을 찾아냅니다.
+
+수련 중 뜻밖의 사건으로 뒤틀린 땅에 오게 된 그녀는 조사단의 믿음직한 존재입니다.","The eldest daughter of the prestigious Suzakuin family, a lineage renowned for their swordsmanship, she wields the special divine technique <color=#6A5ACD>Divine Eye, Ultimate Hand</color>, which allows her to calculate her opponent's movements through <color=#DC143C>Insight</color> and devise the optimal path to victory. Having reached the realm of ""All Phenomena Are Without Self"" in the way of the blade, she is a rare and unparalleled master of swordsmanship. During a training expedition, an unexpected event led her to the twisted land, where she has become a reliable and trusted member of the investigation team.",刃道旧家朱雀院家の長女で、特殊な天呪「神眼極手」を持ち、演算を通じて相手の動向を洞察し、勝利を見出すことができる最適な解法は、刃道においてもすでに諸法無我の境地に達しており、稀代の得難い刃道大師である。再び出修行中にひょんなことから歪んだ地に足を運んだのは、調査団の中で信頼できる存在だった。,刃道世家朱雀院家的长女，拥有特殊天咒“神眼极手”，能通过演算洞察对手的动向并找出得胜的最优解法，在刃道上也已达到诸法无我的境界，是稀世难得的刃道大师。再一次外出修行中因意外来到扭曲之地，是调查团中值得信赖的存在。,刃道世家朱雀院家的长女，拥有特殊天咒“神眼极手”，能通过演算洞察对手的动向并找出得胜的最优解法，在刃道上也已达到诸法无我的境界，是稀世难得的刃道大师。再一次外出修行中因意外来到扭曲之地，是调查团中值得信赖的存在。
+Character/Suzakuin Momiji_Text_Battle_AllyND_0,Text,,괜찮아?,Are you okay?,大丈夫ですか？,不要紧吧?,不要紧吧?
+Character/Suzakuin Momiji_Text_Battle_AllyND_1,Text,,조심해!,Be careful!,気をつけてください。,小心!,小心!
+Character/Suzakuin Momiji_Text_Battle_Cri_0,Text,,지금이야!,Now's the time!,今だ！,就是现在!,就是现在!
+Character/Suzakuin Momiji_Text_Battle_Cri_1,Text,,스자쿠인의 이름으로!,In the name of the Suzakuin family!,朱雀院という名で！,以朱雀院之名!,以朱雀院之名!
+Character/Suzakuin Momiji_Text_Battle_Healed_0,Text,,체력회복!,Health restored!,体力回復！,体力恢复!,体力恢复!
+Character/Suzakuin Momiji_Text_Battle_Healed_1,Text,,스자쿠 하이퍼 맥~~~~~주!,Suzaku Hyper Drrrrrryyy!,SuzakuHyperDrrrrrryyyyyy!,Suzaku Hyper Drrrrrryyyyyy!,Suzaku Hyper Drrrrrryyyyyy!
+Character/Suzakuin Momiji_Text_Battle_Idle_0,Text,,계산중...,Calculating...,計算中...,计算中...,计算中...
+Character/Suzakuin Momiji_Text_Battle_Idle_1,Text,,급하진 않아.,No need to rush.,焦らなくてもいいです。,不用着急.,不用着急.
+Character/Suzakuin Momiji_Text_Battle_Kill_0,Text,,"만족스럽진않지만, 나쁘진않아.","Though not perfect, it's still a flawless victory.",十米とは比,虽不比十美，眼下也亦已十全,虽不比十美，眼下也亦已十全
+Character/Suzakuin Momiji_Text_Battle_Kill_1,Text,,겨우 이 정도밖에 안되는거야?,Is this all you've got?,この程度でしょうか。,只有这种程度吗？,只有这种程度吗？
+Character/Suzakuin Momiji_Text_Battle_Kill_2,Text,,이동!,Swallow Return!,燕返！,燕返!,燕返!
+Character/Suzakuin Momiji_Text_Battle_ND_0,Text,,아직 무너지면 안돼…,I can't fall yet...,まだ倒れません…,还不能倒下...,还不能倒下...
+Character/Suzakuin Momiji_Text_Battle_ND_1,Text,,윽…,Ugh...,ええと...,呃...,呃...
+Character/Suzakuin Momiji_Text_Battle_ND_2,Text,,치사해…,Damn it...,憎らしい…,可恶...,可恶...
+Character/Suzakuin Momiji_Text_Battle_Start_0,Text,,스자쿠 하이퍼 맥~~~~~주!,Suzaku Hyper Drrrrrryyy!,SuzakuHyperDrrrrrryyyyyy!,Suzaku Hyper Drrrrrryyyyyy!,Suzaku Hyper Drrrrrryyyyyy!
+Character/Suzakuin Momiji_Text_Battle_Start_1,Text,,"신안극수, 발동!","<color=#6A5ACD>Divine Eye, Ultimate Hand</color>, activate!",神眼極手、発動！,神眼极手，发动！,神眼极手，发动！
+Character/Suzakuin Momiji_Text_Field_GetItem_0,Text,,우와.,Wow.,わあ.,哇喔.,哇喔.
+Character/Suzakuin Momiji_Text_Field_GetItem_1,Text,,계속 전진하고 빨리 끝내죠.,Let's keep moving and finish this quickly.,前進を続け,继续前进，赶快结束吧.,继续前进，赶快结束吧.
+Character/Suzakuin Momiji_Text_Field_Idle_0,Text,,알고있어? 알코올이없는 맥주가 있대.,Did you know there's a type of beer without alcohol?,知っていま,你知道吗，有一种不含酒精的啤酒.,你知道吗，有一种不含酒精的啤酒.
+Character/Suzakuin Momiji_Text_Field_Idle_1,Text,,아… 졸려,"Ugh, I'm so sleepy.",うわぁ、眠,呜哇，好困.,呜哇，好困.
+Character/Suzakuin Momiji_Text_Field_Idle_2,Text,,적을 발견하지 못했어.,No enemies detected.,敵に気づかなかった,没有发现敌人.,没有发现敌人.
+Character/Suzakuin Momiji_Text_Field_Idle_3,Text,,신안극수… 지금은 사용하지 않아도 되겠는걸.,"<color=#6A5ACD>Divine Eye, Ultimate Hand</color>... no need to activate it yet.",神眼極手…今はまだ発動する必要はない.,神眼极手...现在还用不着发动.,神眼极手...现在还用不着发动.
+Character/Suzakuin Momiji_Text_Field_Idle_4,Text,,신안극수가 효과가 있는지 모르겠어.,I wonder if the divine curse will work.,天呪が効くかどうか分からない。,不知道天咒是否管用.,不知道天咒是否管用.
+Character/Suzakuin Momiji_Text_Field_Potion_N_0,Text,,응?,Hmm?,うん？,嗯哼？,嗯哼？
+Character/Suzakuin Momiji_Text_Field_Potion_N_1,Text,,"흥흥, 흥흥흥.","Heh heh, heh heh heh.",うんうん、うんうん。,哼哼，哼哼哼.,哼哼，哼哼哼.
+Character/Suzakuin Momiji_Text_Field_Potion_P_0,Text,,회복됬어.,I've recovered.,元に戻った,恢复过来了.,恢复过来了.
+Character/Suzakuin Momiji_Text_Field_Potion_P_1,Text,,이건 대체… 맥주처럼 느껴지지않아.,Doesn't feel as good as... barley juice.,感じが…に及ばない麦汁,感觉不如....大麦汁,感觉不如....大麦汁
+Character/Suzakuin Momiji_Text_PharosLeader_0,Text,,학생과 선생님의 금기...안 돼.,A student and teacher's forbidden love... it's not allowed.,生徒と先生の禁断…できません。,学生和老师的禁断...是不行的.,学生和老师的禁断...是不行的.
+Character/Suzakuin Momiji_Text_PharosLeader_1,Text,,"우와, 방금 무슨 일이었어?","Whoa, what just happened?",うわあ、さ,呜哇哇，刚刚是什么情况?,呜哇哇，刚刚是什么情况?
+Character/Suzakuin Momiji_Text_PharosLeader_2,Text,,..........,...,..........,.......,.......
+Character/Suzakuin Momiji_UnlockString,Text,,,,,,
+Character/Suzakuin Momiji_name,Text,,스자쿠인 모미지,Suzakuin Momiji,朱雀院紅葉,朱雀院红叶,朱雀院红叶
+Character_Skin/SuzakuinMomiji2_SkinDesc,Text,,,"Momiji's school uniform, usually worn outside of battle.",,红叶的校服，通常在非战斗状态下穿着。,
+Character_Skin/SuzakuinMomiji2_SkinName,Text,,,School Uniform,,校服,
+Character_Skin/SuzakuinMomiji2_Text_PharosLeader_0,Text,,,,,,
+Character_Skin/SuzakuinMomiji2_Text_PharosLeader_1,Text,,,,,,
+Character_Skin/SuzakuinMomiji2_Text_PharosLeader_2,Text,,,,,,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Azar_Dialogues_0,Text,,,[A]Today's mood is three phantom swords!,,[A]今天的心情是，三把幻影剑！,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Azar_Dialogues_1,Text,,,[B]I don't really understand what you're saying...,,[B]不是很理解你在说什么...,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Blue_Dialogues_0,Text,,,[A]Are you sisters?,,[A]你们是姐妹吗？,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Blue_Dialogues_1,Text,,,"[A]I have a few sisters too, though in this world they're a bit different from how I remember them.",,[A]我也有几个妹妹呢，虽然在这个世界里她们和我印象中的不太一样,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Charon_Dialogues_0,Text,,,[B]I can sense the dark bloodline within you...,,[B]我能感觉到，你身上暗黑的血脉...,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Charon_Dialogues_1,Text,,,"[A]Uh, actually, it might be some fox spirit bloodline.",,[A]呃，其实可能是有些狐妖的血脉。,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Hein_Dialogues_0,Text,,,[B]Where did you get that equipment from...,,[B]你这身装备从哪里变出来的..,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Hein_Dialogues_1,Text,,,"[A]In my world, the technology is a bit more advanced.",,[A]我的那个世界，科技水平要领先哦。,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Huz_Dialogues_0,Text,,,[B]Why did you swing at me during the last fight...,,[B]刚刚的战斗怎么朝我这边砍了...,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Huz_Dialogues_1,Text,,,[A]Your healing looks too much like an attack.,,[A]你的治疗太像攻击了啦。,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Ilya_Dialogues_0,Text,,,"[A]On the Blade Path, someone with your level of divine curse is quite rare.",,[A]在刃道场上，你这般的天咒也很少见呢。,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Ilya_Dialogues_1,Text,,,[B]R-really...?,,[B]真，真的吗...,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Ilya_Dialogues_2,Text,,,"[A]Yes, with your strength, you'll surely shine in our world.",,[A]嗯，以你的实力，一定能在我们的世界大放异彩。,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Iron_Dialogues_0,Text,,,[B]Does such lightweight armor really have defense?,,[B]如此轻便的护甲也有防御力吗,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Iron_Dialogues_1,Text,,,[A]Trust the protective power of origami!,,[A]相信折纸工艺的防护罩！,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Joey_Dialogues_0,Text,,,[A]Your potion tastes really good.,,[A]你的药水味道很好诶,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Joey_Dialogues_1,Text,,,"[B]That's not how you use it, why does it always end up like this...",,[B]不是这样用的啊，怎么也是这幅样子...,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Johan_Dialogues_0,Text,,,"[A]Wow, you fight with your eyes closed, sensing with your heart?",,[A]哇，你是闭着眼睛战斗，用心在感知吗。,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Johan_Dialogues_1,Text,,,[B]...,,[B]....,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Leryn_Dialogues_0,Text,,,[B]The shield's damage is quite low.,,[B]护盾的受损度很低呢。,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Leryn_Dialogues_1,Text,,,"[A]After all, I saw through most of the attacks.",,[A]毕竟大部分的攻击都被我看破了。,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Lian_Dialogues_0,Text,,,"[B]Using defensive analysis to counter, you saw through the enemy's actions.",,[B]使用防御分析反击，看穿了敌人的行动啊。,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Lian_Dialogues_1,Text,,,[A]This is my exclusive divine curse.,,[A]这可是我的专属天咒哦,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Miss_Dialogues_0,Text,,,[A]Miss Chainsaw is always so lively.,,[A]链锯小姐一直都很有活力呢,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Miss_Dialogues_1,Text,,,"[B]Miss Momiji, let's burn together!",,[B]红叶小姐，来和我一起燃烧吧！,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Miss_Dialogues_2,Text,,,"[A]Ah, never mind.",,[A]啊，还是算了,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Momori_Dialogues_0,Text,,,[B]Interested in joining the Momori Squad?,,[B]有没有兴趣加入桃梨团？,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Momori_Dialogues_1,Text,,,[A]Huu huu huu (sleeping),,[A]呼呼呼（睡觉）,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Narhan_Dialogues_0,Text,,,[B]Are you also analyzing the enemy's movements?,,[B]你也在分析敌人的动向吗,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Narhan_Dialogues_1,Text,,,"[A]Yes, my Divine Eye, Ultimate Hand have already analyzed it.",,[A]嗯，我的神眼极手已经分析出来了。,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Pheonix_Dialogues_0,Text,,,"[A]Wow. What's this creature, a phoenix?",,[A]哇哦。这是什么生物，凤凰吗？,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Pheonix_Dialogues_1,Text,,,"[B]Hehe, I am the great phoenix.",,[B]呵呵，本大人就是伟大的凤凰哦。,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Priest_Dialogues_0,Text,,,[A]This kind of weapon is completely unseen in the Blade Path.,,[A]这种武器，在刃道场也完全见不到呢,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Priest_Dialogues_1,Text,,,[B]Huh? What did you say?,,[B]嗯？你说什么？,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Red_Dialogues_0,Text,,,"[B]Such speed, even faster than my spark arrows.",,[B]好快的速度，比我的火花箭都要快了,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Red_Dialogues_1,Text,,,[A]I'm known as the swordsman of godspeed.,,[A]我可是以神速著称的剑士哦。,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_SilverStein_Dialogues_0,Text,,,[B]Can your blade block my bullets?,,[B]你的刀能挡下我的子弹吗,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_SilverStein_Dialogues_1,Text,,,[A]I've already seen through it.,,[A]已经看穿了哦,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Sizz_Dialogues_0,Text,,,"[B]Miss Momiji, you're very reassuring.",,[B]红叶小姐，让人很安心呢,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Sizz_Dialogues_1,Text,,,"[A]Ahaha, don't rely on me too much, I'm quite lazy.",,[A]啊哈哈，别太依靠我，我可是很懒的诶。,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_SuzakuinTsubaki_Dialogues_0,Text,,,"[B]I've always wanted to say, why is the older sister here so young?",,[B]一直想说，这里的姐姐怎么这么年轻。,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_SuzakuinTsubaki_Dialogues_1,Text,,,"[A]Ah, stop it, I can't even imagine it anymore.",,[A]啊别说了别说了，我已经不敢想像了。,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Trisha_Dialogues_0,Text,,,[B]You participate in battles so casually?,,[B]用一股如此轻松的样子参与战斗吗,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_Trisha_Dialogues_1,Text,,,"[A]Well, staying relaxed is better.",,[A]嘛，放轻松反而更好哦。,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_hlshj_Dialogues_0,Text,,,[A]Are you a swordsman too?,,[A]你也是剑士吗？,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_hlshj_Dialogues_1,Text,,,"[B]No... but speaking of which, you're using a tachi too, it's a completely different technique, I should learn from you.",,[B]不..话说回来，你也在用太刀啊，又是一种截然不同的技术，我可得好好学学,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_ysml_Dialogues_0,Text,,,"[A]Such a huge creature, there's no way something like this exists in our world.",,[A]好大的生物，我们的世界也不可能有这种东西吧,
+SimpleCampDialogue/CampDial_Suzakuin Momiji_ysml_Dialogues_1,Text,,,[B]It seems this is where worlds overlap.,,[B]看来，这里是世界交叠之处呢。,
+Skill/S_szk_10_Description,Text,,"적중 시 손에 있는 공격 스킬 1개를 선택하여 버립니다.
+'간파' 디버프가 있는 목표를 대상으로 시전할 때 치명타로 적중합니다.
+<color=#FFA636FF>납도: 1마나를 획득하고 스킬 하나를 뽑습니다.</color>","When hitting, discard 1 attack skill from your hand.
+When targeting an enemy with the <color=#DC143C>Insight</color> debuff, it will crit.
+<color=#FFA636FF>Sheathe: Gain 1 mana and draw 1 skill.</color>",命中すると、手にした攻撃スキル1つを選択して破棄します。減益を見破るターゲットを指してリリースすると、致命的な一撃で命中する。<color=#FFA636FF>納刀：1点の法力値を得て、1つの技能を抽出する,"命中时，选择手中的1个攻击技能丢弃。
+指向带有识破减益的目标释放时，以暴击形式命中。
+<color=#FFA636FF>纳刀：获得1点法力值，抽取 1 个技能。</color>","命中时，选择手中的1个攻击技能丢弃。
+指向带有识破减益的目标释放时，以暴击形式命中。
+<color=#FFA636FF>纳刀：获得1点法力值，抽取 1 个技能。</color>"
+Skill/S_szk_10_Name,Text,,신속돌격,Swift Thrust,神速とげ,神速突刺,神速突刺
+Skill/S_szk_11_0_Description,Text,,<color=#919191>이 여자는...간단하지 않군요... -- 일리야 </color>,<color=#919191>This woman... is not simple----Ilya</color>,,<color=#919191>这个女人......不简单----伊利亚</color>,<color=#919191>这个女人......不简单----伊利亚</color>
+Skill/S_szk_11_0_Name,Text,,보드카도 괜찮을 것 같지 않아?,<color=#9ACD32>Vodka Isn't Bad Either?</color>,ウォッカもダメじゃない？,伏特加也不是不行?,伏特加也不是不行?
+Skill/S_szk_11_Description,Text,,<color=#FFA636FF>납도: 이 스킬을 시전합니다. 2턴 후 버려짐이 부여된'보드카도 괜찮을 것 같지 않아?'를 2장 생성합니다.</color>,<color=#FFA636FF>Sheathe: Activate this skill. Generate <color=#9ACD32>Vodka Isn't Bad Either?</color> and discard it after 2 turns.</color>,＜color=#FFA636FF＞納刀：このスキルを解放します。「ウォッカもダメじゃない？」と生成し、2ラウンド後にカードを捨てる。</color>,<color=#FFA636FF>纳刀：释放该技能。并生成“伏特加也不是不行？”，附带2回合后弃牌。</color>,<color=#FFA636FF>纳刀：释放该技能。并生成“伏特加也不是不行？”，附带2回合后弃牌。</color>
+Skill/S_szk_11_Name,Text,,스자쿠 하이퍼 맥~~~~~주!,<color=#00FA9A>Suzaku Hyper Drrrrrryyy!</color>,SuzakuHyperDrrrrrryyy!,Suzaku Hyper Drrrrrryyy!,Suzaku Hyper Drrrrrryyy!
+Skill/S_szk_12_Description,Text,,"시전 시 모든 아군에게 '스자쿠 하이퍼 맥~~~~~주!' 버프 1중첩을 부여하고 모든 적에게 '간파' 1중첩을 부여합니다. 이 스킬로 적을 처치하면 2마나를 획득합니다.
+<color=#FFA636FF>납도: 즉시 '신속참격'을 1번 시전하고 스킬 하나를 뽑습니다.</color>","When used, all allies gain 1 stack of Suzaku Hyper Drrrrrryyy! buff, and all enemies gain 1 stack of <color=#DC143C>Insight</color> debuff.
+When killing an enemy, gain 2 mana.
+<color=#FFA636FF>Sheathe: Immediately use <color=#5F9EA0>Swift Slash</color> once and draw 1 skill.</color>",の味方に1層のスザクHyperDrrrrrryyを獲得させる！利得を得て、すべての敵に1層の見破る減益を加えます。敵を撃ち殺した時、2点の法力値を得る。<color=#FFA636FF>納刀：直ちに「神速斬撃」を1回リリースし、1つのスキル,"使用时，使所有友军获得1层Suzaku Hyper Drrrrrryyy!增益,并对所有敌人施加1层识破减益。
+击杀敌人时，获得2点法力值。
+<color=#FFA636FF>纳刀：立即释放1次“神速斩击”，抽取 1 个技能。</color>","使用时，使所有友军获得1层Suzaku Hyper Drrrrrryyy!增益,并对所有敌人施加1层识破减益。
+击杀敌人时，获得2点法力值。
+<color=#FFA636FF>纳刀：立即释放1次“神速斩击”，抽取 1 个技能。</color>"
+Skill/S_szk_12_Name,Text,,대결,Duel,<color=#919191>この女は……簡単ではありません----イリヤ</color>,对决,对决
+Skill/S_szk_13_Description,Text,,"<color=#FFA636FF>납도: 이 스킬을 다시 손에 넣고 신속, 치명, 추적, 비용 3감소(한번만) 부여</color>","<color=#FFA636FF>Sheathe: Add <color=#C0C0C0>Secret Art: Suzaku's Martial Dance</color> to your hand and granting it Swiftness, Lethal, Tracking, Banish, and cost reduced by 3 (once only).</color>",<color=#FFA636FF>納刀：本技を再び手に入れ、迅速、致命的、追跡、追放、費用減3（1回のみ）</color>を付属する,<color=#FFA636FF>纳刀：将本技能再次拿到手中，附带迅速，致命，追踪，放逐，费用减3（仅1次）</color>,<color=#FFA636FF>纳刀：将本技能再次拿到手中，附带迅速，致命，追踪，放逐，费用减3（仅1次）</color>
+Skill/S_szk_13_Name,Text,,비전오의·주작연무,Secret Art: Suzaku's Martial Dance,秘伝奥義・朱雀演武,秘传奥义・朱雀演武,秘传奥义・朱雀演武
+Skill/S_szk_1_Description,Text,,"적을 처치하면 이 스킬을 다시 뽑습니다.
+<color=#FFA636FF>납도: 이 스킬을 시전하고'제비귀환-2연격'을 생성합니다.</color>","When killing an enemy, draw this skill again.
+<color=#FFA636FF>Sheathe: Activate this skill and generate <color=#FFB6C1>Swallow Return - Double Strike</color>.</color>",敵を撃ち殺した場合、そのスキルを再抽出します。<color=#FFA636FF>納刀：この技能を解放し、「燕返し-二連」を生成する</color>,"击杀敌人时，再次抽取该技能。
+<color=#FFA636FF>纳刀：释放该技能,并生成“燕返-二连”</color>","击杀敌人时，再次抽取该技能。
+<color=#FFA636FF>纳刀：释放该技能,并生成“燕返-二连”</color>"
+Skill/S_szk_1_Name,Text,,제비귀환,<color=#FFC0CB>Swallow Return</color>,燕返し,燕返,燕返
+Skill/S_szk_2_Description,Text,,"이 스킬로 적을 처치할 때 스킬을 하나 뽑습니다.
+<color=#FFA636FF>납도: 이 스킬을 2번 시전하고 '제비귀환-3연격'</color>을 생성합니다.","When killing an enemy, draw a skill.
+<color=#FFA636FF>Sheathe: Activate this skill 2 times and generate <color=#FF69B4>Swallow Return - Triple Strike</color>.</color>",敵を撃ち殺す際に、スキルを抽出します。<color=#FFA636FF>納刀：この技を解放し、「燕返し-三連」を生成する</color>,"击杀敌人时，抽取一个技能。
+<color=#FFA636FF>纳刀：释放该技能，并生成“燕返-三连”</color>","击杀敌人时，抽取一个技能。
+<color=#FFA636FF>纳刀：释放该技能，并生成“燕返-三连”</color>"
+Skill/S_szk_2_Name,Text,,제비귀환-2연격,<color=#FFB6C1>Swallow Return - Double Strike</color>,燕返-二連,燕返-二连,燕返-二连
+Skill/S_szk_3_Description,Text,,<color=#FFA636FF>납도: 이 스킬을 3번 시전하고 '제비귀환-4연격'을 생성합니다.</color>,<color=#FFA636FF>Sheathe: Activate this skill 3 times and generate <color=#FF1493>Swallow Return - Quad Strike</color>.</color>,<color=#FFA636FF>納刀：この技を解放し、「燕返し-四連」を生成する</color>,<color=#FFA636FF>纳刀：释放该技能，并生成“燕返-四连”</color>,<color=#FFA636FF>纳刀：释放该技能，并生成“燕返-四连”</color>
+Skill/S_szk_3_Name,Text,,제비귀환-3연격,<color=#FF69B4>Swallow Return - Triple Strike</color>,燕返し-三連,燕返-三连,燕返-三连
+Skill/S_szk_4_Description,Text,,<color=#FFA636FF>납도: 이 스킬을 4번 시전하고 '제비귀환-5연격'을 생성합니다.</color>,<color=#FFA636FF>Sheathe: Activate this skill 4 times and generate <color=#C71585>Swallow Return - Quint Strike</color>.</color>,<color=#FFA636FF>納刀：この技を解放し、「燕返し-四連」を生成する</color>,<color=#FFA636FF>纳刀：释放该技能，并生成“燕返-五连”</color>,<color=#FFA636FF>纳刀：释放该技能，并生成“燕返-五连”</color>
+Skill/S_szk_4_Name,Text,,제비귀환-4연격,<color=#FF1493>Swallow Return - Quad Strike</color>,燕返-四連,燕返-四连,燕返-四连
+Skill/S_szk_5_Description,Text,,<color=#FFA636FF>납도: 이 스킬을 5번 시전합니다.</color>,<color=#FFA636FF>Sheathe: Activate this skill 5 times.</color>,<color=#FFA636FF>納刀：このスキルを解放</color>,<color=#FFA636FF>纳刀：释放该技能</color>,<color=#FFA636FF>纳刀：释放该技能</color>
+Skill/S_szk_5_Name,Text,,제비귀환-5연격,<color=#C71585>Swallow Return - Quint Strike</color>,燕返し-五連,燕返-五连,燕返-五连
+Skill/S_szk_6_0_Description,Text,,"대상의 체력이 45% 아래일경우 대상의 체력을 0으로 변경합니다.
+<color=#FFA636FF>납도: 이 스킬을 시전","If the target's HP is 45% or lower, reduce it to 0 immediately.
+<color=#FFA636FF>Sheathe: Activate this skill 2 times.</color>",力値が45%未満の場合は、目標体力値を0点に変更します。<color=#FFA636FF>納刀：このスキルを解放する,"若目标的体力值不高于45%,则将目标体力值变为0点。
+<color=#FFA636FF>纳刀：释放该技能</color>","若目标的体力值不高于45%,则将目标体力值变为0点。
+<color=#FFA636FF>纳刀：释放该技能</color>"
+Skill/S_szk_6_0_Name,Text,,가로베기-2연격,<color=#8B0000>Horizontal Slash - Double Strike</color>,横斬り-二連,横斩-二连,横斩-二连
+Skill/S_szk_6_Description,Text,,<color=#FFA636FF>납도: 이 스킬을 시전합니다. '가로베기-2연격'를 생성합니다.</color>,<color=#FFA636FF>Sheathe: Activate this skill and generate <color=#8B0000>Horizontal Slash - Double Strike</color>.</color>,＜color=#FFA636FF＞納刀：このスキルを解放します。そして「横斬り-二連」を生成する。</color>,<color=#FFA636FF>纳刀：释放该技能。并生成“横斩-二连”。</color>,<color=#FFA636FF>纳刀：释放该技能。并生成“横斩-二连”。</color>
+Skill/S_szk_6_Name,Text,,가로베기,Horizontal Slash,横斬り,横斩,横斩
+Skill/S_szk_7_Description,Text,,스킬 1개를 뽑습니다. 뽑은 스킬에 신속을 부여합니다. 모든 적들에게 '간파' 1중첩을 부여합니다. 모든 아군의 각각 무작위 고통 디버프 1중첩을 해제합니다.,"Draw 1 skill. The drawn skill gains Swiftness.
+Apply 1 stack of <color=#DC143C>Insight</color> debuff to all enemies.
+All allies remove 1 random <sprite=1> Pain debuff.",スキルには迅速さが付きます。すべての敵に1層の見破って減益を与える。すべての友軍はランダム," 抽取 1 个技能。抽取的技能附带迅速。
+对所有敌人施加1层识破减益。
+所有友军各解除随机1个痛苦减益。"," 抽取 1 个技能。抽取的技能附带迅速。
+对所有敌人施加1层识破减益。
+所有友军各解除随机1个痛苦减益。"
+Skill/S_szk_7_Name,Text,,신안극수,"<color=#6A5ACD>Divine Eye, Ultimate Hand</color>",神眼の持ち主,神眼极手,神眼极手
+Skill/S_szk_8_Description,Text,,"적중 시 손에 있는 공격 스킬 1개를 선택하여 버립니다. 
+<color=#FFA636FF>납도: 마나를 1얻고 스킬 1개를 뽑습니다.</color>","When hitting, discard 1 attack skill from your hand.
+<color=#FFA636FF>Sheathe: Gain 1 mana and draw 1 skill.</color>",ヒットした場合、手にした攻撃スキル1つを選択して破棄します。<color=#FFA636FF>納刀：1点の法力値を得て、1つの技能を抽出する,"命中时，选择手中的1个攻击技能丢弃。
+<color=#FFA636FF>纳刀：获得1点法力值，抽取 1 个技能。</color>","命中时，选择手中的1个攻击技能丢弃。
+<color=#FFA636FF>纳刀：获得1点法力值，抽取 1 个技能。</color>"
+Skill/S_szk_8_Name,Text,,신속참격,<color=#5F9EA0>Swift Slash</color>,神速斬撃,神速斩击,神速斩击
+Skill/S_szk_9_Description,Text,,"간파 디버프를 가진 대상으로 시전 시 20%의 추가 피해. 적을 처치할 때, 손에 있는 가장 아래의 스킬을 버립니다.
+<color=#FFA636FF>납도: 이 스킬을 시전합니다.</color>","Deals 20% additional damage to targets with the <color=#DC143C>Insight</color> debuff. When an enemy is defeated, discard the bottommost skill in hand.
+<color=#FFA636FF>Sheathe: Activate this skill.</color>",洞察目標のリリース時にダメージが20%増加します。敵を撃ち殺すときは、一番下の技を捨てる。<color=#FFA636FF>納刀：このスキルを解放する。</color>,"指向洞察目标释放时伤害增加 20%。击杀敌人时，丢弃手中最下面的技能。
+<color=#FFA636FF>纳刀：释放该技能。</color>","指向洞察目标释放时伤害增加 20%。击杀敌人时，丢弃手中最下面的技能。
+<color=#FFA636FF>纳刀：释放该技能。</color>"
+Skill/S_szk_9_Name,Text,,요지참,Demon Slash,妖の斬,妖之斩,妖之斩
+Skill/S_szk_LucyD_Description,Text,,덱의 스킬을 순서대로 보고 그 중 하나를 선택하여 뽑습니다. 뽑은 스킬은 신속과 비용1 감소가 부여됩니다.,View the skills in the deck in order and select one to draw. The drawn skill gains Swiftness and its cost is reduced by 1.,牌ライブラリ内のスキルを順に表示し、1つのスキル抽出を選択します。迅速に付帯させ、費用を,按顺序查看牌库中的技能，并选择其中 1 个技能抽取。并使其附带迅速，费用减1,按顺序查看牌库中的技能，并选择其中 1 个技能抽取。并使其附带迅速，费用减1
+Skill/S_szk_LucyD_Name,Text,,신속,Swift,すばやい,神速,神速
+Skill/S_szk_rare_1_Description,Text,,모든 스킬을 버리고 (버린 스킬 수 + 1) 개의 스킬을 뽑습니다. 뽑은 스킬은 신속이 부여되고 비용이 1 감소합니다. 버려진 스킬 수만큼 '신안극수' 버프를 획득하고 모든 적에게 버린 카드의 수만큼 '간파' 디버프를 부여합니다.,"Discard all skills and draw (number of discarded skills + 1) skills. The drawn skills gain Swiftness and their cost is reduced by 1.
+Gain stacks of <color=#6A5ACD>Divine Eye, Ultimate Hand</color> equal to the number of discarded skills, and apply stacks of <color=#DC143C>Insight</color> debuff to all enemies equal to the number of discarded skills.",＋1）スキルを抽出し、抽出されたスキルは迅速に付属し、費用は1ポイント減少します。捨てられたスキル数に応じて対応する階数の神眼極手利得を得て、すべて,"丢弃所有技能，并抽取（丢弃的技能数+1）个技能，抽取到的技能附带迅速,费用减少1点。
+根据丢弃的技能数获得相应层数的神眼极手增益，对所有敌人施加相应层数的识破减益。","丢弃所有技能，并抽取（丢弃的技能数+1）个技能，抽取到的技能附带迅速,费用减少1点。
+根据丢弃的技能数获得相应层数的神眼极手增益，对所有敌人施加相应层数的识破减益。"
+Skill/S_szk_rare_1_Name,Text,,제법무아,All Phenomena Are Without Self,諸法無我,诸法无我,诸法无我
+Skill/S_szk_rare_2_Description,Text,,"전투 시작시 덱의 맨 위에 올려놓습니다.이번 전투 동안 한 스킬에 '치명, 이 카드가 교환되거나 버려지면 마나1을 얻습니다' 를 부여합니다.","At the start of battle, place this at the top of the deck. Grants a skill ""Lethal"" for this battle, and restores 1 Mana when exchanged or discarded.",戦闘開始時、デッキの一番上に乗せる。この戦闘に致命的なスキルを持たせ、交換または廃棄時に法力値を1点回復させる。,战斗开始时，放在牌库的最上方。使一个技能本次战斗中附带致命，交换或弃置时恢复1点法力值。,战斗开始时，放在牌库的最上方。使一个技能本次战斗中附带致命，交换或弃置时恢复1点法力值。
+Skill/S_szk_rare_2_Name,Text,,연무쌍,Swallow's Twin,燕無双,燕无双,燕无双
+SkillExtended/Ex_szk_1_EnforceString,Text,,임의기능,Arbitrary Skill,任意のスキル,任意技能,任意技能
+SkillExtended/Ex_szk_1_Name,Text,,"시전 후 '스자쿠 하이퍼 맥~~~~~~주!' 1중첩을 얻습니다.
+<color=#FFA636FF>납도: 신안극수 1중첩을 획득합니다.</color>","After use, gain 1 stack of <color=#00FA9A>Suzaku Hyper Drrrrrryyy!</color>
+<color=#FFA636FF>Sheathe: Gain 1 stack of <color=#6A5ACD>Divine Eye, Ultimate Hand</color>.",使用後にSuzakuHyperDrrrrrrryyを1層取得！，<color=#FFA636FF>納刀：1層の神眼極手を獲得する。</color>,使用后获得1层Suzaku Hyper Drrrrrryyy!，<color=#FFA636FF>纳刀：获得1层神眼极手。</color>,使用后获得1层Suzaku Hyper Drrrrrryyy!，<color=#FFA636FF>纳刀：获得1层神眼极手。</color>
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+

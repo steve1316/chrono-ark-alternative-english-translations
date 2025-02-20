@@ -1,0 +1,207 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Dialogue/Remilia_Gift_Normal/001,Text,,,"*Remilia Scarlet
+What's this? An offering to this young lady?",,"*蕾米莉亚・斯卡雷特
+这是什么，向本小姐献上的贡品么？",
+Dialogue/Remilia_Gift_Normal/002,Text,,,"*Remilia Scarlet
+...A gift? You're an odd child.",,"*蕾米莉亚・斯卡雷特
+……礼物？你真是个奇怪的孩子。",
+Dialogue/Remilia_Gift_Normal/003,Text,,,"*Remilia Scarlet
+Who gives gifts to vampires? ...Very well, I'll accept it. Can't disregard a child's goodwill, can I?",,"*蕾米莉亚・斯卡雷特
+哪有人会给吸血鬼送礼物的。……算了，本小姐就姑且收下了，不能辜负孩子的好意，是吧？",
+Dialogue/Remilia_Gift_Tea/001,Text,,,"*Remilia Scarlet
+Such refined tea exists even in the Distorted Land?",,"*蕾米莉亚・斯卡雷特
+在扭曲之地竟然也有这般名贵的红茶么？",
+Dialogue/Remilia_Gift_Tea/002,Text,,,"*Remilia Scarlet
+Heh, you understand my tastes. Noble gifts suit noble recipients.",,"*蕾米莉亚・斯卡雷特
+哼哼，你倒是挺懂本小姐的嘛。高贵的礼物就应当送给高贵的人。",
+Dialogue/Remilia_Gift_Tea/003,Text,,,"*Remilia Scarlet
+I'm not like those drunkards. Sipping tea elegantly suits me far better.",,"*蕾米莉亚・斯卡雷特
+我和那群酒鬼可不一样。还是优雅地品尝红茶适合我啊。",
+Dialogue/Remilia_Gift_Tea/004,Text,,,"*Remilia Scarlet
+Care to join me for tea?",,"*蕾米莉亚・斯卡雷特
+怎么样，有兴趣陪我一起品茶么？",
+Dialogue/Remilia_Gift_Cake/001,Text,,,"*Remilia Scarlet
+Cheesecake? ...Not the finest quality, but passable for this wretched place.",,"*蕾米莉亚・斯卡雷特
+芝士蛋糕？……虽然不是上品，但在这扭曲之地，也算得上凑合吧。",
+Dialogue/Remilia_Gift_Cake/002,Text,,,"*Remilia Scarlet
+Let's host a tea party under the night sky later.",,"*蕾米莉亚・斯卡雷特
+夜晚的时候就一边开着茶会，一边欣赏夜景吧。",
+Dialogue/Remilia_Gift_Cake/003,Text,,,"*Remilia Scarlet
+...What? You sleep at 10 PM?...",,"*蕾米莉亚・斯卡雷特
+……什么？你十点就要睡了？……",
+Dialogue/Remilia_Gift_Cake/004,Text,,,"*Remilia Scarlet
+Then... let's reschedule the tea party for tomorrow afternoon...",,"*蕾米莉亚・斯卡雷特
+那……那茶会还是换到明天下午吧……",
+Dialogue/Remilia_Gift_Violin/001,Text,,,"*Remilia Scarlet
+Why gift me this? Do I look like a musician to you?",,"*蕾米莉亚・斯卡雷特
+为什么送我这个？光凭外表就觉得我会乐器么？",
+Dialogue/Remilia_Gift_Violin/002,Text,,,"*Remilia Scarlet
+...Heh. Congratulations—you guessed right.",,"*蕾米莉亚・斯卡雷特
+……呵呵，恭喜你，猜对了。",
+Dialogue/Remilia_Gift_Violin/003,Text,,,"*Remilia Scarlet
+As thanks, I'll play a melody for you. Try not to swoon.",,"*蕾米莉亚・斯卡雷特
+作为谢礼，就让本小姐为你演奏一曲吧。可不要太入迷哦。",
+Dialogue/Remilia_Gift_Novel/001,Text,,,"*Remilia Scarlet
+Oh? The latest mystery novel? Fine taste indeed.",,"*蕾米莉亚・斯卡雷特
+哦？最新的推理小说？真是不错的品味。",
+Dialogue/Remilia_Gift_Novel/002,Text,,,"*Remilia Scarlet
+Do you know the ""Armchair Detective""? One who solves cases purely through logic while lounging, listening to reports.",,"*蕾米莉亚・斯卡雷特
+你知道「安乐椅的神探」么？只需要坐在安乐椅上，聆听下属或是警方报告的线索，就能推理还原出事件真相的侦探哦。",
+Dialogue/Remilia_Gift_Novel/003,Text,,,"*Remilia Scarlet
+Heheh, just like my noble self. Watch—I'll deduce this novel's culprit before you!",,"*蕾米莉亚・斯卡雷特
+哼哼，就跟本小姐的气质一模一样呢。看着吧，这本小说的谜底，就让本小姐推理出来给你看！",
+Dialogue/Remilia_Gift_Novel/004,Text,,,(It turns out Remilia's deductions completely missed the novel's actual culprit...),,（结果蕾米莉亚的推理完全没有命中这本小说的真凶……）,
+Dialogue/Remilia_Lv1/001,Text,,,"*Remilia Scarlet
+Hmm... We've traveled awhile, yet seem to circle the same area.",,"*蕾米莉亚・斯卡雷特
+哎呀……明明出发也有一段时间了，却一直像是在同一个地方打转呢。",
+Dialogue/Remilia_Lv1/002,Text,,,"*Lucy
+Miss Reimu, you're so calm. Not scared at all?",,"*露西
+灵梦小姐，你看起来很冷静的样子，一点都不害怕。",
+Dialogue/Remilia_Lv1/003,Text,,,"*Reimu Hakurei
+Oh? I'm an incident resolver—failure never crosses my mind.",,"*博丽灵梦
+是吗？因为我可是解决异变的专家，我可从没想过自己会失败呢。",
+Dialogue/Remilia_Lv1/004,Text,,,"*Lucy
+Having you here makes me feel braver.",,"*露西
+有灵梦小姐在身边，好像自己也有了勇气一样。",
+Dialogue/Remilia_Lv1/005,Text,,,"*Reimu Hakurei
+Truthfully, I prefer working alone. Less hassle.",,"*博丽灵梦
+其实比起团队合作，我更喜欢单人行动呢，那样比较自在一点。",
+Dialogue/Remilia_Lv1/006,Text,,,"*Reimu Hakurei
+But that black-white troublemaker isn't here. The Distorted Land feels oddly quiet without her antics.",,"*博丽灵梦
+不过，这次那个黑白的家伙好像不在这里。扭曲之地这么大，反倒显得有些冷清了。",
+Dialogue/Remilia_Lv1/007,Text,,,"*Lucy
+Do you feel lonely, Miss Reimu?",,"*露西
+灵梦小姐也会寂寞吗？",
+Dialogue/Remilia_Lv1/008,Text,,,"*Reimu Hakurei
+Normally no. But this place... reminds me of the past.",,"*博丽灵梦
+一般情况下不会吧。不过，也许是这里的环境，一直让我想起过去的事情。",
+Dialogue/Remilia_Lv1/009,Text,,,"*Reimu Hakurei
+Solitude used to be peaceful.",,"*博丽灵梦
+如果一直是一个人的话，或许会轻松一点。",
+Dialogue/Remilia_Lv1/010,Text,,,"*Reimu Hakurei
+Yet after growing accustomed to lively companions, returning to silence feels... colder.",,"*博丽灵梦
+但是习惯了身边朋友们的吵闹之后，再次回到孑然一人的环境，反倒开始有些哆嗦了呢。",
+Dialogue/Remilia_Lv1/011,Text,,,"*Lucy
+Then I'll keep you company!",,"*露西
+如果这样的话，那我就多陪陪灵梦小姐吧。",
+Dialogue/Remilia_Lv1/012,Text,,,"*Reimu Hakurei
+Haha, I'd pester you regardless. You're our hope in this distorted mess.",,"*博丽灵梦
+哈哈哈，不用你说我也会来找你的。你可是我们在扭曲之地的希望呀。",
+Dialogue/Remilia_Lv2/001,Text,,,"*Lucy
+Miss Reimu, what are you doing?",,"*露西
+灵梦小姐，你在做什么？",
+Dialogue/Remilia_Lv2/002,Text,,,"*Reimu Hakurei
+Hm? Just reminiscing. This fog... reminds me of an old incident.",,"*博丽灵梦
+嗯？是露西呀。没什么，只是看到这雾气，想起了以前的事情。",
+Dialogue/Remilia_Lv2/003,Text,,,"*Lucy
+You mentioned it before. What happened?",,"*露西
+灵梦小姐上次也讲过。以前发生了什么吗？",
+Dialogue/Remilia_Lv2/004,Text,,,"*Reimu Hakurei
+Before that... but I suppose it was the ""beginning of everything.""",,"*博丽灵梦
+虽然在那之前还有其他的故事……但那应该算是「一切的开端」吧？",
+Dialogue/Remilia_Lv2/005,Text,,,"*Reimu Hakurei
+A fearsome vampire clan invaded my land, shrouding it in scarlet mist to claim Gensokyo as their playground.",,"*博丽灵梦
+有一个可怕的吸血鬼家族入侵了我所守护的土地，大肆掀起红雾、遮蔽天日，妄图在名为“幻想乡”的净土中横行。",
+Dialogue/Remilia_Lv2/006,Text,,,"*Lucy
+V-Vampires? But they're just myths!",,"*露西
+吸、吸血鬼？那不是幻想生物吗？",
+Dialogue/Remilia_Lv2/007,Text,,,"*Reimu Hakurei
+To humans, yes. But in Gensokyo, vampires are very real.",,"*博丽灵梦
+嗯……对你们人类来说，吸血鬼确实沦为了“幻想生物”没错。不过在我们幻想乡中，确实存在着那么几只吸血鬼哟。",
+Dialogue/Remilia_Lv2/008,Text,,,"*Lucy
+What happened to them?",,"*露西
+那，后来呢？那些吸血鬼怎么样了？",
+Dialogue/Remilia_Lv2/009,Text,,,"*Reimu Hakurei
+After I trounced them, their leader Remilia started loitering at my shrine. A nuisance, really.",,"*博丽灵梦
+被我全部打倒了以后，身为家主的蕾米天天赖在我的神社里作客，害我没时间休息耶。",
+Dialogue/Remilia_Lv2/010,Text,,,"*Lucy
+...Eh?!",,"*露西
+……咦？",
+Dialogue/Remilia_Lv2/011,Text,,,"*Reimu Hakurei
+Haha! Your face! Surprised?",,"*博丽灵梦
+哈哈哈，看你的表情，是不是很惊讶？",
+Dialogue/Remilia_Lv2/012,Text,,,"*Reimu Hakurei
+Weak humans coexisting with mighty youkai—not exactly ""harmonious,"" but that's Gensokyo.",,"*博丽灵梦
+没错哟，弱小的人类和强大的妖怪共存，虽然称不上有多“和谐”吧，但这就是幻想乡。",
+Dialogue/Remilia_Lv2/013,Text,,,"*Reimu Hakurei
+Gensokyo embraces all existence. Eastern, Western—everything survives here.",,"*博丽灵梦
+幻想乡包容着世间的一切。无论是东方的、还是西方的，只要是存在着的，都被允许活下去。",
+Dialogue/Remilia_Lv2/013_Option1,Text,,,What if we encounter villains?,,那如果遇到坏蛋呢？,
+Dialogue/Remilia_Lv2/013_Option2,Text,,,I want to visit Gensokyo too.,,我也想进入幻想乡。,
+Dialogue/Remilia_Lv2/013_1_1,Text,,,"*Reimu Hakurei
+Then this shrine maiden steps in.",,"*博丽灵梦
+如果有坏蛋出现的话，那就轮到本巫女出手啦。",
+Dialogue/Remilia_Lv2/013_1_2,Text,,,"*Reimu Hakurei
+I pummel villains until they reform!",,"*博丽灵梦
+一直殴打坏蛋，直到坏蛋不再是坏蛋为止哟！",
+Dialogue/Remilia_Lv2/013_1_3,Text,,,"*Lucy
+Miss Reimu, you're terrifying...",,"*露西
+灵梦小姐，好可怕……",
+Dialogue/Remilia_Lv2/013_2_1,Text,,,"*Reimu Hakurei
+Hah, I'll take you to Gensokyo someday if possible.",,"*博丽灵梦
+哈哈，有机会的话就带露西去幻想乡逛一圈吧。",
+Dialogue/Remilia_Lv2/014,Text,,,"*Reimu Hakurei  
+It's bedtime. I'll tell you more about Gensokyo tomorrow if there's time.  ",,"*博丽灵梦
+到睡觉的时间��。明天有机会的话，再给你讲讲幻想乡的事情吧。",
+Dialogue/Remilia_Lv3/001,Text,,,"*Lucy
+Miss Reimu, could you tell me more stories about Gensokyo?",,"*露西
+灵梦小姐，能再给我讲讲幻想乡的故事吗？",
+Dialogue/Remilia_Lv3/002,Text,,,"*Reimu Hakurei
+Where to begin this time... Ah, let's talk about the Celestials.",,"*博丽灵梦
+这次从哪里开始讲起好呢……对了，讲讲有关天人的故事吧。",
+Dialogue/Remilia_Lv3/003,Text,,,"*Lucy
+Celestials? People living above the heavens?",,"*露西
+天人？是居住在天之上的人吗？",
+Dialogue/Remilia_Lv3/004,Text,,,"*Reimu Hakurei
+Hmm... That's not entirely wrong. When humans cultivate to a certain level, they become Hermits. And when Hermits sever all earthly desires through further cultivation, they ascend as Celestials.",,"*博丽灵梦
+嗯……这么说也没错吧。如果人类修行到一定程度，就能晋升为仙人。而仙人修行到某种程度，斩断全部七情六欲后，就能成为天人。",
+Dialogue/Remilia_Lv3/005,Text,,,"*Reimu Hakurei
+However, there was once a girl who became a Celestial merely through family legacy, lacking the proper virtues expected of one.",,"*博丽灵梦
+不过，曾经也有这么一名少女，仅仅只是追随家族成为天人，因此不具备天人应有的品行。",
+Dialogue/Remilia_Lv3/006,Text,,,"*Reimu Hakurei
+Out of sheer boredom, she caused weather anomalies to lure Gensokyo's residents into confronting her—all for her amusement.",,"*博丽灵梦
+她仅仅因为无聊就引发天气异变，吸引幻想乡诸多居民前往讨伐她，而她则从中寻乐。",
+Dialogue/Remilia_Lv3/006_Option1,Text,,,Isn't that terrible...,,那岂不是很恶劣吗……,
+Dialogue/Remilia_Lv3/006_Option2,Text,,,I wish I could be that free.,,我也想这么自由自在。,
+Dialogue/Remilia_Lv3/006_1_1,Text,,,"*Lucy
+Wasn't she being incredibly selfish...? Wouldn't everyone hate her?",,"*露西
+那她岂不是任性到了极点……会被很多人讨厌的吧？",
+Dialogue/Remilia_Lv3/006_2_1,Text,,,"*Lucy
+I wish I could be like her, doing whatever I want.",,"*露西
+我也想和她一样，能像她一样做自己想做的事情。",
+Dialogue/Remilia_Lv3/007,Text,,,"*Reimu Hakurei
+Haha, is that how you see it, Lucy?",,"*博丽灵梦
+哈哈，露西是这么想的吗？",
+Dialogue/Remilia_Lv3/008,Text,,,"*Reimu Hakurei
+In truth, her pure-hearted nature eventually won Gensokyo's acceptance.",,"*博丽灵梦
+事实上，因为她的这份纯粹，结果幻想乡的大家逐渐地接受了她。",
+Dialogue/Remilia_Lv3/009,Text,,,"*Reimu Hakurei
+A powerful yet playful child would terrify ordinary people. But in Gensokyo where powerful youkai dominate...",,"*博丽灵梦
+拥有力量而又贪玩的孩子，对常人来说是非常可怕的。但是在幻想乡中，拥有力量的妖怪占据着多数地方。",
+Dialogue/Remilia_Lv3/010,Text,,,"*Reimu Hakurei
+...her innocent vivacity made her blend right in with youkai who love contests and parties.",,"*博丽灵梦
+结果，相反的，纯真而又活泼的天人反倒很快地融入了喜好比试和聚会的妖怪们当中。",
+Dialogue/Remilia_Lv3/011,Text,,,"*Reimu Hakurei
+...Hmm...",,"*博丽灵梦
+……唔嗯……",
+Dialogue/Remilia_Lv3/012,Text,,,"*Lucy
+What's wrong, Miss Reimu? Did something happen later?",,"*露西
+怎么了，灵梦小姐？后面发生了什么吗？",
+Dialogue/Remilia_Lv3/013,Text,,,"*Reimu Hakurei
+...Yes. While everyone accepted her, personally... ""forgiving her"" still weighs on me.",,"*博丽灵梦
+……是呢。虽然大家很快接受了天人，不过就我个人而言，要说“原谅她”的话……倒还是有些郁结于心呢。",
+Dialogue/Remilia_Lv3/014,Text,,,"*Lucy
+""Forgive""? What did that Celestial do to you?",,"*露西
+“原谅”？那位天人小姐，对你怎么了吗？",
+Dialogue/Remilia_Lv3/015,Text,,,"*Reimu Hakurei
+Sigh... It's nothing major, really. She just smashed a crater into my shrine to flaunt her power and grab attention.",,"*博丽灵梦
+唉……说来其实也没什么大不了的。只是为了夸耀她的力量、吸引所有人的目光，所以把我的神社砸了一个大坑而已。",
+Dialogue/Remilia_Lv3/016,Text,,,"*Lucy
+What?! Destroying a shrine maiden's sacred ground isn't major?!",,"*露西
+诶？！砸坏了巫女祭拜的神社，这不是大事吗？",
+Dialogue/Remilia_Lv3/017,Text,,,"*Reimu Hakurei
+Exactly. That's why next time we meet, I'll thoroughly discipline her...",,"*博丽灵梦
+是啊。所以说，等下次再见面的时候，我一定要再狠狠地收拾她一顿……",
+Dialogue/Remilia_Lv3/018,Text,,,"*Reimu Hakurei
+...And I sense that day approaches sooner than later.",,"*博丽灵梦
+……而且我有预感，距离那一天到来的日子，已经不远了呢。",

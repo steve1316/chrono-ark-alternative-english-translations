@@ -1,0 +1,125 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Helta_3_Description,Text,,,"Pierce Defense +15%
+Accuracy +4%
+Healing Gauge Protection
+When an attack hits, consume 1 stack to create 1 [Kuru Kuru~!].       ","防御力貫通+15%
+命中率+4%
+回復ゲージ保護
+攻撃を命中させるとストックを1減らし、""くるくる～っと。”を作成する。",攻击命中时减少1层层数，生成1个[转圈圈～咚！]。,
+Buff/B_Helta_3_Name,Text,,,Kick You When You're Down,弱みは付け込み,落井当下石,
+Buff/B_Helta_4_Description,Text,,,"Healing Gauge Protection
+When an attack hits, consume 1 stack to create 1 [Kuru Kuru~].","回復ゲージ保護
+攻撃を命中させるとストックを1減らし、""くるくる～”を作成する。",攻击命中时减少1层层数，生成1个[转圈圈～]。,
+Buff/B_Helta_4_Name,Text,,,Follow-up Attack,勝てば追い打ち,得胜必追击,
+Buff/brain_Description,Text,,,,,,
+Buff/brain_Name,Text,,,Canned Brain,缶詰の脳,罐头脑袋,
+Buff/spacemoney_Description,Text,,,"<i><color=#696969>Notably, the digital art of Herta’s high-resolution side-profile silhouette embedded in these coins is far rarer than any buff.</color></i>",特筆すべきは、コインに含まれているハイレゾのヘルタ側面シルエットのデジタルアートは、あらゆるバフよりも遥かに希少であること。,<i><color=#696969>值得一提的是，现行流通的黑塔币不含任何贵金属成分，但它内含的黑塔高清侧影数字藏品却远比贵金属珍稀。</color></i>,
+Buff/spacemoney_Name,Text,,,Herta Coin,ヘルタコイン,黑塔币,
+Character/Helta_MOD_CampSelectWord,Text,,,,,,
+Character/Helta_MOD_PassiveDes,Text,,,"At the start of each turn, add 1 [Auto-Reply Function] to your deck.
+Whenever [Herta Coin] reaches 3 stacks during this cycle, prioritize drawing 1 of Herta’s skills.","各ターン開始時、「オート返答機能」を1枚山札に加える。
+この周回中、「ヘルタコイン」のスタックが3になるたび、ヘルタのスキルを優先して一枚引く。","每回合开始时，将[自动应答模式]加入牌库。
+每获得3层[黑塔币]，优先抽取1个黑塔的技能。",
+Character/Helta_MOD_PassiveName,Text,,,Number 83 of the Genius Society,天才クラブ#83,天才俱乐部#83,
+Character/Helta_MOD_SelectInfo,Text,,,"True master of the Herta Space Station.
+She only engages in what interests her, abandoning pursuits once bored—yet the Ark Project seems to hold her attention.
+Herta is an intellectual attacker who augments her deck with multiple powerful skills, outmaneuvering fate through meticulous calculation.","宇宙ステーション「ヘルタ」の真の主。
+自分が興味を持ったことにしか手を付けず、一旦興味を失えばすぐに離れてしまいます──だが、アークプロジェクトには興味があるようです。
+ヘルタはデッキに強力なスキルを複数追加する、知恵の運命を歩むアタッカーです。","空间站「黑塔」真正的主人。
+身为湛蓝星智商最高的人类，只做自己感兴趣的事，一旦失去兴趣就立刻走人——不过，现在似乎对「超时空方舟」计划抱有兴趣的样子。
+黑塔通过向牌库中添加多个强力技能来战斗，通过精打细算，就能够先命运一步掌控战局。",
+Character/Helta_MOD_Text_Battle_Cri_0,Text,,,Break already!,壊れちゃう！,破坏吧！,
+Character/Helta_MOD_Text_Battle_Healed_0,Text,,,How perceptive.,察しがいいのね。,你真机灵。,
+Character/Helta_MOD_Text_Battle_Idle_0,Text,,,Standby mode... So boring.,待機中…つまんないの。,待机中……真无聊。,
+Character/Helta_MOD_Text_Battle_Kill_0,Text,,,You’re wasting my time!,私の時間がパーになっちゃった！,你浪费了我的时间！,
+Character/Helta_MOD_Text_Battle_ND_0,Text,,,Connection... Disconnection...,接続…切断…,连接……断开……,
+Character/Helta_MOD_Text_Battle_Start_0,Text,,,You... That approach won’t work.,あなた…それじゃあダメだよ。,你这样可是不行的哦。,
+Character/Helta_MOD_Text_Field_GetItem_0,Text,,,"Hmm, not bad.",ふうん、いいんじゃない？,哼嗯……不是挺不错的嘛？,
+Character/Helta_MOD_Text_Field_Idle_0,Text,,,This project has its share of puppets too. Still far from perfection.,このプロジェクトにも人形がいるのね。まあ、完璧には程遠いけど。,这个项目中也有不少人偶啊。嘛，距离“完美”还差得远就是。,
+Character/Helta_MOD_Text_Field_Idle_1,Text,,,I need to speak with this world’s designer.,私はこの世界の設計者に用があるの。,我有事要找这个世界的设计者。,
+Character/Helta_MOD_Text_Field_Idle_2,Text,,,Perhaps I’ll develop a new Simulated Universe based on this project.,このプロジェクトを参考にして、新しい模擬宇宙を開発するのもいいかも。,以这个项目为参考，开发新的模拟宇宙似乎也不错。,
+Character/Helta_MOD_Text_Field_Potion_P_0,Text,,,"Yeah, yeah.",あーーはいはい。,嗯嗯，知道了。,
+Character/Helta_MOD_Text_PharosLeader_0,Text,,,Connection... Disrupted...,接続…阻害…,连接……干扰……,
+Character/Helta_MOD_Text_PharosLeader_1,Text,,,Re...booting...,再…起動…,重新……启动……,
+Character/Helta_MOD_Text_PharosLeader_2,Text,,,What are you staring at?,何見てるの？,你在看哪里？,
+Character/Helta_MOD_Text_Witch_0,Text,,,Do you know who I am?,私が誰だか知ってるの？,你知道我是什么人吗？,
+Character/Helta_MOD_Text_Witch_1,Text,,,"Alright, enough straining this body.",はいはい、もうこの体を酷使するのはやめて。,好吧，不能再过度使用这具身体了。,
+Character/Helta_MOD_name,Text,,,Herta,ヘルタ,黑塔,
+Skill/S_Azar_5_Name,Text,,,,,,
+Skill/S_Helta_01_1_Description,Text,,,"Add 3 copies of [It's Magic, I Added Some Magic] with Swiftness to your deck. Reduce their cost to 1.
+Gain 1 stack of Follow-up Attack.","迅速を付与した「私がかけた魔法だよ」をデッキに3枚加える。そのコストを1にする。
+「勝てば追い打ち」を一層付与する。",将3个附加迅速的[是魔法，我加了魔法]加入牌库，并使其费用转变为1。,
+Skill/S_Helta_01_1_Name,Text,,,"It's Magic, I Added Some Magic",私がかけた魔法だよ,是魔法，我加了魔法,
+Skill/S_Helta_01_Description,Text,,,"Add 3 copies of [It's Magic, I Added Some Magic] with Swiftness to your deck. Reduce their cost to 1.
+Gain 1 stack of Follow-up Attack.","迅速を付与した「私がかけた魔法だよ」をデッキに3枚加える。そのコストを1にする。
+「勝てば追い打ち」を一層付与する。",将3个附加迅速的[是魔法，我加了魔法]加入牌库，并使其费用转变为1。,
+Skill/S_Helta_01_Name,Text,,,"It's Magic, I Added Some Magic",私がかけた魔法だよ,是魔法，我加了魔法,
+Skill/S_Helta_02_Description,Text,,,"Add 2 copies of [The Birth of the Self] with Swiftness to your deck. Reduce their cost to 0.
+Gain 1 stack of Follow-up Attack.","迅速を付与した「私の誕生」をデッキに2枚加える。そのコストを0にする。
+「勝てば追い打ち」を一層付与する。",将2个附加迅速的[「我」的诞生]加入牌库，并使其费用转变为0。,
+Skill/S_Helta_02_Name,Text,,,The Birth of the Self,私の誕生,「我」的诞生,
+Skill/S_Helta_03_Description,Text,,,"Gain 2 stacks of Follow-up Attack.
+Gain 1 [Herta Coin].","自身に「勝てば追い打ち」を2層付与する。
+「ヘルタコイン」を1枚獲得する。",获得2层[黑塔币]。,
+Skill/S_Helta_03_Name,Text,,,It Can Still Be Optimized,改善すべきだよ,可以优化一下,
+Skill/S_Helta_04_Description,Text,,,"Add [Chronicle of a Starfall], [Memory Matrix], and [Perpetual Calculation] to your deck.",「とある星神の没落を記す」「記憶の素材」「絶え間ない演算」をデッキに加える。,将[记一位星神的陨落]、[记忆的质料]、[不息的演算]加入牌库。,
+Skill/S_Helta_04_Name,Text,,,Herta’s Emporium,ヘルタショップ,黑塔商店,
+Skill/S_Helta_05_Description,Text,,,"Grant all allies 1 stack of Follow-up Attack.
+Add 3 copies of [Auto-Reply Function] to your deck.","味方全体に「勝てば追い打ち」を1層付与する。
+「オート返答機能」を3枚山札に加える。","己方全体获得[得胜必追击]。
+将3个[自动应答模式]加入牌库。",
+Skill/S_Helta_05_Name,Text,,,No One Can Betray Me,誰も私を裏切れない,世上没人能负我,
+Skill/S_Helta_06_Description,Text,,,"If your deck has an even number of cards, add 1 [Fine, I'll Do It Myself] to your hand.",自分の山札が偶数なら、「やっぱり私がやる」を1枚手札に加える。,如果牌库的数量为偶数，将1个[还是我来吧]加入手中。,
+Skill/S_Helta_06_Name,Text,,,"Fine, I'll Do It Myself",やっぱり私がやる,还是我来吧,
+Skill/S_Helta_08_Description,Text,,,"If your deck has 40+ cards, draw 3 cards.",自分の山札が40枚以上なら、カードを三枚引く。,如果牌库的数量超过40，抽取3个技能。,
+Skill/S_Helta_08_Name,Text,,,Geniuses' Repose,天才たちの休息,天才们的休憩,
+Skill/S_Helta_09_Description,Text,,,Add 3 copies of [Remote Puppet] to your deck.,デッキに「リモート人形」を三枚加える。,将3个[自动应答模式]加入牌库。,
+Skill/S_Helta_09_Name,Text,,,I’m Busy,私は今忙しいの,我现在很忙,
+Skill/S_Helta_0_1_Description,Text,,,Gain 1 stack of [Herta Coin].  ,「ヘルタコイン」を1層得る。,　,
+Skill/S_Helta_0_1_Name,Text,,,Kuru Kuru~,くるくる～,转圈圈～,
+Skill/S_Helta_0_Description,Text,,,,,,
+Skill/S_Helta_0_Name,Text,,,,,,
+Skill/S_Helta_10_Description,Text,,,Add 2 copies of [Remote Puppet] to your deck.,デッキに「リモート人形」を2枚加える。,将3个[自动应答模式]加入牌库。,
+Skill/S_Helta_10_Name,Text,,,I’m Busy,私は今忙しいの,我现在很忙,
+Skill/S_Helta_11_Description,Text,,,Grant all enemies [Freeze!].,敵全体に「凍結！」を付与する。,　,
+Skill/S_Helta_11_Name,Text,,,Simulated Universe: Master Authority,模擬宇宙:マスター権限,模拟宇宙：管理权限,
+Skill/S_Helta_9_Description,Text,,,"Activates automatically when drawn.
+Add 1 [Kuru Kuru~] to your hand.
+Draw 1 card.","引くと自動的に発動
+""くるくる～""を1枚手札に加える。
+カードを一枚引く。","抽到时自动释放。
+将1个[转圈圈～]加入手中。抽取1个技能。",
+Skill/S_Helta_9_Name,Text,,,Auto-Reply Function,オート返答機能,自动应答模式,
+Skill/S_Helta_L_Description,Text,,,Add 2 copies of [Perpetual Calculation] to your deck.,「絶え間ない演算」を2枚山札に加える。,将2个[不息的演算]加入牌库。,
+Skill/S_Helta_L_Name,Text,,,Herta’s Intervention,ヘルタの介入,黑塔介入,
+Skill/S_Helta_R1_Description,Text,,,"Can only be activated if your deck has 60+ cards.
+Draw 9 cards.","自分の山札が60枚以上の時のみ発動できる。
+カードを9枚引く。",牌库的数量超过60才能发动。抽取9个技能。,
+Skill/S_Helta_R1_Name,Text,,,Imaginary Collapse Pulse,虚数崩壊インパルス,虚数坍缩脉冲,
+Skill/S_Helta_R2_Description,Text,,,"Add [Chronicle of a Starfall], [Memory Matrix], and [Perpetual Calculation] to your hand.",「とある星神の没落を示す」「記憶の素材」「絶え間なき演算」を手札に加える。,将[记一位星神的陨落]、[记忆的质料]、[不息的演算]加入手中。,
+Skill/S_Helta_R2_Name,Text,,,Paradigm Shift,パラダイムシフト,典范转移,
+Skill/S_Htoken_02_Description,Text,,,"Add 2 copies of [The Birth of the Self] with Swiftness to your deck. Reduce their cost to 0.
+Gain 1 stack of Follow-up Attack.","迅速を付与した「私の誕生」をデッキに2枚加える。そのコストを0にする。
+「勝てば追い打ち」を一層付与する。",将2个附加迅速的[「我」的诞生]加入牌库，并使其费用转变为0。,
+Skill/S_Htoken_02_Name,Text,,,The Birth of the Self,私の誕生,「我」的诞生,
+Skill/S_enzan_Description,Text,,,"Add 1 copy of [Perpetual Calculation] to your deck.
+Draw 2 skills.","「絶え間ない演算」を1枚山札に加える。
+スキルを2枚引く。","将1个[不息的演算]加入牌库。
+抽取2个技能。",
+Skill/S_enzan_Name,Text,,,Perpetual Calculation,絶え間ない演算,不息的演算,
+Skill/S_kioku_Description,Text,,,"Grant an ally 1 Block.
+Add 1 copy of this skill to your deck.","頑丈な盾を味方単体に付与。
+このスキルを1枚山札に加える。","将1个[记忆的质料]加入牌库。
+抽取1个技能。",
+Skill/S_kioku_Name,Text,,,Memory Matrix,記憶の素材,记忆的质料,
+Skill/S_toaru_Description,Text,,,"Grant an ally 1 Overload.
+Add 1 copy of [Chronicle of a Starfall] to your deck.","暴走を味方単体に付与。
+""とある星神の殞落を記す""を1枚デッキに加える。
+","将1个[记一位星神的陨落]加入牌库。
+抽取1个技能。",
+Skill/S_toaru_Name,Text,,,Chronicle of a Starfall,とある星神の殞落を記す,记一位星神的陨落,
+SkillExtended/HeltaEX2_Des,Text,,,,,,
+SkillExtended/HeltaMOD_Des,Text,,,Add 3 copies of [Remote Puppet] to your deck.,「リモート人形」を山札に三枚加える。,将3个[远程人偶]加入牌库。,
+SkillExtended/HeltaMOD_EnforceString,Text,,,,,,
+SkillExtended/HeltaMOD_Name,Text,,,,,,
+

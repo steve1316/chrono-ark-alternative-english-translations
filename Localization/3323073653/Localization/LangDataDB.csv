@@ -1,0 +1,159 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_SF_Judge_10_1_Description,Text,,,,,,
+Buff/B_SF_Judge_10_1_Name,Text,,,DEF Increased,,防御力增加,防禦力增加
+Buff/B_SF_Judge_10_2_Description,Text,,,,,,
+Buff/B_SF_Judge_10_2_Name,Text,,,ATK Increased,,攻击力增加,攻擊力增加
+Buff/B_SF_Judge_10_Description,Text,,,"When the shield is broken, remove this buff and increase Defense by 10% for 3 turns.
+Otherwise, when removed, increase Attack by 15% for 2 turns.",,"保护罩被击破时解除此增益，并使防御力提升10%(3回合)。
+否则在解除时使攻击力提升15%(2回合)。","保護罩被擊破時解除此增益，並使防禦力提升10%(3回合)。
+否則在解除時使攻擊力提升15%(2回合)。"
+Buff/B_SF_Judge_10_Name,Text,,,Retaliator Bastion,,反击者壁垒,反擊屏障
+Buff/B_SF_Judge_11_Description,Text,,,"When the shield is broken, remove this buff.
+When this buff is removed, deal damage to all enemies equal to 1.5x the total damage absorbed by the shield during its duration.
+Current damage absorbed: &a.",,"保护罩被击破时解除此增益。
+此增益被解除时，对所有敌人造成此增益持续期间保护罩受到伤害总和1.5倍的伤害。
+当前已受到伤害：&a。","保護罩被擊破時解除此增益。
+此增益被解除時，對所有敵人造成此增益持續期間保護罩受到傷害總和1.5倍的傷害。
+當前已受到傷害：&a。"
+Buff/B_SF_Judge_11_Name,Text,,,Detonation Guard,,爆发守护,爆發守護
+Buff/B_SF_Judge_12_1_Description,Text,,,,,,
+Buff/B_SF_Judge_12_1_Name,Text,,,,,,
+Buff/B_SF_Judge_12_Description,Text,,,"Unable to act.
+Gains a shield equal to 50% of the healing received by other allies.
+Gains a shield equal to 100% of the healing received when healed.",,"无法行动
+在其他友军受到治疗时获得其治疗量50%的保护罩。
+在自身受到治疗时获得治疗量100%的保护罩。","無法行動
+在其他友軍受到治療時獲得其治療量50%的保護罩。
+在自身受到治療時獲得治療量100%的保護罩。"
+Buff/B_SF_Judge_12_Name,Text,,,Shield Foundation,,护盾基石,護盾基石
+Buff/B_SF_Judge_1_Description,Text,,,,,,
+Buff/B_SF_Judge_1_Name,Text,,,Shield 1,,护盾1,護盾
+Buff/B_SF_Judge_2_Description,Text,,,,,,
+Buff/B_SF_Judge_2_Name,Text,,,Shield,,护盾,護盾
+Buff/B_SF_Judge_3_Description,Text,,,Halves this buff's value at the end of the turn.,,回合结束时此增益数值减半。,回合結束時此增益數值減半。
+Buff/B_SF_Judge_3_Name,Text,,,Armor Disassembly,,装甲解除,裝甲解除
+Buff/B_SF_Judge_4_Description,Text,,,"Can only attack &target.
+Removed when attacking.",,"无法攻击除&target以外的目标。
+攻击目标时解除。","無法攻擊除&target以外的目標。
+攻擊目標時解除。"
+Buff/B_SF_Judge_4_Name,Text,,,Enraged!!,,发怒！！,發怒！！
+Buff/B_SF_Judge_5_Description,Text,,,Consumes 1 stack per action.,,行动时消耗1层层数,行動時消耗1層層數
+Buff/B_SF_Judge_5_Name,Text,,,Restraint,,牵制,牽制
+Buff/B_SF_Judge_6_2_Description,Text,,,"While you have a shield, absorb all non-pain damage for allies.",,自身存在保护罩时，代替所有友军承受非痛苦伤害。,自身存在保護罩時，代替所有友軍承受非痛苦傷害。
+Buff/B_SF_Judge_6_2_Name,Text,,,Hero's Gravitas,,英雄引力,英雄引力
+Buff/B_SF_Judge_8_Description,Text,,,,,,
+Buff/B_SF_Judge_8_Name,Text,,,Precision Defense,,精密防御,精密防禦
+Buff/B_SF_Judge_9_Description,Text,,,,,,
+Buff/B_SF_Judge_9_Name,Text,,,Regulation,,规范,規範
+Buff/B_SF_Judge_S_Description,Text,,,,,,
+Buff/B_SF_Judge_S_Name,Text,,,Shield,,护盾,護盾
+Buff/B_SF_Judge_p_2_Description,Text,,,&a,,&a,&a
+Buff/B_SF_Judge_p_2_Name,Text,,,Aggro,,仇恨,仇恨
+Buff/B_SF_Judge_p_Description,Text,,,,,,
+Buff/B_SF_Judge_p_Name,Text,,,Damage Reduction,,减伤,減傷
+Character/SF_Judge_CampSelectWord,Text,,,"Sangvis Ferri, codename ""Judge"". Treat me well—I’ll be useful.",,铁血工造，代号“法官”。好好对我吧，我很有用的。,鐵血工造，代號“法官”。好好對我吧，我很有用的。
+Character/SF_Judge_PassiveDes,Text,,,"Barriers and personal shields take 20% less damage.
+Excess damage is negated when barriers or shields are depleted.
+Higher shield values increase enemy targeting priority.
+
+At Lv3: Gain [Targeted Analysis Contract] to replace 1 exclusive skill.
+At Lv5: Gain 2nd [Targeted Analysis Contract] and equipment [Core Bastion].",,"防护墙与自身的保护罩受到的伤害减少20%。
+防护墙与自身的保护罩耗尽时免除溢出伤害。
+自身保护罩越多，越容易被敌人攻击。
+
+3级时获得道具【定向解析契约】，使用后可替换1个专属技能。
+5级时获得第2张【定向解析契约】与装备【核心壁垒】。","防護牆與自身的保護罩受到的傷害減少20%。
+防護牆與自身的保護罩耗盡時免除溢出傷害。
+自身保護罩越多，越容易被敵人攻擊。
+
+3級時獲得道具【定向解析契約】，使用後可替換1個專屬技能。
+5級時獲得第2張【定向解析契約】與裝備【核心壁壘】。"
+Character/SF_Judge_PassiveName,Text,,,Sangvis Tactics: Judge,,铁血战术·法官,鐵血戰術·法官
+Character/SF_Judge_SelectInfo,Text,,,"Elite Defense Doll, Model SPSP
+
+Command-oriented and responsible for Sangvis Ferri HQ's defense and security systems. She is Elisa's bodyguard and will only listen to Elisa's personal orders. She was a doll built after the ""Butterfly Incident"". Having to face Dreamer everyday gives her a headache. Stern and old-fashioned, she possesses a soldier's dignity and bearing. She is absolutely loyal to Elisa, but her short stature makes people feel that she lacks presence. Anyone who brings that topic up will suffer terribly, friend or foe. 
+
+Combat style tends to focus on enhancing defense, specializing in generating barriers to fend off enemy attacks.",,"法官是铁血工造的头目单位。偏向指挥能力，负责铁血总部的防御和安全系统。严肃古板，充满军人的威严和风范，但个子比较矮小，让人觉得缺乏气势，提出这一点的人无论敌我都会倒大霉。
+
+战斗方式倾向于加强防御，擅长生成保护罩来抵御敌人的攻击。","法官是鐵血工造的頭目單位。偏向指揮能力，負責鐵血總部的防禦和安全系統。嚴肅古板，充滿軍人的威嚴和風範，但個子比較矮小，讓人覺得缺乏氣勢，提出這一點的人無論敵我都會倒大黴。
+
+戰鬥方式傾向於加強防禦，擅長生成保護罩來抵禦敵人的攻擊。"
+Character/SF_Judge_Text_Battle_AllyND_0,Text,,,"T_jud_3_1: ""Regroup and resume mission shortly.""",,T_jud_3_1:稍作休息再继续任务吧。,T_jud_3_1:稍作休息再繼續任務吧。
+Character/SF_Judge_Text_Battle_Cri_0,Text,,,"T_jud_6_1: ""Cease resistance to avoid unnecessary suffering.""",,T_jud_6_1:请放弃挣扎，以免造成不必要的痛苦。,T_jud_6_1:請放棄掙扎，以免造成不必要的痛苦。
+Character/SF_Judge_Text_Battle_Cri_1,Text,,,"T_jud_6_2: ""I shall be your destruction!""",,T_jud_6_2:就让我来破坏掉你吧！,T_jud_6_2:就讓我來破壞掉你吧！
+Character/SF_Judge_Text_Battle_Healed_0,Text,,,"T_jud_7_1: ""Hmph. Gratitude.""",,T_jud_7_1:唔，谢谢。,T_jud_7_1:唔，謝謝。
+Character/SF_Judge_Text_Battle_Healed_1,Text,,,"T_jud_7_2: ""Adequate performance.""",,T_jud_7_2:感觉不错，你很能干嘛。,T_jud_7_2:感覺不錯，你很能幹嘛。
+Character/SF_Judge_Text_Battle_Idle_0,Text,,,"T_jud_1_1: ""Proceed with the plan.""",,T_jud_1_1:继续计划吧。,T_jud_1_1:繼續計劃吧。
+Character/SF_Judge_Text_Battle_Kill_0,Text,,,"T_jud_5_1: ""Witness the disparity before demise!""",,T_jud_5_1:临死之前，看清楚差距吧！,T_jud_5_1:臨死之前，看清楚差距吧！
+Character/SF_Judge_Text_Battle_ND_0,Text,,,"T_jud_2_1: ""I require no pity! Cease that gaze!""",,T_jud_2_1:不要···同情我，我···不需要那种眼神！,T_jud_2_1:不要···同情我，我···不需要那種眼神！
+Character/SF_Judge_Text_Battle_ND_1,Text,,,"T_jud_2_2: ""This... shall not conclude...""",,T_jud_2_2:这一切，不会结束，也不该结束···,T_jud_2_2:這一切，不會結束，也不該結束···
+Character/SF_Judge_Text_Battle_Start_0,Text,,,"T_jud_4_1: ""Come together! I've no time to waste!""",,T_jud_4_1:哼，你们一起上吧，我赶时间！,T_jud_4_1:哼，你們一起上吧，我趕時間！
+Character/SF_Judge_Text_Battle_Start_1,Text,,,"T_jud_4_2: ""Commence! This won't be pleasant!""",,T_jud_4_2:开始吧，这个过程，不会好受的！,T_jud_4_2:開始吧，這個過程，不會好受的！
+Character/SF_Judge_Text_Field_GetItem_0,Text,,,"T_jud_9_1: ""If I keep growing stronger... Hmph, nothing.""",,T_jud_9_1:这样一点点变强下去，我会不会···唔，没什么。,T_jud_9_1:這樣一點點變強下去，我會不會···唔，沒什麼。
+Character/SF_Judge_Text_Field_Idle_0,Text,,,"T_jud_8_1: ""More battles? Not that I mind...""",,T_jud_8_1:哼，反正又是要我去打架吧，虽然我倒是不讨厌。,T_jud_8_1:哼，反正又是要我去打架吧，雖然我倒是不討厭。
+Character/SF_Judge_Text_Field_Potion_P_0,Text,,,"T_jud_10_1: ""Enhanced capabilities... yet height remains.""",,T_jud_10_1:果然只是能力的提升，并不会长高啊···,T_jud_10_1:果然只是能力的提升，並不會長高啊···
+Character/SF_Judge_Text_PharosLeader_0,Text,,,"T_jud_11_1: ""Conclusion approaches.""",,T_jud_11_1:马上就会结束了。,T_jud_11_1:馬上就會結束了。
+Character/SF_Judge_Text_PharosLeader_1,Text,,,"T_jud_11_2: ""Apologies... Never again...""",,T_jud_11_2:对不起···我不会让这种事发生第二次···,T_jud_11_2:對不起···我不會讓這種事發生第二次···
+Character/SF_Judge_Text_PharosLeader_2,Text,,,"T_jud_11_3: ""Haha!""",,T_jud_11_3:哈哈！,T_jud_11_3:哈哈！
+Character/SF_Judge_UnlockString,Text,,,,,,
+Character/SF_Judge_name,Text,,,Judge,,法官,法官
+Item_Consume/Item_SF_1_Description,Text,,,"Forget an exclusive skill, then select a new one from all exclusive skills.",,遗忘一个专属技能，然后从所有专属技能中选择一个学习。,遺忘一個專屬技能，然後從所有專屬技能中選擇一個學習。
+Item_Consume/Item_SF_1_name,Text,,,Targeted Analysis Contract,,定向解析契约,定向解析契約
+Item_Equip/E_SF_Judge_0_Description,Text,,,"Allies' shields negate excess damage when depleted.
+<color=red>Judge only</color>",,"友军的护盾耗尽时免除溢出伤害。
+<color=red>仅限法官佩戴</color>","友軍的護盾耗盡時免除溢出傷害。
+<color=red>僅限法官佩戴</color>"
+Item_Equip/E_SF_Judge_0_name,Text,,,Core Bastion,,核心壁垒,核心壁壘
+Skill/S_SF_Judge_10_Description,Text,,,,,,
+Skill/S_SF_Judge_10_Name,Text,,,Retaliatory Barrier,,反击屏障,反擊屏障
+Skill/S_SF_Judge_11_1_Description,Text,,,,,,
+Skill/S_SF_Judge_11_1_Name,Text,,,,,,
+Skill/S_SF_Judge_11_Description,Text,,,,,,
+Skill/S_SF_Judge_11_Name,Text,,,Detonation Guard,,爆发守护,爆發守護
+Skill/S_SF_Judge_12_Description,Text,,,,,,
+Skill/S_SF_Judge_12_Name,Text,,,Shield Foundation,,护盾基石,護盾基石
+Skill/S_SF_Judge_13_LucyDraw_Description,Text,,,"Prioritize drawing 2 skills with shield effects. If not all drawn skills have shields, shuffle shield skills from discard into deck and draw +1.",,优先抽取2个带有保护罩增益的技能，若抽取的技能不全为附带保护罩增益的技能，则将弃牌库中附带保护罩增益的技能洗入牌库并多抽取1个技能。,優先抽取2個帶有保護罩增益的技能，若抽取的技能不全爲附帶保護罩增益的技能，則將棄牌堆中附帶保護罩增益的技能洗入牌堆並多抽取一個技能。
+Skill/S_SF_Judge_13_LucyDraw_Name,Text,,,Shield Priming,,护盾预热,護盾預熱
+Skill/S_SF_Judge_1_Description,Text,,,Shields applied to yourself or shieldless allies are 50% stronger.,,以自身或无保护罩的友军为目标时，施加的保护罩数值提升50%。,以自身或無保護罩的友軍爲目標時，施加的保護罩數值提升50%。
+Skill/S_SF_Judge_1_Name,Text,,,Shield Envelopment,,护盾包覆,護盾包覆
+Skill/S_SF_Judge_2_Description,Text,,,Convert existing shields into a 1.5x value permanent shield (minimum &a).,,将现有的保护罩转化为1.5倍的无限持续时间的保护罩(不低于&a点)。,將現有的保護罩轉化爲1.5倍的無限持續時間的保護罩(不低於&a點)。
+Skill/S_SF_Judge_2_Name,Text,,,Fortification Doctrine,,坚壁理论,堅壁理論
+Skill/S_SF_Judge_3_Description,Text,,,"Damage scales with Max HP and DEF.
+If attacked during countdown: Instant cast with guaranteed Critical on attacker.",,"该技能造成的伤害基于最大生命值与防御力。
+该技能倒计时期间若受到攻击，则立即释放该技能，并对攻击者必定暴击。","該技能造成的傷害基於最大生命值與防禦力。
+該技能倒計時期間若受到攻擊，則立即釋放該技能，並對攻擊者必定暴擊。"
+Skill/S_SF_Judge_3_Name,Text,,,Assault Armor,,突击装甲,突擊裝甲
+Skill/S_SF_Judge_4_Description,Text,,,"Attack enemies adjacent to the target. Gain a shield equal to the average damage dealt.
+Apply 1 [Enraged!!] if no adjacent enemies.",,"同时攻击目标两侧的敌人，获得造成的伤害的平均值的护盾。
+目标两侧均无敌人时，额外施加1层【发怒！！】","同時攻擊目標兩側的敵人，獲得造成的傷害的平均值的護盾。
+目標兩側均無敵人時，額外施加1層【發怒！！】"
+Skill/S_SF_Judge_4_Name,Text,,,Judgment,,裁决,裁決
+Skill/S_SF_Judge_5_Description,Text,,,Prioritize attacking enemies adjacent to the target for 3 cycles. Attack target if no adjacent foes.,,优先攻击目标两侧的敌人3轮，目标一侧没有敌人时则攻击目标。,優先攻擊目標兩側的敵人3輪，目標一側沒有敵人時則攻擊目標。
+Skill/S_SF_Judge_5_Name,Text,,,Parallel Vulcans,,并列机枪,並列機槍
+Skill/S_SF_Judge_6_Description,Text,,,,,,
+Skill/S_SF_Judge_6_Name,Text,,,Hero's Gravitas,,英雄引力,英雄引力
+Skill/S_SF_Judge_7_Description,Text,,,,,,
+Skill/S_SF_Judge_7_Name,Text,,,Plague Field,,瘟疫力场,瘟疫力場
+Skill/S_SF_Judge_8_Description,Text,,,"Convert all allies' shields into &a party Barrier points.
+(Every &b shield converts to 1 Barrier, rounded up.)
+Barriers from this skill consume at most 1 per hit.",,"将友军所有保护罩转化为&a点防护墙。
+(每&b点保护罩转化为1点防护墙，向上取整)
+此技能生成的防护墙单次最多消耗1点。","將友軍所有保護罩轉化爲&a點防護牆。
+(每&b點保護罩轉化爲1點防護牆，向上取整)
+此技能生成的防護牆單次最多消耗1點。"
+Skill/S_SF_Judge_8_Name,Text,,,Precision Defense,,精密防御,精密防禦
+Skill/S_SF_Judge_9_Description,Text,,,Grant Attack +15%/Healing +15%/Defense +10% for 2 turns based on target type.,,根据目标类型给与攻击力增加15%/治疗力增加15%/防御力增加10%的增益(2回合)。,根據目標類型給與攻擊力增加15%/治療力增加15%/防禦力增加10%的增益(2回合)。
+Skill/S_SF_Judge_9_Name,Text,,,Regulation,,规范,規範
+SkillExtended/SkillEn_SF_Judge_0_Des,Text,,,,,,
+SkillExtended/SkillEn_SF_Judge_0_EnforceString,Text,,,,,,
+SkillExtended/SkillEn_SF_Judge_0_Name,Text,,,While you have a shield: Cost -1 and gain Swiftness.,,自身有保护罩时。费用减1并附带迅速效果。,自身有保護罩時。費用減1並附帶迅速效果。
+SkillExtended/SkillEn_SF_Judge_1_Des,Text,,,,,,
+SkillExtended/SkillEn_SF_Judge_1_EnforceString,Text,,,,,,
+SkillExtended/SkillEn_SF_Judge_1_Name,Text,,,Gain a shield equal to half the total shields of all other allies.,,获得其他所有友军的保护罩总和一半的保护罩。,獲得其他所有友軍的保護罩總和一半的保護罩。
+SkillKeyword/KeyWord_SF_0_Desc,Text,,,Select a skill to forget,,选择一个技能遗忘,選擇一個技能遺忘
+SkillKeyword/KeyWord_SF_0_Name,Text,,,,,,
+SkillKeyword/KeyWord_SF_JudgeShield_des_Desc,Text,,,Scales with Max HP,,基于最大生命值,基於最大體力值
+SkillKeyword/KeyWord_SF_JudgeShield_des_Name,Text,,,,,,
+,,,,,,,
+,,,,,,,
+

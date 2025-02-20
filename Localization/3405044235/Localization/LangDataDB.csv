@@ -1,0 +1,345 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_MizuharaAina_1_Description,Text,,,The next skill that hits an enemy increases <color=#E5FF56>Combo Energy</color> by &a. This buff is removed after triggering once.,次の攻撃スキルが<color=#E5FF56>連撃エネルギ</color>を&a上げる。このBUFFが一回のみ効く。,下一个命中敌方的技能，<color=#E5FF56>连击能量</color>提高&a点，生效一次后解除全体友军的该增益,下一个命中敌方的技能，<color=#E5FF56>连击能量</color>提高&a点，生效一次后解除全体友军的该增益
+Buff/B_MizuharaAina_1_Name,Text,,,Pirate Combo,パイレーツ連撃,海盗连击,海盗连击
+Buff/B_MizuharaAina_3_Description,Text,,,All allies' <color=#FF98DE>OD Gauge gain</color> increases by 10% and gain additional buff effects.,味方全員の<color=#FF98DE>ODゲージ上昇量</color>が10%アップし，他の増益効果も加えられる。,全体友军的<color=#FF98DE>OD获取量</color>提高10%，并附带其他增益效果,全体友军的<color=#FF98DE>OD获取量</color>提高10%，并附带其他增益效果
+Buff/B_MizuharaAina_3_Name,Text,,,Abyssal Gift,海からの贈り物,深海馈赠,深海馈赠
+Buff/B_MizuharaAina_5_Description,Text,,,,,,
+Buff/B_MizuharaAina_5_Name,Text,,,[Let's Feast Together] Healing Effect,【大家一起享用咯】回血效果,【大家一起享用咯】回血效果,【大家一起享用咯】回血效果
+Buff/B_MizuharaAina_6_Description,Text,,,"Grants the following effects while ""Aina"" is alive:
+Gain 2 <color=#35F9FF>Azure Hearts</color> at the start of each turn.
+All allies gain +10% Defense.
++10% <color=#FF98DE>OD Gauge gain</color>.
+All skills gain <color=#E5FF56>Combo Energy+1</color>.
+Skills grant +5 extra OD on hit.",味方全員の防御力、<color=#FF98DE>ODゲージ上昇量</color>を10％上げ、全てのスキルを<color=#E5FF56>連撃エネルギ</color>１点を得る、そしてスキルが命中した時、エクストラ5点のODエネルギをつもり。さらに、あいなが生きていれば、ターンの始まった時二つの<color=#35F9FF>碧海の心</color>を得る。,"获得以下效果：鱼鱼存活时，每回合开始时获得2顆<color=#35F9FF>海蓝之心</color>；
+全体成员防御力提高10%；
+<color=#FF98DE>OD获取量</color>提高10%；
+所有技能获得<color=#E5FF56>连击能量</color>：1
+所有技能额外获得5点od
+","获得以下效果：鱼鱼存活时，每回合开始时获得2顆<color=#35F9FF>海蓝之心</color>；
+全体成员防御力提高10%；
+<color=#FF98DE>OD获取量</color>提高10%；
+所有技能获得<color=#E5FF56>连击能量</color>：1
+所有技能额外获得5点od
+"
+Buff/B_MizuharaAina_6_Name,Text,,,<color=#35F9FF>Oceanic Domain</color>,<color=#35F9FF>海世界領域</color>,<color=#35F9FF>海洋世界领域</color>,<color=#35F9FF>海洋世界领域</color>
+Buff/B_MizuharaAina_7_Description,Text,,,"Slightly increases chance to be targeted.
+When attacked, restores Healing Gauge and gains OD equal to damage taken.","攻撃に受ける確率をちょっとだけアップする。
+そして攻撃を受けた時、回復ゲージを回復し、受けたダメージと同量なODエネルギをチャージする。","被攻击的概率略微提高；
+当自己被攻击后，恢复体力极限并增加受到伤害的od。","被攻击的概率略微提高；
+当自己被攻击后，恢复体力极限并增加受到伤害的od。"
+Buff/B_MizuharaAina_7_Name,Text,,,Net Casting,撒き網漁,撒网捕捞,撒网捕捞
+Buff/B_MizuharaAina_D10_Description,Text,,,"Reduces enemy damage by 20%. Skills that hit this enemy gain <color=#E5FF56>Combo Energy+2</color> when gaining OD from it. Draw 1 card after resolving, then remove this debuff.",敵20％のダメージをダウンする、そしてODを蓄積する時、命中したスキルを<color=#E5FF56>連撃エネルギ</color>２点得る。この効果が計算完了の時、カード一枚をドローし、このDEBUFFを解除する。,降低敌方20%伤害，从该敌人身上获取od时，命中敌方的技能获得<color=#E5FF56>连击能量</color>2，结算后之后抽一张牌.并解除该debuff,降低敌方20%伤害，从该敌人身上获取od时，命中敌方的技能获得<color=#E5FF56>连击能量</color>2，结算后之后抽一张牌.并解除该debuff
+Buff/B_MizuharaAina_D10_Name,Text,,,"""Food...""",食物...,食物...,食物...
+Buff/B_MizuharaAina_D1_Description,Text,,,,,,
+Buff/B_MizuharaAina_D1_Name,Text,,,Cannon Malfunction,キャノン損傷,炮击损伤,炮击损伤
+Buff/B_MizuharaAina_D2_Description,Text,,,"During OD activation: +15% OD damage taken. Once per OD activation, if target's Defense bonus >0, set it to 0.",OD発動の間に、ODダメージ増益が15％アップする。さらにOD発動期間中に一回のみ効ける：敵の防御力が0に超えれば、防御力が０になれ。,OD发动期间，受到的OD伤害加成提高15%；且OD发动期间仅一次，若防御力加成大于0，则自动使防御力加成变成0,OD发动期间，受到的OD伤害加成提高15%；且OD发动期间仅一次，若防御力加成大于0，则自动使防御力加成变成0
+Buff/B_MizuharaAina_D2_Name,Text,,,OD Fragility,OD脆弱,OD脆弱,OD脆弱
+Buff/B_MizuharaAina_D3_Description,Text,,,Attacking this enemy grants <color=#E5FF56>Combo Energy+1</color> when calculating OD gain.,この敵を攻撃する時、命中したスキルを<color=#E5FF56>連撃エネルギ</color>１点得る,攻击该敌人获得的OD，计算时<color=#E5FF56>连击能量</color>+1,攻击该敌人获得的OD，计算时<color=#E5FF56>连击能量</color>+1
+Buff/B_MizuharaAina_D3_Name,Text,,,"""Let's Befriend Aina~""",あいなと仲良しいにしよう~,和鱼鱼做好朋友吧~,和あいな做好朋友吧~
+Buff/B_MizuharaAina_D4_Description,Text,,,Grants 10 OD to allies at the start of each turn.,ターンの始まり時、ODエネルギを10点アップする。,每回合开始时，为我方提供10点OD,每回合开始时，为我方提供10点OD
+Buff/B_MizuharaAina_D4_Name,Text,,,"""Become Aina's Meal~""",あいなの食物になるさ～,成为鱼鱼的食物吧～,成为あいな的食物吧～
+Buff/B_MizuharaAina_D5_Description,Text,,,"At turn start: Lose 10% Max HP (min 1 damage), heal all allies by 3 HP. This healing effect can trigger once per turn.",ターンの始まり時、MaxHP10%を失って、味方全員を３HPを回復する。同名な回復効果が１ターンに１回しか効かない。,"每回合开始时，损失最大hp10%的hp(至少造成1点伤害)，全体友军固定治疗3点Hp,同名治疗效果一回合只生效一次","每回合开始时，损失最大hp10%的hp(至少造成1点伤害)，全体友军固定治疗3点Hp,同名治疗效果一回合只生效一次"
+Buff/B_MizuharaAina_D5_Name,Text,,,"""Let's Feast Together~""",みんな一緒食べよう～,大家一起享用咯,大家一起享用咯
+Buff/B_MizuharaAina_D9_Description,Text,,,Lose 11% Max HP at turn start.,ターンの始まり時、MaxHP11%を失う,回合开始时，hp下降最大生命11%,回合开始时，hp下降最大生命11%
+Buff/B_MizuharaAina_D9_Name,Text,,,Suffocation,窒息,窒息,窒息
+Buff/B_MizuharaAina_DR1_Description,Text,,,"Permanently reduces Defense. On action: Take 7% current HP as DoT damage.
+Converts decomposed protein into OD energy. Increases OD gain from DoT damage.",防御力が永久的にダウンする。そして行動の時、7%HPのDOTダメージを受け、分解されたタンパク質がODエネルギをなる。さらに、ダメージによるDOTのＯＤエネルギ収益も上げる。,"防御力永久下降，行动时，受到相当于当前生命7%的HP的Dot伤害；
+分解的蛋白质将转换为OD能量，该BUFF带来的伤害将按比例提高该Dot的OD收益。
+","防御力永久下降，行动时，受到相当于当前生命7%的HP的Dot伤害；
+分解的蛋白质将转换为OD能量，该BUFF带来的伤害将按比例提高该Dot的OD收益。
+"
+Buff/B_MizuharaAina_DR1_Name,Text,,,Protein Toxin,タンパク質毒素,蛋白分解毒素,蛋白分解毒素
+Buff/B_MizuharaAina_P_Description,Text,,,"Aina's <color=#FF98DE>OD Gauge gain</color>: +&b%
+Next <color=#35F9FF>Azure Heart</color> requires: &a OD
+Battle-start <color=#FF98DE>OD Gauge gain</color> bonus: &c%","あいなの<color=#FF98DE>ODゲージ上昇量</color>：&b%
+次<color=#35F9FF>碧海の心</color>の必要OD：&a点ODエネルギ
+戦闘開始した時の<color=#FF98DE>ODゲージ上昇量</color>ボーナス：&c%","鱼鱼的<color=#FF98DE>OD获取量</color>上升：&b%
+距离下一次获取海蓝之心，还需获得：&a点OD
+战斗开始时的<color=#FF98DE>OD获取量</color>加成：&c%","あいな的<color=#FF98DE>OD获取量</color>上升：&b%
+距离下一次获取海蓝之心，还需获得：&a点OD
+战斗开始时的<color=#FF98DE>OD获取量</color>加成：&c%"
+Buff/B_MizuharaAina_P_Name,Text,,,<color=#35F9FF>Azure Heart</color>,<color=#35F9FF>碧海の心</color>,<color=#35F9FF>海蓝之心</color>,<color=#35F9FF>海蓝之心</color>
+Character/MizuharaAina_PassiveDes,Text,,,"Gain 1 <color=#35F9FF>Azure Heart</color> (max 10) per 5 OD earned. Each <color=#35F9FF>Azure Heart</color> increases Aina's <color=#FF98DE>OD Gauge gain</color> by 1.5%. During OD, <color=#35F9FF>Azure Heart</color> consumption -1. At the end of the turn, <color=#35F9FF>Azure Hearts</color> becomes halved.",ODエネルギを5点得る度に、瑞原あいなが<color=#35F9FF>碧海の心</color>一枚をゲットする（最大１０枚）、そしてターンエンドの時、<color=#35F9FF>碧海の心</color>がハーフになる。心の枚数につきあいなの<color=#FF98DE>ODゲージ上昇量</color>が1.5％上げる。OD発動の間に、<color=#35F9FF>碧海の心</color>の消耗が-1にする。,每获得5点OD，瑞原鱼鱼就能够获得一颗<color=#35F9FF>海蓝之心</color>（最大10颗），每颗<color=#35F9FF>海蓝之心</color>提高瑞原あいな1.5%的<color=#FF98DE>OD获取量</color> ，OD发动期间，<color=#35F9FF>海蓝之心</color>的消耗减1；回合结束时，<color=#35F9FF>海蓝之心</color>的数量将减半,每获得5点OD，瑞原あいな就能够获得一颗<color=#35F9FF>海蓝之心</color>（最大10颗），每颗<color=#35F9FF>海蓝之心</color>提高瑞原あいな1.5%的<color=#FF98DE>OD获取量</color> ，OD发动期间，<color=#35F9FF>海蓝之心</color>的消耗减1；回合结束时，<color=#35F9FF>海蓝之心</color>的数量将减半
+Character/MizuharaAina_PassiveName,Text,,,Esteemed Oceanographer,一人前の海洋学者,独当一面的海洋学家,独当一面的海洋学家
+Character/MizuharaAina_SelectInfo,Text,,,Aina harnesses oceanic power through <color=#35F9FF>Azure Hearts</color> to provide strong OD support and tactical flexibility via Exile deck manipulation.,充分に海の力を使え、そして<color=#35F9FF>碧海の心</color>の奇跡と追放デッキの霊妙な活用で瑞原あいなが味方に対し豊かな援護ができ、そして戦術の多様性も確保できる。,瑞原鱼鱼能够充分发挥海洋的力量，通过<color=#35F9FF>海蓝之心</color>给与友军强大的OD支援，并能够灵活运用放逐牌库使得己方战术更加灵活,瑞原鱼鱼能够充分发挥海洋的力量，通过<color=#35F9FF>海蓝之心</color>给与友军强大的OD支援，并能够灵活运用放逐牌库使得己方战术更加灵活
+Character/MizuharaAina_name,Text,,,Mizuhara Aina,瑞原あいな,瑞原蓝娜,瑞原あいな
+Skill/S_MizuharaAina_10_Description,Text,,,"[Requires enemy target]
+Applies ""Food..."".
+When this card enters hand from Exile deck: If Aina is alive, gain 5 <color=#35F9FF>Azure Hearts</color> and prioritize drawing a skill.
+<color=#35F9FF>Azure Heart&h1</color>: Extend all enemy debuffs by 1 turn.","敵を目標にすれば発動できる：
+「食物…」を付与；
+このカードが追放デッキから手札に入る時、もしあいなが生きていれば、5枚の<color=#35F9FF>碧海の心</color>を獲得し、自分のスキルを一枚優先ドローする。
+
+<color=#35F9FF>碧海の心&h1</color>
+目標全てのDEBUFFが１ターン延長する。","指向敌人才能释放：
+施加[食物...]减益；
+此卡从放逐牌库加入手牌时，若あいな存活，获得5顆<color=#35F9FF>海蓝之心</color>，并优先抽取一个自己的技能。
+
+<color=#35F9FF>海蓝之心&h1</color>
+敌方所有debuff延长一回合。","指向敌人才能释放：
+施加[食物...]减益；
+此卡从放逐牌库加入手牌时，若あいな存活，获得5顆<color=#35F9FF>海蓝之心</color>，并优先抽取一个自己的技能。
+
+<color=#35F9FF>海蓝之心&h1</color>
+敌方所有debuff延长一回合。"
+Skill/S_MizuharaAina_10_Name,Text,,,Food Observation,食物観測,食物观测,食物观测
+Skill/S_MizuharaAina_1_Description,Text,,,"Reduces all enemies' Defense. Damage and <color=#E5FF56>Combo Energy</color> scale with enemy count:
+1 enemy: +120% damage, <color=#E5FF56>Combo Energy+8</color>
+2 enemies: +45% damage, <color=#E5FF56>Combo Energy+3</color>
+3+ enemies: +30% damage, <color=#E5FF56>Combo Energy+2</color>
+
+<color=#35F9FF>Azure Heart&h1</color>
+50% damage converted to Barrier. Allies' next skill gains 50% of this skill's <color=#E5FF56>Combo Energy</color>.","全て敵の防御力を下げ、そして敵の数量に応じてこのスキルのダメージと<color=#E5FF56>連撃エネルギ</color>を上げる。
+1人：120%ダメージを上げ，<color=#E5FF56>連撃エネルギ8</color>を付与
+2人：45%ダメージを上げ，<color=#E5FF56>連撃エネルギ３</color>を付与
+3人以上：30%ダメージを上げ，<color=#E5FF56>連撃エネルギ2</color>を付与
+
+<color=#35F9FF>碧海の心&h1</color>
+ダメージの50％が防壁になり、味方次のスキルがこのスキルを使ったとき50％の<color=#E5FF56>連撃エネルギ</color>を付与する。。","降低所有敌人的防御力，并根据敌人数量额外提高伤害倍率和<color=#E5FF56>连击能量</color>
+1个敌人：提高120%倍率，获得<color=#E5FF56>连击能量8</color>
+2个敌人:额外提高45%倍率，获得<color=#E5FF56>连击能量3</color>
+3个及以上敌人:额外提高30%倍率，获得<color=#E5FF56>连击能量2</color>
+
+<color=#35F9FF>海蓝之心&h1</color>
+造成的伤害50%将转化为防护墙，使友军的下一个技能附带本技能使用时50%的<color=#E5FF56>连击能量</color>","降低所有敌人的防御力，并根据敌人数量额外提高伤害倍率和<color=#E5FF56>连击能量</color>
+1个敌人：提高120%倍率，获得<color=#E5FF56>连击能量8</color>
+2个敌人:额外提高45%倍率，获得<color=#E5FF56>连击能量3</color>
+3个及以上敌人:额外提高30%倍率，获得<color=#E5FF56>连击能量2</color>
+
+<color=#35F9FF>海蓝之心&h1</color>
+造成的伤害50%将转化为防护墙，使友军的下一个技能附带本技能使用时50%的<color=#E5FF56>连击能量</color>"
+Skill/S_MizuharaAina_1_Name,Text,,,Pirate Cannon,パイレーツキャノン,海盗加农炮,海盗加农炮
+Skill/S_MizuharaAina_2_Description,Text,,,"During OD activation: This skill costs 0 AP and gains Swiftness.
+
+Applies <color=#E560FF>OD Fragility</color> to enemies for 3 turns.
+
+<color=#35F9FF>Azure Heart&h1</color>
+Applies <color=#E560FF>""Befriend Aina~""</color> for 2 turns.
+<color=#35F9FF>Azure Heart&h2</color>
+After applying <color=#E560FF>""Befriend Aina~""</color>, if <color=#EDFAEC>""Savor the Depths""</color> exists in the deck, add 1 copy to hand with 0 AP cost. Shuffle the deck.","OD発動の間に、このスキルがAP0になり、迅速になる。
+
+敵に<color=#E560FF>OⅮ脆弱</color>3ターンを３ターン付与する。
+
+<color=#35F9FF>碧海の心&h1</color>
+敵に<color=#E560FF>「あいなと仲良しいにしよう~」</color>3ターンを２ターン付与する。
+<color=#35F9FF>碧海の心&h2</color>
+敵に<color=#E560FF>「あいなと仲良しいにしよう~」</color>を付与した後,もしデッキに<color=#EDFAEC>【奥深い味わいを】</color>があれば，その一枚を手札に入れ，APを0になる。デッキをシャッフル。","OD发动状态中此技能消耗变成0费并获得迅速。
+
+对敌方施加<color=#E560FF>Od脆弱</color>3回合。
+
+<color=#35F9FF>海蓝之心&h1</color>
+施加2回合<color=#17FF00>【和あいな做好朋友吧】</color>
+<color=#35F9FF>海蓝之心&h2</color>
+施加<color=#17FF00>【和あいな做好朋友吧】</color>后,若牌库中存在<color=#EDFAEC>【品尝深奥滋味】</color>，将其中一张加入手牌，费用变为0费，并洗切牌堆。","OD发动状态中此技能消耗变成0费并获得迅速。
+
+对敌方施加<color=#E560FF>Od脆弱</color>3回合。
+
+<color=#35F9FF>海蓝之心&h1</color>
+施加2回合<color=#17FF00>【和あいな做好朋友吧】</color>
+<color=#35F9FF>海蓝之心&h2</color>
+施加<color=#17FF00>【和あいな做好朋友吧】</color>后,若牌库中存在<color=#EDFAEC>【品尝深奥滋味】</color>，将其中一张加入手牌，费用变为0费，并洗切牌堆。"
+Skill/S_MizuharaAina_2_Name,Text,,,Frilled Shark Blade,ラブカ・ブレード,皺鰓鯊硬刃,皺鰓鯊硬刃
+Skill/S_MizuharaAina_3_Description,Text,,,"At battle start: Increases own <color=#FF98DE>OD Gauge gain</color> by 10%.
+This card's duplicates can only be activated twice per battle.
+Cannot be manually played. Automatically activates from hand when ≥5 <color=#35F9FF>Azure Hearts</color> are consumed in a turn (including turn-end consumption).
+For 2 turns: All allies gain +15% <color=#FF98DE>OD Gauge gain</color>, +10% damage/healing. Returns 1 card from Exile deck to hand.
+
+<color=#35F9FF>Azure Heart&h1</color>
+Taunts all enemies for 1 turn. Aina gains Healing Gauge protection for 2 turns.
+
+<color=#F54899>Hearts consumed this turn: &u1</color>
+
+<color=#F54899>Activations used this battle: &u2</color>","戦闘開始した時自分の<color=#FF98DE>ODゲージ上昇量が</color>10％上げ
+同名カードが一回戦闘につき2回だけ効ける。
+このカードを主動的使うことができない。１ターンで消耗された<color=#35F9FF>碧海の心</color>が5枚以上の時（ターンエンドの時消耗された心もはかられる）、手札から自動的に発動。
+これから２ターンの間に、味方全員の<color=#FF98DE>ODゲージ上昇量が</color>15％上げ、ダメージ、回復それぞれ10％上げる。さらに、追放デッキからカード一枚を選択し手札に戻る。
+
+<color=#35F9FF>碧海の心&h1</color>１ターン間に、全てのエネミーがあいなにしか攻撃できない、そしてあいな自身がターンで回復ゲージ保護状態をされます。
+
+<color=#F54899>このターン消耗された心の数量：&u1</color>
+ 
+<color=#F54899>本戦闘で使うこのスキルの数量：&u2</color>","战斗开始时，提高自身10%<color=#FF98DE>OD获取量</color>
+这张卡的同名卡一次战斗仅能生效2张.
+此卡不能从手牌主动打出，当本回合消耗的（包括回合结束时自动消耗的）<color=#35F9FF>海蓝之心</color>大于5时，从手牌自动打出。
+2回合间，全体友军的<color=#FF98DE>OD获取量</color>提高15%，伤害，治疗量提高10%，选择放逐牌库的一张牌返回手牌。
+
+<color=#35F9FF>海蓝之心&h1 </color>强嘲讽所有敌人1回合，あいな获得保护自身体力极限2回合。
+
+<color=#F54899>本回合消耗的数量：&u1</color>
+ 
+<color=#F54899>本次战斗中发动的张数：&u2</color>","战斗开始时，提高自身10%<color=#FF98DE>OD获取量</color>
+这张卡的同名卡一次战斗仅能生效2张.
+此卡不能从手牌主动打出，当本回合消耗的（包括回合结束时自动消耗的）<color=#35F9FF>海蓝之心</color>大于5时，从手牌自动打出。
+2回合间，全体友军的<color=#FF98DE>OD获取量</color>提高15%，伤害，治疗量提高10%，选择放逐牌库的一张牌返回手牌。
+
+<color=#35F9FF>海蓝之心&h1 </color>强嘲讽所有敌人1回合，あいな获得保护自身体力极限2回合。
+
+<color=#F54899>本回合消耗的数量：&u1</color>
+ 
+<color=#F54899>本次战斗中发动的张数：&u2</color>"
+Skill/S_MizuharaAina_3_Name,Text,,,Aquatic Pulse,水光の波動,水光的波动,水光的波动
+Skill/S_MizuharaAina_4_Description,Text,,,"Stuns enemy for 1 turn. Choose:
+
+<color=#35F9FF>Azure Heart&h1</color>: If target has <color=#17FF00>""Befriend Aina""</color>, make it permanent and apply <color=#17FF00>""Become Aina's Meal~""</color>.
+<color=#35F9FF>Azure Heart&h2</color>: If deck contains <color=#EDFAEC>""Prepare Sashimi""</color>, add 1 copy to hand with 0 cost. Shuffle deck.","敵がスタン状態になり、そして次の効果を一つ選択し、発動できる。
+
+<color=#35F9FF>碧海の心&h1</color>目標でデバフ<color=#17FF00>【あいなと仲良しいにしよう】</color>あれば、そのデバフの持続時間が無限になる。そして、<color=#17FF00>【あいなの食物になるさ～】</color>を付与します。
+<color=#35F9FF>碧海の心&h2</color>上述の効果を発動した後、デッキに<color=#EDFAEC>【さしみを作るのさ】</color>があれば、そのなかの一枚を手札に加えて、さらにコストはゼロになり、そしてデッキをシャッフル。","眩晕敌人1回合，并可以选择发动以下效果的一个
+
+<color=#35F9FF>海蓝之心&h1</color>若敌人拥有<color=#17FF00>【和あいな做朋友吧】</color> ，则将该减益变成永久，并施加<color=#17FF00>【成为あいな的食物吧～】</color>
+<color=#35F9FF>海蓝之心&h2</color>执行上述效果后，若牌库存在<color=#EDFAEC>【制作水产刺身】</color>，将其中一张加入手牌，费用变为0费，并洗切牌库。","眩晕敌人1回合，并可以选择发动以下效果的一个
+
+<color=#35F9FF>海蓝之心&h1</color>若敌人拥有<color=#17FF00>【和あいな做朋友吧】</color> ，则将该减益变成永久，并施加<color=#17FF00>【成为あいな的食物吧～】</color>
+<color=#35F9FF>海蓝之心&h2</color>执行上述效果后，若牌库存在<color=#EDFAEC>【制作水产刺身】</color>，将其中一张加入手牌，费用变为0费，并洗切牌库。"
+Skill/S_MizuharaAina_4_Name,Text,,,Savor the Depths,奥深い味わいを,品尝深奥滋味,品尝深奥滋味
+Skill/S_MizuharaAina_5_Description,Text,,,"Grants Barrier equal to 2x <color=#35F9FF>Azure Hearts</color>.
+
+<color=#35F9FF>Azure Heart&h1</color>: Applies <color=#17FF00>""Let's Feast Together~""</color> to all enemies with <color=#17FF00>""Become Aina's Meal~""</color>.","現在<color=#35F9FF>碧海の心</color>の2倍の防壁を付与する。
+
+<color=#35F9FF>碧海の心&h1</color><color=#17FF00>【あいなの食物になるさ～】</color>に付与された全ての敵がデバフ<color=#17FF00>【みんな一緒食べよう～】</color>を付与します。
+","施加等同于目前<color=#35F9FF>海蓝之心</color>数量2倍的防护墙
+
+<color=#35F9FF>海蓝之心&h1</color>
+对所有拥有<color=#17FF00>【成为あいな的食物吧～】</color>的敌方施加<color=#17FF00>【大家一起享用咯】</color>","施加等同于目前<color=#35F9FF>海蓝之心</color>数量2倍的防护墙
+
+<color=#35F9FF>海蓝之心&h1</color>
+对所有拥有<color=#17FF00>【成为あいな的食物吧～】</color>的敌方施加<color=#17FF00>【大家一起享用咯】</color>"
+Skill/S_MizuharaAina_5_Name,Text,,,Prepare Sashimi,さしみを作るのさ,制作水产刺身,制作水产刺身
+Skill/S_MizuharaAina_6_Description,Text,,,"[Cannot be manually played] Only one copy's effect is active when multiple duplicates are in hand.
+After spending 15 AP from skills in hand, Exclude this card. When Excluded: Choose 1 of the top 4 deck cards to add to hand, then shuffle.
+While held: Activates <color=#17FF00>Oceanic Domain</color>. When returning from Exclude deck to hand: Deals 5% Max HP damage to all enemies.
+
+<color=#F54899>Current AP spent: &ap</color>"," このカードは主動的に発動できない。複数の同名カードが手札に存在する間に、最大一枚の効果が有効になる。
+手札にスキルで計15APが消耗された時このカードを追放され、そしてデッキの上で4枚カードを見て一枚手札に入る。
+このカードが手札に存在する間に、<color=#17FF00>「海世界領域」</color>を展開する。このカードが追放デッキから手札に入る時、全ての敵に最大HP5％割合のダメージを与える。
+
+<color=#F54899>今消耗されたAP：&ap</color>","此卡无法使用，复数同名卡在手牌存在期间，仅会其中发动一张卡的效果
+：从手牌使用技能累计消耗15Ap后，此卡从手卡放逐。此卡放逐时，选择牌堆最上方4张牌中的1张，加入手牌，之后洗切牌堆
+此卡拿在手中期间，展开<color=#17FF00>【海洋世界领域】</color>
+这张卡从放逐牌库返回手牌时，对全体敌人造成5%最大生命值的伤害
+<color=#F54899>当前消耗的AP：&ap</color>","此卡无法使用，复数同名卡在手牌存在期间，仅会其中发动一张卡的效果
+：从手牌使用技能累计消耗15Ap后，此卡从手卡放逐。此卡放逐时，选择牌堆最上方4张牌中的1张，加入手牌，之后洗切牌堆
+此卡拿在手中期间，展开<color=#17FF00>【海洋世界领域】</color>
+这张卡从放逐牌库返回手牌时，对全体敌人造成5%最大生命值的伤害
+<color=#F54899>当前消耗的AP：&ap</color>"
+Skill/S_MizuharaAina_6_Name,Text,,,<color=#35F9FF>Ocean World</color>,<color=#35F9FF>海の世界</color>,<color=#35F9FF>海洋世界</color>,<color=#35F9FF>海洋世界</color>
+Skill/S_MizuharaAina_7_Description,Text,,,"Enters <color=#17FF00>Net Casting</color> state.
+When returning from Exile: Heal all allies by &heal (60% Heal Power) and re-enter <color=#17FF00>Net Casting</color>.","<color=#17FF00>撒き網漁</color>状态に入る。
+このカードが追放デッキから手札に入る時、味方全員を&heal回復する（60％）、そして<color=#17FF00>撒き網漁</color>状态に入る。","进入<color=#17FF00>撒网捕捞</color>状态
+此卡从放逐牌库返回手牌时，治疗全体成员&heal（60%治疗力）并使自己进入<color=#17FF00>撒网捕捞</color>状态。","进入<color=#17FF00>撒网捕捞</color>状态
+此卡从放逐牌库返回手牌时，治疗全体成员&heal（60%治疗力）并使自己进入<color=#17FF00>撒网捕捞</color>状态。"
+Skill/S_MizuharaAina_7_Name,Text,,,Fishing Net Trap,網漁トラップ,埋伏捕捞,埋伏捕捞
+Skill/S_MizuharaAina_8_Description,Text,,,"This card's duplicates can be activated twice per battle at most.
+
+<color=#35F9FF>Azure Heart&h1</color>
+Exclude 2 other cards from your hand. Then:
+Add 1 card from the Exclude deck to your hand.
+Add 1 card from the main deck to your hand.
+Both cards' AP costs become 1.
+
+<color=#F54899>Duplicates activated this battle: &u1</color>","このカードの同名カードが一回戦闘で2枚まで発動できる。
+
+<color=#35F9FF>碧海の心&h1</color><color=#17FF00>
+手にこのカード以外のカード2枚を放逐する。この後、放逐デッキからカード一枚を選択し手札に入る、そしてデッキでも一つを選択して手札に入る。さらに、2枚のAPコストが１になる。
+
+<color=#F54899>発動された同名カードの数量：&u1</color>","同名卡在一次战斗中只能发动两张
+
+<color=#35F9FF>海蓝之心&h1</color>
+选择手卡除此卡外的两张牌进行放逐，之后选择放逐牌库的一张卡，将其加入手牌，再选择牌堆的一张牌加入手牌。两张卡的费用都变为1
+<color=#F54899>本次战斗中发动的张数：&u1</color>","同名卡在一次战斗中只能发动两张
+
+<color=#35F9FF>海蓝之心&h1</color>
+选择手卡除此卡外的两张牌进行放逐，之后选择放逐牌库的一张卡，将其加入手牌，再选择牌堆的一张牌加入手牌。两张卡的费用都变为1
+<color=#F54899>本次战斗中发动的张数：&u1</color>"
+Skill/S_MizuharaAina_8_Name,Text,,,Procure Mascot,マスコットを買い付ける,采购吉祥物,采购吉祥物
+Skill/S_MizuharaAina_9_Description,Text,,,"[Cannot be manually played] Exiled after 2 turns.
+When Exiled: Apply <color=#E560FF>Suffocation</color> to all enemies.
+
+Return 1 non-""Abyssal Love"" card from Exile to deck.
+When returning from Exile: If Aina lives, consume all <color=#35F9FF>Azure Hearts</color> to regain 3 and heal 30% Max HP."," このカードは主動的に発動できない。2ターン後放逐される。
+このカードが放逐さらたとき、敵全体に<color=#E560FF>窒息</color>を追加する。
+さらに、追放デッキから「海ーー深邃の愛」以外のカード一枚を手札に戻る。
+
+このカードが追放デッキから手札に入る時あいなが生きていれば、全ての<color=#35F9FF>碧海の心</color>を消耗し、3枚<color=#35F9FF>碧海の心</color>を得る。さらに最大HP30％割合の回復ゲージを得る。","这张卡无法从手牌使用，2回合后放逐
+这张卡被放逐时，对对方全体施加：<color=#E560FF>窒息</color>
+
+从放逐牌库选择（海洋—深邃之爱）之外的一张牌回到牌库，并洗切。
+此卡从放逐牌库加入手牌时，若あいな存活，消耗所有<color=#35F9FF>海蓝之心</color>，回复3颗<color=#35F9FF>海蓝之心</color>，获得等同于最大hp30%的生命极限","这张卡无法从手牌使用，2回合后放逐
+这张卡被放逐时，对对方全体施加：<color=#E560FF>窒息</color>
+
+从放逐牌库选择（海洋—深邃之爱）之外的一张牌回到牌库，并洗切。
+此卡从放逐牌库加入手牌时，若あいな存活，消耗所有<color=#35F9FF>海蓝之心</color>，回复3颗<color=#35F9FF>海蓝之心</color>，获得等同于最大hp30%的生命极限"
+Skill/S_MizuharaAina_9_Name,Text,,,Abyssal Love,海ーー深邃の愛,海洋—深邃之爱,海洋—深邃之爱
+Skill/S_MizuharaAina_Lucy_Description,Text,,,Draw 1 card. If Aina lives: Consume half <color=#35F9FF>Azure Hearts</color> (min 1) to add 1 Exiled card to hand.,カード一枚をドロー。そしてあいなが生きていれば、半分の<color=#35F9FF>碧海の心</color>を消耗して追放デッキからカード一枚を手札に戻る。,抽取1个技能，若Aina存活，消耗一半<color=#35F9FF>海蓝之心</color>（至少一颗）并从放逐牌库选择一个技能加入手牌。,抽取1个技能，若Aina存活，消耗一半<color=#35F9FF>海蓝之心</color>（至少一颗）并从放逐牌库选择一个技能加入手牌。
+Skill/S_MizuharaAina_Lucy_Name,Text,,,Deep-Sea Expedition,海洋冒険,深海捕捞探险,深海捕捞探险
+Skill/S_MizuharaAina_R1_Description,Text,,,Consumes all <color=#35F9FF>Azure Hearts</color> to apply <color=#E560FF>Protein Toxin</color>.,このカードを使う時、全ての<color=#35F9FF>碧海の心</color>を消耗し、敵に<color=#E560FF>タンパク質毒素</color>を与える,"这张卡打出时,消耗所有<color=#35F9FF>海蓝之心</color>，并施加：<color=#E560FF>蛋白分解毒素</color>","这张卡打出时,消耗所有<color=#35F9FF>海蓝之心</color>，并施加：<color=#E560FF>蛋白分解毒素</color>"
+Skill/S_MizuharaAina_R1_Name,Text,,,<color=#FF98E6>Jellyfish Dance</color>,<color=#FF98E6>くらげのダンス</color>,<color=#FF98E6>水母之舞</color>,<color=#FF98E6>水母之舞</color>
+Skill/S_MizuharaAina_R2_Description,Text,,,"If Aina lives at battle start: Gain <color=#35F9FF>Azure Hearts</color> based on enemy count.
+On hit: Gain 50 OD, deal 10% target Max HP as Pain damage, then prioritize drawing a skill.
+When returning from Exile: Restore 1 AP. This skill's cost permanently increases by 3.","バトル始まる時、あいなが生きていれば敵の数量に応じて<color=#35F9FF>碧海の心</color>を得る。このスキルが命中した時、50点ODエネルギを得る、そして目標に最大HP10％割合のダメージを与える。さらに自分のスキル一枚を優先ドロー。
+
+追放デッキからカード一枚を手札に戻る時、AP１を回復する、このスキルのAPコストがこのバトルの間に３をアップする。","战斗开始时，若あいな存活，则根据敌人数量获得<color=#35F9FF>海蓝之心</color>
+技能命中后，获得50点OD，并额外造成等同目标最大HP10%的痛苦伤害，之后优先抽取1个自己的技能；
+从放逐牌库返回手牌时，恢复友军1点AP，这张卡的费用将在这场战斗中永久上升3。","战斗开始时，若あいな存活，则根据敌人数量获得<color=#35F9FF>海蓝之心</color>
+技能命中后，获得50点OD，并额外造成等同目标最大HP10%的痛苦伤害，之后优先抽取1个自己的技能；
+从放逐牌库返回手牌时，恢复友军1点AP，这张卡的费用将在这场战斗中永久上升3。"
+Skill/S_MizuharaAina_R2_Name,Text,,,<color=#93A6FA>Ocean Delinquent</color>,<color=#93A6FA>海のギャング</color>,<color=#93A6FA>大海不良分子</color>,<color=#93A6FA>大海不良分子</color>
+Skill/S_MizuharaAina_static0_Name,Text,,,Consume &n1 <color=#35F9FF>Azure Hearts</color>~,<color=#35F9FF>碧海の心</color>&n1を消耗されるさ～,消耗&n1颗海蓝之心~,消耗&n1颗海蓝之心~
+Skill/S_MizuharaAina_static1_Description,Text,,,,,,
+Skill/S_MizuharaAina_static1_Name,Text,,,Consume &n2 <color=#35F9FF>Azure Hearts</color>~~,<color=#35F9FF>碧海の心</color>&n2を消耗されるさ～～,消耗&n2颗海蓝之心~~,消耗&n2颗海蓝之心~~
+Skill/S_MizuharaAina_static2_Name,Text,,,Don't use <color=#35F9FF>Azure Hearts</color>~,<color=#35F9FF>碧海の心</color>を使わないさ～,不使用海蓝之心~,不使用海蓝之心~
+SkillExtended/SkillEn_MizuharaAina1_Des,Text,,,,,,
+SkillExtended/SkillEn_MizuharaAina1_EnforceString,Text,,,Single-target skill,単体スキル,指向敌方单体的攻击技能,指向敌方单体的攻击技能
+SkillExtended/SkillEn_MizuharaAina1_Name,Text,,,"<color=#35F9FF>Azure Heart 2</color>: On hit, gain 15 OD.",<color=#35F9FF>海蓝之心2</color>：キルが命中した時、15ODエネルギを得る,<color=#35F9FF>海蓝之心2</color>：命中敌方时，额外获得15点OD,<color=#35F9FF>海蓝之心2</color>：命中敌方时，额外获得15点OD
+SkillExtended/SkillEn_MizuharaAina2_Des,Text,,,,,,
+SkillExtended/SkillEn_MizuharaAina2_EnforceString,Text,,,One-time/Exile skill,単発または除外スキル,一次性、放逐词条技能,一次性、放逐词条技能
+SkillExtended/SkillEn_MizuharaAina2_Name,Text,,,When returning from Exile: Randomly remove 2 Exiled cards. Return 1 Exiled card to deck bottom.,このスキルが追放デッキから手札に戻る時、放逐デッキでランダムに2枚カードを消し、その後放逐デッキからカード一枚をデッキ底に戻る。,这张卡从放逐牌库返回手牌时，随机删除放逐牌库的两张牌，之后选择放逐牌库的一张牌回到牌库最下方。,这张卡从放逐牌库返回手牌时，随机删除放逐牌库的两张牌，之后选择放逐牌库的一张牌回到牌库最下方
+SkillKeyword/Key_21_Desc,Text,,,"During OD: +15% OD damage taken. Once per OD, set Defense bonus to 0 if >0.",OD発動の間に、ODダメージ増益が15％アップする。さらにOD発動期間中に一回のみ効ける：敵の防御力が0に超えれば、防御力が０になれ。,OD发动期间，受到的OD伤害加成提高15%；且OD发动期间仅一次，若防御力加成大于0，则自动使防御力加成变成0,OD发动期间，受到的OD伤害加成提高15%；且OD发动期间仅一次，若防御力加成大于0，则自动使防御力加成变成0
+SkillKeyword/Key_21_Name,Text,,,<color=#E560FF>OD Fragility</color>,OD脆弱,<color=#E560FF>OⅮ脆弱</color>,<color=#E560FF>Od脆弱</color>
+SkillKeyword/Key_22_Desc,Text,,,Attacking this enemy grants <color=#E5FF56>Combo Energy+1</color> in OD calculation.,この敵を攻撃する時、命中したスキルを<color=#E5FF56>連撃エネルギ</color>１点得る,攻击该敌人获得的OD，计算时<color=#E5FF56>连击能量</color>+1,攻击该敌人获得的OD，计算时<color=#E5FF56>连击能量</color>+1
+SkillKeyword/Key_22_Name,Text,,,"<color=#17FF00>""Befriend Aina~""</color>",あいなと仲良しいにしよう~,<color=#17FF00>和鱼鱼做好朋友吧~</color>,<color=#17FF00>和あいな做好朋友吧~</color>
+SkillKeyword/Key_4_Desc,Text,,,Grants 10 OD at turn start.,ターンの始まり時、ODエネルギを10点アップする。,每回合开始时，为我方提供10点OD,每回合开始时，为我方提供10点OD
+SkillKeyword/Key_4_Name,Text,,,"<color=#17FF00>""Become Aina's Meal~""</color>",あいなの食物になるさ～,<color=#17FF00>成为鱼鱼的食物吧～</color>,<color=#17FF00>成为あいな的食物吧~</color>
+SkillKeyword/Key_5_Desc,Text,,,"At turn start: Lose 10% Max HP (min 1), heal allies by 3 HP. Once per turn.",ターンの始まり時、MaxHP10%を失って、味方全員を３HPを回復する。同名な回復効果が１ターンに１回しか効かない。,"每回合开始时，损失最大hp10%的hp(至少造成1点伤害)，全体友军固定治疗3点Hp,同名治疗效果一回合只生效一次","每回合开始时，损失最大hp10%的hp(至少造成1点伤害)，全体友军固定治疗3点Hp,同名治疗效果一回合只生效一次"
+SkillKeyword/Key_5_Name,Text,,,"<color=#17FF00>""Let's Feast Together~""</color>",みんな一緒食べよう～,<color=#17FF00>大家一起享用咯~</color>,<color=#17FF00>大家一起享用咯~</color>
+SkillKeyword/Key_OceanHeart_Desc,Text,,,"When the stated <color=#35F9FF>Azure Heart</color> quantity condition is met during skill activation, consume <color=#35F9FF>Azure Hearts</color> to trigger additional effects.",スキルに記述さらた<color=#35F9FF>碧海の心</color>数量条件が満たれ、そのスキルが発動される時、<color=#35F9FF>碧海の心</color>を消耗し、エクストラ効果を発動ことができる。,当拥有卡面记述数量的<color=#35F9FF>海蓝之心</color>后，在技能发动时，可以选择消耗记述数量的<color=#35F9FF>海蓝之心</color>发动额外效果,当拥有卡面记述数量的<color=#35F9FF>海蓝之心</color>后，在技能发动时，可以选择消耗记述数量的<color=#35F9FF>海蓝之心</color>发动额外效果
+SkillKeyword/Key_OceanHeart_Name,Text,,,<color=#35F9FF>Azure Heart</color>,<color=#35F9FF>碧海の心</color>,<color=#35F9FF>海蓝之心</color>,<color=#35F9FF>海蓝之心</color>
+SkillKeyword/Key_R1_Desc,Text,,,"Permanently reduces Defense. On action: Take 7% current HP as DoT damage.
+Converts decomposed protein into OD energy. Increases OD gain from DoT damage.",防御力が永久的にダウンする。そして行動の時、7%HPのDOTダメージを受け、分解されたタンパク質がODエネルギをなる。さらに、ダメージによるDOTのＯＤエネルギ収益も上げる。,"防御力永久下降，行动时，受到相当于当前生命7%的HP的Dot伤害；
+分解的蛋白质将转换为OD能量，该BUFF带来的伤害将按比例提高该Dot的OD收益。
+","防御力永久下降，行动时，受到相当于当前生命7%的HP的Dot伤害；
+分解的蛋白质将转换为OD能量，该BUFF带来的伤害将按比例提高该Dot的OD收益。
+"
+SkillKeyword/Key_R1_Name,Text,,,<color=#E560FF>Protein Toxin</color>,タンパク質毒素,<color=#E560FF>蛋白分解毒素</color>,<color=#E560FF>蛋白分解毒素</color>
+SkillKeyword/Key_S6_Desc,Text,,,"Grants the following effects while Aina is alive:  
+Gain 2 <color=#35F9FF>Azure Hearts</color> at the start of each turn.  
+All allies gain +5% Defense.  
++10% <color=#FF98DE>OD Gauge gain</color>.  
+All skills gain <color=#E5FF56>Combo Energy+1</color>.  
+Skills grant +5 extra OD on hit.",味方全員の防御力、<color=#FF98DE>ODゲージ上昇量</color>を10％上げ、全てのスキルを<color=#E5FF56>連撃エネルギ</color>１点を得る、そしてスキルが命中した時、エクストラ5点のODエネルギをつもり。さらに、あいなが生きていれば、ターンの始まった時二つの<color=#35F9FF>碧海の心</color>を得る。,"获得以下效果：あいな存活时，每回合开始时获得2顆<color=#35F9FF>海蓝之心</color>；
+全体成员防御力提高5%；
+<color=#FF98DE>OD获取量</color>提高10%；
+所有技能获得<color=#E5FF56>连击能量</color>：1
+所有技能额外获得5点od
+","获得以下效果：あいな存活时，每回合开始时获得2顆<color=#35F9FF>海蓝之心</color>；
+全体成员防御力提高5%；
+<color=#FF98DE>OD获取量</color>提高10%；
+所有技能获得<color=#E5FF56>连击能量</color>：1
+所有技能额外获得5点od
+"
+SkillKeyword/Key_S6_Name,Text,,,<color=#35F9FF>Oceanic Domain</color>,<color=#35F9FF>海世界領域</color>,<color=#35F9FF>海洋世界领域</color>,<color=#35F9FF>海洋世界领域</color>
+SkillKeyword/Key_S7_Desc,Text,,,"Slightly increases aggro.
+When attacked: Restores Healing Gauge and gains OD equal to damage taken.","攻撃に受ける確率をちょっとだけアップする。
+そして攻撃を受けた時、回復ゲージを回復し、受けたダメージと同量なODエネルギをチャージする。","被攻击的概率略微提高；
+当自己被攻击后，恢复体力极限并增加受到伤害的od。","被攻击的概率略微提高；
+当自己被攻击后，恢复体力极限并增加受到伤害的od。"
+SkillKeyword/Key_S7_Name,Text,,,<color=#17FF00>Net Casting</color>,<color=#17FF00>撒き網漁</color>,<color=#17FF00>撒网捕捞</color>,<color=#17FF00>撒网捕捞</color>
+SkillKeyword/Key_S9_Desc,Text,,,Lose 11% Max HP at turn start.,ターンの始まり時、MaxHP11%を失う,回合开始时，hp下降最大生命11%,回合开始时，hp下降最大生命11%
+SkillKeyword/Key_S9_Name,Text,,,<color=#E560FF>Suffocation</color>,<color=#E560FF>窒息</color>,<color=#E560FF>窒息</color>,<color=#E560FF>窒息</color>
+SkillKeyword/S_RengekiEnergy_Desc,Text,,,Grants extra OD when skills hit based on <color=#E5FF56>Combo Energy</color>.,スキルが命中した時、エネルギを応じてエクストラODエネルギを得る。,当技能命中敌方时，根据能量获得额外的OD值,当技能命中敌方时，根据能量获得额外的OD值
+SkillKeyword/S_RengekiEnergy_Name,Text,,,<color=#E5FF56>Combo Energy</color>,<color=#E5FF56>連撃エネルギ</color>,<color=#E5FF56>连击能量</color>,<color=#E5FF56>连击能量</color>
+SkillKeyword/key_10_Desc,Text,,,Reduces enemy damage by 20%. Skills gain <color=#E5FF56>Combo Energy+2</color> when gaining OD from target. Draw 1 card after resolving.,敵20％のダメージをダウンする、そしてODを蓄積する時、命中したスキルを<color=#E5FF56>連撃エネルギ</color>２点得る。この効果が計算完了の時、カード一枚をドローし、このDEBUFFを解除する。,降低敌方20%伤害，从该敌人身上获取od时，命中敌方的技能获得<color=#E5FF56>连击能量</color>2，结算后之后抽一张牌.并解除该debuff,降低敌方20%伤害，从该敌人身上获取od时，命中敌方的技能获得<color=#E5FF56>连击能量</color>2，结算后之后抽一张牌.并解除该debuff
+SkillKeyword/key_10_Name,Text,,,"<color=#E560FF>""Food...""</color>",<color=#E560FF>食物...</color>,<color=#E560FF>食物...</color>,<color=#E560FF>食物...</color>
+,,,,,,,
+,,,,,,,
+

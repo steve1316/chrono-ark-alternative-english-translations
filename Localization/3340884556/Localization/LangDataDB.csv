@@ -1,0 +1,538 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_HakureiReimu_F_0_1_Description,Text,,,,,,
+Buff/B_HakureiReimu_F_0_1_Name,Text,,결계,Boundary,結界,结界,結界
+Buff/B_HakureiReimu_F_0_2_Description,Text,,다음 턴 시작 시 자신의 스킬을 우선으로 1장 드로우한다. 발동 후 제거된다,"At the start of the next turn, remove this and prioritize drawing 1 of your own skill.",次のターンの開始時、自身のスキルを優先して1枚引く。効果発動後、除去される。,下个回合开始时移除，并优先抽取1个自己的技能。,回合開始時移除，並抽取 1 個技能（優先抽取自己的）。
+Buff/B_HakureiReimu_F_0_2_Name,Text,,영력급증,Surging Spirit,霊力急増,灵力狂涌,靈力狂湧
+Buff/B_HakureiReimu_F_0_Description,Text,,다음 턴 시작 시 스킬을 1장 드로우한다. 발동 후 제거된다,"At the start of the next turn, remove this and draw 1 skill.",次のターンの開始時、スキルを1枚引く。効果発動後、除去される。,下个回合开始时移除，并抽取1个技能。,下個回合開始時移除，並抽取 1 個技能。
+Buff/B_HakureiReimu_F_0_Name,Text,,영력충만,Abundant Spirit,霊力充満,灵力充沛,靈力充沛
+Buff/B_HakureiReimu_F_10Rare_Description,Text,,자신의 스킬을 7번 사용하면 무작위 적에게 &a(600%)의 피해를 입힌다. 발동 후 제거된다,"After using 7 skills, remove this and deal &a damage <color=#FF7A33>(600% of Attack)</color> to a random enemy.",自身のスキルを7回使用後、ランダムな敵に&a(600%)ダメージを与える。効果発動後、除去される。,使用7个技能后移除，并对随机敌人造成&a点伤害<color=#FF7A33>(攻击力的600%)</color>。,使用自己的 7 個技能後移除，並對随機敵人造成&a點傷害<color=#FF7A33>(攻擊力的600%)</color>。
+Buff/B_HakureiReimu_F_10Rare_Name,Text,,몽상천생,Innate Dream,夢想天生,梦想天生,夢想天生
+Buff/B_HakureiReimu_F_11Rare_0_Description,Text,,같은 이름의 기술을 연속 사용해도 <color=#B22222>스펠카드 레벨</color>이 감소되지 않는다. 이 버프가 제거되면 모든 <color=#B22222>스펠카드 레벨</color>을 잃는다,"Nullifies <color=#B22222>Spell Card Level</color> reduction from consecutively using same-named skills. After expiration, lose all <color=#B22222>Spell Card Levels</color>.",同名のスキルの連続使用による<color=#B22222>スペルカードレベル</color>の減少を無効にする。効果終了後、すべての<color=#B22222>スペルカードレベル</color>を失う。,"连续使用技能不会失去<color=#B22222>符卡等级</color>。
+持续时间结束后，失去所有<color=#B22222>符卡等级</color>。","連續使用技能時，不會失去<color=#B22222>符卡等級</color>。
+持續時間結束後，失去所有<color=#B22222>符卡等級</color>。"
+Buff/B_HakureiReimu_F_11Rare_0_Name,Text,,세계는 귀여움으로 되어 있다,Unfinished Dream of All Living Ghost,世界は可愛く出来ている,世界如此可爱,世界如此可愛
+Buff/B_HakureiReimu_F_11Rare_Description,Text,,<color=#B22222>스펠카드 레벨</color>의 효과를 「중첩당 공격력과 방어력 4% 증가」로 변경한다,"Changes <color=#B22222>Spell Card Level</color> effect to ""Grants 4% ATK and DEF per stack.""",<color=#B22222>スペルカードレベル</color>の効果を「ストック1ごとに攻撃力と防御力を4%増加」に変更する。,<color=#B22222>符卡等级</color>的效果变更为“每层提供4%攻击力和防御力”。,<color=#B22222>符卡等級</color>的效果變更為「每層增加4%攻擊力和防禦力」。
+Buff/B_HakureiReimu_F_11Rare_Name,Text,,지상의 색은 노랑,The Ground's Color is Yellow,地の色は黄色,地之色乃黄色,地之色乃黄色
+Buff/B_HakureiReimu_F_1_Description,Text,,비용 2 이상인 자신의 스킬을 사용하면 15%의 추가 피해를 입힌다,Skills costing 2 or more Mana deal 15% additional damage.,コスト2以上の自身のスキル使用時、15％のダメージを追加で与える。,自身费用不低于2点的技能造成的伤害增加15%。,自身費用不低於 2 點的技能傷害增加15%。
+Buff/B_HakureiReimu_F_1_Name,Text,,영력폭발,Exploding Spirit,霊力爆発,灵力迸放,靈力迸發
+Buff/B_HakureiReimu_F_2_Description,Text,,다음 사용하는 스킬의 피해가 50% 증가하고 방어력을 무시한다,Next skill's damage increases by 50% and ignores Defense.,次に使用するスキルのダメージが50%増加し、防御力を無視する。,使自己的下1个技能无视防御，且伤害增加50%。,自己的下一個技能無視目標防禦力，且傷害增加50%。
+Buff/B_HakureiReimu_F_2_Name,Text,,신령빙의,Divine Possession,神霊憑依,神灵附体,神靈附體
+Buff/B_HakureiReimu_F_3_Description,Text,,,,,,
+Buff/B_HakureiReimu_F_3_Name,Text,,영력작렬,Bursting Spirit,霊力炸裂,灵力激荡,靈力激蕩
+Buff/B_HakureiReimu_F_4_Name,Text,,악령퇴산,Exorcise Evil,悪霊退散,恶灵退散,惡靈退散
+Buff/B_HakureiReimu_F_5_Name,Text,,봉마진,Evil-Sealing Circle,封魔陣,封魔阵,封魔陣
+Buff/B_HakureiReimu_F_6_0_Description,Text,,,,,,
+Buff/B_HakureiReimu_F_6_0_Name,Text,,탄막결계,Danmaku Barrier,弾幕結界,弹幕结界,彈幕結界
+Buff/B_HakureiReimu_F_6_Description,Text,,받는 고통 피해가 35% 증가한다,Pain damage taken increased by 35%.,受ける苦痛ダメージが35%増加する。,受到的痛苦伤害增加35%。,受到的痛苦傷害增加35%。
+Buff/B_HakureiReimu_F_6_Name,Text,,하쿠레이 결계,Hakurei Barrier,博麗結界,博丽结界,博麗結界
+Buff/B_HakureiReimu_F_7_Description,Text,,행동 불가,Cannot take action.,行動不能,无法行动。,無法行動。
+Buff/B_HakureiReimu_F_7_Name,Text,,이중결계,Duplex Barrier,二重結界,二重结界,二重結界
+Buff/B_HakureiReimu_F_8_Description,Text,,받는 디버프의 지속시간이 1턴 감소한다,Reduces duration of received debuffs by 1 turn.,受けるデバフの持続時間が1ターン短縮される。,被施加减益时，使其持续时间减少 1 回合。,被施加減益時，使其持續時間減少 1 回合。
+Buff/B_HakureiReimu_F_8_Name,Text,,이상함,Mysterious,不可思議,不可思议,不可思議
+Buff/B_HakureiReimu_F_C_0_Description,Text,,,,,,
+Buff/B_HakureiReimu_F_C_0_Name,Text,,영력보호,Spirit Protection,霊力保護,灵力庇护,靈力庇護
+Buff/B_HakureiReimu_F_E_0_Name,Text,,하쿠레이 아뮬렛,Hakurei Ofuda,博麗アミュレット,博丽符札,博麗符札
+Buff/B_HakureiReimu_F_E_1_0_Name,Text,,봉마침-공격,Sealing Needle - Attack,封魔針-攻,封魔针-攻,封魔針-攻
+Buff/B_HakureiReimu_F_E_1_1_Name,Text,,봉마침-방어,Sealing Needle - Defense,封魔針-防,封魔针-防,封魔針-防
+Buff/B_HakureiReimu_F_E_1_2_Name,Text,,봉마침-명중,Sealing Needle - Accuracy,封魔針-命,封魔针-命,封魔針-命
+Buff/B_HakureiReimu_F_E_1_3_Name,Text,,봉마침-행운,Sealing Needle - Luck,封魔針-運,封魔针-运,封魔針-運
+Buff/B_HakureiReimu_F_E_2_Description,Text,,다음 사용하는 스킬의 피해가 25% 증가한다,Next skill's damage increases by 25%.,次に使用するスキルのダメージが25%増加する。,下1个技能造成的伤害增加25%。,下一個技能造成的傷害增加25%。
+Buff/B_HakureiReimu_F_E_2_Name,Text,,피투성이 음양옥,Bloodthirsty Yin-Yang Orb,血まみれた陰陽玉,渴求鲜血的阴阳玉,渴求鲜血的陰陽玉
+Buff/B_HakureiReimu_F_LucyD_0_Description,Text,,다음 턴 시작 시 자신의 스킬을 우선으로 1장 드로우한다,"At the start of next turn, prioritize drawing 1 of your own skill.",次のターン開始時、自身のスキルを優先して1枚引く。,下个回合开始时移除，并优先抽取1个自己的技能。,下個回合開始時，抽取 1 個技能（優先抽取自己的）。
+Buff/B_HakureiReimu_F_LucyD_0_Name,Text,,번영 기원,Prosperity Wish,繁栄祈願,繁盛祈愿,繁盛祈願
+Buff/B_HakureiReimu_F_LucyD_1_Description,Text,,,,,,
+Buff/B_HakureiReimu_F_LucyD_1_Name,Text,,행복 기원,Happiness Wish,幸福祈願,幸福祈愿,幸福祈願
+Buff/B_HakureiReimu_F_LucyD_2_Name,Text,,건강 기원,Health Wish,健康祈願,健康祈愿,健康祈願
+Buff/B_HakureiReimu_F_LucyD_3_Description,Text,,다음 받는 피해를 회피한다,Dodge the next incoming attack.,次に受ける攻撃を回避する。,闪避下1次受到的攻击。,閃避一次攻擊。
+Buff/B_HakureiReimu_F_LucyD_3_Name,Text,,평온 기원,Peace Wish,平穏祈願,平安祈愿,平安祈願
+Buff/B_HakureiReimu_F_P_1_Description,Text,,피해를 입으면 제거된다,Removed upon taking damage.,ダメージを受けたとき、除去される。,受到伤害后解除。,受到傷害後解除。
+Buff/B_HakureiReimu_F_P_1_Name,Text,,하쿠레이 결계,Hakurei Barrier,博麗結界,博丽结界,博麗結界
+Buff/B_HakureiReimu_F_P_Description,Text,,,,,,
+Buff/B_HakureiReimu_F_P_Name,Text,,스펠카드 레벨,Spell Card Level,スペルカードレベル,符卡等级,符卡等級
+Buff/B_Musoutensei_Cirno_0_Description,Text,,,Can act while Frozen. Inflicts +1 [Frostbite] stack when dealing damage.,,自身可以在冻结状态下行动，造成伤害时额外施加1层[冻伤]。,
+Buff/B_Musoutensei_Cirno_0_Name,Text,,,Perfect Freeze Shrine Maiden,,完美冻结巫女,
+Buff/B_Musoutensei_Daiyousei_0_Description,Text,,,"When taking damage, &user counterattacks for &a damage <color=#FF7A33>(50% of Attack)</color>.",,受到伤害时，&user发起一次&a伤害的反击<color=#FF7A33>(攻击力的50%)</color>。,
+Buff/B_Musoutensei_Daiyousei_0_Name,Text,,,Guardian of Gensokyo,,幻想乡的守护者,
+Buff/B_Musoutensei_Daiyousei_1_Description,Text,,,"After being healed, next skill's damage increases by 10%.",,受到治疗后，下一次出手的技能的伤害增加10%。,
+Buff/B_Musoutensei_Daiyousei_1_Name,Text,,,Scarlet Devil!,,赤色杀人魔！,
+Buff/B_Musoutensei_Daiyousei_2_Description,Text,,,Damage increased by &a%.,,伤害增加&a%。,
+Buff/B_Musoutensei_Daiyousei_2_Name,Text,,,Scarlet Devil!,,赤色杀人魔！,
+Buff/B_Musoutensei_Flandre_0_Description,Text,,피해를 입히면 피해의 50%만큼 추가로 고통 피해를 입힌다,Deals additional Pain damage equal to 50% of damage dealt.,ダメージを与えたとき、与えたダメージの50%の苦痛ダメージを追加で与える。,造成伤害时，额外造成50%的痛苦伤害。,造成傷害時，額外造成50%的痛苦傷害。
+Buff/B_Musoutensei_Flandre_0_Name,Text,,비생 이치몬지,Fei-Sei Ichimonji,緋生一文字,绯生一文字,緋生一文字
+Buff/B_Musoutensei_Lilyblack_0_Description,Text,,,"Whenever gaining a buff, Lily Black launches a follow-up attack for &a damage <color=#FF7A33>(33% of Attack)</color>.",,自身每次获得增益时，莉莉黑会对随机敌人发动一次&a伤害的追加攻击<color=#FF7A33>(攻击力的33%)</color>。,
+Buff/B_Musoutensei_Lilyblack_0_Name,Text,,,Dead Leaves Brown,,凋叶棕,
+Buff/B_Musoutensei_Lilywhite_0_Description,Text,,,"Gains ""+5% Attack, +5% Crit Rate, +5% Crit Damage"" per unique buff possessed.",,自身拥有的每种增益使这个增益获得“+5%攻击力、+5%暴击率、+5%暴击伤害”。,
+Buff/B_Musoutensei_Lilywhite_0_Name,Text,,,Feverish Shrine Maiden,,发热巫女,
+Buff/B_Musoutensei_Reisen_0_Description,Text,,,"Whenever &user deals damage, Reisen performs a free <color=#B22222>Phantasm/Chaos Bullet</color>.",,每次&user对其造成伤害时，铃仙会对目标发动一次免费的<color=#B22222>幻象/乱弹</color>。,
+Buff/B_Musoutensei_Reisen_0_Name,Text,,,Mad Spirit/Scarlet Moon,,狂灵/绯色月,
+Buff/B_Musoutensei_Satsuki_0_Description,Text,,,Dies immediately when effect expires.,,效果解除时，立即死亡。,
+Buff/B_Musoutensei_Satsuki_0_Name,Text,,,Illusory Dream's End,,幻梦终焉,
+Buff/B_Musoutensei_Youmu_0_Description,Text,,,"When attacked, Reimu and Youmu alternately deal &a <color=#FF7A33>(200% Attack)</color> and &b <color=#FF7A33>(200% Attack)</color> damage, removing all target buffs. Then, remove this buff.",,受到敌人的攻击时，博丽灵梦和魂魄妖梦轮流对目标造成&a点伤害<color=#FF7A33>(攻击力的200%)</color>和&b伤害<color=#FF7A33>(攻击力的200%)</color>，并解除目标所有增益。那之后，解除该增益。,
+Buff/B_Musoutensei_Youmu_0_Name,Text,,,Celestial Unity,,天人合一,
+Buff/B_RE_HakureiReimu_0_Description,Text,,,+1 skill drawn per turn.,,每回合抽取的技能数量+1。,
+Buff/B_RE_HakureiReimu_0_Name,Text,,,Offering Divine Power,,赛钱神力,
+Character/HakureiReimu_CampSelectWord,Text,,이변해결이라면 나한테 맡겨!,Leave the resolution of the anomaly to me!,異変解決は私に任せなさい！,解决异变交给我就行了！,解決異變交给我就行了！
+Character/HakureiReimu_PassiveDes,Text,,"<b>하늘을 나는 이상한 무녀</b> - 턴 시작 시, 하쿠레이 레이무는 「하쿠레이 결계」를 1중첩 획득한다
+
+<b><color=#B22222>스펠카드 레벨</color></b> - 하쿠레이 레이무는 이전 사용한 스킬과 이름이 다른 스킬 사용 시 <b><color=#B22222>스펠카드 레벨</color></b>을 1중첩 획득한다
+<color=#B22222>스펠카드 레벨</color> 중첩당 명중률과 회피율이 2% 증가하며 스킬의 추가 효과를 발동할 수 있다
+<color=#B22222>스펠카드 레벨</color> 최대 중첩은 5","<b>Mysterious Flying Shrine Maiden</b> - At the start of each turn, Hakurei Reimu gains 1 stack of [Hakurei Barrier].
+
+<b><color=#B22222>Spell Card Level</color></b> - Reimu gains 1 stack of <color=#B22222>Spell Card Level</color> each time she uses a skill with a different name from the previous one. Otherwise, she loses all <color=#B22222>Spell Card Level</color>.
+Each stack of <color=#B22222>Spell Card Level</color> provides 2% Hit Rate and Evasion Rate, and unlocks additional effects for skills. You can have up to 5 stacks of <color=#B22222>Spell Card Level</color>.","<b>空を飛ぶ不思議な巫女女</b> - ターン開始時、博麗霊夢は[博麗結界]を1ストック得る。
+
+<b><color=#B22222>スペルカードレベル</color></b> -博麗霊夢は前回使用したスキルと名前が異なるスキルを使用時、<b><color=#B22222>スペルカードレベル</color></b>を1ストック得る；<color=#B22222>スペルカードレベル</color>のストック1ごとに、命中率と回避率が2%増加し、スキルの追加効果が発動する。
+<color=#B22222>スペルカードレベル</color>のストック上限は5。","<b>在空中飞翔的不可思议的巫女</b> - 回合开始时，博丽灵梦获得1层[博丽结界]。
+
+<b><color=#B22222>符卡等级</color></b> - 博丽灵梦每次使用与上次卡名不同的技能时，获得1层<b><color=#B22222>符卡等级</color></b>；否则失去所有<color=#B22222>符卡等级</color>。
+每层<color=#B22222>符卡等级</color>提供2%命中率和闪避率，并会解锁技能的额外效果。
+最多拥有5层<color=#B22222>符卡等级</color>。","<b>在空中飛翔的不可思議巫女</b> - 回合開始時，博麗靈夢獲得 1 層「博麗結界」。
+
+<b><color=#B22222>符卡等級</color></b> - 使用博麗靈夢的技能時，若與上一個博麗靈夢的技能名稱不同，則獲得 1 層<b><color=#B22222>符卡等級</color></b>；否則會失去所有<color=#B22222>符卡等級</color>。
+每層<color=#B22222>符卡等級</color>上限 5 層，每層提升2%命中率和閃避率，並根據<color=#B22222>符卡等級</color>使技能產生變化。"
+Character/HakureiReimu_PassiveName,Text,,낙원의 무녀,Shrine Maiden of Paradise,楽園の巫女,乐园的巫女,樂園的巫女
+Character/HakureiReimu_SelectInfo,Text,,"하쿠레이 레이무는 공수겸비의 딜러다
+
+음양옥과 결계를 활용하는 공격 방식을 가진다. 음양옥은 자신과 아군의 버프 활용에 특화되어 있으며 결계는 디버프에 특화되어 있다
+
+<color=#c62c2c>“이렇게 재미있어 보이는 이변은 흔치 않지<color=#c62c2c></color>
+나도 조사해야겠어”</color>","Hakurei Reimu is a balanced attacker with both offensive and defensive abilities.
+
+With two attack types: Yin-Yang Orb and Barrier Magic. The Yin-Yang Orb skills excel at leveraging buffs from herself and allies—the more types of buffs she has, the stronger her skills become. Barrier Magic skills are adept at applying debuffs.
+
+Choose teammates wisely to create effective combos.
+
+<color=#c62c2c>""There aren't many anomalies this interesting.
+Let me investigate.""</color>","博麗霊夢は攻守ともにバランスの取れたアタッカー。
+
+陰陽玉と結界の2種類の攻撃を持つ。 陰陽玉は自身と味方のバフを活用することに長けている。結界のスキルはデバフに長けている。
+
+<color=#c62c2c>“こんな面白そうな異変はめったにないわ。<color=#c62c2c></color>
+私も調査するわ。”</color>","博丽灵梦是攻守兼备的均衡型攻击手。
+
+拥有阴阳玉和结界术两种进攻手段。阴阳玉系技能擅长利用来自自身和队友的增益，身上的增益效果种类越多，就越是能发挥技能的威力；结界术系技能则擅长施加减益效果。
+
+请仔细挑选能够产生搭配的队友吧。
+
+<color=#c62c2c>“这么有趣的异变也不多呢。<color=#c62c2c></color>
+让我来调查一下吧。”</color>","博麗靈夢是攻守兼備的均衡型攻擊手，持有兩種進攻手段：
+陰陽玉系技能擅長利用來自自身和隊友的增益，身上的增益效果種類越多，就越能發揮技能的威力；
+結界術系技能則擅長施加減益效果。
+請仔细挑選能夠產生搭配的隊友吧。
+
+<color=#c62c2c>「這麼有趣的異變也不多呢。<color=#c62c2c></color>
+讓我來調查一下吧。」</color>"
+Character/HakureiReimu_Text_Battle_AllyND_0,Text,,쓰러지지 마!,Don't collapse!,まだ倒れないで！,可别倒下了！,可别倒下了！
+Character/HakureiReimu_Text_Battle_Cri_0,Text,,이변은 구제한다!,Exorcise the heretics!,異変は駆除する！,异端驱逐！,異端驅逐！
+Character/HakureiReimu_Text_Battle_Cri_1,Text,,몽상봉인!,Fantasy Seal!,夢想封印！,梦想封印！,夢想封印！
+Character/HakureiReimu_Text_Battle_Healed_0,Text,,고마워,Thanks a lot.,ありがとう。,多谢啦。,多謝啦。
+Character/HakureiReimu_Text_Battle_Idle_0,Text,,덥네. 혹시 유령 둘쯤 빌려줄 수 있어?,It's so hot. Can I borrow a ghost or two?,暑いわ。 幽霊を一体か二体貸してちょうだい？,好热呢。能不能借一两只幽灵来用用啊？,好熱呀。能不能借一兩隻幽靈來用用啊？
+Character/HakureiReimu_Text_Battle_Kill_0,Text,,저녁은 토끼전골이야,"Tonight, we'll have rabbit hot pot.",今夜はウサギ鍋ね。,今晚就吃兔肉火锅了。,今晚就吃兔肉火鍋了。
+Character/HakureiReimu_Text_Battle_Kill_1,Text,,이변의 흑막은 어디에 있을까?,Where is the mastermind behind this incident?,この異変の黒幕はどこにいるのかしら？,异变的幕后黑手在哪里呢？,異變的幕後黑手在哪裡呢？
+Character/HakureiReimu_Text_Battle_ND_0,Text,,진심으로 가겠어…!,Do I need to get serious now...!,そろそろ本気出す時ね…！,该认真了吗……！,該認真了嗎……！
+Character/HakureiReimu_Text_Battle_Start_0,Text,,이변 구제 시작이야!,The incident purification begins!,異変の駆除をはじめましょう！,异变肃清开始！,異變肅清開始！
+Character/HakureiReimu_Text_Battle_Start_1,Text,,몸풀기로 가볼까,Let's do some warm-ups.,準備は出来てるわ。,来做点热身吧。,來做點熱身吧。
+Character/HakureiReimu_Text_Field_GetItem_0,Text,,보물? 팔면 얼마나 나올까?,Treasures? How much can I sell them for?,宝物？いくらで売ろうか？,宝物？可以卖多少钱啊？,寶物？可以賣多少錢啊？
+Character/HakureiReimu_Text_Field_Idle_0,Text,,"올해 여름은 무척 평화롭네
+따분한 게 뭐 나쁜 건 아니다만, 아마도","This year's summer is so peaceful.
+Being bored isn't necessarily a bad thing, I guess.","今年の夏はなんて平和なの。
+退屈なのは悪いことではないでしょ。","今年的夏天真和平呢。
+无聊也不是什么坏事，大概。","今年的夏天真和平呢。
+無聊也不是什麼壞事，大概。"
+Character/HakureiReimu_Text_Field_Potion_P_0,Text,,으음,Hmm.,むー？,唔嗯。,唔嗯。
+Character/HakureiReimu_Text_MasterTarget,Text,,환상향은 사라지지 않아!,Gensokyo will never perish!,幻想郷は絶対に滅ぼさせない！,幻想乡永不灭！,幻想鄉永不滅！
+Character/HakureiReimu_Text_PharosLeader_0,Text,,나는…파로스의 무녀…,I am... the priestess of Pharos...,私は…ファロスの巫女…,我是……法洛斯的巫女……,我是……法洛斯的巫女……
+Character/HakureiReimu_Text_PharosLeader_1,Text,,"……위험해 위험해, 걸려들 뻔했네","Phew, that was close, I almost got trapped.",......危ない、危ない、もう少しで引っかかるところだったわ。,……好险好险，差点就陷进去了。,……好險好險，差點就陷進去了。
+Character/HakureiReimu_Text_PharosLeader_2,Text,,"이단아, 물럿거라!","Heretic, begone!",異端者よ、消え去りなさい！,异端，退散吧！,異端，退散吧！
+Character/HakureiReimu_Text_Witch_0,Text,,저주는 나에게 넘겨,Leave simple curses to me.,呪いは私に任せなさい。,区区诅咒就交给我吧。,區區詛咒就交给我吧。
+Character/HakureiReimu_Text_Witch_1,Text,,우……잠깐 다른 사람에게 넘겨줄래?,Ugh... how about letting someone else handle this for now?,むー...他の人に任せた方がいいわよ？,呜……暂时交给别人怎么样？,嗚……暫時交给别人怎麼樣？
+Character/HakureiReimu_UnlockString,Text,,"《동방프로젝트》 시리즈 캐릭터로 게임을 클리어한다
+(만약 《동방프로젝트》가 무엇인지 모른다면, “후지와라노 모코우” 또는 “레밀리아 스칼렛” 모드를 사용하는 것을 추천한다)","Clear the game once using any character from the <i>Touhou Project</i> series.
+For players who don’t know what <i>Touhou Project</i> is, you can prioritize using the <i>Fujiwara no Mokou</i> mod or the <i>Remilia</i> mod.)","「東方プロジェクト」シリーズのいずれかのキャラクターを使用してゲームを1回クリアする。 
+(「東方プロジェクト」を知らないプレイヤーは、「藤原妹紅」または「レミリア」Modを使用するのが良い。) ","使用任意《东方project》系列角色通关 1 次。
+（如果不知道什么是《东方project》的玩家，可以优先使用“藤原妹红”mod或是“蕾米莉亚”mod。）","使用任意《東方project》系列角色通關 1 次。
+（如果不知道《東方project》，建議使用「藤原妹紅」或「蕾米莉亞」角色mod。）"
+Character/HakureiReimu_name,Text,,하쿠레이 레이무,Hakurei Reimu,博麗霊夢,博丽灵梦,博麗靈夢
+Character_Skin/HakureiReimuEclipse_SkinDesc,Text,,"내 말을 귀담지 않겠다면 남은 선택지는 하나, 요괴는 퇴치해주겠어!","If you don’t listen, I only have one option. Youkai, I will come to exterminate you!",私の言うことを聞かないのなら、選択肢は一つ、妖怪は退治する！,如果你不老实听话，那我只有一个办法。妖怪，我会来消灭你！,如果你不老實聽話，那我只有一個辦法。妖怪，我會來消滅你！
+Character_Skin/HakureiReimuEclipse_SkinName,Text,,하늘을 나는 이상한 무녀,Mysterious Flying Shrine Maiden,空を飛ぶ不思議な巫女,飞翔于天空的不可思议的巫女,飛翔於天空的不可思議的巫女
+Character_Skin/HakureiReimuXmas_SkinDesc,Text,,,"Through Gensokyo's snowy skies, scarlet and white streaks dash. Santa or shrine maiden?
+Both! This festive outfit blends traditions. Reimu secretly hopes to wear it again next Christmas.",,"幻想乡的雪空中，鲜艳的红白驰骋。那究竟是圣诞老人还是巫女？
+是……巫女圣诞老人！这件比平时更温暖的衣服，既像巫女又像圣诞老人。
+灵梦对下一个圣诞节能再次穿上它感到有些期待。",
+Character_Skin/HakureiReimuXmas_SkinName,Text,,,Silver-Dashing Shrine Maiden,,白银驰骋的巫女,
+Character_Skin/HakureiReimuXmas_Text_Battle_Cri_0,Text,,,No need to hold back!,,别客气别客气！,
+Character_Skin/HakureiReimuXmas_Text_Battle_Idle_0,Text,,,I'm both a shrine maiden and Santa!,,是巫女，也是圣诞老人！,
+Character_Skin/HakureiReimuXmas_Text_Battle_Idle_1,Text,,,Let's team up again next year too!,,明年也请多多拜托啦！,
+Character_Skin/HakureiReimuXmas_Text_Battle_Kill_0,Text,,,"Merry Christmas, yo!",,圣诞快乐唷！,
+Character_Skin/HakureiReimuXmas_Text_Battle_Start_0,Text,,,Let's finish this quickly and get back to sleep!  ,,赶紧干完活回去睡觉吧！,
+Character_Skin/HakureiReimuXmas_Text_Field_GetItem_0,Text,,,It's a Christmas gift!,,是圣诞节礼物唷！,
+Character_Skin/HakureiReimuXmas_Text_Field_Idle_0,Text,,,So cold~ Why must I work in this freezing weather?,,好冷好冷~为什么这么冷的天我还要工作啊？,
+Character_Skin/HakureiReimuXmas_Text_Field_Idle_1,Text,,,Hehe~ The Christmas Shrine Maiden is here!,,嘿嘿，圣诞巫女来咯！,
+Character_Skin/HakureiReimuYukkuri_SkinDesc,Text,,느긋하게 있어!,Take it easy!,ゆっくりしていってね！,ゆっくりしていってね！,ゆっくりしていってね！
+Character_Skin/HakureiReimuYukkuri_SkinName,Text,,윳쿠리,Yukkuri,ゆっくり,油库里,油庫里
+Item_Equip/E_HakureiReimu_F_0_Description,Text,,전투 시작 시 공격력이 2 증가한다,"At the start of battle, increases Attack by 2.",戦闘開始時、自身の攻撃力が2増加する。,战斗开始时，使自身攻击力提升2点。,戰鬥開始時，裝備者獲得增益「攻擊力提升2點」。
+Item_Equip/E_HakureiReimu_F_0_name,Text,,하쿠레이 아뮬렛,Hakurei Ofuda,博麗アミュレット,博丽符札,博麗符札
+Item_Equip/E_HakureiReimu_F_1_Description,Text,,"각 턴 처음으로 공격이 적중하면 대상의 공격력, 방어력, 명중률, 디버프 성공률 중에서 무작위 하나가 3턴동안 15% 감소한다","When first attack hits each turn, reduces a random stat (ATK/DEF/Accuracy/Debuff Success) by 15% for 3 turns.",毎ターン最初の攻撃が命中したとき、3ターンの間、敵の攻撃力、防御力、命中率、デバフ成功率のうちランダムに1つが15%減少する。,每个回合第一次攻击命中时，随机使敌人攻击力、防御力、命中率、减益成功率中的一项在3回合内降低15%。,每回合僅限 1 次：裝備者的攻擊命中時，向目標施加減益「使隨機 1 種能力值減少15%（攻擊力/防禦力/命中率/所有減益成功率），持續 3 回合」。
+Item_Equip/E_HakureiReimu_F_1_name,Text,,봉마침,Sealing Needle,封魔針,封魔针,封魔針
+Item_Equip/E_HakureiReimu_F_2_Description,Text,,턴 시작 시와 적을 처치했을 때 다음 사용하는 2번의 스킬의 피해가 25% 증가한다,"At turn start and when defeating enemies, increases next two skills' damage by 25%.",毎ターン開始時と敵を倒したとき、次に使用する2回のスキルのダメージが25%増加する。,每个回合开始和击杀敌人时，会使下 2 个技能伤害增加25%。,每個回合開始時或擊殺敵人時，會使下2個技能傷害增加25%。
+Item_Equip/E_HakureiReimu_F_2_name,Text,,음양옥,Yin-Yang Orb,陰陽玉,阴阳玉,陰陽玉
+Item_Passive/R_HakureiReimu_F_0_Description,Text,,"전투 시작 시, 모든 아군의 처음 받는 피해를 75% 감소시킨다",Reduces first damage taken by all allies by 75% at battle start.,戦闘開始時、すべての味方が最初に受けるダメージを75%減少させる。,战斗开始时，使所有调查员受到的第一次伤害减少75%。,戰鬥開始時，使所有調查員受到的第一次傷害減少75%。
+Item_Passive/R_HakureiReimu_F_0_name,Text,,홍백무녀의 리본,Red-White Shrine Maiden's Bow,紅白巫女のリボン,红白巫女的蝴蝶结,紅白巫女的蝴蝶結
+RandomEvent/RE_HakureiReimu_0_Desc,Text,,,You find an offering box in the Twisted Lands. Donations seem to bring blessings.,,你们在扭曲之地发现了一个赛钱箱。似乎往里投入金钱就有好运庇佑的样子。,
+RandomEvent/RE_HakureiReimu_0_Name,Text,,,Offering Box,,赛钱箱,
+RandomEvent/RE_HakureiReimu_0_UseButtonTooltip_0,Text,,,Restore 50% HP to all allies.,,所有队友恢复50%体力。,
+RandomEvent/RE_HakureiReimu_0_UseButtonTooltip_1,Text,,,+1 skill drawn per turn in current area.,,当前区域内每回合抽取的技能数量+1。,
+RandomEvent/RE_HakureiReimu_0_UseButtonTooltip_2,Text,,,Permanently increase an investigator's ATK/Healing by 1.,,永久提升1个调查员1点攻击力和治疗力。,
+RandomEvent/RE_HakureiReimu_0_UseButton_0,Text,,,Donate 250 Gold,,塞钱250金币。,
+RandomEvent/RE_HakureiReimu_0_UseButton_1,Text,,,Donate 500 Gold,,塞钱500金币。,
+RandomEvent/RE_HakureiReimu_0_UseButton_2,Text,,,Donate 1000 Gold,,塞钱1000金币。,
+SimpleCampDialogue/CampDial_HakureiReimu_Azar_Dialogues_0,Text,,[B]설마 내 환영 일섬이 카피될 줄이야……,[B]So my Phantom Slash has a Stand counterpart...,[B]居然和我的幻影一闪是相同的替身……,[B]居然和我的幻影一闪是相同的替身……,[B]居然和我的幻影一閃是相同的替身……
+SimpleCampDialogue/CampDial_HakureiReimu_Azar_Dialogues_1,Text,,[A]주인공이니까 주인공의 지위를 차지했을 뿐이야,"[A]Protagonists deserve proper status. Right, Master Azar?",[A]主角就要有主角的地位嘛。是不是啊，扎师傅？,[A]主角就要有主角的地位嘛。是不是啊，扎师傅？,[A]主角就要有主角的地位嘛。是不是啊，扎師傅？
+SimpleCampDialogue/CampDial_HakureiReimu_Blue_Dialogues_0,Text,,"[A]참 많은 자매관계를 봤지만, 당신과 헬리아 같은 건 처음이야","[A]I've seen many sisters, but none quite like you and Helia.",[A]我见过许多姐妹。但像你和海拉这样的，倒还是第一次。,[A]我见过许多姐妹。但像你和海拉这样的，倒还是第一次。,[A]我見過許多姐妹。但像妳和海拉這樣的，倒還是第一次。
+SimpleCampDialogue/CampDial_HakureiReimu_Blue_Dialogues_1,Text,,[B]이렇게 닮지 않은 자매는 세상에 저희 뿐이겠죠……,[B]I'm the only sister unworthy of my sibling...,[B]世界上只有我这个妹妹配不上姐姐……,[B]世界上只有我这个妹妹配不上姐姐……,[B]世界上只有我這個妹妹配不上姐姐……
+SimpleCampDialogue/CampDial_HakureiReimu_Charon_Dialogues_0,Text,,"[A]카론, 그 힘은 어디에서 오는 거야?","[A]Charon, where does your power come from?",[A]卡伦，你的那些力量都是从哪儿来的？,[A]卡伦，你的那些力量都是从哪儿来的？,[A]卡倫，妳的那些力量都是從哪裡來的？
+SimpleCampDialogue/CampDial_HakureiReimu_Charon_Dialogues_1,Text,,[B]암흑사제의 힘 말이지? 우선 오십 권에 달하는 흑마법 교재를 읽고서……,[B]Dark Priest power? First read fifty black magic textbooks...,[B]暗黑祭司的力量吗？先是读完五十本黑魔法教学书，然后再……,[B]暗黑祭司的力量吗？先是读完五十本黑魔法教学书，然后再……,[B]暗黑祭司的力量嗎？先是讀完五十本黑魔法教學書，然後再……
+SimpleCampDialogue/CampDial_HakureiReimu_Charon_Dialogues_2,Text,,"[B]……이것들까지 다 익히고 나면, 나처럼 어엿한 암흑사제가 될 수 있다는 말씀. 그래서, 너의 힘은?",[B]...Master all these and become a proper Dark Priest. What about you?,[B]……最后把这些都学会以后，我就成为一名合格的暗黑祭司啦。对了，那你呢？,[B]……最后把这些都学会以后，我就成为一名合格的暗黑祭司啦。对了，那你呢？,[B]……最後把這些都學會以後，我就成為一名合格的暗黑祭司啦。對了，那妳呢？
+SimpleCampDialogue/CampDial_HakureiReimu_Charon_Dialogues_3,Text,,[A]날 때부터 있었어,[A]Born with it.,[A]出生自带的。,[A]出生自带的。,[A]出生自帶的。
+SimpleCampDialogue/CampDial_HakureiReimu_Cirno_Dialogues_0,Text,,[B]오오， 대마왕 출현! 용사 치르노 출격!,"[B]Ah! The Demon King appears! Hero Cirno, sortie!",[B]啊，大魔王发现！勇者琪露诺，出击！,[B]啊，大魔王发现！勇者琪露诺，出击！,[B]啊，大魔王發現！勇者琪露諾，出擊！
+SimpleCampDialogue/CampDial_HakureiReimu_Cirno_Dialogues_1,Text,,[A]멈춰! 이차창작을 오리지널에 들이밀지 마!,[A]Stop! Don't treat fanon as canon!,[A]住手啊！不要把二创设定当做一创设定对待啊！,[A]住手啊！不要把二创设定当做一创设定对待啊！,[A]住手啊！不要把二創設定當做一創設定對待啊！
+SimpleCampDialogue/CampDial_HakureiReimu_Daiyousei_Dialogues_0,Text,,"[A]그냥 요정이잖아, 뭐 요정의 힘이라고 얕잡아 볼 건 아니지만","[A]Just a fairy, but your power's impressive.",[A]虽然只是个妖精，但是妖精的力量真是不容小觑啊。,[A]虽然只是个妖精，但是妖精的力量真是不容小觑啊。,[A]雖然只是個妖精，但是妖精的力量真是不容小觑啊。
+SimpleCampDialogue/CampDial_HakureiReimu_Daiyousei_Dialogues_1,Text,,[B]에에? 뭐죠? 제가요?,[B]Eh? Me?,[B]诶？什么？我吗？,[B]诶？什么？我吗？,[B]诶？什麼？我嗎？
+SimpleCampDialogue/CampDial_HakureiReimu_Eirin_Dialogues_0,Text,,[B]오늘의 달은 처음 당신을 만났을 때처럼 이지러졌네,[B]The moon wanes like when we first met.,[B]今天的月也是初次和你相见那般残缺呢。,[B]今天的月也是初次和你相见那般残缺呢。,[B]今天的月也是初次和你相見那般残缺呢。
+SimpleCampDialogue/CampDial_HakureiReimu_Eirin_Dialogues_1,Text,,[A]이번 루프에서도 수작을 부리는 건 아니겠지?,"[A]You're not behind this loop, are you?",[A]这次的循环不会也是你们在搞鬼吧？,[A]这次的循环不会也是你们在搞鬼吧？,[A]這次的循環不會也是你們在搞鬼吧？
+SimpleCampDialogue/CampDial_HakureiReimu_Eirin_Dialogues_2,Text,,"[B]아쉽지만, 이제 우리는 그럴 이유가 없어서","[B]Regrettably, we've no reason to interfere now.",[B]很遗憾，我们已经没有那么做的理由了。,[B]很遗憾，我们已经没有那么做的理由了。,[B]很遺憾，我們已經沒有那麼做的理由了。
+SimpleCampDialogue/CampDial_HakureiReimu_Eirin_Dialogues_3,Text,,[A]됐어. 그러면 다음 행선지는 제비뽑기로 정해볼까!,[A]Fine. Let's draw lots for our next destination!,[A]也是。那就用抽签决定接下来往哪里前进吧！,[A]也是。那就用抽签决定接下来往哪里前进吧！,[A]也是。那就用抽籤決定接下來往哪裡前進吧！
+SimpleCampDialogue/CampDial_HakureiReimu_FlandreScarlet_Dialogues_0,Text,,"[A]플랑을 홍마관 밖에서 볼 줄이야, 여기저기 뒹굴거리고나 있고. 참 신기하네",[A]Flandre wandering outside Scarlet Devil Mansion? Incredible.,[A]居然看见芙兰离开红魔馆、在外边到处游荡了。真不可思议。,[A]居然看见芙兰离开红魔馆、在外边到处游荡了。真不可思议。,[A]居然看見芙蘭離開紅魔館、在外邊到處游蕩了。真不可思議。
+SimpleCampDialogue/CampDial_HakureiReimu_FlandreScarlet_Dialogues_1,Text,,"[B]이 곳은 온통 이상한 것 투성이야, 딱히 신기할 거 없잖아?",[B]Everything's strange here. What's so special?,[B]这里到处都是奇怪的东西，也没什么不可思议的吧？,[B]这里到处都是奇怪的东西，也没什么不可思议的吧？,[B]這裡到處都是奇怪的東西，也沒什麼不可思議的吧？
+SimpleCampDialogue/CampDial_HakureiReimu_FlandreScarlet_Dialogues_2,Text,,[A]뭐 그 말도 맞네,[A]Fair point.,[A]这么说倒也没错。,[A]这么说倒也没错。,[A]這麼說倒也沒錯。
+SimpleCampDialogue/CampDial_HakureiReimu_Hein_Dialogues_0,Text,,[B]무녀라고? 나라면 신앙의 신조차 죽여보이겠어!,[B]Shrine Maiden? I'll slay your gods too!,[B]巫女？我会把你信仰的神也杀掉！,[B]巫女？我会把你信仰的神也杀掉！,[B]巫女？我會把妳信仰的神也殺掉！
+SimpleCampDialogue/CampDial_HakureiReimu_Hein_Dialogues_1,Text,,[A]하아……신앙의 신……그런 게 있던가?,[A]Gods... Do I even have those?,[A]啊……信仰的神……我有那玩意吗？,[A]啊……信仰的神……我有那玩意吗？,[A]啊……信仰的神……我有那玩意嗎？
+SimpleCampDialogue/CampDial_HakureiReimu_HouraisanKaguya_Dialogues_0,Text,,[A]방구석폐인 공주님께서 친히 행차하셨구만,[A]The homebody princess actually came out?,[A]万年不出家的公主大人居然亲自出马了耶。,[A]万年不出家的公主大人居然亲自出马了耶。,[A]萬年不出家的公主大人居然親自出馬了耶。
+SimpleCampDialogue/CampDial_HakureiReimu_HouraisanKaguya_Dialogues_1,Text,,"[B]뒤틀린 땅에 또 다른 내가 있다는 말을 들어서. 이렇게 재미있어 보이는 일이라니, 당연히 올 수밖에 없잖아",[B]Heard there's another me here. Too interesting to miss.,[B]听说扭曲之地里存在着另一个我。这么有趣的事情，当然要去看看。,[B]听说扭曲之地里存在着另一个我。这么有趣的事情，当然要去看看。,[B]聽說扭曲之地裡存在著另一個我。這麼有趣的事情，當然要去看看。
+SimpleCampDialogue/CampDial_HakureiReimu_HouraisanKaguya_Dialogues_2,Text,,[A]당신은 또 다른 자신이라도 주저 없이 해칠 수 있어?,[A]Could you beat another yourself?,[A]你是那种连另一个自己都能轻松揍下去的人吗？,[A]你是那种连另一个自己都能轻松揍下去的人吗？,[A]妳是那種連另一個自己都能輕鬆揍下去的人嗎？
+SimpleCampDialogue/CampDial_HakureiReimu_HouraisanKaguya_Dialogues_3,Text,,"[B]뭐가 됐든, 또 하나의 내가 나는 아니잖아? 그러니까 철저히 처부술 뿐이야",[B]Another me isn't me. I'll crush them.,[B]不管怎么说，另一个我也不是我吧？那就狠狠地揍。,[B]不管怎么说，另一个我也不是我吧？那就狠狠地揍。,[B]不管怎麼說，另一個我也不是我吧？那就狠狠地揍。
+SimpleCampDialogue/CampDial_HakureiReimu_Huz_Dialogues_0,Text,,[B]아프면 꼭 말해줘야 해? 더 살살 할테니까,[B]Tell me if it hurts. I'll go easier.,[B]如果觉得痛的话请告诉我哦？我会试着手下留情的。,[B]如果觉得痛的话请告诉我哦？我会试着手下留情的。,[B]如果覺得痛的話請告訴我哦？我會試著手下留情的。
+SimpleCampDialogue/CampDial_HakureiReimu_Huz_Dialogues_1,Text,,"[A]그런 문제 이전에, 어째서 채찍으로 치료하는 건데?",[A]Why use whips for healing anyway?,[A]那个问题之前，为什么会有人用鞭子治疗啊？,[A]那个问题之前，为什么会有人用鞭子治疗啊？,[A]在這個問題之前，為什麼會有人用鞭子治療啊？
+SimpleCampDialogue/CampDial_HakureiReimu_Ilya_Dialogues_0,Text,,[B]나는 너무 약해……어떻게 하면 너처럼 강해질 수 있을까?,[B]I'm too weak... How to become strong like you?,[B]我太弱了……怎么样才能变得和你一样强？,[B]我太弱了……怎么样才能变得和你一样强？,[B]我太弱了……怎麼樣才能變得和妳一樣強？
+SimpleCampDialogue/CampDial_HakureiReimu_Ilya_Dialogues_1,Text,,"[A]음……너의 경우라면, 먼저 만뢰를 세 장 집고, 취기를 세 장 집은 다음","[A]First grab three Thunderstorms, three Drunken Revelries...",[A]嗯……你这样，先抓三张万雷，再抓三张醉生梦死。,[A]嗯……你这样，先抓三张万雷，再抓三张醉生梦死。,[A]嗯……這樣，先抓三張萬雷，再抓三張醉生夢死。
+SimpleCampDialogue/CampDial_HakureiReimu_Ilya_Dialogues_2,Text,,[A]나한테 보드카 20병을 준다면 크로노 아크의 최강이 될 수 있어!,[A]Then give me 20 vodka bottles to become Chrono Ark's strongest!,[A]然后给我发二十瓶伏特加就是超时空方舟最强了！,[A]然后给我发二十瓶伏特加就是超时空方舟最强了！,[A]然後再發二十瓶伏特加，你就是超時空方舟最強了！
+SimpleCampDialogue/CampDial_HakureiReimu_Inaba_Dialogues_0,Text,,"[B]레이무 씨, 제가 디버프를 걸 테니, 마음껏 딜하세용!","[B]I'll handle debuffs, you focus on DPS!",[B]灵梦小姐，咱来负责弱化，你就尽管放心输出吧！,[B]灵梦小姐，咱来负责弱化，你就尽管放心输出吧！,[B]靈夢小姐，咱來負責弱化，妳就儘管放心輸出吧！
+SimpleCampDialogue/CampDial_HakureiReimu_Inaba_Dialogues_1,Text,,[A]제발 폭탄만 돌리지 마……,[A]Just don't throw bombs everywhere...,[A]只要你别把炸弹到处乱扔就行……,[A]只要你别把炸弹到处乱扔就行……,[A]只要你别把炸彈到處亂扔就行……
+SimpleCampDialogue/CampDial_HakureiReimu_Iron_Dialogues_0,Text,,[A]어째서 보호막은 버프 취급이야?,[A]Why are shields considered buffs?,[A]为什么保护罩算是一种增益啊？,[A]为什么保护罩算是一种增益啊？,[A]為什麼保護罩算是一種增益啊？
+SimpleCampDialogue/CampDial_HakureiReimu_Iron_Dialogues_1,Text,,[B]……시스템 매커니즘 같은 건 우리가 자세히 알 필요는 없지,[B]...No need to understand core mechanics.,[B]……底层逻辑的事情，我们不需要搞的太清楚。,[B]……底层逻辑的事情，我们不需要搞的太清楚。,[B]……底層邏輯的事情，我們不需要搞得太清楚。
+SimpleCampDialogue/CampDial_HakureiReimu_IzayoiSakuya_Dialogues_0,Text,,[A]사쿠야는 최근 항상 바쁘네. 참 오랜만에 봐,[A]Sakuya's been busy lately. Long time no see.,[A]咲夜最近总是很忙。已经好久不见了呢。,[A]咲夜最近总是很忙。已经好久不见了呢。,[A]咲夜最近總是很忙。已經好久不見了呢。
+SimpleCampDialogue/CampDial_HakureiReimu_IzayoiSakuya_Dialogues_1,Text,,"[B]그 말대로 바쁘긴 하지만, 최근에 발생한 사건이라면 우리와는 아무 관계도 없어",[B]Recent events don't concern us.,[B]与其说是很忙，不如说最近发生的事情都跟我们无关。,[B]与其说是很忙，不如说最近发生的事情都跟我们无关。,[B]與其說是很忙，不如說最近發生的事情都跟我們無關。
+SimpleCampDialogue/CampDial_HakureiReimu_IzayoiSakuya_Dialogues_2,Text,,"[B]관계 있으면 말고, 신경도 안 쓸 일이니까 잘 되길 바라지",[B]Unrelated matters are welcome distractions.,[B]如果是有关的也就罢了，事不关己的时候我也乐享其成呢。,[B]如果是有关的也就罢了，事不关己的时候我也乐享其成呢。,[B]如果是有關的也就罷了，事不關己的時候我也樂享其成呢。
+SimpleCampDialogue/CampDial_HakureiReimu_Joey_Dialogues_0,Text,,[A]당신 물약은 내 친구가 만드는 항상 터지는 물약보다 훨씬 안전한걸,[A]Your potions are safer than my friend's exploding ones.,[A]你的药水比我朋友做的总是会爆炸的那些安全多了。,[A]你的药水比我朋友做的总是会爆炸的那些安全多了。,[A]你的藥水，比我朋友做的、總是會爆炸的那些安全多了。
+SimpleCampDialogue/CampDial_HakureiReimu_Joey_Dialogues_1,Text,,[B]뭐? 나는 터지는 물약 따위 만들지 않아!,[B]I can make explosive potions too!,[B]什么？我又不是不会做爆炸的药剂！,[B]什么？我又不是不会做爆炸的药剂！,[B]什麼？我又不是不會做爆炸的藥劑！
+SimpleCampDialogue/CampDial_HakureiReimu_Joey_Dialogues_2,Text,,[A]……딱히 사람 비교하는 말은 아니었다만,[A]...Wasn't challenging you.,[A]……没让你去跟人家比这个啦。,[A]……没让你去跟人家比这个啦。,[A]……沒讓你去跟人家比這個啦。
+SimpleCampDialogue/CampDial_HakureiReimu_Johan_Dialogues_0,Text,,"[B]당신이 무녀라면, 점을 봐 주십시오!",[B]You're a shrine maiden! Tell my fortune!,[B]你是巫女的话，一定会占卜对吧！,[B]你是巫女的话，一定会占卜对吧！,[B]你是巫女的話，一定會占卜對吧！
+SimpleCampDialogue/CampDial_HakureiReimu_Johan_Dialogues_1,Text,,[B]제게 앨리스가 어디에 있는지 알려주세요!,[B]Find Alice for me!,[B]帮我占卜一下爱丽丝在哪里吧！,[B]帮我占卜一下爱丽丝在哪里吧！,[B]幫我占卜一下愛麗絲在哪裡吧！
+SimpleCampDialogue/CampDial_HakureiReimu_Johan_Dialogues_2,Text,,[A]아쉽지만 나는 무녀여도 점은 못 봐. 신도 못 부르고,[A]Can't do divinations or summon gods.,[A]可惜，我这巫女既不会占卜，也不会请神。,[A]可惜，我这巫女既不会占卜，也不会请神。,[A]可惜，我這巫女既不會占卜，也不會請神。
+SimpleCampDialogue/CampDial_HakureiReimu_Johan_Dialogues_3,Text,,"[A]그보다는, 빨리 잊는 걸 추천할게",[A]Better give up early.,[A]另外，我劝你趁早放弃为好。,[A]另外，我劝你趁早放弃为好。,[A]另外，我勸你趁早放棄為好。
+SimpleCampDialogue/CampDial_HakureiReimu_Kasen_Dialogues_0,Text,,"[B]이번 이변에는 의문점이 너무 많아요, 해결하려면 고생 좀 하겠네요",[B]This incident has too many mysteries.,[B]这次异变的谜团实在太多了，要解决起来应该会很辛苦吧。,[B]这次异变的谜团实在太多了，要解决起来应该会很辛苦吧。,[B]這次異變的謎團實在太多了，要解決起來應該會很辛苦吧。
+SimpleCampDialogue/CampDial_HakureiReimu_Kasen_Dialogues_1,Text,,"[B]거기다가, 모리야 신사의 무녀도 나타났다죠. 이대로면 뒤처지겠어요",[B]The Moriya shrine maiden appears too. We'll lose.,[B]而且，守矢神社的巫女也出现了哦。这样下去，会敌不过的。,[B]而且，守矢神社的巫女也出现了哦。这样下去，会敌不过的。,[B]而且，守矢神社的巫女也出現了哦。這樣下去，會敵不過的。
+SimpleCampDialogue/CampDial_HakureiReimu_Kasen_Dialogues_2,Text,,[A]아무래도 상관 없는데……이변 따위 누가 해결하던 별 차이 없잖아?,[A]Who cares who solves it?,[A]我倒是无所谓……不管异变到底由谁解决，都差不多吧？,[A]我倒是无所谓……不管异变到底由谁解决，都差不多吧？,[A]我倒是無所謂……不管異變到底由誰解決，都差不多吧？
+SimpleCampDialogue/CampDial_HakureiReimu_KochiyaSanae_Dialogues_0,Text,,"[B]레이무, 이번에는 경쟁 상대로 보지 않을테니 함께 싸우자구요!",[B]Let's cooperate this time!,[B]灵梦，这次就放下竞争关系，我们并肩作战吧！,[B]灵梦，这次就放下竞争关系，我们并肩作战吧！,[B]靈夢，這次就放下競爭關係，我們並肩作戰吧！
+SimpleCampDialogue/CampDial_HakureiReimu_KochiyaSanae_Dialogues_1,Text,,[A]그래……내 발이나 잡지 말아줄래?,[A]Don't hold me back.,[A]好吧……可别拖我后腿哦？,[A]好吧……可别拖我后腿哦？,[A]好吧……可别拖我後腿哦？
+SimpleCampDialogue/CampDial_HakureiReimu_KochiyaSanae_Dialogues_2,Text,,"[B]다, 당연하죠!……반드시 당신을 넘어 보이겠어요!",[B]I'll surpass you!,[B]才、才不会！……一定会超越给你看！,[B]才、才不会！……一定会超越给你看！,[B]才、才不會！……一定會超越给你看！
+SimpleCampDialogue/CampDial_HakureiReimu_KochiyaSanae_Dialogues_3,Text,,"[A]거기, 방금 경쟁 관계는 그만둔다고 하지 않았던가?!",[A]We agreed to stop competing!,[A]喂，不是说好了不竞争了吗？！,[A]喂，不是说好了不竞争了吗？！,[A]喂，不是說好了不競爭了嗎？！
+SimpleCampDialogue/CampDial_HakureiReimu_Leryn_Dialogues_0,Text,,[B]치유의 호와 결계술을 결합할 수 있다면……으음……,[B]Combining Healing Arc with barriers... Hmm...,[B]要是能把治愈之弧和结界术结合一下的话……唔姆……,[B]要是能把治愈之弧和结界术结合一下的话……唔姆……,[B]要是能把治愈之弧和結界術結合一下的話……唔姆……
+SimpleCampDialogue/CampDial_HakureiReimu_Leryn_Dialogues_1,Text,,"[A]며칠이고 노려보고 있는 듯한 건, 내 착각인가……？",[A]Feel watched lately... My imagination?,[A]总感觉这几天一直在被人盯着，是我的错觉吗……？,[A]总感觉这几天一直在被人盯着，是我的错觉吗……？,[A]總感覺這幾天一直在被人盯著，是我的錯覺嗎……？
+SimpleCampDialogue/CampDial_HakureiReimu_Lian_Dialogues_0,Text,,[B]네게는 내 지휘가 필요 없는 것 같군,[B]You don't need my commands.,[B]其实你根本不需要我指挥吧？,[B]其实你根本不需要我指挥吧？,[B]其實妳根本不需要我指揮吧？
+SimpleCampDialogue/CampDial_HakureiReimu_Lian_Dialogues_1,Text,,[B]내가 명령을 내리기도 전에 너의 신체가 먼저 반응해 버리니까,[B]Your body reacts before I order.,[B]早在我的命令之前，你的身体就已经做出反应了。,[B]早在我的命令之前，你的身体就已经做出反应了。,[B]早在收到我的命令前，妳的身體就已經做出反應了。
+SimpleCampDialogue/CampDial_HakureiReimu_Lian_Dialogues_2,Text,,[A]응? 그런가. 내 직감이 남들보다 뛰어나기는 하지,[A]Just sharper intuition.,[A]嗯？是吗。大概只是我的直觉比别人更强一点吧。,[A]嗯？是吗。大概只是我的直觉比别人更强一点吧。,[A]嗯？是嗎。大概只是我的直覺比别人更強一點吧。
+SimpleCampDialogue/CampDial_HakureiReimu_Miss_Dialogues_0,Text,,[B]무녀님 옷은 참 빵꾸가 많네!,[B]Your outfit looks breezy!,[B]巫女小姐的衣服看起来很透气呢！,[B]巫女小姐的衣服看起来很透气呢！,[B]巫女小姐的衣服看起來很透氣呢！
+SimpleCampDialogue/CampDial_HakureiReimu_Miss_Dialogues_1,Text,,[A]이런 건 “청렴결백”이라고 하는 거야……,"[A]This is called ""incorruptible purity"".",[A]我这种应该叫所谓的“两袖清风”才是啦……,[A]我这种应该叫所谓的“两袖清风”才是啦……,[A]我這種應該叫所謂的「兩袖清風」啦……
+SimpleCampDialogue/CampDial_HakureiReimu_Mokou_Dialogues_0,Text,,[A]당신도 인간이라 할 수 있나? 참 어떻게 불을 일으키는 건지,[A]You're human? Why combust?,[A]大体上来说你也是人类吧？ 为什么会烧起来啊。,[A]大体上来说你也是人类吧？ 为什么会烧起来啊。,[A]大體上來說你也是人類吧，為什麼會燒起來啊？
+SimpleCampDialogue/CampDial_HakureiReimu_Mokou_Dialogues_1,Text,,"[B]물론 인간이야, 천년의 세월을 살며 약간의 특수능력을 다룰 수 있게 되었지",[B]Humans gain skills after 1000 years.,[B]就算是人类，活了一千多年也能掌握一点特殊能力吧。,[B]就算是人类，活了一千多年也能掌握一点特殊能力吧。,[B]就算是人類，活了一千多年，也能掌握一點特殊能力吧。
+SimpleCampDialogue/CampDial_HakureiReimu_Mokou_Dialogues_2,Text,,"[B]그보다도, 당신이야말로 인간이긴 해? 당신의 그 힘은 도무지 이해하기 어렵네",[B]You're human too. Explain your power.,[B]不如说，你不也是人类吗？你那出格的力量又算怎么回事。,[B]不如说，你不也是人类吗？你那出格的力量又算怎么回事。,[B]不如說，你不也是人類嗎？你那出格的力量又算怎麼回事。
+SimpleCampDialogue/CampDial_HakureiReimu_Mokou_Dialogues_3,Text,,[A]이런 게 인간의 기본인 건가,[A]Basic human skills.,[A]这是人类的基本功哦。,[A]这是人类的基本功哦。,[A]這是人類的基本功哦。
+SimpleCampDialogue/CampDial_HakureiReimu_Momori_Dialogues_0,Text,,"[B]레, 레이무 님……히히……",[B]M-Miss Reimu... giggles,[B]灵、灵梦小姐……嘿嘿……,[B]灵、灵梦小姐……嘿嘿……,[B]靈、靈夢小姐……嘿嘿……
+SimpleCampDialogue/CampDial_HakureiReimu_Momori_Dialogues_1,Text,,[A]왜 이렇게 공손한 태도지? 구걸이라도 하려 온 건가?,[A]Why so formal? Do I look scary?,[A]干嘛对我这么客气？我看起来像是会吃人的样子吗？,[A]干嘛对我这么客气？我看起来像是会吃人的样子吗？,[A]幹嘛對我這麼客氣？我看起來像是會吃人的樣子嗎？
+SimpleCampDialogue/CampDial_HakureiReimu_Momori_Dialogues_2,Text,,"[B]누, 누가 당신이 붉은 살인마라고 말하잖아요……으앗! 제발 모모리는 죽이지 말아주세요!",[B]They call you Scarlet Murderer! Spare Momori!,[B]因、因为他们都说你是赤色杀人魔……呜哇！求求你不要杀桃梨！,[B]因、因为他们都说你是赤色杀人魔……呜哇！求求你不要杀桃梨！,[B]因、因為他們都說妳是赤色殺人魔……嗚哇！求求妳不要殺桃梨！
+SimpleCampDialogue/CampDial_HakureiReimu_Momori_Dialogues_3,Text,,[A]누구야!!! 그딴 말을 한 건!!!,[A]WHO SAID THAT?!,[A]谁说的！！！我才没有好吧！！！,[A]谁说的！！！我才没有好吧！！！,[A]誰說的！！！我才沒有好吧！！！
+SimpleCampDialogue/CampDial_HakureiReimu_Narhan_Dialogues_0,Text,,"[B]이봐, 레이무. 전투 중에 저녁 고민하는 건 그만하는 편이 어때?",[B]Stop thinking about dinner mid-battle!,[B]喂，灵梦。能不能不要在战斗的时候想着晚饭吃什么啊？,[B]喂，灵梦。能不能不要在战斗的时候想着晚饭吃什么啊？,[B]喂，靈夢。能不能不要在戰鬥的時候想著晚飯吃什麼啊？
+SimpleCampDialogue/CampDial_HakureiReimu_Narhan_Dialogues_1,Text,,[A]뭐야? 안 되는 거였어?,[A]Problem?,[A]怎么了？不允许吗？,[A]怎么了？不允许吗？,[A]怎麼了？不允許嗎？
+SimpleCampDialogue/CampDial_HakureiReimu_Pheonix_Dialogues_0,Text,,[B]빵을 넘겨라!,[B]Hand over the bread!,[B]把面包交出来！,[B]把面包交出来！,[B]把麵包交出來！
+SimpleCampDialogue/CampDial_HakureiReimu_Pheonix_Dialogues_1,Text,,"[A]필요하다면 직접 가져 와, 기본적인 규칙이잖아?",[A]Come take it.,[A]如果你想要，那就自己来拿。你知道这规矩。,[A]如果你想要，那就自己来拿。你知道这规矩。,[A]如果你想要，那就自己來拿。你知道這規矩。
+SimpleCampDialogue/CampDial_HakureiReimu_Pheonix_Dialogues_2,Text,,[B]우리 사이가 이것밖에 안 돼?,[B]How many times must we fight?,[B]我们之间打过多少次了？,[B]我们之间打过多少次了？,[B]我們之間打過多少次了？
+SimpleCampDialogue/CampDial_HakureiReimu_Pheonix_Dialogues_3,Text,,[A]글쎄,[A]Hard to say.,[A]很难说。,[A]很难说。,[A]很難說。
+SimpleCampDialogue/CampDial_HakureiReimu_Pheonix_Dialogues_4,Text,,[B]딱 하나만!,[B]Settle this!,[B]一了百了吧！,[B]一了百了吧！,[B]一了百了吧！
+SimpleCampDialogue/CampDial_HakureiReimu_Priest_Dialogues_0,Text,,"[B]무지한 무녀시군요, 그런 거짓된 신을 믿지 마시고 진정한 주님의 품으로 들어오세요",[B]Forsake false gods. Embrace Truth.,[B]无知的巫女啊，不要再信仰那伪神了，加入真主的怀抱吧。,[B]无知的巫女啊，不要再信仰那伪神了，加入真主的怀抱吧。,[B]無知的巫女啊，不要再信仰那偽神了，加入真主的懷抱吧。
+SimpleCampDialogue/CampDial_HakureiReimu_Priest_Dialogues_1,Text,,[A]그럴까? 그럼 당장 가서 우리 집에 귀찮게 처들어오는 열 몇쯤 되는 신들 좀 내쫓아 주라,[A]Really? Then evict the dozen gods squatting at my shrine.,[A]真的吗？你赶紧把天天住我家那十几个神赶走吧。,[A]真的吗？你赶紧把天天住我家那十几个神赶走吧。,[A]真的嗎？妳趕紧把天天住我家那十幾個神趕走吧。
+SimpleCampDialogue/CampDial_HakureiReimu_Priest_Dialogues_2,Text,,[A]도대체가 시끄러워서 낮잠을 잘 수가 없잖아……,[A]They're so noisy...,[A]每天都吵得我睡不着觉啊……,[A]每天都吵得我睡不着觉啊……,[A]每天都吵得我睡不著覺啊……
+SimpleCampDialogue/CampDial_HakureiReimu_Priest_Dialogues_3,Text,,"[B]……여, 열 몇이나……?",[B]A... dozen?,[B]……十、十几个……？,[B]……十、十几个……？,[B]……十、十幾個……？
+SimpleCampDialogue/CampDial_HakureiReimu_Red_Dialogues_0,Text,,"[A]참 많은 자매관계를 봤지만, 당신과 셀레나 같은 건 처음이야","[A]Many sisters, but none like you and Selena.",[A]我见过许多姐妹。但像你和赛琳娜这样的，倒还是第一次。,[A]我见过许多姐妹。但像你和赛琳娜这样的，倒还是第一次。,[A]我見過許多姐妹。但像妳和賽琳娜這樣的，倒還是第一次。
+SimpleCampDialogue/CampDial_HakureiReimu_Red_Dialogues_1,Text,,[B]그 자매 친구들은 나와 셀레나만큼 사이 좋지 않나보네!,[B]No sisters get along like us!,[B]其他的姐妹可都没有我和赛琳娜的关系那么好！,[B]其他的姐妹可都没有我和赛琳娜的关系那么好！,[B]其他的姐妹可都沒有我和賽琳娜的關係那麼好！
+SimpleCampDialogue/CampDial_HakureiReimu_Reisen_Dialogues_0,Text,,"[A]저녁은 토끼 전골이야. 레이센, 같이 먹을래?",[A]Rabbit hotpot tonight. Join us?,[A]今晚就吃兔肉火锅了。铃仙，要一起来吗？,[A]今晚就吃兔肉火锅了。铃仙，要一起来吗？,[A]今晚就吃兔肉火鍋了。鈴仙，要一起來嗎？
+SimpleCampDialogue/CampDial_HakureiReimu_Reisen_Dialogues_1,Text,,[B]분명 일부러시죠?,[B]You're doing this on purpose!,[B]你分明是故意的吧？,[B]你分明是故意的吧？,[B]妳分明是故意的吧？
+SimpleCampDialogue/CampDial_HakureiReimu_RemiliaScarlet_Dialogues_0,Text,,[B]역시 레이무도 이곳의 이변을 조사하러 왔어?,[B]Here to investigate too?,[B]灵梦果然也来调查这里的异变了吗？,[B]灵梦果然也来调查这里的异变了吗？,[B]靈夢果然也來調查這裡的異變了嗎？
+SimpleCampDialogue/CampDial_HakureiReimu_RemiliaScarlet_Dialogues_1,Text,,[A]이번 파트너는 당신이야? 이거 참 안심이네,[A]Partnering with you? Reassuring.,[A]这次的伙伴是你吗？真让人安心啊。,[A]这次的伙伴是你吗？真让人安心啊。,[A]這次的伙伴是妳嗎？真讓人安心啊。
+SimpleCampDialogue/CampDial_HakureiReimu_RemiliaScarlet_Dialogues_2,Text,,"[B]흥흥, 마음껏 나에게 의지해",[B]Rely on me completely.,[B]哼哼，尽情地依赖本小姐吧。,[B]哼哼，尽情地依赖本小姐吧。,[B]哼哼，盡情地依賴本小姐吧。
+SimpleCampDialogue/CampDial_HakureiReimu_RemiliaScarlet_Dialogues_3,Text,,[A]내 피는 못 주니까,[A]No bloodsucking.,[A]可别偷偷吸我血哦。,[A]可别偷偷吸我血哦。,[A]可别偷偷吸我血哦。
+SimpleCampDialogue/CampDial_HakureiReimu_SatsukiRin_Dialogues_0,Text,,"[A]오, 사츠키. 이렇게 직접 마주 보고 이야기하는 건 처음이던가",[A]First time chatting face-to-face!,[A]呀，阿麟。居然能面对面地跟你聊天，这还是第一次。,[A]呀，阿麟。居然能面对面地跟你聊天，这还是第一次。,[A]呀，阿麟。居然能面對面地跟你聊天，這還是第一次。
+SimpleCampDialogue/CampDial_HakureiReimu_SatsukiRin_Dialogues_1,Text,,[B]후후……유카리 씨 덕분에요. 지금의 저는 지상에 올라올 수 있어요,"[B]Thanks to Yukari, I can walk the earth.",[B]呵呵……多亏了紫。现在的我也能站在大地上了。,[B]呵呵……多亏了紫。现在的我也能站在大地上了。,[B]呵呵……多虧了紫，現在的我也能站在大地上了。
+SimpleCampDialogue/CampDial_HakureiReimu_SatsukiRin_Dialogues_2,Text,,"[B]비록 잠깐의 환영이지만……제가 당신을 서포트할게요, 레이무!","[B]Let me assist you, temporary as I am!",[B]虽然只是个暂时的幻影……但是，就让我来辅助你吧，灵梦！,[B]虽然只是个暂时的幻影……但是，就让我来辅助你吧，灵梦！,[B]雖然只是個暫時的幻影……但是，就讓我來輔助妳吧，靈夢！
+SimpleCampDialogue/CampDial_HakureiReimu_SatsukiRin_Dialogues_3,Text,,"[A]후후, 그럼 보여주자고, 하쿠레이의 무녀와 기린 파티의 위력을!",[A]Witness the Hakurei-Kirin combo!,[A]呵呵，就让它们见识下，博丽巫女和麒麟联手的威力吧！,[A]呵呵，就让它们见识下，博丽巫女和麒麟联手的威力吧！,[A]呵呵，就讓它們見識下，博麗巫女和麒麟聯手的威力吧！
+SimpleCampDialogue/CampDial_HakureiReimu_SilverStein_Dialogues_0,Text,,"[A]당신은 분명 엄청 강할텐데, 어째서 전력을 내지 않지?",[A]Why hold back your true power?,[A]你明明非常厉害，却不愿意用全力呢。,[A]你明明非常厉害，却不愿意用全力呢。,[A]你明明非常厲害，卻不願意用全力呢。
+SimpleCampDialogue/CampDial_HakureiReimu_SilverStein_Dialogues_1,Text,,[B]전력을 내면 뒤가 없잖아,[B]No retreat if I go all-out.,[B]用尽全力以后可就没有退路了。,[B]用尽全力以后可就没有退路了。,[B]用盡全力以後可就沒有退路了。
+SimpleCampDialogue/CampDial_HakureiReimu_Sizz_Dialogues_0,Text,,"[A]인형사를 보니까, 이십몇 년 정도 된 일이 저절로 떠올랐어",[A]Seeing puppeteers reminds me of 20 years ago.,[A]看到人偶使，忍不住想起了二十多年前的事情了呢。,[A]看到人偶使，忍不住想起了二十多年前的事情了呢。,[A]看到人偶使，忍不住想起了二十多年前的事情了呢。
+SimpleCampDialogue/CampDial_HakureiReimu_Sizz_Dialogues_1,Text,,"[B]네? 레, 레이무 씨는 해봤자 열 몇으로밖에 안 보이는데……",[B]But you look 15...,[B]咦？灵、灵梦小姐看着也就十多岁……,[B]咦？灵、灵梦小姐看着也就十多岁……,[B]咦？靈、靈夢小姐看著也就十多歲……
+SimpleCampDialogue/CampDial_HakureiReimu_Sizz_Dialogues_2,Text,,[A]미성년인 건 맞다만?,[A]I'm legally underage.,[A]我确实是未成年哦？,[A]我确实是未成年哦？,[A]我確實是未成年哦？
+SimpleCampDialogue/CampDial_HakureiReimu_Sizz_Dialogues_3,Text,,[B]네……네에?,[B]Huh?!,[B]咦……咦？,[B]咦……咦？,[B]咦……咦？
+SimpleCampDialogue/CampDial_HakureiReimu_TouhouAlice_Dialogues_0,Text,,[A]그렇게 인형들 보살피는 게 좋아?,[A]Properly maintaining your dolls?,[A]你有好好把那些人偶供养吗？,[A]你有好好把那些人偶供养吗？,[A]你有好好把那些人偶供養嗎？
+SimpleCampDialogue/CampDial_HakureiReimu_TouhouAlice_Dialogues_1,Text,,[A]인형의 모습으로 존재하는 것에는 오만 것들이 들러붙기 쉽잖아?,[A]Humanoid forms attract attachments.,[A]以人形态存在的东西很容易被各种东西附上哦？,[A]以人形态存在的东西很容易被各种东西附上哦？,[A]以人形態存在的東西很容易被各種東西附上哦？
+SimpleCampDialogue/CampDial_HakureiReimu_TouhouAlice_Dialogues_2,Text,,"[B]안 그래도, 그게 내 걱정이야",[B]Exactly what I want.,[B]不如说，那正合我的心意啊。,[B]不如说，那正合我的心意啊。,[B]不如說，那正合我的心意啊。
+SimpleCampDialogue/CampDial_HakureiReimu_Trisha_Dialogues_0,Text,,[B]당신네들 기술은 참 따라하기 어려워,[B]Your people's skills resist replication.,[B]从你们那儿来的人，技能都很难复制。,[B]从你们那儿来的人，技能都很难复制。,[B]從你們那兒來的人，技能都很難複製。
+SimpleCampDialogue/CampDial_HakureiReimu_Trisha_Dialogues_1,Text,,[A]그런가? 아무래도 대부분의 능력이 날 때부터 지닌 거니까,"[A]Innate abilities, not just technique.",[A]是吗？毕竟有很大一部分是与生俱来的能力吧。,[A]是吗？毕竟有很大一部分是与生俱来的能力吧。,[A]是嗎？畢竟有很大一部分是與生俱來的能力吧。
+SimpleCampDialogue/CampDial_HakureiReimu_Trisha_Dialogues_2,Text,,[A]“기술”만으로 따라할 수 있는 게 아니긴 하지,[A]Can't be copied through skill alone.,[A]那可不是光凭“技术”就能复制的东西。,[A]那可不是光凭“技术”就能复制的东西。,[A]那可不是光憑技術就能複製的東西。
+SimpleCampDialogue/CampDial_HakureiReimu_Youmu_Dialogues_0,Text,,"[A]덥네, 유령 하나 빌려쓸 수 있을까?",[A]Lend me some ghosts? It's hot.,[A]好热呢，能不能借一两只幽灵来用用？,[A]好热呢，能不能借一两只幽灵来用用？,[A]好熱呢，能不能借一兩隻幽靈來用用？
+SimpleCampDialogue/CampDial_HakureiReimu_Youmu_Dialogues_1,Text,,"[B]당신은 무녀잖아요, 무녀도 유령이 붙을 수 있어요?",[B]Shrine maidens shouldn't consort with spirits!,[B]你是巫女耶，巫女可不能被幽灵缠身吧？,[B]你是巫女耶，巫女可不能被幽灵缠身吧？,[B]妳是巫女耶，巫女可不能被幽靈纏身吧？
+Skill/S_HakureiReimu_F_0_1_Description,Text,,<b><color=#B22222>스펠카드 레벨 1</color></b> - 이 스킬로 입힌 피해의 10%만큼 배리어를 획득한다,<b><color=#B22222>Spell Card Level 1</color></b> - Converts 10% of damage dealt into Barrier.,<b><color=#B22222>スペルカードレベル1</color></b> - このスキルで与えたダメージの10%をバリアに変換する。,<b><color=#B22222>符卡等级1</color></b> - 这个技能造成伤害的10%将会转化为自己的保护罩。,<b><color=#B22222>符卡等級1</color></b> - 造成傷害的10%轉化為自己的保護罩。
+Skill/S_HakureiReimu_F_0_1_Name,Text,,영부「몽상봉인」,Spirit Sign「Dream Seal」,霊符「夢想封印」,灵符「梦想封印」,靈符「夢想封印」
+Skill/S_HakureiReimu_F_0_2_Description,Text,,<b><color=#B22222>스펠카드 레벨 2</color></b> - 이 스킬로 입힌 피해의 20%만큼 배리어를 획득한다,<b><color=#B22222>Spell Card Level 2</color></b> - Converts 20% of damage dealt into Barrier.,<b><color=#B22222>スペルカードレベル2</color></b> - このスキルで与えたダメージの20%をバリアに変換する。,<b><color=#B22222>符卡等级2</color></b> - 这个技能造成伤害的20%将会转化为自己的保护罩。,<b><color=#B22222>符卡等級2</color></b> - 造成傷害的20%轉化為自己的保護罩。
+Skill/S_HakureiReimu_F_0_2_Name,Text,,영부「몽상봉인 원」,Spirit Sign「Dream Seal -Circle-」,霊符「夢想封印 円」,灵符「梦想封印　圆」,靈符「夢想封印　圓」
+Skill/S_HakureiReimu_F_0_3_Description,Text,,<b><color=#B22222>스펠카드 레벨 3</color></b> - 이 스킬로 입힌 피해의 30%만큼 배리어를 획득한다,<b><color=#B22222>Spell Card Level 3</color></b> - Converts 30% of damage dealt into Barrier.,<b><color=#B22222>スペルカードレベル3</color></b> - このスキルで与えたダメージの30%をバリアに変換する。,<b><color=#B22222>符卡等级3</color></b> - 这个技能造成伤害的30%将会转化为自己的保护罩。,<b><color=#B22222>符卡等級3</color></b> - 造成傷害的30%轉化為自己的保護罩。
+Skill/S_HakureiReimu_F_0_3_Name,Text,,영부「몽상봉인 산」,Spirit Sign「Dream Seal -Spread-」,霊符「夢想封印 散」,灵符「梦想封印　散」,靈符「夢想封印　散」
+Skill/S_HakureiReimu_F_0_4_Description,Text,,<b><color=#B22222>스펠카드 레벨 4</color></b> - 이 스킬로 입힌 피해의 40%만큼 배리어를 획득한다,<b><color=#B22222>Spell Card Level 4</color></b> - Converts 40% of damage dealt into Barrier.,<b><color=#B22222>スペルカードレベル4</color></b> - このスキルで与えたダメージの40%をバリアに変換する。,<b><color=#B22222>符卡等级4</color></b> - 这个技能造成伤害的40%将会转化为自己的保护罩。,<b><color=#B22222>符卡等級4</color></b> - 造成傷害的40%轉化為自己的保護罩。
+Skill/S_HakureiReimu_F_0_4_Name,Text,,신령「몽상봉인 순」,Divine Spirit「Dream Seal -Blink-」,神符「夢想封印 瞬」,神灵「梦想封印　瞬」,神靈「夢想封印　瞬」
+Skill/S_HakureiReimu_F_0_5_Description,Text,,<b><color=#B22222>스펠카드 레벨 5</color></b> - 이 스킬로 입힌 피해의 50%만큼 배리어를 획득한다,<b><color=#B22222>Spell Card Level 5</color></b> - Converts 50% of damage dealt into Barrier.,<b><color=#B22222>スペルカードレベル5</color></b> - このスキルで与えたダメージの50%をバリアに変換する。,<b><color=#B22222>符卡等级5</color></b> - 这个技能造成伤害的50%将会转化为自己的保护罩。,<b><color=#B22222>符卡等級5</color></b> - 造成傷害的50%轉化為自己的保護罩。
+Skill/S_HakureiReimu_F_0_5_Name,Text,,신령「몽상봉인」,Divine Spirit「Dream Seal」,神霊「夢想封印」,神灵「梦想封印」,神靈「夢想封印」
+Skill/S_HakureiReimu_F_0_Description,Text,,,,,,
+Skill/S_HakureiReimu_F_0_Name,Text,,영부「몽상묘주」,Spirit Sign「Dream Orb」,霊符「夢想妙珠」,灵符「梦想妙珠」,靈符「夢想妙珠」
+Skill/S_HakureiReimu_F_10Rare_0_Description,Text,,,,,,
+Skill/S_HakureiReimu_F_10Rare_0_Name,Text,,몽상천생,「Innate Dream」,夢想天生,梦想天生,夢想天生
+Skill/S_HakureiReimu_F_10Rare_Description,Text,,"스킬을 1장 드로우한다
+
+<i><color=#696969>다른 희귀 스펠카드와 공명하면 특수한 힘이 나타나는 것 같다......</color></i>","Draw 1 skill.
+
+<i><color=#696969>It seems to resonate with other rare spell cards, unleashing even more unique powers...</color></i>","スキルを1枚引く。
+
+<i><color=#696969>他のスペルカードと共鳴し、特殊な効果が発動するようだ......</color></i>","抽取1个技能。
+
+<i><color=#696969>似乎能和其他稀有符卡共鸣，引发出更加独特的力量……</color></i>","抽取1個技能。
+
+<i><color=#696969>似乎能和其他稀有符卡共鳴，引發出更加獨特的力量……</color></i>"
+Skill/S_HakureiReimu_F_10Rare_Name,Text,,「몽상천생」,「Innate Dream」,「夢想天生」,「梦想天生」,「夢想天生」
+Skill/S_HakureiReimu_F_11Rare_Description,Text,,전투 시작 시 덱의 맨 위에 올려놓는다,"At the start of the battle, place this card at the top of your deck.",戦闘開始時、デッキの一番上に置く。,战斗开始时，放在牌库的最上方。,戰鬥開始時，放在牌庫的最上方。
+Skill/S_HakureiReimu_F_11Rare_Name,Text,,무제「하늘을 나는 이상한 무녀」,Untitled「Flying Mysterious Shrine Maiden」,無題「空を飛ぶ不思議な巫女」,无题「飞翔于天空的不可思议的巫女」,無題「飛翔於天空的不可思議巫女」
+Skill/S_HakureiReimu_F_12Rare_Description,Text,,<color=#696969><i>붉음보다도 붉은 꿈</i></color>,<color=#696969><i>A Dream More Scarlet than Red</i></color>,<color=#696969><i>赤よりも紅い夢</i></color>,<color=#696969><i>比赤色更红的梦。</i></color>,<color=#696969><i>比赤色更紅的夢。</i></color>
+Skill/S_HakureiReimu_F_12Rare_Name,Text,,몽부「환상일중」,Dream Sign「Fine Line Fantasy」,夢符「幻想一重」,梦符「幻想一重」,夢符「幻想一重」
+Skill/S_HakureiReimu_F_1_2_Description,Text,,<b><color=#B22222>스펠카드 레벨 2</color></b> - 자신이 가진 버프 중첩당 &a(30%) 피해량의 추가 공격을 사용한다,"<b><color=#B22222>Spell Card Level 2</color></b> - Launches follow-up attacks equal to buff stacks, each dealing &a damage <color=#FF7A33>(30% Attack)</color>.",<b><color=#B22222>スペルカードレベル2</color></b> - 自身が持つバフのストック1ごとに、&a(30%)ダメージの追加攻撃を1回繰り返し発動する。,<b><color=#B22222>符卡等级2</color></b> - 自身每有 1 个增益，进行 1 次追加攻击，造成&a点伤害<color=#FF7A33>(攻击力的30%)</color>。,<b><color=#B22222>符卡等級2</color></b> - 根據自身的增益數量，發起等額次數的追加攻擊，每次造成 &a 點傷害<color=#FF7A33>(攻擊力的30%)</color>。
+Skill/S_HakureiReimu_F_1_2_Name,Text,,보구「음양귀신옥」,Holy Relic「Yin-Yang Kishin Orb」,宝具「陰陽鬼神玉」,宝具「阴阳鬼神玉」,寶具「陰陽鬼神玉」
+Skill/S_HakureiReimu_F_1_5_Description,Text,,<b><color=#B22222>스펠카드 레벨 5</color></b> - 자신이 가진 버프 중첩당 &a(35%) 피해량의 추가 공격을 사용한다,"<b><color=#B22222>Spell Card Level 5</color></b> - Launches follow-up attacks equal to buff stacks, each dealing &a damage <color=#FF7A33>(35% Attack)</color>.",<b><color=#B22222>スペルカードレベル5</color></b> - 自身が持つバフのストック1ごとに、&a(35%)ダメージの追加攻撃を1回繰り返し発動する。,<b><color=#B22222>符卡等级5</color></b> - 自身每有 1 个增益，进行 1 次追加攻击，造成&a点伤害<color=#FF7A33>(攻击力的35%)</color>。,<b><color=#B22222>符卡等級5</color></b> - 根據自身的增益數量，發起等額次數的追加攻擊，每次造成 &a 點傷害<color=#FF7A33>(攻擊力的35%)</color>。
+Skill/S_HakureiReimu_F_1_5_Name,Text,,보구「음양 아스카이」,Holy Relic「Yin-Yang Asuka'i」,宝具「陰陽飛鳥井」,宝具「阴阳飞鸟井」,寶具「陰陽飛鳥井」
+Skill/S_HakureiReimu_F_1_Description,Text,,자신이 가진 버프 중첩당 &a(25%) 피해량의 추가 공격을 사용한다,"Launches follow-up attacks equal to buff stacks, each dealing &a damage <color=#FF7A33>(25% Attack)</color>.",自身が持つバフのストック1ごとに、&a(25%)ダメージの追加攻撃を1回繰り返し発動する。,自身每有 1 个增益，进行 1 次追加攻击，造成&a点伤害<color=#FF7A33>(攻击力的25%)</color>。,根據自身的增益數量，發起等額次數的追加攻擊，每次造成 &a 點傷害<color=#FF7A33>(攻擊力的25%)</color>。
+Skill/S_HakureiReimu_F_1_EX_Name,Text,,음양옥 공격,Yin-Yang Treasured Orb,陰陽玉攻撃,阴阳玉攻击,陰陽玉攻擊
+Skill/S_HakureiReimu_F_1_Name,Text,,보부「음양보옥」,Treasure Sign「Yin-Yang Treasured Orb」,宝符「陰陽宝玉」,宝符「阴阳宝玉」,寶符「陰陽寶玉」
+Skill/S_HakureiReimu_F_2_3_Description,Text,,"<b><color=#B22222>스펠카드 레벨 3</color></b> -  체력이 가장 낮은 적을 동시에 공격한다
+이 스킬로 적을 처치하면 마나를 1 회복한다","<b><color=#B22222>Spell Card Level 3</color></b> - Attack an additional enemy with the lowest health.
+When you kill the enemy with this skill, restore 1 mana.","<b><color=#B22222>スペルカードレベル3</color></b> -  体力が最も低い敵1体を同時に攻撃する。
+このスキルで敵を倒したとき、マナが1回復する。","<b><color=#B22222>符卡等级3</color></b> - 同时指定 1 个血量最低的敌人。
+使用这个技能击杀敌人时，回复 1 点法力值。","<b><color=#B22222>符卡等級3</color></b> - 同時攻擊目標和另 1 個體力值最低的敵人。
+擊殺敵人時，恢復 1 點法力值。"
+Skill/S_HakureiReimu_F_2_3_Name,Text,,광령「신령보주」,Light Spirit「Divine Spirit Orbs」,光霊「神霊宝珠」,光灵「神灵宝珠」,光靈「神靈寶珠」
+Skill/S_HakureiReimu_F_2_Description,Text,,"체력이 가장 낮은 적을 동시에 공격한다
+이 스킬로 적을 처치하면 마나를 1 회복한다","Attack an additional enemy with the lowest health.
+When you kill the enemy with this skill, restore 1 mana.","体力が最も低い敵1体を同時に攻撃する。
+このスキルで敵を倒したとき、マナが1回復する。","同时指定 1 个血量最低的敌人。
+使用这个技能击杀敌人时，回复 1 点法力值。","同時攻擊目標和另 1 個體力值最低的敵人。
+擊殺敵人時，恢復 1 點法力值。"
+Skill/S_HakureiReimu_F_2_Name,Text,,주부「명주암투」,"Jewel Sign「Orbs of Light, Cast into Shade」",珠符「明珠暗投」,珠符「明珠暗投」,珠符「明珠暗投」
+Skill/S_HakureiReimu_F_3_2_Description,Text,,"<b><color=#B22222>스펠카드 레벨 2</color></b> - 적에게 명중하면 「영력작렬」을 1중첩 획득한다
+대상이 1명이라면 &a(50%)의 추가 피해를 입히고 「영력작렬」을 추가로 1중첩 획득한다","<b><color=#B22222>Spell Card Level 2</color></b> - Based on the number of enemies hit, apply an equal number of [Bursting Spirit] stacks.
++&a damage <color=#FF7A33>(50% Attack)</color> and +1 stack when single-target.","<b><color=#B22222>スペルカードレベル2</color></b> - 敵に命中するたび、[霊力炸裂]を1ストック得る。
+対象が1体のみの場合、&a(50%)のダメージを追加で与え、[霊力炸裂]をさらに1ストック追加で得る。","<b><color=#B22222>符卡等级2</color></b> - 根据命中敌人的数量，额外获得等量层数的[灵力激荡]。
+如果仅有1个目标，那么额外造成&a点伤害<color=#FF7A33>(攻击力的50%)</color>，额外获得1层[灵力激荡]。","<b><color=#B22222>符卡等級2</color></b> - 根據命中目標的數量，額外為自身施加等量層數的靈力激蕩。
+若只有一個目標，則造成&a點額外傷害<color=#FF7A33>(攻擊力的50%)</color>，並多獲得 1 層靈力激蕩。"
+Skill/S_HakureiReimu_F_3_2_Name,Text,,영부「유린음양옥」,Spirit Sign「Ravaging Yin-Yang Orb」,霊符「蹂躙陰陽玉」,灵符「蹂躏阴阳玉」,靈符「蹂躏陰陽玉」
+Skill/S_HakureiReimu_F_3_Description,Text,,적에게 명중하면 「영력작렬」을 1중첩 획득한다,"Based on the number of enemies hit, apply an equal number of [Bursting Spirit] stacks.",敵に命中するたび、[霊力炸裂]を1ストック得る。,根据命中敌人的数量，额外获得等量层数的[灵力激荡]。,根據命中目標的數量，額外為自身施加等量層數的靈力激蕩。
+Skill/S_HakureiReimu_F_3_Name,Text,,영부「난격음양옥」,Spirit Sign「Random Strike Yin-Yang Orb」,霊符「乱撃陰陽玉」,灵符「乱击阴阳玉」,靈符「亂擊陰陽玉」
+Skill/S_HakureiReimu_F_4_3_Description,Text,,"<b><color=#B22222>스펠카드 레벨 3</color></b> - 자신이 지닌 버프의 종류가 5가지 이상이면 &a(120%)의 추가 피해를 입힌다
+자신이 지닌 버프의 종류가 10가지 이상이면 적중 시 이 스킬의 복사본을 1장 생성한다
+대상이 「약화」「방해」「고통」 디버프를 지닌 경우 이 스킬은 치명타로 적중한다","<b><color=#B22222>Spell Card Level 3</color></b> - If you have 5 or more buff effects, deal an additional &a (120%) damage.
+If you have 10 or more buff effects, create a copy of this skill when played.
+If the target has debuffs of <sprite=0> Weakening, <sprite=2> CC, and <sprite=1> Pain, this skill will critically hit.","<b><color=#B22222>スペルカードレベル3</color></b> - 自身が持つバフの種類が5種類以上の場合、&a(120%のダメージを追加で与える。
+自身が持つバフの種類が10種類以上の場合、命中時にこのスキルのコピーを1枚生成する。
+対象が「衰弱」「妨害」「苦痛」デバフのいずれかを持つ場合、このスキルはクリティカルする。","<b><color=#B22222>符卡等级3</color></b> - 如果自身持有的增益不小于 5 个，额外造成&a点伤害<color=#FF7A33>(攻击力的120%)</color>。
+如果自身持有的增益效果不小于 10 个，使用时生成 1 个此技能。
+如果目标同时持有<sprite=0>弱化、<sprite=2>干扰、<sprite=1>痛苦减益，以暴击形式命中。","<b><color=#B22222>符卡等級3</color></b> - 如果自身持有的增益不少於 5 個，造成&a點額外傷害<color=#FF7A33>(攻擊力的120%)</color>。
+如果自身持有的增益不少於10個，使用時生成 1 個此技能。
+如果目標同時擁有<sprite=0>弱化、<sprite=1>痛苦、 <sprite=2>干擾減益，以暴擊形式命中。"
+Skill/S_HakureiReimu_F_4_3_Name,Text,,영부「지극히 부조리한 무차별 조복」,"Spirit Sign「Extraordinarily Absurd 
+Indiscriminate Exorcism」",霊符「至極不条理な無差別調伏」,灵符「荒诞至极的无差别降伏」,靈符「荒誕至極的無差别降伏」
+Skill/S_HakureiReimu_F_4_5_Description,Text,,"<b><color=#B22222>스펠카드 레벨 5</color></b> - 자신이 지닌 버프의 종류가 5가지 이상이면 &a(120%)의 추가 피해를 입힌다
+자신이 지닌 버프의 종류가 10가지 이상이면 적중 시 이 스킬의 복사본을 1장 생성한다
+대상이 「약화」「방해」「고통」 디버프를 지닌 경우 이 스킬은 치명타로 적중한다
+사용 시 자신의 과부하를 2 감소시킨다","<b><color=#B22222>Spell Card Level 5</color></b> - If you have 5 or more buff effects, deal an additional &a (120%) damage.
+If you have 10 or more buff effects, create a copy of this skill when played.
+If the target has debuffs of <sprite=0> Weakening, <sprite=2> CC, and <sprite=1> Pain, this skill will critically hit.
+After using, reduce your Overload stacks by 2.","<b><color=#B22222>スペルカードレベル5</color></b> - 自身が持つバフの種類が5種類以上の場合、&a(120%のダメージを追加で与える。
+自身が持つバフの種類が10種類以上の場合、命中時にこのスキルのコピーを1枚生成する。
+対象が「衰弱」「妨害「苦痛」デバフのいずれかを持つ場合、このスキルはクリティカルする。
+使用時、自身のオーバーチャージを2減少させる。","<b><color=#B22222>符卡等级5</color></b> - 如果自身持有的增益不小于 5 个，额外造成&a点伤害<color=#FF7A33>(攻击力的120%)</color>。
+如果自身持有的增益效果不小于 10 个，使用时生成 1 个此技能。
+如果目标同时持有<sprite=0>弱化、<sprite=2>干扰、<sprite=1>痛苦减益，以暴击形式命中。
+使自身过载层数减少 2 层。","<b><color=#B22222>符卡等級5</color></b> - 如果自身持有的增益不少於 5 個，造成&a點額外傷害<color=#FF7A33>(攻擊力的120%)</color>。
+如果自身持有的增益不少於10個，使用時生成 1 個此技能。
+如果目標同時擁有<sprite=0>弱化、<sprite=1>痛苦、 <sprite=2>干擾減益，以暴擊形式命中。
+自身的過載減少 2 層。"
+Skill/S_HakureiReimu_F_4_5_Name,Text,,혈주「무차별 주살 조복」,"Blood Curse「Indiscriminate 
+Curse-Killing Exorcism」",血呪「無差別呪殺調伏」,血咒「无差别咒杀降伏」,血咒「無差别咒殺降伏」
+Skill/S_HakureiReimu_F_4_Description,Text,,"자신이 지닌 버프의 종류가 5가지 이상이면 &a(120%)의 추가 피해를 입힌다
+자신이 지닌 버프의 종류가 10가지 이상이면 적중 시 이 스킬의 복사본을 1장 생성한다
+대상이 「약화」「방해」「고통」 디버프를 지닌 경우 이 스킬은 치명타로 적중한다","If you have 5 or more buff effects, deal an additional &a(120%) damage.
+If you have 10 or more buff effects, create a copy of this skill when played.
+If the target has debuffs of <sprite=0> Weakening, <sprite=2> CC, and <sprite=1> Pain, this skill will critically hit.","自身が持つバフの種類が5種類以上の場合、&a(120%のダメージを追加で与える。
+自身が持つバフの種類が10種類以上の場合、命中時にこのスキルのコピーを1枚生成する。
+対象が「衰弱」「妨害「苦痛」デバフのいずれかを持つ場合、このスキルはクリティカルする。","如果自身持有的增益不小于 5 个，额外造成&a点伤害<color=#FF7A33>(攻击力的120%)</color>。
+如果自身持有的增益效果不小于 10 个，使用时生成 1 个此技能。
+如果目标同时持有<sprite=0>弱化、<sprite=2>干扰、<sprite=1>痛苦减益，以暴击形式命中。","如果自身持有的增益不少於 5 個，造成&a點額外傷害<color=#FF7A33>(攻擊力的120%)</color>。
+如果自身持有的增益不少於10個，使用時生成 1 個此技能。
+如果目標同時擁有<sprite=0>弱化、<sprite=1>痛苦、 <sprite=2>干擾減益，以暴擊形式命中。"
+Skill/S_HakureiReimu_F_4_Name,Text,,영부「이유없는 무차별 조복」,"Spirit Sign「Indiscriminate 
+Exorcism Without Reason」",霊符「理由無き無差別調伏」,灵符「无理由的无差别降伏」,靈符「無理由的無差别降伏」
+Skill/S_HakureiReimu_F_5_2_Description,Text,,<b><color=#B22222>스펠카드 레벨 2</color></b> - 대상이 2종류 이상의 디버프를 지니면 30% 확률로 1회 반복 사용한다,"<b><color=#B22222>Spell Card Level 2</color></b> - If the target has 2 or more debuffs, re-cast this skill at 30% damage.",<b><color=#B22222>スペルカードレベル2</color></b> -対象が2種類以上のデバフを持つ場合、30%の確率で1回繰り返し発動する。,<b><color=#B22222>符卡等级2</color></b> - 如果目标持有的减益不少于 2 个，以30%的伤害量重复释放 1 次。,<b><color=#B22222>符卡等級2</color></b> - 若使用時目標持有的減益不少於 2 個，則以原倍率的30%再生效 1 次。
+Skill/S_HakureiReimu_F_5_2_Name,Text,,신기「팔방귀박진」,Divine Arts「Omnidirectional Oni-Binding Circle」,神技「八方鬼縛陣」,神技「八方鬼缚阵」,神技「八方鬼縛陣」
+Skill/S_HakureiReimu_F_5_5_Description,Text,,<b><color=#B22222>스펠카드 레벨 5</color></b> - 대상이 2종류 이상의 디버프를 지니면 30% 확률로 2회 반복 사용한다,"<b><color=#B22222>Spell Card Level 5</color></b> - If the target has 2 or more debuffs, re-cast this skill twice at 30% damage.",<b><color=#B22222>スペルカードレベル5</color></b> - 対象が2種類以上のデバフを持つ場合、30%の確率で2回繰り返し発動する。,<b><color=#B22222>符卡等级5</color></b> - 如果目标持有的减益不少于 2 个，以30%的伤害量重复释放 2 次。,<b><color=#B22222>符卡等級5</color></b> - 若使用時目標持有的減益不少於 2 個，則以原倍率的30%再生效 2 次。
+Skill/S_HakureiReimu_F_5_5_Name,Text,,신기「팔방용살진」,Divine Arts「Omnidirectional Dragon-Slaying Circle」,神技「八方龍殺陣」,神技「八方龙杀阵」,神技「八方龍殺陣」
+Skill/S_HakureiReimu_F_5_Description,Text,,,,,,
+Skill/S_HakureiReimu_F_5_Name,Text,,몽부「봉마진」,Dream Sign「Evil-Sealing Circle」,夢符「封魔陣」,梦符「封魔阵」,夢符「封魔陣」
+Skill/S_HakureiReimu_F_6_0_Description,Text,,,,,,
+Skill/S_HakureiReimu_F_6_0_Name,Text,,경계「이중 탄막결계」,Boundary「Duplex Danmaku Barrier」,境界「二重弾幕結界」,境界「二重弹幕结界」,境界「二重彈幕結界」
+Skill/S_HakureiReimu_F_6_4_Description,Text,,<b><color=#B22222>스펠카드 레벨 4</color></b> - 카운트 2로 1회 반복 사용한다,<b><color=#B22222>Spell Card Level 4</color></b> - Re-cast this skill once with a countdown of 2.,<b><color=#B22222>スペルカードレベル4</color></b> - カウントダウン2で1回繰り返し発動する。,<b><color=#B22222>符卡等级4</color></b> - 以倒计时 2 的形式重复释放1次。,<b><color=#B22222>符卡等級4</color></b> - 以倒計時 2 的形式再生效 1 次。
+Skill/S_HakureiReimu_F_6_4_Name,Text,,대결계「하쿠레이 탄막결계」,Great Barrier「Hakurei Danmaku Barrier」,大結界「博麗弾幕結界」,大结界「博丽弹幕结界」,大結界「博麗彈幕結界」
+Skill/S_HakureiReimu_F_6_Description,Text,,카운트 2로 1회 반복 사용한다,Re-cast this skill once with a countdown of 2.,カウントダウン2で1回繰り返し発動する。,以倒计时 2 的形式重复释放1次。,以倒計時 2 的形式再生效 1 次。
+Skill/S_HakureiReimu_F_6_Name,Text,,경계「이중 탄막결계」,Boundary「Duplex Danmaku Barrier」,境界「二重弾幕結界」,境界「二重弹幕结界」,境界「二重彈幕結界」
+Skill/S_HakureiReimu_F_7_3_Description,Text,,<b><color=#B22222>스펠카드 레벨 3</color></b> - 다른 모든 적에게 성공률 60％로 이 스킬의 디버프를 부여한다,<b><color=#B22222>Spell Card Level 3</color></b> - Applies (<sprite=2>60%) [Duplex Barrier] to all other enemies.,<b><color=#B22222>スペルカードレベル3</color></b> - 他のすべての敵に成功率60％でこのスキルのデバフを与える。,<b><color=#B22222>符卡等级3</color></b> - 对其他所有敌人施加(<sprite=2>60%)[二重结界]。,<b><color=#B22222>符卡等級3</color></b> - 「二重結界」也會對其他所有敵人施加，此時「二重結界」的基礎成功率降低為60%。
+Skill/S_HakureiReimu_F_7_3_Name,Text,,몽경「이중대결계」,Dream Land「Great Duplex Barrier」,夢符「二重大結界」,梦境「二重大结界」,夢境「二重大結界」
+Skill/S_HakureiReimu_F_7_Description,Text,,,,,,
+Skill/S_HakureiReimu_F_7_Name,Text,,몽부「이중결계」,Dream Sign「Duplex Barrier」,夢符「二重結界」,梦符「二重结界」,夢符「二重結界」
+Skill/S_HakureiReimu_F_8_3_Description,Text,,"<b><color=#B22222>스펠카드 레벨 3</color></b> - 이 스킬은 행동 불가 상태에서도 사용할 수 있다
+자신의 모든 디버프를 제거한다
+제거한 디버프의 수만큼 스킬을 드로우한다 (최대 3장)","<b><color=#B22222>Spell Card Level 3</color></b> - This skill can be played while stunned.
+Remove all debuffs from the user.
+Draw skills equal to the number of debuffs removed (up to 3).","<b><color=#B22222>スペルカードレベル3</color></b> - このスキルは行動不能状態でも使用できる。
+自身が持つデバフをすべて除去する。
+除去したデバフの種類に等しい枚数スキルを引く(最大で3枚)。","<b><color=#B22222>符卡等级3</color></b> - 可在<b>无法行动</b>时使用。
+移除自身持有的所有减益。
+依据解除的减益数量，抽取等量的技能（最多3个）。","<b><color=#B22222>符卡等級3</color></b> - 可在<b>無法行動</b>時使用。
+解除自己身上的所有減益。
+依據解除的減益個數，抽取等量的技能（最多 3 個）。"
+Skill/S_HakureiReimu_F_8_3_Name,Text,,결계「가는 곳마다 청산」,Barrier「The Home Where One Lays to Rest」,結界「至る所の青山」,结界「人至之处的青山」,結界「人至之處的青山」
+Skill/S_HakureiReimu_F_8_Description,Text,,"이 스킬은 행동 불가 상태에서도 사용할 수 있다
+자신의 모든 디버프를 제거한다","This skill can be played while stunned.
+Remove all debuffs from the user.","このスキルは行動不能状態でも使用できる。
+自身が持つデバフをすべて除去する。","可在<b>无法行动</b>时使用。
+移除自身持有的所有减益。","可在<b>無法行動</b>時使用。
+解除自己身上的所有減益。"
+Skill/S_HakureiReimu_F_8_Name,Text,,결계「확산결계」,Barrier「Expanding Barrier」,結界「拡散結界」,结界「扩散结界」,結界「擴散結界」
+Skill/S_HakureiReimu_F_9_5_Description,Text,,"<color=#B22222>스펠카드 레벨 5</color> - 자신이 지닌 버프의 지속시간이 1턴 증가한다
+덱에서 자신의 스킬을 1장 골라 손에 넣는다","<color=#B22222>Spell Card Level 5</color> - Extends buff durations by 1 turn.
+Choose 1 skill from your deck and draw it to your hand.","<color=#B22222>スペルカードレベル5</color> -自身が持つバフの持続時間を1ターン延長する。
+デッキから自身のスキルを1つ選び、手札に加える。","<color=#B22222>符卡等级5</color> - 使自身持有的增益持续时间延长 1 回合。
+确认牌库中自己的技能，选择 1 个加入手中。","<color=#B22222>符卡等級5</color> - 使自己身上的所有增益延長 1 回合。
+確認牌庫裡自己的技能，選擇 1 個加入手中。"
+Skill/S_HakureiReimu_F_9_5_Name,Text,,회령「몽상봉인 차」,Migrating Spirit「Dream Seal -Marred-」,回霊「夢想封印 侘」,回灵「梦想封印　侘」,回靈「夢想封印　侘」
+Skill/S_HakureiReimu_F_9_Description,Text,,자신이 지닌 버프의 지속시간이 1턴 증가한다,Extends buff durations by 1 turn.,自身が持つバフの持続時間を1ターン延長する。,使自身持有的增益持续时间延长 1 回合。,使自己身上的所有增益延長 1 回合。
+Skill/S_HakureiReimu_F_9_Name,Text,,영부「몽상봉인 집」,Spirit Sign「Dream Seal -Concentrate-」,霊符「夢想封印 集」,灵符「梦想封印　集」,靈符「夢想封印　集」
+Skill/S_HakureiReimu_F_LucyD_Description,Text,,"스킬을 2장 드로우하고 이하의 효과 중 하나가 무작위로 발생한다
+번영 기원 - 다음 턴 시작 시 스킬을 1장 드로우한다
+행복 기원 - 2턴동안 공격력과 치명타 확률이 10% 증가한다
+건강 기원 - 3턴동안 매 턴 6 회복한다
+평온 기원 – 다음 받는 공격을 회피한다
+지금이 5턴 이상이라면 대신 두 가지 효과가 무작위로 발생한다","Draw 2 skills. Randomly apply 1 buff effect:
+
+Prosperity Prayer: Draw 1 skill at the start of your next turn.
+Happiness Prayer: +10% ATK/Crit Rate for 2 turns.
+Health Prayer: Restore 6 HP/turn for 3 turns.
+Peace Prayer: Dodge the next incoming damage.
+If the current turn count is 5 or more, apply 2 random buff effects instead.","スキルを2枚引き、以下の効果がランダムで1つ発動する。
+繁栄祈願 - 次のターンの開始時、スキルを1枚引く。 
+幸福祈願 - 2 ターンの間、攻撃力とクリティカル率が10%増加する。 
+健康祈願 - 3 ターンの間、毎ターン6回復する。 
+平穏祈願 – 次に受ける攻撃を回避する。
+現在のターン数が5以上の場合、代わりにランダムな効果を2つ発動するに変更する。","抽取 2 个技能。随机施加 1 个增益：
+繁盛祈愿 - 下个回合开始时，优先抽取1个自己的技能。
+幸福祈愿 - 2回合内增加10%攻击力和暴击率。
+健康祈愿 - 3回合内每回合恢复 6 点体力。
+平安祈愿 - 闪避下 1 次受到的伤害。
+如果当前回合数不小于 5，改为随机施加 2 个增益。","抽取 2 個技能。随機施加 1 個增益：
+繁盛祈願 - 下個回合開始時，抽取 1 個技能（優先抽取自己的）。
+幸福祈願 - 攻擊力和暴擊率增加10%，持續 2 回合。
+健康祈願 - 每回合恢復 6 點體力值，持續 3 回合。
+平安祈願 - 閃避下一次攻擊。
+如果當前回合數不小於 5，增益的施加改為隨機 2 個。"
+Skill/S_HakureiReimu_F_LucyD_Name,Text,,부적「신사 번영 기원 부적」,Charm「Shrine Prosperity Prayer Talismans」,御札「神社繁栄祈願札」,御札「神社繁盛祈愿札」,御札「神社繁盛祈願札」
+Skill/S_Musoutensei_Alice_Description,Text,,,"<color=#FFD700>*「Innate Dream」 + Lifespan Theory: ""Star Dream""*</color>
+Cleanses all debuffs. Draw 1 skill and restore 1 Mana per debuff removed (max 4).",,"<color=#FFD700>*「梦想天生」+寿命论“星之梦”*</color>
+解除目标所有减益效果。每解除1个减益，抽取1个技能，恢复1点法力值。最多抽取4个技能。",
+Skill/S_Musoutensei_Alice_Name,Text,,,Demon Sign 「Gensokyo Chronicle」,,魔符「幻想乡异闻录」,
+Skill/S_Musoutensei_Cirno_Description,Text,,,<color=#FFD700>*「Innate Dream」 + Freeze Sign 「Perfect Freeze」*</color>,,<color=#FFD700>*「梦想天生」+冻符「Perfect Freeze」*</color>,
+Skill/S_Musoutensei_Cirno_Name,Text,,,Dream Sign 「Perfect Shrine Maiden」,,梦符「Perfect Shrine Maiden」,
+Skill/S_Musoutensei_Daiyousei_Description,Text,,,<color=#FFD700>*「Innate Dream」 + Fairy Sign 「Fairy Domain」*</color>,,<color=#FFD700>*「梦想天生」+妖符「妖精的领域」*</color>,
+Skill/S_Musoutensei_Daiyousei_Name,Text,,,Boundary 「Scarlet Domain」,,结界「赤色的领域」,
+Skill/S_Musoutensei_Eirin_Description,Text,,,,,,
+Skill/S_Musoutensei_Eirin_Name,Text,,천월하「지상의 대밀실」,Heaven Moon Below「The Great Chamber on Earth」,天月下「地上の大密室」,天月下「地上的大密室」,天月下「地上的大密室」
+Skill/S_Musoutensei_Flandre_Description,Text,,<color=#FFD700>「몽상천생」+금기「레바테인」</color>,<color=#FFD700>「Innate Dream」 + Forbidden「Laevateinn」 </color>,<color=#FFD700>*「夢想天生」+禁忌「レーヴァテイン」*</color>,<color=#FFD700>*「梦想天生」+禁忌「莱瓦汀」*</color>,<color=#FFD700>*「夢想天生」+禁忌「萊瓦汀」*</color>
+Skill/S_Musoutensei_Flandre_Name,Text,,비옥「비생 이치몬지」,Scarlet Prison「Fei-Sei Ichimonji」,緋獄「緋生一文字」,绯狱「绯生一文字」,緋獄「緋生一文字」
+Skill/S_Musoutensei_Inaba_Description,Text,,,"<color=#FFD700>*「Innate Dream」 + 「Wh-wh-wh-what will appear?!」*</color>
+Triggers 10 random effects from <color=#FFD700>Inaba's Luxury Prize Pool</color>.",,"<color=#FFD700>*「梦想天生」+「会，会，会出现什么呢？」*</color>
+从<color=#FFD700>帝的豪华奖池</color>中随机触发10个效果。",
+Skill/S_Musoutensei_Inaba_Name,Text,,,「Wh-wh-wh-what will appear?!」,,「会，会，会，会，会出现什么呢？！」,
+Skill/S_Musoutensei_Kaguya_Description,Text,,"<color=#FFD700>「몽상천생」+신난제「에아자의 적석」</color>
+대상의 모든 희귀 스킬을 생성한다","<color=#FFD700>*「Innate Dream」 + New Impossible Request「Red Stone of Aja」*</color>
+Create all rare skills of the target.","<color=#FFD700>*「夢想天生」+新難題「エイジャの赤石」*</color>
+対象のレアスキルをすべて生成する。","<color=#FFD700>*「梦想天生」+新难题「艾哲红石」*</color>
+生成目标的所有稀有技能。","<color=#FFD700>*「夢想天生」+新難題「艾哲紅石」*</color>
+生成目標的所有稀有技能。"
+Skill/S_Musoutensei_Kaguya_Name,Text,,신난제「환상향의 지보」,New Difficult Problem 「Gensokyo’s Ultimate Treasure」,新難題「幻想郷の至宝」,新难题「幻想乡的至宝」,新難題「幻想鄉的至寶」
+Skill/S_Musoutensei_Lilyblack_Description,Text,,,<color=#FFD700>*「Innate Dream」 + Autumn Notice 「Unknown Autumn Fairy」*</color>,,<color=#FFD700>*「梦想天生」+秋告「无人知晓的告秋精」*</color>,
+Skill/S_Musoutensei_Lilyblack_Name,Text,,,Start of Autumn 「Birdsong in All Directions」,,立秋「处处闻啼鸟」,
+Skill/S_Musoutensei_Lilywhite_Description,Text,,,<color=#FFD700>*「Innate Dream」 + Spring Sign 「Spring Notice」*</color>,,<color=#FFD700>*「梦想天生」+春符「告春」*</color>,
+Skill/S_Musoutensei_Lilywhite_Name,Text,,,Start of Spring 「Spring Slumber Unawakening」,,立春「春眠不觉晓」,
+Skill/S_Musoutensei_Mokou_Description,Text,,,,,,
+Skill/S_Musoutensei_Mokou_Name,Text,,"「몇 번째인지도 모르는 이 목숨, 몽상봉인될 때까지」","「Until This Life, Repeated 
+Countless Times, Gets Dream-Sealed Away」",「この何度目かの命、夢想封印されるまで」,「这不知是第几次的生命，梦想封印吧」,「不知是幾次的生命，夢想封印吧」
+Skill/S_Musoutensei_Reisen_Description,Text,,,,,,
+Skill/S_Musoutensei_Reisen_Name,Text,,광령「오늘밤 달은 어째서 붉은가?」,Raging Spirit 「Do You Know Why Tonight’s Moon is Red?」,狂霊「今宵の月はなぜ紅いのか？」,狂灵「你知道今夜的月球为何是红色的吗？」,狂靈「知道今夜之月為何如此鮮紅？」
+Skill/S_Musoutensei_Remilia_Description,Text,,"<color=#FFD700>「몽상천생」+신창「스피어 더 궁니르」</color>
+자신이 지닌 「흡혈귀의 심장」 중첩당 피해가 20% 증가한다
+이 스킬로 적을 처치하면 자신의 치명타 확률이 영구히 2% 증가하고 마나를 2 회복한다","<color=#FFD700>*「Innate Dream」 + Divine Spear「Gungnir」* </color>
+For each stack of [Vampire's Heart], deal an additional 20% damage.
+On kill: +2% permanent Crit Rate, restore 2 Mana.","<color=#FFD700>*「夢想天生」+ 神槍「スピア・ザ・グングニル」 *</color>
+自身が持つ[吸血鬼の心]のストック1ごとに、20%のダメージを追加で与える。
+このスキルで敵を倒した場合、自身のクリティカル率が永続的に2％増加し、マナを2回復する。","<color=#FFD700>*「梦想天生」+神枪「冈格尼尔之枪」*</color>
+自身每有1层[吸血鬼之心]，额外造成20%伤害。
+这个技能击杀敌人时，获得永久2%暴击率，恢复2点法力值。","<color=#FFD700>*「夢想天生」+神槍「岡格尼尔之槍」*</color>
+自身每有 1 層吸血鬼之心，造成20%額外傷害。
+擊殺敵人時，恢復 2 點法力值，永久提升自身2%暴擊率。"
+Skill/S_Musoutensei_Remilia_Name,Text,,"홍몽「날아올라라, 비색의 하늘로」",Scarlet Dream「Soaring in the Crimson Night Sky」,紅夢「舞い上がれ、緋色の空」,红梦「翱翔天际丶绯色夜空」,紅夢「翱翔天際丶緋色夜空」
+Skill/S_Musoutensei_Sakuya_Description,Text,,<color=#FFD700>「몽상천생」+시부「퍼펙트 스퀘어」</color>,<color=#FFD700>*「Innate Dream」 + Time Sign「Perfect Time Space」*</color>,<color=#FFD700>*「夢想天生」+時符「パーフェクトスクウェア」*</color>,<color=#FFD700>*「梦想天生」+时符「完美时空」*</color>,<color=#FFD700>*「夢想天生」+時符「完美時空」*</color>
+Skill/S_Musoutensei_Sakuya_Name,Text,,몽시「세계를 멈추는 꿈」,"Dream Time「Dream-Crossing, World-Stopping」",夢時「世界を止める夢」,梦时「梦违停止世界」,夢時「夢違停止世界」
+Skill/S_Musoutensei_Satsuki_Description,Text,,"<color=#FFD700>「몽상천생」+「그것은 환상이 되지 못한 것」</color>
+손과 덱에 있는 모든 공격 스킬의 피해가 50% 증가한다","<color=#FFD700>*「Innate Dream」 + 「It was an illusion」*</color>
+All attack skills in hand and in deck gain +50% damage.","<color=#FFD700>*「夢想天生」+「それは幻想になれなかったモノ」*</color>
+手札とデッキにあるすべての攻撃スキルのダメージを50%増加させる。","<color=#FFD700>*「梦想天生」+「那无法成为幻想的某物」*</color>
+使所有手中和牌库中的攻击技能获得造成伤害+50%。","<color=#FFD700>*「夢想天生」+「那無法成為幻想的某物」*</color>
+使所有手中和牌庫裡的攻擊技能都獲得「造成的傷害增加50%」。"
+Skill/S_Musoutensei_Satsuki_Name,Text,,홍루「원초의 하나」,Scarlet Tower「The Primordial One」,紅楼「原初之一」,红楼「原初之一」,紅楼「原初之一」
+Skill/S_Musoutensei_Utuho_Description,Text,,,"<color=#FFD700>*「Innate Dream」 + Hell's Artificial Sun*</color>
+Instantly triggers 3 Pain damage instances.",,"<color=#FFD700>*「梦想天生」+地狱的人造太阳*</color>
+立即结算3次目标身上的痛苦减益伤害。",
+Skill/S_Musoutensei_Utuho_Name,Text,,,Nuclear Fusion「Life-Death Mastery: Hell Overdrive Core」,,核聚变「活殺自在·地獄暴走之心」,
+Skill/S_Musoutensei_Youmu_Description,Text,,,,,,
+Skill/S_Musoutensei_Youmu_Name,Text,,"혼령부「일념성불, 일념자유」","Soul Spirit Sign 「One Thought of Becoming Buddha, One Thought of Freedom」",魂霊符「一念成仏、一念自由」,魂灵符「一念成佛丶一念逍遥」,魂靈符「一念成佛丶一念逍遙」
+SkillExtended/SE_HakureiReimu_2_Name,Text,,피해가 50% 증가하고 방어력을 무시한다,+50% Damage and ignores Defense,ダメージが50%増加し、防御力を無視する。,造成的伤害+50%并且无视防御。,無視目標防禦力，造成的傷害增加50%。
+SkillExtended/SE_HakureiReimu_C_0_EnforceString,Text,,단일 대상 치유 스킬,Single-target healing skills,単体を対象とする回復スキル,指向单体的治疗技能,指向單體的治療技能
+SkillExtended/SE_HakureiReimu_C_0_Name,Text,,3턴동안 대상이 받는 피해가 15% 감소한다,Reduces damage taken by 15% for 3 turns,3ターンの間、対象が受けるダメージを15%減少させる。,使目标3回合内受到的伤害降低15%。,使目標受到的傷害降低15%，持續 3 回合。
+SkillExtended/SE_HakureiReimu_C_1_EnforceString,Text,,,,,,
+SkillExtended/SE_HakureiReimu_C_1_Name,Text,,사용 시 레이무가 <color=#B22222>스펠카드 레벨</color>을 2중첩 획득한다,Reimu Hakurei gains 2 stacks of <color=#B22222>Spell Card Level</color>.,使用時、博麗霊夢が<color=#B22222>スペルカードレベル</color>を2ストック得る。,使博丽灵梦获得 2 层<color=#B22222>符卡等级</color>。,使博麗靈夢獲得 2 層<color=#B22222>符卡等級</color>。
+SkillExtended/SE_HakureiReimu_E_2_Des,Text,,,,,,
+SkillExtended/SE_HakureiReimu_E_2_Name,Text,,피해가 25% 증가한다,Damage increased by 25%.,ダメージが25%増加する。,伤害增加25%。,傷害增加25%。
+SkillExtended/SE_Musoutensei_Daiyousei_0_Des,Text,,,Damage increased by &a%,,伤害增加&a%。,
+SkillExtended/SE_Musoutensei_Daiyousei_0_Name,Text,,,Scarlet Devil!,,赤色杀人魔！,
+SkillExtended/SE_Musoutensei_Satsuki_0_Name,Text,,피해가 50% 증가한다,Damage dealt increased by 50%.,与えるダメージが50%増加する。,造成的伤害提升50%。,造成的傷害提升50%。
+UnlockWindow/Unlock_HakureiReimu_UnlockString,Text,,새로운 파티원 사용가능!,New party member available!,新しいパーティーメンバーが使用可能！,可招募新的队员！,可招募新的隊員！
+

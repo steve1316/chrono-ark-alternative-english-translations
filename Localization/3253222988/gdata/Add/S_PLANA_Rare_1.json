@@ -1,0 +1,23 @@
+{
+    "S_PLANA_Rare_1": {
+        "UseAp": 10,
+        "Target": "Misc",
+        "Particle": "Particle/Battle_Uncurse",
+        "Effect_Target": "SE_PLANA_Rare_1",
+        "Name": "所有奇迹的起点",
+        "Description": "费用依据你的手牌数量减少。 \n恢复所有法力值。本回合内每次使用费用大于2的技能时回复一点法力，之后2回合额外获得2点法力。 \n给予其他所有友方\"防护力场\"，并将\"支援演算\"层数提升至满层。",
+        "SkillExtended": [
+            "PLANA.S_PLANA_Rare_1"
+        ],
+        "NoBasicSkill": true,
+        "Disposable": true,
+        "NotCount": true,
+        "User": "PLANA",
+        "Image_2": "S_PLANA_Rare_1\\S_PLANA_Rare_1_Image_2.png",
+        "Image_1": "S_PLANA_Rare_1\\S_PLANA_Rare_1_Image_1.png",
+        "Image_0": "S_PLANA_Rare_1\\S_PLANA_Rare_1_Image_0.png",
+        "Rare": true,
+        "_gdeSchema": "Skill",
+        "Category": "null"
+    }
+}

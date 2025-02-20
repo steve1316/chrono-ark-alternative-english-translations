@@ -1,0 +1,59 @@
+I want to translate KR/CN/JP mods to English for the game Chrono Ark. The localization strings are stored in a CSV file with the following headers:
+
+**Key, Type, Desc, Korean, English, Japanese, Chinese, Chinese-TW [zh-tw]**
+
+I will tell you which language to use as the primary one to translate from to English. Other languages if present are provided for additional context but should not be used as the source for translation.
+
+**Translation Rules:**
+1. Keep the context of Chrono Ark (in-game terms, stat names, etc.). Do not use other strings to translate from other than using them as context or if the language that I specified did not have any strings.
+2. Preserve all formatting, including spacing, and color tags (e.g., `<color=#8EEC90>`) and sprite tags (e.g., `<sprite=1>`). Especially for the sprite tags, try to maintain relative positioning from where they were located in the original string to the translated string.
+3. If a term is in quotations like `This skill only appears when Kali's 'Emotional High' reaches a certain level.`, change it to double quotes like `This skill only appears when Kali's "Emotional High" reaches a certain level.`.
+4. If a quotation has comma or period punctuation inside, put it outside like `"Hello World,"` to `"Hello World",`.
+5. In addition, refer to the following mapping if you encounter these translations and convert them to their respective counterpart:
+
+Swift -> Swiftness
+Exile -> Exclude
+Wait count -> Standby count
+Basic Skill -> Innate
+HP limit -> Healing Gauge
+Fatal -> Critical
+Agony damage -> Pain damage
+Near death -> Death's Door
+layers -> stacks
+AP -> Mana
+Pursuit -> Follow-up attack
+Swift -> Swiftness
+
+8. If the row does not have have any strings to translate from, print an empty line instead.
+9. If the row contains duplicated strings from a previous row that you already translated, repeat the translation for that row. Do not skip the row.
+10. If there are ellipsis with more than 3 periods, shorten it to just "..." or 3 periods.
+
+**Output Format:**
+1. Provide the translations in a **single column** (for pasting into the "English" column of the CSV).
+2. For output in a **single column**, for each row's translation, prepend "@@@" to the start of the sentence.
+
+**Example Input:**
+
+Buff/B_Kail_EC_12_Description Text 等待后该角色过载-1.
+
+<color=#8EEC90>“虽然你骗了我那么久...”</color>
+Buff/B_Mizuki_0_Description	Text		회복 될 때 마다 1 초과 회복 된다.		回復するたびに1超回復する。	每次受到治疗时，對自身超额治疗（层数）点体力值。	每次受到治療時，對自身超額治療（層數）點體力值。
+Buff/B_Mizuki_0_Name	Text		25시, 나이트 코드에서.		25時、ナイトコードで。	25时，Nightcord见。	25時，Nightcord見。
+
+**Example Output:**
+
+**Single Column:**
+
+@@@After waiting, this character's Overload -1. <color=#8EEC90>“Although you deceived me for so long...”</color>
+@@@Grants 1 stack of Overheal each time healed. 25:00, Nightcord.
+
+Additional Notes:
+
+- Maintain the tone and style of the original text, especially for dialogue or flavor text.
+
+- If unsure about a term or phrase, provide the most contextually appropriate translation based on Chrono Ark's in-game terminology.
+
+-----------------------------------
+
+Primary language is ___ and the strings are for the character ___ from ___:
+

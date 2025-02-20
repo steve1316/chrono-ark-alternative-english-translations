@@ -1,0 +1,437 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Tiamat_1_S_Name, Text,,경계,Alert,アラート,警觉,警覺
+Buff/B_Tiamat_1_T_Description, Text,,"&target 우선공격.
+대상을 공격하면 해제됩니다.","Prioritize attacking &target.
+Removed when attacking the target.","&targetのみを対象とする。
+対象を攻撃すると除去される。","优先攻击&target。
+攻击目标时解除。","優先攻擊&target。
+攻擊目標時解除。"
+Buff/B_Tiamat_1_T_Name, Text,,칼날의 진혼곡,Requiem of Blades,ブレード・レクイエム,旋刃魂曲,旋刃魂曲
+Buff/B_Tiamat_1_T_Plus_Description, Text,,"&target만 공격할 수 있습니다.
+대상을 공격하면 해제됩니다.","Cannot attack targets other than &target.
+Removed when attacking the target.","&targetのみを対象とする。
+対象を攻撃すると除去される。","无法攻击&target以外的目标。
+攻击目标时解除。","無法攻擊&target以外的目標。
+攻擊目標時解除。"
+Buff/B_Tiamat_1_T_Plus_Name, Text,,칼날의 진혼곡 · 강화,Requiem of Blades · Enhanced,ブレイド・レクイエム-クレッシェンド,旋刃魂曲·强化,旋刃魂曲·強化
+Buff/B_Tiamat_2_T_Description, Text,,"행동 시 1중첩 추가됩니다.
+턴 종료 시, &a의 고통 피해를 입고 제거됩니다.","Gain 1 stack when taking an action.
+At the end of the turn, take &a Pain damage and remove this buff.","行動時にストックを1増加し、
+ターン終了時、&aの苦痛ダメージを受け、除去される。","行动时叠加一层
+回合结束时，受到&a点痛苦伤害并解除","行動時疊加一層
+回合結束時，受到&a點痛苦傷害並解除"
+Buff/B_Tiamat_2_T_Name, Text,,혼돈 침식,Chaos Erosion,カオス侵食,混沌侵蚀,混沌侵蝕
+Buff/B_Tiamat_3_T_Description, Text,,"턴 시작 시 거울을 1중첩 얻고 &a만큼 회복합니다. 만약 회복게이지가 없으면 대신에 초과회복합니다.
+회피 성공 시, 자신과 &b는 거울을 1중첩 얻습니다.","At the start of the turn, gain 1 stack of Mirror and restore &a HP. If there is no healing gauge protection, overheal instead.
+When successfully dodging, grant 1 stack of Mirror to self and &b.","ターン開始時、回復ゲージがない場合、代わりにオーバーヒールする。
+回避時、自身と&bは<color=#8D38C9>ミラー</color>を1ストック得る。","回合开始时获得1层镜面增益并恢复&a点体力，如果没有体力极限，恢复效果改为超额。
+成功闪避时使自身和&b获得1层镜面增益。","回合開始時獲得1層鏡面增益並恢復&a點體力，如果沒有體力極限，恢復效果改為超額。
+成功閃避時使自身和&b獲得1層鏡面增益。"
+Buff/B_Tiamat_3_T_Name, Text,,이중복원,Dual Restoration,デュアル・リコンストラクト,双刃复原,雙刃復原
+Buff/B_Tiamat_4_T_Name, Text,,회복게이지 보호,Healing Gauge Protection,回復ゲージ保護,保护体力极限,保護體力極限
+Buff/B_Tiamat_5_S_Description, Text,,"피해를 입으면 &a의 피해로 반격합니다.
+회피에 성공했다면, &b의 피해로 반격합니다.","Counterattack when taking damage, dealing &a damage.
+Counterattack when successfully dodging, dealing &b damage.","ダメージを受けると&aのダメージで反撃。
+回避した場合、&bのダメージで反撃。","受到伤害时反击，造成&a点伤害。
+成功闪避时反击，造成&b点伤害。","受到傷害時反擊，造成&a點傷害。
+成功閃避時反擊，造成&b點傷害。"
+Buff/B_Tiamat_5_S_Name, Text,,칼날 반격,Blade Counter,刃の反撃,利刃回还,利刃回還
+Buff/B_Tiamat_6_S_Description, Text,,"패에서 루시 스킬이 아닌 스킬을 사용하면, 1중첩을 소모해 사용한 스킬의 주인을 &a만큼 회복하고 거울을 1중첩 부여합니다.
+만약 스킬의 주인에게 회복게이지가 없다면, 대신 초과회복합니다.","When using a non-Lucy skill from hand, consume 1 stack to restore &a HP and grant 1 stack of Mirror to the skill's owner.
+If user does not have Healing Gauge, Overheal instead.","手札からルシースキル以外のスキルを使用すると、ストックを1消費して使用したスキルの所持者を&a回復し、<color=#8D38C9>ミラー</color>を1ストック与える。
+回復ゲージがない場合、代わりにオーバーヒールする。","使用手中的非露西技能时，本增益减少一层并使技能主人恢复&a点体力且获得一层镜面增益。
+若以没有体力极限的友军触发该效果，恢复效果改为超额。","使用手中的非露西技能時，本增益減少一層並使技能主人恢復&a點體力且獲得一層鏡面增益。
+若以沒有體力極限的友軍觸發該效果，恢復效果改為超額。"
+Buff/B_Tiamat_6_S_Name, Text,,수정모래,Crystal Storm,水晶の嵐,水晶沙尘,水晶沙塵
+Buff/B_Tiamat_6_T_Description, Text,,행동 시 1중첩 늘어납니다.,Gain 1 stack when taking an action.,行動時：ストックを1増加,行动时叠加一层,行動時疊加一層
+Buff/B_Tiamat_6_T_Name, Text,,고통역전,Pain Reversal,痛みの逆転,痛苦逆转,痛苦逆轉
+Buff/B_Tiamat_7_T_Description, Text,,"공격을 한 번 회피합니다.
+회복스킬의 대상이 되면 티아마트가 거울을 1중첩 얻습니다.
+회피 성공 시 해제됩니다.","Dodge one attack.
+When targeted by a healing skill, grant Tiamat 1 stack of Mirror.
+Removed when successfully dodging.","攻撃を1度回避する。
+回復スキルの対象になるとティアマトが<color=#8D38C9>ミラー</color>を1ストック得る。
+回避時に除去される。","闪避一次攻击。
+成为治疗技能的目标时，使提亚玛特获得一层镜面增益。
+成功闪避时解除。
+","閃避一次攻擊。
+成為治療技能的目標時，使提亞瑪特獲得一層鏡面增益。
+成功閃避時解除。
+"
+Buff/B_Tiamat_7_T_Name, Text,,흐릿함,Distortion,歪み,失真,失真
+Buff/B_Tiamat_8_T_Description, Text,,"자신의 공격 스킬을 사용하면, &target가 거울을 1중첩 얻습니다.
+공격당하면 받은 피해의 200%의 피해로 반격하고, 이 버프를 제거합니다.","When using an attack skill, grant &target 1 stack of Mirror.
+When attacked, counterattack for 200% of the damage taken, remove this buff, and gain 1 stack of Mirror.","自身の攻撃スキル使用時、&targetに<color=#8D38C9>ミラー</color>を1ストック与える。
+攻撃された時、受けたダメージの200%を反射し、このバフを除去する。","释放自己的攻击技能时，使&target获得1层镜面。
+受到攻击时还击受到伤害200%，解除该增益并使自身获得1层镜面增益。","釋放自己的攻擊技能時，使&target獲得1層鏡面。
+受到攻擊時還擊受到傷害200%，解除該增益並使自身獲得1層鏡面增益。"
+Buff/B_Tiamat_8_T_Name, Text,,척력의 돔,Repulsion Dome,フィードバック,斥力穹窿,斥力穹窿
+Buff/B_Tiamat_9_S_Description, Text,,피해를 받으면 &a만큼 회복합니다.(&b회 남음.),"When taking damage, heal self for &a HP. (Can trigger &b more times)",ダメージを受けた時：自身を&a回復する（残り&b）,受到伤害时，治疗自身&a点生命。（还可触发&b次）,受到傷害時，治療自身&a點生命。（還可觸發&b次）
+Buff/B_Tiamat_9_S_Name, Text,,속세의 장막,Veil of Mortality,領域の幕,凡尘帷幔,凡塵帷幔
+Buff/B_Tiamat_Equip_Count_Description, Text,,"오로라의 알이 진화하고 있습니다...
+진행도 : &a / 40","The Aurora Egg is evolving...
+Progress: &a / 40","オーロラの卵が孵化中。
+進捗状況： &a / 40","极光之卵正在进化……
+进度：&a / 40","極光之卵正在進化……
+進度：&a / 40"
+Buff/B_Tiamat_Equip_Count_Name, Text,,장비진화,Equipment Evolution,進化する装備,装备进化,裝備進化
+Buff/B_Tiamat_Equip_DEBUFF_Name, Text,,회피율 감소!,Dodge Rate Reduced!,回避率が低下！,闪避率减少！,閃避率減少！
+Buff/B_Tiamat_Equip_Name, Text,,비용감소,Cost Reduction,コスト減少,费用减少,費用減少
+Buff/B_Tiamat_LucyD_Description, Text,,"자신의 스킬을 사용하면, 각각 50% 확률로 자신 또는 티아마트가 거울을 1중첩 얻습니다.","When using a skill, 50% chance to grant self 1 stack of Mirror, otherwise grant Tiamat 1 stack of Mirror.",自身のスキルを発動する時、50%の確率で自身かティアマトに<color=#8D38C9>ミラー</color>を1ストック与える。,释放自己的技能时有50%概率使自身获得1层镜面增益，否则使提亚玛特获得1层镜面增益。,釋放自己的技能時有50%概率使自身獲得1層鏡面增益，否則使提亞瑪特獲得1層鏡面增益。
+Buff/B_Tiamat_LucyD_Name, Text,,여왕의 추억,Queen's Remembrance,女帝の追憶,女王追忆,女王追憶
+Buff/B_Tiamat_P_Description, Text,,"티아마트를 제외한 캐릭터는 최대 3중첩 까지만 얻을 수 있습니다.
+회피 성공 시 1스택 감소합니다.","When gained by a character other than Tiamat, the maximum stacks are reduced to 3.
+Lose 1 stack when successfully dodging.","ティアマト以外の味方は<color=#8D38C9>ミラー</color>を最大で3ストックまでしか持てない。
+回避時にストックが1減少する。","本增益由提亚玛特外的角色获得时，层数上限变为3。
+闪避成功时减少一层。","本增益由提亞瑪特外的角色獲得時，層數上限變為3。
+閃避成功時減少一層。"
+Buff/B_Tiamat_P_Name, Text,,거울,Mirror,<color=#8D38C9>ミラー</color>,镜面,鏡面
+Buff/B_Tiamat_R10_S_Description, Text,,제거되면 시간왜곡을 버려진 덱에 추가합니다.,"When removed, add a ""Time Warp"" to the discard pile.",除去されると、捨て札に「タイムワープ」を加える。,解除时，将一张“时间扭曲”加入弃牌堆,解除時，將一張“時間扭曲”加入棄牌堆
+Buff/B_Tiamat_R10_S_Name, Text,,과부하 : 시간왜곡,Overload: Time Warp,オーバーロード：タイムワープ,过载：时间扭曲,過載：時間扭曲
+Buff/B_Tiamat_R10_T_Description, Text,,"패에 있는 스킬의 비용이 0이 됩니다.
+패에서 스킬을 사용하면 1중첩 제거됩니다.","All skills in hand cost 0.
+Lose 1 stack when using a skill from hand.","手札のスキルのコストをすべて0にする。
+手札からスキル使用時にストックが1減少する。","手中的所有技能费用变为0
+使用手中的技能时减少一层","手中的所有技能費用變為0
+使用手中的技能時減少一層"
+Buff/B_Tiamat_R10_T_Name, Text,,시간침하,Time Dilation,時間の拡張,时间沉降,時間沉降
+Buff/B_Tiamat_R11_S_Description, Text,,제거되면 버려진 덱에 중력함정을 추가합니다.,"When removed, add a ""Gravity Trap"" to the discard pile.",除去されると、捨て札に「重力の泉」を加える,解除时，将一张“重力陷阱”加入弃牌堆。,解除時，將一張“重力陷阱”加入棄牌堆。
+Buff/B_Tiamat_R11_S_Name, Text,,과부하 : 중력함정,Overload: Gravity Trap,オーバーロード：重力の泉,过载：重力陷阱,過載：重力陷阱
+Buff/B_Tiamat_R11_T_Description, Text,,행동불가,Cannot take actions.,行動不能,无法行动,無法行動
+Buff/B_Tiamat_R11_T_Name, Text,,회귀,Return to Origin,回帰,回归原位,迴歸原位
+Buff/B_Tiamat_R12_S_Description, Text,,"회피 성공 시 거울을 2중첩 얻고, &a의 피해로 반격합니다.
+피해를 입으면 자신을 &b만큼 치료합니다.
+제거되면 버려진 덱에 영혼분쇄를 추가합니다.","When successfully dodging, gain 2 stacks of Mirror and counterattack, dealing &a damage.
+When taking damage, heal self for &b HP.
+When removed, add a ""Mind Shatter"" to the discard pile.","回避時、 <color=#8D38C9>ミラー</color>を2ストック得て、&aダメージで反撃する。
+ダメージを受けると自分を&b回復する。
+除去された時、捨て札に「マインド・クラック」を1枚加える。","成功闪避时获得2层镜面并反击，造成&a点伤害。
+受到伤害时使自身恢复&b点体力。
+解除时，将一张“心灵粉碎”加入弃牌堆。","成功閃避時獲得2層鏡面並反擊，造成&a點傷害。
+受到傷害時使自身恢復&b點體力。
+解除時，將一張“心靈粉碎”加入棄牌堆。"
+Buff/B_Tiamat_R12_S_Name, Text,,거울의 허상,Illusion of Mirrors,鏡の偽造,镜之假象,鏡之假象
+Buff/B_Tiamat_R12_T_Description, Text,,"&target만 대상으로 지정 가능.
+대상을 공격하면 해제됩니다.","Cannot attack targets other than &target.
+Removed when attacking the target.","&targetのみを対象とする。
+対象を攻撃すると除去される。","无法攻击&target以外的目标。
+攻击目标时解除。","無法攻擊&target以外的目標。
+攻擊目標時解除。"
+Buff/B_Tiamat_R12_T_Name, Text,,영혼분쇄,Mind Shatter,マインド・クラック,破碎心灵,破碎心靈
+Buff/B_Tiamat_R13_Plus_S_Name, Text,,눈부신 빛,Dazzling Light,光輝,眩光,眩光
+Buff/B_Tiamat_R13_Plus_T_Description, Text,,<b>환광분출</b>로 받는 대미지가 &a %만큼 증가했습니다.,Damage taken from <b>Phantom Surge</b> increased by &a %.,<b>空間の波動</b> から受けるダメージが&a%増加する。,受到<b>幻光涌流</b>的伤害提升&a %,受到<b>幻光湧流</b>的傷害提升&a %
+Buff/B_Tiamat_R13_Plus_T_Name, Text,,천도만과,A Thousand Cuts,サウザンド・カット,千刀万剐,千刀萬剮
+Buff/B_Tiamat_R13_T_Description, Text,,"패에 있는 자신의 스킬을 환광분출로 교체합니다.
+턴 시작 시, 패에 환공분출을 추가하고 제외를 부여합니다.","Replace all your skills in hand with Phantom Surge.
+At the start of the turn, add a Phantom Surge to your hand with Exclude.","手札の自身のスキルを全て「空間の波動」に変更する。
+ターン開始時、「空間の波動」を手札に加え、それに除外を与える。","将手中自己的技能替换为幻光涌流
+回合开始时，将一个幻光涌流拿到手中，附带放逐","將手中自己的技能替換為幻光湧流
+回合開始時，將一個幻光湧流拿到手中，附帶放逐"
+Buff/B_Tiamat_R13_T_Name, Text,,칼날 소환,Call of Blades,ブレードコール,利刃呼唤,利刃呼喚
+Character/Tiamat_PassiveDes, Text,,"자신이 아군을 치료할 때, 대상은 거울 버프를 1중첩 얻습니다.
+
+턴 시작 시 자신에게 거울 버프가 있으면 거울 버프를 1중첩 더 얻고, 회피율 10%당 1의 체력을 회복합니다. 체력이 최대치가 아니라면, 대신에 초과회복합니다.","When healing an ally, grant the target 1 stack of Mirror.
+
+At the start of the turn, if you have Mirror, gain 1 stack of Mirror and restore 1 HP per 10 Dodge. If there is no health gauge protection, overheal instead.","自身が味方を回復する時、対象は<color=#8D38C9>ミラー</color>を1ストック得る。
+
+ターン開始時に自身に<color=#8D38C9>ミラー</color>がある場合、<color=#8D38C9>ミラー</color>を1ストック追加で得て、回避率10%ごとに体力を1回復する。回復ゲージがない場合、代わりにオーバーヒールする。","自身治疗友军时，使目标获得一层镜面增益。
+
+回合开始时若自身有镜面增益，获得一层镜面增益，且每10点闪避恢复1点体力。如果没有体力极限，恢复效果改为超额。","自身治療友軍時，使目標獲得一層鏡面增益。
+
+回合開始時若自身有鏡面增益，獲得一層鏡面增益，且每10點閃避恢復1點體力。如果沒有體力極限，恢復效果改為超額。"
+Character/Tiamat_PassiveName, Text,,무한시야,Infinite Horizon,無限の地平,无限视界,無限視界
+Character/Tiamat_SelectInfo, Text,,"티아마트는 어디서 왔는지 모를, 자신을 환술사라고 칭하는 냉담한 여성입니다. 그녀는 마치 이 세계처럼, 약간의 불순한 동기를 가진 채 계획되고 만들어진 기적입니다. 조사단에게 있어서의 이 가상세계와 마찬가지로, 그녀는 사람들에게 있어 추측하기 어렵고 신비로운 존재입니다. 하지만, 자신만의 명확한 규칙과 목적, 과거 또한 있습니다.
+만약 당신이 그녀에게 그것을 묻는다면, 그녀는 이렇게 대답할 것입니다.“이 별의 구조는 점차 사라져가고 있지만, 우주에서 굽어볼 수 있는 경치는 여전하단다. 나는 이 곳이 여전히 방주로서 기능하고 있는지 알아보려 왔지만, 이 세계에선 인간의 기술을 무한히 갈고닦을 수 있다는 사실이 나를 놀라게 하더구나.”
+
+티아마트는 다른 조사단원보다 높은 회피능력을 가지고 있으며, 약간의 치료를 통해 아군이 받는 부담을 덜어줍니다. 동시에, 티아마트 고유의 “거울” 버프는 자신과 아군의 회피능력을 강화해줄 수 있습니다.","Tiamat, a cold and aloof woman who calls herself a Mesmer, hails from an unknown origin. Like this world, she is a miracle crafted with a hint of impure motives. To others, she is as enigmatic and mysterious as the surface of this illusory world is to the investigation team, yet she clearly has her own rules, goals, and past.
+If you ask her, she will reply: ""The structure of this planet is gradually fading amidst its kaleidoscopic chaos, yet the view from the cosmos remains as it once was. I came here to understand this still-functioning fortress, and I was amazed to find that in this world, human skill can be honed to perfection without end.""
+
+Tiamat possesses high evasion capabilities and can alleviate her allies' burdens with minimal healing. At the same time, her unique ""Mirror"" buff further enhances the evasion abilities of herself and her allies.","ティアマトはどこから来たのかわからない、自身を幻術師と名乗る冷淡な女性です。彼女はまるでこの世界のように、少し不純な動機を持って計画され、作られた奇跡です。調査団にとって、この仮想世界と同様に、彼女は人々にとって推し量ることのできない神秘的な存在ですが、彼女なりの明確なルールや目的、過去もあります。
+もしあなたが彼女にそれを尋ねるなら、彼女はこう答えるでしょう、「この星の構造は徐々に消えていくけれど、宇宙から見渡せる景色はまだ残っているわ。私はここがまだ箱舟として機能しているかどうかを調べに来たのだが、この世界では人間の技術を無限に磨き上げることができることに驚かされたよ。
+
+ティアマトは他の調査団員よりも高い回避能力を持ち、わずかな治療で味方の負担を軽減します。同時に、ティアマト固有の「<color=#8D38C9>ミラー</color>」バフは自分と味方の回避能力を強化することができます。","提亚玛特，不知来自何处自称幻术师的冷漠女性。如同这个世界是谋划而成的奇迹，伴有少许的不纯动机。幻术师之于众人，与这个虚幻世界的表面之于调查团一般，不可捉摸而神秘，但显然有着自己的规则、目的和过去。
+如果你向她询问，她会这样回答你：“这颗星球的构造正于陆离斑驳中逐渐消逝，可从宇宙俯瞰而望的景色却一如曾经。我来到这里是为了了解这座依然在运作的堡垒，令我惊讶的是在这个世界里，人类的技巧也可以在无尽中磨炼至臻。”
+
+提亚玛特具有较高的闪避能力，并可通过少量的治疗减缓队友的压力。同时，提亚玛特独有的“镜面”增益能进一步强化自身与队友的闪避能力。","提亞瑪特，不知來自何處自稱幻術師的冷漠女性。如同這個世界是謀劃而成的奇蹟，伴有少許的不純動機。幻術師之於眾人，與這個虛幻世界的表面之於調查團一般，不可捉摸而神秘，但顯然有著自己的規則、目的和過去。
+如果你向她詢問，她會這樣回答你：“這顆星球的構造正於陸離斑駁中逐漸消逝，可從宇宙俯瞰而望的景色卻一如曾經。我來到這裡是為了瞭解這座依然在運作的堡壘，令我驚訝的是在這個世界裡，人類的技巧也可以在無盡中磨鍊至臻。”
+
+提亞瑪特具有較高的閃避能力，並可通過少量的治療減緩隊友的壓力。同時，提亞瑪特獨有的“鏡面”增益能進一步強化自身與隊友的閃避能力。"
+Character/Tiamat_SkinDesc,Text,,,"The outfit Tiamat most frequently uses can barely be called clothing, but it is easy to clean. It doesn’t hinder her during various activities, and her lower half is left bare—care to inspect it? …Just kidding, bow your head properly before the queen!",ティアマトが最もよく使うアウターウェアは、ほとんど衣類とは言えず、お手入れも簡単。 また、様々な活動をする際にも邪魔にならないし、下半身が空っぽなので、一度見てみますか？ ......というのは冗談で、素直に女王の前に頭を下げなさい！ ,提亚玛特最常使用的勉强称得上是服装的外装，便于清洗。在她参与各种活动时也不会造成阻碍，下身空空，要检查一下吗？……开玩笑的，老老实实在女皇前低头吧！ ,
+Character/Tiamat_Text_Battle_AllyND_0, Text,,아득히 먼 별빛...,Starlight... so distant.,星の光......とても遠い。,星光……如此渺远。,星光……如此渺遠。
+Character/Tiamat_Text_Battle_AllyND_1, Text,,"생명은 별의 꿈일 뿐, 무한한 암흑 속의 찰나...","Life is but the dream of a planet, a fleeting moment in endless darkness...",人生はこの星の夢、果てしない闇の中の閃光にすぎない...。,生命只是星球的梦，无尽黑暗中的一刹……,生命只是星球的夢，無盡黑暗中的一剎……
+Character/Tiamat_Text_Battle_AllyND_2, Text,,"무수히 많은 찬란한 빛, 전부 스러져 물거품이 되네.","Countless glories will wither, turning into bubbles.",無数の栄光が枯れ、無に帰する。,无数辉煌都将凋零，化为泡影。,無數輝煌都將凋零，化為泡影。
+Character/Tiamat_Text_Battle_Cri_0, Text,,"네 영혼을 녹여서, 점치게 해주렴————미래를.",Let me melt your soul and cast a glance toward the future.,君の魂を溶かして、占わせてくれ----未来を。,让我融化你的灵魂，朝着未来——投去一瞥。,讓我融化你的靈魂，朝著未來——投去一瞥。
+Character/Tiamat_Text_Battle_Cri_1, Text,,"녹아내리자, 나와 하나가 되도록.",Dissolve and become one with me.,溶けて、私とひとつになる。,溶解吧，与我合而为一。,溶解吧，與我合而為一。
+Character/Tiamat_Text_Battle_Cri_2, Text,,"잘자렴, 아가.","Sleep, child.",もう寝なさい。,睡吧，孩子。,睡吧，孩子。
+Character/Tiamat_Text_Battle_Healed_0, Text,,아...,Oh...,ああ...,哦……,哦……
+Character/Tiamat_Text_Battle_Healed_1, Text,,"좋아, 그렇게...","Alright, then...",さて、それで......。,好了，那么……,好了，那麼……
+Character/Tiamat_Text_Battle_Healed_2, Text,,내게 맡기렴.,Leave it to me.,私に任せてほしい。,交给我吧。,交給我吧。
+Character/Tiamat_Text_Battle_Healed_3, Text,,이 정도 쯤은..,This much...,この程度なら......。,这种程度……,這種程度……
+Character/Tiamat_Text_Battle_Idle_0, Text,,"나는 빛이요, 또한 그림자라.","I am the light, and the shadow.",私は光であり、影である。,我是光，也是影。,我是光，也是影。
+Character/Tiamat_Text_Battle_Idle_1, Text,,"눈을 돌리지 마렴, 내 아이들아...","Do not look away, my children...",子供たちよ、目をそらすな。,不要移开目光，我的孩子们……,不要移開目光，我的孩子們……
+Character/Tiamat_Text_Battle_Idle_2, Text,,후후. 준비는 다 되었니?,"Hehe, are you prepared?",準備はできているかい？,呵呵，做好准备了吗。,呵呵，做好準備了嗎。
+Character/Tiamat_Text_Battle_Idle_3, Text,,저기일까?,Is it over there?,あっち？,是那里吧？,是那裡吧？
+Character/Tiamat_Text_Battle_Idle_4, Text,,날 무료하게 만들지 말아주렴.,"Don’t make me bored, now.",退屈させないようにね。,可不要让我觉得无聊啊。,可不要讓我覺得無聊啊。
+Character/Tiamat_Text_Battle_Kill_0, Text,,나와 함께 영원으로 들어가자꾸나.,Walk with me into eternity.,私と共に永遠を歩もう,与我一起步入永恒吧。,與我一起步入永恆吧。
+Character/Tiamat_Text_Battle_Kill_1, Text,,"밀물과 썰물처럼, 꿈 속이 속삭이는 소리...","Dreams whisper softly, as tides rise and fall.",夢はささやき、潮は満ち引きする。,梦境低声轻语，潮涨潮落。,夢境低聲輕語，潮漲潮落。
+Character/Tiamat_Text_Battle_Kill_2, Text,,"이것은 미완성의 꿈, 옛 시간의 멜로디.","This is an unfinished dream, a melody of times past.",未完の夢であり、過去のメロディーだ。,这是未竟的梦，过去时光的旋律。,這是未竟的夢，過去時光的旋律。
+Character/Tiamat_Text_Battle_ND_0, Text,,아아...,Alas......,残念だ......。,唉呀……,唉呀……
+Character/Tiamat_Text_Battle_ND_1, Text,,후후후.,Hehehe.,へへへ。,呵呵呵。,呵呵呵。
+Character/Tiamat_Text_Battle_ND_2, Text,,응————그렇구나.,Hmm—I see.,ふーん-----そうなんだ？,嗯——这样啊。,嗯——這樣啊。
+Character/Tiamat_Text_Battle_ND_3, Text,,"춤추자꾸나, 전부 끝날 때까지.","Dance, until the end.",踊れ、永遠に。,起舞吧，直到终结。,起舞吧，直到終結。
+Character/Tiamat_Text_Battle_Start_0, Text,,"고개 숙이렴, 우리 아가...","Bow your head, my child...",頭を下げろ、坊や......。,低下头来，我的孩子……,低下頭來，我的孩子……
+Character/Tiamat_Text_Battle_Start_1, Text,,"명에 따르라, 오로라.","Aurora, heed my command.",オーロラよ、呼びかけに従え。,极光啊，听从号令。,極光啊，聽從號令。
+Character/Tiamat_Text_Battle_Start_2, Text,,"모여라, 오로라.","Gather, Aurora.",集まれ、オーロラ。,汇聚吧，极光。,匯聚吧，極光。
+Character/Tiamat_Text_Field_GetItem_0, Text,,이 작은 장난감들이 무슨 쓸모가 있니? ...그래?,What use are these little toys? ...Is that so.,この小さなおもちゃは何の役に立つの？ ...そうなの？,这些小玩具能有什么用？……是吗。,這些小玩具能有什麼用？……是嗎。
+Character/Tiamat_Text_Field_GetItem_1, Text,,내가 어떤 것을 가져가야 할지 말해주렴.,"Tell me, what should I take?",私が持っていくべきものを教えてくれ。,告诉我，该拿走哪些。,告訴我，該拿走哪些。
+Character/Tiamat_Text_Field_GetItem_2, Text,,반짝반짝... 마치 우주 같구나.,"Sparkling, like the cosmos.",キラキラ... まるで宇宙のようだ。,亮闪闪，就像宇宙。,亮閃閃，就像宇宙。
+Character/Tiamat_Text_Field_Idle_0, Text,,"허무한 꿈도, 현실로 바꿀 수 있지.",Even dreams of nothingness can become reality.,儚い夢も、現実に変えることができる。,虚无之梦，也可化作现实。,虛無之夢，也可化作現實。
+Character/Tiamat_Text_Field_Idle_1, Text,,"속세의 거울이, 너와 함께 먼 길을 가줄거란다.",The mirror of the mortal world accompanies you on your journey.,地上の鏡はあなたの旅に同行する。,尘世的镜像伴你远行。,塵世的鏡像伴你遠行。
+Character/Tiamat_Text_Field_Idle_2, Text,,"시간은 짧고, 생명은 또한 희미한 것.","Time is fleeting, and life is but a wisp.",時間は短く、人生もまたかすかなもの。,光阴短暂，生命又为缥缈之物。,光陰短暫，生命又為縹緲之物。
+Character/Tiamat_Text_Field_Idle_3, Text,,"우주는 작고, 세계는 크고... 우리는 다시 만날거야.","The universe is small, the world is vast, and we shall meet again.",宇宙は小さく、世界は大きく、いずれまた会える。,宇宙很小，世界很大，我们终将再会。,宇宙很小，世界很大，我們終將再會。
+Character/Tiamat_Text_Field_Idle_4, Text,,나? 나는... 아득히 먼 곳에서 왔단다.,Me? I come from... a place far more distant.,私？ 私は......もっと遠くて遠いところから来たんだ。,我？我来自……更加遥远的远方。,我？我來自……更加遙遠的遠方。
+Character/Tiamat_Text_Field_Idle_5, Text,,"네가 나를 인정하고, 믿어주면 좋겠구나.",I hope you can accept me and trust me.,君が私を認めて、信じてくれるといいな。,希望你可以认同我，信任我。,希望你可以認同我，信任我。
+Character/Tiamat_Text_Field_Idle_6, Text,,너희가 조금 느려도 난 개의치 않는단다. 내게 시간은 넘쳐나는 것이니까.,"I don’t mind if you’re slow, for I have all the time in the world.",君たちが少し遅くても、私は気にしないよ。私には時間は溢れているのだから。,我不介意你们慢一些，因为我最不缺的就是时间。,我不介意你們慢一些，因為我最不缺的就是時間。
+Character/Tiamat_Text_Field_Potion_P_0, Text,,으응? 이상한 물건...,Hmm? A strange thing...,うーん、変な物...。,嗯？奇怪的东西……,嗯？奇怪的東西……
+Character/Tiamat_Text_Field_Potion_P_1, Text,,이건 뭐지?,What is this?,これは何だろう？,这是什么？,這是什麼？
+Character/Tiamat_Text_PharosLeader_0, Text,,설령 그림자라 할지라도 붙잡힐 수 있지.,Even a reflection can be caught.,たとえ影であっても、捕まることがある。,即使是倒影，也有可能被抓住呢。,即使是倒影，也有可能被抓住呢。
+Character/Tiamat_Text_PharosLeader_1, Text,,"물론, 잘 어울려 줄게.","Of course, I’ll cooperate.",もちろん、似合うよ。,当然，我会好好配合。,當然，我會好好配合。
+Character/Tiamat_Text_PharosLeader_2, Text,,네 뜻대로... 후후.,As you wish... hehe.,あなたの意のままに... ふふっ。,如你所愿……呵呵。,如你所願……呵呵。
+Character/Tiamat_Text_Witch_0,Text,,"좋아, 해라.","Alright, do it.",,可以，做吧。,可以，做吧。
+Character/Tiamat_Text_Witch_1,Text,,당신이 바라는 대로.,As you wish.,,如你所愿。,如你所願。
+Character/Tiamat_name, Text,,티아마트,Tiamat,ティアマト,提亚玛特,提亞瑪特
+Character_Skin/Tiamat_Swim_SelectInfo,Text,,,"Tiamat, a cold and aloof woman who calls herself a Mesmer, hails from an unknown origin. Like this world, she is a miracle crafted with a hint of impure motives. To others, she is as enigmatic and mysterious as the surface of this illusory world is to the investigation team, yet she clearly has her own rules, goals, and past.
+If you ask her, she will reply: ""The structure of this planet is gradually fading amidst its kaleidoscopic chaos, yet the view from the cosmos remains as it once was. I came here to understand this still-functioning fortress, and I was amazed to find that in this world, human skill can be honed to perfection without end.""
+
+Tiamat possesses high evasion capabilities and can alleviate her allies' burdens with minimal healing. At the same time, her unique ""Mirror"" buff further enhances the evasion abilities of herself and her allies.","ティアマトはどこから来たのかわからない、自身を幻術師と名乗る冷淡な女性です。彼女はまるでこの世界のように、少し不純な動機を持って計画され、作られた奇跡です。調査団にとって、この仮想世界と同様に、彼女は人々にとって推し量ることのできない神秘的な存在です。しかし、彼女なりの明確なルールや目的、過去もあります。
+もしあなたが彼女にそれを尋ねるなら、彼女はこう答えるでしょう、「この星の構造は徐々に消えていくけれど、宇宙から見渡せる景色はまだ残っているわ。私はここがまだ箱舟として機能しているかどうかを調べに来たのだが、この世界では人間の技術を無限に磨き上げることができることに驚かされたよ。
+
+ティアマトは他の調査団員よりも高い回避能力を持ち、わずかな治療で味方の負担を軽減します。同時に、ティアマト固有の「<color=#8D38C9>ミラー</color>」バフは自分と味方の回避能力を強化することができます。","提亚玛特，不知来自何处自称幻术师的冷漠女性。如同这个世界是谋划而成的奇迹，伴有少许的不纯动机。幻术师之于众人，与这个虚幻世界的表面之于调查团一般，不可捉摸而神秘，但显然有着自己的规则、目的和过去。
+如果你向她询问，她会这样回答你：“这颗星球的构造正于陆离斑驳中逐渐消逝，可从宇宙俯瞰而望的景色却一如曾经。我来到这里是为了了解这座依然在运作的堡垒，令我惊讶的是在这个世界里，人类的技巧也可以在无尽中磨炼至臻。”
+
+提亚玛特具有较高的闪避能力，并可通过少量的治疗减缓队友的压力。同时，提亚玛特独有的“镜面”增益能进一步强化自身与队友的闪避能力。",
+Character_Skin/Tiamat_Swim_SkinDesc,Text,,,"Tiamat designed this swimsuit herself to blend in with the humanoid creatures during their holidays. It’s more like beachwear than a swimsuit, but it doesn’t matter since she can fly.
+""Come, enjoy this brief yet eternal moment.""",休日に人型生物に紛れ込むためにティアマト自身がデザインした水着。 水着と言ってもビーチウェアに近い。 とにかく飛べるから問題ない。 この短くとも永遠の瞬間を楽しもう。 ,"提亚玛特为了融入类人生物们的假期而亲自设计的泳装。说是泳装，更像是沙滩装。反正会飞所以没什么所谓。
+“来享受这短暂又永恒的一刻吧。”",
+Character_Skin/Tiamat_Swim_SkinName,Text,,,Tiamat - Gleaming Dawn,ティアマト - 白光の陽光 ,提亚玛特-白光曦微 ,
+Item_Equip/Equip_Tiamat_Description, Text,,"장비한 캐릭터가 매 턴 처음으로 사용하는 기술의 비용 -1. 사용 후 1턴간 회피율 -10%.
+장비자의 스킬을 사용하는 것으로 진화시킬 수 있습니다. (진행도 : &a / 40)
+
+<color=#919191>어렴풋이 기억나는 노래의, 가사 없는 멜로디. - 티아마트</color>","The first skill used from hand each turn costs -1. After use, evasion rate -10% for 1 turn.
+Using the equipped character’s skills will evolve it (Progress: &a / 40).
+
+<color=#919191>Like a faintly remembered song, a melody without lyrics. - Tiamat</color>","毎ターン、装備者が手札から最初に使用するスキルのコスト-1。使用後1ターンの間、回避率-10%。
+装備者のスキルを使用することで孵化する（進行度：&a / 40）
+
+<color=#919191>ぼんやりと思い出される歌、歌詞のないメロディに心を寄せる-ティアマト</color>","每回合装备者从手中使用的第一个技能的费用-1，使用后闪避率-10%，持续1回合
+使用装备者的技能以使其进化（进度：&a / 40）
+
+<color=#919191>就像依稀记得的歌曲、没有填词的旋律。 - 提亚玛特</color>","每回合裝備者從手中使用的第一個技能的費用-1，使用後閃避率-10%，持續1回合
+使用裝備者的技能以使其進化（進度：&a / 40）
+
+<color=#919191>就像依稀記得的歌曲、沒有填詞的旋律。 - 提亞瑪特</color>"
+Item_Equip/Equip_Tiamat_Plus_Description, Text,,"장비한 캐릭터가 매 턴 처음으로 사용하는 기술의 비용 -1. 사용 후 1턴간 회피율 -10%.
+턴 시작 시 제외가 부여된 비용 0의 환광분출을 생성합니다.
+
+<color=#919191>나는 오로라의 목자요, 내일을 향해 날갯짓하는 환영이라. - 티아마트</color>","The first skill used from hand each turn costs -1. After use, evasion rate -10% for 1 turn.
+At the start of the turn, generate a Phantom Surge with cost 0, with Exclude.
+
+<color=#919191>I am the shepherd of the aurora, a phantom soaring toward tomorrow. - Tiamat</color>","毎ターン、装備者が手札から最初に使用するスキルのコスト-1。使用後1ターンの間、回避率-10%。
+ターン開始時、コスト0の「空間の波動」を手札に加え、それに除外を与える。
+
+<color=#919191>私はオーロラの羊飼い、明日に向かって羽ばたく幻影-ティアマト</color>。","每回合装备者从手中使用的第一个技能的费用-1，使用后闪避率-10%，持续1回合
+回合开始时，生成费用为0的幻光涌流，附带放逐
+
+<color=#919191>我是极光的牧者，向着明日振翅的幻影 - 提亚玛特</color>","每回合裝備者從手中使用的第一個技能的費用-1，使用後閃避率-10%，持續1回合
+回合開始時，生成費用為0的幻光湧流，附帶放逐
+
+<color=#919191>我是極光的牧者，向著明日振翅的幻影 - 提亞瑪特</color>"
+Item_Equip/Equip_Tiamat_Plus_name, Text,,오로라의 알 · 영원,Aurora Egg · Eternal,オーロラの卵-永久,极光之卵·永恒,極光之卵·永恆
+Item_Equip/Equip_Tiamat_name, Text,,오로라의 알 · 미완성,Aurora Egg · Incomplete,オーロラの卵-孵化中,极光之卵·待成型,極光之卵·待成型
+Item_Passive/Relic_Tiamat_Description, Text,,"전투 시작 시, 모든 아군은 거울을 3중첩 얻습니다.","At the start of battle, all allies gain 3 stacks of Mirror.",戦闘開始時、味方全員に<color=#8D38C9>ミラー</color>を3ストック与える。,战斗开始时，所有友军获得3层镜面增益。,戰鬥開始時，所有友軍獲得3層鏡面增益。
+Item_Passive/Relic_Tiamat_name, Text,,잔류 거울,Lingering Mirror,残像の鏡,残留的镜面,殘留的鏡面
+SimpleCampDialogue/CampDial_Tiamat_Azar_Dialogues_0, Text,,"[B] 괜찮다면, 내게서 좀 떨어져주면 좋겠는데.","[B] If you don’t mind, please stay away from me.",,[B]没事的话，请你离我远一些。,[B]沒事的話，請你離我遠一些。
+SimpleCampDialogue/CampDial_Tiamat_Azar_Dialogues_1, Text,,"[A] 후후, 그래. 내가 무언가 너를 방해했니?","[A] Haha, really? Am I bothering you somehow?",,[A]哈哈，是吗。我有哪里碍你事了？,[A]哈哈，是嗎。我有哪裡礙你事了？
+SimpleCampDialogue/CampDial_Tiamat_Azar_Dialogues_2, Text,,[B] 아니.,[B] No.,,[B]没有。,[B]沒有。
+SimpleCampDialogue/CampDial_Tiamat_Azar_Dialogues_3, Text,,[A] 쯧... 정말 괴짜로구나.,[A] Tsk... what a strange person.,,[A]啧……真是个怪人。,[A]嘖……真是個怪人。
+SimpleCampDialogue/CampDial_Tiamat_Blue_Dialogues_0, Text,,[A] 넌 헬리아를 좋아하니?,[A] Do you like Helena?,,[A]你喜欢海拉吗？,[A]你喜歡海拉嗎？
+SimpleCampDialogue/CampDial_Tiamat_Blue_Dialogues_1, Text,,"[B] 좋... 아니, 좋아한다는 건 무슨 의미로 좋아한다는거야?","[B] Like... wait, what kind of ""like"" do you mean?",,[B]喜……不对，喜…喜欢是指哪种喜欢？,[B]喜……不對，喜…喜歡是指哪種喜歡？
+SimpleCampDialogue/CampDial_Tiamat_Blue_Dialogues_2, Text,,[A] ...,[A] ...,,[A]……,[A]……
+SimpleCampDialogue/CampDial_Tiamat_Blue_Dialogues_3, Text,,[B] 그럼 내 생각에는... 좋아하는 것 같아.,[B] Then I guess... I do like her.,,[B]那我想应该是……喜欢吧。,[B]那我想應該是……喜歡吧。
+SimpleCampDialogue/CampDial_Tiamat_Blue_Dialogues_4, Text,,[A] 조금 솔직해도 된단다.,[A] You can be more honest.,,[A]你可以坦诚一些。,[A]你可以坦誠一些。
+SimpleCampDialogue/CampDial_Tiamat_Blue_Dialogues_5, Text,,[B] 우으...,[B] Ugh...,,[B]呜……,[B]嗚……
+SimpleCampDialogue/CampDial_Tiamat_Charon_Dialogues_0, Text,,[B] 그런 멋진 암흑마법도 가지고 있어?,"[B] Do you have any cool, dark magic spells?",,[B]你有没有那种很酷的，黑暗系的法术？,[B]你有沒有那種很酷的，黑暗系的法術？
+SimpleCampDialogue/CampDial_Tiamat_Charon_Dialogues_1, Text,,[A] 있지. 하지만 네가 생각하는 것과는 다를 거란다.,"[A] Yes, but it’s not what you’re imagining.",,[A]有，但是跟你想的不太一样。,[A]有，但是跟你想的不太一樣。
+SimpleCampDialogue/CampDial_Tiamat_Charon_Dialogues_2, Text,,[B] 멋지겠다. 한 번만 보여줘!,"[B] That’s great, show me!",,[B]那太好了，让我看看！,[B]那太好了，讓我看看！
+SimpleCampDialogue/CampDial_Tiamat_Charon_Dialogues_3, Text,,"[A] 미안하지만, 못해.","[A] Sorry, I can’t.",,[A]对不起，做不到。,[A]對不起，做不到。
+SimpleCampDialogue/CampDial_Tiamat_Charon_Dialogues_4, Text,,[B] 에에~~~,[B] Tsk~~~,,[B]唉~~~,[B]唉~~~
+SimpleCampDialogue/CampDial_Tiamat_Hein_Dialogues_0, Text,,"[B] 당신 강해보이는데, 기회가 되면 싸워보지 않을래?","[B] You seem strong, want to spar sometime?",,[B]你看起来很强，有机会的话打打看？,[B]你看起來很強，有機會的話打打看？
+SimpleCampDialogue/CampDial_Tiamat_Hein_Dialogues_1, Text,,[A] ...관심 없어.,[A] ...I’m not interested.,,[A]……我没兴趣。,[A]……我沒興趣。
+SimpleCampDialogue/CampDial_Tiamat_Hein_Dialogues_2, Text,,"[B] 쳇, 재미없게.","[B] Tch, killjoy.",,[B]嘁，没意思。,[B]嘁，沒意思。
+SimpleCampDialogue/CampDial_Tiamat_Huz_Dialogues_0, Text,,"[B] 뭔가, 여왕님의 소질이 있어보이는데... 혹시 이 쪽에 관심 있어?",[B] You have a queenly aura... do you have an interest in that?,,[B]有种女王般的气质呢……难道是有这方面的兴趣吗？,[B]有種女王般的氣質呢……難道是有這方面的興趣嗎？
+SimpleCampDialogue/CampDial_Tiamat_Huz_Dialogues_1, Text,,[A] 타고난 천성인 셈이지.,[A] It’s more like it’s innate.,,[A]应该算是与生俱来。,[A]應該算是與生俱來。
+SimpleCampDialogue/CampDial_Tiamat_Huz_Dialogues_2, Text,,"[B] 그거 좋네! 우아한데다 예쁘고, 많은 사람들이 널 좋아할거야.","[B] That’s great, elegant and beautiful. A lot of people must like you.",,[B]真不错，优雅又美丽，有很多人喜欢你吧。,[B]真不錯，優雅又美麗，有很多人喜歡你吧。
+SimpleCampDialogue/CampDial_Tiamat_Huz_Dialogues_3, Text,,"[A] 날 미워하는 사람이 조금 더 많긴 하지만, 확실히, 난 사람들을 사랑한단다.","[A] More people hate me, but I do have someone I love.",,[A]还是憎恨我的人更多一些，不过我确实有爱人。,[A]還是憎恨我的人更多一些，不過我確實有愛人。
+SimpleCampDialogue/CampDial_Tiamat_Ilya_Dialogues_0, Text,,[B] 당신은 독특한... 침착함이 느껴져.,[B] You have a unique sense of composure.,,[B]你有一种独特的稳重感。,[B]你有一種獨特的穩重感。
+SimpleCampDialogue/CampDial_Tiamat_Ilya_Dialogues_1, Text,,"[A] 만약 네가 자신감을 가진다면, 너도 나처럼 될 수 있을거란다.","[A] If you have confidence in yourself, you can be like me too.",,[A]如果你对自己有信心，也可以和我一样。,[A]如果你對自己有信心，也可以和我一樣。
+SimpleCampDialogue/CampDial_Tiamat_Ilya_Dialogues_2, Text,,[B] 자신감... 정말로?,[B] Confidence... maybe.,,[B]信心……或许吧。,[B]信心……或許吧。
+SimpleCampDialogue/CampDial_Tiamat_Ilya_Dialogues_3, Text,,"[A] 물론, 자신감만 있어서는 부족하겠지.","[A] Of course, confidence alone isn’t enough.",,[A]当然，只有信心也不够。,[A]當然，只有信心也不夠。
+SimpleCampDialogue/CampDial_Tiamat_Ilya_Dialogues_4, Text,,[B] 그렇겠지.,[B] That’s true.,,[B]说的也是。,[B]說的也是。
+SimpleCampDialogue/CampDial_Tiamat_Iron_Dialogues_0, Text,,"[B] 만약 위험한 일이 있으면, 내 뒤로 숨으라고.","[B] If there’s danger, hide behind me.",,[B]如果有危险的话，就躲到我身后。,[B]如果有危險的話，就躲到我身後。
+SimpleCampDialogue/CampDial_Tiamat_Iron_Dialogues_1, Text,,[A] 하지만 우리의 역할은 똑같은걸.,[A] But we excel at the same things.,,[A]但是我们擅长的事情是一样的。,[A]但是我們擅長的事情是一樣的。
+SimpleCampDialogue/CampDial_Tiamat_Iron_Dialogues_2, Text,,[B] ...이렇게 말하면 적어도 내 마음이 편해질 것 같아서.,[B] ...At least saying that makes me feel better.,,[B]……至少这么说会让我心里舒服一些。,[B]……至少這麼說會讓我心裡舒服一些。
+SimpleCampDialogue/CampDial_Tiamat_Iron_Dialogues_3, Text,,[A] 기억해둘게.,[A] I’ll remember that.,,[A]我会记住的。,[A]我會記住的。
+SimpleCampDialogue/CampDial_Tiamat_Joey_Dialogues_0, Text,,"[B] 네녀석, 옷차림도 너무 가볍고... 어떻게 조사단에 들어온거야?",[B] Your outfit is way too casual... How did you even join the investigation team?,,[B]你这家伙穿的也太轻浮了点……你是怎么加入调查队的？,[B]你這傢伙穿的也太輕浮了點……你是怎麼加入調查隊的？
+SimpleCampDialogue/CampDial_Tiamat_Joey_Dialogues_1, Text,,[A] 나는 루시와 아는 사이란다.,[A] I am acquainted with Lucy.,,[A]我认识露西。,[A]我認識露西。
+SimpleCampDialogue/CampDial_Tiamat_Joey_Dialogues_2, Text,,[B] 분명 말하지 않은게 더 있는 것 같은데.,[B] I feel like there’s more you’re not telling.,,[B]总觉得你还有很多事情没说。,[B]總覺得你還有很多事情沒說。
+SimpleCampDialogue/CampDial_Tiamat_Joey_Dialogues_3, Text,,[A] 네게는 자신만의 비밀이란 것이 없는거니?,[A] Don’t you have your own secrets?,,[A]难道你没有自己的秘密吗？,[A]難道你沒有自己的秘密嗎？
+SimpleCampDialogue/CampDial_Tiamat_Johan_Dialogues_0, Text,,[B] 사람은 누구에게나 원동력이란 것이 있지요. 제게는 복수가 바로 그것입니다,"[B] Everyone has their own motivation to move forward. For me, it’s revenge.",,[B]每个人都有自己前进的动力，对我来说是复仇。,[B]每個人都有自己前進的動力，對我來說是復仇。
+SimpleCampDialogue/CampDial_Tiamat_Johan_Dialogues_1, Text,,[A] 배우고 있단다.,[A] I’m learning.,,[A]我在学习。,[A]我在學習。
+SimpleCampDialogue/CampDial_Tiamat_Johan_Dialogues_2, Text,,[B] 배운다고요?,[B] Learning?,,[B]学习？,[B]學習？
+SimpleCampDialogue/CampDial_Tiamat_Johan_Dialogues_3, Text,,[A] 네가 말하는 복수라는 것에 포함된 것을 배우고 있지. 하지만——내게는 그리 마음에 들지 않는구나.,[A] What I’m learning includes the revenge you speak of—but I don’t particularly like it.,,[A]学习的内容包括你所说的复仇——但是我并不怎么喜欢它。,[A]學習的內容包括你所說的復仇——但是我並不怎麼喜歡它。
+SimpleCampDialogue/CampDial_Tiamat_Johan_Dialogues_4, Text,,[B] 당신의 평가는 제가 알 바가 아닙니다.,[B] I don’t care about your opinion.,,[B]我不在乎你的评价。,[B]我不在乎你的評價。
+SimpleCampDialogue/CampDial_Tiamat_Leryn_Dialogues_0, Text,,[B] 당신의 몸은 회복 속도가 정말 빠르네요. 무슨 비결이라도 있나요?,[B] Your body recovers so quickly. Is it some kind of secret technique?,,[B]你的身体恢复速度好快，是什么秘技吗？,[B]你的身體恢復速度好快，是什麼秘技嗎？
+SimpleCampDialogue/CampDial_Tiamat_Leryn_Dialogues_1, Text,,"[A] 내 주요 장기를 파괴하지 않는 한, 난 죽지 않겠지.","[A] As long as my core organ isn’t destroyed, I won’t die.",,[A]只要不把我的核心器官破坏，就不会死。,[A]只要不把我的核心器官破壞，就不會死。
+SimpleCampDialogue/CampDial_Tiamat_Leryn_Dialogues_2, Text,,[B] 이렇게 피비린내 나는 이야기를 할 필요는 없잖아요.,[B] We don’t need to discuss something so gruesome.,,[B]我们没必要讨论得这么血腥吧。,[B]我們沒必要討論得這麼血腥吧。
+SimpleCampDialogue/CampDial_Tiamat_Leryn_Dialogues_3, Text,,[A] 내 몸의 한계에 관심이 있는 줄 알았는데.,[A] I thought you’d be interested in the limits of my body.,,[A]我还以为你会对我身体的极限感兴趣。,[A]我還以為你會對我身體的極限感興趣。
+SimpleCampDialogue/CampDial_Tiamat_Leryn_Dialogues_4, Text,,[B] ...부인하진 않을게요. 하지만 저는 연구보단 당신들에게 더욱 관심이 있어서 말이죠.,[B] ...I won’t deny it. But I care more about you all than research.,,[B]……我不否认。但比起研究我还是更关心你们。,[B]……我不否認。但比起研究我還是更關心你們。
+SimpleCampDialogue/CampDial_Tiamat_Lian_Dialogues_0, Text,,"[B] 검을 다룰 줄은 모르는 것 같은데, 배울 생각이 있나?",[B] You don’t seem to know swordsmanship. Want to learn?,,[B]你看起来并不会剑技，想学吗？,[B]你看起來並不會劍技，想學嗎？
+SimpleCampDialogue/CampDial_Tiamat_Lian_Dialogues_1, Text,,"[A] 호의는 고맙지만, 지금은 필요 없어.","[A] Thank you for the offer, but not now.",,[A]谢谢你的好意，但现在还不用。,[A]謝謝你的好意，但現在還不用。
+SimpleCampDialogue/CampDial_Tiamat_Lian_Dialogues_2, Text,,[B] 그래. 만약 배우고 싶어지면 언제든 나를 찾아오도록.,"[B] Alright, if you ever want to learn, just come find me.",,[B]好的，如果你想学的话可以随时找我。,[B]好的，如果你想學的話可以隨時找我。
+SimpleCampDialogue/CampDial_Tiamat_Lian_Dialogues_3, Text,,[A] 응.,[A] Mhm.,,[A]嗯。,[A]嗯。
+SimpleCampDialogue/CampDial_Tiamat_Miss_Dialogues_0, Text,,"[B] 안녕, 미녀 아가씨. 왜 아무말도 안해?","[B] Hi, beautiful lady over there, why aren’t you talking?",,[B]Hi，那边的美女，你怎么不说话。,[B]Hi，那邊的美女，你怎麼不說話。
+SimpleCampDialogue/CampDial_Tiamat_Miss_Dialogues_1, Text,,[A] 난 조용한 것이 좋단다.,[A] I prefer quiet.,,[A]我喜欢安静。,[A]我喜歡安靜。
+SimpleCampDialogue/CampDial_Tiamat_Miss_Dialogues_2, Text,,[B] 그렇게 야박하게 굴지 말고. 이리 와서 뭐라도 먹을래? 고기 구워줄게!,"[B] Oh, don’t be so distant. Want to eat something? I’ll grill some meat for you.",,[B]哎呀别这么见外嘛，要来吃点什么吗？烤肉给你。,[B]哎呀別這麼見外嘛，要來吃點什麼嗎？烤肉給你。
+SimpleCampDialogue/CampDial_Tiamat_Miss_Dialogues_3, Text,,[A] ...고마워. 한 조각 더 주겠니?,"[A] ...Thanks, give me another piece.",,[A]……谢谢，请再多给我来一块。,[A]……謝謝，請再多給我來一塊。
+SimpleCampDialogue/CampDial_Tiamat_Miss_Dialogues_4, Text,,"[B] 하하하, 문제 없지! 얼마든지 말하라구.","[B] Hahaha, no problem, just let me know!",,[B]哈哈哈，没问题，尽管跟我说！,[B]哈哈哈，沒問題，儘管跟我說！
+SimpleCampDialogue/CampDial_Tiamat_Momori_Dialogues_0, Text,,"[A] 너를 보면, 생각나는 사람이 한 명 있어.",[A] Seeing you always reminds me of someone.,,[A]看到你总会让我想到一个人。,[A]看到你總會讓我想到一個人。
+SimpleCampDialogue/CampDial_Tiamat_Momori_Dialogues_1, Text,,[B] 누군데? 나처럼 귀여워?,[B] Who? Are they as cute as me?,,[B]谁啊？跟我一样可爱？,[B]誰啊？跟我一樣可愛？
+SimpleCampDialogue/CampDial_Tiamat_Momori_Dialogues_2, Text,,[A] 너처럼 말썽꾸러기란다.,[A] As troublesome as you.,,[A]和你一样能惹麻烦。,[A]和你一樣能惹麻煩。
+SimpleCampDialogue/CampDial_Tiamat_Momori_Dialogues_3, Text,,[B] 흥. 내가 믿음직스럽지 못하단거야?,"[B] Hmph, am I not reliable enough?",,[B]哼，我还不够可靠吗？,[B]哼，我還不夠可靠嗎？
+SimpleCampDialogue/CampDial_Tiamat_Momori_Dialogues_4, Text,,[A] 믿음직스러움과 말썽꾸러기는 상충하지 않는 요소지.,[A] Being reliable and causing trouble aren’t mutually exclusive.,,[A]可靠跟惹麻烦并不冲突。,[A]可靠跟惹麻煩並不衝突。
+SimpleCampDialogue/CampDial_Tiamat_Momori_Dialogues_5, Text,,[B] (혀 내밀고 베에.),[B] (Sticks out tongue),,[B]（吐舌头）,[B]（吐舌頭）
+SimpleCampDialogue/CampDial_Tiamat_Narhan_Dialogues_0, Text,,[B] 당신은 도대체 누구지? 마음을 조금도 읽지 못하겠군.,[B] Who exactly are you? I can’t read your mind at all.,,[B]你到底是谁？我一点也读不出你的内心。,[B]你到底是誰？我一點也讀不出你的內心。
+SimpleCampDialogue/CampDial_Tiamat_Narhan_Dialogues_1, Text,,[A] 네 능력은 평범한 사람에게만 효과가 있기 때문이지.,[A] Because your ability only works on ordinary people.,,[A]因为你的能力只对普通人起效。,[A]因為你的能力只對普通人起效。
+SimpleCampDialogue/CampDial_Tiamat_Narhan_Dialogues_2, Text,,"[B] 평범하지 않은... 그렇긴 하지, 독심술 방어를 전문적으로 할 줄 아는 사람이 있는 것도 이상하진 않으니.","[B] Not ordinary... Well, it’s not strange for someone to have a way to counter mind-reading.",,[B]不普通……倒也是，有会专门反制读心的方法的人也不奇怪。,[B]不普通……倒也是，有會專門反制讀心的方法的人也不奇怪。
+SimpleCampDialogue/CampDial_Tiamat_Narhan_Dialogues_3, Text,,[A] 내 말은... 내가 인간이 아니라는 거란다.,"[A] What I mean is, I’m not human.",,[A]我的意思是，我不是人类。,[A]我的意思是，我不是人類。
+SimpleCampDialogue/CampDial_Tiamat_Narhan_Dialogues_4, Text,,[B] ...그거 재미있군.,[B] ...That’s interesting.,,[B]……那就有意思了。,[B]……那就有意思了。
+SimpleCampDialogue/CampDial_Tiamat_Pheonix_Dialogues_0, Text,,[A] 너...,[A] You...,,[A]你……,[A]你……
+SimpleCampDialogue/CampDial_Tiamat_Pheonix_Dialogues_1, Text,,"[B] 왜, 왜? (긴장)",[B] Wha... what? (Nervous),,[B]怎，怎么了？（紧张）,[B]怎，怎麼了？（緊張）
+SimpleCampDialogue/CampDial_Tiamat_Pheonix_Dialogues_2, Text,,[A] 넌 나와 정말 닮았구나.,[A] You’re a lot like me.,,[A]你跟我很像。,[A]你跟我很像。
+SimpleCampDialogue/CampDial_Tiamat_Pheonix_Dialogues_3, Text,,[B] 닮았다고? 어디가? 난 전혀 모르겠는데.,[B] Like? Where? I can’t see it.,,[B]很像？哪里？我看不出来啊。,[B]很像？哪裡？我看不出來啊。
+SimpleCampDialogue/CampDial_Tiamat_Pheonix_Dialogues_4, Text,,"[A] 인류 사회에서의 선악 관념이 희박하고, 공감심이 모자라다는 점에서.","[A] In humanoid society, your sense of good and evil is weak, and you lack empathy.",,[A]在类人生物社会中善恶观念淡薄，缺乏同理心。,[A]在類人生物社會中善惡觀念淡薄，缺乏同理心。
+SimpleCampDialogue/CampDial_Tiamat_Pheonix_Dialogues_5, Text,,[B] ...너 뭐라 그랬어!,[B] ...What are you talking about!,,[B]……你在说什么呢！,[B]……你在說什麼呢！
+SimpleCampDialogue/CampDial_Tiamat_Pheonix_Dialogues_6, Text,,[A] 후후.,[A] Hehe.,,[A]呵呵。,[A]呵呵。
+SimpleCampDialogue/CampDial_Tiamat_Priest_Dialogues_0, Text,,"[B] 당신은 별로 보지 못했는데… 혹시, 신을 믿으시나요?",[B] I rarely see you. Do you have a faith?,,[B]我很少见到你，你有信仰吗？,[B]我很少見到你，你有信仰嗎？
+SimpleCampDialogue/CampDial_Tiamat_Priest_Dialogues_1, Text,,[A] 아니.,[A] I don’t.,,[A]我没有。,[A]我沒有。
+SimpleCampDialogue/CampDial_Tiamat_Priest_Dialogues_2, Text,,[B] 한 번 믿어보시지 않으실래요? 신은 온화하시답니다...,[B] Want to try? God is gentle...,,[B]要试试看吗？神是温柔的……,[B]要試試看嗎？神是溫柔的……
+SimpleCampDialogue/CampDial_Tiamat_Priest_Dialogues_3, Text,,[A] 호의에는 감사할게.,[A] Thank you for the offer.,,[A]谢谢你的好意。,[A]謝謝你的好意。
+SimpleCampDialogue/CampDial_Tiamat_Priest_Dialogues_4, Text,,"[A] 하지만 대부분의 상황에서 우리가 따르는 진리란 것은, 우리 자신의 세계관에 달려있단다.","[A] But often, the truths we hold onto depend only on our own worldview.",,[A]但很多时候我们坚持的真理只取决于我们自己的世界观。,[A]但很多時候我們堅持的真理只取決於我們自己的世界觀。
+SimpleCampDialogue/CampDial_Tiamat_Red_Dialogues_0, Text,,"[B] 어때, 나랑 셀레나 중에 누가 더 강한 것 같아?","[B] So, who’s stronger? Me or Selena?",,[B]怎么样，我跟赛琳娜谁更强一点？,[B]怎麼樣，我跟賽琳娜誰更強一點？
+SimpleCampDialogue/CampDial_Tiamat_Red_Dialogues_1, Text,,"[A] 내가 볼 때에는, 셀레나.","[A] In my opinion, Selena.",,[A]依我来看，是赛琳娜。,[A]依我來看，是賽琳娜。
+SimpleCampDialogue/CampDial_Tiamat_Red_Dialogues_2, Text,,[B] 뭐? 웃기지 마!,[B] What? Don’t talk nonsense.,,[B]什么，你可不要瞎说啊。,[B]什麼，你可不要瞎說啊。
+SimpleCampDialogue/CampDial_Tiamat_Red_Dialogues_3, Text,,[A] 난 진지하단다.,[A] I’m serious.,,[A]我是认真的。,[A]我是認真的。
+SimpleCampDialogue/CampDial_Tiamat_Red_Dialogues_4, Text,,[B] 진짜 말도 안돼.,[B] That’s quite surprising to me.,,[B]这还真令我有些意外。,[B]這還真令我有些意外。
+SimpleCampDialogue/CampDial_Tiamat_SilverStein_Dialogues_0, Text,,[A] 네 무기를 좀 봐도 될까?,[A] Can I take a look at your weapon?,,[A]可以让我看看你的武器吗？,[A]可以讓我看看你的武器嗎？
+SimpleCampDialogue/CampDial_Tiamat_SilverStein_Dialogues_1, Text,,"[B] 그건 안돼, 아가씨. 총은 위험하거든.","[B] That’s a no, little girl. Guns are dangerous.",,[B]那可不行，小姑娘，枪是很危险的。,[B]那可不行，小姑娘，槍是很危險的。
+SimpleCampDialogue/CampDial_Tiamat_SilverStein_Dialogues_2, Text,,[A] 그렇다면야.,[A] Alright then.,,[A]那好吧。,[A]那好吧。
+SimpleCampDialogue/CampDial_Tiamat_SilverStein_Dialogues_3, Text,,[B] ...생각보단 말을 잘 듣는군.,[B] ...You are more lenient than I thought.,,[B]……你还挺好说话。,[B]……你還挺好說話。
+SimpleCampDialogue/CampDial_Tiamat_Sizz_Dialogues_0, Text,,"[B] 예쁜 언니, 언니는 어디서 오셨나요?","[B] Pretty big sister, where are you from?",,[B]漂亮的大姐姐，你是从哪来的？,[B]漂亮的大姐姐，你是從哪來的？
+SimpleCampDialogue/CampDial_Tiamat_Sizz_Dialogues_1, Text,,[A] ...,[A] ...,,[A]……,[A]……
+SimpleCampDialogue/CampDial_Tiamat_Sizz_Dialogues_2, Text,,[B] ...?,[B] ...? (Tilts head),,[B]……？（歪头）,[B]……？（歪頭）
+SimpleCampDialogue/CampDial_Tiamat_Sizz_Dialogues_3, Text,,[A] ...,[A] ...,,[A]……,[A]……
+SimpleCampDialogue/CampDial_Tiamat_Trisha_Dialogues_0, Text,,[B] 당신의 기술은 내 것과는 정반대네. 화려해.,"[B] Your technique is the complete opposite of mine, and it looks dazzling.",,[B]你的技法跟我完全相反，看起来很华丽。,[B]你的技法跟我完全相反，看起來很華麗。
+SimpleCampDialogue/CampDial_Tiamat_Trisha_Dialogues_1, Text,,[A] 그건 사람들의 성격과도 관련이 있단다.,[A] It’s also related to each person’s personality.,,[A]这跟每个人的性格也有关系。,[A]這跟每個人的性格也有關係。
+SimpleCampDialogue/CampDial_Tiamat_Trisha_Dialogues_2, Text,,[B]성격이 우리의 능력을 결정할 수 있다고?,[B] Can personality determine our abilities?,,[B]性格可以决定我们的能力吗？,[B]性格可以決定我們的能力嗎？
+SimpleCampDialogue/CampDial_Tiamat_Trisha_Dialogues_3, Text,,"[A] ...이 세상에 한정한다면, 내 생각에는, 그래.","[A] ...Only in this world, I think, yes.",,[A]……仅限于这个世界，我想，是的。,[A]……僅限於這個世界，我想，是的。
+Skill/S_Tiamat_1_Description, Text,,"만약 자신에게 거울이 2중첩 이상 있다면, <b>환광분출</b>의 도발 효과를 강화합니다.","If released with 2 or more stacks of Mirror, enhances the taunt effect of <b>Requiem of Blades</b>.",使用時、自身に<color=#8D38C9>ミラー</color>のストック数が2以上ある場合、<b>「ブレード・レクイエム」</b>を強化する。,释放时若自身带有2层以上镜面增益，强化<b>旋刃魂曲</b>的嘲讽效果。,釋放時若自身帶有2層以上鏡面增益，強化<b>旋刃魂曲</b>的嘲諷效果。
+Skill/S_Tiamat_1_Name, Text,,영혼 찢기,Mind Slash,マインド・スラッシュ,心灵劈砍,心靈劈砍
+Skill/S_Tiamat_2_Description, Text,,"티아마트가 가진 거울 2중첩마다, 혼돈침식을 1중첩 부여합니다.","For every 2 stacks of Mirror on Tiamat, apply 1 stack of Chaos Erosion.",自身の持つ<color=#8D38C9>ミラー</color>のストック数2毎に、 [カオス侵食]を追加で1ストック与える。,自身每有2层镜面增益，额外施加1层混沌侵蚀。,自身每有2層鏡面增益，額外施加1層混沌侵蝕。
+Skill/S_Tiamat_2_Name, Text,,혼돈의 소용돌이,Chaos Vortex,カオスの渦,混沌漩涡,混沌漩渦
+Skill/S_Tiamat_3_Description, Text,,끝없는 주조 : 2,Endless Casting: 2,エンドレス・キャスト：2,无尽铸造：2,無盡鑄造：2
+Skill/S_Tiamat_3_Name, Text,,영원의 연못,Well of Eternity,久遠の泉,永恒法池,永恆法池
+Skill/S_Tiamat_4_Description, Text,,"만약 아군 전체의 거울 총합이 8 이하가 아니라면 초과회복으로 바뀝니다.
+거울이 없는 모든 아군이 거울을 1중첩 얻습니다.","If the total Mirror stacks of all allies are not less than 8, Overheal instead.
+All allies without Mirror gain 1 stack of Mirror.","味方の<color=#8D38C9>ミラー</color>のストック数の合計が8以下の場合：代わりにオーバーヒールする。
+<color=#8D38C9>ミラー</color>を持たない味方は<color=#8D38C9>ミラー</color>を1ストック得る。","释放时，若所有友军的镜面层数总和不低于8，改为超额治疗
+所有没有镜面增益的其他友军获得1层镜面增益","釋放時，若所有友軍的鏡面層數總和不低於8，改為超額治療
+所有沒有鏡面增益的其他友軍獲得1層鏡面增益"
+Skill/S_Tiamat_4_Name, Text,,환광의 향연,Phantom Feast,エーテルの饗宴,幻光盛宴,幻光盛宴
+Skill/S_Tiamat_5_Description, Text,,만약 자신의 거울이 2 이하가 아니라면 초과회복으로 바뀝니다.,"If Tiamat has at least 2 stacks of Mirror and the target has no Healing Gauge Protection, convert to Overhealing.",自身の<color=#8D38C9>ミラー</color>のストック数が2以下の場合、代わりにオーバーヒールする。,若自身的镜面层数不低于2且目标无体力极限，改为超额治疗。,若自身的鏡面層數不低於2且目標無體力極限，改為超額治療。
+Skill/S_Tiamat_5_Name, Text,,양면의 거울,Mirror Image,両面鏡像 ,双面镜像,雙面鏡像
+Skill/S_Tiamat_5_Plus_0_Name, Text,,반격!,Counterattack!,反撃！,反击！,反擊！
+Skill/S_Tiamat_5_Plus_1_Name, Text,,반격!,Counterattack!,反撃！,反击！,反擊！
+Skill/S_Tiamat_6_Description, Text,,끝없는 주조 : 2,Endless Casting: 2,エンドレス・キャスト：2,无尽铸造：2,無盡鑄造：2
+Skill/S_Tiamat_6_Name, Text,,재난의 연못,Well of Calamity,災禍の泉,灾难法池,災難法池
+Skill/S_Tiamat_7_Description, Text,,최대 3회까지 사용 가능,Can be used up to 3 times.,最大で3回まで使用可能,至多可使用3次,至多可使用3次
+Skill/S_Tiamat_7_Name, Text,,예지의 연못,Well of Precognition,予知の泉,预知法池,預知法池
+Skill/S_Tiamat_8_Description, Text,,끝없는 주조 : 3,Endless Casting: 3,エンドレスキャスト：3,无尽铸造：3,無盡鑄造：3
+Skill/S_Tiamat_8_Name, Text,,척력의 돔,Repulsion Dome,フィードバック,斥力穹窿,斥力穹窿
+Skill/S_Tiamat_9_Description, Text,,자신의 거울 1중첩 당 이 기술의 피해가 &c만큼 추가됩니다.,"For each stack of Mirror on Tiamat, this skill deals an additional &c damage.",自身の<color=#8D38C9>ミラー</color>のストック数1毎に、&cダメージを追加で与える。,自身每有一层镜面增益，本技能额外造成&c点伤害,自身每有一層鏡面增益，本技能額外造成&c點傷害
+Skill/S_Tiamat_9_Name, Text,,환광폭탄,Phantom Blast,エーテルブラスト,幻光爆弹,幻光爆彈
+Skill/S_Tiamat_LucyD_0_Description, Text,,"이 턴에만, 대상의 스킬은 각각 50% 확률로 자신 혹은 티아마트에게 거울을 1중첩 부여합니다.","For this turn, when the target uses a skill, there is a 50% chance to grant themselves 1 stack of Mirror, otherwise grant Tiamat 1 stack of Mirror.",このターン中、対象のスキルは自身かティアマトに50%の確率で<color=#8D38C9>ミラー</color>を1ストック与える。,本回合内，目标释放自己的技能时有50%概率使自身获得1层镜面增益，否则使提亚玛特获得1层镜面增益。,本回合內，目標釋放自己的技能時有50%概率使自身獲得1層鏡面增益，否則使提亞瑪特獲得1層鏡面增益。
+Skill/S_Tiamat_LucyD_0_Name, Text,,여왕 - 정위치,The Empress - Upright,女王 - 定位置,女皇-正位,女皇-正位
+Skill/S_Tiamat_LucyD_1_Description, Text,,티아마트가 거울을 2중첩 얻습니다.,Immediately grant Tiamat 2 stacks of Mirror.,ティアマトは即座に<color=#8D38C9>ミラー</color>を2ストック得る。,立刻使提亚玛特获得2层镜面增益。,立刻使提亞瑪特獲得2層鏡面增益。
+Skill/S_Tiamat_LucyD_1_Name, Text,,여왕 - 역위치,The Empress - Reversed,女王 - 逆位置,女皇-逆位,女皇-逆位
+Skill/S_Tiamat_LucyD_Description, Text,,"스킬을 두 장 뽑습니다.
+만약 티아마트가 쓰러지지 않았다면, 하나를 선택합니다.
+- 이 턴에만, 대상의 스킬은 각각 50퍼센트 확률로 자신 혹은 티아마트에게 거울을 1중첩 부여합니다.
+- 혹은, 티아마트가 거울을 2중첩 얻습니다.","Draw 2 skills.
+If Tiamat is alive, choose:
+-For this turn, when the target uses a skill, there is a 50% chance to grant themselves 1 stack of Mirror, otherwise grant Tiamat 1 stack of Mirror.
+-Immediately grant Tiamat 2 stacks of Mirror.","スキルを2枚引く。
+ティアマトが死亡していない場合、次から選択する：
+-このターン中、対象のスキルは自身かティアマトに50%の確率で<color=#8D38C9>ミラー</color>を1ストック与える。
+-ティアマトは即座に<color=#8D38C9>ミラー</color>を2ストック得る。","抽取2个技能
+若提亚玛特存活，选择：
+ -本回合内，目标释放自己的技能时有50%概率使自身获得1层镜面增益，否则使提亚玛特获得1层镜面增益。
+ -立刻使提亚玛特获得2层镜面。","抽取2個技能
+若提亞瑪特存活，選擇：
+ -本回合內，目標釋放自己的技能時有50%概率使自身獲得1層鏡面增益，否則使提亞瑪特獲得1層鏡面增益。
+ -立刻使提亞瑪特獲得2層鏡面。"
+Skill/S_Tiamat_LucyD_Name, Text,,여왕의 추억,Queen's Remembrance,女帝の追憶,女王追忆,女王追憶
+Skill/S_Tiamat_R10_Description, Text,,"<b>모든 거울을 소모합니다.</b> 소모한 거울 1중첩 당 모든 적의 행동 카운트가 1 늘어나고, '시간침하'를 1중첩 얻습니다. 또한, 소모한 거울 2중첩마다 스킬을 한 장 뽑습니다.","<b>Consume all Mirror stacks</b>. For each stack consumed, increase all enemies' countdown by 1 and gain 1 stack of ""Time Subsidence"". For every 2 stacks consumed, draw 1 skill.","<b><color=#8D38C9>ミラー</color>を全て除去する</b>除去した<color=#8D38C9>ミラー</color>のストック数1毎に、[時間の拡張]を1ストック得て、敵の行動カウント+1。
+除去した<color=#8D38C9>ミラー</color>のストック数1毎にスキルを1枚引く。",<b>消耗所有镜面层数</b>，每消耗一层使所有敌人的倒计时+1并获得一层“时间沉降”增益，每消耗2层便抽取一个技能。,<b>消耗所有鏡面層數</b>，每消耗一層使所有敵人的倒計時+1並獲得一層“時間沉降”增益，每消耗2層便抽取一個技能。
+Skill/S_Tiamat_R10_Name, Text,,시간왜곡,Time Warp,タイム・ワープ,时间扭曲,時間扭曲
+Skill/S_Tiamat_R11_Description, Text,,"아군의 모든 거울을 소모하고, 소모한 거울 중첩 수 만큼 &a피해의 추가 공격이 발동됩니다.
+대상이 보스라면, <b>회귀</b> 대신에 기절을 부여합니다.","Consume Mirror stacks from other allies. For each stack consumed, deal an additional &a damage to the target.
+Stuns bosses instead of applying <b>Return to Origin</b>.","味方が持つ<color=#8D38C9>ミラー</color>のストックを全て除去し、除去した<color=#8D38C9>ミラー</color>のストック数、追加攻撃が発動する。
+対象がボスの場合は、<color=#FFA636FF><b>回帰</b></color>代わりにスタンを与える。","释放时消耗其他友军的镜面层数，根据消耗镜面的层数对目标追加攻击，每次造成&a点伤害。
+对boss造成眩晕而非<b>回归原位</b>。","釋放時消耗其他友軍的鏡面層數，根據消耗鏡面的層數對目標追加攻擊，每次造成&a點傷害。
+對boss造成眩暈而非<b>迴歸原位</b>。"
+Skill/S_Tiamat_R11_Name, Text,,중력함정,Gravity Trap,重力の泉,重力陷阱,重力陷阱
+Skill/S_Tiamat_R12_Description, Text,,끝없는 주조 : 2,Endless Casting: 2,エンドレス・キャスト：2,无尽铸造：2,無盡鑄造：2
+Skill/S_Tiamat_R12_Name, Text,,영혼 분쇄,Mind Shatter,マインド・クラック,心灵粉碎,心靈粉碎
+Skill/S_Tiamat_R12_Plus_Name, Text,,반격!,Counterattack!,反撃だ！,反击！,反擊！
+Skill/S_Tiamat_R13_Description, Text,,"전투 시작 시 덱의 맨 위에 올려놓습니다.
+카드를 한 장 뽑고, 자신의 기술을 환광분출로 교체합니다.
+패에서 한 턴이 지나면, 이 스킬을 버리고 스킬을 두 장 뽑습니다.","At the start of battle, place this at the top of the deck.
+Draw 1 skill and replace all your skills in hand with Phantom Surge.
+After holding it for 1 turn, banish this skill and draw 2 skills.","戦闘開始時、デッキの一番上に置く。
+スキルを1枚引き、自身のスキルをすべて「空間の波動」に変化させる。
+1ターン後、これを捨てスキルを2枚引く。","战斗开始时，放在牌库的最上方。
+抽取一个技能，并将手中自己的技能替换为幻光涌流
+握在手中一回合后，放逐该技能并抽取2个技能。","戰鬥開始時，放在牌庫的最上方。
+抽取一個技能，並將手中自己的技能替換為幻光湧流
+握在手中一回合後，放逐該技能並抽取2個技能。"
+Skill/S_Tiamat_R13_Name, Text,,칼날 소환,Call of Blades,ブレードコール,利刃呼唤,利刃呼喚
+Skill/S_Tiamat_R13_Plus_Description, Text,,"만약 자신의 거울이 3중첩 이하가 아니라면, 천도만과 1중첩을 부여합니다.
+대상을 제외한 모든 적의 천도만과를 1중첩으로 초기화시킵니다.","If Tiamat has at least 3 stacks of Mirror, apply an additional stack of Thousand Cuts.
+Reset the Thousand Cuts stacks of all enemies except the target to 1.","自身の<color=#8D38C9>ミラー</color>のストック数が3以上の場合、[サウザンド・カット]のストックを追加で1与える。
+対象以外の敵全体の[サウザンド・カット]のストック数を1に変更する。","释放时若自身的镜面层数不低于3，额外施加一层千刀万剐
+将除目标外的敌人的千刀万剐层数重置为1","釋放時若自身的鏡面層數不低於3，額外施加一層千刀萬剮
+將除目標外的敵人的千刀萬剮層數重置為1"
+Skill/S_Tiamat_R13_Plus_Name, Text,,환광분출,Phantom Surge,空間の波動,幻光涌流,幻光湧流
+SkillExtended/SkillEn_Tiamat_0_Name, Text,,자신과 티아마트가 거울을 1중첩 얻습니다.,Grant yourself and Tiamat 1 stack of Mirror each.,自身とティアマトは共に<color=#8D38C9>ミラー</color>を1ストック得る。,使自身与提亚玛特各获得1层镜面增益,使自身與提亞瑪特各獲得1層鏡面增益
+SkillExtended/SkillEn_Tiamat_1_Name, Text,,다른 모든 아군의 거울 1중첩을 자신에게로 옮깁니다.,Transfer 1 stack of Mirror from all other allies to yourself.,味方全員が持つ<color=#8D38C9>ミラー</color>を1ストック自身に移す,将所有其他友军的1层镜面增益转移至自身,將所有其他友軍的1層鏡面增益轉移至自身
+SkillKeyword/KeyWord_Tiamat_Desc, Text,,"자신이 가진 거울 버프 1중첩 당 이 기술의 비용이 1 감소합니다.(최대 표시된 만큼만 감소.)
+사용 시, 표시된 수치 만큼의 거울 중첩을 소모합니다.","For each stack of Mirror on Tiamat, reduce this skill's cost by 1 (up to the displayed value).
+When used, consume up to the displayed number of Mirror stacks.","自身が持つ<color=#8D38C9>ミラー</color>のストック数1毎に、このスキルのコストは1減少する。
+使用時、このカウント数と同じストック数<color=#8D38C9>ミラー</color>を除去する。","自身每有1层镜面，本技能的费用减少1点（至多减少等同于标识数值的费用）
+释放时，消耗至多等同于标识数值的镜面层数。","自身每有1層鏡面，本技能的費用減少1點（至多減少等同於標識數值的費用）
+釋放時，消耗至多等同於標識數值的鏡面層數。"
+SkillKeyword/KeyWord_Tiamat_Name, Text,,끝없는 주조,Endless Casting,エンドレス・キャスティング,无尽铸造,無盡鑄造
+,,,,,,,
+,,,,,,,
+,,,,,,,
+

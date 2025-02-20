@@ -1,0 +1,216 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_SilverWolf_10_Description,Text,,,,,,
+Buff/B_SilverWolf_10_Name,Text,,현실,Reality,,现实,現實
+Buff/B_SilverWolf_10buff_Description,Text,,,,,,
+Buff/B_SilverWolf_10buff_Name,Text,,가상,Phantom,,幻影,幻影
+Buff/B_SilverWolf_11debuff_Description,Text,,,,,,
+Buff/B_SilverWolf_11debuff_Name,Text,,악성코드,Malicious Code,,恶意代码,惡意代碼
+Buff/B_SilverWolf_11dot_Description,Text,,,,,,
+Buff/B_SilverWolf_11dot_Name,Text,,양자얽힘,Entanglement,,纠缠,糾纏
+Buff/B_SilverWolf_12_Debuff_Description,Text,,,,,,
+Buff/B_SilverWolf_12_Debuff_Name,Text,,약점 침입,Vulnerability Intrusion,,漏洞侵入,漏洞侵入
+Buff/B_SilverWolf_14_Description,Text,,,,,,
+Buff/B_SilverWolf_14_Name,Text,,페이로드,Attack Payload,,攻击载荷,攻擊載荷
+Buff/B_SilverWolf_15_Description,Text,,,,,,
+Buff/B_SilverWolf_15_Name,Text,,공격력감소,ATK Reduction,,攻击力降低,攻擊力降低
+Buff/B_SilverWolf_16_Description,Text,,,,,,
+Buff/B_SilverWolf_16_Name,Text,,격파,Weakness Break,,弱点击破,弱點擊破
+Buff/B_SilverWolf_18_Description,Text,,피격시 1스택을 소모해 그 피해를 0으로 만듭니다,"When taking damage, reduce that damage to 0. 
+Lose 1 stack each time damage is taken.",,"受到伤害时将该伤害降低为0。
+受到伤害时减少1层。
+","受到傷害時將該傷害降低為0。
+受到傷害時減少一層。"
+Buff/B_SilverWolf_18_Name,Text,,홀로그램 데코이,Holographic Decoy,,全息投影诱饵,全息投影誘餌
+Buff/B_SilverWolf_2_Description,Text,,은랑 스킬 강화,Silver Wolf's skills gain enhanced effects.,,银狼的部分技能获得强化效果。,銀狼的部分技能獲得强化效果。
+Buff/B_SilverWolf_2_Name,Text,,오버레이 네트워크,Overlapping Network,,重叠网络,重叠網絡
+Buff/B_SilverWolf_3_buff_Description,Text,,,,,,
+Buff/B_SilverWolf_3_buff_Name,Text,,속성 증가,Stat Boost,,数值提升,數值提升
+Buff/B_SilverWolf_4_Description,Text,,,,,,
+Buff/B_SilverWolf_4_Name,Text,,방어력 감소,DEF Reduction,,防御力降低,防禦力降低
+Buff/B_SilverWolf_5_Buff_Description,Text,,해킹,Minor cheats don't count as cheats.,,小开不算开。,小開不算開。
+Buff/B_SilverWolf_5_Buff_Name,Text,,콘솔 명령어,Golden Finger,,金手指,金手指
+Buff/B_SilverWolf_5_Defense_Description,Text,,치트키,Nullifies all damage.,,免疫所有伤害。,免疫所有傷害。
+Buff/B_SilverWolf_5_Defense_Name,Text,,무적치트,Active: Damage Immunity,,开启:伤害免疫,開啓：傷害免疫
+Buff/B_SilverWolf_6_Description,Text,,,,,,
+Buff/B_SilverWolf_6_Name,Text,,약점삽입,Weakness Implant,,弱点植入,弱點植入
+Buff/B_SilverWolf_8_Description,Text,,,,,,
+Buff/B_SilverWolf_8_Name,Text,,좀비 네트워크,Botnet,,僵尸网络,僵尸網絡
+Buff/B_SilverWolf_E0_Description,Text,,,,,,
+Buff/B_SilverWolf_E0_Name,Text,,에테르 코드,Ether Encoding,,以太编码,以太編碼
+Buff/P_SilverWolf_0_Description,Text,,"1인 대상 공격시 대상에게 100%의 기본확률로 3턴간【결함】을 부여합니다.
+매 턴 시작시마다 <오버레이 네트워트>한장을 손에 넣습니다.","Each time Silver Wolf uses an attack skill on a single target, there is a 100% base chance to implant [Bug] on the target, lasting 3 turns. 
+At the start of each turn, add ""Overlapping Network"" to your hand.",,"银狼每次施放攻击技能后若目标只有一个，则有100%的基础概率给目标植入【缺陷】，持续3回合。
+每回合开始时，将“重叠网络”拿到手中。","銀狼每次施放攻擊技能后若目標只有一個，則有100%的基礎概率給目標植入【缺陷】，持續3回合。
+每回合開始時，將“重叠網絡”拿到手中。"
+Buff/P_SilverWolf_0_Name,Text,,프로그램 응답 대기 중,Awaiting System Response...,,等待程序响应...,等待程序響應...
+Buff/P_SilverWolf_1_Description,Text,,,,,,
+Buff/P_SilverWolf_1_Name,Text,,결함,Bug,,缺陷,缺陷
+Character/SilverWolf_CampSelectWord,Text,,이 것도 엘리오의 계획이니?,Is this part of Elio's script too?,,这也是艾利欧的剧本吗？,這也是艾利歐的劇本嗎？
+Character/SilverWolf_PassiveDes,Text,,"은랑은 1인을 대상으로 공격시 기본 100% 확률로 3턴간 대상의 공격력 15%감소, 방어력 12%감소, 속도 1감소 디버프인 【결함】을 부여 할 수 있습니다.
+또한 매 턴 시작시마다 <오버레이 네트워트>한장을 손에 넣습니다.","Silver Wolf can inflict [Bug]: Reduces ATK by 15%, DEF by 12%, and SPD by 1. Each time she uses an attack skill on a single target, there is a 100% base chance to implant [Bug], lasting 3 turns. 
+At the start of each turn, add ""Overlapping Network"" to your hand.",,"银狼能够制造：攻击力降低15%，防御力降低12%，速度降低1点的【缺陷】。
+银狼每次施放攻击技能后若目标只有一个，则有100%的基础概率给目标植入【缺陷】，持续3回合。
+每回合开始时，将“重叠网络”拿到手中。","銀狼能夠製造：攻擊力降低15%，防禦力降低12%，速度降低1點的【缺陷】。
+銀狼每次施放攻擊技能后若目標只有一個，則有100%的基礎概率給目標植入【缺陷】，持續3回合。
+每回合開始時，將“重叠網絡”拿到手中。"
+Character/SilverWolf_PassiveName,Text,,프로그램 응답 대기 중,Awaiting System Response...,,等待程序响应...,等待程序響應...
+Character/SilverWolf_SelectInfo,Text,,"은랑은 스텔라론 헌터의 멤버 중 하나로 슈퍼해커입니다.
+우주를 하나의 커다란 게임으로 생각하고 즐기고 있습니다.
+현실데이터를 수정 할 수 있는 에테르 코드 조작을 마스터했습니다.
+
+적에게 여러가지 디버프 효과를 부여해 전세를 유리하게 만드는 공격형 캐릭터입니다.","Silver Wolf is a member of the ""Stellaron Hunters"" and elite hacker. Views the cosmos as an immersive simulation game. Masters ""Ether Editing"" to alter reality data. 
+
+Excels at debuffing enemies and manipulating battle flow with her passive, serving as an offensive role.",,"银狼是「星核猎手」的成员，骇客高手。
+将宇宙视作大型沉浸式模拟游戏，玩乐其中。
+掌握了能够修改现实数据的「以太编辑」。
+
+擅长给敌人施加各种减益效果，利用被动使战局变得更加有利，是团队中的进攻型角色。","銀狼是「星核獵手」的成員，駭客高手。
+將宇宙視作大型沉浸式模擬游戲，玩樂其中。
+掌握了能夠修改現實數據的「以太編輯」。
+
+擅長給敵人施加各種減益效果，利用被動使戰局變得更加有利，是團隊中的進攻型角色。"
+Character/SilverWolf_Text_Battle_AllyND_0,Text,,좀 까다롭네,Seems a bit tricky.,,好像有点棘手。,好像有點棘手。
+Character/SilverWolf_Text_Battle_Cri_0,Text,,훗 겨우 이거야? 느리네!,That speed? Too slow!,,就这速度？太慢了！,就這速度？太慢了！
+Character/SilverWolf_Text_Battle_Healed_0,Text,,좋아 한판더,Nice heals.,,奶的不错。,奶的不錯。
+Character/SilverWolf_Text_Battle_Idle_0,Text,,이번엔 좀 재밌게 해줄래?,Can you make this more fun for me?,,这次能让我玩的开心点么？,這次能讓我玩的開心點麽？
+Character/SilverWolf_Text_Battle_Idle_1,Text,,음 적이 더 추가됐어,"Yo, enemies respawned.",,哟，敌人刷新了呀。,喲，敵人刷新了呀。
+Character/SilverWolf_Text_Battle_Kill_0,Text,,이게 다야?,That's it?,,就这？,就這？
+Character/SilverWolf_Text_Battle_ND_0,Text,,일이 까다로워졌는걸?,Things are getting messy.,,事情变得棘手了。,事情變得棘手了。
+Character/SilverWolf_Text_Battle_Start_0,Text,,벌써 걸려들다니,Already hooked this fast?,,这么快就上钩了？,這麽快就上鈎了？
+Character/SilverWolf_Text_Field_GetItem_0,Text,,준비됐으면 시작하자,Logged in today too?,,今天也上线啦？,今天也上綫啦？
+Character/SilverWolf_Text_Field_Idle_0,Text,,전투를 최적화 해야겠어,"Finally, time to game.",,终于可以打游戏了。,終於可以打游戲了。
+Character/SilverWolf_Text_Field_Potion_P_0,Text,,좋았어,Good.,,很好。,很好。
+Character/SilverWolf_Text_PharosLeader_0,Text,,응?,Crap.,,糟了。,糟了。
+Character/SilverWolf_Text_PharosLeader_1,Text,,글렀어,Not good.,,不好。,不好。
+Character/SilverWolf_Text_PharosLeader_2,Text,,난...,I...,,我...,我...
+Character/SilverWolf_name,Text,,은랑,Silver Wolf,,银狼,銀狼
+Item_Equip/E_SilverWolf_0_Description,Text,,"<color=#919191></color>공격시 기본확률 100%로 대상에게 1턴간 【에테르 코드】를 부여합니다.
+
+<color=#919191>[계속 내리는 비]
+     역시 비가 오는 날에는 게임이 최고야 - 은랑
+","<color=#919191></color>Attacks have a 100% base chance to inflict [Ether Encoding] on the target for 1 turn.
+
+<color=#919191>[A Light Cone beyond this world]
+The rain won't keep falling, but your head will. - Silver Wolf",,"<color=#919191></color>攻击时有100%的基础概率给目标施加【以太编码】，持续1回合。
+
+<color=#919191>[一枚不属于这个世界的光锥]
+     雨不会一直下，但是头会。 - 银狼
+","<color=#919191></color>攻擊時有100%的基礎概率給目標施加【以太編碼】，持續1回合。
+
+<color=#919191>[一枚不屬於這個世界的光錐]
+     還是下雨天打游戲最痛快。 - 银狼
+"
+Item_Equip/E_SilverWolf_0_name,Text,,계속 내리는 비,Incessant Rain,,雨一直下,雨一直下
+Item_Equip/E_SilverWolf_1_Description,Text,,"공격시 적에게 ""빛의 날칼""을 방출합니다.","Attacks release ""Light Blades"" at enemies.
+
+<color=#919191>Stellaron Hunters, blades out.",,"攻击时向敌人释放""光刃""。
+
+<color=#919191>「星核猎手」,  亮出光刃。","攻擊時向敵人釋放""光刃""。 
+
+<color=#919191>「星核獵手」,  亮出光刃。"
+Item_Equip/E_SilverWolf_1_name,Text,,프로메테우스,Prometheus,,普罗米修斯,普羅米修斯
+Skill/S_SilverWolf_10_Description,Text,,,,,,
+Skill/S_SilverWolf_10_Name,Text,,가상현실,Phantom Reality,,幻影现实,幻影現實
+Skill/S_SilverWolf_11_Description,Text,,,,,,
+Skill/S_SilverWolf_11_Name,Text,,주입,Inject,,注入,注入
+Skill/S_SilverWolf_12_Description,Text,,,,,,
+Skill/S_SilverWolf_12_Name,Text,,주석,Side Note,,旁注,旁注
+Skill/S_SilverWolf_13_Description,Text,,"디버프 상태의 적을 공격시 추가로 &a데미지를 줍니다.
+<color=#FFA636FF>오버레이 네트워크：디버프 1스택당 추가 &x데미지(최대&y데미지)","Deals +&a damage when attacking Taunted enemies.
+<color=#FFA636FF>Overlapping Network: Damage increases by &x per debuff on target (max +&y).",,"攻击具有嘲讽状态的敌人时额外造成&a点伤害。
+<color=#FFA636FF>重叠网络：目标每有1层减益，对其造成的伤害提高&x点，最多提高&y点。","攻擊具有嘲諷狀態的敵人時額外造成&a點傷害。
+<color=#FFA636FF>重叠網絡：目標每有1層減益，對其造成的傷害提高&x點，最多提高&y點。"
+Skill/S_SilverWolf_13_Name,Text,,무차별 대입 공격,Brute Force,,暴力破解,暴力破解
+Skill/S_SilverWolf_14_Description,Text,,1코스트의 <좀비 네트워크> <주입> <주석> 중 하나를 선택해 손에 넣습니다.,"After use, add either ""Botnet"", ""Inject"", or ""Side Note"" to your hand.",,"施放后可以选择将“僵尸网络”,“注入”,“旁注”其中之一拿到手中。","施放后可以選擇將“僵尸網絡”,“注入”,“旁注”其中之一拿到手中。"
+Skill/S_SilverWolf_14_Name,Text,,페이로드,Attack Payload,,攻击载荷,攻擊載荷
+Skill/S_SilverWolf_15_Description,Text,,"디버프<sprite=0>가 있는 적만을 대상으로 할 수 있습니다.
+사용 후 마나를 2 회복합니다.","Can only target enemies with Weakened <sprite=0> debuffs. 
+Restores 2 Mana after use.",,"只能指定持有弱化<sprite=0>减益的目标。
+施放后恢复2点法力值。","只能指定持有弱化<sprite=0>減益的目標。
+施放后恢復2點法力值。"
+Skill/S_SilverWolf_15_Name,Text,,소셜 엔지니어링,Social Engineering,,社会工程,社會工程
+Skill/S_SilverWolf_16_Description,Text,,"전투 시작시 덱 맨 위에 놓습니다.
+디버프<sprite=0>가 있는 적만을 대상으로 할 수 있습니다.
+적의 방어력을 무시합니다.
+데미지를 준 뒤“|프로세스 강제종료|”를 1회 추가 발동합니다.
+<color=#FFA636FF>오버레이 네트워크：디버프 1스택당 추가 &x데미지(최대&y데미지)","Starts combat at top of deck. 
+Can only target Weakened <sprite=0> enemies. 
+Ignores DEF. 
+After dealing damage, trigger ""|Force Quit Program|"".
+<color=#FFA636FF>Overlapping Network: Damage increases by &x per debuff on target (max +&y).",,"战斗开始时，放在牌库的最上方。
+只能指定持有弱化<sprite=0>减益的目标。
+无视敌人的防御力。
+造成伤害后追加释放一次“|强制结束进程|”。
+<color=#FFA636FF>重叠网络：目标每有1层减益，对其造成的伤害提高&x点，最多提高&y点。","戰鬥開始時，放在牌庫的最上方。
+只能指定持有弱化<sprite=0>減益的目標。
+無視敵人的防禦力。
+造成傷害后追加釋放一次“|强制結束進程|”。
+<color=#FFA636FF>重叠網絡：目標每有1層減益，對其造成的傷害提高&x點，最多提高&y點。"
+Skill/S_SilverWolf_16_Name,Text,,완벽한 약점 격파,100% Weakness Break,,百分百弱点击破,百分百弱點擊破
+Skill/S_SilverWolf_17_0_Description,Text,,스킬 교환 횟수 3회 증가,Grants 3 additional Exchanges.,,增加3次技能交换次数。,增加3次技能交換次數。
+Skill/S_SilverWolf_17_0_Name,Text,,실외게임,Outdoor Gaming,,室外游戏,室外游戲
+Skill/S_SilverWolf_17_1_Description,Text,,마나 2회복,Restores 2 Mana.,,恢复2点法力值。,恢復2點法力值。
+Skill/S_SilverWolf_17_1_Name,Text,,실내게임,Indoor Gaming,,室内游戏,室内游戲
+Skill/S_SilverWolf_17_Description,Text,,"게임은 게임일뿐.
+
+마나 2회복 혹은 스킬 교환 횟수 3회 추가 중 1택","Gaming for gaming's sake.
+
+Choose: Restore 2 Mana or gain 3 Exchanges.",,"游戏就只是为了游戏。
+
+选择-恢复2点法力值或增加3次技能交换次数。","游戲就只是爲了游戲。
+
+選擇-恢復2點法力值或增加3次技能交換次數。"
+Skill/S_SilverWolf_17_Name,Text,,펑크로드정신,Punklorde Mentality,,朋克洛德精神,朋克洛德精神
+Skill/S_SilverWolf_18_Description,Text,,,,,,
+Skill/S_SilverWolf_18_Name,Text,,홀로그램 프로젝션,Holographic Decoy,,全息投影,全息投影誘餌
+Skill/S_SilverWolf_1_Description,Text,,,,,,
+Skill/S_SilverWolf_1_Name,Text,,|프로세스 강제종료|,|Force Quit Program|,,|强制结束进程|,|强制結束進程|
+Skill/S_SilverWolf_2_Description,Text,,중요한건 숫자가 아니라 경험이야!,Stats don't matter—experience and skill do!,,重要的不是数值，是体验，是操作！,重要的不是數值，是體驗，是操作！
+Skill/S_SilverWolf_2_Name,Text,,오버레이 네트워크,Overlapping Network,,重叠网络,重叠網絡
+Skill/S_SilverWolf_3_Description,Text,,"모든 아군의 디버프를 1개 제거합니다.
+모든 아군의 과부하를 제거합니다.
+살아남은 아군 1체당 1장의 스킬을 뽑습니다.","Removes 1 random debuff from all allies. 
+Clears all allies' Overload. 
+Draw 1 skill per alive party member.",,"解除所有友军随机1个减益。
+消除所有友军过载。
+场上每有1位队员存活，抽取1个技能。","解除所有友軍隨機1個減益。
+消除所有友軍過載。
+場上每有1位隊員存活，抽取1個技能。"
+Skill/S_SilverWolf_3_Name,Text,,에테르 편집,Ether Editing,,以太编辑,以太編輯
+Skill/S_SilverWolf_4_0_Description,Text,,,,,,
+Skill/S_SilverWolf_4_0_Name,Text,,,,,,
+Skill/S_SilverWolf_4_Description,Text,,"대상이 보유한 디버프 1개당 &a의 추가데미지(최대 5스택).
+<color=#FFA636FF>오버레이 네트워크：디버프 1스택당 추가 &x데미지(최대&y데미지)","Deals +&a damage per debuff on target (max 5 stacks). Stacks with ""Overlapping Network"".
+<color=#FFA636FF>Overlapping Network: Damage increases by &x per debuff on target (max +&y).",,"目标每有1层减益，则额外造成&a点伤害，最多计算5次，该效果可与“重叠网络”增益叠加。
+<color=#FFA636FF>重叠网络：目标每有1层减益，对其造成的伤害提高&x点，最多提高&y点。","目標每有1層減益，則額外造成&a點傷害，最多計算5次，該效果可與“重叠網絡”增益叠加。
+<color=#FFA636FF>重叠網絡：目標每有1層減益，對其造成的傷害提高&x點，最多提高&y點。"
+Skill/S_SilverWolf_4_Name,Text,,|계정 정지|,|User Banned|,,|账号已封禁|,|賬號已封禁|
+Skill/S_SilverWolf_5_Description,Text,,"전투를 최적화 해야겠어.
+
+전투 시작시 덱 맨 위에 놓습니다.","This combat system needs optimization.
+
+Starts combat at top of deck.",,"战斗体验该优化了。
+
+战斗开始时，放在牌库的最上方。","戰鬥體驗該優化了。
+
+戰鬥開始時，放在牌庫的最上方。"
+Skill/S_SilverWolf_5_Name,Text,,콘솔 명령어,"Hmph, activating Golden Finger.",,嚯，开个金手指,嚯，開個金手指。
+Skill/S_SilverWolf_6_Description,Text,,<color=#FFA636FF>오버레이 네트워크：디버프 1스택당 추가 &x데미지(최대&y데미지),<color=#FFA636FF>Overlapping Network: Damage increases by &x per debuff on target (max +&y).,,<color=#FFA636FF>重叠网络：目标每有1层减益，对其造成的伤害提高&x点，最多提高&y点。,<color=#FFA636FF>重叠網絡：目標每有1層減益，對其造成的傷害提高&x點，最多提高&y點。
+Skill/S_SilverWolf_6_Name,Text,,수정하시겠습니까?,Allow Changes?,,是否允许更改？,是否允許更改？
+Skill/S_SilverWolf_7_Description,Text,,,,,,
+Skill/S_SilverWolf_7_Name,Text,,|시스템 경고|,|System Warning|,,|系统警告|,|系統警告|
+Skill/S_SilverWolf_8_Description,Text,,,,,,
+Skill/S_SilverWolf_8_Name,Text,,좀비 네트워크,Botnet,,僵尸网络,僵尸網絡
+Skill/S_SilverWolf_9_Description,Text,,마나를 1회복하고 스킬을 2장 뽑습니다.,"Restores 1 Mana. 
+Draw 2 skills.",,"恢复1点法力值。
+抽取2个技能。","恢复1點法力值。
+抽取2個技能。"
+Skill/S_SilverWolf_9_Name,Text,,생성,Generate,,生成,生成
+Skill/S_SilverWolf_E0_Description,Text,,,,,,
+Skill/S_SilverWolf_E0_Name,Text,,에테르 코드,Ether Encoding,,以太编码,以太編碼
+Skill/S_SilverWolf_E1_Description,Text,,,,,,
+Skill/S_SilverWolf_E1_Name,Text,,빛의 칼날,Light Blade,,光刃,光刃
+Skill/S_SilverWolf_P_0_Description,Text,,,,,,
+Skill/S_SilverWolf_P_0_Name,Text,,,,,,
+,,,,,,,
+

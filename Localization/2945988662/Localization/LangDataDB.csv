@@ -1,0 +1,708 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Kail_4_Description, Text,,,,,,
+Buff/B_Kail_4_Name, Text,,기합,Focus,,屏息凝神,
+Buff/B_Kail_7_S_Description, Text,,반격 주사위가 모든 적을 65%의 피해량으로 공격합니다. 만약 대상이 하나라면 피해량은 감소하지 않습니다.,"Counter Dice attacks all enemies for 65% damage. If there is only one target, the damage is not reduced.",,反击骰子以65%的伤害攻击所有敌人;若只有一个敌人则伤害不变。,
+Buff/B_Kail_7_S_Name, Text,,붉은 흉터,Crimson Scar,,猩红创痕,
+Buff/B_Kail_7_T_Description, Text,,"칼리에게 도발됨.
+대상 공격시 제거.","Taunted by Kali.
+Removed when attacking the target.",,"优先攻击卡莉
+攻击该目标时解除",
+Buff/B_Kail_7_T_Name, Text,,공포,Fear,,恐惧,
+Buff/B_Kail_8_Description, Text,,<color=#919191>피...</color>,<color=#919191>Blood...</color>,,<color=#919191>血...</color>,
+Buff/B_Kail_8_Name, Text,,갈증,Thirst,,渴血,
+Buff/B_Kail_9_S_Description, Text,,반격 주사위 적중 시 '공포'를 부여합니다.,"When Counter Dice hits, applies 'Fear' debuff (<sprite=0>90%).",,反击骰子施加“畏惧”减益(<sprite=0>90%).,
+Buff/B_Kail_9_S_Name, Text,,웃음,Smile,,笑靥,
+Buff/B_Kail_9_T_Description, Text,,<color=#919191>저건 뭐야...</color>,<color=#919191>What... is that...</color>,,<color=#919191>那...是什么...</color>,
+Buff/B_Kail_9_T_Name, Text,,공포,Fear,,畏惧,
+Buff/B_Kail_CounterDices_Description, Text,,공격 당하면 가장 위의 반격 주사위를 공격자에게 사용합니다. 만약 중첩의 수가 3 이상이면 2개를 사용합니다.,"When attacked, use the top Counter Dice against the attacker. If the number of stacks is 3 or more, use 2 dice.",,受到攻击时对攻击者使用最上面的1个反击骰子，若骰子数不小于3则使用2个。,
+Buff/B_Kail_CounterDices_Name, Text,,반격 주사위 스택,Counter Dice Stack,,反击骰子池,
+Buff/B_Kail_EC_10_Description, Text,,턴 시작시 모든 적을 도발합니다.,"At the start of the turn, taunt all enemies.
+
+<color=#EC160D>Kill this person... and the shoes are yours.</color>",,"每回合开始时随机嘲讽一个敌人(<sprite=2>100%)。
+
+<color=#EC160D>杀掉这个人……鞋子就是你的了。</color>",
+Buff/B_Kail_EC_10_Name, Text,,반짝임,Sparkle,,闪亮,
+Buff/B_Kail_EC_11_Description, Text,,반격 주사위 사용 시 대상에게 출혈을 0~2 중첩 부여합니다.,"When using Counter Dice, apply 0~2 stacks of Bleeding (<sprite=1>100%) to the target.
+
+<color=#EC160D>While you still have the chance, enjoy that blue sky.</color>",,"使用反击骰子时对一个目标施加0~2层流血(<sprite=1>100%)。
+
+<color=#EC160D>趁你还有机会，好好享受那片青空吧。</color>",
+Buff/B_Kail_EC_11_Name, Text,,포자,Spore,,孢子,
+Buff/B_Kail_EC_12_Description, Text,,대기 후 사용 시 과부하 -1,"After waiting, this character's Overload is reduced by 1.
+
+<color=#8EEC90>“Although you deceived me for so long...”</color>",,"等待后该角色过载-1.
+
+<color=#8EEC90>“虽然你骗了我那么久...”</color>",
+Buff/B_Kail_EC_12_Name, Text,,행복한 기억,Memory,,记忆,
+Buff/B_Kail_EC_13_Description, Text,,스킬 사용 후 손 맨 위의 카드를 버리고 마나 1을 회복합니다.,"After using a skill, discard the top card in hand and recover 1 Mana.
+
+<color=#EC160D>What would it feel like to become a wise person...? To know everything...?</color>",,"每当使用一张牌，丢弃手中最上面的一个技能以回复一点法力值。
+
+<color=#EC160D>成为一名智者……会是什么样的感觉……应该无所不知吧……？</color>",
+Buff/B_Kail_EC_13_Name, Text,,뜯겨나간 지혜,Torn Wisdom,,被扯出的智慧,
+Buff/B_Kail_EC_14_Description, Text,,"아군의 체력이 40% 이하이면, '공포' 중첩이 스킬 적중 시 모든 적에게 부여됩니다.","If an ally's HP is 40% or below, apply 1 stack of 'Fear' to all enemies when hit (<sprite=0>90%).
+
+<color=#EC160D>Helping each other... becoming hands... feet...</color>",,"若该角色体力不高于40%，被击中时对所有敌方施加一层“畏惧”减益（<sprite=0>90%）。
+
+<color=#EC160D>互相……帮助……变成手……脚……</color>",
+Buff/B_Kail_EC_14_Name, Text,,웃음소리,Laughter,,尸体在笑,
+Buff/B_Kail_EC_15_Description, Text,,"이번 전투 동안 회복한 양에 비례하여 공격 피해량과 약화 확률이 증가합니다. (회복한 최대 체력 100% 당 피해량 +1, 약화 확률 +5%, 3회까지 중첩 가능)","During this battle, increase attack damage and debuff chance proportional to the amount healed. (For every 100% of max HP healed, damage +1, debuff chance +5%, up to 3 stacks).
+
+<color=#8EEC90>The smell... is it... this way...</color>",,"该角色每被治疗100%生命值，追加攻击伤害+1、弱化减益成功率+5%(至多3次)。
+
+<color=#8EEC90>味道……是在……这边吗……</color>",
+Buff/B_Kail_EC_15_Name, Text,,흡수,Absorption,,死尸吸收,
+Buff/B_Kail_EC_16_Description, Text,,"반격 주사위 사용 시 사용 대상에게 출혈 1 중첩을 부여합니다.
+상대의 고통 피해 디버프 한 중첩 당 사용자에게 방어력 2%를 부여합니다.","When using a Counter Dice, apply 1 stack of ""Bleeding"" to the target (<sprite=1>70%).
+For each stack of the enemy's Pain debuff, gain 2% Defense.
+
+<color=#EC160D>Because wolves are beings that do evil and deserve punishment...</color>",,"使用反击骰子时对主要目标施加1层“流血”减益（<sprite=1>70%）。
+敌方的每层痛苦减益为该角色提供2%防御力。
+
+<color=#EC160D>因为狼是坏事做尽，且理应受到惩罚的存在……</color>",
+Buff/B_Kail_EC_16_Name, Text,,흉악한 발톱,Ferocious Claws,,凶残利爪,
+Buff/B_Kail_EC_17_Description, Text,,"홀수 턴: 받는 치유량 -10%
+짝수 턴: 받는 치유량 +30%","Odd Turns: Healing received -10%
+Even Turns: Healing received +30%
+
+<color=#EC160D>Death shall dance with all! The fate of being devoured is also fair!</color>",,"奇数回合：受到治疗量-10%.
+偶数回合：受到治疗量+30%.
+
+<color=#EC160D>死亡将与诸位共舞！被吞噬的命运也是公平的！</color>",
+Buff/B_Kail_EC_17_Name, Text,,난,Hydrophobia,,恐水症,
+Buff/B_Kail_EC_18_Description, Text,,출혈이 2배의 피해를 입힙니다.,"""Bleeding"" <sprite=1> deals double damage.
+
+<color=#8EEC90>It's time for a delightful feast! Indulge in the crimson night tainted by madness!</color>",,"“流血”<sprite=1>减益的伤害翻倍。
+
+<color=#8EEC90>愉悦的用餐时间到！纵情享受被疯狂染化的血红之夜！</color>",
+Buff/B_Kail_EC_18_Name, Text,,흡혈,Bloodsucking,,吸血,
+Buff/B_Kail_EC_19_Description, Text,,해당 레벨의 모든 감정 카드 중 하나를 선택할 수 있게 됩니다.,"When discovering Emotion Cards, discover all Emotion Cards of that level.
+
+<color=#8EEC90>Drink thirstily, drain it all.</color>",,"本场战斗中发现情感卡时可以发现所有该等级情感卡。
+
+<color=#8EEC90>如饥似渴，一饮而尽。</color>",
+Buff/B_Kail_EC_19_Name, Text,,포도주,Red Wine,,红酒,
+Buff/B_Kail_EC_1_Description, Text,,캐릭터의 체력이 최대 체력의 50%/35%/25%/0% 이하면 공격력이 15%/25%/35%/50% 증가합니다.,"If the character's HP is 50%/35%/25%/0% or less of their Max HP, Attack increases by 15%/25%/35%/50%.
+
+<color=#EC160D>...These scars make my hair stand on end and my teeth chatter.</color>",,"若该角色的体力不高于50%/35%/25%/0%，则攻击力+15%/25%/35%/50%。
+
+<color=#EC160D>……这些伤疤让我毛骨悚然，牙齿打颤</color>。",
+Buff/B_Kail_EC_1_Name, Text,,붉은 흉터,Scar,,伤疤,
+Buff/B_Kail_EC_20_Description, Text,,"턴 종료시, 반격 주사위 스택의 마지막 반격 주사위의 피해량이 2배가 됩니다. 그리고 반격 주사위 (3~6)을 하나 추가합니다.","At the end of the turn, the damage of the last Counter Dice in the Counter Dice pool is doubled, and a Counter Dice (3~6) is added.
+
+<color=#8EEC90>Hrk... Ugh... Hrk ugh... Help meee!!!</color>",,"回合结束时，反击骰子池内最后一个反击骰子数值翻倍，然后加入一个反击骰子(3~6).
+
+<color=#8EEC90>叽噫……呕窝……叽噫呕……救救我！！！</color>",
+Buff/B_Kail_EC_20_Name, Text,,GoOdbYe,Goodbye,,咕德拜,
+Buff/B_Kail_EC_21_Description, Text,,"어떤 유닛이 군중 제어 효과를 받으면 군중 제어 저항률 +5%. 이 효과가 4번 발동한 후에는 아군이 군중 제어 효과를 받으면 그 효과를 즉시 제거하고, 횟수를 초기화 합니다.","Whenever a unit is affected by a Crowd Control effect, Crowd Control Resistance +5%. After this effect triggers 4 times, the next time an ally is affected by a Crowd Control effect, it is immediately removed, and the count is reset.
+
+<color=#8EEC90>Since people call me that, I must be such a being... The ancient fairy tales are never wrong...</color>",,"每当一个角色获得干扰减益，干扰抵抗力+5%；这个效果累计触发4次后，下一次友方角色进入干扰减益时立即解除并重置此效果。
+
+<color=#8EEC90>既然人们都这么称呼我，那我就该是这样的存在……古老的童话绝不会错……</color>",
+Buff/B_Kail_EC_21_Name, Text,,늑대의 역할,The Role of the Wolf,,狼的角色,
+Buff/B_Kail_EC_22_Description, Text,,아군이 처음으로 공격한 적에게 '표식'을 새깁니다. '표식'은 한 번에 한 대상에게만 새겨질 수 있습니다.,"The first enemy attacked by an ally is marked with ""Mark"" (<sprite=0>80%). Only one target can be marked at a time.
+
+<color=#8EEC90>Stare intently at your prey, and take steps with the determination to kill.</color>",,"每回合第一次击中敌人给予其“集火”减益(<sprite=0>80%)，并去除所有其它敌人的“集火”减益。
+
+<color=#8EEC90>死死盯住你的猎物，抱着必杀无疑的决心迈开脚步。</color>",
+Buff/B_Kail_EC_22_Ex_Description, Text,,<color=#919191><i>우리의 사냥감.</i></color>,<color=#919191><i>Our prey.</i></color>,,<color=#919191><i>这次的狩猎对象</i></color>,
+Buff/B_Kail_EC_22_Ex_Name, Text,,사냥감,Prey,,猎物,
+Buff/B_Kail_EC_22_Name, Text,,사냥감,Prey,,猎物,
+Buff/B_Kail_EC_23_Description, Text,,반격 주사위 적중 시 하나를 추가로 사용합니다.,"When a Counter Dice hits, use an additional one.
+
+<color=#EC160D>All pain is to better understand the opponent. Now, it's time to repay the debt.</color>",,"受到攻击额外使用一颗反击骰子。
+
+<color=#EC160D>所有伤痛都是为了更好地了解对手。现在，是时候还债了。</color>",
+Buff/B_Kail_EC_23_Name, Text,,복수,Revenge,,复仇,
+Buff/B_Kail_EC_2_Description, Text,,반격 주사위 사용 시 2~6의 체력을 회복합니다.,"When using Counter Dice, recover 2~6 HP.
+
+There's a foul smell... calling me...",,"使用反击骰子时恢复2~6点体力。
+
+有股难闻的气息……在呼唤着我……",
+Buff/B_Kail_EC_2_Name, Text,,본능,Predatory Instinct,,掠食本能,
+Buff/B_Kail_EC_3_Description, Text,,"<sprite=0>약화 저항 -10%. '공포' 디버프는 5중첩 까지 쌓이며, 5중첩이 되면 공격력 -10% 효과를 추가로 부여합니다.","<sprite=0>Weaken Resistance -10%. ""Fear"" debuff stacks up to 5 times. At 5 stacks, additionally reduces Attack by 10%.
+
+<color=#EC160D>Must... become... one... again...</color>",,"“畏惧”的最大层数+1,“畏惧”<sprite=0>减益层数叠加至5层时额外降低10%攻击力。
+
+<color=#EC160D>必须……重新……合为……一体……。</color>",
+Buff/B_Kail_EC_3_Name, Text,,시체의 산,Mountain of Corpses,,尸山,
+Buff/B_Kail_EC_4_Description, Text,,<color=#919191>아무것도 없는</color>,<color=#8EEC90>Ku... Cool. Cool.</color>,,"
+
+<color=#8EEC90>库呜……酷。酷</color>。",
+Buff/B_Kail_EC_4_Name, Text,,껍데기,Shell,,躯壳,
+Buff/B_Kail_EC_5_Description, Text,,사용자의 공격력이 속도만큼 증가합니다. (최대 3),"The user's Attack increases by their Speed. (Max 3)
+
+<color=#8EEC90>Need help, meow? Little helper can do anything for you.</color>",,"该角色的每有1点速度使其攻击力+1,最高3点。
+
+<color=#8EEC90>需要帮忙喵？小帮手可以为您做任何事情</color>。",
+Buff/B_Kail_EC_5_Name, Text,,청소,Cleaning,,清洁,
+Buff/B_Kail_EC_6_Description, Text,,사용자가 가하는 피해량의 60% 회복.,"Heals for 60% of damage dealt.
+
+<color=#EC160D>Hao... Ni... Hao? Ni... Hello?</color>",,"攻击吸血+60%.
+
+<color=#EC160D>薅……妮……薅？妮……你好？ </color>",
+Buff/B_Kail_EC_6_Name, Text,,HelLo?,Hello?,,哈啰？,
+Buff/B_Kail_EC_7_Description, Text,,"스킬을 사용할 때마다 중첩을 1개씩 쌓을 수 있습니다. (최대 13) 중첩이 13에 도달하면 공격력 +13%. 치명타 확률 +13%, 명중률 +13%, 치명타 피해량 +13%, 대기 가능 횟수 +13%, 추가 고통 피해 13%. 해당 효과와 중첩은 턴 종료 시 초기화 됩니다. 현재 중첩: &a","Each time a skill is used, gain 1 stack. (Max 13) When stacks reach 13, Attack +13%. Critical Rate +13%, Accuracy +13%, Critical Damage +13%, Standby count +13, additional Pain damage 13%. This effect and stacks reset at the end of the turn. Current stacks: &a
+
+<color=#8EEC90>I share the silence, you pay the price.</color>",,"该角色每从手中使用1个技能获取1个计数，最多获取13个计数。若计数达到13，所有友方攻击力+13%，暴击率+13%，命中率+13%，暴击伤害+13%，等待次数+13，造成伤害追加13%痛苦伤害，然后回合结束时清零计数。
+计数:&a
+
+<color=#8EEC90>吾分享沉默，汝偿付代价</color>。",
+Buff/B_Kail_EC_7_Ex_Description, Text,,추가 고통 피해 13%,"Additional Pain damage 13%.
+
+<color=#EC160D>Time stops, and silence follows. What difference is there between the two?</color>",,"造成伤害追加13%痛苦伤害。
+
+<color=#EC160D>时间停止，沉默随之降临。何来二者不同之说。</color>。",
+Buff/B_Kail_EC_7_Ex_Name, Text,,침묵,Silence,,沉默,
+Buff/B_Kail_EC_7_Name, Text,,13번째 종소리,13th Bell Toll,,第十三声钟响,
+Buff/B_Kail_EC_8_Description, Text,,치명적인 피해를 입으면 체력을 5 회복하고 해당 피해를 무효로 합니다. 이후 이 버프를 제거합니다.,"When taking fatal damage, recover 5 HP and nullify the damage. Then remove this buff.
+
+<color=#EC160D>Now, by my side... only these children remain.</color>",,"承受致死伤害时将免受此次伤害并恢复5点的体力,然后移除这个效果。
+
+<color=#EC160D>如今，在吾身侧……空余这些稚子</color>。",
+Buff/B_Kail_EC_8_Name, Text,,생명의 가루,Powder of Life,,生命之粉,
+Buff/B_Kail_EC_9_Description, Text,,턴 시작시 반격 주사위 (2~6)을 얻습니다.,"At the start of the turn, gain a Counter Dice (2~6).
+
+<color=#EC160D>Once you've had a taste, there's no escaping.</color>",,"每回合获得一个反击骰子(2~6)。
+
+<color=#EC160D>尝过甜头，就别想逃啦。</color>",
+Buff/B_Kail_EC_9_Name, Text,,쾌락,Euphoria,,嗨爆,
+Buff/B_Kail_EC_SP1_Description, Text,,"
+<color=#EC160D>""생각이 깊어진 광대. 가여운 그 광대. 자신을 이끌 용맹한 강아지도 없는 주제에, 의미 없는 발걸음만 옮깁니다.""</color>。","<color=#EC160D>The mind is empty, the thoughts are empty. The more it is so, the more fear dissipates.</color>",,"
+<color=#EC160D>心灵空虚，思想空虚。越是如此，恐惧便会消失。</color>。",
+Buff/B_Kail_EC_SP1_Name, Text,,공허,Emptiness,,空虚,
+Buff/B_Kail_EC_SP2_Description, Text,,"받는 피해량이 2~4 증가합니다. 고통 피해 면역, 한 번에 받는 피해량이 최대 체력의 25%를 넘지 않게됩니다.
+최대 마나 +1","Incoming damage +2~4. Immune to Pain damage. Incoming damage cannot exceed 25% of Max HP.
+
+<color=#EC160D>We must find it quickly. We can’t let the monster run rampant here…</color>",,"受到伤害+2~4，免疫痛苦伤害，受到的伤害不会超过最大生命值25%。
+
+<color=#EC160D>必须尽快找到。不能让怪兽在这里乱蹿……</color>。",
+Buff/B_Kail_EC_SP2_Name, Text,,괴수,Monster,,大怪兽,
+Buff/B_Kail_EC_SP3_Description, Text,,"이번 전투 동안 스킬을 1개 추가로 뽑습니다. 사망한 아군마다 최대 마나 +1, 받는 피해량 -10%, 공격력 +17%, 치유량 +20%, 죽음 저항 +25%, 속도 +1.","For this battle, draw one additional skill per turn. For each dead ally, gain +1 Max Mana, -10% Incoming Damage, +17% Attack, +20% Healing, +25% Death Resistance, and +1 Speed.
+
+<color=#EC160D>Must…reunite…into…one…body…</color>",,"每回合抽牌数+1。每有一名友方角色处于无法战斗状态，每回合开始时法力值+1、受到伤害-10%、攻击力+17%、治疗力+20%、无法战斗抵抗+25%、速度+1。
+
+<color=#EC160D>必须……重新……合为……一体……。</color>",
+Buff/B_Kail_EC_SP3_Name, Text,,<color=#EC160D>시체의 산</color>,<color=#EC160D>Mountain of Corpses</color>,,<color=#EC160D>尸山</color>,
+Buff/B_Kail_EC_SP4_Description, Text,,,,,,
+Buff/B_Kail_EC_SP4_Ex_Description,Text,,,,,,
+Buff/B_Kail_EC_SP4_Ex_Name, Text,,흑염,Black Flame,,黑焰,
+Buff/B_Kail_EC_SP4_Name, Text,,흑염,Black Flame,,黑焰,
+Buff/B_Kail_P_Description, Text,,"반격 주사위의 피해량은 중첩 3개 당 1씩 증가합니다.
+전투 당 한 번, 턴의 시작 시 중첩이 4/ 8/ 13(4레벨 이후) 이면 감정 카드를 선택합니다.","Counter Dice damage increases by 1 for every 3 stacks.
+Once per battle, at the start of the turn, if stacks reach 4/8/13 (after Level 4), select an Emotion Card.",,"每三层使所有反击骰子数值+1。
+每场战斗各限一次,回合开始时，若层数达到4/8，发现一张情感卡。角色达到4级后在层数达到13层时再发现一张情感卡。",
+Buff/B_Kail_P_Name, Text,,감정 고조,Emotional High,,激昂澎湃,
+Buff/B_Kail_R10_S_Description, Text,,"반격 주사위 사용 시 그 값의 30%만큼 회복
+피격시 중첩 1 감소
+<color=#919191>붉은 안개가 돌아옵니다...</color>","When using Counter Dice, heal for 30% of its value.
+Lose 1 stack when hit.
+<color=#919191>The crimson mist rises again…</color>",,"使用反击骰子时连锁治疗骰子数值的30%
+受击时减少1层
+<color=#919191>血雾涌起...</color>",
+Buff/B_Kail_R10_S_Name, Text,,붉은 안개,Crimson Mist,,血雾弥漫,
+Buff/B_Kail_R10_T_Description, Text,,기절 당함,Unable to act.,,无法行动。,
+Buff/B_Kail_R10_T_Name, Text,,기절됨!,Stunned!,,眩晕！,
+Buff/B_Kail_R11_Description, Text,,,,,,
+Buff/B_Kail_R11_Name, Text,,출혈,Bleeding,,流血,
+Buff/B_Kail_R12_Description, Text,,"""미미크리 구현""의 비용이 1 감소하고, 신속을 얻습니다.","“Mimicry Simulation” cost -1 and gains Haste.
+<color=#919191>A dense, fog-like substance envelops the sturdy armor…</color>",,"“拟态模仿”的费用-1并带有迅速。
+<color=#919191>坚固的护甲上出现一层坚硬致密的物质……那物质如雾般笼罩着我。</color>",
+Buff/B_Kail_R12_Name, Text,,E.G.O,E.G.O Manifestation,,E.G.O展现,
+Buff/B_Kail_dice_Def_Description, Text,,<color=#919191>방어 주사위</color>,<color=#919191>——A parry dice...?</color>,,<color=#919191>一个格挡骰子...?</color>,
+Buff/B_Kail_dice_Def_Name, Text,,방어,Parry,,招架,
+Character/Kail_PassiveDes, Text,,"칼리는 스킬이나 고정 능력을 사용할 때마다 <b>감정 고조</b>를 얻습니다.
+보복: 반격 주사위 스택을 얻습니다. 매 2턴마다 반격 주사위 (4~8)을 얻습니다.
+최강:  레벨 당 반격 주사위 피해량 +1.","Kali gains <b>Emotional High</b> every time she uses a skill or fixed ability.
+Retaliation: Gains a Counter Dice Stack. Every 2 turns, gain a Counter Dice (4~8).
+Supremacy: +1 Counter Dice damage per level.",,"战斗中使用卡牌获得激昂澎湃增益。
+后发制敌：获得反击骰子池，每两回合开始时获得一颗反击骰子（4~8）。
+最强之人：每有一级所有骰子伤害+1.",
+Character/Kail_PassiveName, Text,,미미크리,Mimicry,,拟态,
+Character/Kail_SelectInfo, Text,,"이계의 도서관에서 뒤틀린 땅으로 갑작스레 넘어온 이…
+""빛""을 얻을 방법을 찾기 위해서 그녀는 조사대원과 뒤틀린 땅을 함꼐 탐색하기로 결심했습니다.
+
+칼리는 스킬을 사용하여 ""반격 주사위""를 축적할 수 있고, 공격당했을 때 이를 사용하여 반격할 수 있습니다.
+그녀는 여러 차례 스킬을 사용할 후 감정 카드를 선택하여 아군을 강화할 수 있습니다.","A traveler from another world's library who suddenly arrived in the Twisted Land...
+To find a way to obtain the ""Light"", she decided to explore the Twisted Land alongside the investigation team.
+
+Kali can accumulate ""Counter Dice"" by using skills and use them to counterattack when attacked.
+After using skills multiple times, she can select an ""Emotion Card"" to strengthen her allies in battle.",,"自另一方世界的图书馆意外来到扭曲之地的……色彩？收尾人？司书？无所谓，这些身份都是指她。
+为了找到获得“光”的方法，她决定与调查团同行，一并探索扭曲之地。
+
+卡莉可以通过使用技能来积攒“反击骰子”，并在受到攻击时将其释放以迎击敌人。
+在多次释放技能后可以选择“情感卡”，在当场战斗中进行特定的强化。",
+Character/Kail_Text_Battle_AllyND_0, Text,,다른 놈들이 나자빠져도. 이런데서 멈출 수는 없지.,"Even if others fall, we can't stop here.",,就算有人不幸阵亡也别停手。,
+Character/Kail_Text_Battle_AllyND_1, Text,,침착하자고. 동료의 죽음으로 우리까지 흔들려서는 안되니까.,Stay calm. We can't let ourselves be shaken by a comrade's death.,,沉住气，别因为咱这儿有人阵亡就自乱阵脚。,
+Character/Kail_Text_Battle_AllyND_2, Text,,전부 끝날 때까지 슬픔은 삭여두는 편이 좋을거야.,It's better to hold back the grief until everything is over.,,等一切结束之后再去悲伤吧。,
+Character/Kail_Text_Battle_AllyND_3, Text,,저들의 희생이 무의미해지는 걸 원치는 않잖아?,"You don't want their sacrifice to be in vain, do you?",,可别白白浪费那家伙的牺牲哈，对吧？,
+Character/Kail_Text_Battle_AllyND_4, Text,,복수는 이뤄야지. 하지만 뜨거운 분노는 차갑게 벼려내야해.,Revenge must be achieved. But burning anger must be tempered with cold resolve.,,要复仇，更要压制愤怒。保持冷静。,
+Character/Kail_Text_Battle_Cri_0, Text,,방향을 잃은 분노는 스스로를 벨 뿐이지.,Anger without direction only cuts yourself.,,这里是弱点！,
+Character/Kail_Text_Battle_Cri_1, Text,,방심과 부주의는 널 죽음으로 이끌 뿐이야.,Carelessness and negligence will only lead you to death.,,半点儿疏忽大意就会让你丢掉性命。,
+Character/Kail_Text_Battle_Healed_0, Text,,고마워!,Thanks!,,谢了！,
+Character/Kail_Text_Battle_Healed_1, Text,,방금 그건… 특이점인가…?,Was that... a Singularity just now...?,,这是什么奇点技术吗？,
+Character/Kail_Text_Battle_Idle_0, Text,,다들 준비됐나?,Are you all ready?,,都准备好了吗？,
+Character/Kail_Text_Battle_Kill_0, Text,,이 몸은 예전보다는 약하지만. 다루는 데 문제는 없어.,"This body is weaker than before, but it's still manageable.",,虽然比起以前差了不少，但足够了。,
+Character/Kail_Text_Battle_Kill_1, Text,,기술이 부족했으면 머리라도 굴릴 줄 알아야지.,"If you lack skill, you should at least know how to use your head.",,技巧不够就用头脑顶。,
+Character/Kail_Text_Battle_Kill_2, Text,,그걸로 날 잡으려고? 어림도 없지.,You think you can catch me with that? Not a chance.,,就这点儿能耐还跟我斗？净扯淡。,
+Character/Kail_Text_Battle_ND_0, Text,,방심했나… 이런 나약한 머저리같이 행동하다니.,I must have let my guard down... Acting so weak like this.,,我可真是……以前可没这么弱。,
+Character/Kail_Text_Battle_ND_1, Text,,아쉽지만… 받아들일 수 밖에,Disappointing... but I have no choice.,,扫兴……真没辙。,
+Character/Kail_Text_Battle_ND_2, Text,,젠장. 이런 식으로 은퇴할 생각은 없었는데…,Damn. I didn't plan to retire like this...,,妈的，我可不想就这样退场……,
+Character/Kail_Text_Battle_Start_0, Text,,다들 준비됐지? 전부 때려눕히러 가보자고.,Is everyone ready? Let's knock them all down.,,大家伙准备好了没？咱们好好揍他们一顿。,
+Character/Kail_Text_Battle_Start_1, Text,,나약한 겁쟁이들은 시작도 전에 도망칠 궁리부터 하지.,Cowards think about running away before the fight even starts.,,懦夫才会临阵退缩。,
+Character/Kail_Text_Battle_Start_2, Text,,예전만큼 힘을 쓰지는 못하지만… 적응은 쉽지 않구만.,I can't use as much strength as before... but adapting isn't easy.,,这身子的力量大不如前了哈……还是不大适应。,
+Character/Kail_Text_Field_GetItem_0, Text,,잘 챙겨 놓으라고.,Make sure to keep it safe.,,你可得拿好了。,
+Character/Kail_Text_Field_GetItem_1, Text,,괜찮아 보이네.,This looks decent.,,这玩意看着不赖。,
+Character/Kail_Text_Field_Idle_0, Text,,이 정도야 뒷골목 보다는…,This is better than the back alleys...,,这风景可比郊区好多了。,
+Character/Kail_Text_Field_Idle_1, Text,,무슨 일이 일어나고 있는건지,I wonder what's happening over there...,,不知道那边现在是怎样……,
+Character/Kail_Text_Field_Potion_P_0, Text,,커피를 처음 마셔봤을 때가 생각나는 맛이네.,Tastes like the first time I had coffee.,,让我想起第一次喝咖啡的时候。,
+Character/Kail_Text_Field_Potion_P_1, Text,,차라리 맥주가 나을 것 같은데.,I'd rather have beer.,,要是有啤酒就更好了。,
+Character/Kail_Text_PharosLeader_0, Text,,"나한테 ""빛""을 가져다 줄 수 있다고? 거짓말이 아니어야 할거다…","You can give me the ""Light""? It better not be a lie...",,你能给我“光”？最好是真的...,
+Character/Kail_Text_PharosLeader_1, Text,,"누가 내 ""동료""를 건드리겠다고?","Who else dares to attack my ""companions""?",,还有谁要攻击我的“同伴”？,
+Character/Kail_Text_PharosLeader_2,Text,,,"Who else dares to attack my ""companions""?",,还有谁要攻击我的“同伴”？,
+Character/Kail_UnlockString, Text,,,,,,
+Character/Kail_name, Text,,칼리,Kali,,卡莉,
+Character_Skin/KaliSkin1_SkinDesc,Text,,,Kali during her time at the research institute. It was during this period that she received the prototype E.G.O mimic greatsword from Carmen and began using it as her weapon.,,研究所时期的卡莉。正是在这时得到了卡门赠予的原型E.G.O拟态大刀，并将此作为武器使用。,
+Character_Skin/KaliSkin1_SkinName,Text,,,Trench Coat,,风衣,
+Character_Skin/KaliSkin1_Text_Battle_AllyND_0,Text,,,"Even if someone falls, don’t stop.",,就算有人不幸阵亡也别停手。,
+Character_Skin/KaliSkin1_Text_Battle_AllyND_1,Text,,,Stay calm. Don’t lose your composure just because someone on our side fell.,,沉住气，别因为咱这儿有人阵亡就自乱阵脚。,
+Character_Skin/KaliSkin1_Text_Battle_AllyND_2,Text,,,Save your grief for after it’s all over.,,等一切结束之后再去悲伤吧。,
+Character_Skin/KaliSkin1_Text_Battle_AllyND_3,Text,,,"Don’t let their sacrifice go to waste, right?",,可别白白浪费那家伙的牺牲哈，对吧？,
+Character_Skin/KaliSkin1_Text_Battle_AllyND_4,Text,,,"Seek revenge, but suppress your anger. Stay calm.",,要复仇，更要压制愤怒。保持冷静。,
+Character_Skin/KaliSkin1_Text_Battle_Cri_0,Text,,,This is the weak point!,,这里是弱点！,
+Character_Skin/KaliSkin1_Text_Battle_Cri_1,Text,,,The slightest carelessness will cost you your life.,,半点儿疏忽大意就会让你丢掉性命。,
+Character_Skin/KaliSkin1_Text_Battle_Healed_0,Text,,,Thanks!,,谢了！,
+Character_Skin/KaliSkin1_Text_Battle_Healed_1,Text,,,Is this some kind of singularity technology?,,这是什么奇点技术吗？,
+Character_Skin/KaliSkin1_Text_Battle_Idle_0,Text,,,Is everyone ready?,,都准备好了吗？,
+Character_Skin/KaliSkin1_Text_Battle_Kill_0,Text,,,"It’s not as good as before, but it’ll do.",,虽然比起以前差了不少，但足够了。,
+Character_Skin/KaliSkin1_Text_Battle_Kill_1,Text,,,"If skill isn’t enough, use your head.",,技巧不够就用头脑顶。,
+Character_Skin/KaliSkin1_Text_Battle_Kill_2,Text,,,You think you can take me on with just this? Nonsense.,,就这点儿能耐还跟我斗？净扯淡。,
+Character_Skin/KaliSkin1_Text_Battle_ND_0,Text,,,I’ve really... I wasn’t this weak before.,,我可真是……以前可没这么弱。,
+Character_Skin/KaliSkin1_Text_Battle_ND_1,Text,,,Disappointing... Nothing I can do.,,扫兴……真没辙。,
+Character_Skin/KaliSkin1_Text_Battle_ND_2,Text,,,"Damn it, I don’t want to go out like this...",,妈的，我可不想就这样退场……,
+Character_Skin/KaliSkin1_Text_Battle_Start_0,Text,,,Is everyone ready? Let’s give them a good beating.,,大家伙准备好了没？咱们好好揍他们一顿。,
+Character_Skin/KaliSkin1_Text_Battle_Start_1,Text,,,Only cowards back down at the last moment.,,懦夫才会临阵退缩。,
+Character_Skin/KaliSkin1_Text_Battle_Start_2,Text,,,This body’s strength isn’t what it used to be... Still not used to it.,,这身子的力量大不如前了哈……还是不大适应。,
+Character_Skin/KaliSkin1_Text_Field_GetItem_0,Text,,,You better hold onto this.,,你可得拿好了。,
+Character_Skin/KaliSkin1_Text_Field_GetItem_1,Text,,,This looks pretty good.,,这玩意看着不赖。,
+Character_Skin/KaliSkin1_Text_Field_Idle_0,Text,,,The scenery here is much better than the outskirts.,,这风景可比郊区好多了。,
+Character_Skin/KaliSkin1_Text_Field_Idle_1,Text,,,I wonder how things are over there now...,,不知道那边现在是怎样……,
+Character_Skin/KaliSkin1_Text_Field_Potion_P_0,Text,,,Reminds me of the first time I drank coffee.,,让我想起第一次喝咖啡的时候。,
+Character_Skin/KaliSkin1_Text_Field_Potion_P_1,Text,,,It’d be even better if there was beer.,,要是有啤酒就更好了。,
+Character_Skin/KaliSkin1_Text_PharosLeader_0,Text,,,"You can give me ""light""? It better be real...",,你能给我“光”？最好是真的...,
+Character_Skin/KaliSkin1_Text_PharosLeader_1,Text,,,What’s going on...,,怎么回事……,
+Character_Skin/KaliSkin1_Text_PharosLeader_2,Text,,,"Who else dares to attack my ""companions""?",,还有谁要攻击我的“同伴”？,
+Item_Equip/Equip_Kail_1_Description, Text,,비용이 4 이상인 스킬 사용 후 마나 2 회복,"Recover 2 Mana after using a skill with a cost of 4 or more.
+<color=#919191>Charge!</color>",,"使用费用大于等于4的技能后回复2点法力值
+<color=#919191>冲锋！</color>",
+Item_Equip/Equip_Kail_1_name, Text,,골드러시,Gold Rush,,闪金冲锋,
+Item_Equip/Equip_Kail_2_Description, Text,,추가 피해량 +2,Additional damage +2.,,追加攻击伤害+2,
+Item_Equip/Equip_Kail_2_name, Text,,요정의 파편,Fairy Fragment,,妖灵残片,
+Item_Equip/Equip_Kail_3_Description, Text,,"보복: 반격 주사위 스택을 생성. 매 2번째 턴마다 반격 주사위 (4~8)을 얻습니다.
+최강:  레벨 당 반격 주사위 피해량 +1
+<color=#919191>카르멘을 만나고 그녀는 빛의 씨앗 연구팀에 합류했습니다. 이를 계기로 그녀는 자신의 E.G.O 무기 미미크리와 오롯한 자신만의 E.G.O를 각성하는데 성공했습니다. </color>","Retaliation: Creates a Counter Dice Stack. Every 2 turns, gain a Counter Dice (4~8). (Shared by all characters) &a
+Supremacy: +1 Counter Dice damage per level. &a
+<color=#919191>After meeting Carmen, she joined the Seed of Light research team. This led her to awaken her own E.G.O weapon, Mimicry, and her unique E.G.O.</color>",,"后发制敌：获得反击骰子池，每两回合开始时获得一颗反击骰子（4~8）。(所有角色共用反击骰子池)&a
+最强之人：每升一级，所有反击骰子威力+1.(不可叠加）&a
+<color=#919191>虽然原型E.G.O威力不如后来脑叶公司提取的E.G.O，但由于卡莉引以为傲的技巧和力量，她能将拟态蕴含的力量发挥到最大。</color> ",
+Item_Equip/Equip_Kail_3_name, Text,,붉은안개의 책장,Crimson Mist Pages,,殷红迷雾之页,
+Item_Equip/Equip_Kail_B1_Description, Text,,"매 턴, 착용자는 최대 체력의 20%에 해당하는 고통 피해를 입습니다.
+<color=#919191>""작은 부리는 속삭였다. 끊임없이…""</color>","Each turn, the wearer takes 20% of their Max HP as Pain damage.
+<color=#919191>——The Small Beak whispered. Endlessly…</color>",,"装备者每回合受到最大体力值20%的痛苦伤害。
+<color=#919191>——小喙窃窃私语。 喋喋不休……</color>",
+Item_Equip/Equip_Kail_B1_name, Text,,작은 부리,Small Beak,,小喙,
+Item_Equip/Equip_Kail_B2_Description, Text,,"받는 고통 피해를 75%로 경감합니다.
+<color=#919191>""긴 팔은 시간을 감췄다.""</color>","Reduces Pain damage taken by 25%.
+<color=#919191>——The Long Arm concealed time.</color>",,"受到的痛苦伤害减少25%.
+<color=#919191>——长臂掩藏了时间。</color>",
+Item_Equip/Equip_Kail_B2_name, Text,,긴 팔,Long Arm,,长臂,
+Item_Equip/Equip_Kail_B3_Description, Text,,"전투 시작 시, 모든 적을 도발합니다.
+<color=#919191>""큰 눈은 빛을 가뒀다.""</color>","At the start of combat, taunts all enemies.
+<color=#919191>——The Big Eye blocked the light.</color>",,"战斗开始时嘲讽所有敌人。
+<color=#919191>——巨目遮蔽了光线。</color>",
+Item_Equip/Equip_Kail_B3_name, Text,,큰 눈,Big Eye,,巨目,
+Item_Equip/Equip_Kail_Bird_Description, Text,,"스킬의 피해량이 70%로 감소하지만, 동일한 양의 고통 피해를 추가로 입힘.
+<color=#919191>""모두를 대신하여 그들은 숲의 파수꾼이 되기로 결심했어요. 그들은 누구보다 숲을 사랑했기에 숲에 있는 생물들을 지키고 숲의 평화를 유지하시키려고 했던 것이랍니다 .""</color>","Skill damage is reduced by 30%, but deals an equal amount of Pain damage.
+<color=#919191>They decided to become the guardians of the forest on behalf of everyone. They loved the forest more than anyone, so they protected its creatures and maintained its peace.</color>",,"技能造成70%伤害并附加等量痛苦伤害。
+<color=#919191>大鸟那永不闭合的眼睛、高鸟那能衡量一切罪恶的天平、小鸟那能吞噬一切的巨口，这三者守护着黑森林的<color=#EC160D><i>和平</i></color>。</color>",
+Item_Equip/Equip_Kail_Bird_name, Text,,황혼,Dusk,,薄暝,
+Item_Passive/Relic_Kail_1_Description, Text,,"스킬 변경 및 대기 가능 회수가 2로 증가.
+손의 맨 위의 스킬을 제외한 모든 스킬에 대기 1회 부여.
+&a
+<color=#919191>이 무기를 다룰 수 있는 이는 없었습니다. 지금까지는 말이죠. 하지만 이 무기가 뒤틀린 땅의 핏빛 안개를 흡수하여 기이한 소리를 낸다는 것은 확실했습니다. 마치...</color>","Increases Standby count and Exchange count by 2.
+Adds 1 Standby count to all skills except the top skill.
+&a
+<color=#919191>No one has been able to wield this weapon... until now. But it's certain that this weapon absorbs the crimson mist of the Twisted Land and emits strange sounds, as if...</color>",,"等待次数+2
+换牌次数+2
+所有技能倒计时+1,最上方的技能不受影响。
+&a
+<color=#919191>对于这把武器，我们暂未发现有人能掌控它。但是我们发现它能够吸收扭曲之地的红色雾气，并发出奇怪的声音,好像...</color>",
+Item_Passive/Relic_Kail_1_name, Text,,<color=#EC160D>혈무</color>,<color=#EC160D>Blood Mist</color>,,<color=#EC160D>血雾</color>,
+Item_Passive/Relic_Kail_Bird_Description, Text,,"최대 체력 +7
+공격력 +7%
+치유력 +7%
+최대 마나 +1
+<color=#919191>""남은 건 그저 한 마리의 새와 ""검은 숲"" 이었습니다.""</color>","Max HP +7
+Attack +7%
+Healing +7%
+Max Mana +1
+<color=#919191>All that remained was a single bird and the ""Black Forest"".</color>",,"最大体力值+7
+攻击力+7%
+治疗力+7%
+防御力+7%
+最大法力值+1
+<color=#919191>森林，又恢复了安静平和。</color>",
+Item_Passive/Relic_Kail_Bird_name, Text,,<color=#E6A10E>황혼</color>,<color=#E6A10E>Dusk</color>,,<color=#E6A10E>薄暝</color>,
+RandomEvent/Event_Kail_Bird_Desc, Text,,당신은 종말새의 알을 부쉈습니다. 새는 이곳에서 쓰러졌습니다.,You shattered the Apocalypse Bird's eggs. The bird collapsed here.,,你夺走了终末鸟的三个“卵”，终末鸟一动不动地倒在那里。,
+RandomEvent/Event_Kail_Bird_EventDetails, Text,,당신은 종말새의 알을 부쉈습니다. 새는 이곳에서 쓰러졌습니다.,You shattered the Apocalypse Bird's eggs. The bird collapsed here. Something seems off...,,你夺走了终末鸟的三个“卵”，终末鸟一动不动地倒在那里。好像有什么异常？,
+RandomEvent/Event_Kail_Bird_Name, Text,,억압,Suppression,,镇压,
+RandomEvent/Event_Kail_Bird_OrderStrings_0, Text,,"종말새는 사라졌습니다. 빛은 세 개의 ""알""을 날개로 변화시켰습니다.","The Apocalypse Bird has disappeared. The light transformed three ""eggs"" into wings.",,终末鸟消失了，散发出的光芒使三颗“卵”化作了翅膀。,
+RandomEvent/Event_Kail_Bird_OrderStrings_1, Text,,"종말새는 사라졌습니다. 빛은 세 개의 ""알""을 무기로 변화시켰습니다.","The Apocalypse Bird has disappeared. The light transformed three ""eggs"" into weapons.",,终末鸟消失了，散发出的光芒使三颗“卵”化作了武器。,
+RandomEvent/Event_Kail_Bird_OrderStrings_2, Text,,종말새 근처의 장비를 찾았습니다. 쓸만한 것을 챙겨 떠납니다.,Found equipment near the Apocalypse Bird. Took something useful and left the monster's remains.,,在终末鸟附近发现了一些装备，带走一个赶紧离开这个怪物的残骸。,
+RandomEvent/Event_Kail_Bird_UseButtonTooltip_0, Text,,"""알""을 안에 둡니다. 유물 ""황혼""으로 교환합니다.","Place the ""eggs"" inside. Exchange for the relic ""Dusk"".",,放入“巨目”，“小喙”与“长臂”，交换为遗物“薄暝”。,
+RandomEvent/Event_Kail_Bird_UseButtonTooltip_1, Text,,"""알""을 안에 둡니다. 무기 ""황혼""으로 교환합니다.","Place the ""eggs"" inside. Exchange for the weapon ""Dusk"".",,放入“巨目”，“小喙”与“长臂”，交换为武器“薄暝”。,
+RandomEvent/Event_Kail_Bird_UseButtonTooltip_2, Text,,"""알""을 안에 둡니다. <color=#F53172FF>영웅 등급 장비</color>로 교환합니다.","Place the ""eggs"" inside. Exchange for <color=#F53172FF>Heroic-grade equipment</color>.",,放入“巨目”，“小喙”与“长臂”，从三个英雄品质装备中选择获得一个。,
+RandomEvent/Event_Kail_Bird_UseButton_0, Text,,"""알""을 두고 변화를 지켜봅니다.","Observe the changes while leaving the ""eggs"" behind.",,将“卵”放在身后，静观其变。,
+RandomEvent/Event_Kail_Bird_UseButton_1, Text,,"""알""의 뒤를 관찰합니다.","Observe behind the ""eggs"".",,在“卵”后面仔细观察。,
+RandomEvent/Event_Kail_Bird_UseButton_2, Text,,"""알""의 보호로 얻을 수 있는 것을 살펴봅니다.","Check what can be gained under the protection of the ""eggs"".",,借助“卵”的保护，去看看有什么好东西,
+Skill/S_Kail_1_Description, Text,,사용 시 마나를 1 회복합니다.,Recovers 1 Mana when used.,,使用时回复1点法力值。,
+Skill/S_Kail_1_Name, Text,,횡베기,Horizontal Slash,,大刀横斩,
+Skill/S_Kail_2_Description, Text,,"반격 주사위 스택의 맨 아래 반격 주사위를 사용합니다.
+대상이 고통 피해 디버프가 있으면 스킬을 1개 뽑습니다.","Uses the bottom Counter Dice from the Counter Dice Stack.
+If the target has an Pain debuff, draw a skill.",,"使用时，对目标使用反击池内最下方的1个反击骰子。
+如果目标有痛苦减益，抽取一个技能。",
+Skill/S_Kail_2_Name, Text,,찌르기,Thrust,,大刀直刺,
+Skill/S_Kail_3_Description, Text,,"대상이 사망하면 무작위 대상에게 스킬을 재사용합니다.
+대상이 가진 효과에 따라서 추가 효과를 적용합니다.
+약화<sprite=0>: 빈드시 적중.
+군중 제어<sprite=2>: 피해량 20% 상승.
+고통 피해<sprite=1>: 피해량의 10% 회복.","If the target is defeated, reuse the skill on a random target.
+Additional effects are applied based on the target's debuffs:
+Weaken<sprite=0>: Guaranteed hit.
+Crowd Control<sprite=2>: Damage increased by 20%.
+Pain<sprite=1>: Heals for 10% of damage dealt.",,"击杀时对随机目标再次使用。
+根据目标的减益触发效果：
+弱化减益<sprite=0>：必定命中。
+干扰减益<sprite=2>：伤害增加20%。
+痛苦减益<sprite=1>：回复伤害量10%的生命值。",
+Skill/S_Kail_3_Name, Text,,돌진,Charge,,陷阵之志,
+Skill/S_Kail_3_Plus_Description, Text,,,,,,
+Skill/S_Kail_3_Plus_Name, Text,,돌진,Charge,,陷阵之志,
+Skill/S_Kail_4_Description, Text,,보호막의 양은 치유력과 동일,The shield amount is equal to the healing power.,,该保护罩数值等同于治疗力。,
+Skill/S_Kail_4_Name, Text,,기합,Focus,,屏息凝神,
+Skill/S_Kail_5_Description, Text,,"해당 스킬의 비용은 현재 마나와 동일합니다. (대기중인 스킬이 있을 때는 적용되지 않음)
+
+사용된 마나만큼 스킬을 재사용합니다. 재사용 될 때마다 피해량이 10%씩 증가합니다.","The cost of this skill is equal to the current Mana. (Does not apply if there are skills on cooldown)
+Reuses the skill based on the Mana spent. Damage increases by 10% with each reuse.",,"该技能的费用等于当前法力值。(在有倒计时时不生效)
+根据消耗法力值重复释放，每次攻击伤害增加10％。",
+Skill/S_Kail_5_Name, Text,,푸른 흉터,Azure Scar,,郁蓝创痕,
+Skill/S_Kail_5_Plus_Description, Text,,,,,,
+Skill/S_Kail_5_Plus_Name, Text,,,,,,
+Skill/S_Kail_6_Description, Text,,반격 주사위의 피해량은 (공격력*0.4)~(공격력*1.1),The Counter Dice damage is (Attack * 0.4) ~ (Attack * 1.1).,,该反击骰子数值为（攻击力*0.4)~（攻击力*1.1),
+Skill/S_Kail_6_Name, Text,,종베기,Vertical Slash,,大刀纵切,
+Skill/S_Kail_7_Description, Text,,사용시 맨 아래 스킬을 버립니다.,"When used, discard the bottom skill in hand.",,从手中打出时，丢弃手中最下面的一个技能。,
+Skill/S_Kail_7_Name, Text,,붉은 흉터,Crimson Scar,,猩红创痕,
+Skill/S_Kail_8_Description, Text,,&a의 고통 피해를 받고 모든 적과 아군에게 '갈증'을 부여합니다. 적들에게 가하는 피해가 2배가 됩니다. 사용자를 피해량의 &b(8+5*치유력)%만큼 회복시킵니다.,"Deals &a Pain damage to all characters and applies ""Thirst"" to all enemies and allies. Damage dealt to enemies is doubled. Heals the user for &b (8 + 5 * Healing)% of damage dealt.
+When discarded or swapped, deals &c Pain damage to self and applies ""Thirst"" to all characters.
+<color=#919191><i>""Can the thirst for blood ever be abandoned?""</i></color>",,"对所有角色造成&a痛苦伤害，并施加渴血增益;对敌方伤害加倍，自身回复相当于造成伤害&b（8+治疗力*5）%的血量。
+丢弃或交换时对自己造成&c痛苦伤害并对所有角色施加渴血增益。
+<color=#919191><i>“对血的渴望真的能够抛弃吗？”</i></color>",
+Skill/S_Kail_8_Name, Text,,갈증,Thirst,,渴血症,
+Skill/S_Kail_9_Description, Text,,,,, ,
+Skill/S_Kail_9_Name, Text,,웃음,Smile,,笑靥,
+Skill/S_Kail_EC_10_Description, Text,,"[아군 한명]
+턴 시작시 모든 적을 도발합니다.","[One ally]
+At the start of the turn, taunt all enemies (<sprite=2>100%).
+
+<color=#EC160D>——These shoes are colorless. But they will soon be stained red.</color>",,"选择一名友方
+每回合开始时随机嘲讽一个敌人(<sprite=2>100%)。
+
+<color=#EC160D>——这双鞋是无色的。 不过很快就会染红了。</color>。",
+Skill/S_Kail_EC_10_Name, Text,,반짝임,Sparkle,,闪亮,
+Skill/S_Kail_EC_11_Description, Text,,회피 -20%. 반격 주사위 사용 시 대상에게 출혈을 0~2 중첩 부여합니다.,"Dodge -20%. When using Counter Dice, apply 0~2 stacks of Bleed to the target (<sprite=0>100%).
+
+<color=#EC160D>——Research shows that the spores contain bee eggs that hatch inside the host.</color>",,"闪避率-20%，使用反击骰子时对一个目标施加0~2层流血(<sprite=0>100%)。
+
+<color=#EC160D>——研究表明，孢子中含有能在宿主体内孵化的蜂卵。</color>。",
+Skill/S_Kail_EC_11_Name, Text,,포자,Spore,,孢子,
+Skill/S_Kail_EC_12_Description, Text,,"[아군 한명]
+대기 후 사용 시 과부하 -1","[One ally]
+After waiting, Overload -1.
+
+<color=#8EEC90>Memory strengthens the will of a person.
+A.A.1 Year 5 Month 15 Day</color>",,"选择一名友方
+等待后该角色过载-1.
+
+<color=#8EEC90>记忆强化人的意志
+A.A.1年5月15日</color>。",
+Skill/S_Kail_EC_12_Name, Text,,행복한 기억,Memory,,记忆,
+Skill/S_Kail_EC_13_Description, Text,,스킬 사용 후 손 맨 위의 카드를 버리고 마나 1을 회복합니다.,"After using a skill, discard the top card in hand and recover 1 Mana.
+
+<color=#EC160D>——When he returned, there was a long scar on his forehead. When asked if he had recovered, he only replied that his head felt lighter.</color>",,"每当使用一张牌，丢弃手中最上面的一个技能以回复一点法力值。
+
+<color=#EC160D>——归来之时，他的前额多了一道长长的疤痕。当被人问及是否痊愈时，他只答道觉得脑袋变轻了。</color>。",
+Skill/S_Kail_EC_13_Name, Text,,뜯겨나간 지혜,Torn Wisdom,,被扯出的智慧,
+Skill/S_Kail_EC_14_Description, Text,,"아군의 체력이 40% 이하이면, '공포' 중첩이 스킬 적중 시 모든 적에게 부여됩니다.","If an ally's HP is 40% or less, ""Fear"" stacks are applied to all enemies when hit by a skill (<sprite=0>90%).
+
+<color=#EC160D>——A mountain of corpses. The dead smile, sharing their limbs as one.</color>",,"若该角色体力不高于40%，被击中时对所有敌方施加一层“畏惧”减益（<sprite=0>90%）。
+
+<color=#EC160D>——一座尸山。那些死尸面带微笑，成为互相分享残肢的一个整体。</color>。",
+Skill/S_Kail_EC_14_Name, Text,,웃음소리,Laughter,,尸体在笑,
+Skill/S_Kail_EC_15_Description, Text,,"이번 전투 동안 회복한 양에 비례하여 공격 피해량과 약화 확률이 증가합니다. (회복한 최대 체력 100% 당 피해량 +1, 약화 확률 +5%, 3회까지 중첩 가능)","Attack damage and Weaken chance increase based on the amount healed in this battle. (For every 100% Max HP healed, damage +1, Weaken chance +5%, up to 3 stacks)
+
+<color=#8EEC90>——All it wants is human flesh soaked in blood. It will come running at the smell of blood.</color>",,"该角色每被治疗100%生命值，追加攻击伤害+1、弱化减益成功率+5%(至多3次)。
+
+<color=#8EEC90>——它唯一想要的，就是浸泡在鲜血中的人肉。一闻到血腥便会狂奔而来。</color>。",
+Skill/S_Kail_EC_15_Name, Text,,흡수,Absorption,,死尸吸收,
+Skill/S_Kail_EC_16_Description, Text,,"고통 명중률 +20%. 반격 주사위 사용 시 사용 대상에게 출혈 1 중첩을 부여합니다.
+상대의 고통 피해 디버프 한 중첩 당 사용자에게 방어력 2%를 부여합니다.","Pain Accuracy +20%. When using Counter Dice, apply 1 stack of Bleed to the target (<sprite=1>70%).
+For each stack of the target's Pain debuff, the user gains 2% Defense.
+
+<color=#EC160D>——Long ago, these claws tore open the bellies of countless creatures, ripping their entrails apart.</color>",,"痛苦成功率+20%，使用反击骰子时对主要目标施加1层“流血”减益（<sprite=1>70%）。
+敌方的每层痛苦减益为该角色提供2%防御力。
+
+<color=#EC160D>——很久以前，这对利爪曾破开无数生物的肚囊，将其内脏一一撕裂。</color>。",
+Skill/S_Kail_EC_16_Name, Text,,흉악한 발톱,Ferocious Claws,,凶残利爪,
+Skill/S_Kail_EC_17_Description, Text,,"[아군 한명]
+홀수 턴: 받는 치유량 -10%
+짝수 턴: 받는 치유량 +30%","[One ally]
+Odd turns: Healing received -10%
+Even turns: Healing received +30%
+
+<color=#EC160D>——They wander. As if searching for something, yet not knowing what they truly want.</color>",,"选择一名友方
+奇数回合：受到治疗量-10%.
+偶数回合：受到治疗量+30%.
+
+<color=#EC160D>——他们彷徨着。像在寻找什么，却又不明白自己究竟想要什么。</color>。",
+Skill/S_Kail_EC_17_Name, Text,,난수병,Hydrophobia,,恐水症,
+Skill/S_Kail_EC_18_Description, Text,,출혈이 2배의 피해를 입힙니다.,"Bleed <sprite=1> deals double damage.
+
+<color=#8EEC90>——...Thirst, never satisfied.</color>",,"“流血”<sprite=1>减益的伤害翻倍。
+
+<color=#8EEC90>——……饥渴，永不满足。</color>。",
+Skill/S_Kail_EC_18_Name, Text,,흡혈,Bloodsucking,,吸血,
+Skill/S_Kail_EC_19_Description, Text,,해당 레벨의 모든 감정 카드 중 하나를 선택할 수 있게 됩니다.,"Allows you to choose one of all Emotion Cards of that level.
+
+<color=#8EEC90>——Though it maintains a human form, a single drop of blood will turn it into a ferocious monster, spending a night of madness.</color>",,"本场战斗中发现情感卡时可以发现所有该等级情感卡。
+
+<color=#8EEC90>——虽维持着人类的身姿，但只要有一滴血就会化为凶暴的怪物，度过狂乱的一夜。</color>。",
+Skill/S_Kail_EC_19_Name, Text,,포도주,Red Wine,,红酒,
+Skill/S_Kail_EC_1_Description, Text,,"[아군 한명]
+캐릭터의 체력이 최대 체력의 50%/35%/25%/0% 이하면 공격력이 15%/25%/35%/50% 증가합니다.
+
+<color=#EC160D>""꽃을 꺾는 것 대신 도끼날을 가는 것이 일상이 되었을 무렵일 때는 15살 이었다.""</color>","[One ally]
+If the character's HP is 50%/35%/25%/0% or less of their Max HP, Attack increases by 15%/25%/35%/50%.
+
+<color=#EC160D>——By the time sharpening the axe blade became a daily routine instead of picking flowers, I was 15 years old.</color>",,"选择一名友方
+若该角色的体力不高于50%/35%/25%/0%，则攻击力+15%/25%/35%/50%。
+
+<color=#EC160D>——15岁时，磨斧子取代了采野花，成为我生命中习以为常的一部分</color>。",
+Skill/S_Kail_EC_1_Name, Text,,붉은 흉터,Scar,,伤疤,
+Skill/S_Kail_EC_20_Description, Text,,"턴 종료시, 반격 주사위 스택의 마지막 반격 주사위의 피해량이 2배가 됩니다. 그리고 반격 주사위 (3~6)을 하나 추가합니다.","At the end of the turn, the damage of the last Counter Dice in the Counter Dice Stack is doubled, and a Counter Dice (3~6) is added.
+
+<color=#8EEC90>——Once it is confirmed that it can walk upright, there is only one thing you can do. Stand straight, clasp your hands, pray to your deity, and then wait and see.</color>",,"回合结束时，反击骰子池内最后一个反击骰子数值翻倍，然后加入一个反击骰子(3~6).
+
+<color=#8EEC90>——一旦证实它能直立行走，那么你们只有一件事可做。端正姿势，双手合十，向信仰的神明祈祷，而后静观其变吧。</color>。",
+Skill/S_Kail_EC_20_Name, Text,,GoOdbYe,Goodbye,,咕德拜,
+Skill/S_Kail_EC_21_Description, Text,,"군중 제어 명중률 +70%. 어떤 유닛이 군중 제어 효과를 받으면 군중 제어 저항률 +5%. 이 효과가 4번 발동한 후에는 아군이 군중 제어 효과를 받으면 그 효과를 즉시 제거하고, 횟수를 초기화 합니다.","Crowd Control Accuracy +70%. When a unit is affected by Crowd Control, Crowd Control Resistance +5%. After this effect triggers 4 times, if an ally is affected by Crowd Control, the effect is immediately removed, and the count is reset.
+
+<color=#8EEC90>——A wolf must never cross the line when doing bad things. A wolf must be punished. A wolf is always a bad example...</color>",,"干扰成功率+70%。每当一个角色获得干扰减益，干扰抵抗力+5%；这个效果累计触发4次后，下一次友方角色进入干扰减益时立即解除并重置此效果。
+
+<color=#8EEC90>——狼做坏事时绝不能越界，狼理应受到惩罚，狼永远是坏榜样……</color>。",
+Skill/S_Kail_EC_21_Name, Text,,늑대의 역할,The Role of the Wolf,,狼的角色,
+Skill/S_Kail_EC_22_Description, Text,,"[아군 한명]
+아군이 처음으로 공격한 적에게 '표식'을 새깁니다. '표식'은 한 번에 한 대상에게만 새겨질 수 있습니다.","[One ally]
+Choose one ally: The first enemy hit each turn is marked with “Focus Fire” debuff (<sprite=0>80%), and the “Focus Fire” debuff is removed from all other enemies.
+
+<color=#8EEC90>——The gruesome death of that wolf is the only thing I have ever loved in my life.</color>",,"选择一名友方：每回合第一次击中敌人给予其“集火”减益(<sprite=0>80%)，并去除所有其它敌人的“集火”减益。
+
+<color=#8EEC90>——那头狼的惨死，是我生命中唯一喜爱的事。</color>。",
+Skill/S_Kail_EC_22_Name, Text,,사냥감,Prey,,猎物,
+Skill/S_Kail_EC_23_Description, Text,,반격 주사위 적중 시 하나를 추가로 사용합니다.,"When Counter Dice hits, use an additional one.
+
+<color=#EC160D>——There will be no winner between us, let alone celebration. I just want to tear that bastard apart in a more cruel and painful way than before.</color>",,"受到攻击额外使用一颗反击骰子。
+
+
+<color=#EC160D>——我们之间不会有任何一方胜出，更谈不上庆祝。我只想用比前一回更残忍，更痛苦的手段撕烂那头狗杂种。</color>。",
+Skill/S_Kail_EC_23_Name, Text,,복수,Revenge,,复仇,
+Skill/S_Kail_EC_2_Description, Text,,"반격 주사위 사용 시 2~6의 체력을 회복합니다.
+
+<color=#8EEC90>""오랜만에 먹는 살점은 너무 맛있었다. 그때부터 스스로를 제어시키기가 점점 힘들어졌다. 그래도 상관없다는 생각이 들었다. 자신은 크고 '나쁠' 늑대였으니까.""</color>","When using Counter Dice, recover 2~6 HP.
+
+<color=#8EEC90>——The flesh tasted so good after so long. From then on, it became increasingly difficult to control myself. But I thought it didn't matter. I was a big, ""bad"" wolf.</color>",,"使用反击骰子时恢复2~6点体力。
+
+<color=#8EEC90>——好久没吃到，如此鲜美的肉了。从那时起，想要自律变得越来越难。不过没关系，我是一头又大又“坏”的狼</color>。",
+Skill/S_Kail_EC_2_Name, Text,,본능,Predatory Instinct,,掠食本能,
+Skill/S_Kail_EC_3_Description, Text,,"웃음'스킬을 생성합니다. 비용을 2 감소시키고 일회성을 부여합니다.
+
+<sprite=0>약화 저항 -10%. '공포' 디버프는 5중첩 까지 쌓이며, 5중첩이 되면 공격력 -10% 효과를 추가로 부여합니다.","Creates a '""Smile"" skill. Reduces cost by 2 and grants Exclude.
+<sprite=0>Weaken Resistance -10%. 'Fear' debuff stacks up to 5 times. At 5 stacks, additionally reduces Attack by 10%.
+
+<color=#EC160D>——The more corpses there are, the larger its body becomes. And it is never satisfied.</color>",,"向手牌中加入一张带有放逐且费用-2的“笑魇”
+减益抵抗力-10%。“畏惧”的最大层数+1,“畏惧”<sprite=0>减益层数叠加至5层时额外降低10%攻击力。
+
+
+<color=#EC160D>——尸体越多，它的体型就越是庞大。而且永远不会满足</color>。",
+Skill/S_Kail_EC_3_Name, Text,,시체의 산,Mountain of Corpses,,尸山,
+Skill/S_Kail_EC_4_Description, Text,,"[아군 한명]
+해로운 효과 저항 +35%","[One ally]
+Harmful effect resistance +35%.
+
+<color=#8EEC90>——Though it has the appearance of a human, it is certainly not human. At regular intervals, it devours employees who interact with it and dons their shells. In the process, its bones and organs are twisted into grotesque shapes.</color>",,"选择一名友方
+所有负面状态抵抗力+35%。
+
+<color=#8EEC90>——尽管拥有人类的相貌，但它绝不是人类。每隔一定时间，它便会吞噬与其互动的职员，然后披上他们的躯壳。在此过程中，它的骨骼和脏器将被扭成一团，呈现出极度怪诞的形状</color>。",
+Skill/S_Kail_EC_4_Name, Text,,껍데기,Shell,,躯壳,
+Skill/S_Kail_EC_5_Description, Text,,"[아군 한명]
+사용자의 공격력이 속도만큼 증가합니다. (최대 3)","[One ally]
+The user's Attack increases by their Speed. (Max 3)
+
+<color=#8EEC90>If it perceives the surroundings as dirty, its bad mood indicator lights up and it enters full cleaning mode.</color>",,"选择一名友方
+该角色的每有1点速度使其攻击力+1,最高3点。
+
+<color=#8EEC90>——若将周围的环境识别为脏乱差，它的坏情绪指示灯会迅速亮起并进入全面清洁模式</color>。",
+Skill/S_Kail_EC_5_Name, Text,,청소,Cleaning,,清洁,
+Skill/S_Kail_EC_6_Description, Text,,사용자가 가하는 피해량의 60% 회복. 받는 회복량 -50%,"Heals for 60% of damage dealt. Healing received -50%.
+
+<color=#EC160D>——What's more terrifying is that it is imitating humans. Looking in the mirror, muttering to itself, adjusting its skeletal structure. All of it feels like it's mimicking ""us"".</color>",,"攻击吸血+60%，受到治疗-50%.
+
+<color=#EC160D>——更恐怖的是，它正在模仿人类。照镜子，喃喃自语，调整骨骼结构。无论哪种都像在模仿“我们”</color>。",
+Skill/S_Kail_EC_6_Name, Text,,HelLo?,Hello?,,哈啰？,
+Skill/S_Kail_EC_7_Description, Text,,"스킬을 사용할 때마다 중첩을 1개씩 쌓을 수 있습니다. (최대 13) 중첩이 13에 도달하면 공격력 +13%. 치명타 확률 +13%, 명중률 +13%, 치명타 피해량 +13%, 대기 가능 횟수 +13%, 추가 고통 피해 13%. 해당 효과와 중첩은 턴 종료 시 초기화 됩니다.","Each time a skill is used, gain 1 stack. (Max 13) When stacks reach 13, Attack +13%. Critical Rate +13%, Accuracy +13%, Critical Damage +13%, Standby count +13, additional Pain damage 13%. This effect and stacks reset at the end of the turn.
+
+<color=#8EEC90>——I know absolute loneliness. Share the silence, reap the consequences. When the original owner returns, you shall pay the price.</color>",,"该角色每从手中使用1个技能获取1个计数，最多获取13个计数。若计数达到13，所有友方攻击力+13%，暴击率+13%，命中率+13%，暴击伤害+13%，等待次数+13，造成伤害追加13%痛苦伤害，然后回合结束时清零计数。
+
+<color=#8EEC90>——吾知晓绝对的孤独。分享沉默，应得果报。待到原主归来之时，汝当偿付代价</color>。",
+Skill/S_Kail_EC_7_Name, Text,,13번째 종소리,13th Bell Toll,,第十三声钟响,
+Skill/S_Kail_EC_8_Description, Text,,"[아군 한명]
+치명적인 피해를 입으면 체력을 5회복하고 해당 피해를 무효로 합니다. 이후 이 버프를 제거합니다.","[One ally]
+When taking fatal damage, recover 5 HP and nullify the damage. Then remove this buff.
+
+<color=#EC160D>——Finally, sprinkle your beloved cinnamon powder and hug the pumpkin tightly.</color>",,"选择一名友方
+承受致死伤害时将免受此次伤害并恢复5点的体力,然后移除这个效果。
+
+<color=#EC160D>——最后撒上自己心爱的肉桂粉，将南瓜紧紧拥入怀中</color>。",
+Skill/S_Kail_EC_8_Name, Text,,생명의 가루,Powder of Life,,生命之粉,
+Skill/S_Kail_EC_9_Description, Text,,최대 체력 -50%. 턴 시작시 반격 주사위 (2~6)을 얻습니다.,"Max HP -50%. At the start of the turn, gain a Counter Dice (2~6).
+
+<color=#EC160D>——My head is about to explode. Goodbye.</color>",,"体力上限-50%，每回合获得一个反击骰子(2~6)。
+
+<color=#EC160D>——我的脑袋就要爆炸了，再见咯</color>。",
+Skill/S_Kail_EC_9_Name, Text,,쾌락,Euphoria,,嗨爆,
+Skill/S_Kail_EC_SP1_Description, Text,,"[아군 한명]
+스킬을 3개 뽑습니다. 다음 턴 시작시 손의 모든 스킬을 버립니다. 버리는 양만큼 공격력 +10%, 치유력 +10%, 방어력 +5%. 이후 스킬을 1개 뽑습니다.","Choose one ally.
+Draw three skills. At the start of the next turn, discard all skills in hand. For each skill discarded, gain +10% Attack, +10% Healing, and +5% Defense. Then, draw one skill.
+
+<color=#EC160D>——The brooding jester. The pitiful clown. It doesn’t even have the brave pup to guide it, taking meaningless steps forward.</color>
+
+<color=#919191>This is a rare card.</color>",,"选择一个友方
+抽取三个技能。下回合开始时移除手中所有技能，每移除一个便使攻击力+10%、治疗力+10%、防御力+5%，然后抽取一个技能。
+
+<color=#EC160D>——沉思的弄臣。可悲的小丑。祂甚至没有那只指明方向的勇敢的毛孩，只是毫无意义地迈出步伐。</color>。
+
+<color=#919191>这是一张稀有卡</color>",
+Skill/S_Kail_EC_SP1_Name, Text,,공허,Emptiness,,空虚,
+Skill/S_Kail_EC_SP2_Description, Text,,"[아군 한명]
+받는 피해량이 2~4 증가합니다. 고통 피해 면역, 한 번에 받는 피해량이 최대 체력의 25%를 넘지 않게됩니다.
+최대 마나 +1","Choose one ally.
+Incoming damage +2~4. Immune to Pain damage. Incoming damage cannot exceed 25% of Max HP. Max Mana +1.
+
+<color=#EC160D>——The day the eyes of the great bird that could see hundreds of miles, the scales of the tall bird that could judge any sin, and the maw of the small bird that could devour all living beings merged into one, disaster befell this forest.</color>
+
+<color=#919191>This is a rare card.</color>",,"选择一个友方
+受到伤害+2~4，免疫痛苦伤害，受到的伤害不会超过最大生命值25%。最大法力值+1。
+
+<color=#EC160D>——大鸟那能够看清数百里外的眼睛，高鸟那能够审判任何罪孽的天秤，小鸟那能够吞噬一切生物的巨口合为一体的那天，灾难降临了这片森林。</color>。
+
+<color=#919191>这是一张稀有卡</color>",
+Skill/S_Kail_EC_SP2_Name, Text,,괴물,Monster,,大怪兽,
+Skill/S_Kail_EC_SP3_Description, Text,,"[아군 한명]
+대상을 제외한 모든 아군이 사망합니다. 받는 치유량 -10%. 이번 전투 동안 스킬을 1개 추가로 뽑습니다. 사망한 아군마다 최대 마나 +1, 받는 피해량 -10%, 공격력 +17%, 치유량 +20%, 죽음 저항 +25%, 속도 +1.","Choose one ally.
+Instantly kill all other allied characters. Healing received -10%. For this battle, draw one additional skill per turn. For each dead ally, gain +1 Max Mana, -10% Incoming Damage, +17% Attack, +20% Healing, +25% Death Resistance, and +1 Speed.
+
+<color=#EC160D>——The more corpses there are, the larger it grows. And it will never be satisfied.</color>
+
+<color=#919191>This is a rare card.</color>",,"选择一个友方
+直接击杀除该角色外的所有友方角色。受到治疗量-10%、每回合抽牌数+1。每有一名友方角色处于无法战斗状态，最大法力值+1、受到伤害-10%、攻击力+17%、治疗力+20%、无法战斗抵抗+25%、速度+1。
+
+
+<color=#EC160D>——尸体越多，它的体型就越是庞大。而且永远不会满足。</color>
+
+<color=#919191>这是一张稀有卡</color>",
+Skill/S_Kail_EC_SP3_Name, Text,,<color=#EC160D>시체의 산</color>,<color=#EC160D>Mountain of Corpses</color>,,<color=#EC160D>尸山</color>,
+Skill/S_Kail_EC_SP4_Description, Text,,이번 전투 동안 모든 캐릭터의 방어력이 75% 감소합니다.,"For this battle, all characters’ Defense is reduced by 75%.
+
+<color=#EC160D>——The archer noticed that the demon that had been following him like a shadow had now left him. He tried to find the reason, only to realize his soul had already fallen into hell from the very beginning.</color>
+
+<color=#919191>This is a rare card.</color>",,"本场战斗中所有角色防御力-75%.
+
+<color=#EC160D>——射手察觉，那终日如影随形的恶魔此刻竟已离他而去。他试着追寻原因，而后意识到自己的灵魂从一开始便已堕入地狱。</color>
+
+<color=#919191>这是一张稀有卡</color>",
+Skill/S_Kail_EC_SP4_Name, Text,,흑염,Black Flame,,黑焰,
+Skill/S_Kail_LucyD_Description, Text,,"대상의 스킬을 우선으로 스킬을 1개 뽑습니다.
+반격 주사위 스택에 반격 주사위 (4~8)을 추가합니다. 살아있는 아군 1명마다 반복합니다.","Prioritize drawing one skill from the target.
+Add Counter Dice (4~8) to the Counter Dice stack. Repeat for each living ally.",,"优先抽取一个目标的技能
+若卡莉存活，则根据存活的其他友军数为卡莉添加相应数量的反击骰子(4~8).",
+Skill/S_Kail_LucyD_Name, Text,,"""지켜내는 용기""",“Determination”,,“决意”,
+Skill/S_Kail_P1_Description, Text,,감정 카드 1단계,Discover a Level 1 Emotion Card.,,发现一张1级情感卡。,
+Skill/S_Kail_P1_Name, Text,,감정 카드,Emotion Card,,情感卡,
+Skill/S_Kail_P2_Description, Text,,감정 카드 2단계,Discover a Level 2 Emotion Card.,,发现一张2级情感卡。,
+Skill/S_Kail_P2_Name, Text,,감정 카드,Emotion Card,,情感卡,
+Skill/S_Kail_P3_Description, Text,,감정 카드 3단계,Discover a Level 3 Emotion Card.,,发现一张3级情感卡。,
+Skill/S_Kail_P3_Name, Text,,감정 카드,Emotion Card,,情感卡,
+Skill/S_Kail_R10_Description, Text,,,,,,
+Skill/S_Kail_R10_Name, Text,,대절단-세로,Crimson Mist,,血雾弥漫,
+Skill/S_Kail_R11_Description, Text,,반격 주사위 스택의 모든 반격 주사위를 무작위 적에게 사용,Use all Counter Dice in the Counter Dice stack on random enemies.,,对随机敌人使用反击骰子池内所有反击骰子。,
+Skill/S_Kail_R11_Name, Text,,대절단-가로,Corpse Strewn,,尸横遍野,
+Skill/S_Kail_R12_Description, Text,,"적을 대상으로 하는 모든 조사대원들의 스킬 5개를 보여주고 그 중 하나를 매개로 합니다.
+위의 효과가 2번 발동한 이후 스킬 ""미미크리 구현""을 손에 더합니다. 해당 스킬의 효과는 선택된 매개에 따라 변화합니다.
+<i> <color=#919191>“너도 인간의 껍데기를 탐하는 건가?”</color></i>","Show 5 skills from all investigators targeting enemies and choose one as material.
+After this effect triggers twice, add the skill “Mimicry Simulation” to hand. Its effect varies based on the chosen material.
+<i><color=#919191>“Don’t you also crave the shell of a human?”</color></i>",,"从所有调查员的指向敌人的技能中展示5个，选择其中一个作为素材。
+以上效果生效两次后，生成技能“拟态模仿”，其效果与所选的素材相关。
+<i><color=#919191>“你不也需要他人的外壳吗。”</color></i>",
+Skill/S_Kail_R12_Final_Description, Text,,미미크리,Mimicry,,,
+Skill/S_Kail_R12_Final_Name, Text,,미미크리 구현,Mimicry Simulation,,拟态模仿,
+Skill/S_Kail_R12_Name, Text,,E.G.O 발현,E.G.O Manifestation,,E.G.O展现,
+Skill/S_Kail_dice_Aoe_Description, Text,,,,,,
+Skill/S_Kail_dice_Aoe_Name, Text,,반격 주사위,Counter Dice,,反击骰子,
+Skill/S_Kail_dice_Sin_Description, Text,,,,,,
+Skill/S_Kail_dice_Sin_Name, Text,,반격 주사위,Counter Dice,,反击骰子,
+SkillExtended/Relic_Kail_1_Ex_Des, Text,,,,,,
+SkillExtended/Relic_Kail_1_Ex_EnforceString, Text,,,,,,
+SkillExtended/Relic_Kail_1_Ex_Name, Text,,,,,,
+SkillExtended/SkillEn_Kail_1_Des, Text,,,,,,
+SkillExtended/SkillEn_Kail_1_EnforceString, Text,,"""<sprite name=""""비용1""""><sprite name=""""이상"""">
+또는 신속이 아닌 비용 0 스킬","Skills with a cost of 1 or more, or 0-cost skills without Haste.",,1 费以上，或非迅速的 0 费技能,
+SkillExtended/SkillEn_Kail_1_Name, Text,,칼리에게 반격 주사위를 (5~7) 2개 추가합니다.,Adds 2 Counter Dice (5~7) to Kali.,,为卡莉添加两颗反击骰子（5~7）,
+SkillExtended/SkillEn_Kail_2_Des, Text,,,,,,
+SkillExtended/SkillEn_Kail_2_EnforceString, Text,,공격 스킬,Attack skill,,攻击技能,
+SkillExtended/SkillEn_Kail_2_Name, Text,,100%~150%의 피해를 가합니다.,Deals 100%~150% damage.,,造成100%~150%的伤害,
+SkillKeyword/KeyWord_Kail_Desc, Text,,주사위는 반격 주사위 스택에 저장되며 사용 시 (범위 내의 무작위 값) + (추가 값)의 피해를 입힙니다.,"Dice are stored in the Counter Dice Stack and, when used, deal damage equal to (a random value within range) + (additional value).",,这个“骰子”会保存到“反击骰子池”中，受到攻击时对攻击者使用最上面的1个反击骰子，若骰子数不小于3则使用2个，骰子在使用时会造成(范围内的随机数)+(附加值)的伤害。,
+SkillKeyword/KeyWord_Kail_EC_Desc, Text,,이 스킬은 오직 칼리의 '감정 고조'가 특정 레벨에 도달했을 때 나타납니다. 이 스킬을 선택하여 칼리를 특정 방면으로 강화할 수 있습니다.,"This skill only appears when Kali's ""Emotional High"" reaches a certain level. Choosing this skill enhances Kali in a specific way.",,该技能仅在卡莉的“激昂澎湃”达到一定层数时出现，选择该技能可使卡莉获得对应加成。,
+SkillKeyword/KeyWord_Kail_EC_Name, Text,,감정 카드,Emotion Card,,情感卡,
+SkillKeyword/KeyWord_Kail_Name, Text,,반격 주사위,Counter Dice,,反击骰子,
+SkillKeyword/KeyWord_Kail_R10_Desc, Text,,"혈무 난이도 및  ""<color=#EC160D>혈무</color>"" 전용 유물에 따라서, '붉은안개' 버프는 추가 강화 효과를 받습니다.
+<color=#EC160D>혈무 1</color>: 방어력 +5%
+<color=#EC160D>혈무 2</color>: 회복 게이지 보호
+<color=#EC160D>혈무 3</color>: '핏빛 안개'를 뽑으면 스킬을 1장 뽑고, 마나 1 회복
+<color=#EC160D>혈무 4</color>: 혈무로 인한 적 강화 효과를 동일하게 적용받음.
+<color=#EC160D>미미크리</color>:  피격 장해도 중첩이 사라지지 않음","Depending on the Crimson Mist difficulty and the “<color=#EC160D>Crimson Mist</color>” relic, the “Crimson Mist” buff gains additional effects.
+<color=#EC160D>Crimson Mist 1</color>: Defense +5%.
+<color=#EC160D>Crimson Mist 2</color>: Protects HP threshold.
+<color=#EC160D>Crimson Mist 3</color>: When drawing “Bloody Mist”, draw 1 skill and recover 1 Mana.
+<color=#EC160D>Crimson Mist 4</color>: Gains the same enhancements as enemies from Crimson Mist.
+<color=#EC160D>Mimicry Synergy</color>: Stacks are not consumed when hit.
+<color=#919191>This level of “mist”…</color>",,"在血雾难度下和拥有“<color=#EC160D>血雾</color>”遗物时，“血雾弥漫”增益会获得额外强化。
+<color=#EC160D>血雾1</color>:防御力额外+5%。
+<color=#EC160D>血雾2</color>:保护体力极限。
+<color=#EC160D>血雾3</color>:抽到“血色迷雾”时，抽1张牌并获得1点法力值。
+<color=#EC160D>血雾4</color>:获得相当于血雾给予敌人强化的强化。
+<color=#EC160D>拟态协同</color>:受击时不消耗层数。
+<color=#919191>这种程度的“雾气”...</color>",
+SkillKeyword/KeyWord_Kail_R10_Name, Text,,혈무 장악,Crimson Mist Control,,血雾掌控,
+SkillKeyword/KeyWord_Kail_R12_Desc, Text,,"""미미크리 구현""은 모든 적을 10%의 공격력과 20%의 명중률로 공격합니다. 선택된 스킬의 비용과 효과는 유지되지만, 공격력 / 추가 피해량 / 치유량 / 추가 치유량 / 명중률 / 치명타 확률은 절반만 적용됩니다. 만약 선택한 스킬이 신속이었으면 공격력은 10%로 적용됩니다.","“Mimicry Simulation” attacks all enemies with 10% Attack and 20% Accuracy. It retains the cost and effects of the chosen skill, but only half of the Attack / Additional Damage / Healing / Additional Healing / Accuracy / Critical Rate is applied. If the chosen skill has Haste, Attack is increased by an additional 10%.",,“拟态模拟”群体攻击，自带10%攻击倍率和20%命中率;且会获得选择技能的费用和所有效果;但只会获得选择技能一半的攻击倍率/伤害附加值/治疗倍率/治疗附加值/命中率/暴击率，若所选技能有迅速效果，则攻击倍率额外+10%。,
+SkillKeyword/KeyWord_Kail_R12_Name, Text,,미미크리 구현,Mimicry Simulation,,拟态模拟,
+,,,,,,,
+

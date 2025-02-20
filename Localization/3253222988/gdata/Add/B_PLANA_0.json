@@ -1,0 +1,18 @@
+{
+    "B_PLANA_0": {
+        "Name": "支援演算",
+        "ClassName": "PLANA.B_PLANA_0",
+        "Icon": "B_PLANA_0\\B_PLANA_0_Icon.png",
+        "LifeTime": 3,
+        "MaxStack": 3,
+        "Description": "获得普拉娜30%的攻击力与治愈力，每多一层额外+15%。",
+        "Tick": "null",
+        "BuffTag": "null",
+        "Caution": false,
+        "_gdeSchema": "Buff",
+        "Hide": false,
+        "IsFieldBuff": false,
+        "Cantdisable": false,
+        "UseSkillDebuff": false
+    }
+}

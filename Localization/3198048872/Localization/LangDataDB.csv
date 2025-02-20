@@ -1,0 +1,110 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Frieren_1_Description,Text,,,"When using ""Innate Heal"", reduce 1 stack and draw 1 ""Innate Heal"".",,使用“基础治疗”时，减少1层并抽取1个“基础治疗”。,
+Buff/B_Frieren_1_Name,Text,,,Goddess's Scripture,,女神的圣典,
+Buff/B_Frieren_3_Description,Text,,,"Grants additional Shield equal to &a times the number of ""Innate Protection"" in deck at start of battle. 
+Removed after blocking 1 attack.",,"基于战斗开始时牌库中“基础保护”的数量额外获得&a点保护罩。
+抵挡1次攻击后解除。",
+Buff/B_Frieren_3_Name,Text,,,Mana Barrier,,魔力屏障,
+Buff/B_Frieren_4_Description,Text,,,"Cannot act. Removed after taking 3 attacks. 
+
+Remaining attacks until seal is removed: &a",,"无法行动，受到3次攻击后解除。
+
+距离解除封印剩余攻击次数：&a",
+Buff/B_Frieren_4_Name,Text,,,Seal,,封印,
+Buff/B_Frieren_A1_Description,Text,,,Cannot act. Removed upon receiving healing.,,无法行动，受到治疗后解除。,
+Buff/B_Frieren_A1_Name,Text,,,It's so dark and scary!,,好黑好可怕！,
+Buff/B_Frieren_P_1_Description,Text,,,"Vast accumulated mana increases all investigators' Attack and Healing by &a, and Defense by &b%.",,日积月累的庞大魔力提升了所有调查员&a点攻击力与治疗力，&b%防御力。,
+Buff/B_Frieren_P_1_Name,Text,,,Accumulated Mana,,累积的魔力,
+Buff/B_Frieren_P_Description,Text,,,,,,
+Buff/B_Frieren_P_Name,Text,,,Accumulated Mana,,累积的魔力,
+Buff/B_Frieren_R1_Description,Text,,,"Reduces damage taken by 10% per ""Innate Heal"" in deck at start of battle. Decreases by 10% after taking damage. Removed when reduced to 0%. 
+
+Current damage reduction: &a%.",,"战斗开始时牌库中每有1个“基础治疗”，使受到的伤害降低10%。受到攻击后这个效果减少10%，减少至0时解除。
+
+当前减少伤害：&a%。",
+Buff/B_Frieren_R1_Name,Text,,,Flower Field,,花田,
+Character/Frieren_CampSelectWord,Text,,,Meals should be enjoyed happily.,,吃饭就是要开开心心的。,
+Character/Frieren_PassiveDes,Text,,,"Frieren continuously accumulates mana during her journey. This vast mana aids her companions. 
+Each common or Innate skill in the party's possession empowers mana, increasing all investigators' Attack, Healing, and Defense. 
+Mana accumulation becomes more substantial as the journey progresses. 
+
+""Against mages of this era, Innate magic is sufficient.""",,"芙莉莲在旅途中不断地累积魔力，这份庞大的魔力能够帮助到同行的同伴们。
+队伍拥有的每个通用技能或基础技能都会充盈魔力，提升所有调查员攻击力、治疗力与防御力。
+魔力的积累还会随着旅行的进行逐渐变得更加充实。
+
+“对付这个时代的魔法使，基础魔法就足够了。”",
+Character/Frieren_PassiveName,Text,,,Long Journey,,悠远的旅途,
+Character/Frieren_SelectInfo,Text,,,"A mage from another world, self-proclaimed elf mage of the hero party that defeated the Demon King. Allegedly over a thousand years old. 
+
+After hero Himmel's death, began an endless journey. Frieren's immense mana and battle experience empower her companions in combat.",,"来自异世界的魔法使，自称是打到了魔王的勇者一行中的精灵魔法使，传闻已经活了上千年。在勇者辛美尔死去后开始了漫长的旅途。
+
+芙莉莲庞大的魔力与经验丰富的战斗技巧让与她同行的同伴们在战斗中能够发挥出更加强大的力量。",
+Character/Frieren_Text_Battle_AllyND_0,Text,,,Be careful.,,小心了。,
+Character/Frieren_Text_Battle_Healed_0,Text,,,"In this world, non-Scripture healing magic seems somewhat effective.",,在这个世界，似乎不需要《圣典》治疗魔法也能够发挥出一定效果。,
+Character/Frieren_Text_Battle_Idle_0,Text,,,"Though not demons, their evil aura resembles demonic energy.",,他们虽不是魔族，但是散发出的邪恶气息却与魔族格外相似。,
+Character/Frieren_Text_Battle_Idle_1,Text,,,"In magic, what cannot be imagined cannot be realized.",,在魔法的世界中，无法想象的事物就无法实现。,
+Character/Frieren_Text_Battle_Idle_2,Text,,,Magic should be free.,,魔法应该是自由的。,
+Character/Frieren_Text_Battle_ND_0,Text,,,How careless...,,大意了呢……,
+Character/Frieren_name,Text,,,Frieren,,芙莉莲,
+Item_Equip/E_Frieren_1_Description,Text,,,Grants 1% increased Attack and Healing for every 2 skills in deck at start of battle.,,战斗开始时牌库中每有2个技能，额外增加1%攻击力、治疗力。,
+Item_Equip/E_Frieren_1_name,Text,,,Frieren's Staff,,芙莉莲的法杖,
+Skill/S_Frieren_1_Description,Text,,,"At start of battle, gain 1 stack of <color=#3D9CB6>Goddess's Scripture</color> for each ""Innate Heal"" in deck. 
+If target ally is at Death's Door, heal &a additional HP. 
+This skill counts as ""Innate Heal"".",,"战斗开始时牌库中每有1个“基础治疗”，获得1层<color=#3D9CB6>女神的圣典</color>。
+若目标友军为濒死状态，额外恢复&a点体力值。
+该技能可视为“基础治疗”。",
+Skill/S_Frieren_1_Name,Text,,,Healing Magic,,治疗魔法,
+Skill/S_Frieren_2_Description,Text,,,"Ignores 50% Defense. After casting, cast all ""Innate Attacks"" in hand at random enemies. 
+This skill counts as ""Innate Attack"".    ",,"无视50%防御，释放后对随机敌人释放手中所有“基础攻击”。
+该技能可视为“基础攻击”。",
+Skill/S_Frieren_2_Name,Text,,,Normal Attack Magic,,普通攻击魔法,
+Skill/S_Frieren_3_Description,Text,,,"Also grants self Shield equal to the amount. Draw 1 skill. This skill counts as ""Innate Protection"".",,"同时使自身获得等量的魔力屏障。抽取1个技能。
+该技能可视为“基础保护”。",
+Skill/S_Frieren_3_Name,Text,,,Defense Magic,,防御魔法,
+Skill/S_Frieren_4_Description,Text,,,Can only be used on turns when 3 or more skills have been cast from hand.,,只能在从手中释放过3个以上技能的回合使用。,
+Skill/S_Frieren_4_Name,Text,,,Sealing Magic,,封印魔法,
+Skill/S_Frieren_5_Description,Text,,,"Remove all common and Innate skills in hand, deck, and discard pile. Draw as many skills as removed from hand. Generate a Shield equal to the total cost of all removed skills.",,移除手中、牌库、弃牌库所有通用技能和基础技能。抽取从手中移除的技能数量的技能，生成基于所有移除的技能的费用总和的防护墙。,
+Skill/S_Frieren_5_Name,Text,,,Mana Release,,魔力放出,
+Skill/S_Frieren_6_Description,Text,,,Changes target of 1 common or Innate skill in hand to all enemies/all allies based on its type. Gains Exclude.,,使手中1个通用技能或基础技能的技能目标根据其类型变为所有敌人/所有友军，获得放逐。,
+Skill/S_Frieren_6_Name,Text,,,Diffusion Formula,,扩散化术式,
+Skill/S_Frieren_7_Description,Text,,,"Discard 1 skill in hand. Generate a ""Normal Attack Magic"" owned by the discarded skill's owner, inheriting half of the discarded skill's original damage or healing multiplier. Gains Exclude.",,丢弃手中1个技能，生成1个拥有者为丢弃技能拥有者的“普通攻击魔法”，将丢弃技能的原本伤害倍率或治疗倍率的一半继承至生成的“普通攻击魔法”的伤害倍率上，获得放逐。,
+Skill/S_Frieren_7_Name,Text,,,Mana Conversion,,魔力转换,
+Skill/S_Frieren_8_Description,Text,,,"Grants 1 attack skill in hand ignores Taunt. Can be considered as ""Innate Attack"". Base damage multiplier greatly increased based on <color=#319B92>Accumulated Mana</color>.",,使手中1个攻击技能获得无视嘲讽，可视为“基础攻击”，基础伤害倍率基于<color=#319B92>累积的魔力</color>大幅提升。,
+Skill/S_Frieren_8_Name,Text,,,High-Density Mana Compression,,高浓度魔力压缩,
+Skill/S_Frieren_9_Description,Text,,,"Choose 1 of 3 common attack skills owned by target ally to generate. Generated skill gains Exclude, Swiftness, cost becomes 0, and base damage multiplier increased by 100%.",,从3个拥有者是目标友军的通用攻击技能中选择1个生成，生成的技能获得放逐、迅速，费用变为0，基础伤害倍率提升100%。,
+Skill/S_Frieren_9_Name,Text,,,Analyze Magic,,解析魔法,
+Skill/S_Frieren_A1_Description,Text,,,"Draw 2 skills. 1% chance to gain <color=#FAC422>9999</color> Gold instead. Each use increases this chance by 0.3% for the current investigation. 
+
+Current chance: &a%",,"抽取2个技能。有1%的概率改为获得<color=#FAC422>9999</color>金币。该技能每使用1次，本次调查期间这个概率永久提升0.3%
+
+当前概率：&a%",
+Skill/S_Frieren_A1_Name,Text,,,Identify Mimic Magic,,鉴定宝箱怪的魔法,
+Skill/S_Frieren_R1_Description,Text,,,"At start of battle, change owner of all ""Innate Heal"" in deck to self. Gains Swiftness.",,战斗开始时使牌库中的所有“基础治疗”拥有者变为自身，获得迅速。,
+Skill/S_Frieren_R1_Name,Text,,,Flower Field Creation Magi,,变出花田的魔法,
+Skill/S_Frieren_R2_Description,Text,,,"At start of battle, greatly increase base damage multiplier of all ""Innate Attack"" in deck based on <color=#319B92>Accumulated Mana</color>. Gains: Whenever an ""Innate Attack"" is cast, increase damage of all ""Innate Attacks"" by 4 during this combat.",,战斗开始时使牌库中的所有“基础攻击”基础伤害倍率基于<color=#319B92>累积的魔力</color>大幅提升，获得：每次释放“基础攻击”时，本次战斗期间所有“基础攻击”伤害增加4点。,
+Skill/S_Frieren_R2_Name,Text,,,Intimidating Glare,,瞪眼,
+SkillExtended/En_Frieren_1_EX_EnforceString,Text,,,Attack skill,,攻击技能,
+SkillExtended/En_Frieren_1_EX_Name,Text,,,"Can be considered as ""Innate Attack"". Base damage multiplier increased by 30%.",,可视为“基础攻击”，基础伤害倍率提升30%。,
+SkillExtended/En_Frieren_2_EX_Des,Text,,,,,,
+SkillExtended/En_Frieren_2_EX_EnforceString,Text,,,,,,
+SkillExtended/En_Frieren_2_EX_Name,Text,,,"Can be considered as ""Innate Protection"". Grants Shield based on Healing when cast.",,可视为“基础防御”，释放时获得基于治疗力的魔力屏障。,
+SkillExtended/S_Frieren_6_1_EX_Des,Text,,,Skill target becomes all enemies.,,技能目标变为所有敌人。,
+SkillExtended/S_Frieren_6_1_EX_Name,Text,,,Attack Diffusion,,攻击扩散化,
+SkillExtended/S_Frieren_6_2_EX_Des,Text,,,Skill target becomes all allies.,,技能目标变为所有友军。,
+SkillExtended/S_Frieren_6_2_EX_Name,Text,,,Healing Diffusion,,治疗扩散化,
+SkillExtended/S_Frieren_8_1_EX_Des,Text,,,"Gains ignores Taunt. Can be considered as ""Innate Attack"".",,获得无视嘲讽，可视为“基础攻击”。,
+SkillExtended/S_Frieren_8_1_EX_Name,Text,,,Compressed Mana,,压缩化魔力,
+SkillExtended/S_Frieren_8_EX_Des,Text,,,Base damage multiplier increased by &a% based on <color=#319B92>Accumulated Mana</color>.,,基础伤害倍率基于<color=#319B92>累积的魔力</color>提升&a%。,
+SkillExtended/S_Frieren_8_EX_Name,Text,,,High-Density Mana,,高浓度魔力,
+SkillExtended/S_Frieren_9_EX_Des,Text,,,Base multiplier increased by 100%.,,基础倍率提升100%。,
+SkillExtended/S_Frieren_9_EX_Name,Text,,,Complete Analysis,,完全解析,
+SkillExtended/S_Frieren_R1_EX_Des,Text,,,Gains Swiftness,,获得迅速,
+SkillExtended/S_Frieren_R1_EX_Name,Text,,,Flower Field's Blessing,,花田的祝福,
+SkillExtended/S_Frieren_R2_EX_Des,Text,,,"Whenever an ""Innate Attack"" is cast, increase damage of all ""Innate Attacks"" by 4 during this combat. 
+
+Current damage increase: &a    ",,"每次释放“基础攻击”时，本次战斗期间所有“基础攻击”伤害增加4点。
+
+当前增加伤害：&a",
+SkillExtended/S_Frieren_R2_EX_Name,Text,,,Rapid Casting,,高速施法,
+,,,,,,,
+

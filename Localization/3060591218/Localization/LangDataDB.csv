@@ -1,0 +1,540 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Turquoise_10_S_Name,Text,,보호막,Protective Shield,バリア,保护罩,保護罩
+Buff/B_Turquoise_10_T_Description,Text,,"&target에게 도발당함.
+대상을 공격하면 1중첩 감소합니다.","Prioritize attacking &target. 
+Attacking this target reduces stacks by 1.","&targetを優先的に攻撃する。
+その対象を攻撃するとストックが1減少する。","优先攻击&target。
+攻击该目标时减少1层。","優先攻擊&target。
+攻擊該目標時減少1層。"
+Buff/B_Turquoise_10_T_Name,Text,,분노!,Taunt!,挑発,嘲讽,嘲諷
+Buff/B_Turquoise_21_T_Name,Text,,방어력 무시 증가!,Defense Penetration increased!,防御貫通力増加,防御穿透增加！,防禦穿透增加！
+Buff/B_Turquoise_3_T_Description,Text,,"공격당했을 경우, &a피해의 실버스틴의 사격을 두 번 받습니다.
+공격당하면 제거됩니다.","When attacked, receive 2 additional Silverstein Shots, each dealing &a damage. 
+Removed when triggered.","攻撃された時、&aのダメージのシルバースタインの射撃を2回受ける。
+発動時に除去される。","受到攻击时，额外受到2次西尔弗斯坦的射击，每次造成&a点伤害。
+触发时解除","受到攻擊時，額外受到2次「西爾弗斯坦的射擊」，每次造成&a點傷害，並解除此效果。
+"
+Buff/B_Turquoise_3_T_Name,Text,,터쿼이즈의 표식,Turquoise's Mark,ターコイズの刻印,青宝石的标记,青寶石的標記
+Buff/B_Turquoise_6_T_Name,Text,,치유의 증기,Healing Steam,癒しの蒸気,治疗蒸汽,治療蒸氣
+Buff/B_Turquoise_B_2_T_Description,Text,,공격받으면 제거됨,Removed when attacked.,攻撃を受けると除去する。,受到攻击时解除。,受到攻擊時解除。
+Buff/B_Turquoise_B_2_T_Name,Text,,터쿼이즈 실드,Turquoise Shield,ターコイズシールド,青宝石护盾,青寶石護盾
+Buff/B_Turquoise_R15_T_Description,Text,,자신의 <b>모방</b> 키워드를 가진 스킬은 덱과 버려진 덱에서도 <b>모방</b> 효과를 적용시킬 수 있습니다.,Skills with the <b>Mimic</b> keyword can trigger their <b>Mimic</b> effects even when in the deck or discard pile.,自身の<b>模倣</b>を持つスキルは、デッキと捨て札でも<b>模倣</b>効果を発動することができる。,自己的带有<b>模拟</b>词条的技能即便在牌库与弃牌库也会触发<b>模拟</b>效果。,牌庫和棄牌庫的自己技能，其<b>模擬</b>效果也會生效。
+Buff/B_Turquoise_R15_T_Name,Text,,보석공명,Gem Resonance,宝石の共鳴,宝石共鸣,寶石共鳴
+Buff/B_Turquoise_R17_S_Description,Text,,다른 아군의 <b>모방</b> 키워드를 가진 스킬도 자신에게 특별한 버프를 부여합니다.,Skills with <b>Mimic</b> from other allies grant special buffs to this character.,他の味方の<b>模倣</b>を持つスキルは自身に特別なバフを与える。,手中其他友军的带有<b>模拟</b>词条的技能对自身也会提供特殊增益。,手中其他友軍的技能，其附帶的<b>模擬</b>效果也會給自己生效。
+Buff/B_Turquoise_R17_S_Name,Text,,터쿼이즈,Turquoise,ターコイズ,青宝石,青寶石
+Character/Turquoise_CampSelectWord,Text,,"변화무쌍한 무기, 바로 여기 있다.",Ever-changing weapons are right here.,刻々と変化する武器がここにある。,千变万化的武器，就在此处。,千變萬化的武器，就在這裡。
+Character/Turquoise_PassiveDes,Text,,"터쿼이즈의 초기 스킬은 5개의 특수한 스킬로 구성되며, 고정능력에 위치한 터키석 공격, 터키석 공격, 하나의 터키석 보호, 하나의 터키석 치유로 구성됩니다. (혈무 난이도에서의 6번째 스킬은 터키석 공격.)
+터쿼이즈의 스킬을 잊은 경우, 잊힌 스킬의 스킬북을 획득할 수 있습니다.
+
+레벨 3에 '터쿼이즈의 심득'을 얻으며, 사용 시 터쿼이즈의 전용 스킬을 하나 배울 수 있습니다.","Turquoise's initial skills consist of 5 unique skills: 1 fixed ""Turquoise Attack"", 2 Turquoise Attacks, 1 Turquoise Protection, and 1 Turquoise Healing. (Blood Mist difficulty adds a 6th Turquoise Attack)
+When forgetting Turquoise's skills via the info window, obtain skill books for forgotten skills.
+
+Level 3: Gain 1 ""Turquoise's Insight"" item to learn one of her exclusive skills.","ターコイズの初期スキルは5つの特殊なスキルで構成され、固定能力にターコイズの攻撃、ターコイズ攻撃2つ、ターコイズの保護1つ、ターコイズの回復1つで構成される。 （ハード難易度での6番目のスキルはターコイズの攻撃。）
+ターコイズのスキルを忘れた場合、忘れたスキルのスキルブックを獲得できる。
+
+レベル3で「ターコイズの経験」を獲得し、使用時にターコイズの専用スキルを一つ習得できる。","青宝石的初始技能会由5个特殊的技能组成，包含1个位于固定能力的青之攻击，2个青之攻击、1个青之防护、1个青之治疗。（在血雾难度中第6个技能为青之攻击）
+在信息窗口遗忘青宝石的技能时，可获得被遗忘技能的技能书。
+
+3级：获得1个“青宝石心得”道具，使用后可选择1个青宝石的专属技能学习。","青寶石的初始技能由5個特殊技能組成，包含1個青之攻擊（固定能力），2個青之攻擊、1個青之防護、1个青之治療。（血霧II提供的第6個技能為青之攻擊）
+在資訊界面遺忘青寶石的技能時，可以獲得該技能的技能書。
+
+3級：獲得1個「青寶石心得」道具，可確認青寶石的所有普通技能，選擇1個學習。"
+Character/Turquoise_PassiveName,Text,,지식창조,Knowledge Creation,知識の創造,知识缔造,知識締造
+Character/Turquoise_SelectInfo,Text,,"뒤틀린 땅 어딘가에서 온 미스테리한 소녀 터쿼이즈는, 방주에 오른 뒤 전투기술을 배우길 희망하며 조사단과 방주의 모든 사람들을 찾아갔습니다.
+많은 사람들이 그녀에게 약간의 기술을 가르친 후, 이 소녀가 그들의 기술을 십중팔구는 사용할 수 있을 뿐 아니라 마력을 사용해 그들의 장비까지 모방할 수 있다는 것을 발견했습니다.
+터쿼이즈가 모방해 만든 장비를 연구하던 중, 연구소의 과학자들은 각 조사단원에 대응하는 능력까지도 조금 사용할 수 있다는 것에 놀라워했습니다.
+그 이후, 터쿼이즈는 방주에 정착해 조사단에 합류했습니다.
+
+모든 방주 대원의 전투 경험을 배운 터쿼이즈는 자신이 배운 능력을 다른 파티 멤버와 공유할 수 있습니다.
+터쿼이즈는 팀원들의 전용 장비를 모방해, 소유자에게 스킬 형태로 사용할 수 있는 능력을 줄 수 있습니다.","Turquoise, a mysterious girl from the Twisted Lands, sought to master combat techniques by learning from every Ark investigator and townsfolk. 
+She astounded them by perfectly mimicking both skills and equipment through magic. 
+Researchers discovered her simulated gear even allowed partial use of corresponding investigators' abilities. 
+Now settled in the Ark, she shares her mimicked expertise.
+
+Turquoise can replicate any investigator's exclusive weapon as a skill for its owner.","ターコイズは歪みの地からやってきた謎の少女。アークを訪れた彼女は、調査団の戦闘技術を学ぼうと、調査団の隊員や町人を片っ端から訪ねた。
+調査団が彼らの技を伝えた結果、彼女は技を模倣するだけでなく、装備品も魔法で模倣できることがわかった。
+さらに、ターコイズが作った装備品を研究しているうちに、研究所の科学者たちは自らが対象の調査団員のスキルをわずかに使えることに驚く。
+その後、ターコイズはアークに定住し、調査団に加わることを決める。　アークの全員の戦闘経験を学んだターコイズは、学んだ能力を他の味方と共有することができる。
+ターコイズは、調査団員の専用武器を模倣し、スキルの形で持ち主にその能力を与えることができる。","来自扭曲之地某处的迷之少女青宝石，在登上方舟后拜访了所有调查团与镇上的成员，希望能够学习他们的战斗技巧。
+众人们向她传授了一些技巧后，发现这位少女不仅能够把他们的招式用得八九不离十，甚至还能使用法力模拟他们的装备。
+在研究青宝石模拟出来的装备时，研究所的科学家们惊讶地发现自己甚至也能稍微使用对应调查队员的能力。
+在那之后，青宝石选择定居于方舟并加入调查团。
+
+学习了所有方舟人员战斗经验的青宝石，可以将自己所学习的能力共享与其他成员。
+青宝石可以模拟任何一把调查队员的专属武器并给予拥有者以技能的形式使用它们的能力。","來自扭曲之地某處的謎之少女青寶石，在登上方舟後拜訪了所有調查團與鎮上的成員，希望能夠學習他們的戰鬥技巧。
+有趣的地方是，這位少女不僅能夠把他們的招式用得八九不離十，甚至還能用法力模擬他們的裝備。
+研究所的科學家們還在研究中驚訝地發現，其他人在使用青寶石模擬出來的裝備時，也能稍微運用對應隊員的能力。
+在那之後，青寶石選擇定居於方舟，並加入調查團。
+
+學習了所有方舟人員的戰鬥經驗後，青寶石可以將自己所學習的能力分享給其他成員。
+青寶石能模擬出其他隊員的專屬武器，並給予擁有者以技能的形式使用它們的能力。"
+Character/Turquoise_Text_Battle_AllyND_0,Text,,응급조치도 조금 배워뒀어요.,I've studied some emergency measures too.,,急救措施我也有学过一些。,急救措施，我也有學過一些。
+Character/Turquoise_Text_Battle_AllyND_1,Text,,방패가 되어라.,Become the shield.,,变化为盾吧。,變化為盾吧。
+Character/Turquoise_Text_Battle_Cri_0,Text,,"약점은 여기, 찾았다!",Weakness located here!,,弱点在这里，找到了！,找到了，弱點就在這！
+Character/Turquoise_Text_Battle_Cri_1,Text,,"내가 배운 것, 한 번 맛보시지!",Taste the techniques I've mastered!,,我所学会的，就由你来领教一下吧！,我學到的，就由你來領教吧！
+Character/Turquoise_Text_Battle_Healed_0,Text,,(여기선 뭐라고 대답해야...) ...감사합니다.,(What's the proper response here...) ...Thank you.,,（这里应该用…）…谢谢。,（這裡應該要講……）……謝謝。
+Character/Turquoise_Text_Battle_Healed_1,Text,,정말 감사합니다.,My deepest gratitude.,,感激不尽。,感激不盡。
+Character/Turquoise_Text_Battle_Idle_0,Text,,이거 어디서 배웠더라? 흠...,(Where did I learn this? Hmm...),,（在哪里学过这个来着？呃…）,（在哪學過這個來著？呃……）
+Character/Turquoise_Text_Battle_Kill_0,Text,,연습이 진리를 만든다!,Practice makes perfect!,,实践出真知！,實踐出真知！
+Character/Turquoise_Text_Battle_Kill_1,Text,,몇 번을 다시 와도 소용없어.,Numbers mean nothing.,,再来多少个都没用的。,再來多少個都沒用的。
+Character/Turquoise_Text_Battle_Kill_2,Text,,훈련용 허수아비인가?,Are these training dummies?,,这是训练靶子吗？,這是訓練的靶子媽？
+Character/Turquoise_Text_Battle_ND_0,Text,,이런 상황에서는... 내가 후열에 서야 해.,In this situation... I should take the rear position.,,（这种情况下…我应该站位靠后些。）,（在這種情況……我該站後面一點。）
+Character/Turquoise_Text_Battle_Start_0,Text,,공부한 성과를 보일 시간이야.,Time to demonstrate my training results.,,该展现一下我的学习成果了。,該展現我的學習成果了。
+Character/Turquoise_Text_Battle_Start_1,Text,,이번에는 뭘 해야하지?,What should I replicate this time?,,这次该用什么呢？,這次該模擬什麼裝備呢？
+Character/Turquoise_Text_Field_GetItem_0,Text,,"만약 장비가 필요하시면, 사실, 제가 만들 수 있어요.","If you need equipment, I can materialize it.",,需要装备的话，其实我可以变出来的。,如果你需要裝備，其時我可以變出來的。
+Character/Turquoise_Text_Field_GetItem_1,Text,,본 적 없는 물건...,Unfamiliar object detected.,,是没见过的东西。,是沒見過的東西。
+Character/Turquoise_Text_Field_Idle_0,Text,,이쪽이에요. 길을 기억하고 있어요.,This way. I remember the path.,,走这里，我记得怎么走。,走這裡，我記得路。
+Character/Turquoise_Text_Field_Potion_P_0,Text,,"똑같이 생겼는데, 기억이 안나네...",Identical appearance... Can't recall which is which.,,长得一样根本记不住啊。,長得一樣，根本記不住啊。
+Character/Turquoise_Text_Field_Potion_P_1,Text,,이상한 냄새.,Odd scent detected.,,奇怪的味道。,奇怪的味道。
+Character/Turquoise_Text_PharosLeader_0,Text,,"...여기서 너희를 죽이면, 교주님께서 날 가르쳐주실거야.",...Eliminating you here will make the Cult Leader teach me that technique.,,……在这里杀死你们，教主大人就会教我那招了。,……在這裡殺死你們，教主大人就會教我那招了。
+Character/Turquoise_Text_PharosLeader_1,Text,,...지식욕에 잠시 이성을 잃었어.,...My thirst for knowledge clouded my judgment.,,……我被求知欲冲昏了头脑。,……我被求知欲沖昏了頭腦。
+Character/Turquoise_Text_PharosLeader_2,Text,,... 저와 함께 연습해주셔서 감사해요.,...Thank you for sparring with me.,,……感谢你们陪我练习技巧。,……感謝你們陪我練習技巧。
+Character/Turquoise_name,Text,,터쿼이즈,Turquoise,ターコイズ,青宝石,青寶石
+Item_Consume/Item_Turquoise_Description,Text,,"터쿼이즈의 모든 전용 스킬을 확인하고, 하나를 골라 배울 수 있습니다.",Reveal all of Turquoise's exclusive skills and choose one to learn.,ターコイズの全ての専用スキルを提示する。 習得するスキルを1つ選ぶ,展示青宝石的所有专属技能，从中选择1个学习,展示青寶石的所有專屬技能，選擇1個學習
+Item_Consume/Item_Turquoise_name,Text,,터쿼이즈의 심득,Turquoise's Insight,ターコイズの経験,青宝石心得,青寶石心得
+Item_Equip/Equip_Turquoise_Description,Text,,"전투 시작 시 무작위 조사단원 5명의 전용 장비를 확인하고 하나를 선택합니다. 이 전투 동안, 그 아이템의 효과를 얻습니다.
+그 후, 자신에게 “기발한 생각” 스킬의 효과를 시전합니다.","At battle start, view 5 random investigators' exclusive equipment. Chosen equipment's effects apply this battle. Then, trigger ""Brilliant Idea"" on yourself.","戦闘開始時、味方の専用装備を5つ表示し、その中から1つ選び、この戦闘中その装備の効果を得る。
+その後、自身を対象としてスキル「素晴らしいアイディア」を発動する。",战斗开始时，展示随机5个调查队员的专属装备，选择其中1个并在本次战斗期间获得该装备道具的效果；而后，立即以自身为目标触发一次“奇思妙想”技能的效果。,"戰鬥開始時，展示隨機5個調查隊員的專屬裝備，在本次戰鬥期間獲得你選擇的1個裝備道具的效果。
+選擇後，立即對自身觸發一次「奇思妙想」技能的效果。"
+Item_Equip/Equip_Turquoise_name,Text,,터쿼이즈,Turquoise,ターコイズ,青宝石,青寶石
+Item_Passive/Relic_Turquoise_Description,Text,,"덱이 섞일 때마다, 무작위 아군을 대상으로 “기발한 생각”의 효과를 발동합니다. 생성된 스킬은 손이 아니라 덱에 추가됩니다. 그 후, 덱에서 스킬을 한 장 뽑습니다.","Whenever the deck is shuffled, trigger ""Brilliant Idea"" on random ally. Generated skills enter deck instead of hand. Then draw 1 skill.","デッキがシャッフルされた時、ランダムな味方を対象として「素晴らしいアイディア」を発動する。
+この方法で生成したスキルはデッキに移動する。
+その後、スキルを1枚引く。",每当抽牌库洗牌时，以随机友军为目标立即触发一次“奇思妙想”技能的效果，以此生成的技能将进入抽牌库而非手中；而后，抽取1个技能。,牌庫洗牌時，對1名隨機隊員觸發一次「奇思妙想」技能的效果（因此生成的技能改為進入牌庫），並抽取1個技能。
+Item_Passive/Relic_Turquoise_name,Text,,작업대,Workbench,作業台,工作台,工作台
+SimpleCampDialogue/CampDial_Turquoise_Amethyst_Dialogues_0,Text,,[B]이 책 한 번 읽어봐.,[B]Read this book.,,[B]这本书给你看。,[B]這本書给你看。
+SimpleCampDialogue/CampDial_Turquoise_Amethyst_Dialogues_1,Text,,[A]점성술? 이걸 다 읽으면 별을 다룰 수 있게 되는 건가요?,[A]Astrology? Will I learn to control the stars after finishing it?,,[A]占星书？看完我就能明白怎么控制星星了吗？,[A]占星書？讀完後我就能明白怎麼控制星星了嗎？
+SimpleCampDialogue/CampDial_Turquoise_Amethyst_Dialogues_2,Text,,[B]당연히 아니지. 이건 나만의 능력이라구~,[B]Of course not. That’s my unique talent~,,[B]这倒不是，这是我的特有本领啦~,[B]這倒不是，這是我的特有本領啦～
+SimpleCampDialogue/CampDial_Turquoise_Azar_Dialogues_0,Text,,[B]여기에는 왜 온거지?,[B]What brings you here?,,[B]你来这里有什么目的？,[B]你來這裡有什麼目的？
+SimpleCampDialogue/CampDial_Turquoise_Azar_Dialogues_1,Text,,"[A]전 그저 학생일 뿐이고, 당신은 제 스승님이니까요.","[A]I’m just a student, and you’re my teacher.",,[A]我只是一介学生，而您是我的老师。,[A]我只是一介學生，而您是我的老師。
+SimpleCampDialogue/CampDial_Turquoise_Blue_Dialogues_0,Text,,이건 무슨 책이지?,[B]What’s this book?,,[B]这本书是什么？,[B]這是什麼？
+SimpleCampDialogue/CampDial_Turquoise_Blue_Dialogues_1,Text,,"《개기월식의 서》라는 건데, 카드를 한 장 버리는 것으로...","[A]""The Tome of Total Lunar Eclipse""—discard 1 card to...",,[A]这本书叫《月全食之书》，书里说丢弃1张手卡……,[A]這是《月全食之書》。書上說，丢棄1張手牌……
+SimpleCampDialogue/CampDial_Turquoise_Charon_Dialogues_0,Text,,"[A]스승님, 이제 저도 암흑사제에요.","[A]Master Charon, I’m a Dark Priest now too.",,[A]老师，现在我也是黑暗祭司了。,[A]老師，現在我也是黑暗祭司了。
+SimpleCampDialogue/CampDial_Turquoise_Charon_Dialogues_1,Text,,[B]정말로 나와 같이 암흑의 길을 걸으려는 사람이 있다니...,[B]To think someone would walk the dark path with me...,,[B]竟然有人愿意与我一同步入这条黑暗之路……,[B]竟然有人願意與我一同步入這條黑暗之路……
+SimpleCampDialogue/CampDial_Turquoise_Charon_Dialogues_2,Text,,[B]정말 감동이야!,[B]How touching!,,[B]真是太感动了！,[B]真是太感動了！
+SimpleCampDialogue/CampDial_Turquoise_Chrona_Dialogues_0,Text,,[B]이 무기에 큰 관심이 없길 바랄게.,[B]I’d prefer you not eyeing this weapon.,,[B]还请不要打这把武器的主意……,[B]還請不要打這把武器的主意……
+SimpleCampDialogue/CampDial_Turquoise_Chrona_Dialogues_1,Text,,[A]걱정 마세요. 그렇게 뻔뻔하진 않으니까요.,"[A]Don’t worry, I know my limits.",,[A]放心，我还是有点自知之明的。,[A]放心，我還是有些自知之明的。
+SimpleCampDialogue/CampDial_Turquoise_Emerald_Dialogues_0,Text,,[B]원한다면 가져가. 이건 이미 양산되는 물건이거든.,[B]Take it if you want. These are mass-produced anyway.,,[B]你想要就拿去吧，这东西早就量产了。,[B]你想要就拿去吧，畢竟這東西早就量產了。
+SimpleCampDialogue/CampDial_Turquoise_Emerald_Dialogues_1,Text,,"[A]이미 마스터했지만, 그저 녹색이라는 것이 의심스러울 뿐이에요. 아주 많이요.","[A]I’ve already mastered it, but I’m deeply skeptical about the ""Green Essence.""",,[A]其实我已经学会了，但是我对于绿意，抱有很大的怀疑态度。,[A]其實我已經學會了，不過我還是對於綠意抱有很大的懷疑態度。
+SimpleCampDialogue/CampDial_Turquoise_Hein_Dialogues_0,Text,,"[A]화가 나면, 책을 읽는게 도움이 될 지도 몰라요.","[A]When angry, reading might help.",,[A]生气的话，或许书能帮助你。,[A]生氣的話，或許讀書能幫到你。
+SimpleCampDialogue/CampDial_Turquoise_Hein_Dialogues_1,Text,,[B]분풀이로 사람을 써는게 더 낫겠는데.,[B]Slashing people is better stress relief.,,[B]还是去砍人解恨爽快。,[B]還是砍人解恨更爽快。
+SimpleCampDialogue/CampDial_Turquoise_Hein_Dialogues_2,Text,,[A]너무 극단적이잖아요.,[A]That’s too extreme.,,[A]太极端了吧。,[A]太極端了吧。
+SimpleCampDialogue/CampDial_Turquoise_Huz_Dialogues_0,Text,,[A]채찍으로 치유한다구요? 정말 미친 것 같아요.,[A]Healing with a whip? That’s insane.,,[A]用鞭子治疗，太疯狂了。,[A]用鞭子治療，太瘋狂了。
+SimpleCampDialogue/CampDial_Turquoise_Huz_Dialogues_1,Text,,[B]그건 사용하는 사람이 누구냐에 달려있지.,[B]Depends on who wields it.,,[B]那要看使用的人是谁。,[B]那要由使用者決定。
+SimpleCampDialogue/CampDial_Turquoise_Huz_Dialogues_2,Text,,[A]스승님 말이 맞아요. 전 아직 더 공부해야겠네요.,"[A]You’re right, Master. I need more study.",,[A]老师说的对，我还需要多多学习才是。,[A]老師說得對，我還需要多多學習才對。
+SimpleCampDialogue/CampDial_Turquoise_Ilya_Dialogues_0,Text,,[B]난 이미 네게 가르칠 것이 없어. 난 연약하거든...,[B]I’ve nothing left to teach. I’m weak...,,[B]我已经没什么能教你的了，我很弱的……,[B]我已經沒什麼好教的了，畢竟我實力很弱……
+SimpleCampDialogue/CampDial_Turquoise_Ilya_Dialogues_1,Text,,"[A]제 스승님들 중에서 가장 강하신 분이신걸요, 자신을 좀 가지셔도 돼요!",[A]You’re the strongest teacher I’ve met! Have confidence!,,[A]您是我遇到的老师中最强的一位，还请自信一点。,[A]您是我遇到的老師中最強的一位，請您自信一點。
+SimpleCampDialogue/CampDial_Turquoise_Iron_Dialogues_0,Text,,[A]투구까지 쓰실 필요는 없잖아요.,[A]You don’t need to wear that helmet.,,[A]您明明可以不穿盔甲的。,[A]您明明可以不穿盔甲的。
+SimpleCampDialogue/CampDial_Turquoise_Iron_Dialogues_1,Text,,"[B]얼굴이 안 보이는 사람은, 보통 타인의 상상 속에서 더 멋진 법이지.",[B]A hidden face lets others imagine someone cooler.,,[B]看不到面容的人，通常在别人想象里比较酷。,[B]看不到面容的人，更容易給別人比較酷的想像。
+SimpleCampDialogue/CampDial_Turquoise_Joey_Dialogues_0,Text,,[A]이 책들 중에 직접 쓰신 책이 얼마나 되나요?,[A]How many of these books did you write?,,[A]这些书哪些是您写的？,[A]請問這些書籍，有哪些是您的手筆？
+SimpleCampDialogue/CampDial_Turquoise_Joey_Dialogues_1,Text,,[B]음... 아마 전부?,[B]Hmm... All of them?,,[B]呃……大概都是？,[B]呃……大概都是？
+SimpleCampDialogue/CampDial_Turquoise_Joey_Dialogues_2,Text,,[A]역시 스승님은 천재시군요!,[A]Master Joey truly is a genius!,,[A]老师果然是天才！,[A]老師果然是天才！
+SimpleCampDialogue/CampDial_Turquoise_Johan_Dialogues_0,Text,,"[B]... 저는 단지 더 강해지는 것에 집착할 뿐입니다. 당신은 조금 더 당신에게 어울리는, 자신만의 길을 선택해야 해요.",[B]...I’m driven by obsession. You must find your own path.,,[B]……我只是被执念驱使着自己不断的变强，而你应当寻找更适合你自己的路途。,[B]……我只是受執念驅使，才讓自己不斷變強。而你，應當尋找更適合你自己的路。
+SimpleCampDialogue/CampDial_Turquoise_Johan_Dialogues_1,Text,,"[A]순수한 마음만이 정점에 이를 수 있는 법이에요, 스승님.","[A]Only a pure heart can reach the peak, Master Johan.",,[A]老师，更加纯净的心才能做到顶峰。,[A]老師，正是更純粹的心靈，才越能攀到巔峰。
+SimpleCampDialogue/CampDial_Turquoise_Leryn_Dialogues_0,Text,,[B]아직 바깥 세계에 대해 기억하고 있니?,[B]Do you still remember the outside world?,,[B]还记得外面的世界吗？,[B]還記得外面的世界嗎？
+SimpleCampDialogue/CampDial_Turquoise_Leryn_Dialogues_1,Text,,"[A]여기가 바깥 세계인데요, 스승님. 무슨 말 하시는 거에요?","[A]This is the outside world. What do you mean, Master Leryn?",,[A]这里不就是吗，老师，在说什么呢。,[A]不就是這裡嗎？老師，您在說什麼？
+SimpleCampDialogue/CampDial_Turquoise_Lian_Dialogues_0,Text,,[A]스승님께 다시 한 번 훈련을 받고 싶어요.,"[A]I want to train with you again, Master Lian.",,[A]还想跟老师再练习一次。,[A]還想再向老師討教一回。
+SimpleCampDialogue/CampDial_Turquoise_Lian_Dialogues_1,Text,,"[B]지금은 방법이 없으니, 방주로 돌아가면 다시 찾아와라.",[B]Fine. Visit me back at the Ark.,,[B]完全拿你没办法，等回镇上再来吧。,[B]真是拿你沒辦法。等回到鎮上後再來吧。
+SimpleCampDialogue/CampDial_Turquoise_Lian_Dialogues_2,Text,,[A]네! 앞으로도 잘 가르쳐주세요!,[A]Yes! Please keep teaching me!,,[A]是！还请多多指教！,[A]是！還請多多指教！
+SimpleCampDialogue/CampDial_Turquoise_Miss_Dialogues_0,Text,,[B]그리고 이렇게 전기톱의 엔진을 키면... 쨘!,[B]Start the chainsaw engine like this... Ta-da!,,[B]像这样启动电锯的引擎的话……嘿呀！,[B]像這樣，啟動電鋸的引擎……嘿呀！
+SimpleCampDialogue/CampDial_Turquoise_Miss_Dialogues_1,Text,,[A]타오른다! 이런 원리군요!,[A]It ignites! So that’s the mechanism!,,[A]燃起来了！原来原理是这样的！,[A]燃燒起來了！原來是這個原理！
+SimpleCampDialogue/CampDial_Turquoise_Miss_Dialogues_2,Text,,[B]이해가 빠르네! 잘했어!,[B]Quick learner! Well done!,,[B]理解得很快嘛！真棒！,[B]理解得很快嘛！真棒！
+SimpleCampDialogue/CampDial_Turquoise_Momori_Dialogues_0,Text,,[B]적들을 납작하게 만들 준비는 됐어?,[B]Ready to flatten enemies?,,[B]有没有信心把敌人通通砸扁？,[B]有沒有信心把敵人通通砸扁？
+SimpleCampDialogue/CampDial_Turquoise_Momori_Dialogues_1,Text,,[A]의욕 만땅☆,[A]Full motivation☆,,[A]干劲十足☆,[A]幹勁十足☆
+SimpleCampDialogue/CampDial_Turquoise_Momori_Dialogues_2,Text,,"[B]... 말투도 꽤 괜찮게 배웠고, 이번 학비는 면제로 해줄게☆",[B]...Your speech mimicry is decent. Tuition waived☆,,[B]……看在语气学的挺不错的份上，这次的学费就免了吧☆,[B]……看在你語氣學得挺不錯，這次的學費就免了吧☆
+SimpleCampDialogue/CampDial_Turquoise_Narhan_Dialogues_0,Text,,[B](지금 우리의 의식은 연결되어있다.),[B](Our consciousness is linked now.),,[B]（此刻我们之间意识互通。）,[B]（此刻，我們之間的意識互通。）
+SimpleCampDialogue/CampDial_Turquoise_Narhan_Dialogues_1,Text,,"[A](정말 좋네요, 스승님. 입을 열지 않아도 돼요.)","[A](This feels nice, Master. No need to speak.)",,[A]（真好，老师，我不用开口了。）,[A]（真好的感覺，老師。我甚至無須開口。）
+SimpleCampDialogue/CampDial_Turquoise_Obsidian_Dialogues_0,Text,,[B]이 검은 못 줘.,[B]Can’t give you this sword.,,[B]这把剑不能给你。,[B]這把劍不能交给你。
+SimpleCampDialogue/CampDial_Turquoise_Obsidian_Dialogues_1,Text,,"[A]제발요, 언니. 네?","[A]Please, sis? Hmm?",,[A]求求你了，我的好姐姐。,[A]求求你了，我的好姐姐。
+SimpleCampDialogue/CampDial_Turquoise_Obsidian_Dialogues_2,Text,,[B]안돼.,[B]No.,,[B]不行。,[B]不行。
+SimpleCampDialogue/CampDial_Turquoise_Obsidian_Dialogues_3,Text,,[A]석영 언니한테 이를거에요!,[A]I’ll tell Quartz!,,[A]我要去找白宝石告状！,[A]我要去找白寶石告状！
+SimpleCampDialogue/CampDial_Turquoise_Pheonix_Dialogues_0,Text,,[A](이 녀석이 대체 뭘 할 수 있지?),[A](What can this guy even do?),,[A]（这家伙有什么本领吗？）,[A]（這傢伙……有什麼本領嗎？）
+SimpleCampDialogue/CampDial_Turquoise_Pheonix_Dialogues_1,Text,,[B](두리번) (누가 날 보고 있는 것 같은데...),[B](Glancing around) (Someone’s watching...),,[B]（环视四周）（怎么感觉有人在盯着我看……）,[B]（環視四周）（怎麼感覺有人盯著我看……）
+SimpleCampDialogue/CampDial_Turquoise_Pheonix_Dialogues_2,Text,,[A](이 쪽을 봤어!) (고개 돌림),[A](He looked over!) (Turns away),,[A]（看过来了！）（转过头）,[A]（看過來了！）（轉過頭）
+SimpleCampDialogue/CampDial_Turquoise_Pheonix_Dialogues_3,Text,,[B]?,[B]?,,[B]？,[B]？
+SimpleCampDialogue/CampDial_Turquoise_Priest_Dialogues_0,Text,,"[A]마치 신의 힘을 빌린 것 같아요, 스승님!","[A]It’s like borrowing divine power, Master!",,[A]我仿佛借到了神的力量，老师！,[A]我好像感受到了神的光輝，老師！
+SimpleCampDialogue/CampDial_Turquoise_Priest_Dialogues_1,Text,,[B](미소) 정말 잘 배우셨어요. 그 분의 딸이라고 해도 손색이 없겠네요.,B Well learned. Worthy of the Goddess’s daughter.,,[B]（微笑）能学会就好，不愧是神的女儿。,[B]（微笑）能學會就好，不愧是神的女兒。
+SimpleCampDialogue/CampDial_Turquoise_Priest_Dialogues_2,Text,,[A](사람들을 놀래켜서 기절시킨 뒤에 치료하기 쉽겠다.),[A](Fainting people makes healing easier.),,[A]（把人吓晕后就很容易治疗了。）,[A]（把人嚇暈後，就能容易治療他了。）
+SimpleCampDialogue/CampDial_Turquoise_Quartz_Dialogues_0,Text,,"[A]내 스태프, 돌려주겠니?",[A]May I have my staff back?,,[A]我的法杖，可以还我了吗。,[A]我的法杖，可以還來了嗎？
+SimpleCampDialogue/CampDial_Turquoise_Quartz_Dialogues_1,Text,,[B]여기요. 이미 어떻게 모방할 수 있을지 알았거든요.,[B]Here. I can replicate it now.,,[B]给你，我已经可以还原魔杖了。,[B]給你，我已經可以還原魔杖了。
+SimpleCampDialogue/CampDial_Turquoise_Red_Dialogues_0,Text,,[B]무리하지 마. 태양의 힘은 배우기 어려워.,[B]Don’t force it. Solar power is tricky.,,[B]不要勉强自己，太阳的力量可不好学。,[B]不要勉強自己，太陽之力可不好學。
+SimpleCampDialogue/CampDial_Turquoise_Red_Dialogues_1,Text,,"[A]감사합니다, 스승님. 언젠가는 할 수 있을거에요.","[A]Thank you, Master Helia. I’ll master it someday.",,[A]谢谢老师，总有一天我能学会的。,[A]謝謝老師，我總有一天會學會的。
+SimpleCampDialogue/CampDial_Turquoise_Roland_Dialogues_0,Text,,[A]이렇게 많은 무기를 짧은 시간 안에 변경할 수 있다니...,[A]To switch weapons so fluidly... Incredible.,,[A]竟然能在短时间之内如此娴熟地切换这么多武器……,[A]竟然能在短時間之内，如此嫻熟地切換這麼多武器……
+SimpleCampDialogue/CampDial_Turquoise_Roland_Dialogues_1,Text,,"[A]롤랑 스승님, 저도 배우고 싶어요!","[A]Master Roland, teach me this!",,[A]罗兰先生，我想学这个！,[A]羅蘭先生，我想學這個！
+SimpleCampDialogue/CampDial_Turquoise_Roland_Dialogues_2,Text,,[B]연습으로만 배울 수 있어. 아주 많은 연습 말야.,[B]Practice breeds mastery. Lots of practice.,,[B]熟能生巧而已，多练练就行。,[B]熟能生巧而已，多練練就行。
+SimpleCampDialogue/CampDial_Turquoise_Roland_Dialogues_3,Text,,"[B]하지만, 어떤 장비도 필요 없이 무기를 복제할 수 있다니... 역시 마법이라 해야 하나.",[B]But replicating weapons without tools... Truly magic.,,[B]不过不需要借助任何设备就能复制武器……该说不愧是魔法吗。,[B]不過，不需要借助任何設備，就能複製武器……該說不愧是魔法嗎？
+SimpleCampDialogue/CampDial_Turquoise_Ruby_Dialogues_0,Text,,[B]왜 계속 내 검을 쳐다보는거야.,[B]Why stare at my blade?,,[B]为什么你一直盯着我的刀看。,[B]為什麼一直盯著我的刀看？
+SimpleCampDialogue/CampDial_Turquoise_Ruby_Dialogues_1,Text,,"[A]한 번만 만져보면 안될까요, 네?",[A]Let me touch it once. Please?,,[A]可以让我摸一次吗，求求了。,[A]可以讓我摸一次嗎？求求你。
+SimpleCampDialogue/CampDial_Turquoise_Ruby_Dialogues_2,Text,,"[B]지금은 휴식 중이니, 네 마음대로 해.",[B]Rest time. Go ahead.,,[B]现在是休息时间，你想要摸就拿去便是了。,[B]現在是休息時間，你想要摸，就拿去吧。
+SimpleCampDialogue/CampDial_Turquoise_Ruby_Dialogues_3,Text,,"[A]감사합니다, 스승님!","[A]Thank you, Master Ruby!",,[A]谢谢老师！,[A]謝謝老師！
+SimpleCampDialogue/CampDial_Turquoise_Sapphire_Dialogues_0,Text,,[A]제가 복제할 수 없는 검도 있다니.,[A]A sword I can’t replicate? Impossible.,,[A]竟然也有我无法复制的剑。,[A]竟然也有我無法複製的劍？
+SimpleCampDialogue/CampDial_Turquoise_Sapphire_Dialogues_1,Text,,[B]혹한의 심장은 자신만의 자아를 가지고 있거든.,[B]Frostheart has its own will.,,[B]冰蓝之心有自己的心思。,[B]冰藍之心有自己的心思。
+SimpleCampDialogue/CampDial_Turquoise_Sapphire_Dialogues_2,Text,,[A]정말 대단한 무기네요.,[A]An extraordinary weapon.,,[A]好厉害的武器。,[A]好厲害的武器。
+SimpleCampDialogue/CampDial_Turquoise_SilverStein_Dialogues_0,Text,,"[A]사격의 정확도는, 조금 더 연습해야겠어요.",[A]My shooting accuracy needs practice.,,[A]关于射击准度，我还需要多加练习。,[A]關於射擊準度，我還需要多加練習。
+SimpleCampDialogue/CampDial_Turquoise_SilverStein_Dialogues_1,Text,,[B]지금이 바로 실탄으로 연습할 시간이지. 이 기회를 놓치지 말라고.,[B]Now’s the time for live-fire training. Seize it.,,[B]现在正是实弹练习的时候，把握机会。,[B]現在正是實彈練習的時候，把握機會。
+SimpleCampDialogue/CampDial_Turquoise_Sizz_Dialogues_0,Text,,"[A]이제 스승님이 없을 때도, 혼자서 이브를 소환할 수 있게 됐어요!",[A]I can summon Eve without the help of Master Sizz now!,,[A]老师不在的时候，我也能自己召唤伊芙了。,[A]即使不依賴老師，我也能自己召喚伊芙了。
+SimpleCampDialogue/CampDial_Turquoise_Sizz_Dialogues_1,Text,,[B]이 것도 배운 거에요? 정말 신기하네요.,[B]You learned this too? Astonishing.,,[B]这也能学会吗，简直不可思议。,[B]這也能學會嗎？簡直不可思議。
+SimpleCampDialogue/CampDial_Turquoise_Sizz_Dialogues_2,Text,,[A]복제품 하나 소환하는건 그렇게 대단한 일도 아닌걸요.,[A]Just replicating a prototype. No big deal.,,[A]只是复制一个样品出来没什么大不了的啦。,[A]只是複製一個樣品，沒什麼大不了的啦。
+SimpleCampDialogue/CampDial_Turquoise_Topaz_Dialogues_0,Text,,[A]이런 책은 교회에서도 본 적 없어요.,[A]Never saw this book in the church.,,[A]我在教会里没见过这本书。,[A]我沒在教會裡見過這本書籍。
+SimpleCampDialogue/CampDial_Turquoise_Topaz_Dialogues_1,Text,,[B]이건 신과 악마에 대해 쓰인 책이지. 한 권 밖에 없다구.,[B]It’s about gods and demons. The only copy.,,[B]这本书上记载着神与魔，仅有一本。,[B]這本書獨一無二，記載有關神與魔的內容。
+SimpleCampDialogue/CampDial_Turquoise_Topaz_Dialogues_2,Text,,[A]한 번 읽어봐도 도리까요?,[A]May I read it?,,[A]可以让我看看嘛？,[A]可以借我看看嗎？
+SimpleCampDialogue/CampDial_Turquoise_Topaz_Dialogues_3,Text,,[B]나부터 다 읽고 빌려줄게.,[B]After I finish.,,[B]等我看完就给你。,[B]等我看完就给你。
+SimpleCampDialogue/CampDial_Turquoise_Trisha_Dialogues_0,Text,,[A]그림자 장막!,[A]Shadow Veil!,,[A]影子帷幕！,[A]影子帷幕！
+SimpleCampDialogue/CampDial_Turquoise_Trisha_Dialogues_1,Text,,[B]깜짝이야. 터쿼이즈네.,[B]Turquoise? You startled me.,,[B]是青宝石啊，吓我一跳。,[B]是青寶石啊，嚇我一跳。
+SimpleCampDialogue/CampDial_Turquoise_Trisha_Dialogues_2,Text,,[B]내가 파로스 교단 사람이었으면 위험했겠어.,"[B]Had you been Pharos, I’d be doomed.",,[B]要是法洛斯教团的人的话就危险了。,[B]假如你是法洛斯教團的人，那我就危險了。
+SimpleCampDialogue/CampDial_Turquoise_Trisha_Dialogues_3,Text,,"[A]헤헤, 트리샤 스승님이 가르쳐주신 덕이죠.","[A]Hehe, thanks to your training, Master Trisha.",,[A]嘿嘿，谢谢老师的教导。,[A]嘿嘿，謝謝老師的教導。
+SimpleCampDialogue/CampDial_Turquoise_ViridEmerald_Dialogues_0,Text,,[B]원한다면 가져가. 이건 이미 양산되는 물건이거든.,[B]Take it if you want. Mass-produced anyway.,,[B]你想要就拿去吧，这东西早就量产了。,[B]你想要就拿去吧，不過這東西早就量產了。
+SimpleCampDialogue/CampDial_Turquoise_ViridEmerald_Dialogues_1,Text,,"[A]이미 마스터했지만, 그저 녹색이라는 것이 의심스러울 뿐이에요. 아주 많이요.","[A]Mastered it, but still doubt the ""Green Essence"".",,[A]其实我已经学会了，但是我对于绿意，抱有很大的怀疑态度。,[A]其實我已經學會了，不過我還是對於綠意抱有很大的懷疑態度。
+Skill/S_Turquoise_10_Description,Text,,"명중하면 가한 피해의 절반만큼, 1턴간 지속되는 보호막을 얻습니다.
+<color=#6ac6cc>모방: 턴 시작 시에 모든 적을 도발합니다. 한 전투에 한 번만 적용됩니다.</color>","On hit, convert 50% of damage dealt into a Protective Shield for 1 turn. 
+<color=#6ac6cc>Mimic: Once per battle, Taunt all enemies at turn start.</color>","命中すると与えたダメージの半分だけ、1ターン持続するバリアを得る。
+<color=#6ac6cc>模倣：ターン開始時に敵全体を挑発する。1回の戦闘で1度だけ発動する。</color>","命中时，将造成伤害的50%转换为保护罩，持续1回合。
+<color=#6ac6cc>模拟：每场战斗限一次，回合开始时嘲讽所有敌人。</color>","造成傷害的50%轉換為1回合的保護罩。
+<color=#6ac6cc>模擬：每場戰鬥限一次，回合開始時，嘲諷所有敵人。</color>"
+Skill/S_Turquoise_10_Name,Text,,경비대의 증서,Guardian's Certificate,警備員の証明書,守卫队的证书,守衛隊的證書
+Skill/S_Turquoise_11_Description,Text,,"비용 1의 마법의 실타래를 생성하고, 신속과 1턴 후 버려짐을 부여합니다.
+<color=#6ac6cc>모방: 턴 시작 시, 덱에 있는 자신의 치유 스킬의 비용이 1 감소합니다. 한 전투에 한 번만 적용됩니다.</color>","Generate a Magic Thread (1 cost) with Swift and Exile after 1 turn. 
+<color=#6ac6cc>Mimic: Once per battle, reduce cost of your Healing skills in deck by 1 at turn start.</color>","コスト1の「魔法の糸」を生成する。それは迅速と1ターン後に捨てられる、除外を持つ。
+<color=#6ac6cc>模倣：ターン開始時、デッキにある自身の回復スキルのコストが1減少する。1回の戦闘で1度だけ発動する。</color>","生成费用为1的“魔法线团”，附带迅速，1回合后弃牌，放逐。
+<color=#6ac6cc>模拟：每场战斗限一次，回合开始时，使抽牌库中自己的治疗技能费用减少1点。</color>","生成「魔法線團」，費用變為1點，附帶迅速、放逐、1回合後棄牌。
+<color=#6ac6cc>模擬：每場戰鬥限一次，回合開始時，使牌庫中所有自己的治療技能費用減少1點。</color>"
+Skill/S_Turquoise_11_Name,Text,,마법의 실타래,Magic Thread,魔法の糸,魔法线团,魔法線團
+Skill/S_Turquoise_12_Description,Text,,"만약 대상이 도발 상태가 아니라면, “꼬맹이가!”디버프가 적용되지 않습니다.
+<color=#6ac6cc>모방: 도발 상태의 적에게 가하는 피해가 20% 상승합니다.</color>","Does not apply ""Brat!"" debuff to non-Taunted targets. 
+<color=#6ac6cc>Mimic: Deal 20% increased damage to Taunted enemies.</color>","対象が挑発状態でなければ、[ガキが!]は与えられない。
+<color=#6ac6cc>模倣:挑発状態の敵に与えるダメージが20%増加する。</color>","指向未处于嘲讽状态的目标释放时，该技能的“小样儿”减益将不会施加。
+<color=#6ac6cc>模拟：对处于嘲讽状态的目标造成的伤害增加20%。</color>","不會對沒有嘲諷狀態的目標賦予「小樣兒！」減益。
+<color=#6ac6cc>模擬：對嘲諷狀態的目標造成的傷害增加20%。</color>"
+Skill/S_Turquoise_12_Name,Text,,뿅~☆망치,Bonk~☆Hammer,ピョン☆ハンマー,砰~☆充气锤,砰～☆充氣錘
+Skill/S_Turquoise_13_Description,Text,,"손에서 비용이 가장 높은 스킬을 하나 버립니다.
+만약 소유자의 고정능력이 사용 불가 상태라면, 사용 가능 상태로 바꿉니다.
+<color=#6ac6cc>모방: 턴 시작 시, 소유자의 고정능력에 기본기를 부여합니다. 한 전투에 한 번만 적용됩니다.</color>","Discard highest-cost skill in hand. 
+Refresh owner's Fixed Ability if unusable. 
+<color=#6ac6cc>Mimic: Once per battle, grant Basic Skill to owner's Fixed Ability at turn start.</color>","手札からコストが最も高いスキルを1つ捨てる。
+もし所有者の固定能力が使用不可の状態なら、使用可能にする。
+<color=#6ac6cc>模倣：ターン開始時、所有者の固定能力に基本を与える。1回の戦闘で1度だけ発動する。</color>","丢弃手中费用最高的技能。
+若无法使用固定能力，则刷新固定能力。
+<color=#6ac6cc>模拟：每场战斗限一次，回合开始时，使固定能力附带基本功。</color>","丟棄手中費用最高的1個技能。
+若無法使用固定能力，則刷新其冷卻。
+<color=#6ac6cc>模擬：每場戰鬥限一次，回合開始時，使固定能力附帶基本功。</color>"
+Skill/S_Turquoise_13_Name,Text,,앨리스의 선물,Alice's Gift,アリスの贈り物,爱丽丝的礼物,愛麗絲的禮物
+Skill/S_Turquoise_14_Description,Text,,"손의 카드가 다섯 장이 될 때까지 스킬을 선택해 버립니다.
+다음에 패에서 사용하는 스킬의 비용을 버린 스킬의 수 만큼 감소시킵니다.
+<color=#6ac6cc>모방: 턴 시작 시, 최대체력의 절반만큼 이번 전투동안 지속되는 보호막을 얻습니다.</color>","Discard skills until 5 remain in hand. Next hand skill's cost reduced by number discarded. 
+<color=#6ac6cc>Mimic: Once per battle, gain Shield equal to 50% Max HP at turn start.</color>","手札が5枚になるまでスキルを選んで捨てる。
+次に手札から使用するスキルのコストを捨てたスキルの枚数と同じ値減少する。
+<color=#6ac6cc>模倣：ターン開始時、最大体力の半分、この戦闘中持続するバリアを得る。1回の戦闘で1度だけ発動する。</color>","重复选择手中的技能丢弃，直到手中剩下5个技能。根据丢弃的技能数量，减少下一个从手中使用的技能费用。
+<color=#6ac6cc>模拟：每场战斗限一次，回合开始时，生成最大体力值50%的保护罩，持续整场战斗。</color>","選擇手中的技能丟棄，直到手中剩下5個技能。
+根據丟棄的技能數量，減少下一個從手中使用的技能費用。
+<color=#6ac6cc>模擬：每場戰鬥限一次，回合開始時，生成最大體力值50%的保護罩。</color>"
+Skill/S_Turquoise_14_Name,Text,,보호막 잉크,Barrier Ink,バリアインク,墨水保护罩,墨水保護罩
+Skill/S_Turquoise_18_Description,Text,,"패에 있을 때, 이번 라운드에 소유자가 아군에게 피해를 입었다면 치명타로 명중합니다.
+<color=#6ac6cc>모방: 대상의 체력을 초과하는 피해는, 다음 자신이 사용하는 스킬의 피해량/회복량에 더해집니다.(최대 25)</color>","When in hand: Crits if owner took ally damage this round. 
+<color=#6ac6cc>Mimic: Excess damage beyond target's HP added to next skill's damage/healing (max 25).</color>      ","手札にある時、このターン中に所持者が味方からダメージを受けた場合、クリティカルする。
+<color=#6ac6cc>模倣：対象の体力を超えるダメージは、次に自身が使うスキルのダメージ/回復に加算される(最大25)。</color>","握在手中时，若本回合内自身受到过来自友军的伤害，则以暴击形式命中。
+<color=#6ac6cc>模拟：超出目标体力的伤害将附加到下一个释放的自己的技能的伤害/恢复量。（最多25）</color>","握在手中時，若受到了來自友軍的傷害，此技能在本回合內以暴擊形式命中。
+<color=#6ac6cc>模擬：超出目標體力的傷害將附加到下一個釋放的自己技能的傷害/恢復量。（最多25點）</color>"
+Skill/S_Turquoise_18_Name,Text,,광기의 흔적,Mark of Madness,狂気の痕跡,癫狂之痕,癲狂之痕
+Skill/S_Turquoise_19_Description,Text,,"만약 손에 자신의 스킬이 없다면, 다음 한 번의 공격을 회피합니다.
+<color=#6ac6cc>모방: 치명타 피해 +50%</color>","Dodge next attack if no other skills in hand. 
+<color=#6ac6cc>Mimic: Critical Chance +20%, Critical Damage +50%.</color>","手札に自身のスキルがない場合、次に受ける攻撃を100%の確率で回避する。
+<color=#6ac6cc>模倣:クリティカル率+20%、クリティカルダメージ+50%</color>","若手中没有自己的技能，则100%闪避下一次攻击。
+<color=#6ac6cc>模拟：暴击率+20%，暴击伤害+50%。</color>","若釋放時手中沒有其他自己的技能，則使自己100%閃避下一次攻擊。
+<color=#6ac6cc>模擬：暴擊率+20%，暴擊傷害+50%。</color>"
+Skill/S_Turquoise_19_Name,Text,,암살자,Assassin,暗殺者,暗杀者,暗殺者
+Skill/S_Turquoise_1_Description,Text,,"이 스킬로 적을 처치하면 즉시 예견을 발동합니다.
+<color=#6ac6cc>모방: 만약 소유자가 지원 역할군이라면 공격력+3. 그 외의 경우 치유력+3.</color>","Killing an enemy triggers Foresight. 
+<color=#6ac6cc>Mimic: +3 Attack if Support role; +3 Healing otherwise.</color>","このスキルで敵を倒すと「予知」を発動する。
+<color=#6ac6cc>模倣：もし所有者がサポートキャラなら攻撃力+3その他の場合は治癒力+3</color>","击杀时，立即触发一次预见。
+<color=#6ac6cc>模拟：若该技能拥有者为支援型角色，则攻击力+3；否则，治疗力+3。</color>","擊殺敵人時，觸發一次預見。
+<color=#6ac6cc>模擬：自身為支援者時，攻擊力+3；其他職業時，改為治療力+3。</color>"
+Skill/S_Turquoise_1_Name,Text,,신앙의 막대,Staff of Faith,信仰の杖,信仰法棒,信仰法棒
+Skill/S_Turquoise_20_Description,Text,,"다음 중 하나를 선택합니다.
+ -빵 찾기 : 일정 확률로 빵 하나를 획득합니다.(기본 확률 10%. 필드의 적 하나당+10%. 전투 한 번 당 하나만 찾을 수 있습니다.)
+ -물기 : 50골드를 소모해, 손에서 사용한 마지막 스킬을 덱의 맨 위에 놓습니다.(이 스킬과 제외된 스킬은 제외.)
+ -빵 먹기 : 빵을 하나 소모하고, 스킬을 두 개 뽑습니다.
+ -빵 던지기 : 마나 1과 빵 하나를 소모해, 체력이 가장 낮은 적에게 피해를 입힙니다. 전투 종료 후 던진 빵을 회수합니다.
+<color=#6ac6cc>모방: 한 전투에 한 번만, 치명적인 피해를 입을 경우 손에서 동일한 이름의 무작위 스킬을 버리고 피해를 막습니다.(자신의 스킬을 우선적으로 버림.)</color>","Choose:
+-Seek Bread: 10% (+10% per enemy) chance to gain 1 Bread once per battle.
+-Fetch: Pay 50 Gold to place last used hand skill atop deck.
+-Eat Bread: Consume 1 Bread to draw 2 skills.
+-Hurl Bread: Spend 1 Mana and 1 Bread to damage lowest HP enemy. Recover Bread post-battle.
+<color=#6ac6cc>Mimic: Once/battle, discard a ""Burning Feather"" to negate fatal damage (prioritizes yours).</color>","次のいずれか1つを選択する。
+ -パン探し：一定確率でパンを1つ獲得する(基本確率10%。フィールド上の全ての敵1体につき+10%。1回の戦闘で1回しか見つけることができない)。
+ -噛む：50ゴールドを消費し、手札から最後に使用したスキルをデッキの一番上に置く(このスキルと除外されたスキルを除く)。
+ -パンを食べる：パンを1つ消費し、スキルを2枚引く。
+-パン投げ：マナを1とパンを1つを消費し、体力が最も低い敵にダメージを与える。戦闘終了後、投げたパンを回収する。
+<color=#6ac6cc>模倣：1回の戦闘に1度だけ、致命的なダメージを受けた時、手札から同名のスキルをランダムに除外し、そのダメージを無効にする(自身のスキルを優先的に除外する。)。</color>","选择一个效果触发：
+ -找面包：一定概率获得1个面包（基础概率10%，场上每有1个敌人+10%，每场战斗只能找到1个面包）
+ -叼：消耗 50 金币，将从手中使用的最后一个技能放在抽牌库的最上方。（不包括在战斗中被放逐的技能，不包括该技能本身）
+ -吃面包：消耗1个面包，抽取2个技能。
+ -丢面包：消耗1点法力值和1个面包，对体力值最低的敌人造成&a点伤害。战斗结束后收回扔掉的面包。
+<color=#6ac6cc>模拟：每场战斗限一次，受到致命伤害时，放逐随机一个同名技能并抵挡此次伤害。（优先放逐自己的技能）</color>","選擇一項：
+ - 找麵包：以10%(+每個敵人10%)的機率獲得1個麵包（每場戰鬥限成功1次）。
+ - 叼：消耗 50 金幣，將最後一個從手中使用的技能放在牌庫最上方。（不包含該技能和被放逐的技能）
+ - 吃麵包：消耗1個麵包，抽取2個技能。
+ - 扔麵包：消耗1點法力值和1個麵包，對1名體力值最低的敵人造成傷害。扔掉的麵包在戰鬥結束後收回。 
+<color=#6ac6cc>模擬：每場戰鬥限一次，受到致命傷害時，放逐一個「燃燒的羽毛」（優先放逐自己的）並抵擋此次傷害。</color>"
+Skill/S_Turquoise_20_Name,Text,,불타는 깃털,Burning Feather,燃える羽根,燃烧的羽毛,燃燒的羽毛
+Skill/S_Turquoise_20_Plus_0_Description,Text,,&a%확률로 빵을 획득합니다. (빵을 이미 획득한 경우 선택 불가.),&a% chance to gain 1 Bread. (Unselectable if obtained.),&a%の確率でパンを獲得する。 (すでにパンを獲得している場合は選択不可)。,&a%概率获得1个面包。（该选项在成功获得面包后不再出现）,"&a%機率獲得1個麵包。
+成功獲得麵包後，該選項不再出現。"
+Skill/S_Turquoise_20_Plus_0_Name,Text,,빵 찾기,Seek Bread,パン探し,找面包,找麵包
+Skill/S_Turquoise_20_Plus_1_Description,Text,,"50골드를 소모해, 손에서 마지막으로 사용한 스킬을 덱의 맨 위에 놓습니다.(이 스킬과 제외된 스킬은 제외.)
+마지막으로 손에서 사용한 스킬 : &a","Pay 50 Gold to place last used hand skill atop deck. (Excludes this skill and Exiled)
+Last used skill: &a","50ゴールドを消費し、手札から最後に使用したスキルをデッキの一番上に置く(このスキルと除外されたスキルを除く)。
+最後に手札から使用されたスキル : &a","消耗 50 金币，将从手中使用的最后一个技能放在抽牌库的最上方。（不包括在战斗中被放逐的技能，不包括该技能本身）
+从手中使用的最后一个技能：&a","消耗 50 金幣，將最後一個從手中使用的技能放在牌庫最上方。（不包含該技能和被放逐的技能）
+最後一個從手中使用的技能：&a"
+Skill/S_Turquoise_20_Plus_1_Name,Text,,물기,Fetch,噛む,叼,叼
+Skill/S_Turquoise_20_Plus_2_Description,Text,,빵을 하나 소모해 스킬을 두 장 뽑습니다.,Consume 1 Bread to draw 2 skills.,パンを1つ消費してスキルを2枚引く。,消耗1个面包，抽取2个技能。,消耗1個麵包，抽取2個技能。
+Skill/S_Turquoise_20_Plus_2_Name,Text,,빵 먹기,Eat Bread,パンを食べる,吃面包,吃麵包
+Skill/S_Turquoise_20_Plus_3_Description,Text,,"마나 1과 빵을 하나 소모해, 체력이 가장 낮은 적에게 &a피해를 입힙니다.","Spend 1 Mana and 1 Bread to deal &a damage to the enemy with the lowest HP. 
+Recover the thrown Bread after battle.",マナを1とパン1つを消費し、体力が最も低い敵にダメージを与える。戦闘終了後、投げたパンを回収する。,"消耗1点法力值和1个面包，对体力值最低的敌人造成&a点伤害。
+战斗结束后收回扔掉的面包。","消耗1點法力值和1個麵包，對1名體力值最低的敵人造成&a點傷害。
+扔掉的麵包在戰鬥結束後收回。 "
+Skill/S_Turquoise_20_Plus_3_Name,Text,,빵 던지기,Hurl Bread,パン投げ,扔面包,扔麵包
+Skill/S_Turquoise_21_Description,Text,,"대상에게 <color=purple>&a 치유의 상처</color>를 입힙니다.(치유력 기반)
+<color=#6ac6cc>모방: 방어력 관통 +25%</color>","Deal <color=purple>&a Pain damage</color> (scales with Healing). 
+<color=#6ac6cc>Mimic: +50% Defense Penetration.</color>","対象に<color=purple>&aの苦痛ダメージ</color>を与える(治癒力ベース)
+<color=#6ac6cc>模倣: 防御力貫通+50%</color>","对目标造成 <color=purple>&a 点痛苦伤害</color>。（基于治疗力）
+<color=#6ac6cc>模拟：防御穿透+50%</color>","基於治療力，對目標造成 <color=purple>&a 點痛苦傷害</color>。
+<color=#6ac6cc>模擬：防禦穿透+50%。</color>"
+Skill/S_Turquoise_21_Name,Text,,치유채찍,Healing Whip,癒しの鞭,治愈皮鞭,治癒皮鞭
+Skill/S_Turquoise_22_Description,Text,,"이 스킬은 손에 있거나 고정 능력으로 사용될 경우 비용이 3 감소합니다.
+<color=#6ac6cc>모방: 턴 시작 시, 덱에서 “달의 파편” 스킬을 뽑습니다.</color>","Cost reduced by 3 when in hand or as Fixed Ability. 
+<color=#6ac6cc>Mimic: Draw ""Moon Fragment"" from deck at turn start.</color>","このスキルは手札からまたは固定能力として使用する場合、コストが3減少する。
+<color=#6ac6cc>模倣：ターン開始時、デッキから「月の破片」を1枚引く。</color>","握在手中或作为固定能力使用时，费用减少3点。
+<color=#6ac6cc>模拟：回合开始时，从牌库抽取1个“月亮碎片”技能。</color>","握在手中或作為固定能力時，費用減少3點。
+<color=#6ac6cc>模擬：回合開始時，從牌庫抽取1個「月亮碎片」。</color>"
+Skill/S_Turquoise_22_Name,Text,,태양의 파편,Sun Fragment,太陽の破片,太阳碎片,太陽碎片
+Skill/S_Turquoise_23_Description,Text,,"이 스킬은 손에 있거나 고정능력으로 사용될 경우 비용이 3 감소합니다.
+<color=#6ac6cc>모방: 턴 시작 시, 버려진 덱에서 “태양의 파편” 스킬을 가져옵니다.</color>","Cost reduced by 3 when in hand or as Fixed Ability. 
+<color=#6ac6cc>Mimic: Retrieve ""Sun Fragment"" from discard pile at turn start.</color>","このスキルは手札からまたは固定能力として使用した場合、コストが3減少する。
+<color=#6ac6cc>模倣：ターン開始時、捨て札から「太陽の破片」を1枚引く。</color>","握在手中或作为固定能力使用时，费用减少3点。
+<color=#6ac6cc>模拟：回合结束时，从弃牌库抽取1个“太阳碎片”技能。</color>","握在手中或作為固定能力時，費用減少3點。
+<color=#6ac6cc>模擬：回合結束時，從棄牌庫抽取1個「太陽碎片」。</color>"
+Skill/S_Turquoise_23_Name,Text,,달의 파편,Moon Fragment,月の破片,月亮碎片,月亮碎片
+Skill/S_Turquoise_2_Description,Text,,"이번 턴 사용된 스킬 수에 따라 &a 만큼의 추가 피해를 입힙니다.
+<color=#6ac6cc>모방: 턴 시작 시 “미완성 환영검”을 무작위 적에게 시전합니다.</color>","Deal additional damage equal to &a × number of skills used this turn. 
+<color=#6ac6cc>Mimic: Cast ""Unfinished Phantom Blade"" on random enemy at turn start.</color>","このターン中に使用したスキルの数に応じて&aのダメージを追加で与える。
+<color=#6ac6cc>模倣：ターン開始時に「幻影の刃ー未完成 」をランダムな敵に使用する。</color>","根据本回合已经释放的技能数量造成&a点额外伤害。
+<color=#6ac6cc>模拟：回合开始时对随机敌人释放“未完成的幻影剑”。</color>","根據本回合釋放的技能數量，造成&a點額外傷害。
+<color=#6ac6cc>模擬：回合開始時，對隨機1個敵人釋放「未完成幻影劍」。</color>"
+Skill/S_Turquoise_2_Name,Text,,메시아 블레이드 프로토타입,Messiah Blade Prototype,メサイア・ブレード プロトタイプ,弥赛亚刀锋原型,彌賽亞刀鋒原型
+Skill/S_Turquoise_3_Description,Text,,<color=#6ac6cc>모방: 행동 카운트가 1인 적을 공격할 경우 항상 치명타로 명중합니다.</color>,<color=#6ac6cc>Mimic: Always land Critical hits against enemies with 1 Standby count.</color>,<color=#6ac6cc>模倣：行動カウントが1の敵を攻撃する場合、クリティカルする。</color>,<color=#6ac6cc>模拟：攻击行动倒计时1的敌人时以暴击形式命中。</color>,<color=#6ac6cc>模擬：攻擊行動倒計時1的敵人時，以暴擊形式命中。</color>
+Skill/S_Turquoise_3_Name,Text,,천공의 주시자,Sky Watcher,天の番人,天空守望者,天空守望者
+Skill/S_Turquoise_4_Description,Text,,"선택한 아군은 패링을 1중첩 얻습니다.
+<color=#6ac6cc>모방: 공격을 두 번 받을 때마다 &a피해로 반격합니다. </color>","Grant 1 Parry to ally. 
+<color=#6ac6cc>Mimic: Counterattack after every 2 attacks taken (deals &a damage).</color>","選択された味方は「パリィ」を1ストック得る。
+<color=#6ac6cc>模倣：攻撃を2回受けるたびに&aのダメージで反撃する。</color>","使所选友军获得1层格挡增益。
+<color=#6ac6cc>模拟：每累计受到2次攻击时反击，造成&a点伤害。</color>","使目標獲得1層格檔增益。
+<color=#6ac6cc>模擬：累計受到2次攻擊時反擊，造成&a點傷害。</color>"
+Skill/S_Turquoise_4_Name,Text,,리벤져,Avenger,復讐者,复仇者,復仇者
+Skill/S_Turquoise_5_Description,Text,,"<color=#FFA636FF>납도: 이 스킬을 무작위 적에게 시전하고, 이 스킬을 다시 뽑습니다.</color>
+<color=#6ac6cc>모방: 손에 있는 소유자의 모든 공격과 치유 스킬은 치명을 얻습니다.</color>","<color=#FFA636FF>Sheathe: Cast on random enemy and redraw.</color> 
+<color=#6ac6cc>Mimic: All Attack/Healing skills in hand gain Critical.</color>","<color=#FFA636FF>納刀:ランダムな敵1体にこのスキルを発動し、このスキルを手札に加える。</color>
+<color=#6ac6cc>模倣：手札にあるすべての攻撃と回復スキルは致命を得る。</color>","<color=#FFA636FF>纳刀：对随机敌人释放后再次抽取该技能。</color>
+<color=#6ac6cc>模拟：手中的所有攻击技能与治疗技能附带致命。</color>","<color=#FFA636FF>納刀：對隨機敵人釋放後再次抽取該技能。</color>
+<color=#6ac6cc>模擬：手中的攻擊技能和治療技能屬於自己時，附帶致命。</color>"
+Skill/S_Turquoise_5_Name,Text,,뇌명도&설월도,Thunder & Snow Moon Blades,雷鳴&雪月,雷鸣刀&雪月刀,雷鳴刀&雪月刀
+Skill/S_Turquoise_6_Description,Text,,"<color=#6ac6cc>모방: 적을 대상으로 하는 공격에 중독 디버프를 부여하고, 아군을 대상으로 하는 스킬에 지속회복 버프를 부여합니다.</color>",<color=#6ac6cc>Mimic: Attack skills inflict Poison; ally-targeting skills grant Regeneration.</color>,<color=#6ac6cc>模倣：敵を対象とする攻撃に[中毒]を与え、味方を対象とするスキルに[持続回復]を与える。</color>,<color=#6ac6cc>模拟：释放指向敌人的技能时对目标施加中毒减益，释放指向友军的技能时对目标施加持续恢复增益。</color>,<color=#6ac6cc>模擬：指向敵人的技能會對目標施加中毒減益；指向友軍的技能會對目標施加持續恢復增益。</color>
+Skill/S_Turquoise_6_Name,Text,,화학 가스통,Chemical Canister,ケミカルガスタンク,化学燃气罐,化学燃氣罐
+Skill/S_Turquoise_7_Description,Text,,"이 스킬은 행동불가 상태에서도 사용할 수 있습니다.
+모든 적에게 파악됨! 디버프를 부여합니다.
+<color=#6ac6cc>모방: 손에 있는 모든 공격 스킬에 추적과 도발무시를 부여합니다.</color>","Usable while disabled. 
+Apply Insight to all enemies. 
+<color=#6ac6cc>Mimic: All Attack skills in hand gain Tracking and Taunt Ignore.</color>","このスキルは行動不能状態でも使用できる。
+全ての敵に[洞察]を与える。対象のランダムな妨害デバフとオーバーロードを除去する。除去時に、ランダムな敵に[トラウマ]を与える。(各効果は1回に1度まで)
+<color=#6ac6cc>模倣：手札にある全ての攻撃スキルに追跡と挑発無視を与える。</color>","该技能可在无法行动状态下使用。
+对所有敌人施加洞察减益。
+解除目标的一个干扰减益并清除其过载，成功解除/清除时对随机敌人施加<b>精神创伤</b>减益。（每次释放至多生效1次）
+<color=#6ac6cc>模拟：手中的所有攻击技能附带追踪、无视嘲讽。</color>","無法行動時也能使用。
+對所有敵人施加「洞察」減益。
+解除目標的一個減益並清除其過載，成功解除/清除時對1名隨機敵人施加<b>精神創傷</b>減益。（每次釋放僅生效1次）
+<color=#6ac6cc>模擬：手中自己的攻擊技能附帶無視嘲諷、追蹤。</color>"
+Skill/S_Turquoise_7_Name,Text,,마음의 눈,Mind's Eye,心眼,心之眼,心之眼
+Skill/S_Turquoise_8_Description,Text,,"<color=#FFA636FF>화르륵!: 모든 적에게 고통, 약화 디버프를 1중첩 부여합니다.</color>
+<color=#6ac6cc>모방: 손에서 자신의 스킬을 내면 화르륵! 버프를 얻습니다.</color>","<color=#FFA636FF>Blaze!: Extend all enemies' Pain/Weakness by 1 turn.</color> 
+<color=#6ac6cc>Mimic: Gain Blaze when using skills from hand.</color>","<color=#FFA636FF>メラメラ:敵全体の苦痛と衰弱デバフのストックを1増加する。</color>
+<color=#6ac6cc>模倣：手札からスキルを使用するたび、[メラメラ]を得る。</color>","<color=#FFA636FF>燃烧：所有敌人带有的痛苦、弱化减益持续时间增加 1 回合。</color>
+<color=#6ac6cc>模拟：释放手中的技能时，获得燃烧增益。</color>","<color=#FFA636FF>燃燒：所有敵人身上的痛苦、弱化減益，持續時間增加 1 回合。</color>
+<color=#6ac6cc>模擬：釋放手中自己的技能時，獲得燃燒增益。</color>"
+Skill/S_Turquoise_8_Name,Text,,불타는 밤,Burning Night,灼熱の夜,燃烧的夜晚,燃燒的夜晚
+Skill/S_Turquoise_9_Description,Text,,"자신에게 &a <color=purple>고통 피해</color>를 입힙니다.
+만약 이 피해로 자신이 빈사 상태가 되었다면, 대상에게 잠식을 2중첩 더 부여합니다.
+<color=#6ac6cc>모방: 손에서 아군을 대상으로 하는 스킬을 사용할 때, 대상 아군은 <b>도발무시</b> 버프를 얻습니다.</color>","Deal <color=purple>&a Pain damage</color> to self. Apply 2 extra Corrosion if this causes Death's Door. 
+<color=#6ac6cc>Mimic: Ally-targeting skills grant <b>Taunt Ignore</b>.</color>","自身に<color=purple>&aの苦痛ダメージ</color>を与える。このダメージで自身が瀕死状態になったら、対象に[蚕食]を2ストック与える。
+<color=#6ac6cc>模倣：手札から味方を対象とするスキルを使用すると、対象の味方は<b>挑発無視</b>を得る。</color>","对自身造成&a点<color=purple>痛苦伤害</color>，若因此进入濒死状态则对目标额外施加2层蚕食减益。
+<color=#6ac6cc>模拟：释放手中的友军指向技能时，对该友军施加<b>无视嘲讽</b>增益。</color>","對自身造成&a點<color=purple>痛苦傷害</color>，若因該傷害而陷入瀕死狀態，則對目標多施加2層蠶食減益。
+<color=#6ac6cc>模擬：手中自己的指向友軍技能會對目標施加<b>無視嘲諷</b>增益。</color>"
+Skill/S_Turquoise_9_Name,Text,,다크 크로스,Dark Cross,ダーククロス,暗黑十字,暗黑十字
+Skill/S_Turquoise_B_0_Name,Text,,터키석 공격,Turquoise Attack,ターコイズの攻撃,青之攻击,青之攻擊
+Skill/S_Turquoise_B_1_Name,Text,,터키석 치료,Turquoise Healing,ターコイズの回復,青之治疗,青之治療
+Skill/S_Turquoise_B_2_Name,Text,,터키석 보호,Turquoise Protection,ターコイズの防御,青之防护,青之防護
+Skill/S_Turquoise_C_1_Description,Text,,무작위 시너지 강화가 부여된 스킬을 생성합니다.(파티 멤버에 있는 조사단원의 시너지 강화만 부여.),Generate skill with random Synergy buff (from party members).,ランダムなシナジー強化が与えられたスキルを生成する(パーティーにいる味方のシナジー強化のみ)。,生成的技能附带随机协同强化效果。（只会出现在队伍中的调查队员的协同强化）,生成的技能附帶隨機的協同強化。（從隊伍中的隊員的強化挑選）
+Skill/S_Turquoise_C_1_Name,Text,,시너지 강화,Synergy Enhancement,シナジー強化,协同强化,協同強化
+Skill/S_Turquoise_C_2_Description,Text,,비용이 1 감소된 스킬을 생성합니다.,Generate skill with -1 cost.,コストが1減少したスキルを生成する。,生成的技能费用减少1点。,生成的技能費用減少1點。
+Skill/S_Turquoise_C_2_Name,Text,,비용감소,Cost Reduction,コスト減少,费用减少,費用減少
+Skill/S_Turquoise_C_3_Description,Text,,생성된 스킬을 사용하면 스킬을 한 장 뽑습니다.,Generated skill draws 1 card on use.,生成されたスキルを使用すると、スキルを1枚引く。,生成的技能释放时将抽取1个技能。,生成的技能獲得「釋放時，抽取1個技能」。
+Skill/S_Turquoise_C_3_Name,Text,,스킬 드로우,Skill Draw,スキルを引く,抽取技能,抽取技能
+Skill/S_Turquoise_C_4_Description,Text,,신속 키워드가 부여된 스킬을 생성합니다.,Generate skill with Swiftness.,迅速を持つスキルを生成する。,生成的技能附带迅速。,生成的技能附帶迅速。
+Skill/S_Turquoise_C_4_Name,Text,,신속,Swiftness,迅速,迅速,迅速
+Skill/S_Turquoise_C_5_Description,Text,,도발무시와 치명 키워드가 부여된 스킬을 생성합니다.,Generate skill with Taunt Ignore + Critical.,挑発無視と致命を持つスキルを生成する。,生成的技能附带无视嘲讽、致命。,生成的技能附帶無視嘲諷、致命。
+Skill/S_Turquoise_C_5_Name,Text,,"도발무시, 치명","Taunt Ignore, Critical",挑発無視と致命,无视嘲讽、致命,無視嘲諷、致命
+Skill/S_Turquoise_C_6_Description,Text,,대상의 방어력을 무시하는 스킬을 생성합니다.,Generate skill ignoring target's Defense.,対象の防御力を無視するを持つスキルを生成する。,生成的技能将无视目标的防御力。,生成的技能會無視目標的防禦力。
+Skill/S_Turquoise_C_6_Name,Text,,방어력 무시,Defense Ignore,防御力無視,无视防御,無視防禦
+Skill/S_Turquoise_C_7_Description,Text,,다른 무작위 강화 효과 2개가 부여된 스킬을 생성합니다.,Generate skill with 2 random enhancements.,他のランダムな強化効果を2つ持つスキルを生成する。,生成的技能将附带随机两个其他选项的强化效果。,生成的技能將附帶隨機2個其他選項的效果。
+Skill/S_Turquoise_C_7_Name,Text,,무작위!,Randomize!,ランダム,随机！,隨機應變！
+Skill/S_Turquoise_LucyD_Description,Text,,"3개의 무작위 조사단원 스킬과 1개의 무작위 터쿼이즈 스킬을 확인하고, 하나를 선택합니다.
+그 뒤, 3개의 강화 효과를 보고 하나를 선택합니다.
+이후 선택한 스킬을 생성합니다. 생성된 스킬은 선택한 강화 효과와 일회성 키워드가 부여됩니다.
+
+강화 효과:
+ -무작위 시너지 강화
+ -비용 1 감소
+ -사용 시 스킬을 한 장 뽑습니다.
+ -신속 부여
+ -도발무시와 치명 부여
+ -대상의 방어력 무시
+ -2개의 랜덤한 다른 강화 효과","Preview 3 random investigator-exclusive skills and 1 Turquoise-exclusive skill. Choose 1 skill.
+Then, select 1 enhancement from 3 randomly revealed options:
+
+- Random Synergy Enhancement (party-based)
+- Cost Reduction (1)
+- Draw 1 Skill on use
+- Swiftness
+- Taunt Ignore + Critical
+- Defense Ignore
+- 2 random other Enhancements
+
+Generate the chosen skill with the selected enhancement and One-Time.","対象のランダムな専用スキル3つと1つのランダムなターコイズのスキルを確認し、1つを選択する。
+その後、3つの強化効果を見て1つを選択し、その後選択したスキルを生成する。生成されたスキルには選択した強化効果と単発が与えられる。強化効果：
+ -ランダムなシナジー強化
+ -コスト1減少
+ -使用時にスキルを1枚引く。
+ -迅速を得る
+ -挑発無視と致命を得る
+ -ターゲットの防御力無視
+ -他のランダムな強化効果を2つ","随机展示3个目标的专属技能和1个青宝石的专属技能，并选择其中1个技能。
+而后从以下强化效果中随机展示3个，并选择其中1个效果。
+之后，生成选择的技能。生成的技能附带一次性与选择的强化效果。
+
+强化效果：
+ -随机协同强化
+ -费用减少1点
+ -释放时，抽取1个技能 
+ -附带迅速
+ -附带无视嘲讽、致命 
+ -无视目标的防御力 
+ -其他随机2种强化效果。","展示3個目標的隨機專屬技能和1個青寶石的隨機專屬技能，然後選擇其中1個。
+之後，從展示3個隨機的下述強化效果，並選擇其中1個。
+最後，生成選擇的技能，附帶一次性與選擇的強化效果。
+
+强化效果：
+ - 隨機協同強化
+ - 費用減少1點
+ - 釋放時，抽取1個技能 
+ - 附帶迅速
+ - 附帶無視嘲諷、致命 
+ - 無視目標的防禦力 
+ - 隨機2種其他強化效果。"
+Skill/S_Turquoise_LucyD_Name,Text,,기발한 생각,Brilliant Idea,素晴らしいアイデア,奇思妙想,奇思妙想
+Skill/S_Turquoise_R15_Description,Text,,"전투 시작 시, 이 스킬을 덱의 맨 위에 놓습니다.","Start combat atop deck. 
+On use: Trigger ""Brilliant Idea"" and apply Gem Resonance to all allies.","戦闘開始時、このスキルをデッキの一番上に置く。
+使用時「素晴らしいアイデア」を1回発動する。
+[宝石の共鳴]をすべての味方に与える。","战斗开始时，放在抽牌库的最上方。
+释放时，立即触发一次“奇思妙想”技能的效果。
+该技能的“宝石共鸣”增益将对所有友军施加。","戰鬥開始時，放在牌庫最上方。
+釋放時，觸發一次「奇思妙想」技能的效果。
+該技能的「寶石共鳴」增益改為施加於所有友軍。"
+Skill/S_Turquoise_R15_Name,Text,,보석공명,Gem Resonance,宝石の共鳴,宝石共鸣,寶石共鳴
+Skill/S_Turquoise_R16_Description,Text,,"모든 아군이 장비한 장비의 수 만큼 추가 공격이 발생합니다.
+매 추가 공격마다 장비의 희귀도에 따라 &a/&b/&c/&d/&e피해를 입힙니다.
+이 스킬과 추가 공격은 대상의 방어력을 무시합니다.",Launch bonus attacks equal to allies' equipped items. Each deals &a/&b/&c/&d/&e damage based on item rarity. All attacks ignore Defense.,"すべての味方の装備の数だけ追加攻撃が発動する。
+追加攻撃は装備のレア度に応じて&a/&b/&c/&d/&eダメージを与える。
+このスキルと追加攻撃は対象の防御力を無視する。",根据所有友军当前的装备数量追加攻击，每次攻击根据装备稀有度造成&a/&b/&c/&d/&e点伤害。该技能及其追加攻击均无视目标的防御力。,"根據所有友軍當前的裝備數量發起追加攻擊，每次攻擊都會根據對應裝備的稀有度，造成&a/&b/&c/&d/&e點傷害。
+該技能及上述的追加攻擊都無視目標的防禦力。"
+Skill/S_Turquoise_R16_Name,Text,,터키석 폭우,Turquoise Downpour,ターコイズの暴風,青之暴雨,青之暴雨
+Skill/S_Turquoise_R17_Description,Text,,"이 기술을 가지고 있을 때, <b>모방</b>이 부여된 다른 아군의 스킬은 자신에게도 특별한 버프를 부여합니다.
+<color=#6ac6cc>모방: 턴 시작 시, 자신에게 “기발한 생각” 스킬을 시전합니다.(한 전투에 한 번.)</color>","While holding this skill, other allies' <b>Mimic</b>-tagged skills grant special buffs to this character.
+<color=#6ac6cc>Mimic: Once per battle, trigger ""Brilliant Idea"" on yourself at turn start.</color>","このスキルが手札にある場合、<b>模倣</b>を持つ他の味方のスキルは、自身に特別なバフを与える。
+<color=#6ac6cc>模倣: ターン開始時、自身に「素晴らしいアイディア」を1回発動する(1回の戦闘で1度だけ発動する)。</color>","拥有该技能时，手中其他友军的带有<b>模拟</b>词条的技能对自身也会提供特殊增益。
+<color=#6ac6cc>模拟：每次战斗限一次，回合开始时立即以自身为目标触发一次“奇思妙想”技能的效果。</color>","握在手中時，手中其他友軍的技能的<b>模擬</b>也會給自己提供特殊增益。
+<color=#6ac6cc>模擬：每場戰鬥限一次，回合開始時，對自身觸發一次「奇思妙想」技能的效果。</color>
+"
+Skill/S_Turquoise_R17_Name,Text,,터쿼이즈,Turquoise,ターコイズ,青宝石,青寶石
+Skill/S_Turquoise_Relic_Description,Text,,"해당 조사단원 무작위 스킬 3개와 터쿼이즈의 무작위 스킬 스킬 하나를 확인하고, 하나를 선택합니다.
+그 뒤, 3개의 강화 효과를 보고 하나를 선택합니다.
+이후 선택한 스킬을 생성합니다. 생성된 스킬은 선택한 강화 효과와 일회성 키워드가 부여됩니다.
+
+강화 효과:
+ -무작위 시너지 강화
+ -비용 1 감소
+ -사용 시 스킬을 한 장 뽑습니다.
+ -신속 부여
+ -도발무시와 치명 부여
+ -대상의 방어력 무시
+ -2개의 랜덤한 다른 강화 효과","Preview 3 random investigator-exclusive skills and 1 Turquoise-exclusive skill. Choose 1 skill.
+Then, select 1 enhancement from 3 randomly revealed options:
+
+- Random Synergy Enhancement (party-based)
+- Cost Reduction (1)
+- Draw 1 Skill on use
+- Swiftness
+- Taunt Ignore + Critical
+- Defense Ignore
+- 2 random other Enhancements
+
+Generate the chosen skill with the selected enhancement and One-Time.","対象のランダムな専用スキル3つと1つのランダムなターコイズのスキルを確認し、1つを選択する。
+その後、3つの強化効果を見て1つを選択し、その後選択したスキルを生成する。生成されたスキルには選択した強化効果と単発が与えられる。強化効果：
+ -ランダムなシナジー強化
+ -コスト1減少
+ -使用時にスキルを1枚引く。
+ -迅速を得る
+ -挑発無視と致命を得る
+ -ターゲットの防御力無視
+ -他のランダムな強化効果を2つ","随机展示3个目标的专属技能和1个青宝石的专属技能，并选择其中1个技能。
+而后从以下强化效果中随机展示3个，并选择其中1个效果。
+之后，生成选择的技能。生成的技能附带一次性与选择的强化效果。
+
+强化效果：
+ -随机协同强化
+ -费用减少1点
+ -释放时，抽取1个技能 
+ -附带迅速
+ -附带无视嘲讽、致命 
+ -无视目标的防御力 
+ -其他随机2种强化效果。","展示3個目標的隨機專屬技能和1個青寶石的隨機專屬技能，然後選擇其中1個。
+之後，從展示3個隨機的下述強化效果，並選擇其中1個。
+最後，生成選擇的技能，附帶一次性與選擇的強化效果。
+
+强化效果：
+ - 隨機協同強化
+ - 費用減少1點
+ - 釋放時，抽取1個技能 
+ - 附帶迅速
+ - 附帶無視嘲諷、致命 
+ - 無視目標的防禦力 
+ - 隨機2種其他強化效果。"
+Skill/S_Turquoise_Relic_Name,Text,,기발한 생각,Brilliant Idea,素晴らしいアイデア,奇思妙想,奇思妙想
+SkillExtended/Ex_Turquoise_18_Des,Text,,"&a 추가 피해를 입힙니다. 대상이 여럿이라면 피해를 나누어 입힙니다.
+아군을 대상으로 할 경우, 피해를 입히는 대신 회복합니다.","Deal &a bonus damage. Damage splits across multiple targets. 
+Heals allies instead of damaging them.","&aのダメージを追加で与える。対象が複数いる場合、そのダメージを分割して与える。
+味方を対象にした場合、ダメージを与える代わりに回復する。","造成 &a 点额外伤害，若目标有多个，则分摊所受伤害。
+指向友军时，伤害转化为治疗。","造成 &a 點額外傷害，若有多個目標，則他們平均分攤該傷害。
+指向友軍時，該效果轉為等額的治療。"
+SkillExtended/Ex_Turquoise_18_Name,Text,,광기의 흔적: 터쿼이즈,Mark of Madness: Turquoise,狂気の痕跡:ターコイズ,癫狂之痕·青,癲狂之痕·青
+SkillExtended/Ex_Turquoise_C_2_Name,Text,,비용 1 감소,Cost Reduction (1),コスト1減少。,费用减少1点,費用減少1點
+SkillExtended/Ex_Turquoise_C_3_Name,Text,,사용 시 카드를 한 장 뽑습니다.,Draw 1 Skill on use,使用時スキルを1枚引く。,释放时，抽取1个技能,釋放時，抽取1個技能
+SkillExtended/Ex_Turquoise_C_4_Name,Text,,신속 부여,Swiftness,迅速を与える。,附带迅速,附帶迅速
+SkillExtended/Ex_Turquoise_C_5_Name,Text,,도발무시와 치명 부여,Taunt Ignore + Critical,挑発無視と致命を与える。,附带无视嘲讽、致命,附帶無視嘲諷、致命
+SkillExtended/Ex_Turquoise_C_6_Name,Text,,대상의 방어력 무시,Defense Ignore,対象の防御力無視。,无视目标的防御力,無視目標的防禦力
+SkillExtended/S_Turquoise_3_EX_Name,Text,,,,,,
+SkillExtended/S_Turquoise_9_EX_Des,Text,,대상의 다음 공격은 <b>도발무시</b>를 얻습니다.,Grants <b>Taunt Ignore</b> to the target's next attack.,対象の次の攻撃は<b>挑発無視</b>を得る。,对目标施加<b>无视嘲讽</b>增益,對目標施加<b>無視嘲諷</b>增益
+SkillExtended/S_Turquoise_9_EX_Name,Text,,다크 크로스,Dark Cross,ダーククロス,暗黑十字,暗黑十字
+SkillExtended/SkillEn_Turquoise_0_EnforceString,Text,,"<sprite name=""비용2""><sprite name=""이상"">, 공격 스킬","<sprite name=""비용2""><sprite name=""이상"">, Attack Skill",<sprite name=비용2><sprite name=이상>攻撃スキル,"<sprite name=""비용2""><sprite name=""이상"">，攻击技能","<sprite name=""비용2""><sprite name=""이상"">，攻擊技能"
+SkillExtended/SkillEn_Turquoise_0_Name,Text,,"자신이 소유한 장비의 수에 따라 추가 공격을 합니다.
+매 추가공격 마다, 장비의 등급에 따라 공격력의 40%/55%/70%/85%/100%만큼 피해를 입힙니다.",Launches bonus attacks equal to equipped items. Each deals 40%/55%/70%/85%/100% damage based on item rarity.,現在の装備の数に応じて追加攻撃が発動し、追加攻撃は装備のレア度に応じて攻撃力の40%/55%/70%/85%/100%のダメージを与える。,根据自身当前的装备数量追加攻击，每次攻击根据装备稀有度造成攻击力40%/55%/70%/85%/100%的伤害。,根據自身的裝備數量發起追加攻擊，每次攻擊根據對應裝備的稀有度，造成攻擊力40%/55%/70%/85%/100%的傷害。
+SkillExtended/SkillEn_Turquoise_1_EnforceString,Text,,"피해량 배율이 존재하는 공격 스킬이나, 회복량 배율이 존재하는 회복 스킬",Attack skills with damage multipliers or healing skills with healing multipliers.,ダメージが存在する攻撃スキルや、回復量が存在する回復スキル。,存在伤害倍率的攻击技能，或存在治疗量倍率的治疗技能,有傷害倍率的攻擊技能，或有治療倍率的治療技能
+SkillExtended/SkillEn_Turquoise_1_Name,Text,,"비용이 1 감소하고, 신속을 부여하는 대신 피해와 회복량이 50% 감소합니다.","Cost reduced by 1 with Swiftness, but damage/healing reduced by 50%.",コストが1減少し、迅速を得るが、ダメージと回復量が50％減少する。,费用减少1点，附带迅速，但伤害/恢复量减少50%。,費用減少1點，並附帶迅速；但傷害和恢復量減少50%。
+SkillKeyword/KeyWord_Turquoise_Desc,Text,,"손에 있을 때, 소유자에게 특별한 버프를 제공합니다.(복수의 동명 스킬은 동일한 아군에게 한 개만 유효.)","While in hand, grants the owner a unique buff. (Multiple copies grant only 1 stack per ally.)",このスキルが手札にある間、スキルの所持者に模倣の効果を与える(同名のスキルが複数ある場合、味方1人に1度だけ与える)。,握在手中时，对技能拥有者提供特殊增益。（多个同名技能对单个友军仅生效1个）,握在手中時，對技能持有者產生特殊增益。（即使有多個同名技能，對每個單位也僅生效１層）
+SkillKeyword/KeyWord_Turquoise_Name,Text,,모방,Mimic,模倣,模拟,模擬

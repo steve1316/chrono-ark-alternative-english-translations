@@ -1,0 +1,12 @@
+{
+    "B_PLANA_1": {
+        "Name": "防护力场",
+        "ClassName": "PLANA.B_PLANA_1",
+        "Icon": "B_PLANA_1\\B_PLANA_1_Icon.png",
+        "Description": "受到伤害时将此次伤害减少至1/3。若普拉娜存活，则改为免除该次伤害并对普拉娜造成&a痛苦伤害，触发后解除。",
+        "Tick": "null",
+        "BuffTag": "null",
+        "Caution": false,
+        "_gdeSchema": "Buff"
+    }
+}

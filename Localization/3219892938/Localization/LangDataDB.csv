@@ -1,0 +1,826 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Kaguya_Achieve_Description,Text,,,,,,
+Buff/B_Kaguya_Achieve_Name,Text,,난제완료,Impossible Request completed,難題達成,难题完成,難題完成
+Buff/B_Kaguya_Fail_Description,Text,,,,,,
+Buff/B_Kaguya_Fail_Name,Text,,난제미완료,Impossible Request not completed,難題未達成,难题未完成,難題未完成
+Buff/B_Kaguya_LucyD_2_Bad_Description,Text,,다음 턴 시작시 손팻말 1개를 무작위로 버려 마법력이 1포인트 감소됩니다.,"At the start of the next turn, discard a random skill and lose 1 Mana.",次のターン開始時、手札にあるランダムなスキルを1枚捨て、マナが1減少する。 ,下个回合开始时，随机丢弃1个技能，法力值减少1点。,下個回合開始時，隨機丟棄1個技能，法力值減少1點。
+Buff/B_Kaguya_LucyD_2_Bad_Name,Text,,난제미완료,Impossible Request not completed,難題未達成,难题未完成,難題未完成
+Buff/B_Kaguya_LucyD_2_Good_Description,Text,,다음 턴 시작시 스킬을 1개 뽑고 마나를 1 회복합니다.,"At the start of the next turn, draw 1 skill and restore 1 Mana.",次のターン開始時、スキルを1枚引き、マナを1回復する。 ,下个回合开始时，抽取1个技能，恢复1点法力值。,下個回合開始時，抽取1個技能，恢復1點法力值。
+Buff/B_Kaguya_LucyD_2_Good_Name,Text,,난제완료,Impossible Request completed,難題達成,难题完成,難題完成
+Buff/B_Kaguya_LucyRare_Record_Description,Text,,,,,,
+Buff/B_Kaguya_LucyRare_Record_Name,Text,,「영야 되돌리기」기록,"""End of Imperishable Night"" Record",永夜返しの記録,「永夜归返」记录,「永夜歸返」記錄
+Buff/B_Kaguya_Lucy_1_Description,Text,,"턴 종료 시 모든 아군을 6만큼 초과치유 합니다.
+
+<color=#919191>난제「용 목의 구슬 -오색의 탄환-」을 완료해 획득한 보상.</color>","At the end of each turn, Overheal all allies by 6. 
+<color=#919191>Reward for completing the Impossible Request ""Jewel from the Dragon's Neck -Five-Colored Shots-"".</color>","毎ターン終了時、すべての味方を6 オーバーヒールする。
+
+<color=#919191>「難題-龍の頸の玉-五色の弾丸-」を達成した報酬。 </color>","每回合结束时，超额治疗所有友方6点体力值。
+
+<color=#919191>完成了难题「龙颈之玉　-五色的弹丸-」获得的奖励。</color>","每回合結束時，超額治療所有友方6點體力值。
+
+<color=#919191>完成了難題「龍頸之玉　-五色的彈丸-」獲得的獎勵。</color>"
+Buff/B_Kaguya_Lucy_1_Name,Text,,신보「브릴리언트 드래곤 바레트」,"Divine Treasure ""Brilliant Dragon Barrette""",神宝「ブリリアントドラゴンバレッタ」,神宝「耀眼的龙玉」,神寶「耀眼的龍玉」
+Buff/B_Kaguya_Lucy_2_Description,Text,,"턴 시작시 마나를 1 회복합니다.
+
+<color=#919191>난제「부처의 석발 -꺾이지 않는 의지-」을 완료한 보상.</color>","At the start of each turn, restore 1 Mana. 
+<color=#919191>Reward for completing the Impossible Request ""Buddha's Stone Bowl -Indomitable Will-"".</color>","毎ターン開始時、マナを1得る。
+
+<color=#919191>「難題-仏の御石の鉢-砕けぬ意思-」を達成した報酬。 </color>","每回合开始时，额外回复1点费用。
+
+<color=#919191>完成了难题「佛御石之钵　-不碎的意志-」获得的奖励。</color>","每回合開始時，額外回復1點費用。
+
+<color=#919191>完成了難題「佛禦石之缽　-不碎的意志-」獲得的獎勵。</color>"
+Buff/B_Kaguya_Lucy_2_Name,Text,,신보「부디스트 다이아몬드」,"Divine Treasure ""Buddhist Diamond""",神宝「ブディストダイアモンド」,神宝「佛体的金刚石」,神寶「佛體的金剛石」
+Buff/B_Kaguya_Lucy_3_Description,Text,,"받는 피해를 2 감소시킵니다. 피해가 0이하로 감소하면 0의 피해를 입은것으로 취급합니다.
+
+<color=#919191>난제「불쥐의 가죽옷 -침착한 마음-」을 완한 보상.</color>","All allies take 2 less damage. If damage is reduced to 0 or below, it is treated as 0.
+
+ <color=#919191>Reward for completing the Impossible Request ""Robe of Fire Rat -Unhurried Mind-"".</color>","すべての味方は受けるダメージが2減少する。受けるダメージが0以下になった場合、0として扱う。
+
+<color=#919191>「難題-火鼠の皮衣-焦れぬ心-」を達成した報酬。 </color>","全队受到的伤害减少2点，如果伤害减到0以下，视为0点伤害。
+
+<color=#919191>完成了难题「火鼠的皮衣　-不焦躁的内心-」获得的奖励。</color>","全隊受到的傷害減少2點，如果傷害減到0以下，視為0點傷害。
+
+<color=#919191>完成了難題「火鼠的皮衣　-不焦躁的內心-」獲得的獎勵。</color>"
+Buff/B_Kaguya_Lucy_3_Name,Text,,신보「샐러맨더 실드」,"Divine Treasure ""Salamander Shield""",神宝「サラマンダーシールド」,神宝「火蜥蜴之盾」,神寶「火蜥蜴之盾」
+Buff/B_Kaguya_Lucy_4_Description,Text,,"모든 아군이 「라이프스프링 인피니티」을 얻습니다.
+
+<color=#919191>난제「제비의 자안패 -영명선-」을 완료한 보상.</color>","Grant ""Life Spring Infinity"" to all allies. 
+
+<color=#919191>Reward for completing the Impossible Request ""Swallow's Cowrie Shell -Everlasting Life-"".</color>","すべての味方に[ライフスプリングインフィニティ]を与える。
+
+<color=#919191>「難題-燕の子安貝-永命線-」を達成した報酬。 </color>","所有友方获得「无限的生命之泉」增益状态。
+
+<color=#919191>完成了难题「燕的子安贝　-永命线-」获得的奖励。</color>","所有友方獲得「無限的生命之泉」增益狀態。
+
+<color=#919191>完成了難題「燕的子安貝　-永命線-」獲得的獎勵。</color>"
+Buff/B_Kaguya_Lucy_4_Name,Text,,신보「라이프스프링 인피니티」,"Divine Treasure ""Life Spring Infinity""",神宝「ライフスプリングインフィニティ」,神宝「无限的生命之泉」,神寶「無限的生命之泉」
+Buff/B_Kaguya_Lucy_5_Description,Text,,"손에서 스킬을 사용한 아군을 4만큼 연쇄치유 합니다.
+
+<color=#919191>난제「봉래의 탄의 가지 -무지개빛 탄막-」을 완료한 보상.</color>","Chain Heal the user by 4 each time a skill from hand is used. 
+<color=#919191>Reward for completing the Impossible Request ""Bullet Branch of Hourai -Rainbow Danmaku-"".</color>","手札からスキルを使用するたび、そのスキルの所有者を4で連鎖治癒する。
+
+<color=#919191>「難題-蓬莱の弾の枝-虹色の弾幕-」を達成した報酬。 </color>","每次使用手牌时，连锁治疗使用者4点体力值。
+
+<color=#919191>完成了难题难题「蓬莱的弹枝　-七色的弹幕-」获得的奖励。</color>","每次使用手牌時，連鎖治療使用者4點體力值。
+
+<color=#919191>完成了難題難題「蓬萊的彈枝　-七色的彈幕-」獲得的獎勵。</color>"
+Buff/B_Kaguya_Lucy_5_Name,Text,,신보「봉래의 옥의 가지 -꿈빛 고향-」,"Divine Treasure ""Brilliant Dragon Barrette""",神宝「蓬莱の玉の枝 -夢色の郷-」,神宝「蓬莱的玉枝　-梦色之乡-」,神寶「蓬萊的玉枝　-夢色之鄉-」
+Buff/B_Kaguya_Lucy_DEF_Description,Text,,,,,,
+Buff/B_Kaguya_Lucy_DEF_Name,Text,,신보「샐러맨더 실드」,"Divine Treasure ""Salamander Shield""",神宝「サラマンダーシールド」,神宝「火蜥蜴之盾」,神寶「火蜥蜴之盾」
+Buff/B_Kaguya_Lucy_DOD_Name,Text,,신보「라이프스프링 인피니티」,"Divine Treasure ""Life Spring Infinity""",神宝「ライフスプリングインフィニティ」,神宝「无限的生命之泉」,神寶「無限的生命之泉」
+Buff/B_Kaguya_Lucy_HP_Name,Text,,신보「봉래의 옥의 가지 -꿈빛 고향-」,"Divine Treasure ""Jeweled Branch of Hourai -Dreamlike Paradise-""",神宝「蓬莱の玉の枝 -夢色の郷-」,神宝「蓬莱的玉枝　-梦色之乡-」,神寶「蓬萊的玉枝-夢色之鄉-」
+Buff/B_Kaguya_Lunatic_Description,Text,,각 단계마다 추가 탄막을 발사합니다.,Additional danmaku appear at each phase.,各フェーズに弾幕が追加される,每个阶段出现<b>额外的</b>弹幕攻击,每個階段出現<b>額外的</b>彈幕攻擊
+Buff/B_Kaguya_Lunatic_Name,Text,,Lunatic,Lunatic,ルナティック,Lunatic,Lunatic
+Buff/B_Kaguya_MokouMode_Description,Text,,"이 형태에서 모코우의 부활 횟수는 레벨 대신 <b>레드 소울</b>의 중첩 상한에 따라 제한됩니다. <b>레드 소울</b> 최대 충접 수 +1, 5턴마다 <b>레드 소울</b> 중첩 -1.
+전투 시작 시 모코우의 레어 스킬 3장 중 1장을 선택해 손에 넣습니다. 이번 전투에서만 [불사조의 꼬리]를 장비합니다.","In this form, Mokou’s revival count is limited by the maximum <b>Immortal Red Soul</b> stacks. Maximum <b>Red Soul</b> stacks +1. Every 5 turns, lose 1 stack of <b>Red Soul</b>.
+At the start of battle, add ""Until This Life, Repeated Countless Times, Burns Away"" to your hand and choose 1 of Mokou’s 3 rare skills to add. 
+Equip [Phoenix’s Tail] for this battle only.","[不滅の紅き魂]のストック上限が4になり、5ターンごとに、[不滅の紅き魂]のストックが1減少する。 
+戦闘開始時、「この何度目かの命、燃え尽きるまで」を手札に1枚加え、藤原妹紅のレアスキル3つから1つ選んで手札に加える。 この戦闘中、「フェニックスの尾」を1つ装備する。
+","赤魂层数上限变为4，每经过5回合，赤魂层数-1。
+战斗开始时，将一张「这不知是第几次的生命，燃烧殆尽吧」加入手牌，并从另外三张妹红的稀有技能中挑选一张加入手牌。仅在本场战斗中，装备一件[不死鸟之尾]。","赤魂層數上限變為4，每經過5回合，赤魂層數-1。
+戰鬥開始時，將一張「這不知是第幾次的生命，燃燒殆盡吧」加入手牌，並從另外三張妹紅的稀有技能中挑選一張加入手牌。 僅在本場戰鬥中，裝備一件[不死鳥之尾]。"
+Buff/B_Kaguya_MokouMode_Name,Text,,모코우-불사조 형태,Mokou-Phoenix Form,妹紅-不死鳥,妹红-不死鸟形态,妹紅-不死鳥形態
+Buff/B_Kaguya_P_0_Description,Text,,체력이 1 밑으로 감소하지 않습니다. 체력이 1 밑으로 감소하면 다시 1이 됩니다.,"Cannot fall below 1 HP. Whenever HP drops to 1 or less, it becomes 1.",体力が1以下にならない。 体力が1以下になるたび、1に変更する。,生命值无法降低到1以下。每当生命值降到1时，生命值变成1。,生命值無法降低到1以下。每當生命值降到1時，生命值變成1。
+Buff/B_Kaguya_P_0_Name,Text,,봉래의 몸,The Body of Hourai,蓬莱の体,蓬莱之躯,蓬萊之軀
+Buff/B_Kaguya_P_1_Description,Text,,"현재 난제 : &a
+현재 단계에서 난제 완료 횟수：&b
+현재 단계에서 난제 미완료 횟수：&c
+카구야가 단계를 변경할 때 난제 완료 횟수가 미완료 횟수보다 많으면 모든 아군은 각 난제에 따른 고유한 버프를 얻고, 반대라면 카구야는 공격력과 치유력 +10% 버프를 얻습니다.","Current Impossible Request: &a
+Completed in this phase: &b
+Not completed in this phase: &c
+When Kaguya changes phase, if completed exceeds not completed, all allies gain unique buffs per request. 
+Otherwise, Kaguya gains +10% Attack Power and Healing Power.","現在の難題：&a
+現在のフェーズでの難題達成数： &b
+現在のフェーズでの難題未達成数： &c
+蓬莱山輝夜のフェーズが切り替わったとき、難題の達成数が未達成数以上の場合、すべての味方は各難題ごとに固有のバフを得える。それ以外の場合、蓬莱山輝夜の攻撃力と治癒力が10％増加する。 ","当前难题：&a
+当前阶段难题完成次数：&b
+当前阶段难题未完成次数：&c
+辉夜改变阶段时，如果完成次数大于未完成次数，全体友方获得每个难题独特的增益；反之，辉夜获得提升10%攻击力与治疗力的增益。","當前難題：&a
+當前階段難題完成次數：&b
+當前階段難題未完成次數：&c
+輝夜改變階段時，如果完成次數大於未完成次數，全體友方獲得每個難題獨特的增益；反之，輝夜獲得提升10%攻擊力與治療力的增益。"
+Buff/B_Kaguya_P_1_Name,Text,,카구야의 다섯 난제,The Impossible Requests of Kaguya,輝夜の五つの難題,辉夜的五难题,輝夜的五難題
+Buff/B_Kaguya_P_Description,Text,,"턴이 끝날 때 체력이 1이면 다음 단계로 넘어갑니다.
+현재 단계 (&a/5) :
+&b
+&c","At the end of turn, if this character’s HP is 1, enter the next phase.
+Current phase (&a/5):
+&b
+&c","ターン終了時、自身の体力が1の場合、次のフェーズに移行する。
+現在のフェーズ (&a/5):
+&b
+&c","自身体力值每次归1时，进入下一个阶段。
+当前阶段（&a/5）：
+&b
+&c","自身體力值每次歸1時，進入下一個階段。
+當前階段(&a/5)：
+&b
+&c"
+Buff/B_Kaguya_P_Name,Text,,죽취비상,Lunatic Princess,竹取飛翔,竹取飞翔,竹取飛翔
+Buff/B_Kaguya_S_2_Description,Text,,난제「부처의 석발 -꺾이지 않는 의지-」의 목표가 됐습니다.,"Selected as the target of the Impossible Request ""Buddha's Stone Bowl -Indomitable Will-"".",「難題-仏の御石の鉢 -砕けぬ意思-」の対象に選ばれた。,被选定为难题「佛御石之钵　-不碎的意志-」的目标。,被選定為難題「佛禦石之缽　-不碎的意志-」的目標。
+Buff/B_Kaguya_S_2_Name,Text,,딜레마 선택,Dilemma Choice,ジレンマ ,两难选择,兩難選擇
+Buff/B_Kaguya_S_3_Description,Text,,마지막으로 손에서 스킬을 사용한 캐릭터입니다.,This character is the last to use a skill from hand.,最後に使用したスキルの所有者である。,这个角色是最后一次使用的手牌的角色。,這個角色是最後一次使用的手牌的角色。
+Buff/B_Kaguya_S_3_Name,Text,,스킬 사용 표시,Skill User Mark,スキル使用者,出手标记,出手標記
+Buff/B_Kaguya_S_4_0_Description,Text,,턴 시작 시 최대 체력의 15%만큼 초과치유 합니다.,"At the start of each turn, Overheal 25% of Max HP.",ターン開始時、最大体力の25%回復する。,回合开始时，恢复25%最大体力值。,回合開始時，恢復25%最大体力值。
+Buff/B_Kaguya_S_4_0_Name,Text,,라이프스프링 인피니티,Life Spring Infinity,ライフスプリングインフィニティ,无限的生命之泉,無限的生命之泉
+Buff/B_Kaguya_S_4_Description,Text,,,,,,
+Buff/B_Kaguya_S_4_Name,Text,,피해 통계,Damage Statistics,ダメージ統計 ,伤害统计,傷害統計
+Buff/B_Kaguya_S_5_0_Description,Text,,,"When an ally uses a skill, receive Chain Heal from the Impossible Request.",対象の味方がスキルを使用したとき、難題から連鎖治癒を受ける。,使用该角色的技能即可受到难题的连锁治疗。,使用該角色的技能即可受到難題的連鎖治療。
+Buff/B_Kaguya_S_5_0_Name,Text,,과제 목표,Impossible Request Target,難題の標的,难题目标,難題目標
+Buff/B_Kaguya_S_5_Description,Text,,"이 단계에서, 카구야가 받는 피해가 감소하고 모든 저항력이 증가합니다.
+턴이 끝날 때마다 카구야가 받는 피해가 증가하고 모든 저항력이 감소하지만 카구야의 공격이 점점 거세집니다.","In this phase, Kaguya takes reduced damage and gains increased resistances. 
+At the end of each turn, Kaguya's damage taken increases and resistances decrease, but her attacks grow more powerful.","このフェーズ中、蓬莱山輝夜は受けるダメージが減少し、すべてのレジストが増加する。
+ターン終了するたび、蓬莱山輝夜は受けるダメージが増加し、すべてのレジストが減少する。
+蓬莱山輝夜は徐々に強力な攻撃を行う。 ","本阶段内，辉夜受到伤害量降低，所有抗性提高。
+辉夜受到的伤害量会随着回合结束而增加，所有抗性随着回合结束降低。
+辉夜会发出逐渐强大的攻击。","本階段內，輝夜受到傷害量降低，所有抗性提高。
+輝夜受到的傷害量會隨著回合結束而增加，所有抗性隨著回合結束降低。
+輝夜會發出逐漸強大的攻擊。"
+Buff/B_Kaguya_S_5_Name,Text,,신보「봉래의 옥의 가지 -꿈빛 고향-」,"Divine Treasure ""Jeweled Branch of Hourai -Dreamlike Paradise-""",神宝「蓬莱の玉の枝 -夢色の郷-」,神宝「蓬莱的玉枝　-梦色之乡-」,神寶「蓬萊的玉枝　-夢色之鄉-」
+Buff/B_Kaguya_S_6_0_Description,Text,,"행동할 수 없습니다.
+해제 불가.
+
+<color=#919191>영원 속에 갇혀라! ——호라이산 카구야</color>","Cannot act. 
+This debuff cannot be removed. 
+
+<color=#919191>“Be trapped in eternity!” —Kaguya Houraisan</color>","行動不能。
+除去できない。
+
+<color=#919191>永遠に囚われなさい！ --蓬莱山輝夜</color>","无法行动
+该减益不会被解除。
+
+<color=#919191>被困于永远之中吧！——蓬莱山辉夜</color>","無法行動
+該減益不會被解除。
+
+<color=#919191>被困于永遠之中吧！——蓬萊山輝夜</color>"
+Buff/B_Kaguya_S_6_0_Name,Text,,영원을 다루는 능력,Manipulation of Eternity,永遠と須臾を操る,操控永远的力量,操控永遠的力量
+Buff/B_Kaguya_S_6_Description,Text,,"이 단계에서, 카구야는 5턴 동안 강력한 공격을 가하고, 마지막 공격이 끝나면 쓰러집니다. 턴 종료 시 아군이 전투불능이 되지 않았으면 추가 보상을 얻습니다.
+성공적으로 마친 턴 수 : &a
+카구야는 턴 시작 시 체력을 모두 회복합니다. 카구야가 체력을 잃을 때마다 모든 아군은 체력의 7%만큼 보호막을 얻습니다.","During this phase, Kaguya unleashes powerful attacks for 5 turns and collapses after the final strike. If no allies are defeated by the end of each turn, gain additional rewards.
+Successfully survived turns: &a
+Kaguya fully restores HP at the start of each turn. Whenever Kaguya loses HP, all allies gain a barrier equal to 7% of their max HP.","このフェーズ中、蓬莱山輝夜は次の5ターンの間強力な攻撃を行い、最後に攻撃を行なったターンの終了時に死亡する。<color=#red> 
+このフェーズ中、全滅しても敗北にならず、戦闘不能になった味方は次のターン開始時に復活する。</color>
+毎ターン終了時、戦闘不能状態の味方がいない場合、追加の報酬を得る。
+輝夜の難題を達成している場合、ターン開始時にルシーから各難題に対応した支援を受ける。
+成功したターン数：&a
+蓬莱山輝夜は毎ターン開始時、体力をすべて回復する。蓬莱山輝夜が体力を失ったとき、失った体力の20％の防壁を得る。 ","本阶段内，辉夜会在接下来的5回合内发出强大的攻击并在发出最后一次攻击的回合结束时死亡。<color=#red>
+本阶段内，我方不会因为团灭而失败。</color>
+如果每回合结束时没有造成角色死亡，获得额外的奖励。
+如果完成了辉夜的难题，回合开始时获得相对应的露西的帮助。
+成功完成的回合数：&a
+辉夜会在每回合开始时恢复全部生命值。辉夜失去生命值时，生成相当于其失去的生命值20%的防护墙。","本階段內，輝夜會在接下來的5回合內發出強大的攻擊並在發出最後一次攻擊的回合結束時死亡。如果每回合結束時沒有造成角色死亡，獲得額外的獎勵。
+如果完成了輝夜的難題，回合開始時獲得相對應的露西的幫助。
+成功完成的回合數：&a
+輝夜會在每回合開始時恢復全部生命值。輝夜失去生命值時，生成相當於其失去的生命值20%的防護牆。"
+Buff/B_Kaguya_S_6_Name,Text,,「영야 되돌리기」,“End of Imperishable Night”,永夜返し,「永夜归返」,「永夜歸返」
+Buff/B_Kaguya_S_Achieve_Description,Text,,카구야의 난제「제비의 자안패 -영명선-」를 완료해 모든 아군이 버프를 얻습니다.,"All allies gain buffs for completing Kaguya’s Impossible Request ""Swallow's Cowrie Shell -Everlasting Life-"".",蓬莱山輝夜の「難題-燕の子安貝 -永命線-」の達成報酬。,成功完成了辉夜的难题「燕的子安贝　-永命线-」，全体友方获得增益。,成功完成了輝夜的難題「燕的子安貝　-永命線-」，全體友方獲得增益。
+Buff/B_Kaguya_S_Achieve_Name,Text,,「라이프스프링 인피니티」,“Life Spring Infinity”,ライフスプリングインフィニティ,「无限的生命之泉」,「無限的生命之泉」
+Buff/B_Kaguya_S_Fail_Description,Text,,난제를 완료하지 못해 카구야가 버프를 얻습니다.,Kaguya gains buffs due to uncompleted Impossible Requests.,蓬莱山輝夜の難題が未達成、蓬莱山輝夜がバフを得る。 ,未成功完成了辉夜的难题，辉夜获得增益。,未成功完成了輝夜的難題，輝夜獲得增益。
+Buff/B_Kaguya_S_Fail_Name,Text,,난제미완성,Impossible Request not completed,難題未達成,难题未完成,難題未完成
+Buff/B_Kaguya_T_10_Name,Text,,출혈,Bleeding,流血,流血,流血
+Buff/B_Kaguya_T_2_1_Name,Text,,명중률 감소,Accuracy Reduced,命中率低下,命中率降低,命中率降低
+Buff/B_Kaguya_T_5_0_Description,Text,,탄막 사이에 갇혔다!,Trapped in danmaku!,身動きできない！ 弾幕が当たる！,走位被封住了！要撞子弹了！,走位被封住了！要撞子彈了！
+Buff/B_Kaguya_T_5_0_Name,Text,,스펠카드 봉인,Spell Card Seal,スペルカードによる封印,符卡封位,符卡封位
+Buff/B_Kaguya_T_7_Description,Text,,,,,,
+Buff/B_Kaguya_T_7_Name,Text,,별탄 작렬,Starflare Burst,灼熱の星々,星星灼烧,星星灼燒
+Buff/B_Kaguya_T_9_Name,Text,,체력 감소,HP Reduction,体力衰弱,体力值削减,體力值削減
+Buff/B_Kaguya_Trace_Name,Text,,조준사격 대상 변경,Precision Strike,自機狙いの対象変更 ,自机狙目标改变,自機狙目標改變
+Buff/B_Mokou_0_Description,Text,,"부활할 때마다 중첩수 1 증가.「불멸의 레드 소울」중첩마다 최대 체력 +12, 공격력과 치유력 +1, 받는 피해 -1, 명중률, 치명타 확률, 디버프 적중률과 저항력 +5%. 턴 종료 시 모든 적에게 중첩수만큼 화상을 입힙니다.","Gain 1 stack of <b>Immortal Red Soul</b> per revival. Each stack grants +12 max HP, +1 Attack/Healing Power, -1 damage taken, +5% Hit Rate/Crit Rate/Debuff Success/Resist. At turn end, inflict <color=purple><sprite name=""Mokou_B_Mokou_T_1"">Burn</color> 
+equal to stacks on all enemies.","「リザレクション」を発動するたび、ストックが1増加する。[不滅の紅き魂]のストック1ごとに、最大体力が12、攻撃力と治癒力が1、クリティカル率、デバフ成功率/デバフレジストが5%増加し、受けるダメージが1減少する。ターン終了時、すべての敵に[不滅の紅き魂]のストック数に等しい<color=purple><sprite name=""Mokou_B_Mokou_T_1"">灼熱</color>のストックを与える。","每重生一次，层数+1。每拥有一层「不灭赤魂」，生命上限+12；攻击力、治疗力+1；受到的伤害-1；命中率、暴击率、debuff成功率、抵抗率+5%；回合结束时对所有敌人施加赤魂层数的<color=purple><sprite name=""Mokou_B_Mokou_T_1"">烧伤</color>。",每重生一次，層數+1。每擁有一層「不滅赤魂」，生命上限+12；攻擊力、治療力+1；受到的傷害-1；命中率、暴擊率、debuff成功率、抵抗率+5%；回合結束時對所有敵人施加赤魂層數的<color=purple>燒傷痛苦減益</color>。
+Buff/B_Mokou_0_Name,Text,,「불멸의 레드 소울」,“Immortal Red Soul”,「不滅の紅き魂」,「不灭赤魂」,「不滅赤魂」
+Buff/B_Mokou_Legacy_Description,Text,,"<color=#919191>
+내 파워가 왜 0.01 줄었지?</color>",<color=#919191>“Why did my power drop by 0.01?”</color>,<color=#919191>なぜ私の火力が0.01低下している  ? </color>,"<color=#919191>
+为什么我的火力减少了0.01？</color>","<color=#919191>
+為什麼我的火力减少了0.01？</color>"
+Buff/B_Mokou_Legacy_Name,Text,,회고의 비극,Tragedy of Retrospection,レトロスペクティブ京都 ,回溯之殇,回溯之殤
+Buff/B_Mokou_S_2_Description,Text,,피격 시 대상과 자신에게 <color=purple>화상 고통 디버프 (&a%)</color>를 2중첩 부여합니다.,"When attacked, apply 2 stacks of <color=purple>Burn (&a%)</color> to both attacker and self.","攻撃を受けたとき、自身と攻撃者に<color=purple><sprite name=""Mokou_B_Mokou_T_1"">灼熱(&a%)</color>を2ストック与える。","被击中时给双方施加2层<color=purple><sprite name=""Mokou_B_Mokou_T_1"">烧伤（&a%）</color>。",被擊中時給雙方施加2層<color=purple>燒傷痛苦減益(&a%)</color>。
+Buff/B_Mokou_S_2_Name,Text,,타오르는 몸,Burning Body,火焔の体,火焰身躯,火焰身軀
+Buff/B_Mokou_S_3_Description,Text,,카운트되는 동안 피격되지 않으면 광역 공격을 손에 넣고,"If not attacked during countdown, gain an AoE attack skill. If attacked, apply 3 stacks of <color=purple>Burn (&a%)</color> to both sides.","カウントダウン中に攻撃を受けていない場合、対象をすべての敵に変更した「滅罪-正直者の死」を手札に1枚加える。攻撃を受けている場合、自身と攻撃者に<color=purple><sprite name=""Mokou_B_Mokou_T_1"">灼熱(&a%)</color>を2ストック与える。","如果倒计时内没有受到攻击，则将一张aoe攻击形式的灭罪「正直者之死」置入手中；如果受到攻击，对双方施加3层<color=purple><sprite name=""Mokou_B_Mokou_T_1"">烧伤（&a%）</color>。",如果倒計時內沒有受到攻擊，則將一張aoe攻擊形式滅罪「正直者之死」置入手中；如果受到攻擊，對雙方施加3層<color=purple>燒傷痛苦減益</color>(&a%)。
+Buff/B_Mokou_S_3_Name,Text,,정직한 자의 죽음,“Honest Man’s Death”,正直者の死,正直者的试炼,正直者的試煉
+Buff/B_Mokou_S_5_0_Description,Text,,,,,,
+Buff/B_Mokou_S_5_0_Name,Text,,모코우의 보호,Mokou’s Protection,妹紅の守護,妹红的保护,妹紅的保護
+Buff/B_Mokou_S_5_Description,Text,,화상 디버프를 지녔으면 회복게이지 보호,Protect Healing Gauge if this character has <color=purple>Burn</color>.,"自身が<color=purple><sprite name=""Mokou_B_Mokou_T_1"">灼熱</color>を持つ場合、回復ゲージ保護を得る","如果自身有<color=purple><sprite name=""Mokou_B_Mokou_T_1"">烧伤</color>，保护体力极限。",如果自身有<color=purple>燒傷痛苦減益</color>，保護體力極限。
+Buff/B_Mokou_S_5_Name,Text,,「봉래인형」,“Hourai Doll”,「蓬莱人形」,「蓬莱人形」,「蓬萊人形」
+Buff/B_Mokou_S_6_Description,Text,,,,,,
+Buff/B_Mokou_S_6_Name,Text,,윤회「서복시봉」,Reincarnation “Xu Fu’s Dimension”,不死「徐福時空」,轮回「徐福时空」,輪回「徐福時空」
+Buff/B_Mokou_S_R_1_Description,Text,,"턴 종료 시 모든 적에게 <color=purple>화상 고통 디버프</color>를 1중첩씩 3번 부여합니다.
+최대 중첩을 넘을 때마다, 즉시 절반의 화상 고통 피해를 1번씩 입힙니다.","At the end of each turn, apply 1 stack of <color=purple><sprite name=""Mokou_B_Mokou_T_1"">Burn</color> to all enemies three times. 
+Each time an enemy exceeds the maximum stacks, immediately trigger <color=purple><sprite name=""Mokou_B_Mokou_T_1"">Burn</color>. This instance deals half damage.","毎ターン終了時、すべての敵に<color=purple><sprite name=""Mokou_B_Mokou_T_1"">灼熱</color>を1ストック与えるを3回繰り返し行う。
+ストックの上限を超えて<color=purple><sprite name=""Mokou_B_Mokou_T_1"">灼熱</color>が与えられるたび、<color=purple><sprite name=""Mokou_B_Mokou_T_1"">灼熱</color>の効果を発動する。 この効果で発動する<color=purple><sprite name=""Mokou_B_Mokou_T_1"">灼熱</color>のダメージは半分になる。","每回合结束时，对所有敌人施加3次<color=purple><sprite name=""Mokou_B_Mokou_T_1"">烧伤</color>，每次1层。
+每次敌人被施加超过层数上限的<color=purple><sprite name=""Mokou_B_Mokou_T_1"">烧伤</color>时，立刻结算1次<color=purple><sprite name=""Mokou_B_Mokou_T_1"">烧伤</color>。这次<color=purple><sprite name=""Mokou_B_Mokou_T_1"">烧伤</color>只会造成一半的伤害。","每回合結束時，對所有敵人施加3次<color=purple>燒傷痛苦減益</color>，每次1層。
+每次敵人被施加超過層數上限的<color=purple>燒傷痛苦減益</color>時，立刻結算1次<color=purple>燒傷痛苦減益</color>。這次<color=purple>燒傷</color>只會造成一半的傷害。"
+Buff/B_Mokou_S_R_1_Name,Text,,「다 불타버려!」,*Let This Whole World Burn Away to Nothing!*,こんな世は燃え尽きてしまえ！,＊这种世道赶紧烧个精光吧！＊,＊这种世道赶紧烧个精光吧！＊
+Buff/B_Mokou_S_R_2_1_Description,Text,,,,,,
+Buff/B_Mokou_S_R_2_1_Name,Text,,「열반환생」,“Nirvana Rebirth”,涅槃の復活,「涅槃重生」,「涅盤重生」
+Buff/B_Mokou_S_R_2_Description,Text,,,,,,
+Buff/B_Mokou_S_R_2_Name,Text,,「피닉스 재탄생」,“Phoenix Rebirth”,フェニックス再誕,「不死鸟重生」,「不死鳥重生」
+Buff/B_Mokou_S_R_3_Description,Text,,해제 시 불사「불새 -봉익천상-」을 손에 넣습니다.,"When removed, add <color=orange>Undying ""Fire Bird -Feng Wing Ascension-""</color> to your hand.",除去されたとき、「不死-火の鳥 -鳳翼天翔-」 を捨て札に1枚加える。,解除时，将一张不死「火鸟 -凤翼天翔-」加入弃牌库中。,解除時，將一張不死「火鳥 -鳳翼天翔-」加入手牌中。
+Buff/B_Mokou_S_R_3_Name,Text,,스펠카드 쿨다운,Spell Card Cooldown,スペルカードのクールダウン,符卡冷却,符卡冷卻
+Buff/B_Mokou_S_R_EX_Description,Text,,받는 고통 피해가 절반으로 감소합니다. <color=purple>화상 고통 디버프</color>의 공격력 감소 효과가 공격력 증가 효과로 변합니다.,"Take 50% less Pain damage. 
+<color=purple>Burn</color> reduces Attack Power decrease into an increase.","受ける苦痛ダメージが半減する。
+<color=purple><sprite name=""Mokou_B_Mokou_T_1"">灼熱</color>の攻撃力減少効果を攻撃力増加に変更する。 ","受到的痛苦伤害减半。
+<color=purple><sprite name=""Mokou_B_Mokou_T_1"">烧伤</color>的攻击力下降效果变为攻击力上升。","受到的痛苦傷害减半。
+<color=purple>燒傷痛苦减益</color>的攻擊力下降效果變為攻擊力上升。"
+Buff/B_Mokou_S_R_EX_Name,Text,,lor=red>「류 인 약 화」</color>,<color=red>“Flowing Flame Blades”</color>,<color=red>「流 炎 双 牙」</color>,<color=red>「火 似 刃 流」</color>,<color=red>「火 似 刃 流」</color>
+Buff/B_Mokou_T_1_Description,Text,,,,,,
+Buff/B_Mokou_T_1_Name,Text,,화상,"<color=purple><sprite name=""Mokou_B_Mokou_T_1"">Burn</color>","<color=purple><sprite name=""Mokou_B_Mokou_T_1"">灼熱</color>","<sprite name=""Mokou_B_Mokou_T_1"">烧伤",燒傷
+Buff/B_Mokou_T_2_Description,Text,,"모코우 외의 목표를 공격할 수 없습니다. 
+대상을 공격하면 해제됩니다.","Cannot target anyone except Mokou. 
+Removed when attacking Mokou.","藤原妹紅以外を攻撃の対象にできない。
+藤原妹紅を攻撃したとき、除去する。 ","无法攻击藤原妹红以外的目标
+攻击目标时解除。","無法攻擊藤原妹紅以外的目標
+攻擊目標時解除。"
+Buff/B_Mokou_T_2_Name,Text,,멸죄,Metsuzai,滅罪,灭罪,滅罪
+Buff/B_Mokou_T_9_Description,Text,,"행동 시, 자신이 가진 화상 중첩마다 모코우를 최대 체력의 3%만큼 치유합니다.","On action, heal Mokou for 3% max HP per <color=purple>Burn</color> stack.","行動時、自身が持つ<color=purple><sprite name=""Mokou_B_Mokou_T_1"">灼熱</color>のストック1ごとに、藤原妹紅は体力を最大体力の3%回復する。","行动时，自身每拥有1层<color=purple><sprite name=""Mokou_B_Mokou_T_1"">烧伤</color>，治疗妹红3%最大体力值的体力值。",行動時，自身每擁有1層燒傷痛苦減益，治療妹紅3%最大體力值的體力值。
+Buff/B_Mokou_T_9_Name,Text,,화염 추출,Flame Extraction,火焔抽出,火焰萃取,火焰萃取
+Buff/B_Mokou_T_R_3_Description,Text,,행동할 수 없습니다.,Cannot act.,行動不能,无法行动,無法行動。
+Buff/B_Mokou_T_R_3_Name,Text,,기절,Stunned,スタン,眩晕,眩暈
+Buff/B_Mokou_T_R_4_Description,Text,,"자신이 타겟에게 주는 데미지가 20% 감소하고, 타겟에게서 받는 데미지는 50% 감소합니다. 타겟을 공격할 때, 대상이 <color=purple>화상</color> 상태라면 그 <color=purple>화상</color>을 1중첩만큼 자신에게 옮깁니다. 대상을 처치하거나 효과가 종료되면 '시효-츠키노 이와카사의 저주'를 덱에 넣습니다.","Deal 20% less and take 50% less damage from &target. 
+Transfer 1 <color=purple>Burn</color> stack from &target to self on hit. 
+Add <color=orange>Limiting Edict ""Curse of Tsuki-no-Iwakasa""</color> to deck if defeated.","自身が&targetに与えるダメージは20%減少し、&targetから受けるダメージは50%減少する。 
+&targetを攻撃するとき、対象が<color=purple><sprite name=""Mokou_B_Mokou_T_1"">灼熱</color>を持つ場合、その<color=purple><sprite name=""Mokou_B_Mokou_T_1"">灼熱</color>のストックを1ストック自身に移す。 対象を倒すか効果終了時、<color=orange>「時効-月のいはかさの呪い」</color>をデッキに加える。 ","自身对&target造成的伤害降低20%，受到来自&target的伤害降低50%。
+击中&target时，如果其有<color=purple><sprite name=""Mokou_B_Mokou_T_1"">烧伤</color>，转移其的1层<color=purple><sprite name=""Mokou_B_Mokou_T_1"">烧伤</color>到自己身上。
+击杀时或者持续时间结束后，将“<color=orange>时效「月岩笠的诅咒」</color>”技能放入牌库。","自身對&target造成的傷害降低20%，受到來自&target的傷害降低50%。
+擊中&target時，如果其有<color=purple>燒傷</color>，轉移其的1層<color=purple>燒傷</color>到自己身上。
+被擊殺時或者持續時間結束後，將“<color=orange>時效「月岩笠的詛咒」</color>”技能放入牌庫。"
+Buff/B_Mokou_T_R_4_Name,Text,,츠키노 이와카사의 저주,<color=orange>Curse of Tsuki-no-Iwakasa</color>,<color=orange>月のいはかさの呪い</color>,<color=orange>「月岩笠的诅咒」</color>,<color=orange>「月岩笠的詛咒」</color>
+Character/Mokou_CampSelectWord,Text,,내 차례인가? 오랜만에 몸 좀 풀어볼까.,My turn? Time to stretch after so long.,私の出番？ 久しぶりに暴れよう。,轮到我了吗，那就久违的活动活动身子吧,輪到我了嗎，那就久違的活動活動身子吧
+Character/Mokou_PassiveDes,Text,,"피해가 1 이상인 공격을 받을 때마다 <color=purple>화상 고통 디버프</color>를 1중첩 얻습니다.
+체력이 0 이하일때 전투불능이 되는 피해를 받으면 그 피해를 막고 체력을 모두 회복한 후, 모든 능력치가 상승합니다. 한 전투에서 최대 '레벨/2'번(올림) 발동합니다.","When taking 1 or more damage, gain 1 stack of <color=purple>Burn</color>. 
+When receiving fatal damage, negate it, cleanse all debuffs, fully restore HP, and boost all stats. Max triggers per battle: Level divided by 2 (rounded up).","攻撃を受けるたび、受けたダメージが1より大きい場合、<color=purple><sprite name=""Mokou_B_Mokou_T_1"">灼熱</color>を1ストック得る。
+体力が0以下のときにダメージを受けた場合、そのダメージを無効にして自身が持つすべてデバフを除去し、すべてのレジストを増加して体力をすべて回復する。1回の戦闘中に発動できる回数はレベルを2で割った数(切り上げ)。","每次被击中时，如果受到伤害大于0，获得1层<color=purple><sprite name=""Mokou_B_Mokou_T_1"">烧伤</color>。
+每次体力低于0受到致命伤害时，无效此伤害，清除自身所有DEBUFF并提升全属性，然后恢复全部生命值，一场战斗最多生效等级除以2（向上取整）的次数。","每次被擊中時，如果受到傷害大於0，獲得1層<color=purple>燒傷痛苦減益</color>。
+每次體力低於0受到致命傷害時，無效此傷害，清除自身所有DEBUFF並提升全屬性，然後恢復全部生命值，一場戰鬥最多生效等級除以2(向上取整)的次數。"
+Character/Mokou_PassiveName,Text,,늙지도 죽지도 않는 정도의 능력,Form of the Hourai Immortal,蓬莱の人の形,蓬莱的人之形,蓬萊的人之形
+Character/Mokou_SelectInfo,Text,,"후지와라노 모코우는 봉래의 약을 먹고 불로불사의 존재가 되었으나, 그 힘을 두려워한 사람들에게 배척당하며 사람들과 멀리 떨어져 숨어지냈습니다. 그 때문에 타인과 잘 어울리지 못하고 자신의 과거를 얘기하고 싶어하지 않아하지만, 타인의 가족 얘기를 듣는 것은 좋아하는 듯 합니다.
+호라이산 카구야와의 내기로 방주 프로젝트에 참여하게 됐습니다.
+
+모코우는 전투 중 부활할 수 있고, 적과 자신에게 화상 고통 디버프를 부여해 지속 피해를 가하거나 자신의 스킬을 강화할 수 있습니다.","Fujiwara no Mokou, who became immortal after consuming the Hourai Elixir, was shunned by those who feared her power. She now 
+wanders distant lands in self-imposed exile. Though she struggles to connect with others and avoids discussing her past, she secretly enjoys hearing stories about human families. Joined the Ark Project through a wager with Kaguya Houraisan.
+
+In battle, Mokou can resurrect herself, inflict <color=purple>Burn</color> on enemies for sustained damage, and enhance her skills by strategically triggering <color=purple>Burn</color> stacks. Combines offensive prowess with exceptional survivability.","藤原妹紅はかつて人間であったが、蓬莱の霊薬を飲んだことで不老不死となり、人々から恐れられ、疎まれていた。 千年近い放浪の末、ついに迷いの竹林に隠遁し、自らを磨く禁欲生活を送っていた。 蓬莱山輝夜との賭けがきっかけでアークプロジェクトに参加することになる。
+彼女は他人と仲良くするのがあまり得意ではなく、自身の人生経験を他人に話したがらないが、人間の家族の話を聞くのが好きです。
+
+藤原妹紅は戦場で灰の中から復活し、敵に灼熱デバフを与えることができます。 また、事前に自身自身に灼熱デバフを発動して、スキルに強力な追加効果を得ることができ、同時に強力な攻撃力と生存能力も備えています。","藤原妹红曾经是人类,在吃了蓬莱仙药后变得不老不死,受到了人们的恐惧和排挤。经过近千年颠沛流离,最后隐居在迷途竹林中,过着苦行僧一样的生活来磨练自己。因为与蓬莱山辉夜的赌注加入了方舟计划。
+不怎么擅长与人相处也不愿与别人说自己的身世,但是却喜欢听人类家族的故事。
+
+藤原妹红可以在战场上浴火重生，并向敌人施加<color=purple><sprite name=""Mokou_B_Mokou_T_1"">烧伤</color>。还可以通过提前触发自己身上的<color=purple><sprite name=""Mokou_B_Mokou_T_1"">烧伤</color>让技能获得强大的额外效果，同时拥有强大的进攻与生存能力。","藤原妹紅曾經是人類,在吃了蓬萊仙藥後變得不老不死,受到了人們的恐懼和排擠。經過近千年顛沛流離,最後隱居在迷途竹林中,過著苦行僧一樣的生活來磨練自己。因為與蓬萊山輝夜的賭注加入了方舟計畫。
+不怎麼擅長與人相處也不願與別人說自己的身世,但是卻喜歡聽人類家族的故事。
+
+藤原妹紅可以在戰場上浴火重生，並向敵人施加燒傷痛苦減益。還可以通過提前觸發自己身上的燒傷痛苦減益讓技能獲得強大的額外效果，同時擁有強大的進攻與生存能力。"
+Character/Mokou_Text_Battle_AllyND_0,Text,,죽더라도 내 눈앞에선 죽지 마…,Don't die where I can see it...,私の目の前で死なないでくれ...。,要死也别在我面前死啊…,要死也別在我面前死啊…
+Character/Mokou_Text_Battle_AllyND_1,Text,,내 뒤로 와.,Stay behind me.,私の後ろにいて。,站在我身后就好,站在我身後就好
+Character/Mokou_Text_Battle_Cri_0,Text,,전부 불타버려라!,Let This Whole World Burn Away to Nothing!,全て燃やし尽くす！,把这一切焚烧殆尽吧！,把這一切焚燒殆盡吧！
+Character/Mokou_Text_Battle_Healed_0,Text,,"콜록콜록, 아… 고마워…",Coughs... Thanks.,(咳払い)ええと、ありがとう...。,咳咳咳嗯，呃…谢谢…,咳咳咳嗯，呃…謝謝…
+Character/Mokou_Text_Battle_Healed_1,Text,,부활은 더 필요할 때 해야겠네.,I'll save my revives for when they matter.,必要な時のために復活を残そう。,那么复活就留到需要的时候吧,那麼復活就留到需要的時候吧
+Character/Mokou_Text_Battle_Idle_0,Text,,"괜찮아, 천천히 생각해. 난 시간 많아.",Take your time. I've got eternity.,大丈夫だ、ゆっくり考えろ。時間は無限にある。 ,没事，慢慢想，反正我有无尽的时间,沒事，慢慢想，反正我有無盡的時間
+Character/Mokou_Text_Battle_Idle_1,Text,,그렇게 멍하니 있다간 전멸할걸.,Zone out here and we'll all die.,戦闘中にぼんやりしてたら全滅するぞ。,在战斗中发呆可是会全灭的啊,在戰鬥中發呆可是會全滅的啊
+Character/Mokou_Text_Battle_Kill_0,Text,,"이런, 벌써 끝이야?",That's it? Pathetic.,おや？ もう終わりか？,哦呀？这就结束了吗？,哦呀？這就結束了嗎？
+Character/Mokou_Text_Battle_ND_0,Text,,"걱정 마, 난 안 죽어.","Relax, kid. Death's just a break for me.",落ち着け、私は不死身だ。,安心吧小子，老子可是不死之身。,安心吧小子，老子可是不死之身。
+Character/Mokou_Text_Battle_ND_1,Text,,죽지 않아도 아프긴 하거든? 젠장…,Immortal ≠ painless. Damn this hurts...,死ななくても、痛いモンは痛いんだからな！？,虽然不会死，但老子还是会痛的啊可恶,雖然不會死，但老子還是會痛的啊可惡
+Character/Mokou_Text_Battle_Start_0,Text,,"좋아, 시작해볼까!","Alright, let's begin!",よし。始めようか！,好吧，那就让战斗开始吧！,好吧，那就讓戰鬥開始吧！
+Character/Mokou_Text_Field_GetItem_0,Text,,더 필요한 사람한테 남겨줘.,Leave supplies for the living.,必要な人のために残しておこう。,留给更需要的人吧,留給更需要的人吧
+Character/Mokou_Text_Field_GetItem_1,Text,,난 필요없어.,I don't need handouts.,私には不要だ。,我不需要,我不需要
+Character/Mokou_Text_Field_Idle_0,Text,,잠깐 쉬었다가 계속 가자.,"Five-minute break, then we move.",少し休憩した後、旅を続けよう。 ,稍事歇息就继续上路吧,稍事歇息就繼續上路吧
+Character/Mokou_Text_Field_Idle_1,Text,,"뒤틀린 땅이 이렇게 무시무시할 줄이야, 환상향과는 많이 다르네.",This Twisted Land... worse than Gensokyo's darkest corners.,歪みの地の雰囲気は、幻想郷とはかなり違う。,扭曲之地如此恐怖的气氛，和幻想乡差多了啊,扭曲之地如此恐怖的氣氛，和幻想鄉差多了啊
+Character/Mokou_Text_Field_Potion_N_0,Text,,"휴, 좀 괜찮아졌어.",Hah... stabilized.,ふぅ、もう大丈夫だ。,呼，体力恢复了,呼，體力恢復了
+Character/Mokou_Text_Field_Potion_P_0,Text,,음. 맛있는데?,Not bad. Needs more sake though.,悪くない味だ。,还行吧，味道不错,還行吧，味道不錯
+Character/Mokou_Text_Field_Potion_P_1,Text,,여기에 사케만 조금 있었으면 더 좋았을텐데.,Could use a drink to wash this down.,酒を少し加えるとさらに美味しくなる。,再配一点清酒就更好了,再配一點清酒就更好了
+Character/Mokou_Text_MasterTarget,Text,,"그렇군, 이게 진짜 죽음이란거지…",So this... is true death...,なるほど、これが本当の死か...。,原来如此，这就是真正的死亡啊……,原來如此，這就是真正的死亡啊……
+Character/Mokou_Text_PharosLeader_0,Text,,모두 불태워버리면 되는거지…,Burn it all to ash.,全てを焼き尽くしてしまえ… ,把一切都烧光就可以了吧……,把一切都燒光就可以了吧……
+Character/Mokou_Text_PharosLeader_1,Text,,"어, 미안. 널 태워버렸네.",Whoops. Got carried away with the flames.,悪い、火傷させたか。,额，抱歉，烧到你了吧,額，抱歉，燒到你了吧
+Character/Mokou_Text_PharosLeader_2,Text,,타올라라… 타올라라…!,Burn... BURN!,燃えろ...燃えててしまえ！,烧吧…烧吧！,燒吧…燒吧！
+Character/Mokou_Text_Witch_0,Text,,불사신이 있는데 뭘 망설이고 있어!,Why hesitate? I'll tank the hits!,私は不死身だ、躊躇するな！,老子可是不死之身啊，犹豫什么呢！,老子可是不死之身啊，猶豫什麼呢！
+Character/Mokou_Text_Witch_1,Text,,이 고통은 나 혼자서만 겪게 해줘.,Let me shoulder the agony alone.,呪いは私一人に背負わせてくれ。,就让我来独自承伤这份痛楚吧,就讓我來獨自承傷這份痛楚吧
+Character/Mokou_UnlockString,Text,,,,,,
+Character/Mokou_name,Text,,후지와라노 모코우,Fujiwara no Mokou,藤原妹紅,藤原妹红,藤原妹紅
+Enemy/Kaguya_EnemyStory,Text,,"카구야는「타케토리모노가타리」에 등장하는「카구야 공주」이다. 달의 공주이자 영원정의 주인인 그녀는 영원과 수유를 다루는 정도의 능력을 가지고 있다.
+지상에 내려와 공부하며 지상에 대해 어느 정도 알게 됐지만 부족한 면이 있다.
+성격은 흔히 볼 수 있는 집돌이 소녀의 이미지이며 외부에는 관심이 없는 아가씨 기질이 있다.
+
+<color=#919191>그런데 당신이 본 그녀가 정말 카구야 본인일까?</color>","Kaguya Houraisan - the lunar princess exiled for creating the forbidden Hourai Elixir. Wields power over eternity and the ephemeral. While knowledgeable about Earth's ways, her sheltered existence leaves gaps in her understanding. Presents as a reclusive noblewoman indifferent to worldly affairs.
+
+<color=#919191>But is this truly Kaguya... or merely a shadow of her former self?</color>","蓬莱山輝夜は、かつて月に住む種族である月人の姫でした。 蓬莱の薬を飲んだ罪で八意永琳とともに地球に追放され、  やがて幻想郷に住むようになる。現在は永遠亭の姫である。
+かぐやはかなりのんきな性格で、 会話術には長けているらしいが、語彙はやや古めかしい。 
+
+<color=#919191>あなたが見ている彼女は、本当に輝夜だろうか？  </color>","辉夜就是「竹取物语」里面登场的那位「辉夜姬」。她是月之公主，永远亭的主人，拥有操纵永远与须臾程度的能力。
+来到地面后，通过学习辉夜对地上的知识已经有一些了解，但是也有展示出不足的一面。
+性格是常见的那种宅家少女的形象，有着对外界没有兴趣的大小姐气质。
+
+<color=#919191>不过你所见到的她，真的是辉夜本人吗？</color>","輝夜就是「竹取物語」裡面登場的那位「輝夜姬」。她是月之公主，永遠亭的主人，擁有操縱永遠與須臾程度的能力。
+來到地面後，通過學習輝夜對地上的知識已經有一些瞭解，但是也有展示出不足的一面。
+性格是常見的那種宅家少女的形象，有著對外界沒有興趣的大小姐氣質。
+
+<color=#919191>不過你所見到的她，真的是輝夜本人嗎？</color>"
+Enemy/Kaguya_SubName,Text,,영원과 수유의 죄인,The Sinner of Eternity and the Instantaneous,永遠と須臾の罪人,永远与须臾的罪人,永遠與須臾的罪人
+Enemy/Kaguya_name,Text,,호라이산 카구야,Kaguya Houraisan,蓬莱山辉夜,蓬莱山辉夜,蓬萊山輝夜
+Item_Equip/Mokou_Plume_Description,Text,,"받는 피해 -2
+피격 시 대상에게 <color=purple>화상 고통 디버프 (100%)</color>를 1중첩 부여합니다. 모코우가 착용할 경우 자신과 대상에게 추가로 1중첩 부여합니다.
+착용자의 <color=purple>고통 디버프 성공률</color>에 따라 확률이 증가합니다.","Take 2 less damage. 
+When attacked, inflict 1 stack of <color=purple>Burn (100%)</color> on the attacker. If equipped by Mokou, apply 1 additional stack to both attacker and self. 
+Effectiveness scales with the wearer's <color=purple>Debuff Success Rate</color>.","受けるダメージ-2
+攻撃を受けたとき、攻撃者に<color=purple><sprite name=""Mokou_B_Mokou_T_1"">灼熱(100%)</color>を1ストック与える。 装備者が藤原妹紅の場合、さらに攻撃者と自身に<color=purple><sprite name=""Mokou_B_Mokou_T_1"">灼熱(100%)</color>を1ストック与える。
+装備者の<color=purple>苦痛デバフの成功率</color>によって確率が増加する。","受到的伤害-2
+被击中时给予攻击者1层<color=purple><sprite name=""Mokou_B_Mokou_T_1"">烧伤（100%）</color>。如果装备者是藤原妹红，额外给予攻击者和自身1层<color=purple><sprite name=""Mokou_B_Mokou_T_1"">烧伤（100%）</color>。
+根据装备角色的<color=purple>痛苦成功率</color>增加概率。","受到的傷害-2
+被擊中時給予攻擊者1層<color=purple>燒傷痛苦減益(100%)</color>。如果裝備者是藤原妹紅，額外給予攻擊者和自身1層<color=purple>燒傷痛苦減益(100%)</color>。
+根據裝備角色的<color=purple>痛苦成功率</color>增加概率。"
+Item_Equip/Mokou_Plume_name,Text,,불사조의 꼬리,Phoenix's Tail,フェニックスの尾,不死鸟之尾,不死鳥之尾
+Item_Passive/Mokou_Legacy_Description,Text,,"아군이 빈사상태에서 피해를 입을 때, 그 피해를 막고 체력이 1이 되도록 회복시킵니다. (전투마다 각 아군당 1번씩)
+
+<color=#919191>병 안에는 알 수 없는 색의 약이 들어 있다. 마시면 미래를 내다보고 죽음을 피할 수 있다고 한다.</color>","When an ally would be KO'd, prevent the damage and heal them to 1 HP. (Once per ally per battle)
+
+<color=#919191>The vial holds an eerie liquid said to grant visions of death's avoidance. Excessive use dulls survival instincts - strictly rationed.</color>","味方が致命的なダメージを受けたとき、ダメージを無効にして体力を最大体力の半分まで回復する。 (1ターンに最大1回まで)
+
+<color=#919191>この禁断の秘薬を飲んだ者は、老化が止まり病気にならず、死ぬこともできなくなる。</color>","当友军在濒死的情况下受到伤害时，免疫此次伤害，将体力值恢复至1点。（每场战斗中，每个友方最多触发1次）
+
+<color=#919191>模糊了生与死的界限的危险药物，过多使用会丧失对死亡的畏惧感，因此严苛地限制了使用次数。</color>","當友軍受到致命傷害時，免疫此次傷害，並恢復體力值至最大體力值的一半。(每回合最多觸發1次)
+
+<color=#919191>瓶子中裝著不明顏色的藥水，據說喝下之後就可以預見未來，規避死亡的結局。</color>
+"
+Item_Passive/Mokou_Legacy_name,Text,,봉래의 약(?),Hourai Elixir (?),紺珠の薬,绀珠之药,紺珠之藥
+RandomEvent/Bamboo_Forest_Desc,Text,,"특수 보스 '호라이산 카구야'와 전투할 수 있다.
+'호라이산 카구야'는 이번 지역의 보스를 대체한다.
+이미 이번 지역의 보스와 전투했을 경우, 이 이벤트는 아무런 효력이 없다.","Triggers a special boss fight against Kaguya Houraisan, replacing the area's default boss. 
+Has no effect if the zone boss was already defeated.","特別なボス「蓬莱山輝夜」と戦える
+現在のエリアのボスの代わりに「蓬莱山輝夜」が出現する。
+現在のエリアのボスとの戦闘が終了している場合、本イベントは無効となる。","可与特殊BOSS-“蓬莱山辉夜”战斗
+“蓬莱山辉夜”代替当前区域的BOSS出场。
+若已经和当前区域的BOSS结束战斗，此事件无效。","可與特殊BOSS-“蓬萊山輝夜”戰鬥
+“蓬萊山輝夜”代替當前區域的BOSS出場。
+若已經和當前區域的BOSS結束戰鬥，此事件無效。"
+RandomEvent/Bamboo_Forest_Desc_2Stage,Text,,,,,,
+RandomEvent/Bamboo_Forest_Desc_3Stage,Text,,,,,,
+RandomEvent/Bamboo_Forest_EventDetails,Text,,"드넓은 대나무 숲. 대나무는 모두 이상한 자태로 비스듬히 자라고 있다.
+하늘 높이 떠 있는 보름달이 달빛을 흩뿌리고, 그 달빛이 대나무 잎에 잘게 반사되어 땅에 비친다.
+그 아름다운 풍경이 나를 깊은 곳으로 끌어당겼다.
+
+(특수 보스 '호라이산 카구야'와 전투할 수 있다.
+'호라이산 카구야'는 이번 지역의 보스를 대체한다.
+이미 이번 지역의 보스와 전투했을 경우, 이 이벤트는 아무런 효력이 없다.)","Vast bamboo grove where stalks lean at unnatural angles. 
+Moonlight fractures through leaves, painting the ground in silver shards. 
+This serene beauty pulls me deeper.
+
+(Special boss ""Kaguya Houraisan"" awaits. 
+Replaces current zone boss. 
+Inactive if boss already cleared.)","広大な竹林の中に、奇妙に竹が斜めに生えている。
+空高く浮かぶ満月は、明るい月光を地上へ広げ、その月光が笹の葉によって細かく刻まれ地面で反射している。
+とても美しい景色に惹かれてさらに奥へ進む事にした。
+
+(特別なボス「蓬莱山輝夜」と戦える
+現在のエリアのボスの代わりに「蓬莱山輝夜」が出現する。
+現在のエリアのボスとの戦闘が終了している場合、本イベントは無効となる。)","一片广阔的竹林，竹子都以一种奇怪的姿态斜斜地生长。
+天上高高悬着的圆月将皎洁的月光洒向大地，月光又被竹叶切得细碎之后照映在地上。
+如此美好的景色吸引着我向深处走去。
+
+（可与特殊BOSS-“蓬莱山辉夜”战斗
+“蓬莱山辉夜”代替当前区域的BOSS出场。
+若已经和当前区域的BOSS结束战斗，此事件无效。）","一片廣闊的竹林，竹子都以一種奇怪的姿態斜斜地生長。
+天上高高懸著的圓月將皎潔的月光灑向大地，月光又被竹葉切得細碎之後照映在地上。
+如此美好的景色吸引著我向深處走去。
+
+(可與特殊BOSS-“蓬萊山輝夜”戰鬥
+“蓬萊山輝夜”代替當前區域的BOSS出場。
+若已經和當前區域的BOSS結束戰鬥，此事件無效。)"
+RandomEvent/Bamboo_Forest_Name,Text,,미혹의 죽림,Bamboo Forest of the Lost,迷いの竹林,迷途竹林,迷途竹林
+RandomEvent/Bamboo_Forest_OrderStrings_0,Text,,"안내를 따라 대나무 숲의 조금 트인 공터로 향했다.
+눈 앞에 있는 사람은 이곳에서 오랫동안 기다린 것 같다.","Guided by the moonlight, I reached a small clearing in the bamboo forest. 
+The figure before me seemed to have awaited this moment for centuries.","案内に従い、竹林の中の少し開けた場所に着いた。
+目の前に居る人物は、ずっとここで待っていたようだ。 ","跟随着指引，我来到了竹林中的一片稍微开阔的空地上。
+眼前的人仿佛已经在这里等待了许久。","跟隨著指引，我來到了竹林中的一片稍微開闊的空地上。
+眼前的人仿佛已經在這裡等待了許久。"
+RandomEvent/Bamboo_Forest_OrderStrings_1,Text,,"달빛을 받으며 숲을 돌아봤지만, 특별할 것 없는 평범한 대나무 숲이었다.
+아름다운 경치를 뒤로하고 시계탑을 가동하기 위해 서둘러 움직이기로 했다.","Though bathed in ethereal moonlight, this proved to be an ordinary bamboo grove. 
+With lingering regret, I pressed onward to activate the Clock Tower.","朧げな月明かりが降り注ぐ竹林を散策したが、そこはただの小さな竹林だった。
+美しい景色だが、私には時計塔を起動させる責務がある。そろそろ旅を続けなければならない。 ","我漫步在竹林之中，朦胧的月光洒下，这里只是一片平平无奇的小竹林。
+虽然看到了美丽的景色，但是我有启动钟楼的重任，是时候继续启程了。","我漫步在竹林之中，朦朧的月光灑下，這裡只是一片平平無奇的小竹林。
+雖然看到了美麗的景色，但是我有啟動鐘樓的重任，是時候繼續啟程了。"
+RandomEvent/Bamboo_Forest_OrderStrings_2,Text,,"달빛이 흐릿하게 내리쬐는 대나무 숲을 천천히 거닐었다. 눈앞에 펼쳐진 풍경은 그저 평범한 작은 대나무 숲에 불과했지만, 그 고요한 아름다움에 잠시 넋을 잃고 말았다. 하지만 시계탑을 작동시켜야 한다는 중대한 임무가 머릿속을 스쳐 지나갔다. 아쉬움을 뒤로한 채, 나는 다시 발걸음을 옮겼다. 이제 여정을 이어갈 시간이었다.","Wandering through moon-dappled bamboo stalks, I momentarily lost myself in the tranquil beauty. 
+Yet duty called - time to thwart Azar's schemes and continue my mission.","朧げな月明かりが降り注ぐ竹林を散策したが、そこはただの小さな竹林だった。
+美しい景色だが、私には時計塔を起動させる責務がある。そろそろ旅を続けなければならない。 ","我漫步在竹林之中，朦胧的月光洒下，这里只是一片平平无奇的小竹林。
+虽然看到了美丽的景色，但是我还要阻止阿扎尔的计划，是时候继续启程了。","我漫步在竹林之中，朦朧的月光灑下，這裡只是一片平平無奇的小竹林。
+雖然看到了美麗的景色，但是我還要阻止阿紮爾的計畫，是時候繼續啟程了。"
+RandomEvent/Bamboo_Forest_UseButtonTooltip_0,Text,,특수 보스 '호라이산 카구야'와 전투한다.,[Confront Special Boss: Kaguya Houraisan]  ,ボス「蓬莱山輝夜」と戦闘に入る。 ,与特殊BOSS“蓬莱山辉夜”战斗。,與特殊BOSS“蓬萊山輝夜”戰鬥。
+RandomEvent/Bamboo_Forest_UseButtonTooltip_1,Text,,특수 보스 '호라이산 카구야'와 전투한다.,[Confront Special Boss: Kaguya Houraisan]  ,ボス「蓬莱山輝夜」と戦闘に入る。 ,与特殊BOSS“蓬莱山辉夜”战斗。,與特殊BOSS“蓬萊山輝夜”戰鬥。
+RandomEvent/Bamboo_Forest_UseButton_0,Text,,"만월의 인도를 따라, 달이 있는 방향으로 향한다.",Follow the full moon's guidance toward its luminous source.,満月の導きに従い、月の方向に向かう。 ,跟着圆月的指引，往月亮的方向前行。,跟著圓月的指引，往月亮的方向前行。
+RandomEvent/Bamboo_Forest_UseButton_1,Text,,"모코우 : 여긴… 미혹의 죽림? 내가 잘 아는 곳이군. 따라와, 안내할게.","Mokou: ""The Bamboo Forest of the Lost? I know these paths. Stick close - I'll guide us through.""",藤原妹紅「ここは迷いの竹林か？私はこの場所に詳しい、私が案内しよう」 ,妹红：“这里是，迷途竹林？我对这里熟，就让我来带路吧”,妹紅：“這裡是，迷途竹林？我對這裡熟，就讓我來帶路吧”
+RandomEvent/Bamboo_Forest_UseButton_2,Text,,"모코우 : 여긴… 미혹의 죽림? 내가 잘 아는 곳이군. 따라와, 안내할게.","Mokou: ""The Bamboo Forest of the Lost? I know these paths. Stick close - I'll guide us through.""",藤原妹紅「ここは迷いの竹林か？私はこの場所に詳しい、私が案内しよう」 ,藤原妹紅「ここは迷いの竹林か？私はこの場所に詳しいから、私が案内しよう」。 ,妹紅：“這裡是，迷途竹林？我對這裡熟，就讓我來帶路吧”
+SimpleCampDialogue/CampDial_Mokou_Azar_Dialogues_0,Text,,"[B]늙지도 죽지도 않는 인간이라… 하하, 너는 어떻게 할지 궁금하네.","[B]An ageless, deathless human... Heh, curious what you'll do with that.",[B]不老不死的人类吗？呵呵，我很好奇你会怎么做。,[B]不老不死的人类吗？呵呵，我很好奇你会怎么做。,[B]不老不死的人類嗎？呵呵，我很好奇你會怎麼做。
+SimpleCampDialogue/CampDial_Mokou_Blue_Dialogues_0,Text,,[A]달이라…… 달에는 좋은 기억이 없는데.,[A]The moon... Brings back no fond memories.,[A]月亮啊，我跟月亮可没有什么好的回忆。,[A]月亮啊，我跟月亮可没有什么好的回忆。,[A]月亮啊，我跟月亮可沒有什麼好的回憶。
+SimpleCampDialogue/CampDial_Mokou_Blue_Dialogues_1,Text,,"[B]으, 미안해……","[B]Ugh, my fault...",[B]啊，都是我的错……,[B]啊，都是我的错……,[B]啊，都是我的錯……
+SimpleCampDialogue/CampDial_Mokou_Blue_Dialogues_2,Text,,"[A]아, 미안. 쓸 데 없는 옛날 일이 떠올랐을 뿐이야.",[A]Forget it. Just old ghosts resurfacing.,[A]啊，抱歉，我只是想起了一点不值一提的往事罢了。,[A]啊，抱歉，我只是想起了一点不值一提的往事罢了。,[A]啊，抱歉，我只是想起了一點不值一提的往事罷了。
+SimpleCampDialogue/CampDial_Mokou_Charon_Dialogues_0,Text,,[B]불사신이니까 생명력좀 빌려도 되겠지?,"[B]Since you can't die, loan me some life force?",[B]既然你是不死的，借我一点生命力用用不好吗？,[B]既然你是不死的，借我一点生命力用用不好吗？,[B]既然你是不死的，借我一點生命力用用不好嗎？
+SimpleCampDialogue/CampDial_Mokou_Charon_Dialogues_1,Text,,[A]죽지는 않아도 아프긴 하거든? 젠장…,"[A]Although I won't die, I still feel pain, damn it!",[A]虽然不会死，但我还是会感到疼痛的啊可恶！,[A]虽然不会死，但我还是会感到疼痛的啊可恶！,[A]雖然不會死，但我還是會感到疼痛的啊可惡！
+SimpleCampDialogue/CampDial_Mokou_Hein_Dialogues_0,Text,,[A]적들을 모두 태워버리자고!,[A]Burn every last enemy to cinders!,[A]让我们把一切敌人都烧尽吧！,[A]让我们把一切敌人都烧尽吧！,[A]讓我們把一切敵人都燒盡吧！
+SimpleCampDialogue/CampDial_Mokou_Hein_Dialogues_1,Text,,"[B]아니, 찢어 죽인다!",[B]No! Tear them apart!,[B]不，当然是把一切敌人都撕碎啊！,[B]不，当然是把一切敌人都撕碎啊！,[B]不，當然是把一切敵人都撕碎啊！
+SimpleCampDialogue/CampDial_Mokou_Huz_Dialogues_0,Text,,[B]전투중에 실수로 너무 강하게 때려버렸네. 괜찮아?,[B]Whoops - hit too hard back there. You okay?,[B]战斗中我不小心下手重了，你没事吧？,[B]战斗中我不小心下手重了，你没事吧？,[B]戰鬥中我不小心下手重了，你沒事吧？
+SimpleCampDialogue/CampDial_Mokou_Huz_Dialogues_1,Text,,[A]됐어. 어차피 죽지도 않는 몸인데.,[A]Whatever. This flesh regenerates anyway.,[A]没事，毕竟我是不死之身嘛。,[A]没事，毕竟我是不死之身嘛。,[A]沒事，畢竟我是不死之身嘛。
+SimpleCampDialogue/CampDial_Mokou_Ilya_Dialogues_0,Text,,[B]나도 너처럼 강한 힘이 있으면 좋겠네.,[B]Wish I had power like yours.,[B]我也想拥有你这样强大的力量啊。,[B]我也想拥有你这样强大的力量啊。,[B]我也想擁有你這樣強大的力量啊。
+SimpleCampDialogue/CampDial_Mokou_Ilya_Dialogues_1,Text,,[A]너도 이미 충분히 강하다고 생각하는데?,[A]You're plenty strong already.,[A]我觉得现在的你已经很强大了啊。,[A]我觉得现在的你已经很强大了啊。,[A]我覺得現在的你已經很強大了啊。
+SimpleCampDialogue/CampDial_Mokou_Ilya_Dialogues_2,Text,,[B]그런 말 하지마. 난 겁쟁이일 뿐인걸……,[B]Don't mock me. I'm just a coward...,[B]你说笑了，我只是一个胆小鬼而已……,[B]你说笑了，我只是一个胆小鬼而已……,[B]你說笑了，我只是一個膽小鬼而已……
+SimpleCampDialogue/CampDial_Mokou_Iron_Dialogues_0,Text,,[A]대장! 자동차가 준비됐어!,[A]Boss! The car's ready!,[A]团长！车已经准备好了！,[A]团长！车已经准备好了！,[A]團長！車已經準備好了！
+SimpleCampDialogue/CampDial_Mokou_Iron_Dialogues_1,Text,,[B]자동차? 뒤틀린 땅에서?,[B]Car? In the Twisted Lands? You high?,[B]车？这里是扭曲之地，哪里来的车？,[B]车？这里是扭曲之地，哪里来的车？,[B]車？這裡是扭曲之地，哪裡來的車？
+SimpleCampDialogue/CampDial_Mokou_Iron_Dialogues_2,Text,,"[A]아, 아무것도 아냐. 갑자기 왜 이런 말이 튀어나왔는지 모르겠네.",[A]Nevermind. Don't know why I said that.,[A]啊，没什么，只是不懂为什么突然就想说这一句话而已。,[A]啊，没什么，只是不懂为什么突然就想说这一句话而已。,[A]啊，沒什麼，只是不懂為什麼突然就想說這一句話而已。
+SimpleCampDialogue/CampDial_Mokou_Joey_Dialogues_0,Text,,[A]뭐든 만들 수 있다면… 봉래의 약도 만들 수 있나?,[A]Can your alchemy brew Hourai Elixir?,[A]你不是什么都能调制出来吗，那你能调制出蓬莱仙药吗？,[A]你不是什么都能调制出来吗，那你能调制出蓬莱仙药吗？,[A]你不是什麼都能調製出來嗎，那你能調製出蓬萊仙藥嗎？
+SimpleCampDialogue/CampDial_Mokou_Joey_Dialogues_1,Text,,[B]봉래의 약? 그건 무슨 포션이야?,[B]Hourai what-now? Some new potion?,[B]蓬莱仙药？那是什么药水？,[B]蓬莱仙药？那是什么药水？,[B]蓬萊仙藥？那是什麼藥水？
+SimpleCampDialogue/CampDial_Mokou_Joey_Dialogues_2,Text,,[A]됐어. 잊어버려.,[A]Forget I asked.,[A]算了，当我没说过吧。,[A]算了，当我没说过吧。,[A]算了，當我沒說過吧。
+SimpleCampDialogue/CampDial_Mokou_Johan_Dialogues_0,Text,,[A]앨리스라고?,[A]Alice?,[A]爱丽丝吗？,[A]爱丽丝吗？,[A]愛麗絲嗎？
+SimpleCampDialogue/CampDial_Mokou_Johan_Dialogues_1,Text,,[B]당신도 앨리스를 압니까? 어디서 봤는지 말해주시겠어요?,[B]You know Alice? Where is she?,[B]你也知道爱丽丝？能不能跟我告诉我她在哪里？,[B]你也知道爱丽丝？能不能跟我告诉我她在哪里？,[B]你也知道愛麗絲？能不能跟我告訴我她在哪裡？
+SimpleCampDialogue/CampDial_Mokou_Johan_Dialogues_2,Text,,[A]……네가 찾는 앨리스가 아닐걸.,[A]...Not your Alice.,[A]……她不是你在寻找的爱丽丝。,[A]……她不是你在寻找的爱丽丝。,[A]……她不是你在尋找的愛麗絲。
+SimpleCampDialogue/CampDial_Mokou_Leryn_Dialogues_0,Text,,[B]늙지도 죽지도 않는다니… 당신도 참 불쌍하군요…,[B]Eternal life... What wretched existence.,[B]不会老去也不会死去的人，你也是一个可怜人啊……,[B]不会老去也不会死去的人，你也是一个可怜人啊……,[B]不會老去也不會死去的人，你也是一個可憐人啊……
+SimpleCampDialogue/CampDial_Mokou_Lian_Dialogues_0,Text,,[A]리안같이 진중한 사람이랑은 영 안 맞는단 말이지…,[A]Ugh. Can't stand serious types like Lian.,[A]啊，我和莉安这种认真的人合不来啊，麻烦死了……,[A]啊，我和莉安这种认真的人合不来啊，麻烦死了……,[A]啊，我和莉安這種認真的人合不來啊，麻煩死了……
+SimpleCampDialogue/CampDial_Mokou_Miss_Dialogues_0,Text,,"[B]모코우! 그거, 그, 스펠카드? 맞나? 좀 빌려줄 수 있어?",[B]Miss Mokou! Lend me a Spell Card? Please?,[B]妹红小姐！能借我一些那个，额，符卡，吗？是这么叫的吗？,[B]妹红小姐！能借我一些那个，额，符卡，吗？是这么叫的吗？,[B]妹紅小姐！能借我一些那個，額，符卡，嗎？是這麼叫的嗎？
+SimpleCampDialogue/CampDial_Mokou_Miss_Dialogues_1,Text,,[A]안 돼. 그리고 그렇게 친근하게 부르지 말아줄래.,"[A]No. And drop the ""Miss"".",[A]不行，而且不要这么亲昵的叫我。,[A]不行，而且不要这么亲昵的叫我。,[A]不行，而且不要這麼親昵的叫我。
+SimpleCampDialogue/CampDial_Mokou_Miss_Dialogues_2,Text,,[B]왜? 귀여운 이름이라고 생각하는데.,"[B]But ""Mokou"" sounds cute!",[B]欸？我觉得妹红这个名字很可爱呢。,[B]欸？我觉得妹红这个名字很可爱呢。,[B]欸？我覺得妹紅這個名字很可愛呢。
+SimpleCampDialogue/CampDial_Mokou_Miss_Dialogues_3,Text,,[A]……발화부 하나 빌려줄 테니까 귀찮게 하지 마.,[A]...Take a fire talisman and scram.,[A]……借你一张起火符，别缠着我了。,[A]……借你一张起火符，别缠着我了。,[A]……借你一張起火符，別纏著我了。
+SimpleCampDialogue/CampDial_Mokou_Miss_Dialogues_4,Text,,[B]오예~!,[B]Score!,[B]好耶！,[B]好耶！,[B]好耶！
+SimpleCampDialogue/CampDial_Mokou_Momori_Dialogues_0,Text,,"[B]있지~☆ 왜 우울하게 한숨을 쉬고있는거야? 자 자, 스마일~☆",[B]Hey~☆ Why the long face? Smile~☆,[B]欸~☆怎么在愁眉苦脸的叹气？来，笑一个☆,[B]欸~☆怎么在愁眉苦脸的叹气？来，笑一个☆,[B]欸~☆怎麼在愁眉苦臉的歎氣？來，笑一個☆
+SimpleCampDialogue/CampDial_Mokou_Momori_Dialogues_1,Text,,"[A]하아, 이렇게 열정넘치는 사람은 영……",[A]Can't handle this energy...,[A]啊，这么热情的人我应付不来啊……,[A]啊，这么热情的人我应付不来啊……,[A]啊，這麼熱情的人我應付不來啊……
+SimpleCampDialogue/CampDial_Mokou_Momori_Dialogues_2,Text,,[B]너도 모모리단에 가입할래?☆ 높은 자리에 앉혀줄게!☆,[B]Join Momori Squad?☆ I'll make you officer!☆,[B]要不要也加入桃梨团☆我能给你一个高位哦！☆,[B]要不要也加入桃梨团☆我能给你一个高位哦！☆,[B]要不要也加入桃梨團☆我能給你一個高位哦！☆
+SimpleCampDialogue/CampDial_Mokou_Momori_Dialogues_3,Text,,[A]미안하지만 그런 자리엔 관심 없어.,[A]Pass. Not into hierarchies.,[A]抱歉，我对地位之类的东西不感兴趣。,[A]抱歉，我对地位之类的东西不感兴趣。,[A]抱歉，我對地位之類的東西不感興趣。
+SimpleCampDialogue/CampDial_Mokou_Narhan_Dialogues_0,Text,,[A]남의 생각을 읽는 능력이라……,[A]Mind-reading...,[A]能读取他人的思维的能力啊……,[A]能读取他人的思维的能力啊……,[A]能讀取他人的思維的能力啊……
+SimpleCampDialogue/CampDial_Mokou_Narhan_Dialogues_1,Text,,[A]비슷한 능력을 가진 녀석을 알고있는데.,[A]Knew someone like that once.,[A]我想起了一位老朋友，她也可以读取他人的心灵。,[A]我想起了一位老朋友，她也可以读取他人的心灵。,[A]我想起了一位老朋友，她也可以讀取他人的心靈。
+SimpleCampDialogue/CampDial_Mokou_Narhan_Dialogues_2,Text,,[B]그 자도 능력을 마음에 들어할 것 같지는 않군.,[B]Bet they weren't popular either.,[B]虽然由我来说不好，你那位朋友也不招人喜欢吧。,[B]虽然由我来说不好，你那位朋友也不招人喜欢吧。,[B]雖然由我來說不好，你那位朋友也不招人喜歡吧。
+SimpleCampDialogue/CampDial_Mokou_Patchouli_Dialogues_0,Text,,[B]저번에 레미랑 크게 싸웠다며?,[B]Heard about your scrap with Remi.,[B]听说上次你和蕾米大战了一场呢,[B]听说上次你和蕾米大战了一场呢,[B]聽說上次你和蕾米大戰了一場呢
+SimpleCampDialogue/CampDial_Mokou_Patchouli_Dialogues_1,Text,,[A]아주 너덜너덜 해졌지. 장기도 거의 다 튀어나와서는…,[A]Got my ass handed to me. Organs nearly spilled.,[A]那次我可是挨了一顿痛揍啊，差点肝就要没了,[A]那次我可是挨了一顿痛揍啊，差点肝就要没了,[A]那次我可是挨了一頓痛揍啊，差點肝就要沒了
+SimpleCampDialogue/CampDial_Mokou_Patchouli_Dialogues_2,Text,,"[B]그만, 그만, 더 알고싶지 않아.",[B]TMI! TMI!,[B]啊啦啊啦，听起来还真是不好受呢,[B]啊啦啊啦，听起来还真是不好受呢,[B]啊啦啊啦，聽起來還真是不好受呢
+SimpleCampDialogue/CampDial_Mokou_Pheonix_Dialogues_0,Text,,[A]너도 불사의 존재인가?,[A]You immortal too?,[A]你也是不会死亡的存在吗？,[A]你也是不会死亡的存在吗？,[A]你也是不會死亡的存在嗎？
+SimpleCampDialogue/CampDial_Mokou_Pheonix_Dialogues_1,Text,,[B]이 몸은 피닉스 님이시다! 그런데 정말로 인간이 불사의 힘을 가진건가……,[B]I'm Phoenix Incarnate! How dare a human-,[B]我可是不死鸟凤凰！你这种人类怎么可能拥有不会死亡的力量……,[B]我可是不死鸟凤凰！你这种人类怎么可能拥有不会死亡的力量……,[B]我可是不死鳥鳳凰！你這種人類怎麼可能擁有不會死亡的力量……
+SimpleCampDialogue/CampDial_Mokou_Pheonix_Dialogues_2,Text,,[A]오? 한 번 시험해 볼래? 마침 손이 근질근질 한데.,[A]Wanna test that theory? Cracks knuckles,[A]哦？要来试一试吗？正好休息够了，手也痒了。,[A]哦？要来试一试吗？正好休息够了，手也痒了。,[A]哦？要來試一試嗎？正好休息夠了，手也癢了。
+SimpleCampDialogue/CampDial_Mokou_Pheonix_Dialogues_3,Text,,[B]됐어 됐어. 좋은게 좋은거지……,[B]N-nevermind! Happy immortality!,[B]算了算了，你开心就好，反正……,[B]算了算了，你开心就好，反正……,[B]算了算了，你開心就好，反正……
+SimpleCampDialogue/CampDial_Mokou_Priest_Dialogues_0,Text,,[B]주께서 당신도 혼란스러운 죄인이라고 말씀하셨습니다……,[B]The Lord names you wayward sinner...,[B]主告诉了我，你也是迷茫着的罪人呢……,[B]主告诉了我，你也是迷茫着的罪人呢……,[B]主告訴了我，你也是迷茫著的罪人呢……
+SimpleCampDialogue/CampDial_Mokou_Priest_Dialogues_1,Text,,[A]용서받지 못할 실수를 저질렀거든……,[A]I've made... irreversible mistakes.,[A]我确实犯下了不可原谅的错误……,[A]我确实犯下了不可原谅的错误……,[A]我確實犯下了不可原諒的錯誤……
+SimpleCampDialogue/CampDial_Mokou_Priest_Dialogues_2,Text,,"[A]그래서, 죽지 않는 나를 어떻게 하고 싶은데?",[A]So? What's your move against immortality?,[A]那么你想要对我这个不死人怎么样呢？,[A]那么你想要对我这个不死人怎么样呢？,[A]那麼你想要對我這個不死人怎麼樣呢？
+SimpleCampDialogue/CampDial_Mokou_Priest_Dialogues_3,Text,,"[B]후후, 주께서는 이미 당신에게 벌을 내린 것 같네요.",[B]Heh. Seems God already punished you.,[B]呵呵，看起来主已经对你降下了惩罚了呢。,[B]呵呵，看起来主已经对你降下了惩罚了呢。,[B]呵呵，看起來主已經對你降下了懲罰了呢。
+SimpleCampDialogue/CampDial_Mokou_Red_Dialogues_0,Text,,[B]너도 화염의 힘을 다루는구나.,[B]You wield fire too.,[B]你也掌握着火焰的力量啊。,[B]你也掌握着火焰的力量啊。,[B]你也掌握著火焰的力量啊。
+SimpleCampDialogue/CampDial_Mokou_Red_Dialogues_1,Text,,[B]누구의 불이 더 강한지 겨뤄보지 않을래?,[B]Flamethrower showdown? Let's go!,[B]要不我们切磋切磋，看看谁的火焰更猛？,[B]要不我们切磋切磋，看看谁的火焰更猛？,[B]要不我們切磋切磋，看看誰的火焰更猛？
+SimpleCampDialogue/CampDial_Mokou_Red_Dialogues_2,Text,,"[A]상관은 없는데, 난 안 봐줄거다?",[A]Bring it. I won't hold back.,[A]来就来，我可不会手下留情的。,[A]来就来，我可不会手下留情的。,[A]來就來，我可不會手下留情的。
+SimpleCampDialogue/CampDial_Mokou_RemiliaScarlet_Dialogues_0,Text,,[A]지난번에는 정말 영문도 모른 채 얻어맞았는데.,"[A]Last time, that brat pummeled me senseless.",[A]上次真是被莫名其妙得揍了一顿呢。,[A]上次真是被莫名其妙得揍了一顿呢。,[A]上次真是被莫名其妙得揍了一頓呢。
+SimpleCampDialogue/CampDial_Mokou_RemiliaScarlet_Dialogues_1,Text,,"[B]아아, 그 담력 시험은 정말 재미있었지.","[B]That ""courage test"" was hilarious!",[B]诶呀，那次试胆试炼我觉得很有趣哦。,[B]诶呀，那次试胆试炼我觉得很有趣哦。,[B]誒呀，那次試膽試煉我覺得很有趣哦。
+SimpleCampDialogue/CampDial_Mokou_RemiliaScarlet_Dialogues_2,Text,,[A]때린 사람이나 재밌으셨겠지!,[A]Easy for the puncher to say!,[A]揍人的人当然觉得有趣了啊！,[A]揍人的人当然觉得有趣了啊！,[A]揍人的人當然覺得有趣了啊！
+SimpleCampDialogue/CampDial_Mokou_SilverStein_Dialogues_0,Text,,[B]원거리 공격을 잘 활용하면 자신의 안전도 지키고 전투에서 살아남을 수 있지.,[B]Ranged attacks ensure survival.,[B]熟练运用远程攻击可以保护自身安全，更能在战斗中生存下去。,[B]熟练运用远程攻击可以保护自身安全，更能在战斗中生存下去。,[B]熟練運用遠端攻擊可以保護自身安全，更能在戰鬥中生存下去。
+SimpleCampDialogue/CampDial_Mokou_SilverStein_Dialogues_1,Text,,[A]난 원거리 공격보다는 근접전이 맞더라고.,[A]Prefer getting up close and personal.,[A]比起远程攻击，我还是更喜欢体术呢。,[A]比起远程攻击，我还是更喜欢体术呢。,[A]比起遠程攻擊，我還是更喜歡體術呢。
+SimpleCampDialogue/CampDial_Mokou_Sizz_Dialogues_0,Text,,[A]이 인형 이름이 이브라고?,"[A]This doll's ""Eve""?",[A]这个人偶的名字是伊芙吗……,[A]这个人偶的名字是伊芙吗……,[A]這個人偶的名字是伊芙嗎……
+SimpleCampDialogue/CampDial_Mokou_Sizz_Dialogues_1,Text,,"[B]맞아요, 후지와라 씨! 정말 귀엽지 않아요?","[B]Yes! Isn't she adorable, Miss Fujiwara?",[B]是的，藤原小姐！伊芙很可爱吧？,[B]是的，藤原小姐！伊芙很可爱吧？,[B]是的，藤原小姐！伊芙很可愛吧？
+SimpleCampDialogue/CampDial_Mokou_Sizz_Dialogues_2,Text,,[A]귀엽네. 어떤 아는 녀석이 떠오르는걸.,[A]Cute. Reminds me of... someone.,[A]是蛮可爱的，让我想到了一个老朋友。,[A]是蛮可爱的，让我想到了一个老朋友。,[A]是蠻可愛的，讓我想到了一個老朋友。
+SimpleCampDialogue/CampDial_Mokou_Trisha_Dialogues_0,Text,,[A]트리샤에게서 어떤 도둑이랑 같은 분위기가 느껴진단 말이지.,[A]Trisha's aura... Like that damn thief.,[A]总感觉特丽莎的气息和某个小偷很像呢。,[A]总感觉特丽莎的气息和某个小偷很像呢。,[A]總感覺特麗莎的氣息和某個小偷很像呢。
+Skill/SP_Kaguya_ChangePhase_Description,Text,,,,,,
+Skill/SP_Kaguya_ChangePhase_Name,Text,,영원을 다루는 정도의 능력,Divine Authority Over Eternity,永遠と須臾を操る程度の能力,操控永远程度的能力,操控永遠程度的能力
+Skill/S_Kaguya_10_Name,Text,,칼탄,Knife Barrage,ナイフ弹,刀弹,刀彈
+Skill/S_Kaguya_11_Name,Text,,부적탄,Talisman Volley,札弹,札弹,劄彈
+Skill/S_Kaguya_1_Left_Description,Text,,"사용 시 대상의 왼쪽으로 3번까지 전이되며, 전이될 때마다 피해가 25% 감소합니다.","Strikes leftward 3 times, each subsequent hit dealing 25% less damage.",使用後、対象の左側にも同時に2回繰り返し発動し、繰り返し発動するたびにダメージが25%減少する。,使用后，继续对目标左边的角色使用此技能，但是技能倍率减少25%，重复2次。,使用後，繼續對目標左邊的角色使用此技能，但是技能倍率減少25%，重複3次。
+Skill/S_Kaguya_1_Left_Name,Text,,신보「브릴리언트 드래곤 바레트」,"Divine Treasure ""Brilliant Dragon Barrette""",神宝「ブリリアントドラゴンバレッタ」,神宝「耀眼的龙玉」,神寶「耀眼的龍玉」
+Skill/S_Kaguya_1_Right_Description,Text,,"사용 시 대상의 오른쪽으로 3번까지 전이되며, 전이될 때마다 피해가 25% 감소합니다.","Strikes rightward 3 times, each subsequent hit dealing 25% less damage.",使用後、対象の右側にも同時に2回繰り返し発動し、繰り返し発動するたびにダメージが25%減少する。,使用后，继续对目标右边的角色使用此技能，但是技能倍率减少25%，重复2次。,使用後，繼續對目標右邊的角色使用此技能，但是技能倍率減少25%，重複3次。
+Skill/S_Kaguya_1_Right_Name,Text,,신보「브릴리언트 드래곤 바레트」,"Divine Treasure ""Brilliant Dragon Barrette""",神宝「ブリリアントドラゴンバレッタ」,神宝「耀眼的龙玉」,神寶「耀眼的龍玉」
+Skill/S_Kaguya_1_S_Description,Text,,"턴 종료 시, 절반 이상의 아군에게 회복 게이지가 없으면 모든 아군을 8만큼 초과치유 합니다. 아니라면 다음 턴 시작 시 카구야가 최대 체력의 10%만큼 회복합니다.","[Phase Mechanic] At turn end: If ≥50% allies (rounded up) have <b>no Healing Gauge</b>, Overheal all by 8. Otherwise, Kaguya regains 10% max HP next turn.",ターン終了を押したとき、半数以上の味方が回復ゲージを持たない場合 (切り上げ)、すべての味方を8オーバーヒールする。それ以外の場合、次のターン開始時に蓬莱山輝夜が最大体力の10%を回復する。,按下回合结束按钮时，如果至少一半的角色没有体力极限（向上取整）， 超额恢复所有友方8点体力值；反之，下一回合开始时辉夜恢复10%最大生命值。,按下回合結束按钮時，如果至少一半的角色(向上取整)<b>沒有體力極限</b>， 超額恢復所有友方8點體力值；反之，下一回合開始時輝夜恢復10%最大生命值。
+Skill/S_Kaguya_1_S_Name,Text,,난제「용 목의 구슬 -오색의 탄환-」,"Impossible Request ""Jewel from the Dragon's Neck -Five-Colored Shots-""",難題「龍の頸の玉 -五色の弾丸-」,难题「龙颈之玉 -五色的弹丸-」,難題「龍頸之玉 -五色的彈丸-」
+Skill/S_Kaguya_2_0_Description,Text,,,,,,
+Skill/S_Kaguya_2_0_Name,Text,,신보「부디스트 다이아몬드」,"Divine Treasure ""Buddhist Diamond""",神宝「ブディストダイアモンド」,神宝「佛体的金刚石」,神寶「佛體的金剛石」
+Skill/S_Kaguya_2_1_Description,Text,,"조준사격
+스킬을 마지막으로 사용한 캐릭터(루시 제외)를 우선으로 공격합니다. 해당 스킬이 공격 스킬이 아니라면 명중률이 크게 감소합니다.","[Precision Strike] 
+Targets last skill user (excl. Lucy). Non-attack skills reduce Accuracy drastically.","自機狙い
+最後に手札から使用したスキルの所有者を優先して攻撃する(ルシーを除く) 。そのスキルが攻撃スキル以外の場合、命中率が大幅に減少する。","自机狙
+优先攻击最后一个出手的技能的角色（露西除外），如果该技能不是攻击技能，命中率大幅降低。","自機狙
+優先攻擊最後一個出手的技能的角色(露西除外)，如果該技能不是<b>攻擊技能</b>，命中率大幅降低。"
+Skill/S_Kaguya_2_1_Name,Text,,비늘탄-조준사격,Scale Dart - Precision Strike,楔弾-自機狙い,鳞弹-自机狙,鱗彈-自機狙
+Skill/S_Kaguya_2_2_Description,Text,,이 스킬은 3번 시전됩니다.,Triggers 3 consecutive times.,このスキルは3回繰り返し発動する。 ,本技能会重复释放3次。,本技能會重複釋放3次。
+Skill/S_Kaguya_2_2_Name,Text,,3.0연 별탄,Triple Starflare,三連星弹,三连星星弹,三連星星彈
+Skill/S_Kaguya_2_S_Description,Text,,"이 단계에서, 턴 시작 시 무작위 아군을 지정합니다. 턴이 끝날 때 까지 그 캐릭터가 스킬을 사용하지 않았으면, 다음 턴 시작 시 스킬을 1개 더 뽑고 마나를 1 얻습니다. 아니라면, 다음 턴 시작 시 무작위 스킬을 1개 버리고 마나를 1 잃습니다.",[Phase Mechanic] Marks random ally. If they use no hand skills this turn: Draw 1 & gain 1 Mana next turn. Else: Discard 1 random skill & lose 1 Mana.,このフェーズ中、ターン開始時、ランダムな味方を指定する。ターン終了を押したとき、指定された味方がターン中に手札からスキルを使用していない場合、次のターン開始時にスキルを1枚引き、マナを1回復する。それ以外の場合、次のターン開始時、手札にあるランダムなスキルを1枚捨て、マナが1減少する。 ,本阶段内，回合开始时随机指定一名角色，按下回合结束按钮时，如果其本回合内没有使用过<b>手中的</b>技能，下一回合开始时回复1点法力值，抽取1个技能；反之，下一回合开始时法力值减少1点，随机丢弃1个手中的技能。,本階段內，回合開始時指定一名角色，如果其本回合內沒有使用過<b>手中的</b>卡牌，按下回合結束按钮時獲得下一回合開始時抽1回1的buff；反之，下一回合開始時隨機丟棄1張手牌，法力值減少1點。
+Skill/S_Kaguya_2_S_Name,Text,,난제「부처의 석발 -꺾이지 않는 의지-」,"Impossible Request ""Buddha's Stone Bowl -Indomitable Will-""",難題「仏の御石の鉢 -砕けぬ意思-」,难题「佛御石之钵 -不碎的意志-」,難題「佛禦石之缽 -不碎的意志-」
+Skill/S_Kaguya_3_0_Name,Text,,신보「샐러맨더 실드」,"Divine Treasure ""Salamander Shield""",神宝「サラマンダーシールド」,神宝「火蜥蜴之盾」,神寶「火蜥蜴之盾」
+Skill/S_Kaguya_3_1_Description,Text,,"이 스킬은 3번 시전됩니다.
+조준사격
+스킬을 마지막으로 사용한 캐릭터(루시 제외)를 우선으로 공격합니다. 해당 스킬이 공격 스킬이 아니라면 명중률이 크게 감소합니다.","Triggers 3 times. 
+[Precision Strike] 
+Targets last skill user (excl. Lucy). Non-attack skills reduce Accuracy drastically.","このスキルは対象に3回繰り返し発動する。 
+自機狙い
+最後に手札から使用したスキルの所有者を優先して攻撃する(ルシーを除く) 。そのスキルが攻撃スキル以外の場合、命中率が大幅に減少する。","对目标重复释放3次。
+自机狙
+优先攻击最后一个出手的技能的角色（露西除外），如果该技能不是攻击技能，命中率大幅降低。","對目標重複釋放3次。
+自機狙
+優先攻擊最後一個出手的技能的角色(露西除外)，如果該技能不是<b>攻擊技能</b>，命中率大幅降低。"
+Skill/S_Kaguya_3_1_Name,Text,,알약탄-조준사격,Pellet Volley - Precision Strike,米粒弾-自機狙い,椭圆玉弹-自机狙,米彈-自機狙
+Skill/S_Kaguya_3_2_Description,Text,,"이 스킬은 한 번 더 시전됩니다.
+조준사격
+스킬을 마지막으로 사용한 캐릭터(루시 제외)를 우선으로 공격합니다. 해당 스킬이 공격 스킬이 아니라면 명중률이 크게 감소합니다.","Triggers 1 additional time. 
+[Precision Strike] 
+Targets last skill user (excl. Lucy). Non-attack skills reduce Accuracy drastically.","このスキルは対象に1回繰り返し発動する。 
+自機狙い
+最後に手札から使用したスキルの所有者を優先して攻撃する(ルシーを除く) 。そのスキルが攻撃スキル以外の場合、命中率が大幅に減少する。","对目标重复释放1次。
+自机狙
+优先攻击最后一个出手的技能的角色（露西除外），如果该技能不是攻击技能，命中率大幅降低。","對目標重複釋放1次。
+自機狙
+優先攻擊最後一個出手的技能的角色(露西除外)，如果該技能不是<b>攻擊技能</b>，命中率大幅降低。"
+Skill/S_Kaguya_3_2_Name,Text,,레이저-조준사격,Laser Sights - Precision Strike,レーザー-自機狙い,限位激光-自机狙,限位鐳射-自機狙
+Skill/S_Kaguya_3_S_Description,Text,,"턴 종료 시 스킬을 마지막으로 사용한 캐릭터의 스킬이 손에 없으면 모든 아군의 화상 디버프를 제거합니다. 아니라면, 모든 아군에게 화상을 2중첩 부여합니다.","[Phase Mechanic] At turn end: If last skill user has empty hand, clear all <color=purple><sprite name=""Mokou_B_Mokou_T_1"">Burn</color> from allies. Else, apply 2 <color=purple><sprite name=""Mokou_B_Mokou_T_1"">Burn</color> stacks to all.","ターン終了を押したとき、最後にスキルを使用したスキルの所有者のスキルが手札にない場合、すべての味方が持つ<color=purple><sprite name=""Mokou_B_Mokou_T_1"">灼熱</color>を除去する。それ以外の場合、すべての味方に<color=purple><sprite name=""Mokou_B_Mokou_T_1"">灼熱</color>を2ストック与える。","按下回合结束按钮时，如果最后出牌的人没有手牌，则清除所有友方的<color=purple><sprite name=""Mokou_B_Mokou_T_1"">烧伤</color>；反之，再对所有友方施加2层<color=purple><sprite name=""Mokou_B_Mokou_T_1"">烧伤</color>。",按下回合結束按钮時，如果最後出牌的人沒有<b>手牌</b>，則清除所有友方的<color=purple>燒傷痛苦減益</color>；反之，再對所有友方施加2層<color=purple>燒傷痛苦減益</color>。
+Skill/S_Kaguya_3_S_Name,Text,,난제「불쥐의 가죽옷 -침착한 마음-」,"Impossible Request ""Robe of Fire Rat -Unhurried Mind-""",難題「火鼠の皮衣 -焦れぬ心-」,难题「火鼠的皮衣 -不焦躁的内心-」,難題「火鼠的皮衣 -不焦躁的內心-」
+Skill/S_Kaguya_4_0_Description,Text,,기절 상태가 아닌 적을 우선으로 공격합니다.,Prioritizes non-<b>Stunned</b> enemies.,スタン状態でない敵を優先して攻撃する。 ,优先攻击不处于眩晕状态的敌人。,優先攻擊不處於眩暈狀態的敵人。
+Skill/S_Kaguya_4_0_Name,Text,,신보「라이프스프링 인피니티」,"Divine Treasure ""Life Spring Infinity""",神宝「ライフスプリングインフィニティ」,神宝「无限的生命之泉」,神寶「無限的生命之泉」
+Skill/S_Kaguya_4_1_Description,Text,,,,,,
+Skill/S_Kaguya_4_1_Name,Text,,원형탄,Orb Barrage  ,大弾 ,限位小玉弹,限位小玉彈
+Skill/S_Kaguya_4_2_Description,Text,,이 스킬은 2번 시전됩니다.,Triggers 2 consecutive times.  ,このスキルは2回繰り返し発動する。 ,本技能会重复释放2次。,本技能會重複釋放2次。
+Skill/S_Kaguya_4_2_Name,Text,,2.0연 별탄,Binary Stellar Barrage,二方位弾 ,二连星星弹,二連星星彈
+Skill/S_Kaguya_4_S_Description,Text,,"이번 턴에 입힌 피해: &a
+턴 종료 시, 이번 턴에 카구야에게 입힌 피해가 최대 체력의 20%(&b)보다 많으면 모든 아군의 방해 디버프와 카구야의 '라이프스프링 인피니티' 버프를 해제합니다. 아니라면, 기절 상태가 아닌 무작위 아군에게 기절을 부여합니다. (저항 불가)","[Phase Mechanic] Damage Dealt: &a. 
+At turn end: If damage >20% Kaguya's max HP (&b), cleanse ally CC and remove ""Infinite Life Spring"". Else, inflict <b>Unresistable Stun</b> on random non-stunned ally.","このターンに与えたダメージ：&a
+ターン終了を押したとき、このターン中に与えたダメージが蓬莱山輝夜の最大体力の20%(&b)より多い場合、すべての味方が持つ妨害デバフと蓬莱山輝夜の[ライフスプリングインフィニティ]を除去する。それ以外の場合、スタン状態でないランダムな味方1体にレジストできないなスタンを与える。 ","本回合内造成的伤害：&a
+按下回合结束按钮时，如果<b>本回合内造成的伤害</b>大于辉夜最大生命值的20%（&b），则解除所有友军的干扰减益与辉夜的“无限的生命之泉”增益状态；反之随机对1个不处于眩晕状态的友方角色造成无法抵抗的眩晕。","本回合內造成的傷害：&a
+按下回合結束按钮時，如果<b>本回合內造成的傷害</b>大於輝夜最大生命值的20%(&b)，則解除所有友軍的干擾減益與輝夜的“無限的生命之泉”增益狀態；反之隨機對1個不處於眩暈狀態的友方角色造成無法抵抗的眩暈。"
+Skill/S_Kaguya_4_S_Name,Text,,난제「제비의 자안패 -영명선-」,"Impossible Request ""Swallow's Cowrie Shell -Everlasting Life-""",難題「燕の子安貝 -永命線-」,难题「燕的子安贝 -永命线-」,難題「燕的子安貝 -永命線-」
+Skill/S_Kaguya_5_0_Description,Text,,,,,,
+Skill/S_Kaguya_5_0_Name,Text,,신보「봉래의 옥의 가지 -꿈빛 고향-」,"Divine Treasure ""Jeweled Branch of Hourai -Dreamlike Paradise-""",神宝「蓬莱の玉の枝 -夢色の郷-」,神宝「蓬莱的玉枝　-梦色之乡-」,神寶「蓬萊的玉枝　-夢色之鄉-」
+Skill/S_Kaguya_5_1_Description,Text,,"이 스킬은 6번 시전됩니다.
+조준사격
+스킬을 마지막으로 사용한 캐릭터(루시 제외)를 우선으로 공격합니다. 해당 스킬이 공격 스킬이 아니라면 명중률이 크게 감소합니다.","Triggers 6 times. 
+[Precision Strike] 
+Targets last skill user (excl. Lucy). Non-attack skills reduce Accuracy drastically.","このスキルは対象に6回繰り返し発動する。 
+自機狙い
+最後に手札から使用したスキルの所有者を優先して攻撃する(ルシーを除く) 。そのスキルが攻撃スキル以外の場合、命中率が大幅に減少する。","对目标重复释放6次。
+自机狙
+优先攻击最后一个出手的技能的角色（露西除外），如果该技能不是攻击技能，命中率大幅降低。","對目標重複釋放6次。
+自機狙
+優先攻擊最後一個出手的技能的角色(露西除外)，如果該技能不是<b>攻擊技能</b>，命中率大幅降低。"
+Skill/S_Kaguya_5_1_Name,Text,,반사 쌀탄-조준사격,Reflected Scale Dart - Precision Strike,反射楔弾-自機狙い,反弹鳞弹-自机狙,反彈鱗彈-自機狙
+Skill/S_Kaguya_5_2_Description,Text,,,,,,
+Skill/S_Kaguya_5_2_Name,Text,,신보「봉래의 옥의 가지 -꿈빛 고향-」,"Divine Treasure ""Jeweled Branch of Hourai -Dreamlike Paradise-""",神宝「蓬莱の玉の枝 -夢色の郷-」,神宝「蓬莱的玉枝　-梦色之乡-」,神寶「蓬萊的玉枝　-夢色之鄉-」
+Skill/S_Kaguya_5_3_Description,Text,,"이 스킬은 5번 시전됩니다.
+조준사격
+스킬을 마지막으로 사용한 캐릭터(루시 제외)를 우선으로 공격합니다. 해당 스킬이 공격 스킬이 아니라면 명중률이 크게 감소합니다.","Triggers 5 times. 
+[Precision Strike] 
+Targets last skill user (excl. Lucy). Non-attack skills reduce Accuracy drastically.","このスキルは対象に5回繰り返し発動する。 
+自機狙い
+最後に手札から使用したスキルの所有者を優先して攻撃する(ルシーを除く) 。そのスキルが攻撃スキル以外の場合、命中率が大幅に減少する。","对目标重复释放5次。
+自机狙
+优先攻击最后一个出手的技能的角色（露西除外），如果该技能不是攻击技能，命中率大幅降低。","對目標重複釋放5次。
+自機狙
+優先攻擊最後一個出手的技能的角色(露西除外)，如果該技能不是<b>攻擊技能</b>，命中率大幅降低。"
+Skill/S_Kaguya_5_3_Name,Text,,사역마 조준사격,Familiar Precision Strike,使い魔-自機狙い,使魔自机狙,使魔自機狙
+Skill/S_Kaguya_5_4_0_Name,Text,,광역 공격,Splash Attack,スプラッシュアタック,溅射攻击,濺射攻擊
+Skill/S_Kaguya_5_4_Description,Text,,대상 양 옆의 캐릭터에게 50%의 광역 피해를 입힙니다.,Deals 50% damage to adjacent targets.,対象の左右を同時に50%のダメージで攻撃する。,对目标两侧的角色造成50%的溅射伤害。,對目標兩側的角色造成50%的濺射傷害。
+Skill/S_Kaguya_5_4_Name,Text,,신보「봉래의 옥의 가지 -꿈빛 고향-」,"Divine Treasure ""Jeweled Branch of Hourai -Dreamlike Paradise-""",神宝「蓬莱の玉の枝 -夢色の郷-」,神宝「蓬莱的玉枝　-梦色之乡-」,神寶「蓬萊的玉枝　-夢色之鄉-」
+Skill/S_Kaguya_5_S_Description,Text,,"이 단계에서, 턴 시작 시 무작위 아군을 지정합니다. 다음 번에 손에서 스킬을 사용한 캐릭터(루시 제외)가 지정된 캐릭터의 양 옆에 있다면 &b(카구야 공격력의 33%)만큼 연쇄치유 하고, 아니라면 &a(카구야 공격력의 50%)만큼 피해를 입습니다. 턴 종료 시 치유 횟수가 피해 횟수보다 많으면 난제 완료로 취급합니다.
+치유 횟수 : &c
+피해 횟수 : &d","During this phase, each time you use a skill from your hand, the next skill user (excluding Lucy) takes &a damage (50% of Kaguya's Attack) if they are not adjacent to the previous skill's owner. If they are adjacent, they receive a chain heal of &b HP (33% of Kaguya's Attack).
+At the end of the turn, if the number of heals exceeds the number of damage instances, the challenge is considered completed.
+
+Heals: &c
+Damage instances: &d","このフェーズ中、手札からスキル使用するたび、  次に手札から使用するスキルの所有者  (ルシーを除く)がスキルを使用した味方の左右に隣接していない場合、&a(蓬莱山輝夜の攻撃力の50％)のダメージを受ける。左右の味方の場合、&b(蓬莱山輝夜の攻撃力の33％)で連鎖治癒する。 ターン終了時、回復した回数がダメージを受けた回数よりも多い場合、難題を達成したとみなす。
+回復した回数: &c
+ダメージを受けた回数: &d","本阶段内，每次使用手中的技能后，下一个使用的技能的拥有者（露西除外）如果不是该技能的拥有者的左右的角色，其受到&a点（辉夜50%攻击力）的伤害；如果是，连锁治疗其&b点（辉夜33%攻击力）体力值。
+回合结束时，如果治疗次数大于伤害次数，视为完成难题。
+治疗次数：&c
+伤害次数：&d","本階段內，回合開始時指定一名角色，<b>下一張使用手牌的使用者(露西除外)</b>如果不是其左右的角色，其受到&a點(輝夜50%攻擊力)的傷害；如果是，連鎖治療其&b點(輝夜33%攻擊力)體力值。按下回合結束按钮時，如果治療次數大於傷害次數，視為完成難題。
+治療次數：&c
+傷害次數：&d"
+Skill/S_Kaguya_5_S_Name,Text,,난제「봉래의 탄의 가지 -무지개빛 탄막-」,"Impossible Request ""Bullet Branch of Hourai -Rainbow Danmaku-""",難題「蓬莱の弾の枝 -虹色の弾幕-」,难题「蓬莱的弹枝 -七色的弹幕-」,難題「蓬萊的彈枝 -七色的彈幕-」
+Skill/S_Kaguya_6_Description,Text,,,,,,
+Skill/S_Kaguya_6_Name,Text,,알탄,Orb Barrage,小弹,小玉弹,小玉
+Skill/S_Kaguya_7_Name,Text,,별탄,Stellar Barrage,星型弹,星星弹,星星彈
+Skill/S_Kaguya_8_Name,Text,,알약탄,Elliptical Barrage,楕円弹,椭弹,橢彈
+Skill/S_Kaguya_9_Name,Text,,나비탄,Butterfly Barrage,蝶弹,蝶弹,蝶彈
+Skill/S_Kaguya_ChangePhase_Description,Text,,,"[Phase Transition] Checks current Impossible Request status. 
+Advances phase.","現在の難題が達成されているか確認する。
+現在の難題を終了して次のフェーズに進む。","立即检查一次当前难题完成情况。
+结算当前难题，并进入下一阶段。","立即檢查一次當前難題完成情况。
+結算當前難題，並進入下一階段。"
+Skill/S_Kaguya_ChangePhase_Name,Text,,,"New Impossible Request ""Tale of the Bamboo Cutter""",新難題「竹取物語」,新难题「竹取物语」,新難題「竹取物語」
+Skill/S_Kaguya_Difficulty_0_Description,Text,,"일반인을 위한 난이도.
+
+<color=#919191>보통 난이도 정도의 탄막공격에 직면하게 된다.</color>,Difficulty mode for the general public.","Normal Difficulty: Standard danmaku patterns.
+
+<color=#919191>You will face Kaguya's attacks at a level equivalent to a normal difficulty barrage.</color>","一般人向けの難易度モード。
+
+<color=#919191>通常難易度の蓬莱山輝夜の弾幕攻撃を受ける。 </color>","面向一般人的难度模式。
+
+<color=#919191>将面对相当于普通难度弹幕的程度的辉夜的攻击。</color>","面向一般人的難度模式。
+
+<color=#919191>將面對相當於普通難度彈幕的程度的輝夜的攻擊。</color>"
+Skill/S_Kaguya_Difficulty_0_Name,Text,,Normal,Normal,難易度ノーマル,Normal难度,Normal難度
+Skill/S_Kaguya_Difficulty_1_Description,Text,,"카구야의 능력치가 전체적으로 상승하고 단계마다 추가적으로 행동하게 된다. 함부로 시도하는걸 권장하지 않는다.
+
+<color=#919191>루나틱 난이도 정도의 탄막공격에 직면하게 된다. 파도같이 밀려오는 공격에서 살아남아보자!</color>,","Kaguya's overall stats have been increased, and she will take additional actions at each stage. This difficulty is not recommended for the faint of heart.
+
+<color=#919191>You will face Kaguya's attacks at a Lunatic-level barrage. Survive the relentless, wave-like onslaught!</color>","蓬莱山輝夜の難題のほとんどが強化され、各フェーズで追加の行動を行う。この難易度を試すことはお勧めできない。
+
+<color=#919191>狂った難易度の蓬莱山輝夜の弾幕攻撃を受ける。押し寄せる攻撃から生き残れ！</color>","辉夜大部分的面板属性提升，每个阶段会进行额外的行动，不推荐给任何人尝试程度的难度。
+
+<color=#919191>将面对相当于疯狂难度弹幕的程度的辉夜的攻击，在如潮水一般的攻击下生存下来吧！</color>","輝夜大部分的面板屬性提升，每個階段會進行額外的行動，不推薦給任何人嘗試程度的難度。
+
+<color=#919191>將面對相當於瘋狂難度彈幕的程度的輝夜的攻擊，在如潮水一般的攻擊下生存下來吧！</color>"
+Skill/S_Kaguya_Difficulty_1_Name,Text,,Lunatic,Lunatic,難易度ルナティック,Lunatic难度,Lunatic難度
+Skill/S_Kaguya_Difficulty_2_Description,Text,,"모코우 혼자서 카구야와 맞선다. 다른 조사단원은 이번 전투에서 사용할 수 없다. (Lunatic)
+
+이 전투에서 모코우는 전력을 다할 것이다.","Solo Duel: Mokou faces Kaguya alone. Other investigators are locked. (Lunatic Difficulty)
+
+<color=#919191>Mokou unleashes her full immortal fury in this battle.</color>","藤原妹紅単独で蓬莱山輝夜と決闘を行う。藤原妹紅以外はこの戦闘で戦えない。 (ルナティック難易度)
+
+この戦闘中、藤原妹紅はその力を存分に発揮する。 ","妹红将独自与辉夜决斗，除了妹红以外的调查员仅在这场战斗中无法战斗。（Lunatic难度）
+
+在这场战斗中，妹红将发挥出全力。","妹紅將獨自與輝夜決鬥，除了妹紅以外的調查員僅在這場戰鬥中無法戰鬥。(Lunatic難度)
+
+在這場戰鬥中，妹紅將發揮出全力。"
+Skill/S_Kaguya_Difficulty_2_Name,Text,,모코우와 카구야의 대결,Duel of Eternity - Mokou vs. Kaguya ,決闘-藤原妹紅vs蓬莱山輝夜,决斗！藤原妹红VS蓬莱山辉夜,決鬥！ 藤原妹紅VS蓬萊山輝夜
+Skill/S_Kaguya_Difficulty_Debug_Description,Text,,죽어라 카구야! 이게 관리자의 힘이다!,"Die, Kaguya! This is the power of the administrator!",輝夜よ死ね、これが管理者の力だ！ ,死吧辉夜，这就是管理员的力量！,死吧輝夜，這就是管理員的力量！
+Skill/S_Kaguya_Difficulty_Debug_Name,Text,,Debug 모드,Debug Mode,デバッグモード ,Debug模式,Debug模式
+Skill/S_Kaguya_End_1_0_Description,Text,,,,,,
+Skill/S_Kaguya_End_1_0_Name,Text,,「영야 되돌리기 -온달-」,"""End of Imperishable Night -Matsuyoi-""",「永夜返し -待宵-」,「永夜归返　-待宵-」,「永夜歸返　-待宵-」
+Skill/S_Kaguya_End_1_1_Description,Text,,"이 스킬은 5번 시전됩니다.
+조준사격
+스킬을 마지막으로 사용한 캐릭터(루시 제외)를 우선으로 공격합니다. 해당 스킬이 공격 스킬이 아니라면 명중률이 크게 감소합니다.","Triggers 5 times.
+[Precision Strike]
+Targets last skill user (excl. Lucy). Non-attack skills reduce Accuracy drastically.","このスキルは対象に5回繰り返し発動する。 
+自機狙い
+現在のフェーズを終了し、次のフェーズに進む。","对目标重复释放5次。
+自机狙
+优先攻击最后一个出手的技能的角色（露西除外），如果该技能不是攻击技能，命中率大幅降低。","對目標重複釋放5次。
+自機狙
+優先攻擊最後一個出手的技能的角色(露西除外)，如果該技能不是<b>攻擊技能</b>，命中率大幅降低。"
+Skill/S_Kaguya_End_1_1_Name,Text,,「영야 되돌리기 -첫달-」,"""End of Imperishable Night -New Moon-""",「永夜返し -初月- 」,「永夜归返　-初月-」,「永夜歸返　-初月-」
+Skill/S_Kaguya_End_2_0_Description,Text,,,,,,
+Skill/S_Kaguya_End_2_0_Name,Text,,「영야 되돌리기 -자시 4각-」,"""End of Imperishable Night -Half Past Midnight-""",「永夜返し -子の四つ- 」,「永夜归返　-子时四刻-」,「永夜歸返　-子時四刻-」
+Skill/S_Kaguya_End_2_1_Description,Text,,"조준사격
+스킬을 마지막으로 사용한 캐릭터(루시 제외)를 우선으로 공격합니다. 해당 스킬이 공격 스킬이 아니라면 명중률이 크게 감소합니다.","[Precision Strike]
+Targets last skill user (excl. Lucy). Non-attack skills reduce Accuracy drastically.","自機狙い
+最後に手札から使用したスキルの所有者を優先して攻撃する(ルシーを除く) 。そのスキルが攻撃スキル以外の場合、命中率が大幅に減少する。","自机狙
+优先攻击最后一个出手的技能的角色（露西除外），如果该技能不是攻击技能，命中率大幅降低。","自機狙
+優先攻擊最後一個出手的技能的角色(露西除外)，如果該技能不是<b>攻擊技能</b>，命中率大幅降低。"
+Skill/S_Kaguya_End_2_1_Name,Text,,「영야 되돌리기 -자시-」,"""End of Imperishable Night -11 o' Clock-""",「永夜返し -子の刻-」 ,「永夜归返　-子之刻-」,「永夜歸返　-子之刻-」
+Skill/S_Kaguya_End_3_0_Name,Text,,「영야 되돌리기 -축시 4각-」,"""End of Imperishable Night -Half Past 2-""",「永夜返し -丑の四つ-」,「永夜归返　-丑时四刻-」,「永夜歸返　-丑時四刻-」
+Skill/S_Kaguya_End_4_0_Name,Text,,「영야 되돌리기 -인시 4각-」,"""End of Imperishable Night -Half Past 4-""",「永夜返し -寅の四つ-」,「永夜归返　-寅时四刻-」,「永夜歸返　-寅時四刻-」
+Skill/S_Kaguya_End_4_1_Description,Text,,"이 스킬은 7번 시전됩니다.
+조준사격
+스킬을 마지막으로 사용한 캐릭터(루시 제외)를 우선으로 공격합니다. 해당 스킬이 공격 스킬이 아니라면 명중률이 크게 감소합니다.","Triggers 7 times.
+[Precision Strike]
+Targets last skill user (excl. Lucy). Non-attack skills reduce Accuracy drastically.","このスキルは対象に7回繰り返し発動する。 
+自機狙い
+最後に手札から使用したスキルの所有者を優先して攻撃する(ルシーを除く) 。そのスキルが攻撃スキル以外の場合、命中率が大幅に減少する。","对目标重复释放7次。
+自机狙
+优先攻击最后一个出手的技能的角色（露西除外），如果该技能不是攻击技能，命中率大幅降低。","對目標重複釋放7次。
+自機狙
+優先攻擊最後一個出手的技能的角色(露西除外)，如果該技能不是<b>攻擊技能</b>，命中率大幅降低。"
+Skill/S_Kaguya_End_4_1_Name,Text,,「영야 되돌리기 -인시-」,"""End of Imperishable Night -3 o' Clock-""",「永夜返し -寅の刻-」 ,「永夜归返　-寅之刻-」,「永夜歸返　-寅之刻-」
+Skill/S_Kaguya_End_5_Description,Text,,"사용 시, 이번 턴에 탄막으로 부여된 고통 디버프를 모두 처리하고 제거합니다.","When used, resolve and remove all Pain debuffs inflicted by danmaku before this turn.",発動時、このターンまでに弾幕から受けた苦痛デバフをすべて除去する。,使用时，结算并移除本回合之前所有弹幕所施加的痛苦减益。,使用時，結算並移除本回合之前所有彈幕所施加的痛苦減益。
+Skill/S_Kaguya_End_5_Name,Text,,「영야 되돌리기 -밝아오는 세계-」,"""End of Imperishable Night -Rising World-""",「永夜返し -世明け-」,「永夜归返　-世间开明-」,「永夜歸返　-世間開明-」
+Skill/S_Kaguya_LucyRare_0_Description,Text,,기록된 모든 것을 기록 당시의 상태로 되돌립니다.,Restore everything recorded to its original state at the time of recording.,記憶されたものすべてを記憶時の状態に戻す。 ,将所记录下来的一切都还原成记录时的状态。,將所記錄下來的一切都還原成記錄時的狀態。
+Skill/S_Kaguya_LucyRare_0_Name,Text,,「영야 되돌리기 -밝아오는 세계-」,"""End of Imperishable Night -Rising World-""",「永夜返し -世明け-」,「永夜归返　-世间开明-」,「永夜歸返　-世間開明-」
+Skill/S_Kaguya_LucyRare_1_Description,Text,,"비용：&a
+&b
+&c
+&d
+&e","Mana: &a
+&b","コスト：&a
+&b","费用：&a
+&b","費用：&a
+&b"
+Skill/S_Kaguya_LucyRare_1_Name,Text,,「영야 되돌리기」-기록된 캐릭터 목록,"""End of Imperishable Night"" - Stored Character List",「永夜返し」 - 主な情報 ,「永夜归返」-储存的角色列表,「永夜歸返」-儲存的角色清單
+Skill/S_Kaguya_LucyRare_2_Description,Text,,"&a
+&b
+&c
+&d",&a,&a,&a,&a
+Skill/S_Kaguya_LucyRare_2_Name,Text,,「영야 되돌리기」-기록된 버프 목록,"""End of Imperishable Night"" - Stored Buff List",「永夜返し」- バフ情報,「永夜归返」-储存的Buff列表,「永夜歸返」-儲存的Buff清單
+Skill/S_Kaguya_LucyRare_3_Description,Text,,"&a
+&b
+&c
+&d",&a,&a,&a,&a
+Skill/S_Kaguya_LucyRare_3_Name,Text,,「영야 되돌리기」-기록된 디버프 목록,"""End of Imperishable Night"" - Debuff Record",「永夜返し」- デバフ情報,「永夜归返」-储存的Debuff列表,「永夜歸返」-儲存的Debuff清單
+Skill/S_Kaguya_LucyRare_Description,Text,,"현재 마나, 아군 체력, 회복 게이지, 버프, 디버프를 기록합니다. 비용이 2고 신속인「영야 되돌리기 -밝아오는 세계-」를 손에 넣습니다.","Record current Mana, all allies' HP, Healing Gauge, buffs, and debuffs. Add a 2-cost ""End of Imperishable Night -Rising World-"" that Excludes upon use to your hand.",現在のマナ、すべての味方の体力、回復ゲージ、所持するバフ、デバフを記録する。 コストが2で除外を持つ「永夜返し-世明け-」を手札に加える。,记录下当前法力值、全队的HP、体力极限、增益状态、减益状态。将一张2费的使用后放逐的「永夜归返　-世间开明-」加入手卡。,記錄下當前法力值、全隊的HP、體力極限、增益狀態、減益狀態。將一張2費的使用後放逐的「永夜歸返　-世間開明-」加入手卡。
+Skill/S_Kaguya_LucyRare_Name,Text,,「영야 되돌리기」,"""End of Imperishable Night""",永夜返し,「永夜归返」,「永夜歸返」
+Skill/S_Kaguya_Lucy_0_Description,Text,,"<color=#919191>당신도 굉장한 상대지만, 우리도 끝내야만 하는 사명이 있어!——루시</color>","<color=#919191>""You are a worthy opponent, but we too have a mission we must fulfill!"" — Lucy</color>",<color=#919191>あなたは立派な敵だが、私たちにも果たさなければならない使命がある！ ——ルシー</color>,<color=#919191>你是一个值得尊敬的对手，但是，我们也有不能不完成的使命！——露西</color>,<color=#919191>你是一個值得尊敬的對手，但是，我們也有不能不完成的使命！—— 露西</color>
+Skill/S_Kaguya_Lucy_0_Name,Text,,"루시의 재현-신보「브릴리언트 드래곤 바레트」,Lucy's copy-Divine Treasure """"Brilliant Dragon Barrette""""""","Lucy's Copy - Divine Treasure ""Brilliant Dragon Barrette""",神宝-「ブリリアントドラゴンバレッタ」,露西的复现-神宝「耀眼的龙玉」,露西的複現-神寶「耀眼的龍玉」
+Skill/S_Kaguya_Lucy_1_Description,Text,,"모든 아군의 과부하를 해제하고, 스킬을 2개 뽑고 마나를 2 회복합니다.
+Lunatic : 과부하를 해제하지 않고, 스킬을 1개만 뽑고 마나를 1만 회복하게 됩니다.
+
+<color=#919191>당신도 굉장한 상대지만, 우리도 끝내야만 하는 사명이 있어!——루시</color>","Remove Overload from all allies, draw 2 skills, restore 2 Mana. 
+Lunatic: Do not remove Overload, draw 1 skill, restore 1 Mana instead.
+
+<color=#919191>You are a worthy opponent, but we too have a mission we must fulfill! — Lucy</color>","すべての味方からオーバーチャージを除去し、スキルを2枚引き、マナを2回復する。
+
+ルナティック難易度ではオーバーチャージは除去されず、スキルを1枚引き、マナを1回復するに変更される。
+<color=#919191>あなたは立派な敵だが、私たちにも果たさなければならない使命がある！ ——ルシー</color>","解除所有友军的过载，抽2个技能，恢复2点费用。
+L难度下，改为不再解除过载，抽1个技能，恢复1点费用。
+
+<color=#919191>你是一个值得尊敬的对手，但是，我们也有不能不完成的使命！——露西</color>","消除所有<b>隊員</b>的過載，抽取2個技能，恢復2點法力值。
+L難度下，改為不再解除超載，抽1張牌，恢復1點費用。
+
+<color=#919191>你是一個值得尊敬的對手，但是，我們也有不能不完成的使命！—— 露西</color>"
+Skill/S_Kaguya_Lucy_1_Name,Text,,루시의 재현-신보「부디스트 다이아몬드」,"Lucy's Copy - Divine Treasure ""Buddhist Diamond""",コピー:神宝「ブディストダイアモンド」,露西的复现-神宝「佛体的金刚石」,露西的複現-神寶「佛體的金剛石」
+Skill/S_Kaguya_Lucy_2_Description,Text,,"<color=#919191>당신도 굉장한 상대지만, 우리도 끝내야만 하는 사명이 있어!——루시</color>","<color=#919191>You are a worthy opponent, but we too have a mission we must fulfill! — Lucy</color>",<color=#919191>あなたは立派な敵だが、私たちにも果たさなければならない使命がある！ ——ルシー</color>,<color=#919191>你是一个值得尊敬的对手，但是，我们也有不能不完成的使命！——露西</color>,<color=#919191>你是一個值得尊敬的對手，但是，我們也有不能不完成的使命！—— 露西</color>
+Skill/S_Kaguya_Lucy_2_Name,Text,,루시의 재현-신보「샐러맨더 실드」,"Lucy's Copy - Divine Treasure ""Salamander Shield""",コピー:神宝「サラマンダーシールド」,露西的复现-神宝「火蜥蜴之盾」,露西的複現-神寶「火蜥蜴之盾」
+Skill/S_Kaguya_Lucy_3_Description,Text,,"<color=#919191>당신도 굉장한 상대지만, 우리도 끝내야만 하는 사명이 있어!——루시</color>","<color=#919191>You are a worthy opponent, but we too have a mission we must fulfill! — Lucy</color>",<color=#919191>あなたは立派な敵だが、私たちにも果たさなければならない使命がある！ ——ルシー</color>,<color=#919191>你是一个值得尊敬的对手，但是，我们也有不能不完成的使命！——露西</color>,<color=#919191>你是一個值得尊敬的對手，但是，我們也有不能不完成的使命！—— 露西</color>
+Skill/S_Kaguya_Lucy_3_Name,Text,,루시의 재현-신보「라이프스프링 인피니티」,"Lucy's Copy - Divine Treasure ""Life Spring Infinity""",コピー:神宝「ライフスプリングインフィニティ」,露西的复现-神宝「无限的生命之泉」,露西的複現-神寶「無限的生命之泉」
+Skill/S_Kaguya_Lucy_4_Description,Text,,"<color=#919191>당신도 굉장한 상대지만, 우리도 끝내야만 하는 사명이 있어!——루시</color>","<color=#919191>You are a worthy opponent, but we too have a mission we must fulfill! — Lucy</color>",<color=#919191>あなたは立派な敵だが、私たちにも果たさなければならない使命がある！ ——ルシー</color>,<color=#919191>你是一个值得尊敬的对手，但是，我们也有不能不完成的使命！——露西</color>,<color=#919191>你是一個值得尊敬的對手，但是，我們也有不能不完成的使命！—— 露西</color>
+Skill/S_Kaguya_Lucy_4_Name,Text,,루시의 재현-신보「봉래의 옥의 가지 -꿈빛 고향-」,"Lucy's Copy - Divine Treasure ""Jeweled Branch of Hourai -Dreamlike Paradise-""",コピー:神宝「蓬莱の玉の枝 -夢色の郷-」,露西的复现-神宝「蓬莱的玉枝　-梦色之乡-」,露西的複現-神寶「蓬萊的玉枝-夢色之鄉-」
+Skill/S_Mokou_1_0_Description,Text,,"<color=orange>과열 : 2 - 마나를 1 회복합니다.</color>
+자신은 <color=purple>화상 고통 디버프</color>를 얻습니다.",<color=orange>Overheat: 2 — Restore 1 Mana.</color>,<color=orange>オーバーヒート: 2——マナを1回復する</color>,<color=orange>过热：2——恢复一点费用</color>,<color=orange>過熱：2——恢復一點費用</color>
+Skill/S_Mokou_1_0_Name,Text,,염부「자멸 화염 대선풍」,"Blaze Sign ""Self-Destruction Giant Flame Whirlwind""",焔符「自傷火焔大旋風」,焰符「自灭火焰大旋风」,焰符「自滅火焰大旋風」
+Skill/S_Mokou_1_Description,Text,,"<color=orange>과열 : 2 - 마나를 1 회복합니다.</color>
+자신은 <color=purple>화상 고통 디버프</color>를 얻습니다. 이번 턴 동안 한 번 더 사용할 수 있습니다.","<color=orange>Overheat: 2 — Restore 1 Mana.</color> 
+Add a ""Blaze Sign ""Self-Destruction Giant Flame Whirlwind"""" to your hand, which deals half damage and applies half the <color=purple><sprite name=""Mokou_B_Mokou_T_1"">Burn</color> stacks.","<color=orange>オーバーヒート: 2——マナを1回復する</color>
+与えるダメージと与える<color=purple><sprite name=""Mokou_B_Mokou_T_1"">灼熱</color>のストック数が半分になった「焔符-自傷火焔大旋風」を手札に加える。","<color=orange>过热：2——恢复一点费用</color>
+使用后本回合内可再释放一次，再次释放的焰符「自灭火焰大旋风」造成的伤害与施加的<color=purple><sprite name=""Mokou_B_Mokou_T_1"">烧伤</color>层数变为一半。","<color=orange>過熱：2——恢復一點費用</color>
+使用後本回合內可再釋放一次。"
+Skill/S_Mokou_1_Name,Text,,염부「자멸 화염 대선풍」,"Blaze Sign ""Self-Destruction Giant Flame Whirlwind""",焔符「自傷火焔大旋風」,焰符「自灭火焰大旋风」,焰符「自滅火焰大旋風」
+Skill/S_Mokou_2_Description,Text,,"<color=orange>과열 : 3 - 화상이 부여된 적에게는 '화남!'이 아닌 '멸죄'를 부여합니다. 자신은 '봉래인형'을 얻습니다.</color>
+모든 적에게 '화남!'을 부여합니다. (3턴 지속)
+대상이 하나라면 2중첩으로 부여합니다.","<color=orange>Overheat: 3 — Apply ""Metsuzai"" instead of ""Taunted!"" to enemies with Burns. Gain ""Hourai Doll"".</color> 
+Apply ""Taunted!"" (3 turns) to all enemies. 
+If only one target, apply 2 stacks.","<color=orange>オーバーヒート:3——<color=purple><sprite name=""Mokou_B_Mokou_T_1"">灼熱</color>を持つ対象には、[怒！]の代わりに[滅罪]を与える。自身は[蓬莱人形]を得る。</color>
+すべての敵に[怒！]を与える。 
+敵が1体の場合、さらに1ストック与える。","<color=orange>过热：3——对具有<color=purple><sprite name=""Mokou_B_Mokou_T_1"">烧伤</color>的目标施加[灭罪]而非[发怒！]。获得[蓬莱人形]增益。</color>
+给与所有敌人[发怒！]。
+如果只有1个目标，给予的层数+1。","<color=orange>過熱：3——對具有燒傷的目標施加‘滅罪’而非‘發怒！’。獲得[蓬萊人形]增益。</color>
+給所有敵人賦予‘發怒！’(持續3回合)。
+若只有一個目標，給予層数+1。"
+Skill/S_Mokou_2_Name,Text,,후지와라「멸죄사원상」,"Fujiwara ""Wounds of Metsuzai Temple""",藤原「滅罪寺院傷」,藤原「灭罪寺院伤」,藤原「滅罪寺院傷」
+Skill/S_Mokou_3_0_Description,Text,,,,,,
+Skill/S_Mokou_3_0_Name,Text,,멸죄「정직한 자의 죽음」,"Expiation ""Honest Man's Death""",滅罪「正直者の死」,灭罪「正直者之死」,滅罪「正直者之死」
+Skill/S_Mokou_3_Description,Text,,"시전 시, 대상에게 '화남!'을 부여합니다(3턴 지속). 이 스킬이 카운트되는 동안 공격받지 않으면 이번 턴에만 사용할 수 있는 비용 0, 신속, 모든 적 대상인 멸죄「정직한 자의 죽음」을 손에 넣습니다. 공격받으면, 대상과 자신에게 <color=purple>화상 고통 디버프</color>를 3중첩 부여합니다. (한 번만)","When cast, apply ""Taunted!"" (3 turns) to target. If not attacked during countdown, add a 0-cost Swiftness Expiation ""Honest Man's Death"" targeting all enemies to hand. If attacked, apply 3 stacks of <color=purple><sprite name=""Mokou_B_Mokou_T_1"">Burn</color> to both (once).","対象に[怒！]を与える 。カウントダウン中に攻撃を受けていない場合、コストが0で迅速と1ターン後に捨てられるを持ち、すべての敵を対象とする「滅罪-正直者の死」を手札に1枚加える。 攻撃を受けた場合、自身と攻撃者に<color=purple><sprite name=""Mokou_B_Mokou_T_1"">灼熱</color>を3ストック与える(1回のみ発動)。 ","使用时，给予目标‘发怒！’。如果倒计时内没有受到攻击，则将一张本回合内0费，指向所有敌人的附带迅速的灭罪「正直者之死」置入手中，附带一回合后放逐；如果受到攻击，则对双方施加3层<color=purple><sprite name=""Mokou_B_Mokou_T_1"">烧伤</color>（仅生效一次）。",使用時，給予目標‘發怒！’。如果倒計時內沒有受到攻擊，則將一張本回合內0費，指向所有敵人的附帶迅速的滅罪「正直者之死」置入手中，附帶一回合後放逐；如果受到攻擊，則對雙方施加3層<color=purple>燒傷</color>(僅生效一次)。
+Skill/S_Mokou_3_Name,Text,,멸죄「정직한 자의 죽음」,"Expiation ""Honest Man's Death""",滅罪「正直者の死」,灭罪「正直者之死」,滅罪「正直者之死」
+Skill/S_Mokou_4_Description,Text,,"<color=orange>과열 : 4 - 반복해 사용할 때마다 스킬을 1개 뽑습니다.</color>
+자신의 레드 소울 중첩 수만큼 절반의 피해로 반복해 사용합니다.","<color=orange>Overheat: 4 — Draw 1 skill per recast.</color> 
+Recast based on the number of ""Immortal Red Soul"" stacks.
+The damage of the recasts of ""Phoenix's Tail"" is halved.","<color=orange>オーバーヒート: 4 ——発動するたびに、スキルを1枚引く。 </color>
+[不滅の紅き魂]のストックと同じ回数、このスキルは繰り返し発動する。
+繰り返し発動する「不滅-フェニックスの尾」のダメージは半分になる。","<color=orange>过热：4——每重复释放一次，抽一张牌。</color>
+根据自身的赤魂层数重复释放此技能。
+重复释放的不灭「不死鸟之尾」造成一半伤害。","<color=orange>過熱：4——每重複釋放一次，抽一張牌。</color>
+根據自身的[赤魂層數]重複釋放此技能。
+重複釋放的不滅「不死鳥之尾」造成一半傷害。"
+Skill/S_Mokou_4_Name,Text,,불멸「불사조의 꼬리」,"Inextinguishable ""Phoenix's Tail""",不滅「フェニックスの尾」,不灭「不死鸟之尾」,不滅「不死鳥之尾」
+Skill/S_Mokou_5_Description,Text,,"<color=orange>과열 : 3 - 2턴 동안 모든 아군의 회복 게이지 보호.</color>
+자신은 &a(불멸의 레드 소울 중첩 수 +1)중첩의 <color=purple>화상 고통 디버프</color>를 얻고, 최대 체력(&c)의 &b%((불멸의 레드 소울 중첩 +1) * 20%)만큼 치유합니다.","<color=orange>Overheat: 3 — Grant all allies Healing Gauge protection for 2 turns.</color> 
+Apply &a (Immortal Red Soul stacks +1) <color=purple>Burn</color> stacks. Heal &b% (Immortal Red Soul stacks +1) * 20% of Max HP (&c).","<color=orange>オーバーヒート: 3——すべての味方に2ターンの間、回復ゲージ保護を与える。 </color>
+自身に<color=purple><sprite name=""Mokou_B_Mokou_T_1"">灼熱</color>を&a ( [不滅の紅き魂]のストック数+ 1) ストック与え、自身を最大体力の&b% ([不滅の紅き魂] + 1) * 20%) 、&cで回復する。","<color=orange>过热：3——给予全队2回合的体力极限保护。</color>
+对自身施加&a（不灭赤魂层数+1）层数的<color=purple><sprite name=""Mokou_B_Mokou_T_1"">烧伤</color>，治疗自身&b%（（不灭赤魂层数+1）*20%）的最大体力值（&c）。","<color=orange>過熱：3——給予全隊2回合的體力極限保護。</color>
+對自身施加&a([不滅赤魂]層數+1)層數的燒傷，治療自身&b%(([不滅赤魂層數]+1)*20%)的最大體力值(&c)。"
+Skill/S_Mokou_5_Name,Text,,「봉래인형」,"""Hourai Doll""",「蓬莱人形」,「蓬莱人形」,「蓬萊人形」
+Skill/S_Mokou_6_Description,Text,,사용 후 '불멸의 레드 소울' 중첩을 1 잃습니다. (더 부활할 수 있게됩니다),"After use, reduce the number of ""Immortal Red Soul"" stacks by 1 (can revive once more).",[不滅の紅き魂]のストックが1減少する。(1回[リザレクション]できる),使用后，不灭赤魂层数减少1层（可以再次复活1次）。,使用後，[不滅赤魂]層數減少1層(可以再次復活1次)。
+Skill/S_Mokou_6_Name,Text,,불사「서복시공」,"Undying ""Xu Fu's Dimension""",不死「徐福時空」,不死「徐福时空」,不死「徐福時空」
+Skill/S_Mokou_7_Description,Text,,"<color=orange>과열 : 3 - 모든 적에게 부여된 고통 디버프의 지속시간을 1턴 연장합니다.</color>
+자신에게 회복 게이지가 있으면 <color=purple>화상 고통 디버프</color>를 추가로 1중첩 부여합니다.","<color=orange>Overheat: 3 — Extend all enemy Pain debuffs by 1 turn.</color> 
+Apply +1 <color=purple>Burn</color> stack if Healing Gauge remains.","<color=orange>オーバーヒート: 3 ——すべての敵が持つ苦痛デバフの持続時間を1ターン延長する。 </color>
+自身が回復ゲージを持つ場合、さらに<color=purple><sprite name=""Mokou_B_Mokou_T_1"">灼熱</color>を1ストック与える。","<color=orange>过热：3——所有敌人的痛苦减益持续时间增加1回合。</color>
+自身有剩余体力极限时，多施加1层<color=purple><sprite name=""Mokou_B_Mokou_T_1"">烧伤</color>。","<color=orange>過熱：3——所有敵人的痛苦減益持續時間增加1回合。</color>
+自身有剩餘體力極限時，多施加1層<color=purple>燒傷痛苦減益</color>。"
+Skill/S_Mokou_7_Name,Text,,주찰「무차별 발화의 부적」,"Cursed Talisman ""Indiscriminate Ignition Cards""",呪符「無差別発火の符」,咒符「无差别放火之符」,咒符「無差別放火之符」
+Skill/S_Mokou_8_0_Description,Text,,자신의 최대 체력의 75%(&a)만큼의 추가 피해를 입힙니다.,Deal additional damage equal to 75% (&a) of Max HP.,&a(自身の最大体力の75%)のダメージを追加で与える。,造成相当于自身最大体力值75%（&a）的额外伤害。,造成相當於自身最大體力值75%(&a)的額外傷害。
+Skill/S_Mokou_8_0_Name,Text,,「불사신의 투신」,"""Immortal's Reckless Sacrifice""",「不死者の捨て身」,「不死之身的舍身击」,「不死之身的捨身擊」
+Skill/S_Mokou_8_Description,Text,,"<color=orange>과열 : 2 -「불사신의 투신」1장을 추가로 손에 넣습니다.</color>
+자신은 <color=purple>화상 고통 디버프</color>를 2중첩 얻고,「불사신의 투신」을 손에 넣습니다.","<color=orange>Overheat: 2 — Add 1 ""Immortal's Reckless Sacrifice"" to hand.</color> 
+Gain 2 <color=purple>Burn</color> stacks. Add ""Immortal's Reckless Sacrifice"" to hand.","<color=orange>オーバーヒート: 2——さらに「不死者の捨て身」を手札に1枚加える。 </color>
+「不死者の捨て身」を手札に1枚加える。","<color=orange>过热：2——额外加入一张「不死之身的舍身击」加入手牌。</color>
+将一张「不死之身的舍身击」加入手牌。","<color=orange>過熱：2——額外加入一張「不死之身的捨身擊」加入手牌。</color>
+給予自身2層<color=purple>燒傷痛苦減益</color>，將一張「不死之身的捨身擊」加入手牌。"
+Skill/S_Mokou_8_Name,Text,,석명「불사신의 투신」,"Regretful Life ""Immortality's Reckless Sacrifice""",惜命「不死者の捨て身」,惜命「不死之身的舍身击」,惜命「不死之身的捨身擊」
+Skill/S_Mokou_9_Description,Text,,<color=orange>과열 : 1 - 이번 턴에만 사용할 수 있는 불사「개풍쾌청 비상축」을 손에 넣습니다.</color>,"<color=orange>Overheat: 1 — Add a Swiftness ""South Wind, Fine Weather, Clear Sky"" Kick to hand (usable this turn only).</color>",<color=orange>オーバーヒート: 1—— コストが1で迅速と1ターン後に捨てられるを持つ「不死- 凱風晴天快晴脚」を手札に1枚加える  </color>,<color=orange>过热：1——将一张不死「凯风快晴飞翔蹴」置入手中，附带一回合后弃牌，放逐。</color>,<color=orange>過熱：1——將一張不死「凱風快晴飛翔蹴」置入手中，附帶一回合後弃牌，放逐。</color>
+Skill/S_Mokou_9_Name,Text,,불사「개풍쾌청 비상축」,"""South Wind, Fine Weather, Clear Sky"" Kick",不死「凱風晴天快晴脚 」,不死「凯风快晴飞翔蹴」,不死「凱風快晴飛翔蹴」
+Skill/S_Mokou_LucyD_1_Description,Text,,"<color=orange>과열 : 2 - 스킬을 1개 뽑고 마나를 1 회복합니다.</color>
+스킬을 1개 뽑고 마나를 1 회복합니다.","<color=orange>Overheat: 2 — Draw 1 skill and restore 1 Mana.</color> 
+Draw 1 skill and restore 1 Mana.","<color=orange>オーバーヒート: 2 ——スキルを1枚引き、マナを1回復する。 </color>
+スキルを1枚引き、マナを1回復する。","<color=orange>过热：2——抽取1个技能并恢复1点法力值。</color>
+抽取1个技能并恢复1点法力值。","<color=orange>過熱：2——抽取1個技能並恢復1點法力值。</color>
+抽取1個技能並恢復1點法力值。"
+Skill/S_Mokou_LucyD_1_Name,Text,,화염 흡수,Flame Draw,烈火のドロー,烈火汲取,烈火汲取
+Skill/S_Mokou_R_1_Description,Text,,,,,,
+Skill/S_Mokou_R_1_Name,Text,,"「몇 번째인지도 모르는 이 목숨, 다 불탈 때까지」","""Until This Life, Repeated Countless Times, Burns Away""",この何度目かの命、燃え尽きるまで ,「这不知是第几次的生命，燃烧殆尽吧」,「這不知是第幾次的生命，燃燒殆盡吧」
+Skill/S_Mokou_R_2_Description,Text,,불멸의 레드 소울' 중첩을 모두 잃습니다. (더 부활할 수 있게됩니다),"Lose all ""Immortal Red Soul"" stacks (enables revival).",[不滅の紅き魂]のストックを0にする。(再度ストック可能),不灭赤魂层数归0（可以再次重生）。,[不滅赤魂]層數歸0(可以再次重生)。
+Skill/S_Mokou_R_2_Name,Text,,「피닉스 재탄생」,"""Phoenix Rebirth""",「フェニックス再誕」,「不死鸟重生」,「不死鳥重生」
+Skill/S_Mokou_R_3_Description,Text,,"사용 후 즉시 부활합니다. 더이상 부활할 수 없으면 사용할 수 없습니다.
+자신이 피해를 입을 때마다 손에 있는 이 스킬의 비용이 1 감소합니다.
+이 스킬은 25%의 피해만 입힙니다.","Revive immediately after use. Unusable if no revives remain. 
+Reduce this skill's cost by 1 in hand per damage taken. 
+Deals 25% damage.","使用後、即座に[リザレクション]を1回発動する。[リザレクション]を発動できない場合、自身の最大体力の100%の<color=purple>苦痛ダメージ</color>を受ける 
+手札にある間、自身が持つ、[不滅の紅き魂]のストック1ごとにこのスキルのコストが1減少する。
+このスキルのダメージは25%になる。","使用后立即触发一次重生，如果自身已经无法继续重生，则改为造成相当于自身100%最大体力值的<color=purple>痛苦伤害</color>。
+自身每拥有1层[不灭赤魂]，手中的此卡减少1点费用。
+这张卡只造成25%的伤害。","使用後立即觸發一次[重生]，如果自身已經無法繼續[重生]，則無法釋放。
+自身每受到一次傷害，手中的此卡減少1點費用。
+這張卡只造成25%的傷害。"
+Skill/S_Mokou_R_3_Name,Text,,불사「불새 -봉익천상-」,"Undying ""Fire Bird -Feng Wing Ascension-""",不死「火の鳥 -鳳翼天翔-」,不死「火鸟 -凤翼天翔-」,不死「火鳥 -鳳翼天翔-」
+Skill/S_Mokou_R_4_Description,Text,,"대상이 이 스킬로 인한 [츠키노 이와카사의 저주]를 저항했을 경우, 버린 카드 더미에 '시효-츠키노 이와카사의 저주'를 생성합니다.","If target resists <color=orange>Curse of Tsuki-no-Iwakasa</color>, add <color=orange>Limiting Edict ""Curse of Tsuki-no-Iwakasa""</color> to discard pile.
+
+<color=#919191>Murders that were not recorded in history. In modern times, many unsolved murder cases have reached the statute of limitations. As long as no one knows, it remains unpunished.</color>","対象がこのスキルで与える<color=orange>[月のいはかさの呪い]</color>をレジストした場合、捨て札に<color=orange>「時効-月のいはかさの呪い」</color>を加える。 
+
+<color=#919191>歴史に残らなかった殺人事件。 現代では多くの未解決の殺人事件は時効になっている。 誰にも知られない限り、それは無罪なのだ。</color>","若目标抵抗了该技能的“<color=orange>「月岩笠的诅咒」</color>”减益，在弃牌库中生成“<color=orange>时效「月岩笠的诅咒」</color>”技能。
+
+<color=#919191>没留在历史上的杀人事件。到了现代很多未解决的杀人事件都已经过了时效。只要不被任何人知道就不算有罪喔。</color>","若目標抵抗了該技能的“<color=orange>「月岩笠的詛咒」</color>”减益，在弃牌庫中生成“<color=orange>時效「月岩笠的詛咒」</color>”技能。
+
+<color=#919191>沒留在歷史上的殺人事件。到了現代很多未解决的殺人事件都已經過了時效。只要不被任何人知道就不算有罪喔。</color>"
+Skill/S_Mokou_R_4_Name,Text,,시효-츠키노 이와카사의 저주,"<color=orange>Limiting Edict ""Curse of Tsuki-no-Iwakasa""</color>",<color=orange>時効「月のいはかさの呪い」</color>,<color=orange>时效「月岩笠的诅咒」</color>,<color=orange>時效「月岩笠的詛咒」</color>
+Skill/S_Mokou_R_EX_Description,Text,,,"<color=#919191>Even now, I still remember that dark night 1300 years ago. However, I'll still alive even in the endless reality tormented by the consciousness of one's sins.</color>",<color=#919191>今でも、1300年前の暗い夜を思い出す。 この永遠に続く現実の中でも、罪の意識に苛まれながら、私はまだ生き続ける。</color>,<color=#919191>哪怕是现在，我也仍然记得一千三百年前的那个黑暗的夜晚。即使是这个被罪恶的意识所折磨的永恒现实，我也仍会继续活下去。</color>,<color=#919191>哪怕是現在，我也仍然記得一千三百年前的那個黑暗的夜晚。即使是這個被罪惡的意識所折磨的永恒現實，我也仍會繼續活下去。</color>
+Skill/S_Mokou_R_EX_Name,Text,,<color=red>「류 인 약 화」</color>,"<color=red>""Flowing Flame Blade""</color>",<color=red>「火 若 刃 流」</color>,<color=red>「火 似 刃 流」</color>,<color=red>「火 似 刃 流」</color>
+SkillExtended/SkillEn_Mokou_0_Des,Text,,,,,,
+SkillExtended/SkillEn_Mokou_0_EnforceString,Text,,"<sprite name=""비용1""><sprite name=""이상"">","<sprite name=""비용1""><sprite name=""이상"">",コスト1以上のスキル,1费及以上的技能,1费及以上的技能
+SkillExtended/SkillEn_Mokou_0_Name,Text,,<color=orange>과열 : 2 - 스킬을 1개 뽑고 마나를 1 회복합니다.</color>,<color=orange>Overheat: 2 — Draw 1 skill and restore 1 Mana.</color>,<color=orange>オーバーヒート: 2 ——スキルを1枚引き、マナを1回復する。 </color>,<color=orange>过热2：——抽取1个技能，回复1点法力值。</color>,<color=orange>過熱2：——抽取1個技能，回復1點法力值。</color>
+SkillExtended/SkillEn_Mokou_1_EnforceString,Text,,"<sprite name=""비용1""><sprite name=""이상""> 공격 스킬","<sprite name=""cost1""><sprite name=""or_higher""> Attack skills",コスト1以上の攻撃スキル,1费及以上的攻击技能,1費及以上的<b>攻擊技能</b>
+SkillExtended/SkillEn_Mokou_1_Name,Text,,모코우가 지닌 '불멸의 레드 소울' 중첩마다 피해량 20% 증가.,"Damage +20% per ""Immortal Red Soul"" stack.",藤原妹紅が持つ[不滅の紅き魂]のストック1ごとに、与えるダメージが20％増加する。 ,妹红每拥有1层[不灭赤魂]，造成的伤害增加20%。,妹紅每擁有1層[不滅赤魂]，造成的傷害增加20%。
+SkillExtended/SkillEn_S_Mokou_R_3_Name,Text,,,,,,
+SkillKeyword/Trace_barrage_Desc,Text,,스킬을 마지막으로 사용한 캐릭터(루시 제외)를 우선으로 공격합니다. 해당 스킬이 공격 스킬이 아니라면 명중률이 크게 감소합니다.,Targets last skill user (excl. Lucy). Non-attack skills reduce Accuracy drastically.,最後に手札から使用したスキルの所有者を優先して攻撃する(ルシーを除く) 。そのスキルが攻撃スキル以外の場合、命中率が大幅に減少する。,优先攻击最后一个出手的技能的角色（露西除外），如果该技能不是攻击技能，命中率大幅降低。,優先攻擊最後一個出手的技能的角色(露西除外)，如果該技能不是<b>攻擊技能</b>，命中率大幅降低。
+SkillKeyword/Trace_barrage_Name,Text,,조준사격,Precision Strike,自機狙い,自机狙,自機狙
+SkillKeyword/conundrum_Desc,Text,,"카구야가 제시한 난제. 턴 종료 시 난제를 완료했으면 모든 아군이 버프를 얻고, 완료하지 못했으면 카구야가 버프를 얻습니다.",Kaguya's conundrum. Allies gain buffs if solved by turn end; Kaguya gains buffs if failed.,蓬莱山輝夜が出す難題。 毎ターン終了時、難題を達成している場合こちらがバフを得て、未達成の場合は蓬莱山輝夜がバフを得る。 ,由辉夜所布下的难题。每回合结束时，如果完成了难题，我方获得增益；如果没有完成难题，辉夜获得增益。,由輝夜所布下的難題。每回合結束時，如果完成了難題，我方獲得增益；如果沒有完成難題，輝夜獲得增益。
+SkillKeyword/conundrum_Name,Text,,난제,Impossible Request,難題,难题,難題
+SkillKeyword/exburn_Desc,Text,,"모코우의 화상 중첩 수가 과열 수치 이상이라면, 그만큼 중첩을 제거하면서 즉시 고통 피해를 입고 추가 효과를 발동합니다.","When Mokou has Burn stacks ≥ Overheat value, consume them to trigger Pain damage and effects.","藤原妹紅が<color=purple><sprite name=""Mokou_B_Mokou_T_1"">灼熱</color>を持つ場合、<color=purple><sprite name=""Mokou_B_Mokou_T_1"">灼熱</color>のストックを指定された数消費し、追加効果が発動する。","妹红拥有标识层数的<color=purple><sprite name=""Mokou_B_Mokou_T_1"">烧伤</color>时，结算并移除标识层数的<color=purple><sprite name=""Mokou_B_Mokou_T_1"">烧伤</color>，触发后续的额外效果。",妹紅擁有標識層數的<color=purple>[燒傷]</color>時，結算並移除標識層數的<color=purple>[燒傷]</color>，觸發後續的額外效果。
+SkillKeyword/exburn_Name,Text,,과열,Overheat,オーバーヒート,过热,過熱
+,,,,,,,
+

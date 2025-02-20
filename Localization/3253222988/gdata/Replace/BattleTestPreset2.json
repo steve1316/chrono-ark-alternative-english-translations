@@ -1,0 +1,56 @@
+{
+    "BattleTestPreset2": {
+        "_gdeSchema": "Preset",
+        "Party": [
+            "PLANA",
+            "Hein",
+            "Prime"
+        ],
+        "PartyBasicSkill": [
+            "S_PLANA_1",
+            "S_Hein_1",
+            "S_Prime_5"
+        ],
+        "PartySkills": [
+            [
+                "S_PLANA_0",
+                "S_PLANA_2",
+                "S_PLANA_5",
+                "S_PLANA_Rare_1",
+                "S_PLANA_3",
+                "S_PLANA_4"
+            ],
+            [
+                "S_Hein_1",
+                "S_Hein_3"
+            ],
+            [
+                "S_Prime_2",
+                "S_Prime_13",
+                "S_Prime_9",
+                "S_Leryn_5"
+            ]
+        ],
+        "PartyEquip": [
+            [
+                
+            ],
+            [
+                "Equip_PLANA_0"
+            ],
+            [
+                
+            ]
+        ],
+        "LucySkill": [
+            "S_LucyD_0",
+            "S_PLANA_lucy0",
+            "S_LucySwimDLC_0"
+        ],
+        "AP": 7,
+        "Passive": [
+            
+        ],
+        "Level": 4
+    }
+}

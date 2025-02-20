@@ -1,0 +1,207 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Eirin_0_Description,Text,,"약화 디버프를 제거합니다.
+행동불가, 피해를 입은 후 제거됩니다.","Remove all <sprite=0>Weakening debuffs.
+Cannot take action.
+Removed when damage is taken.","衰弱デバフを除去。
+行動不能、ダメージを受けると除去される。","解除弱化减益。
+无法行动，受到伤害后解除。",
+Buff/B_Eirin_0_Name,Text,,월인/몽접,Lunarian/Butterfly Dream,月人/夢蝶,月人/梦蝶,
+Buff/B_Eirin_12Rare_Description,Text,,자신에게 [월인/신월]이 없어도 [월인/난전]을 시전할 수 있습니다.,Can activate [Lunarian/Arrows Rain] without possessing [Lunarian/Crescent].,[月人/新月]を所持していない場合でも「月人/乱矢」を発動できる。,即使身上没有[月人/新月]也可以触发[月人/乱箭]。,
+Buff/B_Eirin_12Rare_Name,Text,,월인/천망,Lunarian/Heavenly Net,月人/天網,月人/天网,
+Buff/B_Eirin_1_Description,Text,,추가 공격 및 반격에 의한 피해량 +33%,Increases Follow-up attack/Counter damage dealt by 33%.,追加攻撃/反撃のダメージ+33%。,造成的追加攻击/反击的伤害+33%。,
+Buff/B_Eirin_1_Name,Text,,월인/건곤,Lunarian/Universe,月人/乾坤,月人/乾坤,
+Buff/B_Eirin_2_Name,Text,,월인/월약,Lunarian/Moon Medicine,月人/月薬,月人/月药,
+Buff/B_Eirin_3_0_Description,Text,,받는 추가공격/반격 피해량이 &a만큼 증가합니다.,Increases Follow-up attack/Counter damage received by &a.,受ける追加攻撃/反撃のダメージが&a増加する,受到的追加攻击/反击伤害增加&a点。,
+Buff/B_Eirin_3_0_Name,Text,,월인/월사,Lunarian/Moon Envoy,月人/月使,月人/月使,
+Buff/B_Eirin_3_Name,Text,,월인/조신,Lunarian/Leading God,月人/操神,月人/操神,
+Buff/B_Eirin_5_Description,Text,,"다음에 피해를 입을 시, &a의 체력을 회복하고 가해자에게[월인/난전]을 1회 시전합니다.
+만약 빈사상태일 시, 피해를 무효화 합니다.","On next damage taken, heal &a HP and trigger [Lunarian/Arrows Rain] against the attacker. 
+If at Death's Door, nullify the damage.","次にダメージを受けたとき、体力を&a回復し、攻撃してきた相手に「月人/乱矢」を1回発動する；
+瀕死状態なら、そのダメージを無効にする。","下次受到伤害时，恢复&a体力，并对来源发动一次[月人/乱箭]；
+如果处于濒死阶段，抵消该伤害。",
+Buff/B_Eirin_5_Name,Text,,월인/소활,Lunarian/Revival,月人/蘇活,月人/苏活,
+Buff/B_Eirin_6_0_Name,Text,,월인/불결,Lunarian/Corruption,月人/汚穢,月人/污秽,
+Buff/B_Eirin_6_Description,Text,,받는 피해량이 0이 됩니다.,Reduces damage taken to 0.,受けるダメージを0にする。,受到的伤害变为0。,
+Buff/B_Eirin_6_Name,Text,,월인/광명,Lunarian/Frenzied Life,月人/狂命,月人/狂命,
+Buff/B_Eirin_8_Description,Text,,매 턴 시작시 '제외'가 부여된 자신의 무작위 전용스킬을 패에 넣습니다.,"At start of each turn, generate 1 random exclusive skill with Exclude for yourself.",毎ターン開始時、除外を持つ自身のランダムな専用スキルを1つ生成する。,每个回合开始时，随机生成1张附带放逐、一次性的自己的专属技能。,
+Buff/B_Eirin_8_Name,Text,,월인/영림,Lunarian/Eirin,月人/永琳,月人/永琳,
+Buff/B_Eirin_LucyD_Description,Text,,"행동불가.
+턴 시작시 제거됩니다.
+제거 될 시 자신의 스킬 3개를 우선적으로 뽑습니다.","Stunned.
+Remove at the start of turn.
+Whenever is removed, draw 3 skills from the deck prioritizing owner's skills.","行動不能。
+ターン開始時に除去される。
+除去されたとき、自身のスキルを優先して3枚引く。","无法行动。
+回合开始时解除。
+解除时，优先抽取3个自己的技能。",
+Buff/B_Eirin_LucyD_Name,Text,,선향옥토,Lunar Rabbit Incense,仙香玉兎,仙香玉兔,
+Buff/B_Eirin_P_Description,Text,,"단일 대상 공격스킬을 시전 시, [월인/신월]을 1중첩 소모하여 야고코로 에이린이 대상에게 [월인/난전]을 1회 시전합니다.
+이 공격은 추가공격으로 간주됩니다.","When using single-target attack skills, consume 1 stack of [Lunarian/Crescent] to make Eirin Yagokoro perform [Lunarian/Arrows Rain] as a Follow-up attack. 
+75% of this damage chain heals herself.","単体を対象とする攻撃スキルを使用時、1ストック消費して、八意永琳が対象に追加攻撃扱いの「月人/乱矢」を発動させる。
+このダメージの75%で自身を連鎖治癒する。","使用指向单体的攻击技能时，消耗一层[月人/新月]，八意永琳会对目标进行一次[月人/乱箭]，视作追加攻击。
+这个伤害的75%会转化为对自己的连锁治疗。",
+Buff/B_Eirin_P_Hide_Description,Text,,"패에 있는 치료 스킬은 적을 대상으로 같은양의 피해를 입힐 수 있으며, [월인/난전]이 1회 시전됩니다.","Healing skills in hand can target enemies, dealing equal damage and triggering [Lunarian/Arrows Rain] once.",手札にある回復スキルを敵に使用することができる。敵に使用した場合、回復量がダメージになり、「月人/乱矢」を1回発動させる。,手中的治疗技能可以指向敌人，造成等量伤害，并且附带一次[月人/乱箭]。,
+Buff/B_Eirin_P_Hide_Name,Text,,무결/월인,Perfect/Lunarian,完全/月人,无缺/月人,
+Buff/B_Eirin_P_Name,Text,,월인/신월,Lunarian/Crescent,月人/新月,月人/新月,
+Character/Eirin_CampSelectWord,Text,,"오늘의 달은, 조금 불편하네요. 자, 기분전환하러 나가보실까요.","Tonight's moon is most unpleasant. Come, let us take a stroll.",今宵の月は、とても不愉快です。 さあ、散歩に出かけましょう。,今天的月亮，真是令人不舒服。来，出去散散心吧。,
+Character/Eirin_PassiveDes,Text,,"아군에게 치료 스킬을 시전하거나, 자신에게 스킬을 시전 시,
+대상에게 [월인/신월] 1중첩이 적용됩니다.
+단일 대상을 향한 공격스킬 시전 시 [월인/신월] 1중첩을 소모하여
+야고코로 에이린이 해당 대상에게 [월인/난전]을 1회 시전하며,
+이는 추가공격으로 간주됩니다.
+(10*치유력)%의 피해량만큼, 자신을 연쇄치유 합니다.","When using healing skills targeting allies or self-targeting skills, grant 1 stack of [Lunarian/Crescent] to the target. 
+When using single-target attack skills, consume 1 stack of [Lunarian/Crescent] to make Eirin Yagokoro perform [Lunarian/Arrows Rain] as a Follow-up attack. (10 * Healing Power)% of this damage chain heals herself.","味方を対象とした回復スキル、または自身を対象としたスキルを使用するとき、対象に[月人/新月]を1ストック与える：
+単体の敵を対象とする攻撃スキル使用時、[月人/新月]を1ストック消費し、八意永琳は対象に「月人/乱矢」を追加攻撃扱いで発動させる。 このダメージの(10*治癒力)%で自身を連鎖治癒する。","释放指向友军的治疗技能，或指向自己的技能时，会为目标施加1层[月人/新月]：
+使用指向单体的攻击技能时，消耗一层[月人/新月]，八意永琳会对目标进行一次[月人/乱箭]，视作追加攻击。这个伤害的(10*治疗力)%会转化为对自己的连锁治疗。",
+Character/Eirin_PassiveName,Text,,달의 두뇌,Brain of the Moon,月の頭脳,月之头脑,
+Character/Eirin_SelectInfo,Text,,"야고코로 에이린은 추가공격이 핵심인 치유사 및 사수 입니다.
+
+그녀는 아군을 치유하면서 추가공격 횟수를 늘릴 수 있으며,
+아군이 공격스킬을 시전하여 추가공격을 가할 경우, 연쇄치료를 시전합니다.
+또한, 에이린은 아군 전체의 추가공격 피해량을 증폭시킬 수 있습니다.","Eirin Yagokoro is a healer-attacker centered on Follow-up attacks. 
+
+By healing allies, she grants them Follow-up attack capabilities. When allies consume Follow-up attacks to strike, she provides chain healing. She also enhances the entire party's Follow-up attack damage. 
+
+Build formations around Follow-up attacks.","八意永琳は追加攻撃を核とする回復型アタッカーである。
+
+味方を回復することで、味方に追加攻撃を与えることができる。味方が追加攻撃を消費して攻撃を行うと、味方を連鎖治癒できる。 さらに、永琳は味方全体の追加攻撃のダメージを増加させることができる。
+
+追加攻撃を軸に、適切な布陣を構築しよう。","八意永琳是以追加攻击为机制核心的治疗型射手。
+
+通过治疗队友，八意永琳能为队友附加追加攻击的次数；队友使用攻击消耗追加攻击时，八意永琳可以为队伍带来连锁治疗收益。此外，八意永琳还能增幅整个队伍的追加攻击的伤害数值。
+
+以追加攻击为核心，组建合适的阵容吧。",
+Character/Eirin_Text_Battle_AllyND_0,Text,,"걱정하지 마세요, 제가 치료해 드릴테니.","Don't worry, I'll heal you.",心配しないで、私が治してあげる。,别担心，我会治好你。,
+Character/Eirin_Text_Battle_AllyND_1,Text,,"걱정하지 마세요, 제가 치료해 드릴테니.....치료되지 않더라도 괜찮아요.","Don't worry, I'll handle the healing... Though leaving you untreated would be fine too.",心配しないで、私が治すから。 ......あなたが治さなくても大丈夫。,别担心，我会治好你。……不治好倒是也行。,
+Character/Eirin_Text_Battle_Cri_0,Text,,백발백중.,Perfect accuracy.,百発百中。,百发百中。,
+Character/Eirin_Text_Battle_Cri_1,Text,,완벽한 계획이야.,Flawless plan.,計画は完璧。,计划完美。,
+Character/Eirin_Text_Battle_Healed_0,Text,,"치료가 훌륭한걸, 다음에 나도 배울 수 있을까?",An excellent treatment method. Teach me next time.,いい治療法ですね、今度教えてもらえますか。,你的治疗手段不错，下次我也想学。,
+Character/Eirin_Text_Battle_Idle_0,Text,,아침까지 놀아주는 것은 가능하단다.,I'll play with you until dawn breaks.,朝になるまで一緒に遊びましょう。,到清晨的话就陪你们玩玩吧。,
+Character/Eirin_Text_Battle_Kill_0,Text,,달의 식량으로 만들어줄게.,Become sustenance for the moon.,月の食料に変えます。,化作月亮的食粮吧。,
+Character/Eirin_Text_Battle_Kill_1,Text,,"먼지는 먼지로, 흙은 흙으로.","Ashes to ashes, dust to dust.",灰は灰に、塵は塵に。,尘归尘，土归土。,
+Character/Eirin_Text_Battle_ND_0,Text,,이 몸으로 죽음을 느낄 수 있는거였구나.....,To experience death through this body...,この身体で死を感じるなんて…,用这副身躯倒是能体会到死亡的感觉呢……,
+Character/Eirin_Text_Battle_ND_1,Text,,"아, 아파라.","Ah, painful.",ああ、痛い。,唉，真疼。,
+Character/Eirin_Text_Battle_Start_0,Text,,모든 것을 시작해보자.,Let all things commence.,さあ、すべてを始めましょう。,让一切开始吧。,
+Character/Eirin_Text_Battle_Start_1,Text,,"하나는 둘로, 둘은 셋으로, 셋은 만물을 낳는다.","One begets two, two begets three, three begets all creation.",一から二が生まれ、二から三が生まれ、三から万物が生まれる。,一生二，二生三，三生万物。,
+Character/Eirin_Text_Field_GetItem_0,Text,,"이거, 정말 좋네요. 가져가서 공주님께 보여드리고 싶어요.",I'll bring this back to show the Princess.,持ち帰って姫様に見せましょう。,真不错。带回去给公主看看吧。,
+Character/Eirin_Text_Field_Idle_0,Text,,이곳의 달은 보기만해도 불쾌하군요.,This moon truly displeases me.,この月は本当に不愉快です。,这月亮真是看着不顺眼。,
+Character/Eirin_Text_Field_Idle_1,Text,,"어떤 물약을 원하시나요? 단, 불사의 약만 제외하구요.",What medicine do you desire besides immortality?,不老不死の他にどの薬が欲しい？,你想要哪种药水？除了长生不死之外。,
+Character/Eirin_Text_Field_Potion_P_0,Text,,이 물약은 개선점이 조금 필요해 보이는걸..,This potion could use improvements.,このポーションは改善できますね。,这个药水下次可以改良一下。,
+Character/Eirin_Text_MasterTarget,Text,,,Is that so? Then bid farewell to this body—,そう？ では、この体に別れを告げて...,是吗。那就跟这副躯体说再见吧——,
+Character/Eirin_Text_PharosLeader_0,Text,,음.. 어쩔 수 없네요.,Ah... truly hopeless.,ああ......本当にどうしようもない。,嗯……真没办法呢。,
+Character/Eirin_Text_PharosLeader_1,Text,,"그래, 끝났어.","Well, it's over now.",まあ、終わったことです。,好吧，结束了。,
+Character/Eirin_Text_PharosLeader_2,Text,,"당신을 죽인 것은 내 과오이지만, 사과하지는 않을거에요.","Killing you was my responsibility, but I won't apologize.",あなたを殺したのは私の責任だけど、謝るつもりはないです。,杀死你是我的错，但我是不会道歉的。,
+Character/Eirin_Text_Witch_0,Text,,,You're the first to dare curse the Lunar folk.,あなたは初めて月の民に呪いをかけようとした。,胆敢对月之民施下诅咒的人，你还是第一个。,
+Character/Eirin_name,Text,,야고코로 에이린,Eirin Yagokoro,八意永琳,八意永琳,
+SimpleCampDialogue/CampDial_Eirin_FlandreScarlet_Dialogues_0,Text,,,"[A]Flandre, what exactly happened to your wings?",[A]芙兰，你的翅膀到底是怎么回事呢？,[A]芙兰，你的翅膀到底是怎么回事呢？,
+SimpleCampDialogue/CampDial_Eirin_FlandreScarlet_Dialogues_1,Text,,,[B]Hmm... Flandre doesn't know either?,[B]嗯……芙兰也不知道？,[B]嗯……芙兰也不知道？,
+SimpleCampDialogue/CampDial_Eirin_IzayoiSakuya_Dialogues_0,Text,,,"[A]Sakuya, you're always welcome at Eientei, whenever you wish.",[A]咲夜，不管什么时候来投靠永远亭，我都会欢迎的哦。,[A]咲夜，不管什么时候来投靠永远亭，我都会欢迎的哦。,
+SimpleCampDialogue/CampDial_Eirin_IzayoiSakuya_Dialogues_1,Text,,,"[B]...Apologies, I have no plans to switch employers now.",[B]……抱歉，现在还没有跳槽的打算。,[B]……抱歉，现在还没有跳槽的打算。,
+SimpleCampDialogue/CampDial_Eirin_IzayoiSakuya_Dialogues_2,Text,,,[A]Very well. I'll keep waiting—we have eternity after all...,[A]是吗。那我会等下去的，反正还有永远的时间……,[A]是吗。那我会等下去的，反正还有永远的时间……,
+SimpleCampDialogue/CampDial_Eirin_Mokou_Dialogues_0,Text,,,[A]When will you test my new medicine again? Many vacancies remain.,[A]什么时候再帮我试喝一下新药？还有好多空缺呢。,[A]什么时候再帮我试喝一下新药？还有好多空缺呢。,
+SimpleCampDialogue/CampDial_Eirin_Mokou_Dialogues_1,Text,,,[B]Let's not. I won't die but it still hurts.,[B]那种事情就算了吧，虽然我不会死但会很痛啊。,[B]那种事情就算了吧，虽然我不会死但会很痛啊。,
+SimpleCampDialogue/CampDial_Eirin_Patchouli_Dialogues_0,Text,,,[A]Medicine for asthma...,[A]治疗哮喘的药啊……,[A]治疗哮喘的药啊……,
+SimpleCampDialogue/CampDial_Eirin_Patchouli_Dialogues_1,Text,,,[A]Simple to make. But your condition isn't so straightforward.,[A]那种东西很好做。但你的病症并不是这么简单。,[A]那种东西很好做。但你的病症并不是这么简单。,
+SimpleCampDialogue/CampDial_Eirin_Patchouli_Dialogues_2,Text,,,"[A]If I cure your asthma, the side effect would be losing all magic. Acceptable?",[A]要是治好哮喘的话，副作用是你再也不能使用魔法，这样也可以吗？,[A]要是治好哮喘的话，副作用是你再也不能使用魔法，这样也可以吗？,
+SimpleCampDialogue/CampDial_Eirin_Patchouli_Dialogues_3,Text,,,[B]...Never mind then.,[B]……那就算了吧。,[B]……那就算了吧。,
+SimpleCampDialogue/CampDial_Eirin_Reisen_Dialogues_0,Text,,,"[A]Reisen, let me apply your medicine.",[A]铃仙，我来替你涂药。,[A]铃仙，我来替你涂药。,
+SimpleCampDialogue/CampDial_Eirin_Reisen_Dialogues_1,Text,,,"[A]Really now—who taught you this reckless, frenzied fighting style?",[A]真是的，这种不顾一切、发疯似的战斗方式，到底是谁教会你的啊。,[A]真是的，这种不顾一切、发疯似的战斗方式，到底是谁教会你的啊。,
+SimpleCampDialogue/CampDial_Eirin_Reisen_Dialogues_2,Text,,,[B]Sniff... Master is so kind...,[B]呜呜……师父真好……,[B]呜呜……师父真好……,
+SimpleCampDialogue/CampDial_Eirin_RemiliaScarlet_Dialogues_0,Text,,,[A]Your crimson history divided by mine equals zero.,[A]你堆积起来的红色历史。被我的历史除后，是零哦。,[A]你堆积起来的红色历史。被我的历史除后，是零哦。,
+SimpleCampDialogue/CampDial_Eirin_RemiliaScarlet_Dialogues_1,Text,,,"[A]From eternity's view, you're but a fleeting moment.",[A]从永久看来你也不过是须臾而已。,[A]从永久看来你也不过是须臾而已。,
+SimpleCampDialogue/CampDial_Eirin_RemiliaScarlet_Dialogues_2,Text,,,[B]...Heard that line when we first met.,[B]……这句话第一次见面的时候已经听过了。,[B]……这句话第一次见面的时候已经听过了。,
+SimpleCampDialogue/CampDial_Eirin_RemiliaScarlet_Dialogues_3,Text,,,[B]Are you so ancient you've forgotten?,[B]你是老到连这种事都记不得了吗？,[B]你是老到连这种事都记不得了吗？,
+SimpleCampDialogue/CampDial_Eirin_SatsukiRin_Dialogues_0,Text,,,"[A]Miss Satsuki, I never thought our first meeting would be ""here.""",[A]冴月小姐，没想到第一次见面会是在「这个地方」呢。,[A]冴月小姐，没想到第一次见面会是在「这个地方」呢。,
+SimpleCampDialogue/CampDial_Eirin_SatsukiRin_Dialogues_1,Text,,,"[B]Ahaha, gotta thank Yukari for this.",[B]啊哈哈、还得谢谢紫的帮忙呢。,[B]啊哈哈、还得谢谢紫的帮忙呢。,
+SimpleCampDialogue/CampDial_Eirin_SatsukiRin_Dialogues_2,Text,,,"[A]Though unnecessary before, I must now rely on your power.",[A]虽然之前不需要，但现在得仰仗你的力量了呢。,[A]虽然之前不需要，但现在得仰仗你的力量了呢。,
+SimpleCampDialogue/CampDial_Eirin_SatsukiRin_Dialogues_3,Text,,,"[B]Heheh, leave it to me!",[B]嘿嘿嘿，交给我吧！,[B]嘿嘿嘿，交给我吧！,
+SimpleCampDialogue/CampDial_Eirin_SilverStein_Dialogues_0,Text,,,[A]Enchanting bullets with magic increases their lethality.,[A]用魔法附加在子弹上，就能增加伤害。,[A]用魔法附加在子弹上，就能增加伤害。,
+SimpleCampDialogue/CampDial_Eirin_SilverStein_Dialogues_1,Text,,,[B]Wouldn't precise aim suffice?,[B]那种事情，只要好好瞄准要害不就行了吗？,[B]那种事情，只要好好瞄准要害不就行了吗？,
+SimpleCampDialogue/CampDial_Eirin_Sizz_Dialogues_0,Text,,,[A]If dolls could fire arrows...,[A]要是人偶能够使用弓箭射击的话……,[A]要是人偶能够使用弓箭射击的话……,
+SimpleCampDialogue/CampDial_Eirin_Sizz_Dialogues_1,Text,,,[B]Impossible... Right?,[B]做不到的啦……做不到的吧？,[B]做不到的啦……做不到的吧？,
+SimpleCampDialogue/CampDial_Eirin_Sizz_Dialogues_2,Text,,,[A]I know a dollmaster who can.,[A]我认识一个人偶使能做到哦。,[A]我认识一个人偶使能做到哦。,
+SimpleCampDialogue/CampDial_Eirin_TouhouAlice_Dialogues_0,Text,,,[A]Met that doll-using child in the Distortion?,[A]你见过扭曲之地那个用人偶的孩子了吗？,[A]你见过扭曲之地那个用人偶的孩子了吗？,
+SimpleCampDialogue/CampDial_Eirin_TouhouAlice_Dialogues_1,Text,,,"[B]Yes. Speaking of, you're copying her combat style entirely.",[B]见过了。话说，你完全就是在仿照她的攻击方式吧。,[B]见过了。话说，你完全就是在仿照她的攻击方式吧。,
+SimpleCampDialogue/CampDial_Eirin_TouhouAlice_Dialogues_2,Text,,,"[A]When in Rome, as they say.",[A]有句话叫入乡随俗嘛。,[A]有句话叫入乡随俗嘛。,
+SimpleCampDialogue/CampDial_Eirin_Youmu_Dialogues_0,Text,,,[A]What exactly is a half-human/half-ghost? Can they truly die?,[A]半人半灵究竟是怎样的生命体，到底会不会死呢？,[A]半人半灵究竟是怎样的生命体，到底会不会死呢？,
+SimpleCampDialogue/CampDial_Eirin_Youmu_Dialogues_1,Text,,,[A]How I'd love to capture one for thorough study...,[A]好想抓过来彻底研究一番啊……,[A]好想抓过来彻底研究一番啊……,
+SimpleCampDialogue/CampDial_Eirin_Youmu_Dialogues_2,Text,,,[B](Maybe I shouldn't have engaged...),[B]（我是不是不应该去搭话比较好……）,[B]（我是不是不应该去搭话比较好……）,
+Skill/S_Eirin_0_Description,Text,,,,,,
+Skill/S_Eirin_0_Name,Text,,약부「호접몽환 나이트메어」,Medicine Sign「Butterfly Dream Pill - Nightmare Type」,薬符「胡蝶夢丸ナイトメア」,药符「蝴蝶梦丸噩梦」,
+Skill/S_Eirin_10Rare_Description,Text,,패의 스킬을 사용하거나 자신이나 팀원이 추가공격 및 반격을 실행할 때마다 이 스킬의 비용-1,"Whenever you play skills from hand or allies trigger Follow-up attacks/Counters, this skill's cost decreases by 1.",手札のスキルを使用するか、自身または味方が追加攻撃/反撃を発動するたび、このスキルのコストは-1される。,每次使用手中的技能时，或是自身或队友触发追加攻击/反击时，这个技能费用-1。,
+Skill/S_Eirin_10Rare_Name,Text,,천주「아폴로 13」,Heaven's Curse「Apollo 13」,天呪「アポロ13」,天呪「Apollo 13」,
+Skill/S_Eirin_11Rare_Description,Text,,"필드의 모든 [월인/신월]을 소모하여 &a(소모된 [월인/신월] 1중첩 당 15%)의 추가데미지를 줍니다.
+이 스킬로 인한 피해량의 35%만큼 자신을 연쇄치유합니다.","Consume all [Lunarian/Crescent] stacks. For each stack consumed, this skill deals &a(15%) bonus damage. 35% of damage dealt chain heals yourself.","場のすべての[月人/新月]を消費し、消費した[月人/新月]のストック数分、このスキルは&a(15%)のダメージを追加で与える。
+このスキルで与えたダメージの35%で自身を連鎖治癒する。","消耗场上所有[月人/新月]，每层消耗的[月人/新月]使这个技能额外造成&a(15%)伤害。
+这个技能造成伤害的35%会转化为对自己的连锁治疗。",
+Skill/S_Eirin_11Rare_Name,Text,,비술「천문밀장법」,Esoterica「Astronomical Cover-Up」,秘術「天文密葬法」,秘术「天文密葬法」,
+Skill/S_Eirin_12Rare_Name,Text,,「천망지망포접의 법」,「Heaven Spider's Butterfly-Capturing Web」,「天網蜘網捕蝶の法」,「天网蛛网捕蝶之法」,
+Skill/S_Eirin_1_Description,Text,,,,,,
+Skill/S_Eirin_1_Name,Text,,약부「호중의 대은하」,Medicine Sign「Great Galaxy in a Jar」,薬符「壺中の大銀河」,药符「壶中的大银河」,
+Skill/S_Eirin_2_Description,Text,,"대상에게 디버프가 걸려있는 경우
+대상에게 걸린 디버프를 무작위로 1개 제거합니다.
+
+제거된 디버프의 종류에 따라 다음을 부여합니다.
+고통 - [월인/월약]
+약화 - [월인/건곤]
+방해 - [월인/조신]","If target has debuffs, remove 1 random debuff.
+
+Based on the type of debuff removed:
+Pain debuff - Gain [Lunarian/Moon Medicine].
+Weakened debuff - Gain [Lunarian/Universe].
+CC debuff - Gain [Lunarian/Leading God].","対象がデバフを持つ場合、対象の持つランダムなデバフを1つ除去する。
+
+除去したデバフの種類によって：
+苦痛デバフ - [月人/月薬]を与える。
+衰弱デバフ - [月人/乾坤]を与える。
+妨害デバフ - [月人/操神]を与える。","如果目标身上有减益效果，则解除目标身上随机1个减益效果。
+
+依据解除的减益效果的种类：
+痛苦减益 - 施加[月人/月药]。
+弱化减益 - 施加[月人/乾坤]。
+干扰减益 - 施加[月人/操神]。",
+Skill/S_Eirin_2_Name,Text,,천환「호중의 천지」,Spacesphere「The Cosmos in a Jar」,天丸「壺中の天地」,天丸「壶中的天地」,
+Skill/S_Eirin_3_Description,Text,,"대상의 도발 상태를 변경합니다.
+변경 후, 대상의 현재 도발 상태에 따라 다음을 부여합니다.
+도발 - 대상에게 [월인/월사]를 부여합니다.
+비도발 - 아군 전체에 [월인/조신]을 부여합니다.","Toggle target's Taunt status. Afterwards, depending on the target's current Taunt status:
+Taunted: Grant [Lunarian/Lunar Emissary]. 
+Not Taunted: Grant all allies [Lunarian/Divine Manipulation].","対象の挑発状態を変更する。 その後、対象の現在の挑発状態に応じて
+挑発を持つ - 対象に[月人/月使]を与える。
+挑発を持たない- 味方全員に [月人/操神]を与える。","改变目标的嘲讽状态。那之后，根据目标当前的嘲讽状态：
+嘲讽 - 使目标获得[月人/月使]。
+非嘲讽 - 使所有友军获得[月人/操神]。",
+Skill/S_Eirin_3_Name,Text,,조신「오모이카네 디바이스」,Leading God「Omoikane's Device」,操神「オモイカネディバイス」,操神「思兼装置」,
+Skill/S_Eirin_4_Description,Text,,"필드의 모든 [월인/신월]을 소모하고, 대상에게 [월인/난전]을 [소모 중첩수+2]회 시전합니다.
+이 방식으로 시전된 [월인/난전]은 방어력을 무시하며, 반드시 적중합니다.",Consume all [Lunarian/Crescent] stacks and launch the [number of consumed stacks + 2] instances of [Lunarian/Arrows Rain] at the target. These attacks ignore Defense and cannot miss.,"場のすべての[月人/新月]を消費し、(消費したストック数+2)回、対象に「月人/乱矢」を発動する。
+これで発動した「月人/乱矢」は防御力を無視して必ず命中する。","消耗场上所有的[月人/新月]，对目标释放[消耗层数+2]次数的[月人/乱箭]。
+依此法释放的[月人/乱箭]无视防御、必定命中。",
+Skill/S_Eirin_4_Name,Text,,신뇌「오모이카네 브레인」,Mind of God「Omoikane's Brain」,神脳「オモイカネブレイン」,神脑「思兼之脑」,
+Skill/S_Eirin_5_Description,Text,,,,,,
+Skill/S_Eirin_5_Name,Text,,소활「생명유희 -Life Game-」,Revival「Seimei Yūgi -Game of Life-」,蘇活「生命遊戯-ライフゲーム-」,苏活「生命游戏 -Life Game-」,
+Skill/S_Eirin_6_Name,Text,,소생「Rising Game」,Resurrection「Game of Rising」,蘇生「ライジングゲーム」,苏生「Rising Game」,
+Skill/S_Eirin_7_Description,Text,,"지정한 대상의 스킬을 우선으로 1장 뽑습니다.
+뽑은 스킬이 단일공격스킬인 경우, 대상에게 [월인/신월]을 1중첩 부여합니다.
+그렇지 않을경우 이 스킬을 덱에 다시 넣고 스킬을 1장 더 뽑습니다.","Draw 1 skill from the deck prioritizing target's skills.
+If the drawn skill is a single-target attack skill, gain 1 stack of [Lunarian/Crescent] for the skill’s owner.
+If not, put this skill back at the bottom of the deck and draw 1 more skill.","対象のスキルを優先して1枚引く。
+ 引いたスキルが単体を対象とする攻撃スキルの場合、スキルの所有者に[月人/新月]を1ストック与える。
+そうでない場合、そのスキルをデッキの一番下に戻し、さらにスキルを1枚引く。","优先抽取1个目标的技能。
+如果抽取的技能为指向单体的攻击技能，为技能的拥有者施加1层[月人/新月]；
+若不是，将这个技能放回牌堆底，再抽取1个技能。",
+Skill/S_Eirin_7_Name,Text,,각신「신대의 기억」,Awakened God「Memories of the Age of the Gods」,覚神「神代の記憶」,觉神「神话时代的记忆」,
+Skill/S_Eirin_8_Name,Text,,신부「천인의 계보」,God Sign「Genealogy of the Celestials」,神符「天人の系譜」,神符「天人的族谱」,
+Skill/S_Eirin_9_Description,Text,,"무작위 공용 치료스킬을 생성 후, 소모 비용 -1",Generate 1 random healing skill and reduce its cost by 1.,ランダムな回復スキルを1つ生成し、そのコストを-1する。,生成1张随机的通用治疗技能，使其费用-1。,
+Skill/S_Eirin_9_Name,Text,,연단「수은의 바다」,Elixir「Quicksilver Sea」,炼丹「水银之海」,炼丹「水银之海」,
+Skill/S_Eirin_LucyD_Description,Text,,,,,,
+Skill/S_Eirin_LucyD_Name,Text,,비약「선향옥토」,Secret Elixir「Lunar Rabbit Incense」,秘薬「仙香玉兎」,秘药「仙香玉兔」,
+Skill/S_Eirin_P_Description,Text,,,,,,
+Skill/S_Eirin_P_Name,Text,,월인/난전,Lunarian/Arrows Rain,月人/乱矢,月人/乱箭,
+SkillExtended/SE_Eirin_0_EnforceString,Text,,단일 대상 공격 스킬,Single-target attack skills,単体を対象とする攻撃スキル,指向单体的攻击技能,
+SkillExtended/SE_Eirin_0_Name,Text,,"에이린이 존재하는 경우, 시전 시 마나 소모량에 비례하여 에이린이 대상에게 [환상/난전]을 시전합니다.","When used while Eirin Yagokoro is active, she performs [Lunarian/Arrows Rain] equal to this skill's cost.",使用時に、八意永琳が生存している場合、八意永琳がそのスキルのコストと同じ回数「月人/乱矢」を対象に発動する。,若八意永琳在场，释放时根据该技能的费用，八意永琳对目标进行多次[月人/乱箭]。,
+SkillExtended/SE_Eirin_1_Des,Text,,,,,,
+SkillExtended/SE_Eirin_1_EnforceString,Text,,단일 대상 공격 스킬,Single-target attack skills,単体を対象とする攻撃スキル,指向单体的攻击技能,
+SkillExtended/SE_Eirin_1_Name,Text,,"피격 대상에게 [월인/월사]를 부여합니다
+ : 6턴 이내에 받는 추가공격 및 반격피해량이(20%치유력)만큼 증가합니다. ","Grants target [Lunarian/Moon Envoy] : For 6 turns, increases Follow-up attack/Counter damage received by (20% Healing Power).",対象に[月人/月使]を与える：6ターンの間、追加攻撃/反撃のダメージが(治癒力の20%)増加する。,使目标获得[月人/月使]：6回合内，受到的追加攻击/反击伤害增加(20%治疗力)点。,
+SkillExtended/SE_Eirin_P_Hide_Name,Text,,무결/월인,Perfect/Lunarian,完全/月人,无缺/月人,
+

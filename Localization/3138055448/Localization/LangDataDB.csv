@@ -1,0 +1,181 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese
+Buff/B_Ralmia_0_Description,Text,,아티팩트를 사용할 때마다 마나를 1 얻고 스킬을 하나 뽑습니다.,"Each time you play a <color=#97FFFF>Artifact</color> skill, restore 1 Mana and draw 1 skill.",自分がアーティファクト·スキルをプレイするたび、マナを1回復し、スキルを1個引く。,每次打出<color=#97FFFF>创造物</color>技能时，恢复1点法力值，抽1张技能。,每次打出<color=#97FFFF>创造物</color>技能时，恢复1点法力值，抽1张技能。
+Buff/B_Ralmia_0_Name,Text,,기계 해방,Mechanical Liberation,機構の解放,机械解放,机械解放
+Buff/B_Ralmia_13Rare_1_0_Description,Text,,피해를 1회 막습니다.,Negate the next instance of damage.,1回だけダメージを受けない。,免疫1次伤害。,免疫1次伤害。
+Buff/B_Ralmia_13Rare_1_0_Name,Text,,가드 아티팩트,Guardian Artifact,アーティファクトガード,创造物的守卫,创造物的守卫
+Buff/B_Ralmia_1_Description,Text,,"아티팩트를 사용할 때마다 마나를 1 얻습니다.
+손에 있는 아티팩트가 신속을 얻습니다.","Each time you play a <color=#97FFFF>Artifact</color> skill, restore 1 Mana.
+<color=#97FFFF>Artifact</color> skills in your hand gain ""Swiftness"".","自分がアーティファクト·スキルをプレイするたび、マナを1回復し。
+アーティファクト·スキルに迅速を追加する。","每次打出<color=#97FFFF>创造物</color>技能时，恢复1点法力值。
+手中的<color=#97FFFF>创造物</color>技能获得迅速。","每次打出<color=#97FFFF>创造物</color>技能时，恢复1点法力值。
+手中的<color=#97FFFF>创造物</color>技能获得迅速。"
+Buff/B_Ralmia_1_Name,Text,,가속 장치,Acceleration Device,加速装置,加速装置,加速装置
+Buff/B_Ralmia_2_Description,Text,,턴 종료시 스킬을 하나 뽑습니다.,"At the end of your turn, draw 1 skill.",,回合结束时抽取一张技能。,回合结束时抽取一张技能。
+Buff/B_Ralmia_2_Name,Text,,창의성,Creation Technique,,创造术,创造术
+Buff/B_Ralmia_P_Description,Text,,,The number of <color=#97FFFF>Artifact</color> types used in this battle: &a.,,本场战斗中，使用的<color=#97FFFF>创造物</color>种类为 &a 种。,本场战斗中，使用的<color=#97FFFF>创造物</color>种类为 &a 种。
+Buff/B_Ralmia_P_Name,Text,,아티팩트 종류,<color=#97FFFF>Artifact</color> Types,アーティファクトの種類,<color=#97FFFF>创造物</color>种类,<color=#97FFFF>创造物</color>种类
+Character/Ralmia_CampSelectWord,Text,,「光學機動，昇華完畢！就算是光我也能追過喔！」,"""Optical Maneuver, Ascension Complete! I can even surpass light!""",「光学機動、昇華完了！光だって追い抜いちゃうよっ！」,「光學機動，昇華完畢！就算是光我也能追過喔！」,「光學機動，昇華完畢！就算是光我也能追過喔！」
+Character/Ralmia_PassiveDes,Text,,"매 턴 시작시,[음속 돌파] 하나를 얻습니다.","At the start of each turn, gain a ""Supersonic Breakthrough"".",毎ターンの開始時、「音速の突破」を手札に加えます。,每个回合开始时，获得一张【突破音速】。,每个回合开始时，获得一张【突破音速】。
+Character/Ralmia_PassiveName,Text,,음속 돌파,Supersonic Breakthrough,音速の突破,突破音速,突破音速
+Character/Ralmia_SelectInfo,Text,,"최속의 진보는 최속의 기계를 완성시켰다.
+생명체로는 도달할 수 없는 속도. 그녀는 음속을 넘어, 빛에 닿는다.
+더 이상 누구 하나, 어느 것 하나, 따라잡을 수 없다.
+- 연구소에 남겨진 메모-",The fastest progress has completed the fastest machinery. She surpasses sound and approaches light speed—a velocity unattainable by flesh. No one or nothing can catch up to her anymore.,"最速なる進歩は、最速の機構を完成させた。
+生身には届かぬ速度。彼女は音を超え、光に届く。
+もはや誰一人、何一つ、追いつくことなど叶わない。",最快速的進步，完成了最快速的機械。她超越音速，接近光速。那是肉身所不能及的速度。已經沒有任何一人一物能夠追上她。,最快速的進步，完成了最快速的機械。她超越音速，接近光速。那是肉身所不能及的速度。已經沒有任何一人一物能夠追上她。
+Character/Ralmia_name,Text,,라라미아,Ralmia,ララミア,洛菈米娅,洛菈米娅
+Skill/S_Ralmia_0_Description,Text,,"아티팩트
+사용 시 스킬을 하나 뽑습니다.",Draw 1 skill.,"アーティファクト
+スキルを1個引く。",抽取1个技能。,抽取1个技能。
+Skill/S_Ralmia_0_Name,Text,,분석의 아티팩트,Analytical Artifact,アナライズアーティファクト,解析的创造物,解析的创造物
+Skill/S_Ralmia_10Rare_0_Description,Text,,,,,,
+Skill/S_Ralmia_10Rare_0_Name,Text,,아스트로 윙-라라미아,Astro Wing - Ralmia,アストロウィング·ララミア,宇宙之翼·洛菈米娅,宇宙之翼·洛菈米娅
+Skill/S_Ralmia_10Rare_Description,Text,,"이번 전투동안 사용한 아티팩트의 종류가 6 이상일 경우,모든 적에게 공격력x3 만큼 추가피해를 줍니다.","If the number of <color=#97FFFF>Artifact</color> types used in this battle is 6 or more, deal %a (150% of ATK) additional damage to all enemies.",「このバトル中に使用するされた自分のアーティファクト·スキルの名前」が6種類以上なら、敵全体に300%ATKのダメージを与える。,若 [本场战斗中，使用的<color=#97FFFF>创造物</color>种类] 为6种以上，额外对所有敌人造成%a(150%)点伤害。,若 [本场战斗中，使用的<color=#97FFFF>创造物</color>种类] 为6种以上，额外对所有敌人造成%a(150%)点伤害。
+Skill/S_Ralmia_10Rare_Name,Text,,아스트로 윙-라라미아,Astro Wing - Ralmia,アストロウィング·ララミア,宇宙之翼·洛菈米娅,宇宙之翼·洛菈米娅
+Skill/S_Ralmia_12_Description,Text,,"선택
+-공습의 아티팩트
+-방어의 아티팩트
+
+선택한 스킬 하나를 사용합니다.","Choose - Play 1 of ""Blitz Artifact"" or ""Protect Artifact"".","選択 - 「ブリッツアーティファクト」、
+もしくは、「プロテクトアーティファクト」。",选择 - 从[迅袭的创造物] [守御的创造物] 中选1张打出。,选择 - 从[迅袭的创造物] [守御的创造物] 中选1张打出。
+Skill/S_Ralmia_12_Name,Text,,유물 발굴,Excavate Relic,遺物の発掘,发掘遗物,发掘遗物
+Skill/S_Ralmia_13Rare_0_Description,Text,,대상의 최대 채력을 초과한 회복량은 보호막으로 전환합니다.모든 상태이상을 해제합니다.,"Restore all of the target's HP.
+Remove all debuffs.","ターゲットの回復ゲージを全て回復する。
+回復ゲージ保護効果を与える。
+全てのデバフを解除する。","恢复目标的所有体力极限。
+解除所有减益效果。","恢复目标的所有体力极限。
+解除所有减益效果。"
+Skill/S_Ralmia_13Rare_0_Name,Text,,디팬스 아티팩트,Defense Artifact,ディフェンスアーティファクト,防御的创造物,防御的创造物
+Skill/S_Ralmia_13Rare_1_Description,Text,,"대상이 다음 받는 피해를 1회 막습니다.공격력 만큼 채력을 회복시킵니다.
+
+아티팩트.","Nullify the next instance of damage.
+Restore %a (100% of ATK) HP.","「このターンの間、1回だけダメージを受けない」効果を得る。
+体力を100%ATK回復させる。","免疫下次受到的伤害。
+恢复%a(100%)点体力值。","免疫下次受到的伤害。
+恢复%a(100%)点体力值。"
+Skill/S_Ralmia_13Rare_1_Name,Text,,가드 아티팩트,Guard Artifact,ガードアーティファクト,守卫的创造物,守卫的创造物
+Skill/S_Ralmia_13Rare_2_Description,Text,,"이번 턴 동안 낸 아티팩트의 수 하나당 피해량이 &a만큼 증가합니다.
+
+현재 추가피해:&b
+
+아티팩트.","For each <color=#97FFFF>Artifact</color> skill played this turn, deal &a (25% of ATK) additional damage.
+Current additional damage: &b","このターンに、「アーティファクト·スキル」を使用した数だけ&aの追加ダメージを与える。
+追加ダメージ：&b","这个回合每打出1个<color=#97FFFF>创造物</color>技能，额外造成&a(25%)伤害。
+ 当前额外伤害：&b","这个回合每打出1个<color=#97FFFF>创造物</color>技能，额外造成&a(25%)伤害。
+ 当前额外伤害：&b"
+Skill/S_Ralmia_13Rare_2_Name,Text,,캐논 아티팩트,Cannon Artifact,キャノンアーティファクト,加农的创造物,加农的创造物
+Skill/S_Ralmia_13Rare_Description,Text,,"[가드 아티팩트] 하나와 [디팬스 아티팩트] 하나를 패에 추가합니다.
+이번 전투동안 사용한 아티팩트의 종류가 6 이상이라면 추가로 [캐논 아티팩트]를 2개를 추가합니다.","When played, if this card has ""Swiftness"", add 1 ""Guard Artifact"" and 1 ""Defense Artifact"" to your hand.
+When played, if the number of <color=#97FFFF>Artifact</color> types used in this battle is 6 or more, add 2 ""Cannon Artifact"" to your hand.","このスキルに迅速効果がある場合、「ガードアーティファクト」1枚と「ディフェンスアーティファクト」1枚を手札に加える。
+「このバトル中に使用された自分のアーティファクト·スキルの名前」が6種類以上なら、「キャノンアーティファクト」2枚を手札に加える。","打出时，如果这张卡拥有迅速，将1张[守卫的创造物]和1张[防御的创造物]加入手卡。
+打出时，若 [本场战斗中，使用的<color=#97FFFF>创造物</color>种类] 为6种以上，将2张[加农的创造物]加入手卡。","打出时，如果这张卡拥有迅速，将1张[守卫的创造物]和1张[防御的创造物]加入手卡。
+打出时，若 [本场战斗中，使用的<color=#97FFFF>创造物</color>种类] 为6种以上，将2张[加农的创造物]加入手卡。"
+Skill/S_Ralmia_13Rare_Name,Text,,제네시스 아티팩트,Genesis Artifact,ジェネシスアーティファクト,创世的创造物,创世的创造物
+Skill/S_Ralmia_1_Description,Text,,아티팩트,Fast. Nothing else special.,アーティファクト,很快。除此之外没什么特别的。,很快。除此之外没什么特别的。
+Skill/S_Ralmia_1_Name,Text,,고대의 아티팩트,Ancient Artifact,エンシェントアーティファクト,古老的创造物,古老的创造物
+Skill/S_Ralmia_2_Description,Text,,"아티팩트.
+사용 후 스킬 하나를 뽑고 공격력만큼 채력을 회복합니다.",Draw 1 skill. Heal yourself for %a (100% of ATK) HP.,"アーティファクト
+スキルを1個引く。体力を100%ATK回復させる。",抽取1个技能。治疗自己%a点体力值。,抽取1个技能。治疗自己%a点体力值。
+Skill/S_Ralmia_2_Name,Text,,신비의 아티팩트,Mystic Artifact,ミスティックアーティファクト,神秘的创造物,神秘的创造物
+Skill/S_Ralmia_3_Description,Text,,"아티팩트
+
+사용시 스킬 하나를 뽑습니다.",Draw 1 skill.,"アーティファクト
+スキルを1個引く。",抽取1个技能。,抽取1个技能。
+Skill/S_Ralmia_3_Name,Text,,빛의 아티팩트,Radiant Artifact,レディアントアーティファクト,绚烂的创造物,绚烂的创造物
+Skill/S_Ralmia_4_Description,Text,,,,,,
+Skill/S_Ralmia_4_Name,Text,,기계 해방,Mechanical Liberation,機構の解放,机械的解放,机械的解放
+Skill/S_Ralmia_5_Description,Text,,,,,,
+Skill/S_Ralmia_5_Name,Text,,가속 장치,Acceleration Device,加速装置,加速装置,加速装置
+Skill/S_Ralmia_6_Description,Text,,"손에서 아티팩트 스킬 하나를 선택하여 비용을 1 감소시키고,같은 이름의 카드 3장을 덱에 생성합니다.","Can only select <color=#97FFFF>Artifact</color> skills.
+Reduce its cost by 1 and create 3 copies in your deck and attach Exclude to them.","手札のアーティファクト·スキル1枚のコストを-1する。
+そのアーティファクト·スキルと同名のカード3枚をデッキに加える。","只能选择<color=#97FFFF>创造物</color>技能。
+使其费用减少1点，生成3张附带放逐的复制到牌库中。","只能选择<color=#97FFFF>创造物</color>技能。
+使其费用减少1点，生成3张附带放逐的复制到牌库中。"
+Skill/S_Ralmia_6_Name,Text,,생명 양산,Mass Production,生命の量産,生命量产,生命量产
+Skill/S_Ralmia_7_Description,Text,,"아티팩트를 우선으로 2개  뽑습니다.
+
+뽑은 아티팩트가 아닌 스킬 하나당 마나를 1 회복합니다.","Prioritize drawing 2 <color=#97FFFF>Artifact</color> skills.
+For each <color=#97FFFF>Artifact</color> skill not drawn, restore 1 Mana.","自分のアーティファクト·スキルを優先的に2個引く。
+アーティファクト·スキルを1枚少なくするごとに、マナを1回復し。","优先抽取2个<color=#97FFFF>创造物</color>技能。
+每少抽取1个<color=#97FFFF>创造物</color>技能，回复1点费用。","优先抽取2个<color=#97FFFF>创造物</color>技能。
+每少抽取1个<color=#97FFFF>创造物</color>技能，回复1点费用。"
+Skill/S_Ralmia_7_Name,Text,,아티팩트 콜,Artifact Call,アーティファクトコール,创造物的呼唤,创造物的呼唤
+Skill/S_Ralmia_8_Description,Text,,"2개 선택
+-분석의 아티팩트
+-고대의 아티팩트
+-신비의 아티팩트
+-빛의 아티팩트
+
+선택한 스킬의 제외를 부여한 복사본을 2장씩 덱에 생성합니다.","Choose - Select 2 from the following and create 2 copies of each in your deck and attach Banish to them:
+
+- Analytical Artifact
+- Ancient Artifact
+- Mystic Artifact
+- Radiant Artifact","·アナライズアーティファクト
+·エンシェントアーティファクト
+·ミスティックアーティファクト
+·レディアントアーティファクト
+2枚チョイスして、チョイスしたカードを2枚ずつ、デッキに加える。そのスキルに除外を与える。",选择 - 从[解析的创造物] [古老的创造物] [神秘的创造物] [绚烂的创造物] 选择2种，各生成2张附带放逐的技能到牌库中。,选择 - 从[解析的创造物] [古老的创造物] [神秘的创造物] [绚烂的创造物] 选择2种，各生成2张附带放逐的技能到牌库中。
+Skill/S_Ralmia_8_Name,Text,,자동 장치,Automation,オートメーション,自动化,自动化
+Skill/S_Ralmia_9_0_Description,Text,,"손에 있을 때,아티팩트를 사용할 때마다 비용이 1 감소합니다.
+
+선택
+-방어의 아티팩트
+-척결의 아티팩트
+-공습의 아티팩트
+
+선택한 스킬을  사용합니다.","While in hand, reduce the cost by 1 for each <color=#97FFFF>Artifact</color> skill played.
+Choose - Play 1 of ""Protect Artifact"", ""Edge Artifact"", or ""Blitz Artifact"".","自分のアーティファクト·フォロワーが使用されるたび、自分の手札のこのコストを-1する。
+---------- 
+·プロテクトアーティファクト
+·エッジアーティファクト
+·ブリッツアーティファクト
+チョイスしたスキル1個を使用された。","握在手上时，每打出1张<color=#97FFFF>创造物</color>技能，减少1点费用。
+选择 - 从[守御的创造物] [锋锐的创造物] [迅袭的创造物] 中选1张打出。","握在手上时，每打出1张<color=#97FFFF>创造物</color>技能，减少1点费用。
+选择 - 从[守御的创造物] [锋锐的创造物] [迅袭的创造物] 中选1张打出。"
+Skill/S_Ralmia_9_0_Name,Text,,패러다임 전환,Paradigm Shift,パラダイムシフト,典范转移,典范转移
+Skill/S_Ralmia_9_1_Description,Text,,앨리트 및 보스가 아닌 적을 즉시 처치합니다.,Instantly defeat non-Elite and non-BOSS units.,ターゲットがボスでないの場合、ターゲットの体力を<b>0にする</b>。,秒杀非精英和BOSS单位。,秒杀非精英和BOSS单位。
+Skill/S_Ralmia_9_1_Name,Text,,방어의 아티팩트,Protect Artifact,プロテクトアーティファクト,守御的创造物,守御的创造物
+Skill/S_Ralmia_9_2_Description,Text,,공격력의 1.5배만큼 채력을 회복합니다.,Overheal yourself for %a (150% of ATK) HP.,体力を150%ATK回復させる。,超额恢复自己%a(150%)点体力值。,超额恢复自己%a(150%)点体力值。
+Skill/S_Ralmia_9_2_Name,Text,,척결의 아티팩트,Edge Artifact,エッジアーティファクト,锋锐的创造物,锋锐的创造物
+Skill/S_Ralmia_9_3_Description,Text,,이 스킬은 두 번 사용됩니다.,This skill will cast twice.,スキルがもう一度発動する。,重复触发1次。,重复触发1次。
+Skill/S_Ralmia_9_3_Name,Text,,공습의 아티팩트,Blitz Artifact,ブリッツアーティファクト,迅袭的创造物,迅袭的创造物
+Skill/S_Ralmia_9_Description,Text,,"선택
+-분석의 아티팩트
+-고대의 아티팩트
+-빛의 아티팩트
+-패러다임 전환
+
+선택한 스킬 하나를 손에 생성합니다.","Choose - Add 1 of the following to your hand:
+
+- Analytical Artifact
+- Ancient Artifact
+- Radiant Artifact
+- Paradigm Shift","·アナライズアーティファクト
+·エンシェントアーティファクト
+·レディアントアーティファクト
+·パラダイムシフト
+チョイスしたスキル1個を手札に加える。",选择 - 从[解析的创造物] [古老的创造物] [绚烂的创造物] [典范转移] 中选1张加入手牌。,选择 - 从[解析的创造物] [古老的创造物] [绚烂的创造物] [典范转移] 中选1张加入手牌。
+Skill/S_Ralmia_9_Name,Text,,아티팩트 공명,Artifact Synchronization,アーティファクトの同調,创造物的同步,创造物的同步
+Skill/S_Ralmia_LucyD_Description,Text,,"버려진 스킬 중 2개를 선택하여 손으로 가져옵니다.
+아티팩트를 선택했다면 비용이 0이 됩니다.","Select 2 skills from the discard pile and add them to your hand.
+If the selected skill is a <color=#97FFFF>Artifact</color> skill, reduce its cost to 0.","捨てられたデッキを確認し、スキルを2個選択して手札に加える。
+このスキルはアーティファクト·スキルの場合、そのスキルのコストが0になる。","从弃牌堆中选择2个技能到手牌。
+如果选择的是<color=#97FFFF>创造物</color>技能，使其费用变为0。","从弃牌堆中选择2个技能到手牌。
+如果选择的是<color=#97FFFF>创造物</color>技能，使其费用变为0。"
+Skill/S_Ralmia_LucyD_Name,Text,,아티팩트 스캔,Artifact Scan,アーティファクトスキャン,创造物的扫描,创造物的扫描
+Skill/S_Ralmia_P_Description,Text,,스킬 하나를 선택하여 신속을 부여합니다.,"Grant the target skill ""Swiftness"".",スキルを選択してそのスキルに「迅速」を与え。,使目标技能获得迅速。,使目标技能获得迅速。
+Skill/S_Ralmia_P_Name,Text,,음속 돌파,Supersonic Breakthrough,音速の突破,突破音速,突破音速
+SkillExtended/SE_Ralmia_C_0_Des,Text,,,,,,
+SkillExtended/SE_Ralmia_C_0_EnforceString,Text,,,,,,
+SkillExtended/SE_Ralmia_C_0_Name,Text,,,This skill is treated as a <color=#97FFFF>Artifact</color>.,,这个技能被视为<color=#97FFFF>创造物</color>。,创造物
+SkillExtended/SkillEn_Ralmia_0_Des,Text,,,,,,
+SkillExtended/SkillEn_Ralmia_0_EnforceString,Text,,,,,,
+SkillExtended/SkillEn_Ralmia_0_Name,Text,,패러다임 전환,Artifact,アーティファクト,创造物,生命量产
+SkillExtended/SkillEn_Ralmia_1_Des,Text,,"패에 있는 아티팩트를 선택하고,그 스킬의 비용을 1 감소시킵니다.",Artifacts created by ancient gods.,,,远古的神创造出的神器。
+SkillExtended/SkillEn_Ralmia_1_EnforceString,Text,,,,,,<color=#97FFFF>创造物</color>
+SkillExtended/SkillEn_Ralmia_1_Name,Text,,생명 양산,Mass Production,,生命量产,
+SkillExtended/SkillEn_Ralmia_2_Name,Text,,,Artifact (Mark),,创造物（标记）,
+SkillKeyword/KeyWord_Artifact_Desc,Text,,고대의 주인이 만든 특별한 유물,Artifacts created by ancient gods.,大昔の神が作り出した神器。,远古的神创造出的神器。,
+SkillKeyword/KeyWord_Artifact_Name,Text,,아티팩트,<color=#97FFFF>Artifact</color>,アーティファクト,<color=#97FFFF>创造物</color>,
+

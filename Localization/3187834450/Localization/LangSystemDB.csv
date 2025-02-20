@@ -1,0 +1,107 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+ModTitle,Text,,,【CN EN】【Kantai Collection】Hibiki,,【CN EN】【舰队collection】响,
+ModDescription,Text,,,"New role:
+
+Hibiki
+
+Appearance: Kantai collection
+
+Added 9 new common skills + 2 rare skills + 1 Lucy skill + 1 skill enhancement
+
+New keyword ""Trust"": The skill will not be discarded after the master dies, and the master will become Hibiki if the user is not Hibiki.
+
+Passive skills will enter the repair state after death is determined, and will return to the battlefield with full health in a few rounds. 
+
+Because all skills will be lost after death, a keyword has been added. After being given, the skills can be retained after death and continued to be used after repair. When used on other friendly skills, the corresponding skills will be inherited after the friend dies.
+
+Material source: AI running, Pixiv, official game resources.
+
+If there is any infringement, please tell me to change it immediately.","新しい役割:
+
+響
+
+登場作品：艦隊これくしょん
+
+9つの新しい共通スキル + 2つのレアスキル + 1つのルーシースキル + 1つのスキル強化を追加
+
+新しいキーワード「信頼」を追加しました。スキルは所有者ーが死亡した後も破棄されず、所有者が響である場合は、所有者を響に変更します。。
+
+パッシブスキルは死亡判定後に修復状態となり、数ラウンドで体力が回復して戦場に復帰します。 
+
+死亡すると全てのスキルが失われるため、キーワードを追加 付与後は死亡後もスキルを保持し、再編後も使い続けることができる 他の味方スキルに使用した場合、該当スキルは味方以降にも引き継がれる死ぬ。
+
+素材ソース：AI走行マップ、Pixiv、公式ゲームリソース。","新增角色：
+
+响
+
+登场作品：舰队collection
+
+新增9个普通技能 + 2个稀有技能 + 1个露西技能 + 1个技能强化
+
+新增关键词 ""信赖"" ：持有者死亡后技能不会被丢弃，使用者不为响则变为响。
+
+被动技能在死亡判定后会进入修理状态，数回合会满血回归战场。（可以当场景的移动血库，不是）
+
+因为死亡后正常会丢失所有技能，加了一个关键字，赋予后可以将技能在死亡后保留，重整后继续使用，对其他友方技能使用时会在友方死亡后继承对应技能。
+
+素材来源：AI跑图，Pixiv，官方游戏资源。
+
+如有侵权立即更改。",
+Hibiki/Character/Name,Text,,소리,Hibiki,響,响,響
+Hibiki/Character/Name2,Text,,Верный,Verniy,Верный,Верный,Верный
+Hibiki/Character/PassiveName,Text,,불사조,Phoenix,不死鳥,不死鸟,不死鳥
+Hibiki/Character/Text_Battle_Idle,Text,,괜찮아요,"It's okay, even if I'm alone.",大丈夫だよ。私は一人でも,,,沒事的，即使是我一個人, 没关系，就算我一个人
+Hibiki/Character/Text_Battle_ND,Text,,정말로,This is really embarrassing...,流石にこれは、恥ずかしいな…,这还真是，令人害羞啊...,,這還真是，令人害羞啊……,
+Kiseki/Altina/Character/Text_Battle_AllyND,Text,,위급한 상황이네요!,We're in a critical situation!,危機的な状況ですね！,陷入危机了呢！,陷入危機了呢！,,
+Kiseki/Altina/Character/Text_Battle_Start,Text,,전투 시작!,Battle start!,戦闘開始！,战斗开始！,戰鬥開始！,,
+Kiseki/Altina/Character/Text_Battle_Kill,Text,,적이 휴면 상태 확인.,Enemy dormancy confirmed.,敵の休眠確認。,敌人休眠确认。,敵人休眠確認。,,
+Kiseki/Altina/Character/Text_Battle_Cri,Text,,이 일격으로 끝내겠습니다!,End it with this strike!,この一撃で終わります！,就用这一击结束！,就用這一擊結束！,,
+Kiseki/Altina/Character/Text_Battle_Healed,Text,,구해졌어요! ,We're saved!,助かったね！,得救了呢！,得救了呢！,,
+Kiseki/Altina/Character/Text_Field_Idle,Text,,명령을 내려주세요.,Please give orders.,命令を出してください。,请下达命令。,請下達命令。,,
+Kiseki/Altina/Character/Text_Field_GetItem,Text,,희귀 아이템을 얻었어요! ,Obtained a rare item!,レアアイテムを手に入れましたね！ ,获得稀有道具了呢！,獲得稀有道具了呢！,,
+Hibiki/Character/PassiveDes,Text,,"AP를 소비하고 피해를 받을 때 CP가 증가합니다(연결 상태 지원도 얻을 수 있음). CP가 100 이상이면 S 기술을 사용할 수 있으며, 200 CP일 때 피해가 1.5배로 증가합니다.","The phoenix on the battlefield enters a 3-round repair state before death. After repair, it is remodeled into Verniy, increasing defense by 20%, max HP by 20%, and night battle CI probability by 20%. In Verniy state, when other allies die, discover one exclusive rare skill and two common skills.",APを消費し、ダメージを受けるとCPが増加します（接続状態サポートも得られます）。CPが100以上の場合、Sスキルを使用でき、200 CPのときにダメージが1.5倍に増加します。,战场上的不死鸟在死亡前会进入3回合的修理状态，修理完成后改装为Верный，增加20%防御力，20%最大血量，夜战20%CI概率。Верный状态下，其他友方死亡时，发现一张专属稀有技能和两张普通技能。,消耗AP和承受伤害时增加CP（也可以从连接支持中获得），当CP大于100时，您可以使用S技能，而在200 CP时，伤害增加到1.5倍。,,
+Hibiki/Skill/B_Hibiki_Passive_Desc,Text,,,Repair countdown: &a,,修理倒计时：&a,,,
+Hibiki/Character/SelectInfo,Text,,,"A calm and composed shipgirl. Compared to her three sisters in the Sixth Destroyer Division, Hibiki speaks less. However, she also has a passionate side in battle, charging forward with a very Russian-style ""Ura!"" Hibiki seems to dislike grooming herself, as her hair in the artwork looks slightly messy. Throughout her life, she fought tirelessly, suffering severe damage multiple times and having to return to port for repairs, but she was never sunk.",,冷静沉稳的舰娘，相对六驱其他三位姐妹，响显得话比较少。但是，她在战斗中也有热血的一面，会非常有毛子特色地大喊着乌拉冲上去。响似乎不喜欢打理自己，立绘的头发显得稍微有点乱。她的一生中不断地奋战，多次遭受严重损伤，不得不回港修理，但却从未被击沉过。,,,
+Hibiki/Character/SK_Verniy_Name,Text,,,Trust,,信赖,,,
+Hibiki/Character/SK_Verniy_Desc,Text,,,"Skills are not discarded after the holder dies. If the user is not Hibiki, the user becomes Hibiki.",,持有者死亡后技能不会被丢弃，使用者不为响则变为响。,,,
+Hibiki/Skill/S_Hibiki_0_Name,Text,,호위,Escort,護衛,护航,護航,,
+Hibiki/Skill/S_Hibiki_0_Desc,Text,,,"Escorts a target character, with a 33% chance to shoot down pursuit damage skills targeting the escorted target. When the escorted target attacks, there is a 33% chance to perform an additional attack. Generates a ""Protect"" card.",,护航目标角色，有33%概率击落单独指向护航目标的追击伤害技能。护航目标攻击时33%概率追加攻击。生成一张保护。,精密分析敵人的弱點，降低其攻擊力和閃避，並進入失衡狀態。,,
+Hibiki/Skill/B_Hibiki_0_Desc,Text,,,"&a% chance to shoot down pursuit damage skills targeting the escorted target. When the escorted target attacks, there is a &b% chance to perform an additional attack.", there is a &b% chance of additional attacks.,&a%概率击落单独指向目标的追击伤害技能。援护目标攻击时&b%概率追加攻击。,&a%概率击落单独指向目标的追击伤害技能。援护目标攻击时&b%概率追加攻击。,,
+Hibiki/Skill/S_Hibiki_0_1_Name,Text,,보호하다,Protect,保護,保护,保護,,
+Hibiki/Skill/S_Hibiki_0_1_Desc,Text,,,Protects the target and grants the escorted target a barrier of &a.,,保护目标，并使护航目标获得&a护盾。,,,
+Hibiki/Skill/S_Hibiki_1_Name,Text,,정찰,Reconnaissance,偵察,侦察,偵察,,
+Hibiki/Skill/S_Hibiki_1_Desc,Text,,,"Gathers enemy information, increases the target's critical hit probability, and reduces evasion rate. The effect is doubled for newly appeared targets.",, 侦察敌方信息，增加目标被暴击概率并减少闪避率，对于新出现的目标效果翻倍。 ,以籠罩戰場的高精度＆高密度灼熱雷射驅逐目標（打破20），對所選目標兩邊的角色造成 &a 傷害（打破10）。,,
+Hibiki/Skill/B_Hibiki_1_Desc,Text,,정찰,Reduces evasion rate and increases critical hit probability for newly appeared enemies.,,新敌人出现时减少其回避率并增加被暴击率,,,
+Hibiki/Skill/S_Hibiki_2_Name,Text,,포격,Artillery Strike,砲撃,炮击,砲擊,,
+Hibiki/Skill/S_Hibiki_2_Desc,Text,,포병 공격은 피해를 입히고 정찰된 목표에 확실히 치명타를 입힐 것입니다.,Deals damage with artillery. Guaranteed critical hit on reconnoitered targets.,砲撃はダメージを与え、偵察対象に確実に致命傷を与えます。,炮击造成伤害，对已侦察目标必定暴击。,炮击造成伤害，对已侦查目标必定暴击。,,
+Hibiki/Skill/S_Hibiki_3_Name,Text,,폭풍,Torpedo Strike,雷撃,雷击,雷擊,,
+Hibiki/Skill/S_Hibiki_3_Desc,Text,,"어뢰를 발사하여 목표물을 공격하고, 명중시킨 후 방어력을 감소시킵니다.","Launches torpedoes to attack the target, reducing defense upon hit.",魚雷を発射して目標を攻撃し、命中後の防御力を低下させます。,发射鱼雷攻击目标，命中后减少防御力。,发射鱼雷攻击目标，命中后减少防御力。,,
+Hibiki/Skill/B_Hibiki_3_Name,Text,,폭풍,Torpedo Strike,雷撃,雷击,雷擊,,
+Hibiki/Skill/S_Hibiki_4_Name,Text,,지휘,Command,指揮 ,指挥,指揮,,
+Hibiki/Skill/S_Hibiki_4_Desc,Text,,,Choose a formation.,,选择阵型。,展開黑色屏障，添加阻擋（殲滅狀態下為反射）2次傷害的護盾，並增加被攻擊的機率；同時對戰術連結目標也施加一個效果。,,
+Hibiki/Skill/S_Hibiki_4_P1_Name,Text,,,Single Line Formation,,单纵阵,,,
+Hibiki/Skill/S_Hibiki_4_P1_Desc,Text,,,Increases attack and reduces defense. Also increases artillery coefficient by 20% and torpedo coefficient by 40%.,,增加攻击减少防御。同时增加炮击系数20%，增加雷击系数40%。,,,
+Hibiki/Skill/S_Hibiki_4_P2_Name,Text,,,Circular Formation,,轮型阵,,,
+Hibiki/Skill/S_Hibiki_4_P2_Desc,Text,,,Increases the probability of escort pursuit. Escort interception can shoot down non-pursuit skills.,,增加护航追击概率。护航击落可以击落非追击技能。,,,
+Hibiki/Skill/B_Hibiki_4_P2_Desc,Text,,,Increases escort pursuit probability to 50%. Escort interception can shoot down non-pursuit skills.,,护航追击概率提升至50%，护航击落可以击落非追击技能。,,,
+Hibiki/Skill/S_Hibiki_4_P3_Name,Text,,,Echelon Formation,,单横阵,,,
+Hibiki/Skill/S_Hibiki_4_P3_Desc,Text,,,Increases evasion rate and reduces attack.,,增加回避率减少攻击。,,,
+Hibiki/Skill/S_Hibiki_5_Name,Text,,Ура!,Ura!,ｳﾗｰ!,乌！拉！,烏！拉！,,
+Hibiki/Skill/S_Hibiki_5_Desc,Text,,,"Charges toward the enemy, increasing the chance of being attacked, critical hit rate, and defense. Generates a ""Collision"" card.",,冲向敌方身边，增加被攻击概率，被暴击率，防御力，生成一张撞击。,战斗开始时置于牌堆顶部。光剑切换为巨剑模式，更换S技能并修改部分技能效果。,,
+Hibiki/Skill/B_Hibiki_5_Name,Text,,,Close Combat,,近距离作战,,,
+Hibiki/Skill/S_Hibiki_5_1_Name,Text,,Ура!,Collision,撞擊,撞击,撞擊,,
+Hibiki/Skill/S_Hibiki_5_1_Desc,Text,,전투가 시작될 때 덱 맨 위에 놓입니다. 라이트 소드가 거대한 소드 모드로 전환되며 S 스킬을 교체하고 일부 스킬 효과를 수정합니다.,Causes 25% of HP damage to self and an additional &a damage.,,对自身造成25%血量的伤害，额外造成&a伤害。,战斗开始时置于牌堆顶部。光剑切换为巨剑模式，更换S技能并修改部分技能效果。,,
+Hibiki/Skill/S_Hibiki_6_Name,Text,,야전,Night Battle,夜戦,夜战,夜戰,,
+Hibiki/Skill/S_Hibiki_6_Desc,Text,,,Performs an additional night battle attack at the end of the turn (coefficient equal to artillery). 20% chance to trigger a CI attack (coefficient increases torpedo coefficient).,,回合结束后追加一次夜战攻击(系数等同同于炮击);有20%概率触发CI攻击（系数增加雷击系数）。,與光劍合為一體，降下大規模轟炸與強烈斬擊之雨。（延遲1）,,
+Hibiki/Skill/B_Hibiki_6_Desc,Text,,,Performs an additional night battle attack at the end of the turn (coefficient equal to artillery). &a% chance to trigger a CI attack (coefficient increases torpedo coefficient).,,回合结束后追加一次夜战攻击(系数等同同于炮击);有&a%概率触发CI攻击（系数增加雷击系数）。,,,
+Hibiki/Skill/S_Hibiki_7_Desc,Text,,,"Selects a skill to gain ""Trust"" and draws a card.",,选择一个技能获得“信赖”，抽取一张牌。,,,
+Hibiki/Skill/S_Hibiki_8_Name,Text,,,Fireworks,,烟花,,,
+Hibiki/Skill/S_Hibiki_8_Desc,Text,,,"Can only be used in close combat and not in critical condition. Fires the main gun, dealing damage equal to 2 times the artillery coefficient to enemies in range, with additional damage equal to current HP (&a). Enters critical condition after use.",,"近距离作战状态下且非濒死状态才能使用。发射主炮，对范围敌方造成炮击系数2倍的伤害，附带当前血量（&a）的伤害,使用后进入濒死状态。",,,
+Hibiki/Skill/S_Hibiki_Rare_1_Name,Text,,긴급 수리 여신,Emergency Repair Goddess,緊急修理女神,应急修理女神,應急修理女神,,
+Hibiki/Skill/S_Hibiki_Rare_1_Desc,Text,,,Quickly completes repairs (can only be used in repair state).,,快速完成修理（修理状态才可以使用）。,以變化為巨劍的光劍鎮壓戰場，最後向敵陣掷出加以歼灭。（时空延迟1）,,
+Hibiki/Skill/S_Hibiki_Rare_2_Name,Text,,함선 장비 강화,Ship Equipment Enhancement,艦装強化,舰装强化,艦裝強化,,
+Hibiki/Skill/S_Hibiki_Rare_2_Desc,Text,,"빛 검을 힘껏 휘두르며 대상과 양옆의 적에게 피해를 주고 파괴 (50) 하며, 또한 불안정한 대상에게는 2배의 파괴를 입힙니다.","Increases artillery coefficient by 50%, torpedo coefficient by 100%, and night battle CI probability by 30%.",,"炮击系数增加50%,雷击系数增加100%，夜战CI概率提升30%。",用力挥砸光劍，对目标和两边敌人造成伤害和打破（50），且对于失衡目标造成2倍打破。,,
+Hibiki/Skill/B_Hibiki_Rare_2_Desc,Text,,,"Increases artillery coefficient by 50%, torpedo coefficient by 100%, and night battle CI probability by 30%.",,"炮击系数增加50%,雷击系数增加100%，夜战CI概率提升30%。",,,
+Hibiki/Skill/S_Hibiki_LucyD_Desc,Text,,,"Draws a desired skill from the deck and attaches ""Trust"" to it.",,从牌组中抽取一个想要的技能，使其附带“信赖”。,,,
+,,,,,,,,,
+

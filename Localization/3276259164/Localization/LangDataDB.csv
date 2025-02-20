@@ -1,0 +1,297 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_FlandreScarlet_0_Description,Text,,,,,,
+Buff/B_FlandreScarlet_0_Name,Text,,취약함,Fragile,脆い,易损,
+Buff/B_FlandreScarlet_11Rare_Description,Text,,"자신의 스킬은 [금지된 욕망] 및 [금지된 광기]의 추가 효과를 발동할 수 있습니다. 피해를 입을 시, 피해량이 &a(최대 체력의 50%)보다 크면 &a 피해만 입습니다.","All skills can trigger the additional effects of <color=#B22222>Revenge</color> and <color=#9400D3>Frenzy</color>. 
+When taking damage, if the damage exceeds &a (33% of max HP), reduce it to &a.",自身のスキルは[禁じられた欲望]と[禁じられた狂気]の追加効果を発動できる。ダメージを受けた時、ダメージが&a(最大体力の50%)を超えると、&aに減少させる。,"所有技能都能触发<color=#B22222>复仇</color>和<color=#9400D3>狂乱</color>的额外效果。
+受到伤害时，如果伤害超过&a(自身最大体力值的33%)，降低至&a。",
+Buff/B_FlandreScarlet_11Rare_Name,Text,,금지된 고독,Forbidden Loneliness,禁じられた孤独,禁忌孤独,
+Buff/B_FlandreScarlet_12Rare_Description,Text,,스킬에 의한 능력치 강화를 얻을 수 없게 되었습니다.,Cannot gain stat bonuses from skills anymore.,スキルによるステータス強化を得られなくなった。,无法再从技能中获得属性加成。,
+Buff/B_FlandreScarlet_12Rare_Name,Text,,만족,Satiety,満足,饱足,
+Buff/B_FlandreScarlet_2_Description,Text,,"&a한테 피해를 입을 때마다, &a에게 1 초과 치유를 시전합니다.",&a grants 1 stack of Overheal each time they deal damage to them.,&aからダメージを受けるたびに、&aを1オーバーヒールする。,&a每次对其造成伤害时，超额治疗&a3点体力。,
+Buff/B_FlandreScarlet_2_Name,Text,,크랜베리 트랩,Cranberry Trap,クランベリートラップ,红莓陷阱,
+Buff/B_FlandreScarlet_6_Description,Text,,"턴 종료 시, 또는 체력이 0 이하일 때, 즉시 체력을 &a(최대 체력의 50%) 회복합니다. 발동 후 이 효과는 제거됩니다.","At turn end or when HP drops to 0 or below, immediately heal &a (50% of max HP). Removed after activation.",ターン終了時、または体力が0以下の時、即座に体力を&a(最大体力の50%)回復する。効果発動後除去される。,回合结束时，或者体力不高于0时，立即恢复&a(50%最大体力值)体力。那之后解除该增益。,
+Buff/B_FlandreScarlet_6_Name,Text,,금지된 시각,Forbidden Hour,禁じられた時刻,禁忌时刻,
+Buff/B_FlandreScarlet_7_0_Name,Text,,금지된 장난,Forbidden Game,禁じられた遊び,禁忌游戏,
+Buff/B_FlandreScarlet_7_Description,Text,,자신의 스킬은 [금지된 욕망]의 추가 효과를 발동시킬 수 있습니다.,All skills can trigger the additional effects of [Forbidden Desire].,自身のスキルは[禁じられた欲望]の追加効果を発動できる。,所有技能都能触发[禁忌欲望]的额外效果。,
+Buff/B_FlandreScarlet_7_Name,Text,,금지된 시간,Forbidden Moment,禁じられた時間,禁忌时机,
+Buff/B_FlandreScarlet_8_0_Name,Text,,손에 있는 스킬 사용 불가,Cannot Use Skills in Hand,手札のスキル使用不可,无法使用手中技能,
+Buff/B_FlandreScarlet_8_Name,Text,,카고메카고메,Caged Bird,カゴメカゴメ,笼中鸟,
+Buff/B_FlandreScarlet_LucyD_Description,Text,,"피해를 입으면 입은 피해의 25% 만큼 체력을 회복하고, 스킬을 1장 뽑습니다. (최대 4회)","When taking damage, heal 25% of damage taken and draw 1 skill per damage instance (max 4 triggers).",ダメージを受けると受けたダメージの25%で体力を回復し、ダメージを受ける度にスキルを1枚引く(最大4回発動)。,受到伤害时恢复25%伤害量的体力，每次受到伤害抽取1个技能（最多触发4次）。,
+Buff/B_FlandreScarlet_LucyD_Name,Text,,포비든 후르츠,Forbidden Fruit,フォービドゥンフルーツ,禁忌果实,
+Buff/B_FlandreScarlet_P_K_Description,Text,,플랑드르가 자신 또는 아군으로부터 일정 횟수 피해를 입으면 일부 스킬이 추가 효과를 얻습니다.,"When Flandre takes cumulative damage from herself or allies a set number of times, some skills gain additional effects. 
+Current triggers: &a",フランドールが自身または味方から一定回数ダメージを受けると、一部のスキルは追加効果を得る。,"芙兰朵露受到来自自己或队友的伤害累计一定次数后，部分技能会获得额外效果。
+当前触发次数为：&a",
+Buff/B_FlandreScarlet_P_K_Name,Text,,금지된 광기,Forbidden Frenzy,禁じられた狂気,禁忌狂乱,
+Buff/B_FlandreScarlet_P_Name,Text,,U.N. 오웬은 그녀인가?,U.N. Owen wa Kanojo nano ka?,U.N.オーエンは彼女なのか?,U.N.OWEN就是她吗？,
+Buff/B_FlandreScarlet_P_V_Description,Text,,플랑드르의 체력이 최대 체력의 절반 이하일 때 일부 스킬이 추가 효과를 얻습니다.,"When Flandre's HP is at or below 50% of max HP, some skills gain additional effects.",フランドールの体力が最大体力の半分以下の場合、一部のスキルは追加効果を得る。,芙兰朵露在体力值低于最大体力值的一半时，部分技能会获得额外效果。,
+Buff/B_FlandreScarlet_P_V_Name,Text,,금지된 욕망,Forbidden Desire,禁じられた欲望,禁忌欲望,
+Character/FlandreScarlet_CampSelectWord,Text,,"나도 인간이란 걸 보고 싶어져서, 밖으로 나오기로 했어~","I wanted to see what humans looked like too, so I tried going outside~",私も人間と言うものが見たくなって、外に出ようとしたの,我也想到外面的世界去，看看所谓的人长得什么样子~,
+Character/FlandreScarlet_PassiveDes,Text,,"플랑드르는 모든 것을 파괴하는 능력을 가집니다.
+레벨이 1 오를 때마다, 크리티컬 피해량이 10% 증가합니다.
+
+금지된 욕망: 플랑드르의 체력이 최대 체력의 절반 이하일 때, 일부 스킬이 추가 효과를 얻습니다.
+금지된 광기: 플랑드르가 자신 또는 아군으로부터 일정 횟수 피해를 입으면, 일부 스킬이 추가 효과를 얻습니다.","<b>Ability to Destroy Anything</b> - Gains 10% Critical Damage per level. 
+
+<color=#B22222>Revenge</color> - Skills gain additional effects when HP ≤50%. 
+
+<color=#9400D3>Frenzy</color> - Skills gain effects after taking cumulative damage from allies/self.","フランドールはありとあらゆるものを破壊する程度の能力を持つ。
+レベルが1上昇する度に、クリティカルダメージが10%増加する。 
+禁じられた欲望 - フランドールの体力が最大体力の半分以下の場合、一部のスキルは追加効果を得る。 
+禁じられた狂気 – フランドールが自身または味方から一定回数ダメージを受けると、一部のスキルは追加効果を得る。","<b>将一切悉数破坏程度的能力</b> - 每1级额外增加自己10%暴击伤害。
+
+<b><color=#B22222>复仇</color></b> - 在体力值低于最大体力值的一半时，部分技能会获得额外效果。
+
+<b><color=#9400D3>狂乱</color></b> - 受到来自自己或队友的伤害累计一定次数后，部分技能会获得额外效果。",
+Character/FlandreScarlet_PassiveName,Text,,U.N. 오웬은 그녀인가?,U.N. Owen wa Kanojo nano ka?,U.N.オーエンは彼女なのか?,U.N.OWEN就是她吗？,
+Character/FlandreScarlet_SelectInfo,Text,,"플랑드르는 굉장히 강한 피해를 입힐 수 있는 캐릭터입니다.
+체력이 낮을 때 더욱 강력한 공격 능력을 얻을 수 있고, 자신에게 피해를 입히는 것으로 스킬의 추가 효과를 발동시킬 수 있습니다.
+그녀의 강력한 파괴력을 제어하려면, 그녀의 체력을 정확히 제어할 필요가 있습니다.","Flandre is an extremely offensive damage dealer. 
+
+At low HP, she gains stronger offensive capabilities. Self-damage unlocks new skill effects. 
+
+Mastering her requires precise HP management.","フランドールは非常に強力なダメージを与えるキャラクターです。 
+体力が低い時、より強力な攻撃能力を得ることができ、自分にダメージを与えることで、スキルの追加効果を発動することもできます。
+ 彼女の強力な破壊力を制御するには、彼女の体力を正確に制御する必要があります。","芙兰朵露是极具进攻性的输出型角色。
+
+她在低体力值的情况下，能够获得更加强大的输出能力；而通过频繁地对自己造成伤害后，同样能够解锁新的招式效果。
+
+想要掌控她的强大破坏力，需要精准地控制她的体力值才行。",
+Character/FlandreScarlet_Text_Battle_Cri_0,Text,,뭐든지 부술 수 있을 거 같아!,Found it——!,なんでも壊せそう！,找——到——啦——,
+Character/FlandreScarlet_Text_Battle_Cri_1,Text,,네 패배야!,You lose!,あなたの負けなのよ!,了结你！,
+Character/FlandreScarlet_Text_Battle_Idle_0,Text,,같이 놀아줄 거야?,Will you play with me?,一緒に遊んでくれるのかしら?,能陪我一起玩吗？,
+Character/FlandreScarlet_Text_Battle_Kill_0,Text,,네가 컨티뉴를 못 하는 거겠지!,Naughty children don't need to go home~,あなたが、コンティニュー出来ないのさ!,坏孩子不用回家也可以哦~,
+Character/FlandreScarlet_Text_Battle_ND_0,Text,,공격이 먹히질 않아...,Attacks aren't working...,攻撃が効かない…,攻击好像不起效……,
+Character/FlandreScarlet_Text_Battle_Start_0,Text,,"너, 뭔가 약해 보이네.",You seem kinda weak.,あなた、なんだか弱そうね,什么嘛，这些家伙看起来挺弱的。,
+Character/FlandreScarlet_Text_Field_Idle_0,Text,,"지루해, 지루하다고오... 뭔가 부숴버릴 만한 건 없으려나?","So—— bored, so bored. Isn't there anything to destroy?",ぼーっとしているなんて退屈よ。,好——无聊，好无聊。没有什么可以破坏的吗？,
+Character/FlandreScarlet_Text_MasterTarget,Text,,,"No, Flandre doesn't want to die——",,不要，芙兰不想死——,
+Character/FlandreScarlet_Text_Witch_0,Text,,,Flandre will destroy you all!,,芙兰要把你们全部破坏掉！,
+Character/FlandreScarlet_name,Text,,플랑드르 스칼렛,Flandre Scarlet,フランドール·スカーレット,芙兰朵露,
+Character_Skin/FlandreScarletGod_SkinDesc,Text,,,"A voice whispers—the impulse to unleash destruction. 
+She crushes all obstacles like a ""God of Ruin"". 
+The scarlet sky drowns Gensokyo in despair.",,"仿佛听到了声音。那是释放内心冲动的……耳语。
+毫无顾忌地按照本能前行，心怀兴奋，她摧毁一切阻碍之物。
+她的身影正如“破坏神”一般。幻想乡的天空被绝望的红色染成一片。",
+Character_Skin/FlandreScarletGod_SkinName,Text,,,Young God of Destruction,,幼小的破坏神,
+Character_Skin/FlandreScarletSpring_SkinDesc,Text,,,"A luxurious New Year kimono in red and white. 
+Combines elegance with childish charm. 
+Fluttering sleeves rekindle festive spirit. 
+Amidst the revelry, she eagerly awaits reunion.",,"庆祝新年的到来，以红白为主色调的华丽晴着。
+优雅与幼态并存，突出显示了芙兰朵露的可爱。
+长袖的振袖在轻轻摇摆间，复苏了新年游戏的热情。
+尽管一片喧闹，她心中仍感到兴奋，渴望与大家再次相聚。",
+Character_Skin/FlandreScarletSpring_SkinName,Text,,,New Year's Demon,,迎春而来的恶魔,
+SimpleCampDialogue/CampDial_FlandreScarlet_Azar_Dialogues_0,Text,,,[B]...The power to destroy everything? If we could harness her...,,[B]……破坏一切的力量？如果好好利用她的话……,
+SimpleCampDialogue/CampDial_FlandreScarlet_Charon_Dialogues_0,Text,,,[A]Spooky lady! Do you also use forbidden power?,,[A]很暗黑的小姐姐！你也是用禁忌的力量吗？,
+SimpleCampDialogue/CampDial_FlandreScarlet_Charon_Dialogues_1,Text,,,[B]Exactly! The forbidden combo of dark priests and vampires!,,[B]没错！这就是我们暗黑祭祀与吸血鬼的禁忌组合技呀！,
+SimpleCampDialogue/CampDial_FlandreScarlet_Eirin_Dialogues_0,Text,,,"[A]Doctor lady, Flandre doesn't want shots...",,[A]医生姐姐，芙兰不想打针……,
+SimpleCampDialogue/CampDial_FlandreScarlet_Eirin_Dialogues_1,Text,,,"[B]The ""God of Destruction"" vampire fears injections?",,[B]号称破坏神的吸血鬼也会害怕打针吗？,
+SimpleCampDialogue/CampDial_FlandreScarlet_Hein_Dialogues_0,Text,,,[B]Let's charge in and slash everyone!,,[B]跟我一起冲进去砍人吧！,
+SimpleCampDialogue/CampDial_FlandreScarlet_Hein_Dialogues_1,Text,,,[A]Yay! Let's go with the sword big brother!,,[A]好耶！跟耍大刀的大哥哥一起冲！,
+SimpleCampDialogue/CampDial_FlandreScarlet_Huz_Dialogues_0,Text,,,[A]Whip lady! Please whip Flandre more!,,[A]用鞭子的小姐姐！请多多鞭打芙兰哦！,
+SimpleCampDialogue/CampDial_FlandreScarlet_Huz_Dialogues_1,Text,,,"[B]...Ahaha, first time someone's asked that.",,[B]……啊、啊哈哈，这还是第一次有人这么对我说。,
+SimpleCampDialogue/CampDial_FlandreScarlet_Ilya_Dialogues_0,Text,,,[B]Beautiful! Powerful! Immortal!,,[B]美丽！强大！不老不死！,
+SimpleCampDialogue/CampDial_FlandreScarlet_Ilya_Dialogues_1,Text,,,[B]Turn me into a vampire too! Please!,,[B]能把我也变成吸血鬼吗？求你了！,
+SimpleCampDialogue/CampDial_FlandreScarlet_Ilya_Dialogues_2,Text,,,[A]I'll break you first——then make you a vampire!,,[A]会把小哥哥先喀嚓喀嚓地破坏掉！再变成吸血鬼哦？,
+SimpleCampDialogue/CampDial_FlandreScarlet_Ilya_Dialogues_3,Text,,,[B]Ah...never mind then...,,[B]啊、啊……那就算了……,
+SimpleCampDialogue/CampDial_FlandreScarlet_Iron_Dialogues_0,Text,,,[A]Armor big brother! Your shield hits harder than Flandre!,,[A]穿铠甲的大哥哥！盾牌的攻击力比芙兰还厉害呢！,
+SimpleCampDialogue/CampDial_FlandreScarlet_Iron_Dialogues_1,Text,,,[B]Best defense is a good offense.,,[B]最好的防御就是进攻嘛。,
+SimpleCampDialogue/CampDial_FlandreScarlet_IzayoiSakuya_Dialogues_0,Text,,,[A]Sakuya~ Listen to me~,,[A]咲夜~咲夜听我说~,
+SimpleCampDialogue/CampDial_FlandreScarlet_IzayoiSakuya_Dialogues_1,Text,,,[B]Hmm.,,[B]嗯。,
+SimpleCampDialogue/CampDial_FlandreScarlet_IzayoiSakuya_Dialogues_2,Text,,,[A]Thanks for cooking yummy food every day!,,[A]谢谢咲夜每天给我做好吃的！,
+SimpleCampDialogue/CampDial_FlandreScarlet_IzayoiSakuya_Dialogues_3,Text,,,[B]Hmm...Huh?!?!,,[B]嗯……嗯？嗯？！？！,
+SimpleCampDialogue/CampDial_FlandreScarlet_Johan_Dialogues_0,Text,,,[A]Bow big brother! Have an apple!,,[A]用弓箭的大哥哥！分你个苹果吃！,
+SimpleCampDialogue/CampDial_FlandreScarlet_Johan_Dialogues_1,Text,,,[B]Eh? Thanks... You're the first not to mention Alice.,,[B]诶、啊？谢谢。……你是第一个不跟我说爱丽丝话题的人。,
+SimpleCampDialogue/CampDial_FlandreScarlet_Johan_Dialogues_2,Text,,,[A]Alice? Flandre doesn't know~,,[A]爱丽丝？芙兰不知道~,
+SimpleCampDialogue/CampDial_FlandreScarlet_Leryn_Dialogues_0,Text,,,[B]A living vampire? Must research thoroughly.,,[B]活着的吸血鬼？真想好好研究一番。,
+SimpleCampDialogue/CampDial_FlandreScarlet_Leryn_Dialogues_1,Text,,,[A]Glasses lady! How will you study Flandre?,,[A]戴眼镜的大姐姐！想要怎么研究芙兰呀？,
+SimpleCampDialogue/CampDial_FlandreScarlet_Miss_Dialogues_0,Text,,,[A]Chainsaw lady! Thanks for protecting me!,,[A]用链锯的小姐姐！谢谢你保护我！,
+SimpleCampDialogue/CampDial_FlandreScarlet_Miss_Dialogues_1,Text,,,[B]Ahaha! Now you shred the enemies!,,[B]啊哈哈！那就拜托你喀嚓喀嚓地干掉敌人咯！,
+SimpleCampDialogue/CampDial_FlandreScarlet_Mokou_Dialogues_0,Text,,,[A]Ah! The unkillable angry lady!,,[A]啊！是死不掉的发火大姐姐！,
+SimpleCampDialogue/CampDial_FlandreScarlet_Mokou_Dialogues_1,Text,,,[B]Who's angry?!,,[B]谁是发火大姐姐啊。,
+SimpleCampDialogue/CampDial_FlandreScarlet_Mokou_Dialogues_2,Text,,,[A]Play with Flandre today?,,[A]今天也要陪芙兰玩吗？,
+SimpleCampDialogue/CampDial_FlandreScarlet_Mokou_Dialogues_3,Text,,,[B]Uh...just remembered something urgent...,,[B]嗯……突然想起来稍微有点事……,
+SimpleCampDialogue/CampDial_FlandreScarlet_Momori_Dialogues_0,Text,,,[B]Hey! Join the glorious Momori Club☆?,,[B]嘿！要加入伟大的桃梨会吗☆？,
+SimpleCampDialogue/CampDial_FlandreScarlet_Momori_Dialogues_1,Text,,,[B]Join now for VIP membership☆!,,[B]现在加入的话，就是桃梨会的高级会员哦☆！,
+SimpleCampDialogue/CampDial_FlandreScarlet_Momori_Dialogues_2,Text,,,[A]Yay! Flandre's a VIP☆!,,[A]哦——！好呀！芙兰是高级会员——☆！,
+SimpleCampDialogue/CampDial_FlandreScarlet_Narhan_Dialogues_0,Text,,,[A]Mind-reading big brother! Guess what I'm thinking!,,[A]会读心的大哥哥！你能猜猜芙兰现在在想什么吗？,
+SimpleCampDialogue/CampDial_FlandreScarlet_Narhan_Dialogues_1,Text,,,[B]I don't use dangerous magic on kids.,,[B]我不会对小孩子用这么危险的魔法哦。,
+SimpleCampDialogue/CampDial_FlandreScarlet_Narhan_Dialogues_2,Text,,,[A]Aww~ How boring!,,[A]诶~真遗憾！,
+SimpleCampDialogue/CampDial_FlandreScarlet_Narhan_Dialogues_3,Text,,,[B](...Can't read her at all...),,[B]（……完全看不清她在想什么，到底……）,
+SimpleCampDialogue/CampDial_FlandreScarlet_Patchouli_Dialogues_0,Text,,,[A]Patchouli! Teach Flandre magic!,,[A]帕秋莉大人！芙兰也想学魔法！,
+SimpleCampDialogue/CampDial_FlandreScarlet_Patchouli_Dialogues_1,Text,,,[B]First memorize these books.,,[B]啊。是吗。那先把这几摞书都背下来吧。,
+SimpleCampDialogue/CampDial_FlandreScarlet_Patchouli_Dialogues_2,Text,,,[A]...Flandre hates magic books...,,[A]……芙兰不喜欢看魔法书……,
+SimpleCampDialogue/CampDial_FlandreScarlet_Priest_Dialogues_0,Text,,,[A]Bat lady! Your bat looks super strong!,,[A]棒球棍的大姐姐！你那根棒球棍看起来好厉害哦！,
+SimpleCampDialogue/CampDial_FlandreScarlet_Priest_Dialogues_1,Text,,,[A]Bam! You knock enemies flying!,,[A]嘭的一下就把敌人揍飞了！,
+SimpleCampDialogue/CampDial_FlandreScarlet_Priest_Dialogues_2,Text,,,[B]That's not...sigh...,,[B]那不是……唉……,
+SimpleCampDialogue/CampDial_FlandreScarlet_Reisen_Dialogues_0,Text,,,[A]Hello Miss Bunny!,,[A]啊，兔子小姐，你好啊。,
+SimpleCampDialogue/CampDial_FlandreScarlet_Reisen_Dialogues_1,Text,,,[B]Why does nobody say my name right...,,[B]呜呜呜……就没有人能叫对我的名字吗……,
+SimpleCampDialogue/CampDial_FlandreScarlet_Reisen_Dialogues_2,Text,,,[A]Miss Bunny's name is too long.,,[A]兔子小姐的名字太长啦。,
+SimpleCampDialogue/CampDial_FlandreScarlet_RemiliaScarlet_Dialogues_0,Text,,,"[A]Sis, can we grill that hedgehog?",,[A]姐姐姐姐，那里的刺猬可以拿来烧烤吗？,
+SimpleCampDialogue/CampDial_FlandreScarlet_RemiliaScarlet_Dialogues_1,Text,,,"[B]No, hedgehogs carry viruses.",,[B]不行，刺猬浑身上下都是病毒哦。,
+SimpleCampDialogue/CampDial_FlandreScarlet_RemiliaScarlet_Dialogues_2,Text,,,[A]What's a virus? Tasty?,,[A]病毒是什么？可以吃吗？,
+SimpleCampDialogue/CampDial_FlandreScarlet_RemiliaScarlet_Dialogues_3,Text,,,[B]...Patchy...Where's Patchy...?,,[B]……帕琪……帕琪在哪里……？,
+SimpleCampDialogue/CampDial_FlandreScarlet_SatsukiRin_Dialogues_0,Text,,,"[A]Who are you, big sister?",,[A]大姐姐，你是谁呀？,
+SimpleCampDialogue/CampDial_FlandreScarlet_SatsukiRin_Dialogues_1,Text,,,[B]Me? Just an ordinary erhu player.,,[B]我呀？我只是个普通的二胡乐师而已哦。,
+SimpleCampDialogue/CampDial_FlandreScarlet_SatsukiRin_Dialogues_2,Text,,,"[A]Can't see...your ""points"".",,[A]看不见呢……大姐姐的「点」。,
+SimpleCampDialogue/CampDial_FlandreScarlet_SatsukiRin_Dialogues_3,Text,,,"[B]Well...they never ""existed"".",,[B]哎呀……毕竟，根本「不存在过」嘛。,
+SimpleCampDialogue/CampDial_FlandreScarlet_SilverStein_Dialogues_0,Text,,,[A]Shotgun uncle! Do you eat well?,,[A]用猎枪的叔叔！有好好吃饭吗？,
+SimpleCampDialogue/CampDial_FlandreScarlet_SilverStein_Dialogues_1,Text,,,[B]I do...Why am I getting lectured by a brat?,,[B]有啊……不是，为啥我非得被小鬼担心不可。,
+SimpleCampDialogue/CampDial_FlandreScarlet_Sizz_Dialogues_0,Text,,,[A]Doll lady! Can you control ten dolls?,,[A]玩人偶的小姐姐！你会同时控制十个人偶吗？,
+SimpleCampDialogue/CampDial_FlandreScarlet_Sizz_Dialogues_1,Text,,,"[B]N-no, that's impossible...",,[B]不、不行啦，那个应该没有人能做到……,
+SimpleCampDialogue/CampDial_FlandreScarlet_Sizz_Dialogues_2,Text,,,[A]How about a giant mega-doll?,,[A]那控制超级巨大的巨型人偶呢？,
+SimpleCampDialogue/CampDial_FlandreScarlet_Sizz_Dialogues_3,Text,,,[B]I'm not an anime character...,,[B]呜呜呜……我不是动画片里的角色啦……,
+SimpleCampDialogue/CampDial_FlandreScarlet_TouhouAlice_Dialogues_0,Text,,,[A]Ten little dolls went out to dine; One choked and then there were nine~,,[A]十个小人偶，为了吃饭去奔走；噎死一个没法救，十个只剩九~,
+SimpleCampDialogue/CampDial_FlandreScarlet_TouhouAlice_Dialogues_1,Text,,,[B]Stop singing creepy rhymes...,,[B]不要唱这么渗人的歌啊……,
+SimpleCampDialogue/CampDial_FlandreScarlet_Trisha_Dialogues_0,Text,,,[B]You...radiate danger...,,[B]你……浑身上下都散发着危险的气息……,
+SimpleCampDialogue/CampDial_FlandreScarlet_Trisha_Dialogues_1,Text,,,[A]Flandre only knows how to break things. Everyone says so.,,[A]因为芙兰只知道破坏东西的方法哦。大家都这么说我。,
+SimpleCampDialogue/CampDial_FlandreScarlet_Youmu_Dialogues_0,Text,,,[A]Sakuya said you're super skilled with swords!,,[A]是咲夜说的用刀很厉害的人！,
+SimpleCampDialogue/CampDial_FlandreScarlet_Youmu_Dialogues_1,Text,,,"[B]Me? Ehehe, flattering...",,[B]咦？说的是我吗？诶嘿嘿、怪不好意思的……,
+SimpleCampDialogue/CampDial_FlandreScarlet_Youmu_Dialogues_2,Text,,,[A]She said you can turn live chickens into soup instantly!,,[A]咲夜说你唰唰唰——就能把刚刚还活着的鸡做成香喷喷的鸡汤！,
+SimpleCampDialogue/CampDial_FlandreScarlet_Youmu_Dialogues_3,Text,,,[B]That's what she meant?!,,[B]诶？！说的是这方面吗？！,
+Skill/S_FlandreScarlet_0_Description,Text,,"스킬 사용 시, &a(20%)의 고통 피해를 입습니다.
+빈사 상태일 때 고통 피해를 받지 않습니다.
+
+욕망: &b(80%)의 피해를 추가로 입힙니다. 이 스킬의 크리티컬 확률과 명중률 +30%.","On skill use, take &a <color=purple>Pain damage</color><color=#FF7A33>(20% ATK)</color>. 
+Negated at Death's Door. 
+
+<color=#B22222>Revenge</color> - Deal extra &b damage<color=#FF7A33>(80% ATK)</color>. This skill gains +30% Crit Rate and Accuracy.","スキル使用時、&a(20%)の苦痛ダメージを受ける。
+瀕死状態の場合、苦痛ダメージを受けない。
+
+欲望 -  &b(80%)のダメージを追加で与える。このスキルのクリティカル率と命中率+30% 。","技能出手时，受到&a<color=purple>痛苦伤害</color><color=#FF7A33>(攻击力的20%)</color>。
+
+<color=#B22222>复仇</color> - 额外造成&b伤害<color=#FF7A33>(攻击力的80%)</color>。这个技能暴击率和命中率+30%。",
+Skill/S_FlandreScarlet_0_Name,Text,,금탄 「스타보우 브레이크」,Forbidden Barrage「Starbow Break」,禁弾「スターボウブレイク」,禁弹「星弧破碎」,
+Skill/S_FlandreScarlet_10Rare_0_Name,Text,,비탄 「그리고 아무도 없게 되는가?」,Secret Barrage「And Then Will There Be None ?」,秘弾「そして誰もいなくなるか？」,秘弹「之后就一个人都没有了吗？」,
+Skill/S_FlandreScarlet_10Rare_1_Name,Text,,비탄 「그리고 아무도 없게 되는가?」,Secret Barrage「And Then Will There Be None ?」,秘弾「そして誰もいなくなるか？」,秘弹「之后就一个人都没有了吗？」,
+Skill/S_FlandreScarlet_10Rare_Description,Text,,"무작위 적 또는 아군에게 시전합니다. 8회 반복합니다. 아군을 대상으로 할 시 피해량이 75% 감소된 고통 피해로 시전합니다.
+
+욕망: 추가로 4회 반복합니다. 아군에게 발동할 확률이 감소합니다.
+
+광기 4: 추가로 4회 반복합니다. 아군에게 발동할 확률이 감소합니다.","Recast on random enemies/allies 8 times. Ally damage reduced 75% and turns into Pain damage. 
+
+<color=#B22222>Revenge</color> - +4 repeats. 
+
+<color=#9400D3>Frenzy 4</color> - +4 repeats.","ランダムな敵または味方に発動する。これを8回繰り返す。 味方のダメージは75%減少し、苦痛ダメージに変換される。
+
+欲望 - さらに4回繰り返す。 ランダムな味方に発動する確率が減少する。
+
+狂気4 - さらに4回繰り返す。 ランダムな味方に発動する確率が減少する。","对随机敌人或队友再次释放，重复10次。对队友的伤害减少75%，并转为<color=purple>痛苦伤害</color>。
+
+<color=#B22222>复仇</color> - 额外重复10次。
+
+<color=#9400D3>狂乱4</color> - 额外重复10次。",
+Skill/S_FlandreScarlet_10Rare_Name,Text,,비탄 「그리고 아무도 없게 되는가?」,Secret Barrage「And Then Will There Be None ?」,秘弾「そして誰もいなくなるか?」,秘弹「之后就一个人都没有了吗？」,
+Skill/S_FlandreScarlet_11Rare_Description,Text,,"손에 제외를 가지지 않은 스킬이 남지 않았을 때, 이 스킬을 덱에서 손으로 가져옵니다.",Add this skill to hand when hand is empty (excluding Exile skills).,手札のスキル（除外を持つスキルを除く）が0になったとき、このスキルをデッキから手札に加える。,优先抽取2个自己的技能。,
+Skill/S_FlandreScarlet_11Rare_Name,Text,,Q.E.D. 「495년의 파문」,Q.E.D.「Ripples of 495 Years」,QED「４９５年の波紋」,QED「495年的波纹」,
+Skill/S_FlandreScarlet_12Rare_Description,Text,,"이 스킬으로 적을 처치할 시, 영구적으로 크리티컬 확률이 1% 증가하며, 마나를 2 회복합니다. 이 전투 중에는 더 이상 크리티컬 확률 영구 증가를 얻을 수 없게 됩니다.
+
+욕망: &a(75%) 피해를 추가로 입힙니다. 이 스킬의 크리티컬 확률 +10%.","Killing with this skill grants +1% permanent Crit Rate and 2 Mana. Cannot gain permanent Crit Rate from skills this battle. 
+
+<color=#B22222>Revenge</color> - +&a damage<color=#FF7A33>(75% ATK)</color>. +10% Crit Rate.","このスキルで敵を倒すと、永久的にクリティカル率1%が増加し、マナを2回復する。この戦闘中は、スキルによる永久的にクリティカル率の増加を得られなくなる。 
+欲望 - &a (75%) のダメージを追加で与える。このスキルのクリティカル率+10%。","使用此技能击杀后增加1%永久暴击率，回复2点法力值，这场战斗中无法再从技能中获得永久暴击率加成。
+
+<color=#B22222>复仇</color> - 额外造成&a伤害<color=#FF7A33>(攻击力的75%)</color>，这个技能+10%暴击率。",
+Skill/S_FlandreScarlet_12Rare_Name,Text,,금기 「레바테인」,Taboo「Laevatain」,禁忌「レーヴァテイン」,禁忌「莱瓦汀」,
+Skill/S_FlandreScarlet_14Rare_Description,Text,,"이 스킬로 적을 처치할 시, 마나를 2 회복하고, 영구적으로 최대 체력이 2 증가하며, 크리티컬 확률 +1%, 받는 회복량 +2%, 크리티컬 확률 +3%를 얻습니다. 이 전투 중에는 더 이상 크리티컬 확률 영구 증가를 얻을 수 없게 됩니다.","On kill: +2 Mana, +2 max HP, +1% Crit Rate, +2% healing received, +3% Crit Dmg. Cannot gain stats from skills this battle.",このスキルで敵を倒すと、マナが2回復し、永久的に最大体力+2、クリティカル率+1%、受ける回復量+2％、クリティカルダメージ+3%。この戦闘中はスキルによるステータス増加を得られなくなる。,击杀敌人后，回复2点法力值，获得2点永久最大体力值、1%永久暴击率加成、2%永久受到治疗量加成和3%永久暴击伤害加成。这场战斗中无法再从技能中获得属性加成。,
+Skill/S_FlandreScarlet_14Rare_Name,Text,,홍마부 「블러디 카타스트로피」,Scarlet「Bloody Catastrophe」,红魔符「Bloody Catastrophe」,红魔符「Bloody Catastrophe」,
+Skill/S_FlandreScarlet_1_0_Description,Text,,욕망: 자신을 2 초과 치유합니다.,<color=#B22222>Revenge</color> - Overheal self by 2 on hit.,欲望 – 自身を2オーバーヒールする。,<color=#B22222>复仇</color> - 命中时超额治疗自己2点体力。,
+Skill/S_FlandreScarlet_1_0_Name,Text,,금기 「포 오브 어 카인드」,Taboo「Four of a Kind」,禁忌「フォーオブアカインド」,禁忌「四重存在」,
+Skill/S_FlandreScarlet_1_Description,Text,,"코스트가 0이며 신속, 제외, 1턴 후 버려짐을 가진 [금기 「포 오브 어 카인드」]를 3장 생성합니다.
+
+욕망: 자신을 2 초과 치유합니다.","Create 3 Taboo「Four of a Kind」 in hand and give them Exclude and Swiftness.
+Those skills are discarded after 1 turn, but cost 0 Mana.
+
+<color=#B22222>Revenge</color> - Overheal self by 2 on hit.","コスト0で迅速、除外、1ターン後に捨てられるを持つ[禁忌「フォーオブアカインド」]を3枚手札に加える。
+
+欲望 - 自身を2オーバーヒールする。","将3张0费、迅速、放逐、1回合后弃牌的[禁忌「四重存在」]加入手中。
+
+<color=#B22222>复仇</color> - 命中时超额治疗自己2点体力。",
+Skill/S_FlandreScarlet_1_Name,Text,,금기 「포 오브 어 카인드」,Taboo「Four of a Kind」,禁忌「フォーオブアカインド」,禁忌「四重存在」,
+Skill/S_FlandreScarlet_2_Description,Text,,,,,,
+Skill/S_FlandreScarlet_2_Name,Text,,금기 「크랜베리 트랩」,Taboo「Cranberry Trap」,禁忌「クランベリートラップ」,禁忌「红莓陷阱」,
+Skill/S_FlandreScarlet_3_0_Description,Text,,"자신을 5 초과 치유 합니다.
+
+욕망: 제외와 2턴 후 버려짐을 가진 [금탄 「캐터디옵트릭」]을 생성합니다.","On hit, overheals yourself &a HP by <color=#FF7A33>(20% ATK)</color>.
+
+<color=#B22222>Revenge</color> - Create Forbidden Barrage「Catadioptric」 in hand and give it Swiftness. The skill is discarded after 2 turn.","自身を5オーバーヒールする
+
+欲望 – 除外と2ターン後に捨てられるを持つ[禁弾「カタディオプトリック」]を1枚生成する。","命中时超额治疗自己&a体力<color=#FF7A33>(攻击力的20%)</color>。
+
+<color=#B22222>复仇</color> - 生成1张附带放逐、2回合后弃牌的“禁弹「折反射」”加入手中。",
+Skill/S_FlandreScarlet_3_0_Name,Text,,금탄 「카타디옵트릭」,Forbidden Barrage「Katadioptric」,禁弾「ガタディオプトリック」,禁弹「反折射」,
+Skill/S_FlandreScarlet_3_Description,Text,,"스킬 사용 시 &a(20%) 고통 피해를 입습니다.
+
+광기 2: 제외와 2턴 후 버려짐을 가진 [금탄 「카타디옵트릭」]을 생성합니다.","On use: Take &a <color=purple>Pain damage</color><color=#FF7A33>(20% ATK)</color>.
+
+<color=#9400D3>Frenzy 2</color> - Create Forbidden Barrage「Katadioptric」 in hand and give it Swiftness. The skill is discarded after 2 turn.","スキル使用時、&a(20%)の苦痛ダメージを受ける。
+瀕死状態の場合、苦痛ダメージを受けない。
+
+狂気2 – 除外と2ターン後に捨てられるを持つ[禁弾「ガタディオプトリック」]を1枚生成する。","技能出手时，受到&a<color=purple>痛苦伤害</color><color=#FF7A33>(攻击力的20%)</color>。
+
+<color=#9400D3>狂乱2</color> - 生成1张附带放逐、2回合后弃牌的“禁弹「反折射」”加入手中。",
+Skill/S_FlandreScarlet_3_Name,Text,,금탄 「캐터디옵트릭」,Forbidden Barrage「Catadioptric」,禁弾「カタディオプトリック」,禁弹「折反射」,
+Skill/S_FlandreScarlet_4_Description,Text,,"스킬 사용 시, &a(20%) 고통 피해를 입습니다.
+
+욕망: 고통 피해를 받지 않게 됩니다. 피해량이 &b(40%)만큼 증가합니다.
+
+광기 4: 적마다 피해량이 &c(20%)만큼 증가합니다.","On use: Take &a <color=purple>Pain damage</color><color=#FF7A33>(20% ATK)</color>.
+
+<color=#B22222>Revenge</color> - Deal +&b damage<color=#FF7A33>(40% ATK)</color>.
+
+<color=#9400D3>Frenzy 4</color> - +&c damage per enemy<color=#FF7A33>(20% ATK)</color>.","スキル使用時、&a(20%)の苦痛ダメージを受ける。
+
+欲望 - 苦痛ダメージを受けなくなる。 &b(40%)のダメージを追加で与える。
+
+狂気4 – 敵1体につき、&c(20%)のダメージを追加で与える。","技能出手时，受到&a<color=purple>痛苦伤害</color><color=#FF7A33>(攻击力的20%)</color>。
+
+<color=#B22222>复仇</color> - 造成&b点额外伤害</color><color=#FF7A33>(攻击力的20%)</color>。
+
+<color=#9400D3>狂乱4</color> - 场上每有1个敌人，造成&c点额外伤害</color><color=#FF7A33>(攻击力的20%)</color>。",
+Skill/S_FlandreScarlet_4_Name,Text,,금기 「사랑의 미로」,Taboo「Maze of Love」,禁忌「恋の迷路」,禁忌「恋之迷宫」,
+Skill/S_FlandreScarlet_5_Description,Text,,"자신이 가진 [금지된 광기] 중첩마다 이하의 효과 중 하나를 무작위로 발동합니다. (각자 여러 번 발동 될 수 있음)
+1. 이 스킬의 피해량이 &a(40%)만큼 증가합니다.
+2. 자신을 4 초과 치유합니다.
+3. 이 스킬의 명중률과 크리티컬 확률이 10% 증가합니다.","Each <color=#9400D3>Frenzy</color> stack triggers 1 random effect: 
+1. +&a damage<color=#FF7A33>(40% ATK)</color>.
+2. Overheal 4 HP.
+3. +10% Accuracy/Crit Rate.","自身の持つ[禁じられた狂気]のスタック数1毎に、以下の効果のうち1つがランダムに発動する（重複することもある）：
+1,このスキルは&a(40%)のダメージを追加で与える；
+2, 自身を4オーバーヒールする；
+3,このスキルの命中率とクリティカル率が10%増加する。","自身每触发过1次<color=#9400D3>狂乱</color>，随机从下列效果中生效1项（能多次生效）：
+1，这个技能造成&a点额外伤害<color=#FF7A33>(攻击力的40%)</color>；
+2，超额治疗自己4点体力；
+3，这个技能的命中率和暴击率提升10%。",
+Skill/S_FlandreScarlet_5_Name,Text,,「손바닥 안의 파괴자」,「Destroyer in the Palm of One's Hand」,「掌中の破壊者」,「掌中的破坏者」,
+Skill/S_FlandreScarlet_6_Description,Text,,&a(현재 체력의 50%) 고통 피해를 받습니다.,Take &a <color=purple>Pain damage</color> (50% current HP).,&a(現在の体力の50%)の苦痛ダメージを受ける。,受到&a的<color=purple>痛苦伤害</color>(自身当前体力值的50%)。,
+Skill/S_FlandreScarlet_6_Name,Text,,금탄 「과거를 새기는 시계」,Forbidden Barrage「Clock that Ticks Away the Past」,禁弾「過去を刻む時計」,禁弹「刻着过去的钟表」,
+Skill/S_FlandreScarlet_7_Description,Text,,"&a(현재 체력의 50%) 고통 피해를 받습니다. 다음 턴이 시작할 때 자신의 스킬을 우선해서 1장을 뽑습니다.
+빈사 상태일 때 고통 피해를 받지 않습니다.","Take &a <color=purple>Pain damage</color> (50% current HP). 
+Next turn start: Prioritize drawing 1 skill. Negated at Death's Door.","&a(現在の体力の50%)の苦痛ダメージを受ける。次のターン開始時、自身のスキルを優先して1枚引く。
+瀕死状態の場合、苦痛ダメージを受けない。","受到&a的<color=purple>痛苦伤害</color>(自身当前体力值的50%)。
+下个回合开始时，优先抽取1个自己的技能。",
+Skill/S_FlandreScarlet_7_Name,Text,,금기 「금지된 장난」,Taboo「Forbidden Games」,禁忌「禁じられた遊び」,禁忌「被禁止的游戏」,
+Skill/S_FlandreScarlet_8_Description,Text,,"[금지된 욕망] 또는 [금지된 광기]가 발동되어있을 때만 사용 가능합니다.
+
+욕망: 스킬을 2장 뽑습니다. 턴이 종료될 때까지 자신만 스킬을 쓸 수 있습니다.
+
+광기 2: 마나를 2 회복합니다. [카고메카고메]를 얻습니다.","Usable only during <color=#B22222>Revenge</color> or <color=#9400D3>Frenzy 2</color>. 
+
+<color=#B22222>Revenge</color> - Draw 2 skills. Only you can act this turn. 
+
+<color=#9400D3>Frenzy 2</color> - +2 Mana. Gain ""ATK+20%, Crit Dmg+40%, SPD-1"" for 2 turns.","[禁じられた欲望]または[禁じられた狂気]が発動している時のみ使用可能。
+
+欲望 - スキルを2枚引く。 ターン終了時まで、自身のみがスキルを使用できる。
+
+狂気2 – マナを2回復。[カゴメカゴメ]を得る。","仅在触发<color=#B22222>复仇</color>或<color=#9400D3>狂乱2</color>时才能使用。
+
+<color=#B22222>复仇</color> - 抽取2个技能。直到回合结束前，只有自己能够使用技能。
+
+<color=#9400D3>狂乱2</color> - 恢复2点法力值。在2回合内，获得“攻击力+20%，暴击伤害+40%，速度-1”。",
+Skill/S_FlandreScarlet_8_Name,Text,,금기 「카고메카고메」,"Taboo「Kagome, Kagome」",禁忌「カゴメカゴメ」,禁忌「笼中鸟」,
+Skill/S_FlandreScarlet_LucyD_Description,Text,,,,,,
+Skill/S_FlandreScarlet_LucyD_Name,Text,,금기 「포비든 후르츠」,Taboo「Forbidden Fruit」,禁忌「フォービドゥンフルーツ」,禁忌「禁果」,
+SkillKeyword/Keyword_Frenzies_Desc,Text,,플랑드르가 자신 또는 아군으로부터 일정 횟수 피해를 입으면 일부 스킬이 추가 효과를 얻습니다.,"When Flandre takes cumulative damage from herself/allies, some skills gain effects.",フランドールが自身または味方から一定回数ダメージを受けると、一部のスキルは追加効果を得る。,芙兰朵露受到来自自己或队友的伤害累计一定次数后，部分技能会获得额外效果。,
+SkillKeyword/Keyword_Frenzies_Name,Text,,광기,Frenzy,狂気,狂乱,
+SkillKeyword/Keyword_Revenge_Desc,Text,,플랑드르의 체력이 최대 체력의 절반 이하일 때 일부 스킬이 추가 효과를 얻습니다.,"When Flandre's HP ≤50%, skills gain additional effects.",フランドールの体力が最大体力の半分以下の場合、一部のスキルは追加効果を得る。,芙兰朵露在体力值低于最大体力值的一半时，技能会获得额外效果。,
+SkillKeyword/Keyword_Revenge_Name,Text,,욕망,Desire,欲望,禁忌,
+

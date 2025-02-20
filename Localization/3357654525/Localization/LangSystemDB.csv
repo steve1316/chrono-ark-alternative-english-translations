@@ -1,0 +1,5 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+System/StatDesc/String_Buff_5,Text,,,or skills with Salted  ,,或带有盐渍的技能,
+System/StatDesc/String_Passive,Text,,,Candle Reflection  ,,烛影反射,
+System/StatDesc/String_Passive_Buff,Text,,,Transfer,,转移,
+

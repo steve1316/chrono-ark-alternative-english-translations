@@ -1,0 +1,14 @@
+{
+    "SE_PLANA_1": {
+        "_gdeSchema": "SkillEffect",
+        "HIT": 100,
+        "DMG_Per": 0,
+        "DMG_Base": 0,
+        "HEAL_MaxHpPer": 0,
+        "HEAL_Per": 40,
+        "HEAL_Base": 0,
+        "CRI": 0,
+        "ForceHeal": false,
+        "ChainHeal": false
+    }
+}

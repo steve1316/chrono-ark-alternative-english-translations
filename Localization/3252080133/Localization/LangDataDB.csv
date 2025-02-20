@@ -1,0 +1,307 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Poca_0_Description,Text,,"다음 스킬을 사용할 때, 패에 &a가 같은 코스트의 스킬을 가지고 있으면, &a는 무작위 스킬을 복사해 시전한다","Next time a skill is used, if &a has a skill with the same Cost in hand, &a copies and casts a random skill. Removed after triggering.",次のスキルを使用時に、手札に&aと同じコストのスキルがあれば、&aはランダムなスキルをコピーして発動する。,下次使用技能时，如果&a手上有相同费用的技能，令&a复制随机一个释放，触发后解除。,
+Buff/B_Poca_0_Name,Text,,은혜,Grace,恵み,优雅,
+Buff/B_Poca_10_Description,Text,,"피격 시, 패에 있는 자신의 공격스킬의 데미지를 30%증가시킨다.
+이 효과가 3회 발동할 때마다 패에있는 자신의 공격스킬이 제외된다.","When taking damage, increase damage of all Attack skills in hand by 30%.
+After 3 triggers, Exclude all your Attack skills in hand.",攻撃を受けた時、手札にある自身の攻撃スキルのダメージを30%増加させる。 この効果が3回発動するたび、手札にある自身の攻撃スキルは除外される。,"受到伤害时,令手牌的所有攻击技能的倍率增加30%.
+每当此效果触发3次后,放逐手牌中自身的所有攻击技能.",
+Buff/B_Poca_10_Name,Text,,잿빛미래,Gray Future,灰色の未来,灰色未来,
+Buff/B_Poca_11_Name,Text,,치명타율 증가,Critical Rate Increase,クリティカル率増加,暴击率增加,
+Buff/B_Poca_12_Description,Text,,자신의 도발무시 스킬이 명중하면 그 대상에게 '추격'을 1회 발동한다. 발동후 1중첩 소모.,"When your Taunt-ignoring skill hits, activate ""Cloudpart"" on the target. Consumes 1 stack.",自身の挑発を無視するスキルが命中時、その対象に1回「追撃」を発動する。発動後にストックが1減少する。,"自身无视嘲讽的技能命中敌人时,向其释放一次""拨云"",触发后减少1层",
+Buff/B_Poca_12_Name,Text,,서리가 내리다,Frost's Judgment,霜を払う,不惧严霜,
+Buff/B_Poca_1_Description,Text,,"도발무시 스킬이 명중 시 받는데미지가 20%증가합니다.
+
+방해 디버프가 없을 경우, 턴 종료시 또는 카운트 중인  '눈사태공격'이 없을 경우 제거됩니다.
+제거 시, &a의 데미지를 받습니다.","Targets hit by Taunt-ignoring skills take 20% increased damage.
+
+Removed at turn end if no impairing debuffs or pending Avalanche Strike countdowns.
+Removal inflicts &a damage.","挑発を無視するスキルが命中時、受けるダメージが20%増加する。
+
+妨害デバフを持たない場合、ターン終了時、またはカウントダウン欄に「雪崩攻撃」がない場合は除去される。
+除去されたとき、&aのダメージを受ける。 ","被无视嘲讽的技能命中时额外受到20%的伤害。
+
+如果未处于干扰减益状态,则回合结束或倒计时栏没有雪崩击时解除.
+解除时,受到&a点伤害.",
+Buff/B_Poca_1_Name,Text,,구속 !,Restraint!,拘束！,束缚！,
+Buff/B_Poca_2_Description,Text,,"다음에 &a의 스킬을 뽑을 때, 자신의 스킬을 우선하여 1장 뽑습니다.","When drawing &a's skill next, prioritize drawing one of your own skills.",次に&aのスキルを引くとき、自身のスキルを優先して1枚引く。,下次抽取到&a的技能时，优先抽取一个自身的技能.,
+Buff/B_Poca_2_Name,Text,,후방지원,Rear Support,後方支援,后勤保障,
+Buff/B_Poca_3_Description,Text,,"이 효과가 재부여 되면 &a의 고통피해를 입습니다.
+이 피해는 &b%의 확률로 &c% 감소합니다.","When reapplied, suffer &a Pain damage.
+&b% chance to reduce damage by &c%.","この効果が再び与えられると、&aの苦痛ダメージを受ける。
+このダメージは&b%の確率で&c%軽減される。 
+","再次被施加此效果时,受到&a点痛苦伤害.
+造成伤害时有&b%概率减少&c%.
+",
+Buff/B_Poca_3_Name,Text,,공포,Terror,恐怖,惊吓,
+Buff/B_Poca_4_Description,Text,,"턴 종료 시, 텍에서 자신의 공격스킬을 1개 뽑습니다. (덱에 없을 경우 뽑지않습니다.)
+뽑은 스킬에 '사용시 덱에 넣는 효과'를 추가합니다. ","Draw 1 Attack skill from deck at turn end (if present).
+Adds ""Return to deck when used"" effect.","ターン終了時、デッキから自身の攻撃スキルを1枚引く（デッキにない場合は引かない）。
+引いたスキルに次に使用した時にデッキに戻る効果を与える。 ","回合结束时,从牌库中抽取一个自身的攻击技能(没有则不抽).
+给予抽取的技能下次使用时返回牌堆的效果.",
+Buff/B_Poca_4_Name,Text,,정의,Arms,武装,武装,
+Buff/B_Poca_5_Description,Text,,"매 턴 종료시 제외, 신속 및 2턴후 버려짐이 부여된 「병참 작업」을 패에 추가한다.","Add ""Logistics Work"" to hand each turn end with Exclude, Swiftness, and Discard after 2 turns.",毎ターン終了時に除外、迅速と2ターン後に捨てられるを持つ「兵站作業」を手札に加える。,"每个回合结束时,将后勤工作加入手牌,附带放逐迅速和二回合后弃牌.",
+Buff/B_Poca_5_Name,Text,,혼란한생존자,Chaotic Survivor,混迷の生存者,动荡幸存者,
+Buff/B_Poca_6_Description,Text,,"아군이 1명이상 생존하였을때만 유효합니다.
+적으로부터 받는데미지를 80%경감시킵니다.
+그 후, 임의의 다른 아군에게 랜덤한 공격 스킬을 발동합니다.
+이 효과에 의해 공격당한 아군이 전투불능이 될 경우, 자신도 전투불능이 됩니다.","Only active when more than 1 ally is alive. When about to take damage from an enemy, reduces the damage by 80%. Then activates a random attack skill targeting a random other ally. If an ally is unable to battle due to the skill activated by this effect, this unit becomes incapacitated.","生存している味方の人数が1人以上の場合にのみ有効。
+敵からダメージ受けると、受けるダメージを80％軽減する。
+その後、ランダムな他の味方にランダムな攻撃スキルを発動する。
+この効果によって発動したスキルによって味方が戦闘不能になった場合、自身も戦闘不能になる。","仅当我方人数大于1时生效.
+自身即将受到敌人伤害时,减少80%的伤害.
+随后对随机一名其它友军释放随机攻击技能.
+当其它友军因此减益释放的技能无法战斗时,自身无法战斗.",
+Buff/B_Poca_6_Name,Text,,가해자?,Perpetrator?,加害者?,加害者?,
+Buff/B_Poca_7_Description,Text,,"스킬을 사용할 때마다 패에서 사용한 스킬과 같은 비용의 스킬을 1장 골라 버립니다.
+덱에서 이 스킬과 같은 비용의 스킬을 모두 보여주고, 그 중에서 1장을 선택하여 시전합니다.
+이 턴, 이 방법으로 스킬을 버린 아군 1명마다 스킬을 1장 뽑습니다.","Whenever you use a skill, choose to discard 1 skill in your hand with the same cost as the skill used. Reveal all skills in your deck with the same cost as this skill, then select one to draw and cast. At the end of the turn, draw 1 skill for each ally who discarded a skill this way.","スキルを使用するたびに、手札から使用したスキルと同じコストのスキルを1枚選んで捨てる。
+デッキからこのスキルと同じコストのスキルをすべて表示し、その中から1枚選択して引いて発動させる。
+このターン中にこの方法でスキルを捨てた味方1人ごとに、スキルを1枚引く。
+","每当自身使用一个技能,选择弃置一个手牌中与出手技能费用相同的技能.
+展示牌库中所有费用与此技能相同的技能,选择其中一个抽取释放.
+回合结束时解除,本回合每有一名被以此法丢弃过技能的友军,抽取一个技能.
+",
+Buff/B_Poca_7_Name,Text,,모범,Paragon,狼煙,楷模,
+Buff/B_Poca_8_Description,Text,,"버려진 덱에 있는 스킬 갯수에 따라 공격력 증가.
+턴 종료 시, 자신의 스킬을 버린 갯수와 사용한 갯수를 비교한다.
+사용한 스킬 갯수가 많을 경우, 자신의 스킬을 무작위로 1개 버려진 덱에서 덱 맨위에 둔다.
+사용한 스킬 갯수가 적을 경우, 다음턴 시작 시 스킬을 1개 뽑는다.
+이 후, 「유치한 반역」을 뽑을 시, 이 효과를 제거 후 「유치한 반역」을 강화한다.","Attack increases based on # of skills in discard pile.
+Compare used/discarded skills at turn end:
+
+More used → Return 1 skill from discard to deck top
+More discarded → Draw 1 skill next turn
+
+Upgrades ""Naive Rebellion"" when drawn.","捨て札にあるスキルの枚数に応じて攻撃力が増加。
+ターン終了時、自身のスキルを捨てた枚数と使用した枚数を比較する。
+使用した枚数の方が多い場合、自身のスキルをランダムに1つ、捨て札からデッキの一番上に置く。
+使用した枚数の方が少ない場合、次のターン開始時にスキルを1枚引く。
+次に「幼稚な反逆」を引いたとき、この効果を除去し、「幼稚な反逆」を強化する。 ","根据自身在弃牌堆中的技能数增加攻击力.
+回合结束时若自身的技能释放相比被丢弃的数量:
+多,随机将一个自身的技能从弃牌堆放到牌堆顶
+少,下个回合开始时,抽取一个技能.
+下次抽取到""稚嫩叛逆""时,解除此效果,升级""稚嫩叛逆"".",
+Buff/B_Poca_8_Name,Text,,죄책감,Guilt,悲しく辛い思い,悲痛苦思,
+Buff/B_Poca_9_Description,Text,,"이 효과는 패에 「신탁」이 있을경우, 제거된다.","Removed if ""Entrust"" is in hand.",この効果は手札に「信託」がある場合、除去される。,手牌中有托付时解除此效果.,
+Buff/B_Poca_9_Name,Text,,미래를 받아들이다.,Embrace Future,未来を受け入れる,迎接未来,
+Buff/B_Poca_D_Description,Text,,,,,,
+Buff/B_Poca_D_Name,Text,,투쟁,Struggle,闘争,斗争,
+Buff/B_Poca_D_T_Name,Text,,진정한 투쟁,True Struggle,真の闘争,真斗争,
+Buff/B_Poca_Level_Description,Text,,"현재 강화 상황:&a
+처치 수:&b
+다음 단계:&c","Current Enhancement:&a
+Kills:&b
+Next Stage:&c","現在の強化状況:&a
+キル数:&b
+次のステップ:&c","当前进度:&a
+猎杀数:&b
+下一步:&c",
+Buff/B_Poca_Level_Name,Text,,고래사냥을 위한 준비,Whaling Preparations,大物猟の強化状況,鲸落进度,
+Buff/B_Poca_Lucy_Description,Text,,"다음 뽑은 스킬이 '신속'스킬일 경우, 스킬을 1장 더 뽑고 비용-1",If drawing skill with Swiftness: Draw +1 skill and reduce Cost by 1.,次に引いたスキルが迅速を持つ時、さらにスキルを1枚引き、引いたスキルのコスト-1。,"下次抽取到早露的技能时,再次抽取一个技能,令抽取到的技能费用-1.",
+Buff/B_Poca_Lucy_Name,Text,,보온병,Thermos,魔法瓶,热水壶,
+Buff/B_Poca_P_Name,Text,,근원,Root,根源,入髓,
+Buff/B_Poca_lucy2_Description,Text,,"스킬 사용 시, 자신의 스킬을 1장 버립니다.
+버린 스킬이 공격 스킬인 경우 스킬이 추가로 발동합니다.
+그 이외의 경우, 스킬을 1장 뽑고, 마나를 1 회복합니다.
+발동 시 제거됩니다.","When using a skill, discard one of your skills.
+If discarded skill was an Attack type, recast the current skill.
+Otherwise, draw 1 skill and restore 1 Mana.
+Removed on trigger.","スキル使用時に自分のスキルを1枚捨てる。
+捨てたスキルが攻撃スキルの場合は再度スキルが発動する。
+それ以外の場合はスキルを1枚引き、マナを1回復する。
+発動時に除去される","释放技能时丢弃一个自身的技能.
+若丢弃的技能为攻击技能,重复释放一次本次的技能.
+否则抽取一个技能并回复1点法力.
+触发后解除",
+Buff/B_Poca_lucy2_Name,Text,,우르수스의 특산품,Ursus Specialty,ウルサスの特産品,乌萨斯特产,
+Buff/B_Poca_rp_Description,Text,,,,,,
+Buff/B_Poca_rp_Name,Text,,부상자 수,Injury Count,負傷者数,受伤次数,
+Character/Poca_CampSelectWord,Text,,"모두, 출발하자.",Is it my turn? I'll give it my best.,各位、出発するわよ。,轮到我登场了吗?我会尽力的,
+Character/Poca_PassiveDes,Text,,&a,&a,&a,&a,
+Character/Poca_PassiveName,Text,,뼛속 깊숙이,Rooted Depths,根源の深淵,深入骨髓,
+Character/Poca_SelectInfo,Text,,"본명 나탈리야 안드레예브나 로스토바.(Наталия Андрейвна Ростова)
+본래 순수 혈통의 귀족 아가씨로서 로스토프 백작의 후계자이자 우르수스 학생 자치단 소속이었던 그녀는 체르노보그 사태 이후 조사단에 의해 구조되었습니다.
+얼마 뒤, 그녀는 저격수 모집에 응모하여 전선에 참여하게 되었습니다.
+
+로사는 거대한 공성장비로 싸웁니다. 이 거대한 장비의 위력은 강적을 상대하기에 적합하며, 전투를 통해 로사는 이 장비를 다루는 법을 배워갑니다.","Full name: Natalya Andreyevna Rostova (Наталия Андрейвна Ростова).  
+As the pure-blooded heiress of Count Rostov and member of the Ursus Student Council, she was rescued by investigation teams after the Chernobog incident. Later enlisted as a sniper on the frontlines.  
+
+Rosa fights with colossal siege equipment. These massive armaments prove ideal against formidable foes, and through combat experience, she masters their operation.","ロサはかつてある町の有力貴族の娘だったが、戦争と天災で没落貴族となり、しばらくして狙撃手の募集に応募して前線に転属した。
+
+ロサは巨大な攻城装備で戦うが、巨大な装備の威力は強敵を相手にするのに適しており、戦闘経験を積むことでロサは扱いを学んでいく。 ","早露曾经是一城显赫的贵族之后,但在战争与天灾之下之后便成为了没落的贵族,在一段时间后经申请,作为狙击干员转入前线。
+
+早露使用巨大的攻城器械进行战斗,巨型器械的威力能很好的应对棘手敌人,同时随着战斗经验的积累,早露也能更加得心应手.",
+Character/Poca_SkinDesc,Text,,로사의 평상복,Rosa's Casual Attire  ,ロサの普段着,早露的日常打扮,
+Character/Poca_Text_Battle_AllyND_0,Text,,우선은 전투 매뉴얼 암기부터......,"First, I must memorize the combat manual......  ",まずは戦闘マニュアルの暗唱から……,我也必须要适应战场才行呢......,
+Character/Poca_Text_Battle_Cri_0,Text,,조준하고...... 발사!,Aiming...... Fire!  ,狙いを定めて……発射！,瞄准，发射！,
+Character/Poca_Text_Battle_Healed_0,Text,,최선을 다할게.,I'll do my utmost.  ,最善を尽すわね。,我会尽力的。,
+Character/Poca_Text_Battle_Idle_0,Text,,맡겨줘.,Leave it to me.  ,任せて。,交给我吧,
+Character/Poca_Text_Battle_Kill_0,Text,,당신들한테 원한은 없지만......,"No personal grudge, but......  ",あなたたちに恨みはないけれど……。,虽然我们无冤无仇......,
+Character/Poca_Text_Battle_ND_0,Text,,후우...... 긴장하지 말자.,Haaah... Stay relaxed.  ,ふぅ、リラックスリラックス。,呼，放轻松，放轻松。,
+Character/Poca_Text_Battle_Start_0,Text,,"모두, 작전대로 행동하자.","Everyone, follow the operation plan.  ",各位、作戦通りに行動するのよ。,各位，按照计划行动吧。,
+Character/Poca_Text_Field_GetItem_0,Text,,어어?!,Eh?!  ,ええっ！？,诶诶？！,
+Character/Poca_Text_Field_Idle_0,Text,,살롱 같은 곳은 없어?,Are there any salon-like establishments here?  ,サロンのような場所はあるのかしら。,不知道有没有沙龙一样的地方呢。,
+Character/Poca_Text_Field_Potion_P_0,Text,,이것은.... 보드카?,Is this... vodka?  ,これは...... ウォッカ？,这是....伏特加吗,
+Character/Poca_Text_PharosLeader_0,Text,,"로사, 자신을 믿어. 너라면 할 수 있어.","""Believe in yourself, Rosa. You can do this.""  ",ロサ、自分を信じなさい、あなたならできるわ。,......早露，相信自己，你可以的。,
+Character/Poca_Text_PharosLeader_1,Text,,돌아가면 반성하는 자리를 가져야겠어......,We'll need a debriefing session later......  ,戻ったら反省会をしないといけないわね……。,回去之后要开检讨会了呢......,
+Character/Poca_Text_PharosLeader_2,Text,,오늘도 근사한 하루네.,Another splendid day.  ,今日も素晴らしい一日ね。,今天也是美好的一天。,
+Character/Poca_name,Text,,로사,Rosa  ,ロサ,早露,
+Character_Skin/Pocaskin_SkinDesc,Text,,체르노보그 제4고등학교 학생회장 나탈리야 안드레예브나 로스토바가 학생 대표 인사 중 입었던 복장.,Nataliya Rostova's attire as Chernobog Fourth High School Council President during student representative addresses.  ,チェルノボーグ第四高校生徒会長ナターリア・アンドレーエヴィナ・ロストワが学生代表の挨拶の際に着用していた。,切尔诺伯格第四中学学生会长娜塔莉娅发表开学祝辞时的穿着,
+Character_Skin/Pocaskin_SkinName,Text,,걸작,Masterpiece,傑作,杰作,
+Item_Equip/Eq_Poca_0_Description,Text,,"자신의 추가공격으로 피해를 줄 시, 2턴동안 [치명타율 15% 증가]를 얻는다.
+최대 5회 중복 가능.","When your follow-up attack deals damage, gain ""Critical Rate +15%"" for 2 turns. Can stack up to 5 times.",自身の追加攻撃でダメージを与えると2ターンの間[クリティカル率15%上昇]を得る。最大5回まで重複可能。,"自身的追加攻击造成伤害时,获得""暴击率增加15%""的增益,持续2回合,最多叠加5层.",
+Item_Equip/Eq_Poca_0_name,Text,,공성기계 훈련장치,Siege Equipment Training Device,訓練用攻城兵器,攻城箭头,
+Item_Equip/Ex_Poca_p_Description,Text,,"적을 2회 공격하면 과부화가 1 감소합니다.(1턴 1회 발동)
+'추격' 및 '반격'은 반드시 치명타가 됩니다.
+[저주받은 적] 및 [BOSS]에게 주는 데미지를 15% 증가시킵니다.","After hitting an enemy 2 times, reduces Overload by 1 (once per turn).
+Chase and Pursuit attacks are guaranteed Critical.
+Damage dealt to [Cursed] or [BOSS] enemies (5) is increased by 15%.","敵に2回攻撃すると、1ターンに1回のみオーバーロードが1減少。
+追撃と反撃は必ずクリティカルする。
+(呪われた敵かボス)(5)へのダメージを15%増加させる。 ","命中敌人2次后,减少1点过载,每回合限1次.
+追击和反击必定暴击.
+对(诅咒和boss)(5)敌人造成伤害增幅15%.",
+Item_Equip/Ex_Poca_p_name,Text,,"""985""","""985""","""985""","""985""",
+Item_Passive/Medic_Poca_0_Description,Text,,"스킬을 버릴 때 패에 자신의 스킬이 없고 체력이 1 이상일 경우 체력이 1이 되도록 고통 피해를 주고 스킬을 3장 뽑는다.
+전투 도중 1회만 사용가능.
+
+<color=#919191> ----- 용기와 신뢰. </color>","When discarding an ally's skill, if you have none of that ally's skills in your hand and their HP is 1 or higher, deal Pain damage to reduce their HP to 1 and draw 3 skills.
+Usable once per battle.
+
+<color=#919191>----- Courage and Trust. </color>","スキルを捨てる時、手札にその味方のスキルがなく、体力が1以上の場合、体力が1になるまで苦痛ダメージを与え、その後スキルを3枚引く。
+1回の戦闘につき1回まで
+
+<color=#919191>-----勇気と信頼。</color>","丢弃一名调查员的技能时，如果手中没有该调查员的技能，且该角色生命值不低于1，对其造成痛苦伤害使其生命变为1，然后抽取三个技能。
+每场战斗限一次
+
+<color=#919191>------勇气与信赖.</color>",
+Item_Passive/Medic_Poca_0_name,Text,,페이퍼 나이프,Paper Knife,ペーパーナイフ,裁纸刀,
+Item_Passive/Medic_Poca_2_Description,Text,,"전투 시작 시, 가장 레벨이 낮은 아군의 전용스킬이 3개 제시되고, 1개를 선택하여 패에 넣는다.
+(같은 레벨이 여러명일 경우 각각 3개씩 제시됨)","At the start of battle, reveal 3 exclusive skills for each ally with the lowest level and choose 1 to add to your hand. (If multiple allies are tied, each reveals 3 skills)",戦闘開始時に、最もレベルの低い味方の専用スキルが3つ表示され、1つを選択して手札に加える。(複数いる場合はそれぞれ3つが表示される),"战斗开始时,为每名等级最低的调查员展示3个专属技能,然后选择一个加入手牌.",
+Item_Passive/Medic_Poca_2_name,Text,,전투 메뉴얼,Combat Manual,戦闘マニュアル,战斗手册,
+Skill/S_Poca_0_Description,Text,,"스킬을 1개 뽑습니다.
+다음으로 스킬을 사용 할 때, 대상이 패에 동일한 비용의 스킬을 가지고 있을 경우 무작위 스킬을 복사하여 시전합니다.","Draw 1 skill. The next time you use a skill, if the target has a skill with the same cost in the hand, copy a random one and cast it.","スキルを1枚引く。
+次にスキルを使用する時、対象が手札に同じコストのスキルを持っている場合、ランダムなスキルをコピーして発動する。","抽取一个技能。
+下次使用技能时,如果目标手上有相同费用的技能,令其复制随机一个释放.",
+Skill/S_Poca_0_Name,Text,,귀족의 예의,Noble Etiquette,貴族の礼儀,贵族气质,
+Skill/S_Poca_1_Description,Text,,"사용 시, 대상과 같은 도발 상태의 적에게 [구속]을 부여합니다.","When used, applies [Restraint] to enemies with the same Taunt state as the target.",使用時に対象と同じ挑発状態の敵に[拘束]を与える。,使用时对与目标嘲讽状态相同的敌人施加束缚。,
+Skill/S_Poca_1_Name,Text,,눈사태사격,Avalanche Strike,雪崩,雪崩击,
+Skill/S_Poca_2_Description,Text,,"체력이 가장 많은 적을 같이 공격합니다.
+추가 공격 대상의 체력이 최대치인 경우, 이 스킬은 무조건 치명타로 공격합니다.
+단일대상일 경우, 사용시 마나를 1 회복합니다.","Attack the enemy with the highest HP simultaneously. If the additional target has full HP, this skill is guaranteed to Critical. If there is only one enemy, restores 1 Mana when cast.","体力が最も多い敵を同時に攻撃する。
+追加攻撃の対象の体力が最大の場合、このスキルは確実にクリティカルする。
+敵が1体の場合、使用時にマナを1回復する。","同时攻击一名生命最多的敌人.
+当额外目标生命更多时，此技能必定暴击。
+如果只有一名敌人,释放时回复1点法力。",
+Skill/S_Poca_2_Name,Text,,분열사격,Split Shot,スプリットショット,分裂射击,
+Skill/S_Poca_3_Description,Text,,"덱 안의 무작위 스킬 1개의 비용을 1 감소시키고 '신속'을 부여합니다
+(선택한 대상의 스킬을 우선처리.)",Randomly reduces the cost of a skill in your deck by 1 and grants it Swiftness. (Prioritizes skills of the targeted ally),デッキ内のランダムなスキル1つのコストを-1して迅速を与える（対象の味方のスキルを優先する）,随机使牌库中的一个技能费用-1获得迅速.(优先选取目标友军的技能),
+Skill/S_Poca_3_Name,Text,,병참 수송,Logistics Transport,兵站輸送,后勤工作,
+Skill/S_Poca_4_0_Description,Text,,,,,,
+Skill/S_Poca_4_0_Name,Text,,공격력 강화·γ형 - 추격,Ravager Shot - Pursuit,ラヴィーナシュート - 追撃,摧坚弩箭-追击,
+Skill/S_Poca_4_Description,Text,,공격 후 대상 체력이 상대방 중 가장 많은 경우 카운트1(데미지75%)로 재발동합니다.,"After attacking, if the target still has the highest HP among enemies, reactivate this skill with Countdown 1 (75% damage).",攻撃後、対象の敵の体力が最も多い場合、カウントダウン1(ダメージの85%)で再発動する。,"命中后,如果目标是敌人且场上体力最大,以倒计时1的形式再次攻击(为本体85%的威力).",
+Skill/S_Poca_4_Name,Text,,공격력 강화·γ형,Ravager Shot,ラヴィーナシュート,摧坚弩箭,
+Skill/S_Poca_5_Description,Text,,"목표대상과 다른 도발상태의 적이 있을 경우, [공포]를 1중첩 부여합니다.
+[공포]를 가진 대상이 1명이라면, [공포]의 지속시간을 2턴 연장합니다.","If there are enemies with a different Taunt state than the target, apply 1 stack of [Terror]. If only one enemy has [Terror], extend its duration by 2 turns.","対象とは異なる挑発状態の敵がいる場合、[恐怖]を1ストック与える。
+[恐怖]を持つ対象が1体の場合、[恐怖]の持続時間を2ターン延長する。 ","如果场上存在与目标嘲讽状态不同的敌人,额外给予1层惊吓.
+目标仅一个且带有惊吓时,使惊吓的持续时间增加2回合.",
+Skill/S_Poca_5_Name,Text,,위협,Intimidation,威嚇,威慑,
+Skill/S_Poca_6_Description,Text,,"패에 자신의 공격스킬이 없는 경우에만 사용가능.
+버려진덱에 있는 자신의 공격스킬을 모두 덱에 넣고 섞습니다.","Usable only when no Attack skills are in hand.
+Shuffle all your Attack skills from discard pile into deck.","手札に他の攻撃スキルがない場合にのみ使用できる。
+自身の攻撃スキルをすべて捨て札からデッキに加えてシャッフルする。","仅当手牌没有自身的其它攻击技能时可以使用.
+将弃牌堆中自身的所有攻击技能洗入牌堆.",
+Skill/S_Poca_6_Name,Text,,위기 상황,Critical Situation,危機的状況,危急转变,
+Skill/S_Poca_7_Description,Text,,"카운트 도중 다른 아군이 공격스킬을 사용 할 때마다 이 스킬의 데미지가 &a 감소합니다.
+아군이 &b만큼 피해를 줄 때마다 이 스킬의 치명타율이 15%증가합니다.
+아군이 &c의 피해를 입히거나 받을 때 마다 이 스킬의 데미지가 125%증가합니다.
+적을 죽이면, 「투쟁」이 덱에 추가됩니다.
+
+현재 증가율: &d%","During countdown: -&a damage per ally Attack skill used.
++15% Crit Rate per &b damage dealt.
++125% damage per &c damage taken/dealt.
+Add ""Struggle"" to deck on kill.
+Current bonus: &d%","カウントダウン中、他の味方が攻撃スキルを使用するたびに、このスキルのダメージが&a減少する。
+味方が&bのダメージを与えるたび、このスキルのクリティカル率が15%増加する。
+味方が&cのダメージを与えるか受けるたびに、このスキルのダメージが125%増加する。
+敵を倒すと、「闘争」がデッキに加えられる。
+現在の増加率:&d%","倒计时期间,每当其它友军使用攻击技能时,此技能的伤害减少&a点.
+每当友军造成&b点伤害时,此技能的暴击率提升15%.
+每当友军造成或受到&c点伤害时,此技能伤害增幅125%.
+击杀敌人时,将一个""斗争""洗入抽牌堆.
+当前增幅:&d%",
+Skill/S_Poca_7_Name,Text,,투쟁,Struggle,闘争,斗争,
+Skill/S_Poca_8_Description,Text,,"스킬을 1장 뽑습니다.
+자신의 체력비율이 아군 전체에서 가장 높을 경우, 「가해자?」디버프를 받습니다.","Draw 1 skill.
+If your HP is the highest in the party when cast, gain the ""Perpetrator?"" debuff.","スキルを1枚引く。
+使用時に自身の体力の割合が味方全体で最も高い場合、「加害者?」のデバフを受ける。","抽取一个技能
+如果释放时自身的生命值为调查团最高,获得""加害者?""减益.",
+Skill/S_Poca_8_Name,Text,,고통,Agony,拷問,煎熬,
+Skill/S_Poca_8_b_Name,Text,,가해자,Perpetrator,加害者,加害者,
+Skill/S_Poca_9_0_Description,Text,,패에 있는 '도발 무시'를 가진 스킬 하나 당 방어력을 25% 무시합니다.,Ignore 25% Defense per Taunt-ignoring skill in hand.,手札にある挑発無視を持つスキル1つにつき、防御力を25%無視する。,"手上的每1个无视嘲讽的技能,无视25%防御.",
+Skill/S_Poca_9_0_Name,Text,,추격,Cloudpart,追撃,拨云,
+Skill/S_Poca_P_Name,Text,,985.0추적,985.0 Chase,985.0追跡,985.0追击,
+Skill/S_Poca_lucy1_Description,Text,,"스킬을 2장 뽑습니다.
+로사가 생존해 있다면, 로사의 스킬을 뽑을 시 1장을 추가로 뽑습니다.
+이것을 로사 이외의 다른 아군 스킬을 뽑을 때까지 반복 후, 그 비용을 -1 줄입니다.
+이 효과는 로사가 생존하는 동안 전투 중 효과가 유지됩니다.","Draw 2 skills. If Rosa is alive: Whenever drawing Rosa's skill, draw +1 skill and reduce its Cost by 1. Repeat until non-Rosa skill is drawn. Effect persists while Rosa lives.","スキルを2枚引く。
+ロサが生存している場合、ロサのスキルを引いたなら1枚追加で引く、これをロサ以外の味方のスキルを引くまで繰り返し、そのコストを-1する。
+この効果はロサが生存している限りその戦闘中永続する。","抽取两个技能
+若早露存活,下次抽取到早露的技能时再抽取一个技能且使其费用-1.",
+Skill/S_Poca_lucy1_Name,Text,,병참 전문가,Logistics Expert,兵站のエキスパート,后勤高手,
+Skill/S_Poca_lucy2_Description,Text,,"스킬을 2장 뽑습니다.
+
+<color=#919191> 이것은 제 술이랑은 다른것 같은데요...-- 일리야 </color>","Draw 2 skills.
+
+<color=#919191>""This differs from my liquor..."" — Ilya</color>","スキルを2枚引く。
+
+<color=#919191>これは私の酒とは違うようですが…---イリヤ</color>","抽取2个技能
+
+<color=#919191>这个和我的酒好像不太一样...---伊利亚</color>",
+Skill/S_Poca_lucy2_Name,Text,,특제 보드카,Special Reserve Vodka,特製ウォッカ,特产伏特加,
+Skill/S_Poca_r0_Description,Text,,"&a
+
+현재 증가율:&b%(최대 1.2배)",&a Current multiplier: &b% (up to 1.2x),"&a
+
+現在の増加率:&b% （1.2倍まで） ","&a
+
+当前增幅:&b%(为1.2的次方)",
+Skill/S_Poca_r0_Name,Text,,고래사냥,"""Whaling""",大物猟,"""鲸落""",
+Skill/S_Poca_r1_Description,Text,,"자신의 스킬을 생존한 다른 아군 1명당 3개씩 제시하고 그 중 1개를 선택해 패에 넣습니다.
+이 스킬에 '신속', '1턴후 제외'를 부여합니다.","For each surviving ally, reveal 3 of your skills and choose 1 to add to your hand. Grants it Swiftness, ""Discard after 1 turn"", and Exclude.",生存している他の味方1人につき、自身のスキルを3つ表示し1つ選択して手札に加える。それは迅速、1ターン後に捨てられる、除外を持つ。,"每有一名存活的其它友军,就展示自身3个专属技能并选择一个加入手牌,附带迅速,1回合弃牌和放逐",
+Skill/S_Poca_r1_Name,Text,,모범학생,Model Student,学生の鑑,学生楷模,
+Skill/S_Poca_r2_0_Description,Text,,"체력이 가장 적은 아군이 빈사상태가 되면 체력을 1로 되돌립니다.
+자신의 체력이 가장 적을경우, 데미지가 &a 증가합니다.","If an ally with the lowest HP is at Death's Door, restore their HP to 1. If you are the ally with the lowest HP, damage dealt is increased by &a.","体力が最も少ない味方が瀕死の場合、体力を1に戻す。
+自身が最も体力が少ない場合、ダメージは&a増加する。","若我方生命最少的角色处于濒死,令其回到1生命.
+若自身是我方生命最少的角色,伤害增加&a点.",
+Skill/S_Poca_r2_0_Name,Text,,위탁,Entrust,委託,托付,
+Skill/S_Poca_r2_1_Description,Text,,"이 전투 도중, 자신이 피해를 입으면 이 스킬의 데미지가 &a 증가합니다.
+이 스킬이 적에게 피해를 입히면 자신에게도 똑같은 양의 고통피해를 입힙니다.","During this battle, whenever you take damage, this skill’s damage is increased by &a. When this skill deals damage, inflict the same amount of Pain damage to yourself.","この戦闘中に自身がダメージを受けると、このスキルのダメージが&a増加する。
+このスキルがダメージを与えると、自身にも同量の苦痛ダメージを与える。","本次战斗,自身受到伤害时,令此技能的伤害增加&a点.
+当此技能造成伤害时,对自身造成相同的痛苦伤害.",
+Skill/S_Poca_r2_1_Name,Text,,냉정,Composure  ,冷静,沉默,
+Skill/S_Poca_r2_Description,Text,,"전투 개시 시, 이 스킬을 뽑고 시전합니다.",Auto-draw and cast at battle start.  ,戦闘開始時、このスキルを引いて発動する。,"战斗开始时,抽取然后释放此技能.",
+Skill/S_Poca_r2_Name,Text,,유치한 반역,Naive Rebellion  ,幼稚な反逆,稚嫩叛逆,
+Skill/S_poca_9_Description,Text,,"패에 있는 '도발 무시'를 가진 스킬의 수만큼, '추격'을 시전합니다.
+추격 시전 시마다, [서리가 내리다]가 없는 아군은 [서리가 내리다] 1중첩을 얻습니다. 최대 4회.","Cast Cloudpart equal to number of Taunt-ignoring skills in hand. Each cast grants 1 ""Frost's Judgment"" stack to allies without it (max 4).  ",手札にある挑発無視を持つスキルの数、「追撃」を発動しする。「追撃」を発動する度に[霜を払う] を持たない味方は[霜を払う] のストックを得る。最大4回まで。,"根据手牌中的无视嘲讽的技能的数量，每1个释放一次""拨云"",优先使未拥有""不惧严霜""的1名其它友军获得1层""不惧严霜""(最多4次).",
+Skill/S_poca_9_Name,Text,,몸을 녹이다,Warmth  ,暖を取る,取暖,
+SkillExtended/EX_Poca_0_Name,Text,,급속 분해,Rapid Disassembly  ,急速分解,分裂迅速,
+SkillExtended/EX_Poca_Dead_Name,Text,,가해,Harm  ,加害,加害,
+SkillExtended/EX_Poca_Gray_Des,Text,,,,,,
+SkillExtended/EX_Poca_Gray_Name,Text,,냉정,Composure  ,冷静,沉默,
+SkillExtended/Ex_Poca_1_Name,Text,,병참지원,Logistics Support  ,兵站支援,后勤补助,
+SkillExtended/Ex_Poca_2_Des,Text,,"다음에 사용 시, 제외되지 않는다면 덱으로 돌아갑니다.
+발동시 제거됩니다.","Returns to deck if not Excluded when used next.
+Removed on cast.  ","次に使用した時、除外されていなければデッキに戻る。
+発動したとき除去される。 ","下次使用如果未被放逐则放回牌堆.
+触发后解除.",
+SkillExtended/Ex_Poca_2_Name,Text,,무장병기,Arsenal  ,武装兵器,武装兵器,
+SkillExtended/Ex_Poca_Sr2_Name,Text,,뽑으면 즉시 시전됩니다.,Auto-cast when drawn  ,引いたとき即座に発動する。,抽取时释放,
+SkillExtended/S_en_Poca_2_EnforceString,Text,,도발 무시'를 가진 공격기술,Attack skills ignoring Taunt  ,挑発無視を持つ攻撃スキル,无视嘲讽的攻击技能,
+SkillExtended/S_en_Poca_2_Name,Text,,"소비한 비용에 따라, 로사가 대상을 우선적으로 '추격'을 2회 시전합니다.",Prioritize 2 Cloudparts per Cost spent  ,消費したコストに応じて、ロサが対象を優先して「追撃」を2回発動する。,"根据消耗的费用,每点优先使早露释放2次拨云.",
+SkillExtended/S_en_poca_0_EnforceString,Text,,단일 공격 기술,Single-target Attack skills  ,単体攻撃スキル,单体攻击技能.,
+SkillExtended/S_en_poca_0_Name,Text,,"도발 무시, 사용시 대상에게 도발(110%)를 부여합니다.",Ignores Taunt. Applies Taunt (110%) on use  ,挑発無視、使用時対象に挑発(110%) を与える。,"无视嘲讽,释放时对目标施加""嘲讽""(110%)减益",
+SkillExtended/S_en_poca_1_EnforceString,Text,,비용 2 이상의 공격스킬,Cost≥2 Attack skills,コスト2以上の攻撃スキル,2费以上攻击技能.,
+SkillExtended/S_en_poca_1_Name,Text,,&a,&a,&a,&a,
+,,,,,,,
+,,,,,,,
+

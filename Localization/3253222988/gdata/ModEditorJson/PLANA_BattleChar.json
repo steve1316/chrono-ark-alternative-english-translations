@@ -1,0 +1,23 @@
+{
+    "myKey": "PLANA",
+    "myField": "BattleChar",
+    "myValues": {
+        "path": "PLANA\\PLANABattleChar.png",
+        "offsetMax": {
+            "x": 706.106567,
+            "y": 306.683
+        },
+        "offsetMin": {
+            "x": -793.131836,
+            "y": -1192.55542
+        },
+        "pivot": {
+            "x": 0.5290232,
+            "y": 0.7954408
+        }
+    },
+    "MyChangeType": "BattleChar",
+    "myKeys": [
+        
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "B_PLANA_7": {
+        "Debuff": true,
+        "Name": "弹道计算",
+        "ClassName": "PLANA.B_PLANA_7",
+        "LifeTime": 3,
+        "MaxStack": 3,
+        "Icon": "B_PLANA_7\\B_PLANA_7_Icon.png",
+        "Tick": "null",
+        "BuffTag": "Debuff",
+        "TagPer": 110,
+        "Caution": false,
+        "_gdeSchema": "Buff",
+        "Hide": false,
+        "IsFieldBuff": false,
+        "Cantdisable": false,
+        "UseSkillDebuff": false,
+        "Description": "每当你使用手牌时，造成&a点痛苦伤害(本回合剩余&b次)"
+    }
+}

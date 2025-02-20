@@ -1,0 +1,208 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Sanae_2_Name,Text,,,Miracle Upon You,ワンダー·オブ·U,奇迹于你,
+Buff/B_Sanae_5_Description,Text,,,,,,
+Buff/B_Sanae_5_Name,Text,,,East Wind's Caress,東風が撫でる,东风轻抚,
+Buff/B_Sanae_P_Description,Text,,,"Current Combo count: &a
+Turns until Mana recovery: &b",,"当前连击数为：&a
+距离恢复法力值还剩：&b",
+Buff/B_Sanae_P_Name,Text,,,Worshipped Wind Person,,被祭拜的风之人,
+Buff/B_Sanae_Rare10_Description,Text,,,"All 0-cost skills in hand gain Swiftness, dealing &a (20%) additional damage or &b (20%) additional healing.",手札のコスト0のスキルはすべて迅速を得て、&a(20%)のダメージか&b(20%)の回復を追加で与える。,手中所有的0费技能获得迅速，造成&a(20%)额外伤害或&b(20%)额外治疗。,
+Buff/B_Sanae_Rare10_Name,Text,,,Miracle of the Parted Sea,海が割れる奇跡,开海的奇迹,
+Buff/B_Sanae_Rare12_Description,Text,,,All [Wind Spirits] in hand gain +100% Critical Rate.,手札にあるすべての「風の精霊」と「東風の精霊」のクリティカル率+100%。,使手中所有[风灵]的暴击率+100%。,
+Buff/B_Sanae_Rare12_Name,Text,,,Miracle of the Divine Wind,神風の奇跡,神风的奇迹,
+Character/KochiyaSanae_CampSelectWord,Text,,,"As a living god, I am still in training. I will strive to follow the examples of Lady Kanako and Lady Suwako.",私も現人神として修行中ですが、神奈子様と諏訪子様を目標に頑張っています。,作为现人神我尚在修行，我会以神奈子大人和诹访子大人为目标努力向上。,
+Character/KochiyaSanae_PassiveDes,Text,,,"<b>Faith is for the unreal</b> - At the start of each turn, generate 1 [East Wind Spirit].
+
+<b>Miracle Level Ability</b> - Every 4 uses of 0-cost skills restore 1 mana.
+
+<b><color=green>Combo X</color></b> - When the number of skills used in a turn exceeds X, additional effects can be triggered.","<b>信仰は儚き人間の為に</b> - 毎ターン開始時、「東風の精霊」を1枚手札に生成する。
+
+<b>奇跡を起こす程度の能力</b> - 自身のコスト0のスキルを4回使用するたび、マナを1回復する。
+
+<b><color=green>コンボX</color></b> - 1ターン中にX回以上のスキルを使用時、追加効果が発動する。","<b>信仰是为了虚幻之人</b> - 每个回合开始时，生成1个[东风灵]。
+
+<b>引发奇迹程度的能力</b> - 每使用4个0费的技能，获得1点法力值。
+
+<b><color=green>连击X</color></b> - 每个回合中使用过的技能大于X个时，可以触发额外效果。",
+Character/KochiyaSanae_PassiveName,Text,,,Worshipped by the Wind,祀られる風の人間,被祭拜的风之人,
+Character/KochiyaSanae_SelectInfo,Text,,,"Kochiya Sanae is a healing-focused support who specializes in rapidly using skills. 
+
+Sanae can generate numerous low-cost skills to stack Combo counts, unlocking powerful effects. 
+
+Combine with Wind Spirits to unleash gales in the Twisted Land!","東風谷早苗は迅速を持つスキルに重点を置いた回復サポートである。 
+
+早苗は、スキルを使用して低コストの派生スキルを大量に生成し、それらスキルを使用して「コンボ」数を重ねることができる。早苗のスキルは「コンボ数」が一定条件に達すると強力な追加効果を得る。 
+
+風の精霊と味方のスキルを組み合わせることで、歪みの地に強力な風を巻き起こすことができる！","东风谷早苗是以快速使用技能为核心的治疗型辅助。
+
+早苗能够使用技能生成大量的低费用衍生技能，并使用这些技能快速堆叠“连击”数。在“连击”数到达一定条件后，早苗的技能能够附带强力的额外效果。
+
+试着结合风灵系的调查员，在扭曲之地刮起强劲的风吧！",
+Character/KochiyaSanae_Text_Battle_AllyND_0,Text,,,I'll heal you right away!,すぐに治療します！,我马上来治疗你！,
+Character/KochiyaSanae_Text_Battle_Cri_0,Text,,,A miracle has been summoned!,これが奇跡です！,招来奇迹了哦！,
+Character/KochiyaSanae_Text_Battle_Cri_1,Text,,,Open your eyes wide and place your faith in me!,目を開けて、私を信じて！,睁大眼睛，然后信仰我吧！,
+Character/KochiyaSanae_Text_Battle_Healed_0,Text,,,That's a big help......,とても助かります......。,帮大忙了……,
+Character/KochiyaSanae_Text_Battle_Idle_0,Text,,,"I am Sanae, the Wind Priestess, the last descendant of the living gods who vanished from the outside world.",私は風祝 、外の世界では滅んだ現人神の最後の末裔です。,我是风祝早苗，是已经在外面世界绝迹了的现人神的末裔。,
+Character/KochiyaSanae_Text_Battle_Kill_0,Text,,,Contemplate the baptism of power from a living god!,これが現人神の力の洗礼です！,在现人神的力量洗礼中思索吧！,
+Character/KochiyaSanae_Text_Battle_ND_0,Text,,,"Ugh... Lady Kanako, Lady Suwako...",くっ......神奈子様、諏訪子様......。,咕……神奈子大人、诹访子大人……,
+Character/KochiyaSanae_Text_Battle_Start_0,Text,,,Allow me to chastise you with the power of a living god—this divine force that summons miracles!,就让我用现人神的力量好好惩治一下你吧，这召唤奇迹的神明之力！,就让我用现人神的力量好好惩治一下你吧，这召唤奇迹的神明之力！,
+Character/KochiyaSanae_Text_Field_GetItem_0,Text,,,"Heheh, with my miracle-summoning power, treasure chests are easily within reach!",現人神の力、奇跡を呼び起こす神の力で、あなたを罰しましょう！,哼哼，宝箱什么的，用我招来奇迹的力量唾手可得啦！,
+Character/KochiyaSanae_Text_Field_Idle_0,Text,,,Sometimes I miss the days when I attended school in the outside world...,時々、外の世界で学校に通っていた頃が懐かしくなります…,有时候也很怀念在外界上学的日子呢……,
+Character/KochiyaSanae_Text_Field_Idle_1,Text,,,Can I gather faith in the Distorted Land?,歪みの地で信仰は集められるのでしょうか？,在扭曲之地能收集到信仰吗？,
+Character/KochiyaSanae_Text_Field_Potion_P_0,Text,,,If I purify this potion with miracle power...,この薬を奇跡の力で浄化したら…,用奇迹之力净化这个药水的话……,
+Character/KochiyaSanae_Text_PharosLeader_0,Text,,,The one I should have faith in is Pharos......,私が信じるべきは、ファロス......。,我该信仰的，是法洛斯……,
+Character/KochiyaSanae_Text_PharosLeader_1,Text,,,......Huh?!,……え？！,……诶？！,
+Character/KochiyaSanae_Text_PharosLeader_2,Text,,,Bow before the divine power of Pharos!,ファロスの神通力を崇めよ！,拜倒在法洛斯的神力之下吧！,
+Character/KochiyaSanae_Text_Witch_0,Text,,,I'm fine!,私には影響がないですね！,我不要紧的！,
+Character/KochiyaSanae_Text_Witch_1,Text,,,Ugh... I-I'm okay...,ああ......私は、私には影響がないはず......。,呜……我、我不要紧的……,
+Character/KochiyaSanae_name,Text,,,Kochiya Sanae,東風谷 早苗,东风谷早苗,
+Character_Skin/KochiyaSanaeSkin_SkinDesc,Text,,,"In that wind, one might glimpse a maiden of ritual dancing amidst the breeze, offering a fleeting view into that world of fantasy—mountains named after youkai rising from flatlands. 
+By the time you realize, there's nothing before your eyes. 
+What you saw moments ago was, perhaps, the wind itself.",,"在那风中，仿若看到了于风中起舞的祝仪少女，得以从中窥见那个幻想世界的冰山一角，以妖怪命名的山自平地而起。
+等到反应过来时，眼前却又什么都没有。
+刚才看见的，大概，是风吧。",
+Character_Skin/KochiyaSanaeSkin_SkinName,Text,,,Modern Living God,,现代人的现人神,
+Item_Equip/E_Sanae_0_Description,Text,,,"The first time a 0-cost skill is used each turn, create a copy of it and grant +100% Critical Rate.",毎ターン、初めてコスト0のスキルを使用時、そのスキルのコピーを生成し、クリティカル率が100%増加する。,每个回合第1次使用0费的技能时，生成1个那个的复制，并附加暴击率+100%。,
+Item_Equip/E_Sanae_0_name,Text,,,Miracle Upon You,ワンダー·オブ·U,奇迹于你,
+SimpleCampDialogue/CampDial_KochiyaSanae_Azar_Dialogues_0,Text,,,[A]Wind Spirits and Phantom Swords are the perfect combination!,[A]风灵和幻影剑，简直是最佳搭配！,[A]风灵和幻影剑，简直是最佳搭配！,
+SimpleCampDialogue/CampDial_KochiyaSanae_Azar_Dialogues_1,Text,,,"[B]Hey, be careful not to overload my hand—",[B]喂，小心别把我手牌给爆了——,[B]喂，小心别把我手牌给爆了——,
+SimpleCampDialogue/CampDial_KochiyaSanae_Cirno_Dialogues_0,Text,,,"[A]Cirno, want to try placing your faith in me?",[A]啊，琪露诺，要不要来信仰我试试看？,[A]啊，琪露诺，要不要来信仰我试试看？,
+SimpleCampDialogue/CampDial_KochiyaSanae_Cirno_Dialogues_1,Text,,,[B]Hmph! I'm the strongest! I don't need faith!,[B]哼哼，咱可是最强的！才不需要信仰那种东西哦！,[B]哼哼，咱可是最强的！才不需要信仰那种东西哦！,
+SimpleCampDialogue/CampDial_KochiyaSanae_Daiyousei_Dialogues_0,Text,,,[A]Eek?! A youkai! Time for extermination!,[A]咦？！有妖怪，该治退了！,[A]咦？！有妖怪，该治退了！,
+SimpleCampDialogue/CampDial_KochiyaSanae_Daiyousei_Dialogues_1,Text,,,[B]Waaah! I-I'm not...!,[B]呜呜！我、我不是……！,[B]呜呜！我、我不是……！,
+SimpleCampDialogue/CampDial_KochiyaSanae_Daiyousei_Dialogues_2,Text,,,"[A]—Oh! It's just Daiyousei. Phew, almost attacked. Sorry—",[A]——哎呀，原来是大妖精。好险好险，差点就出手了，抱歉抱歉——,[A]——哎呀，原来是大妖精。好险好险，差点就出手了，抱歉抱歉——,
+SimpleCampDialogue/CampDial_KochiyaSanae_Daiyousei_Dialogues_3,Text,,,[B]Sniff... I almost died...,[B]呜呜……差点就要死了……,[B]呜呜……差点就要死了……,
+SimpleCampDialogue/CampDial_KochiyaSanae_Eirin_Dialogues_0,Text,,,"[B]Sanae,",[B]早苗，,[B]早苗，,
+SimpleCampDialogue/CampDial_KochiyaSanae_Eirin_Dialogues_1,Text,,,"[A]Lady Eirin, nothing escapes your sight.",[A]永琳大人，不管干什么都逃不过您的眼睛呢。,[A]永琳大人，不管干什么都逃不过您的眼睛呢。,
+SimpleCampDialogue/CampDial_KochiyaSanae_Eirin_Dialogues_2,Text,,,[B]I must keep watch lest you get hurt where I can't see.,[B]欸欸，要是你在我看不见的地方受伤的话可就苦恼了。,[B]欸欸，要是你在我看不见的地方受伤的话可就苦恼了。,
+SimpleCampDialogue/CampDial_KochiyaSanae_Eirin_Dialogues_3,Text,,,"[B]Thus, I must always observe you all.",[B]所以我必须时刻关注着你们呀。,[B]所以我必须时刻关注着你们呀。,
+SimpleCampDialogue/CampDial_KochiyaSanae_FlandreScarlet_Dialogues_0,Text,,,"[B]Miracle-summoning lady, better keep an eye on Flandre!",[B]招来神的小姐姐，可千万要看好芙兰哟？,[B]招来神的小姐姐，可千万要看好芙兰哟？,
+SimpleCampDialogue/CampDial_KochiyaSanae_FlandreScarlet_Dialogues_1,Text,,,[B]Or Flandre might collapse easily!,[B]不然芙兰很容易就会倒下的啦！,[B]不然芙兰很容易就会倒下的啦！,
+SimpleCampDialogue/CampDial_KochiyaSanae_FlandreScarlet_Dialogues_2,Text,,,"[A]Ugh... Then slow down, Flandre...",[A]呜呜……那芙兰你倒是飞慢一点呀……,[A]呜呜……那芙兰你倒是飞慢一点呀……,
+SimpleCampDialogue/CampDial_KochiyaSanae_HouraisanKaguya_Dialogues_0,Text,,,[A]Lady Kaguya! I finished that game you lent me!,[A]辉夜小姐！上次你借我的卡带我已经通关啦！,[A]辉夜小姐！上次你借我的卡带我已经通关啦！,
+SimpleCampDialogue/CampDial_KochiyaSanae_HouraisanKaguya_Dialogues_1,Text,,,[B]Already?! Don't your gods mind you slacking off?,[B]已经通关了？！……你这样摸鱼，你那两位神不会有意见吗？,[B]已经通关了？！……你这样摸鱼，你那两位神不会有意见吗？,
+SimpleCampDialogue/CampDial_KochiyaSanae_HouraisanKaguya_Dialogues_2,Text,,,[A]I stayed up all night... As long as... it doesn't affect daytime rituals...,[A]都是熬夜打的啦……只要……不影响白天的祭拜的话…………,[A]都是熬夜打的啦……只要……不影响白天的祭拜的话…………,
+SimpleCampDialogue/CampDial_KochiyaSanae_HouraisanKaguya_Dialogues_3,Text,,,"[B]Hey, don't fall asleep on me?!",[B]喂、喂，别就这么睡着呀？！,[B]喂、喂，别就这么睡着呀？！,
+SimpleCampDialogue/CampDial_KochiyaSanae_Inaba_Dialogues_0,Text,,,"[B]Miss Sanae, I made nearby rabbits worship Lady Kanako!",[B]早苗小姐，咱可是让附近的兔子们都信仰神奈子大人了哟！,[B]早苗小姐，咱可是让附近的兔子们都信仰神奈子大人了哟！,
+SimpleCampDialogue/CampDial_KochiyaSanae_Inaba_Dialogues_1,Text,,,[A]Even youkai rabbits' faith can amplify divine power.,[A]啊啊，即使是妖怪兔的信仰，也能让这份神力更加宏伟吧。,[A]啊啊，即使是妖怪兔的信仰，也能让这份神力更加宏伟吧。,
+SimpleCampDialogue/CampDial_KochiyaSanae_Inaba_Dialogues_2,Text,,,"[B]Then, per our deal, Lady Kanako must protect them.",[B]那么，依据说好的，神奈子大人可要护佑那些兔子们哦？,[B]那么，依据说好的，神奈子大人可要护佑那些兔子们哦？,
+SimpleCampDialogue/CampDial_KochiyaSanae_Inaba_Dialogues_3,Text,,,[B]...Stay safe when I'm gone.,[B]……咱不在的时候，可要好好活着呀。,[B]……咱不在的时候，可要好好活着呀。,
+SimpleCampDialogue/CampDial_KochiyaSanae_IzayoiSakuya_Dialogues_0,Text,,,[A]Being with fellow humans like you is a relief amidst all these youkai.,[A]最近总是跟鬼啊怪啊打交道，能跟同为人类的咲夜小姐在一起真是让人松了口气呢。,[A]最近总是跟鬼啊怪啊打交道，能跟同为人类的咲夜小姐在一起真是让人松了口气呢。,
+SimpleCampDialogue/CampDial_KochiyaSanae_IzayoiSakuya_Dialogues_1,Text,,,[B]You're not fully human either—you're a living god.,[B]你明明不是正儿八经的人类，而是现人神吧。,[B]你明明不是正儿八经的人类，而是现人神吧。,
+SimpleCampDialogue/CampDial_KochiyaSanae_IzayoiSakuya_Dialogues_2,Text,,,"[A]Ah, well... that's...",[A]呀，那是………………,[A]呀，那是………………,
+SimpleCampDialogue/CampDial_KochiyaSanae_IzayoiSakuya_Dialogues_3,Text,,,[B]No matter. I'm not fully human either.,[B]嘛，没所谓，毕竟我也不算正儿八经的人类。,[B]嘛，没所谓，毕竟我也不算正儿八经的人类。,
+SimpleCampDialogue/CampDial_KochiyaSanae_Mokou_Dialogues_0,Text,,,"[A]Miss Mokou, is your wound okay?",[A]妹红小姐，伤口不要紧吗？,[A]妹红小姐，伤口不要紧吗？,
+SimpleCampDialogue/CampDial_KochiyaSanae_Mokou_Dialogues_1,Text,,,[B]I'm immortal. This scratch is nothing.,[B]我可是不死人啊。这点小伤不要紧的。,[B]我可是不死人啊。这点小伤不要紧的。,
+SimpleCampDialogue/CampDial_KochiyaSanae_Mokou_Dialogues_2,Text,,,"[A]But it still hurts, right? Let me heal you with Wind Spirits.",[A]但还是会痛对吧？拜托，请让我用风灵治疗你。,[A]但还是会痛对吧？拜托，请让我用风灵治疗你。,
+SimpleCampDialogue/CampDial_KochiyaSanae_Mokou_Dialogues_3,Text,,,[B]...Since you insist...,[B]……既然都这样被拜托了，那……,[B]……既然都这样被拜托了，那……,
+SimpleCampDialogue/CampDial_KochiyaSanae_Momori_Dialogues_0,Text,,,[A]You remind me of my school days...,[A]看着你，我就忍不住想起我的学生时代呢……,[A]看着你，我就忍不住想起我的学生时代呢……,
+SimpleCampDialogue/CampDial_KochiyaSanae_Momori_Dialogues_1,Text,,,[B]Oh? What was young Sanae like☆?,[B]嗯？怎么怎么，早苗小姐的学生时代是什么样的呀☆？,[B]嗯？怎么怎么，早苗小姐的学生时代是什么样的呀☆？,
+SimpleCampDialogue/CampDial_KochiyaSanae_Momori_Dialogues_2,Text,,,[A]I wanna go to karaoke and chat on LINE with friends! Waaah—!,[A]我也好想和同学一起去KTV！一起聊LINE哇！呜哇——！,[A]我也好想和同学一起去KTV！一起聊LINE哇！呜哇——！,
+SimpleCampDialogue/CampDial_KochiyaSanae_Momori_Dialogues_3,Text,,,[B]M-Miss Sanae?! Don't cry?!,[B]早、早苗小姐？！别、别哭哇？！,[B]早、早苗小姐？！别、别哭哇？！,
+SimpleCampDialogue/CampDial_KochiyaSanae_Priest_Dialogues_0,Text,,,[B]Your faith is in false gods.,[B]你所信仰的，也不过是伪神罢了。,[B]你所信仰的，也不过是伪神罢了。,
+SimpleCampDialogue/CampDial_KochiyaSanae_Priest_Dialogues_1,Text,,,"[A]N-no, I'm not just a believer—I am a living god!",[A]不、不是，不是我信仰，而是我本人就是现人神耶？,[A]不、不是，不是我信仰，而是我本人就是现人神耶？,
+SimpleCampDialogue/CampDial_KochiyaSanae_Priest_Dialogues_2,Text,,,[B]......,[B]……,[B]……,
+SimpleCampDialogue/CampDial_KochiyaSanae_Reisen_Dialogues_0,Text,,,"[A]Don't worry, no one hunts rabbits for food anymore.",[A]放心，抓兔子当食物吃的人已经不存在了。,[A]放心，抓兔子当食物吃的人已经不存在了。,
+SimpleCampDialogue/CampDial_KochiyaSanae_Reisen_Dialogues_1,Text,,,"[B]I'm not edible, okay?",[B]我可不能吃哦？,[B]我可不能吃哦？,
+SimpleCampDialogue/CampDial_KochiyaSanae_RemiliaScarlet_Dialogues_0,Text,,,[B]Where are the gods you worship?,[B]你所信仰的那两尊神呢？,[B]你所信仰的那两尊神呢？,
+SimpleCampDialogue/CampDial_KochiyaSanae_RemiliaScarlet_Dialogues_1,Text,,,"[A]Somehow, I can't channel them here...",[A]不知道为什么，在这里我没法让她们附身在我身上……,[A]不知道为什么，在这里我没法让她们附身在我身上……,
+SimpleCampDialogue/CampDial_KochiyaSanae_RemiliaScarlet_Dialogues_2,Text,,,[B]Hmm... Perhaps the soul and body...,[B]哼嗯……看来灵魂和肉体……,[B]哼嗯……看来灵魂和肉体……,
+SimpleCampDialogue/CampDial_KochiyaSanae_RemiliaScarlet_Dialogues_3,Text,,,[A]Huh? What was that?,[A]诶？您说什么？我没听清……,[A]诶？您说什么？我没听清……,
+SimpleCampDialogue/CampDial_KochiyaSanae_SatsukiRin_Dialogues_0,Text,,,[A]Miss Rin Satsuki! I heard parts of my power originate from you...,[A]是冴月麟小姐！听说我所使用的能力有部分源自于您……,[A]是冴月麟小姐！听说我所使用的能力有部分源自于您……,
+SimpleCampDialogue/CampDial_KochiyaSanae_SatsukiRin_Dialogues_1,Text,,,[B]Your power stems from nature and miracles—not solely mine.,[B]你的能力来源于自然和奇迹哟。那并非是独属于我的力量。,[B]你的能力来源于自然和奇迹哟。那并非是独属于我的力量。,
+SimpleCampDialogue/CampDial_KochiyaSanae_SatsukiRin_Dialogues_2,Text,,,"[B]Besides, I'm just a girl now.",[B]况且，现在的我也不过是一个少女罢了。,[B]况且，现在的我也不过是一个少女罢了。,
+SimpleCampDialogue/CampDial_KochiyaSanae_SatsukiRin_Dialogues_3,Text,,,[A]I-I'll support you with all I have!,[A]我、我会尽全力帮助您的！,[A]我、我会尽全力帮助您的！,
+SimpleCampDialogue/CampDial_KochiyaSanae_TouhouAlice_Dialogues_0,Text,,,"[A]Alice, can't you make giant dolls?",[A]爱丽丝，没法制作大型人偶么？,[A]爱丽丝，没法制作大型人偶么？,
+SimpleCampDialogue/CampDial_KochiyaSanae_TouhouAlice_Dialogues_1,Text,,,[B]...How giant?,[B]……大型？要有多大型？,[B]……大型？要有多大型？,
+SimpleCampDialogue/CampDial_KochiyaSanae_TouhouAlice_Dialogues_2,Text,,,[A]A life-sized super robot...,[A]1：1缩放的超级机器人……,[A]1：1缩放的超级机器人……,
+SimpleCampDialogue/CampDial_KochiyaSanae_TouhouAlice_Dialogues_3,Text,,,[B]No way!!!,[B]我拒绝！！！,[B]我拒绝！！！,
+SimpleCampDialogue/CampDial_KochiyaSanae_Youmu_Dialogues_0,Text,,,[A]Youmu! Prepare for combo strikes!,[A]妖梦！连击的准备就拜托你了！,[A]妖梦！连击的准备就拜托你了！,
+SimpleCampDialogue/CampDial_KochiyaSanae_Youmu_Dialogues_1,Text,,,[B]Leave it to me! I'll slash a thousand combos!,[B]放心吧！有我在，就算斩上一千连击也不是问题！,[B]放心吧！有我在，就算斩上一千连击也不是问题！,
+Skill/S_FSL_Common_Description,Text,,,"Deals &a (40%) damage when targeting an enemy. Restores &b (65%) HP when targeting an ally. 
+
+<b><color=green>Combo 2</color></b> - Gain Once.","敵に使用時、&a(40%)のダメージを与え。味方に使用時、&b(65%)で回復する。
+
+<b><color=green>コンボ2</color></b> -単発を得る。","指向敌人时，造成&a(40%)伤害。指向友军时，恢复&b(65%)体力。
+
+<b><color=green>连击2</color></b> - 获得一次性。",
+Skill/S_FSL_Common_Name,Text,,,Wind Spirit,風の精霊,风灵,
+Skill/S_Sanae_0_Description,Text,,,"Generate 1 [Wind Spirit].
+
+ <b><color=green>Combo 2</color></b> - Gain Swiftness.","「風の精霊」を1枚手札に生成する。
+
+<b><color=green>コンボ2</color></b> -迅速を得る。","生成1个[风灵]。
+
+<b><color=green>连击2</color></b> - 获得迅速。",
+Skill/S_Sanae_0_Name,Text,,,Esoterica「Gray Thaumaturgy」,秘術「グレイソーマタージ」,秘术「灰色奇术」,
+Skill/S_Sanae_1_0_Description,Text,,,,,,
+Skill/S_Sanae_1_0_Name,Text,,,Esoterica「Secretly Inherited Art of Danmaku」,秘術「一子相伝の弾幕」,秘术「一脉单传之弹幕」,
+Skill/S_Sanae_1_Description,Text,,,<b><color=green>Combo 4</color></b> - Add 1 copy of Esoterica「Secretly Inherited Art of Danmaku」with 0 cost to your hand.,<b><color=green>コンボ4</color></b> - コスト0の「秘術-一子相伝の弾幕」を1枚手札に加える。,<b><color=green>连击4</color></b> - 将1张0费的[秘术「一脉单传之弹幕」]加入手中。,
+Skill/S_Sanae_1_Name,Text,,,Esoterica「Secretly Inherited Art of Danmaku」,秘術「一子相伝の弾幕」,秘术「一脉单传之弹幕」,
+Skill/S_Sanae_2_Description,Text,,,"Generate 1 [Wind Spirit]. 
+
+<b><color=green>Combo 2</color></b> - Restore an additional &a (20%) HP. 
+<b><color=green>Combo 4</color></b> - Apply [Miracle Upon You].","「風の精霊」を1枚手札に生成する。
+
+<b><color=green>コンボ2</color></b> - 体力を&a(20%)追加で回復する。
+<b><color=green>コンボ4</color></b> - [あなたにとっての奇跡 ]を与える。","生成1个[风灵]。
+
+<b><color=green>连击2</color></b> - 额外恢复&a(20%)体力。
+<b><color=green>连击4</color></b> - 施加[奇迹于你]。",
+Skill/S_Sanae_2_Name,Text,,,Miracle「Daytime Guest Stars」,奇跡「白昼の客星」,奇迹「白昼的客星」,
+Skill/S_Sanae_3_Description,Text,,,<b><color=green>Combo 4</color></b> - Restore an additional &a (35%) HP.,<b><color=green>コンボ4</color></b> - 体力を&a(35%)追加で回復する。,<b><color=green>连击4</color></b> - 额外恢复&a(35%)体力。,
+Skill/S_Sanae_3_Name,Text,,,Miracle「Night with Overly Bright Guest Stars」,奇跡「客星の明るすぎる夜」,奇迹「客星辉煌之夜」,
+Skill/S_Sanae_4_Description,Text,,,"<b><color=green>Combo 4</color></b> - Draw 1 skill. If its original cost is 1, reduce it to 0.",<b><color=green>コンボ4</color></b> -スキルを1枚引く。 引いたスキルの元のコストが1の場合、コストを0にする。,<b><color=green>连击4</color></b> - 抽取1个技能。如果抽到的技能原始费用为1点，降低至0费。,
+Skill/S_Sanae_4_Name,Text,,,Miracle「Night with Bright Guest Stars」,奇跡「客星の明るい夜」,奇迹「客星璀璨之夜」,
+Skill/S_Sanae_5_Description,Text,,,<b><color=green>Combo 2</color></b> - Generate 1 [East Wind Spirit].,<b><color=green>コンボ2</color></b> - 「東風の精霊」を1枚手札に生成する。,<b><color=green>连击2</color></b> - 生成1个[东风灵]。,
+Skill/S_Sanae_5_Name,Text,,,Miracle「Divine Wind of the Kouan Era」,奇跡「弘安の神風」,奇迹「弘安的神风」,
+Skill/S_Sanae_6_Description,Text,,,Generate 1 [Wind Spirit] and 1 [East Wind Spirit].,「風の精霊」と「東風の精霊」を1枚ずつ手札に生成する。,生成1个[风灵]和1个[东风灵]。,
+Skill/S_Sanae_6_Name,Text,,,Miracle「God's Wind」,奇跡「神の風」,奇迹「神之风」,
+Skill/S_Sanae_7_Description,Text,,,Retrieve 1 skill with cost 1 or below from the discard pile to your hand.,捨て札からコスト1以下のスキルを1枚手札に加える。,从弃牌堆将1张1费或以下的技能拿回手中。,
+Skill/S_Sanae_7_Name,Text,,,Sea Opening「The Day the Sea Split」,開海「海が割れる日」,开海「海水分开之日」,
+Skill/S_Sanae_8_Description,Text,,,"Return target skill to the top of the deck. Then, generate [Wind Spirits] equal to its cost (minimum 1).",対象のスキルをデッキの一番上に戻す。 その後、対象のスキルのコストと同じ枚数「風の精霊」（最低1枚）を手札に生成する。,使目标技能回到牌堆顶。那之后，根据目标技能的费用，生成相应数量的[风灵]（最少1个）。,
+Skill/S_Sanae_8_Name,Text,,,Frog Sign「Wily Toad」,蛙符「手管の蝦蟇」,蛙符「操纵蛤蟆」,
+Skill/S_Sanae_LucyD_Description,Text,,,"Draw 1 skill. If Sanae is alive, generate 1 [Wind Spirit] under her control. 
+
+<b><color=green>Combo 2</color></b> - Draw another skill and generate 1 [East Wind Spirit] if Sanae is alive.","スキルを1枚引く。東風谷早苗が生存している場合、東風谷早苗が所有者の「風の精霊」を1枚手札に生成する。
+
+<b><color=green>コンボ2</color></b> - スキルを1枚引く。東風谷早苗が生存している場合、東風谷早苗が所有者の「東風の精霊」を1枚手札に生成する。","抽取1个技能。若东风谷早苗存活，生成1个持有者为早苗的[风灵]。
+
+<b><color=green>连击2</color></b> - 额外抽取1个技能。若东风谷早苗存活，生成1个持有者为早苗的[东风灵]。",
+Skill/S_Sanae_LucyD_Name,Text,,,Prayer「Charm of Good Commerce」,祈願「商売繁盛守り」,祈愿「守护商业繁荣」,
+Skill/S_Sanae_P_Name,Text,,,East Wind Spirit,東風の精霊,东风灵,
+Skill/S_Sanae_Rare10_Name,Text,,,Sea Opening「Moses's Miracle」,開海「モーゼの奇跡」,开海「摩西之奇迹」,
+Skill/S_Sanae_Rare11_0_Description,Text,,,"Grants target skill Swiftness, Ignore Taunt, and Critical. 
+If the skill holder is yourself, deal &a(100%) additional damage or &b(100%) healing.","対象のスキルに迅速、挑発無視、致命を与える。
+対象スキルの所有者が自身である場合、&a(100%)のダメージか&b(100%)の回復を追加与える。","使目标技能获得迅速、无视嘲讽、致命。
+如果目标技能的持有者为自己，使其额外造成&a(100%)伤害或&b(100%)治疗。",
+Skill/S_Sanae_Rare11_0_Name,Text,,,Miracle「Miracle Pentacle」,奇跡「ミラクルペンタクル」,奇迹「奇迹五角星」,
+Skill/S_Sanae_Rare11_Description,Text,,,"If X ≥10, generate Miracle「Miracle Pentacle」. 
+
+<b><color=green>Combo 4</color></b> - Deal X damage. X = 0-cost skills used this combat (Now &a).","Xが10以上の場合，「奇跡-ミラクルペンタクル」を生成する。
+
+<b><color=green>コンボ4</color></b> - Xのダメージを追加で与える。
+
+Xは「この戦闘中に使用したコスト0のスキルの枚数」。現在&a 枚。","如果X为10以上，生成[奇迹「奇迹五角星」]。
+
+<b><color=green>连击4</color></b> - 额外造成X伤害。
+
+X为[这场战斗中使用过的0费技能个数]，现在是 &a 个。",
+Skill/S_Sanae_Rare11_Name,Text,,,Esoterica「Nine Syllable Stabs」,秘法「九字刺し」,秘法「九字切」,
+Skill/S_Sanae_Rare12_Description,Text,,,Create 1 [Wind Spirit] and 1 [East Wind Spirit].,「風の精霊」と「東風の精霊」を1枚ずつ手札に生成する。,生成1个[风灵]和1个[东风灵]。,
+Skill/S_Sanae_Rare12_Name,Text,,,Great Miracle「Yasaka's Divine Wind」,大奇跡「八坂の神風」,大奇迹「八坂之神风」,
+SkillExtended/SE_Sanae_C1_EnforceString,Text,,,,,,
+SkillExtended/SE_Sanae_C1_Name,Text,,,<b><color=green>Combo 2</color></b> - Create 1 [Wind Spirit].,<color=green>コンボ2</color> - 「風の精霊」を1枚手札に生成する。,<color=green>连击2</color> - 生成1个[风灵]。,
+SkillExtended/SE_Sanae_C2_EnforceString,Text,,,,,,
+SkillExtended/SE_Sanae_C2_Name,Text,,,Generate [East Wind Spirits] equal to this skill's cost.,このスキルのコストと同じ枚数「風の精霊」を手札に生成する。,根据支付的费用，在手中生成相应数量的[东风灵]。,
+SkillExtended/SE_Sanae_Combo_Name,Text,,,Combo,コンボ,连击,
+SkillExtended/SE_Sanae_E_0_Name,Text,,,+100% Critical Rate,,暴击率+100%,
+SkillExtended/SE_Sanae_Rare10_Des,Text,,,Deal &a (20%) additional damage or &b (20%) healing.,&a(20%)のダメージか&b(20%)の回復を追加で与える。,造成&a(20%)额外伤害或&b(20%)额外治疗。,
+SkillExtended/SE_Sanae_Rare10_Name,Text,,,Miracle of the Parted Sea,海が割れる奇跡,开海的奇迹,
+SkillExtended/SE_Sanae_Rare11_0_0_Des,Text,,,,,,
+SkillExtended/SE_Sanae_Rare11_0_0_Name,Text,,,Miracle of Pentagram,ミラクルペンタグラム,五芒星的奇迹,
+SkillExtended/SE_Sanae_Rare11_0_Name,Text,,,Miracle of the Five-pointed Star,ミラクルペンタクル,五角星的奇迹,
+SkillExtended/SE_Sanae_Rare12_Des,Text,,,+100% Critical Rate.,クリティカル率+100%。,暴击率+100%。,
+SkillExtended/SE_Sanae_Rare12_Name,Text,,,Miracle of the Divine Wind,神風の奇跡,神风的奇迹,
+SkillKeyword/Keyword_Combo_Desc,Text,,,"When X or more skills are used in a turn, trigger additional effects.",1ターン中にX回以上のスキルを使用時、追加効果が発動する。,每个回合中使用过的技能大于X个时，可以触发额外效果。,
+SkillKeyword/Keyword_Combo_Name,Text,,,<color=green>Combo</color>,<color=green>コンボ</color>,<color=green>连击</color>,
+

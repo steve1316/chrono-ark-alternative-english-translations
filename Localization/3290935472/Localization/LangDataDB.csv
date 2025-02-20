@@ -1,0 +1,250 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Reisen_11Rare_Description,Text,,[광기]의 중첩 수를 감소시키지 않는다.,Does not reduce stacks of <color=#FF00FF>Insanity</color>.,[狂気]のスタック数は減少しない。,不会减少<color=#FF00FF>狂气</color>的层数。,
+Buff/B_Reisen_11Rare_Name,Text,,환상/광몽,Illusion/Mad Dream,幻影/狂夢,幻象/狂梦,
+Buff/B_Reisen_12Rare_Description,Text,,4 중첩 시 자신과 모든 적에게 최대 체력의 100%의 피해를 입힌다.,"When 4 stacks are reached, deals 100% of max HP damage to self and all enemies.",スタック数が4に達すると、自身と敵全体に自身の最大体力の100%のダメージを与える。,叠加4层后对自己和所有敌人造成100%最大体力值的伤害。,
+Buff/B_Reisen_12Rare_Name,Text,,국사무쌍,Peerless Patriot,国士無双,国士无双,
+Buff/B_Reisen_1_0_Description,Text,,행동할 수 없다.,Cannot take action.,行動不能。,无法行动。,
+Buff/B_Reisen_1_0_Name,Text,,환상/나동,Illusion/Spirit Stopping,幻影/懶惰,幻象/懒冻,
+Buff/B_Reisen_1_Description,Text,,,,,,
+Buff/B_Reisen_1_Name,Text,,환상/태동파,Illusion/Illusion Wave,幻影/幻波,幻象/怠波,
+Buff/B_Reisen_2_0_Description,Text,,대상에 대한 [환상/난탄]의 치명타 확률이 100% 증가한다.,Increases Critical Rate by 100% against targets with [Illusion/Random Shot].,[幻影/乱射]を持つ対象に対してクリティカル率が100%増加する。,[幻象/乱弹]对目标的暴击率提升100%。,
+Buff/B_Reisen_2_0_Name,Text,,환상/광시,Illusion/Lunatic Stare,幻影/狂視,幻象/狂视,
+Buff/B_Reisen_2_Description,Text,,대상에 대한 [환상/난탄]의 명중률이 100% 증가한다.,Increases Hit Rate by 100% against targets with [Illusion/Random Shot].,[幻影/乱射]を持つ対象に対して命中率が100%増加する。,[幻象/乱弹]对目标的命中率提升100%。,
+Buff/B_Reisen_2_Name,Text,,환상/조율,Illusion/Tuning,幻影/調律,幻象/调律,
+Buff/B_Reisen_3_Description,Text,,추가 공격 및 반격에 의한 피해량 +&a,Follow-up attack/Counter damage dealt +&a (33%).,追加攻撃/反撃のダメージ+&a。,造成的追加攻击/反击伤害+&a(33%)。,
+Buff/B_Reisen_3_Name,Text,,환상/화관,Illusion/Corolla,幻影/花冠,幻象/花冠,
+Buff/B_Reisen_4_0_Description,Text,,,,,,
+Buff/B_Reisen_4_0_Name,Text,,환상/상처,Illusion/Weak Heart,幻影/弱心,幻象/疮痍,
+Buff/B_Reisen_4_Description,Text,,,,,,
+Buff/B_Reisen_4_Name,Text,,환상/상심,Illusion/Demotivation,幻影/喪心,幻象/丧心,
+Buff/B_Reisen_5_Description,Text,,다음 받는 공격을  회피한다.,Dodge the next instance of damage taken.,次に受けるダメージを1度回避する。,闪避下1次受到的伤害。,
+Buff/B_Reisen_5_Name,Text,,환상/시차,Illusion/Barrage,幻影/惑視,幻象/视差,
+Buff/B_Reisen_6_Description,Text,,"[환상/난탄]이 발동될 때마다 [광기]를 1중첩 소모하며, [환상/난탄]의 피해량이 &a(75%)로 증가하고 명중률이 100%로 증가한다.
+[광기] 중첩이 0에 도달하면 [환상/망월] 상태가 해제된다. ","Each time <color=#B22222>Illusion/Random Shot</color> is triggered, lose 1 stack of <color=#FF00FF>Insanity</color>, increasing <color=#B22222>Illusion/Random Shot</color>'s damage by &a (75%) and Hit Rate to 100%. 
+When <color=#FF00FF>Insanity</color> stacks reach 0, the <color=#FF0000>Illusion/Lunatic Blast</color> status is removed.","[幻影/乱射]の効果が発動するたびに[狂気]を1ストック消費し、[幻影/乱射]のダメージが&a(75%)増加し、命中率が100%になる。
+[狂気]のストック数が0になったとき、[幻影/望月]は除去される。","每次触发<color=#B22222>幻象/乱弹</color>时失去1层<color=#FF00FF>狂气</color>，使<color=#B22222>幻象/乱弹</color>的伤害提升为&a(75%)，命中率提升为100%。
+当<color=#FF00FF>狂气</color>层数归零时，<color=#FF0000>幻象/望月</color>状态解除。",
+Buff/B_Reisen_6_Name,Text,,환상/망월,<color=#FF0000>Illusion/Lunatic Blast</color>,幻影/望月,<color=#FF0000>幻象/望月</color>,
+Buff/B_Reisen_7_Description,Text,,매 라운드 시작 시 [총알] 3중첩을 획득한다.,"At the start of each turn, gain 3 <color=#B22222>Bullets</color>.",毎ターン開始時に[バレット]を3ストック得る。,每个回合开始时，获得3颗<color=#B22222>子弹</color>。,
+Buff/B_Reisen_7_Name,Text,,현실/환상,Reality/Illusion,真実/幻影,真实/幻象,
+Buff/B_Reisen_8_Description,Text,,,,,,
+Buff/B_Reisen_8_Name,Text,,환상/환상 폭발,Illusion/Phantom Bomb,幻影/幻爆,幻象/幻爆,
+Buff/B_Reisen_9_Description,Text,,,,,,
+Buff/B_Reisen_9_Name,Text,,환상/농월,Illusion/Mist Moon,幻影/朧月,幻象/胧月,
+Buff/B_Reisen_P_Bullet_Description,Text,,,"Consumes <color=#B22222>Bullets</color> to activate <color=#B22222>Illusion/Random Shot</color>.
+
+<i><color=#CDC9C9>Firing requires bullets. This is common sense.</color></i>",,"消耗<color=#B22222>子弹</color>来触发<color=#B22222>幻象/乱弹</color>。
+
+<i><color=#CDC9C9>开枪需要消耗子弹。这是常识。</color></i>",
+Buff/B_Reisen_P_Bullet_Name,Text,,총알,<color=#B22222>Bullet</color>,バレット,<color=#B22222>子弹</color>,
+Buff/B_Reisen_P_Description,Text,,"[환상/난탄]이 발동될 때마다 [광기] 1중첩을 소모하며, [환상/난탄]의 적중률이 75%로 증가한다.
+[광기]가 0중첩이 되거나 [대기] 버튼을 누르면 [환상/적월] 상태가 해제된다.","Each time <color=#B22222>Illusion/Random Shot</color> is triggered, lose 1 stack of <color=#FF00FF>Insanity</color>, increasing <color=#B22222>Illusion/Random Shot</color>'s Hit Rate to 100%. 
+When <color=#FF00FF>Insanity</color> stacks reach 0 or a Standby is used, the <color=#FF4500>Illusion/Red Moon</color> status is removed.","[幻影/乱射]の効果が発動するたびに[狂気]を1ストック消費し、[幻影/乱射]の命中率を75%にする。
+狂気]のストック数が0になるか、待機を行うと、[幻影/赤月]は除去される。","每次触发<color=#B22222>幻象/乱弹</color>时失去1层<color=#FF00FF>狂气</color>，使<color=#B22222>幻象/乱弹</color>的命中率提升为100%。
+当<color=#FF00FF>狂气</color>层数归零时、或是按下[等待]按钮时，<color=#FF4500>幻象/赤月</color>状态解除。",
+Buff/B_Reisen_P_Insane_Description,Text,,,"Consumes <color=#FF00FF>Insanity</color> to enhance skill effects.
+
+<i><color=#CDC9C9>Has Reisen mastered the madness, or has the madness mastered Reisen?</color></i>",,"消耗<color=#FF00FF>狂气</color>来加强技能的效果。
+
+<i><color=#CDC9C9>究竟是铃仙控制了狂气，还是狂气控制了铃仙？</color></i>",
+Buff/B_Reisen_P_Insane_Name,Text,,광기,<color=#FF00FF>Insanity</color>,狂気,<color=#FF00FF>狂气</color>,
+Buff/B_Reisen_P_Name,Text,,환상/적월,<color=#FF4500>Illusion/Red Moon</color>,幻影/赤月,<color=#FF4500>幻象/赤月</color>,
+Character/Reisen_CampSelectWord,Text,,오늘 보름달이 떳네. 사람을 미치게 만드는 둥근 달이야.,The moon radiates madness even more intensely tonight.,今夜の月は 一段と狂気の光を放っている。,今天的月亮真圆呢！像是想让人发狂一样。,
+Character/Reisen_PassiveDes,Text,,"<b>환상/난탄</b> - 전투 시작 시 [총알] 6개를 획득한다. [대기] 버튼을 누를 때마다 [총알] 1개를 획득한다.
+레이센이 적에게 공격 스킬을 사용하면 자동으로 [총알] 1개를 소모하고 대상에게 [환상/난탄] 1개를 발동한다.
+
+<b>환상/광기</b> - 전투 시작 시 [광기] 4중첩을 획득한다. 매 라운드 시작 시 [광기] 1중첩을 획득한다.
+레이센의 고정 스킬이 [장시 「적월하(Infrared Moon)」]으로 변경 : [광기] 1중첩을 소모하고 [환상/적월] 상태가 된다.
+[환상/적월] 상태에서는 레이센의 [환상/난탄]과 손에 있는 스킬이 강화 및 추가 효과를 얻게 되지만, 스킬 사용 시 [광기]가 소모됩니다. [광기]가 0중첩이 될 시 [환상/적월] 상태를 종료한다. ","<b><color=#B22222>Illusion/Random Shot</color></b> - Start combat with 6 <color=#B22222>Bullets</color>. Gain 1 <color=#B22222>Bullet</color> when using a Standby. When Reisen uses attack skills on single enemies, consume 1 <color=#B22222>Bullet</color> to perform a <color=#B22222>Illusion/Random Shot</color> follow-up attack.
+
+<b><color=#FF00FF>Illusion/Madness</color></b> - Start combat with 4 <color=#FF00FF>Insanity</color> stacks. Gain 1 stack per turn. Reisen's fixed skill becomes Farsight「In the Red Moonlight (Infrared Moon)」: Consume 1 <color=#FF00FF>Insanity</color> stack to enter <color=#FF4500>Illusion/Red Moon</color> state.
+
+<b><color=#FF4500>Illusion/Red Moon</color></b> - Enhances <color=#B22222>Illusion/Random Shot</color> and hand skills with additional effects. Using skills consumes <color=#FF00FF>Insanity</color> stacks. Exits when <color=#FF00FF>Insanity</color> stacks reach 0.","<b>幻影/乱射</b> - 戦闘開始時に、[バレット]を6ストック得る。待機を行うたびに、[バレット]を1ストック得る。
+鈴仙が攻撃スキルを敵に対して使用したとき、[バレット]を1ストック消費して、対象に[幻影/乱射]を発動する。
+
+<b>幻影/狂気</b> - 戦闘開始時に、[狂気]を4ストック得る。毎ターン開始時に[狂気]を1ストック得る。
+鈴仙の固定能力は「長視-赤月下(インフレアドムーン)」に変更される。：[狂気]を1ストック消費して，[幻影/赤月]を得る。
+[幻影/赤月]を持つ間、鈴仙は[幻影/乱射]や手札の自身のスキルに強化や追加効果を与えるが、使用するたびに[狂気]のストックを消費する。[狂気]のストック数が0になると、[幻影/赤月]は除去される。","<b><color=#B22222>幻象/乱弹</color></b> - 战斗开始时，获得6颗<color=#B22222>子弹</color>。每次按下[等待]按钮时，获得1颗<color=#B22222>子弹</color>。
+铃仙使用攻击技能指向单个敌人时，自动消耗1颗<color=#B22222>子弹</color>，对目标进行1次<color=#B22222>幻象/乱弹</color>的追加攻击。
+
+<b><color=#FF00FF>幻象/狂气</color></b> - 战斗开始时，获得4层<color=#FF00FF>幻象/狂气</color>。每个回合开始时，获得1层<color=#FF00FF>幻象/狂气</color>。
+铃仙的固定技能被替换为[长视「赤月下(Infrared Moon)」]：消耗1层<color=#FF00FF>幻象/狂气</color>，进入<color=#FF4500>幻象/赤月</color>状态。
+
+<b><color=#FF4500>幻象/赤月</color></b> - 在这个状态下，铃仙的<color=#B22222>幻象/乱弹</color>和手中的技能获得增强和额外效果，但使用技能时会消耗<color=#FF00FF>幻象/狂气</color>的层数。<color=#FF00FF>幻象/狂气</color>层数清空时退出<color=#FF4500>幻象/赤月</color>状态。",
+Character/Reisen_PassiveName,Text,,광기의 붉은 눈동자,Lunatic Red Eyes,狂気の赤い瞳,狂气的赤瞳,
+Character/Reisen_SelectInfo,Text,,"레이센은 단일 공격에 특화된 슈터이다.
+
+고정 스킬을 사용해 출력 상태를 전환하면 [총알]과 [광기] 자원을 모두 대량의 단일 피해로 변환한다. 레이센의 공격이 시작되면 총알이 폭풍우처럼 쏟아진다.
+
+하지만 [총알]과 [광기]의 자원 관리에 특히 주의해야 한다.
+
+<color=#9E7BC9>""이 앞에 기다리고 있는 게 악몽이라 해도,
+그래도 나는 가야만 해."" </color>","Reisen is a single-target specialist marksman who converts [<color=#B22222>Bullets</color>] and [<color=#FF00FF>Insanity</color>] into devastating assaults through fixed skills. 
+
+Once her barrage begins, bullets rain like a storm. Manage resources carefully. 
+
+<color=#9E7BC9>""Even if nightmares await ahead, I must press onward.""</color>","鈴仙は単体に対する攻撃に特化している。
+
+固定能力を使用することでスタイルを変更し、[バレット]と[狂気]を攻撃のリソースとして使用する。鈴仙が攻勢に出れば弾丸が雨のように降り注ぐだろう。
+
+ただし[バレット]と[狂気]のリソース管理には注意して行う必要がある。
+
+<color=#9E7BC9>""その先に待っているのが悪夢でも、
+でも私は行かなければなりません。"" </color>","铃仙是专精单体伤害的输出型射手。
+
+通过使用固定技能转换自己的输出状态，将[子弹]与[狂气]两种资源转化成大量的单体输出。一旦铃仙的攻击形成攻势，子弹将会如狂风暴雨般倾斜而下。
+
+但要特别注意[子弹]与[狂气]的资源管理喔。",
+Character/Reisen_Text_Battle_Cri_0,Text,,BINGO！,BINGO!,ビンゴ！,BINGO！,
+Character/Reisen_Text_Battle_Cri_1,Text,,빵! 빵! 빵!,Bang! Bang! Bang!!,バン！バン！バン！ ！,乓！乓！乓！！,
+Character/Reisen_Text_Battle_Healed_0,Text,,"고마워, 이제 훨씬 나아졌어.","Thank you, I feel much better now.",ありがとう、だいぶ良くなりました。,谢谢你，现在好多了。,
+Character/Reisen_Text_Battle_Idle_0,Text,,어느 방향으로 쏴야 하는거야?,Who should I target?,誰を狙う？,要瞄准哪边呢？,
+Character/Reisen_Text_Battle_Idle_1,Text,,"어서, 미치게 해줘!","Now, let's go mad!",さあ、狂いなさい！,来，让我发狂吧！,
+Character/Reisen_Text_Battle_Kill_0,Text,,다시 만나게 될 거라고 믿어.......,We'll meet again... because you exist...,きっとまた会える、あなたがいるから…,我们一定会再见面的，因为你是……,
+Character/Reisen_Text_Battle_ND_0,Text,,우...... 스승님......,Ugh... Master...,ああ……師匠……,呜……师父……,
+Character/Reisen_Text_Battle_Start_0,Text,,설명은 필요 없으니 와서 즐겨.,No explanations needed. Let's enjoy this.,説明はいらない、楽しみましょう。,解释就不必了，来享受吧。,
+Character/Reisen_Text_Field_GetItem_0,Text,,보물인가? 테위는 이런 걸 뒤지는 걸 좋아했지.,Treasure? Lady Tewi loves these things.,宝物ですか？ てゐこういうものが好きなんです。,是宝物吗？帝最喜欢折腾这些东西了。,
+Character/Reisen_Text_Field_Idle_0,Text,,오늘 달이 엄청 동그랗네. 뭔가 미칠 것 같아.,The moon is full tonight. It drives men mad.,今宵は月が満ちています。月は人を狂わせる。,今天的月亮真圆呢。有种让人发狂的感觉。,
+Character/Reisen_Text_Field_Potion_P_0,Text,,하하. 스승님이 만든 이상한 약보다 훨씬 맛있어......,Ah... Still better than Master's weird potions...,ああ。 師匠の作った変な薬より、こっちの方がましね……,哈啊。这味道比师父做的奇怪的药好多了……,
+Character/Reisen_Text_MasterTarget,Text,,,"Ah... Master, Princess... I'm sorry...",,啊啊、师父、公主大人，对不起……,
+Character/Reisen_Text_Witch_0,Text,,,"A trivial curse. Compared to Her Highness' eternity, it's but a moment.",,无聊的诅咒。跟公主大人的永恒比起来，不过是须臾而已。,
+Character/Reisen_name,Text,,레이센 우동게인 이나바,Reisen Udongein Inaba,鈴仙·優曇華院·イナバ,铃仙,
+Character_Skin/ReisenEVO_SkinDesc,Text,,,"Though the surface is harsh, its ever-changing nature brings fascination. 
+Where one dwells becomes home.",,"地面的环境虽然糟糕，但是变化多多，还是很有趣的。
+俗话说久居则安嘛。",
+Character_Skin/ReisenEVO_SkinName,Text,,,Gazing at the Full Moon,,望见圆月,
+Character_Skin/ReisenShooter_SkinDesc,Text,,,Do you know why tonight's moon burns crimson?,,你知道今夜的月为何如此之红吗？,
+Character_Skin/ReisenShooter_SkinName,Text,,,Where Moon Rabbits Dwell,,月兔之所在,
+Item_Passive/R_Reisen_0_Description,Text,,전투가 끝나면 모든 아군의 체력을 6 초과 회복한다.,"After the end of battle, all allies will Overheal by 6 HP.",戦闘終了時に味方全員を6オーバーヒールする。,战斗结束后，超额治疗所有队员6点体力值。,
+Item_Passive/R_Reisen_0_name,Text,,토끼 전골,Rabbit Hotpot,兎鍋,兔肉火锅,
+SimpleCampDialogue/CampDial_Reisen_Eirin_Dialogues_0,Text,,,[A]Having Master nearby brings such peace.,,[A]有师父在身边就特别安心呢。,
+SimpleCampDialogue/CampDial_Reisen_Eirin_Dialogues_1,Text,,,"[B]Ah, Reisen, want to try the newly developed medicine?",,[B]啊，铃仙，要不要试试新开发的药？,
+SimpleCampDialogue/CampDial_Reisen_Eirin_Dialogues_2,Text,,,[A]Uh... That...,,[A]啊、那个……………………,
+SimpleCampDialogue/CampDial_Reisen_FlandreScarlet_Dialogues_0,Text,,"[A]무슨 일이야? 나 보면 미칠 것 같지 않아? 아-, 그러고보니 이미 미쳐버린 지 오래였구나...",[A]What's wrong? Not going mad at my sight? Ah... already insane.,[A]怎么回事？ 看到我也不会发狂？ 啊—，原来早就疯了啊……,[A]怎么回事？ 看到我也不会发狂？ 啊—，原来早就疯了啊……,
+SimpleCampDialogue/CampDial_Reisen_FlandreScarlet_Dialogues_1,Text,,[B]음? 뭐가 문제야?,[B]Hmm? Something wrong?,[B]嗯？怎么了吗？,[B]嗯？怎么了吗？,
+SimpleCampDialogue/CampDial_Reisen_FlandreScarlet_Dialogues_2,Text,,"[A]아니, 아무것도 아니야.","[A]Nothing at all, oh.",[A]不，没什么哦。,[A]不，没什么哦。,
+SimpleCampDialogue/CampDial_Reisen_Hein_Dialogues_0,Text,,"[B]이봐, 토끼, 그 눈빛으로 날 좀 더 미치게 만들어봐!",[B]Hey rabbit! Make me crazier with those eyes!,[B]喂，兔子，快用你那双眼睛让我变得更疯狂些吧！,[B]喂，兔子，快用你那双眼睛让我变得更疯狂些吧！,
+SimpleCampDialogue/CampDial_Reisen_IzayoiSakuya_Dialogues_0,Text,,[A]시간을 멈춰도 환상을 피할 수는 없을걸?,[A]Even stopped time can't escape illusions.,[A]就算你停止时间，不还是躲不过幻觉吗？,[A]就算你停止时间，不还是躲不过幻觉吗？,
+SimpleCampDialogue/CampDial_Reisen_IzayoiSakuya_Dialogues_1,Text,,[B]진정한 마술사는 눈을 감아도 움직임을 멈추지 않습니다.,[B]True magicians work blindfolded.,[B]真正的魔术师就算闭上眼睛也不会停止手上的动作哦。,[B]真正的魔术师就算闭上眼睛也不会停止手上的动作哦。,
+SimpleCampDialogue/CampDial_Reisen_Mokou_Dialogues_0,Text,,[A] 이번에는 영원정에 와서 달을 감상하는 건 어때? 카구야공주님이 그렇게 말씀하셨어.,[A]Here to see Eientei's moon again? Why not join us? Lady Kaguya insists.,[A]这次还是来永远亭看月亮么，不来玩玩吗？辉夜大人这么说了哟。,[A]这次还是来永远亭看月亮么，不来玩玩吗？辉夜大人这么说了哟。,
+SimpleCampDialogue/CampDial_Reisen_Mokou_Dialogues_1,Text,,"[B]응?...... 자유로울 때, 그래, 자유로울 때.",[B]Maybe... when I'm free.,[B]是吗。……有空的时候吧，有空的时候。,[B]是吗。……有空的时候吧，有空的时候。,
+SimpleCampDialogue/CampDial_Reisen_Patchouli_Dialogues_0,Text,,[A]눈이 안 좋은거야?,[A]Poor eyesight?,[A]你眼睛不好？,[A]你眼睛不好？,
+SimpleCampDialogue/CampDial_Reisen_Patchouli_Dialogues_1,Text,,[A]시력이 나쁜 사람은 다른 것들을 더 잘 볼 수 있다고 해.,"[A]Actually, those with poor sight see hidden truths.",[A]其实啊，眼睛不好的人才更能看到许多其他的东西呢。,[A]其实啊，眼睛不好的人才更能看到许多其他的东西呢。,
+SimpleCampDialogue/CampDial_Reisen_Patchouli_Dialogues_2,Text,,"[B]아, 눈보다는 뇌를 먼저 살펴봐야 할 것 같네.",[B]Seek a psychiatrist before an optometrist.,[B]啊啊，比起眼睛不好，你该先去看看脑子呢。,[B]啊啊，比起眼睛不好，你该先去看看脑子呢。,
+SimpleCampDialogue/CampDial_Reisen_RemiliaScarlet_Dialogues_0,Text,,[A]더 이상 달에 갈 생각은 안 하는건가? 로켓에 대한 얘기는 들었어.,[A]Given up on the Moon? I heard about the rocket.,[A]你不再考虑去月球了吗？听说了哦，火箭的详情。,[A]你不再考虑去月球了吗？听说了哦，火箭的详情。,
+SimpleCampDialogue/CampDial_Reisen_RemiliaScarlet_Dialogues_1,Text,,[B]글쎄. 달은 생각보다 더 복잡한 것 같네.,[B]Lunar affairs proved... complicated.,[B]嘛。月球的事情，好像比想象中的更复杂。,[B]嘛。月球的事情，好像比想象中的更复杂。,
+SimpleCampDialogue/CampDial_Reisen_RemiliaScarlet_Dialogues_2,Text,,[B]일단은 먼지가 가라앉을 때까지 기다릴거야.,[B]I'll reconsider when dust settles.,[B]等尘埃落定之后再做打算吧。,[B]等尘埃落定之后再做打算吧。,
+SimpleCampDialogue/CampDial_Reisen_SatsukiRin_Dialogues_0,Text,,[A]사츠키 린님 ...... 스승님께 이야기 들었습니다.,[A]Lady Kirin... Master Yagokoro mentioned you.,[A]麒麟小姐……我听师父……八意永琳提起过您。,[A]麒麟小姐……我听师父……八意永琳提起过您。,
+SimpleCampDialogue/CampDial_Reisen_SatsukiRin_Dialogues_1,Text,,[B]저에게 너무 격식을 차릴 필요는 없어요. 저는 평범한 10대 소녀일 뿐이에요.,[B]No formalities needed. I'm just an ordinary girl.,[B]不用对我这么拘谨。其实我也只是普通的少女而已哦。,[B]不用对我这么拘谨。其实我也只是普通的少女而已哦。,
+SimpleCampDialogue/CampDial_Reisen_SatsukiRin_Dialogues_2,Text,,"[A]어, 그렇게 말해도...",[A]B-but even so...,[A]呜，就、就算这么说……,[A]呜，就、就算这么说……,
+SimpleCampDialogue/CampDial_Reisen_SilverStein_Dialogues_0,Text,,[B]도대체 어디서 총알을 쏘는 거야?,[B]Where do you even store bullets?,[B]你到底是从哪里发射子弹的？,[B]你到底是从哪里发射子弹的？,
+SimpleCampDialogue/CampDial_Reisen_SilverStein_Dialogues_1,Text,,"[A]뭐, 결국 나 자체가 「무기」인거지.",[A]Well... I am the weapon myself.,[A]欸欸、毕竟我自己就是「兵器」嘛。,[A]欸欸、毕竟我自己就是「兵器」嘛。,
+SimpleCampDialogue/CampDial_Reisen_TouhouAlice_Dialogues_0,Text,,[A]인형에 특별히 눈을 붙였네?,[A]You actually gave dolls functional eyes?,[A]你啊，特地给人偶还装上了眼睛是吧？,[A]你啊，特地给人偶还装上了眼睛是吧？,
+SimpleCampDialogue/CampDial_Reisen_TouhouAlice_Dialogues_1,Text,,"[A]그 인형, 볼 수 있는거야?",[A]Can they actually see?,[A]人偶们能看得见吗？,[A]人偶们能看得见吗？,
+SimpleCampDialogue/CampDial_Reisen_TouhouAlice_Dialogues_2,Text,,[B]입에 포크를 물고 있는 토끼 인형을 본 적이 있어.,[B]Saw a rabbit plush with an X-shaped mouth.,[B]有看到过嘴上有个叉的兔子玩偶哦。,[B]有看到过嘴上有个叉的兔子玩偶哦。,
+SimpleCampDialogue/CampDial_Reisen_TouhouAlice_Dialogues_3,Text,,[B]그 포크는 토끼가 입을 다물었다는 뜻이야?,"[B]Does the X mean ""shut up""?",[B]那个叉是兔子闭嘴的意思吗？,[B]那个叉是兔子闭嘴的意思吗？,
+SimpleCampDialogue/CampDial_Reisen_Youmu_Dialogues_0,Text,,[A]아마 인간이 목격하는 유령의 1/3만이 공포로 인한 환각일 거야.,[A]Only 1/3 of ghost sightings are real - most dismiss 90% as illusions.,[A]人类所见到的幽灵大概只有三分之一是因为恐怖感所造成的幻觉。,[A]人类所见到的幽灵大概只有三分之一是因为恐怖感所造成的幻觉。,
+SimpleCampDialogue/CampDial_Reisen_Youmu_Dialogues_1,Text,,[A]거의 대부분이 그 중 90%를 환각으로 치부한다는 점만 빼면 말이지.,[A]Yet people dismiss ninety percent as illusions.,[A]只不过，几乎所有人都把其中九成当成是幻觉。,[A]只不过，几乎所有人都把其中九成当成是幻觉。,
+SimpleCampDialogue/CampDial_Reisen_Youmu_Dialogues_2,Text,,[B]레이센은 달에 달토끼가 있다고 믿어?,[B]Still believe in moon rabbits?,[B]明明相信着月球上有月兔？,[B]明明相信着月球上有月兔？,
+SimpleCampDialogue/CampDial_Reisen_Youmu_Dialogues_3,Text,,[A]응.,[A]Exactly.,[A]是这样呢。,[A]是这样呢。,
+Skill/S_Reisen_0_Description,Text,,<color=red>환상/광기</color> - 반드시 명중 한다.,<color=#FF00FF>Illusion/Madness</color> - Guaranteed Critical.,<color=red>幻影/狂気</color> - クリティカルする。,<color=#FF00FF>幻象/狂气</color> - 必定暴击。,
+Skill/S_Reisen_0_Name,Text,,파부 「적안최면(Mind Shaker)」,Wave Sign「Red-Eyed Hypnosis (Mind Shaker)」,波符「赤眼催眠(マインドシェイカー)」,波符「赤眼催眠(Mind Shaker)」,
+Skill/S_Reisen_10Rare_Description,Text,,"반드시 명중한다.
+이 스킬로 적을 처치하면, 덱과 버린 카드 더미에서 자신의 스킬 1장을 골라 패에 넣는다.","Guaranteed hit. 
+If you defeat an enemy with this skill, select a skill from deck and discard pile and add it to your hand.","必ず命中する。
+このスキルを使用して敵を倒すと、デッキと捨て札から自身のスキルを1つ選択し、手札に加える。","必定命中。
+使用这个技能击杀敌人时，从牌库和弃牌堆挑选1张自己的技能加入手中。",
+Skill/S_Reisen_10Rare_Name,Text,,「환롱월예(Lunatic Red Eyes)」,「Stare of the Hazy Phantom Moon (Lunatic Red Eyes)」,「幻朧月睨(ルナティックレッドアイズ)」,「幻胧月睨(Lunatic Red Eyes)」,
+Skill/S_Reisen_11Rare_Description,Text,,"[환상/적월] 상태인 경우, [환상/적월] 상태를 제거한다.
+
+<i>카드 게임에서 누군가가 내 머리에 총을 들이댄 이유는 무엇일까? </i>","Removes <color=#FF4500>Illusion/Red Moon</color> state if active.
+
+<i>Since when do guns belong in card games?</i>","[幻影/赤月]を持つなら、[幻影/赤月]を除去する。
+
+<i>スペルカードの代わりに銃を突き付けてどうするつもり？</i>","如果有<color=#FF4500>幻象/赤月</color>状态，解除<color=#FF4500>幻象/赤月</color>状态。
+
+<i>怎么有人在卡牌游戏拿枪指着我的头？</i>",
+Skill/S_Reisen_11Rare_Name,Text,,광몽 「풍광의 꿈(Dream World)」,Mad Dream「Dream of Insanity (Dream World)」,狂夢「風狂の夢(ドリームワールド)」,狂梦「疯狂的梦(Dream World)」,
+Skill/S_Reisen_12Rare_0_Name,Text,,폭발!,Explosion!,爆発！,爆炸！,
+Skill/S_Reisen_12Rare_Description,Text,,,,,,
+Skill/S_Reisen_12Rare_Name,Text,,생약 「국사무쌍의 약」,Life Elixir「Peerless Patriot's Elixir」,生薬「国士無双の薬」,生药「国士无双之药」,
+Skill/S_Reisen_1_Description,Text,,"[대기] 1을 얻는다. [환상/태동파] 를 부여한다.
+
+<color=red>환상/광기</color> - [대기] 1을 추가로 얻는다. 대신 [환상/나동]을 얻는다.","Gain 1 Standby count. Apply [Illusion/Illusion Wave] to target.
+
+<color=#FF00FF>Illusion/Madness</color>: +1 Standby count. Applies [Illusion/Spirit Stopping] to target instead.","待機回数+1。[幻影/幻波]を与える。
+
+<color=red>幻影/狂気</color> -さらに待機回数+1。[幻影/懶惰]を代わりに与える 。","获得1次[等待]次数。施加[幻象/怠波]。
+
+<color=#FF00FF>幻象/狂气</color> - 额外获得1次[等待]次数。改为施加[幻象/懒冻]。",
+Skill/S_Reisen_1_Name,Text,,나부 「생신정지(Idling Wave)」,Loafing Sign「Life and Spirit Stopping (Idling Wave)」,懶符「生神停止(アイドリングウェーブ)」,懒符「生神停止(Idling Wave)」,
+Skill/S_Reisen_2_Description,Text,,"[대기] 1을 얻는다. [환상/조율]을 부여한다.
+
+<color=red>환상/광기</color> - [환상/광시]를 추가로 부여한다.","Gain 1 Standby count. Apply [Illusion/Tuning] to target.
+
+<color=#FF00FF>Illusion/Madnes</color>: Apply [Illusion/Lunatic Stare] to target instead.","待機回数+1。[幻影/調律]を与える。
+
+<color=red>幻影/狂気</color> - 代わりに[幻影/狂視]を与える。","获得1次[等待]次数。施加[幻象/调律]。
+
+<color=#FF00FF>幻象/狂气</color> - 额外施加[幻象/狂视]。",
+Skill/S_Reisen_2_Name,Text,,광부 「환시조율(Visionary Tuning)」,Lunatic Sign「Hallucinogenic Tuning (Visionary Tuning)」,狂符「幻視調律(ビジョナリチューニング)」,狂符「幻视调律(Visionary Tuning)」,
+Skill/S_Reisen_3_0_Name,Text,,혹시 「이원화관(Corolla Vision)」,Charming Look「Disjointed Circular Corolla (Corolla Vision)」,惑視「離円花冠(カローラヴィジョン)」,惑视「离圆花冠(Corolla Vision)」,
+Skill/S_Reisen_3_1_Description,Text,,,,,,
+Skill/S_Reisen_3_1_Name,Text,,환혹 「화관시선(Crown Vision)」,Fascination「Corolla Glance (Crown Vision)」,幻惑「花冠視線(クラウンヴィジョン)」,幻惑「花冠视线(Crown Vision)」,
+Skill/S_Reisen_3_Description,Text,,,,,,
+Skill/S_Reisen_3_Name,Text,,혹시 「이원화관(Corolla Vision)」,Charming Look「Disjointed Circular Corolla (Corolla Vision)」,惑視「離円花冠(カローラヴィジョン)」,惑视「离圆花冠(Corolla Vision)」,
+Skill/S_Reisen_4_Description,Text,,"[환상/상심]을 부여한다.
+
+<color=red>환상/광기</color> - [환상/상처]를 부여한다.","Apply [Illusion/Demotivation] to target.
+
+<color=#FF00FF>Illusion/Madness</color> - Apply [Illusion/Weak Heart] to target instead.","[幻影/喪心]を与える。
+
+<color=red>幻影/狂気</color> -代わりに[幻影/弱心]を与える。","施加[幻象/丧心]。
+
+<color=#FF00FF>幻象/狂气</color> - 额外施加[幻象/疮痍]。",
+Skill/S_Reisen_4_Name,Text,,약심 「상심상의(Demotivation)」,"Weak Heart「Empty Heart, Empty Mind (Demotivation)」",弱心「喪心喪意(ディモチヴィエイション)」,弱心「丧心丧意(Demotivation)」,
+Skill/S_Reisen_5_Description,Text,,"<color=purple>&a(최대 체력의 20%)의 고통 피해</color>를 받는다.
+
+<color=red>환상/광기</color> - 자신의 스킬 1개를 뽑는다.","Take <color=purple>&a (20% max HP)</color> Pain damage. 
+
+<color=#FF00FF>Illusion/Madness</color>: Draw 1 skill from the deck, prioritizing the user's skills.","<color=purple>&a(最大体力の20%)</color>の苦痛ダメージを受ける。
+
+<color=red>幻影/狂気</color> - 自身のスキルを1枚引く。","受到<color=purple>&a(20%最大体力值)的痛苦伤害</color>。
+
+<color=#FF00FF>幻象/狂气</color> - 抽取1个自己的技能。",
+Skill/S_Reisen_5_Name,Text,,환탄 「환상시차(Bluff Barrage)」,Illusion Bullet「Illusion Parallax (Bluff Barrage)」,幻弾「幻想視差(ブラフバラージ)」,幻弹「幻想视差(Bluff Barrage)」,
+Skill/S_Reisen_6_Description,Text,,"[환상/적월]상태인 경우, [환상/적월] 상태를 제거한다.",Removes <color=#FF4500>Illusion/Red Moon</color> state if active.,[幻影/赤月]を持つなら、[幻影/赤月]を除去する。,如果有<color=#FF4500>幻象/赤月</color>状态，解除<color=#FF4500>幻象/赤月</color>状态。,
+Skill/S_Reisen_6_Name,Text,,적안 「망견원월(Lunatic Blast)」,Red Eye「Viewing the Circle Moon (Lunatic Blast)」,赤眼「望見円月(ルナティックブラスト)」,赤眼「望见圆月(Lunatic Blast)」,
+Skill/S_Reisen_7_Description,Text,,[대기] 1을 얻는다.,Gain 1 Standby count.,待機回数+1。,,
+Skill/S_Reisen_7_Name,Text,,산부 「진실의 달(Invisible Full Moon)」,Wave Sign「Moon of Illusion (Invisible Half-Moon)」,波符「幻の月(インビジブルハーフムーン)」,散符「真实之月(Invisible Full Moon)」,
+Skill/S_Reisen_8_Description,Text,,"[환상/적월]상태인 경우, [환상/적월] 상태를 제거한다.",Removes <color=#FF4500>Illusion/Red Moon</color> state if active.,[幻影/赤月]を持つなら、[幻影/赤月]を除去する。,如果有<color=#FF4500>幻象/赤月</color>状态，解除<color=#FF4500>幻象/赤月</color>状态。,
+Skill/S_Reisen_8_Name,Text,,환폭 「근시 불꽃(Mind Star Mine)」,Illusion Bomb「Myopic Firework (Mind Starmine)」,幻爆「近眼花火(マインドスターマイン)」,幻爆「近眼花火(Mind Star Mine)」,
+Skill/S_Reisen_9_Description,Text,,적의 도발 상태를 변경한다.,Toggle enemy Taunt status.,敵の挑発状態を変更する。,改变敌人的嘲讽状态。,
+Skill/S_Reisen_9_Name,Text,,산부 「농월화간(Rocket in Mist)」,Spread Sign「Hazy Moon Flower Bookmark (Rocket in Mist)」,散符「朧月花栞(ロケット·イン·ミスト)」,散符「胧月花栞(Rocket in Mist)」,
+Skill/S_Reisen_LucyD_Description,Text,,"스킬 2개를 뽑는다.
+대상의 중첩 가능한 모든 버프를 1중첩 증가시킨다.
+대상의 중첩 가능한 모든 디버프를 1중첩 감소시킨다.","Draw 2 skills. 
+Increase target's buff stacks by 1. 
+Decrease debuff stacks by 1.","スキルを2枚引く。
+対象が持つストック可能なすべてのバフのストックを1ストック増加させる。
+対象が持つストック可能なすべてのデバフのストックを1ストック減少させる。","抽取2个技能。
+使目标身上所有可堆叠的增益效果增加1层。
+使目标身上所有可堆叠的减益效果减少1层。",
+Skill/S_Reisen_LucyD_Name,Text,,파부 「환상의 달(Invisible Half Moon)」,Wave Sign「Moon of Illusion (Invisible Half-Moon)」,波符「幻の月(インビジブルハーフムーン)」,波符「幻之月(Invisible Half Moon)」,
+Skill/S_Reisen_P_0_Name,Text,,환상/난탄,Illusion/Random Shot,幻影/乱射,幻象/乱弹,
+Skill/S_Reisen_P_1_Description,Text,,,,,,
+Skill/S_Reisen_P_1_Name,Text,,환상/난탄,Illusion/Random Shot,幻影/乱射,幻象/乱弹,
+Skill/S_Reisen_P_2_Description,Text,,,,,,
+Skill/S_Reisen_P_2_Name,Text,,환상/난탄,Illusion/Random Shot,幻影/乱射,幻象/乱弹,
+Skill/S_Reisen_P_Description,Text,,"손에서 스킬을 낼 때마다 이 스킬을 다시 사용할 수 있다.
+[환상/적월] 또는 [환상/농월] 상태에서 사용하거나 [광기] 중첩이 0일 때 사용하면 더 이상 피해를 주거나 소모하지 않으며, 대신 [환상/적월] 상태 또는 [환상/농월] 상태가 해제되고 [광기] 중첩이 1 증가한다.","Whenever a skill from hand is used, this skill becomes reusable. 
+When used under <color=#FF4500>Illusion/Red Moon</color>, <color=#FF0000>Illusion/Lunatic Blast</color>, or with 0 <color=#FF00FF>Insanity</color> stacks: Deals no damage, removes the statuses, and grants 2 <color=#FF00FF>Insanity</color> stacks.","手札からスキルを使用するたびに、このスキルを使用可能にする。
+[幻影/赤月]か[幻影/望月]を持つ状態で使用した場合、もしくは[狂気]のストック数が0の時に使用すると、ダメージと消費が発生せず、[幻影/赤月]、[幻影/望月]を除去して[狂気]を1ストック得る。","每当使用手中的技能时，可再次使用此技能。
+在<color=#FF4500>幻象/赤月</color>或<color=#FF0000>幻象/望月</color>状态下使用时，或是<color=#FF00FF>狂气</color>层数等于0时使用时，不再造成伤害，改为解除<color=#FF4500>幻象/赤月</color>状态或<color=#FF0000>幻象/望月</color>状态，并获得2层<color=#FF00FF>狂气</color>。",
+Skill/S_Reisen_P_Name,Text,,장시 「적월하(Infrared Moon)」,Farsight「In the Red Moonlight (Infrared Moon)」,長視「赤月下(インフレアドムーン)」,长视「赤月下(Infrared Moon)」,
+SkillExtended/SE_Reisen_0_Des,Text,,,,,,
+SkillExtended/SE_Reisen_0_EnforceString,Text,,단일 대상 공격 스킬,Single-target attack skill,単体を対象とする攻撃スキル,指向单体的攻击技能,
+SkillExtended/SE_Reisen_0_Name,Text,,"레이센 존재하는 경우, 시전 시 마나 소모량에 비례하여 레이센 대상에게 [환상/난전]을 시전합니다.","If Reisen is present, triggers [Illusion/Random Shot] on the target X times equal to the skill’s cost.",使用時に、鈴仙が生存している場合、鈴仙がそのスキルのコストと同じ回数「幻影/乱射」を対象に発動する。,若铃仙在场，释放时根据该技能的费用，铃仙对目标进行多次[幻象/乱弹]。,
+SkillKeyword/Keyword_Insane_Desc,Text,,[환상/적월] 또는 [환상/농월] 상태에서 스킬의 추가 효과를 발동할 수 있다.,Skills gain additional effects when under [<color=#FF4500>Illusion/Red Moon</color>] or [<color=#FF0000>Illusion/Lunatic Blast</color>] statuses.  ,[幻影/赤月]か[幻影/望月]を持つとき、このスキルは追加効果を発動する。,在[幻象/赤月]状态或[幻象/望月]状态下，技能能够触发额外效果。,
+SkillKeyword/Keyword_Insane_Name,Text,,환상/광기,Illusion/Madness,幻影/狂気,幻象/狂气,
+

@@ -1,0 +1,253 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_NF_GG_0_Description,Text,,,"When dealing damage, additionally deals &extraAtkTimes instances of &damage (&perDamage% ATK) Follow-up attack damage. After accumulating &burstTimes Follow-up attacks, this instance deals &burstDamage (&perBurstDamage% ATK) Follow-up attack damage instead, then this buff loses 1 stack.
+
+Current accumulated Follow-up attacks: &atkCount",,"造成伤害时额外造成&extraAtkTimes次&damage点(&perDamage%攻击力)追击伤害，累计追击&burstTimes次时，该次追击改为造成&burstDamage点(&perBurstDamage%攻击力)追击伤害，然后该增益减少1层.
+
+当前累计追击次数: &atkCount",
+Buff/B_NF_GG_0_Name,Text,,,Beacon,,信标,
+Buff/B_NF_GG_1_Description,Text,,,"When receiving damage, additionally takes &buffDmg Pain damage (each stack deals &layerDmgPer% damage). This effect reduces 1 stack after triggering &oneLayerTimes times.
+Current remaining triggers per stack: &curLayerLastTimes",,"受到伤害时, 额外受到&buffDmg痛苦伤害(每层&layerDmgPer%伤害), 此效果每生效&oneLayerTimes次将该减益减少1层.
+当前层剩余生效次数: &curLayerLastTimes",
+Buff/B_NF_GG_1_Name,Text,,,Conductive,,感电,
+Buff/B_NF_GG_P_0_Description,Text,,,Defense Penetration bonus equals Level × &penetrationPer%.,,防御穿透加成值为等级*&penetrationPer%.,
+Buff/B_NF_GG_P_0_Name,Text,,,Goldenglow - Showtime!,,澄闪-登场!,
+Buff/B_NF_GG_P_1_Description,Text,,,"At max stacks, gain 1 stack of ""Beacon"" buff and remove this buff.",,满层时获得1层“信标”增益并移除该增益.,
+Buff/B_NF_GG_P_1_Name,Text,,,Beacon Prep!,,信标预备!,
+Buff/B_NF_MM_0_Description,Text,,,"When attacked, gain 1 stack of this debuff.",,"受到攻击时, 叠加一层该减益.",
+Buff/B_NF_MM_0_Name,Text,,,Traumatic Hysteria,,创伤性癔症,
+Buff/B_NF_MM_1_Description,Text,,,"After dealing &needAtkTimes instances of damage, restore &addApNum Mana and prioritize viewing &viewCardNum self skills from the deck, choose 1 to add to hand. This buff loses 1 stack.
+
+Current accumulated damage instances: &atkCount",,"自身累计造成&needAtkTimes次伤害时, 回复&addApNum点法力值并优先查看牌库中自身的&viewCardNum个技能, 从中选择1张加入手牌, 该增益减少一层.
+
+当前累计伤害次数: &atkCount",
+Buff/B_NF_MM_1_Name,Text,,,Azure Seed,,深蓝之籽,
+Buff/B_NF_MM_2_Description,Text,,,"After using a fixed skill, if ""Showtime Prep"" fails to refresh it, consume 1 stack of this buff to immediately refresh the fixed skill.  ",,"使用固定技能后, 若“登场预备”未能刷新固定技能, 则消耗一层该增益立即刷新固定技能.",
+Buff/B_NF_MM_2_Name,Text,,,Mirage,,镜花水月,
+Buff/B_NF_MM_3_Description,Text,,,"When receiving non-Pain damage, linked enemies take &dmgPer% of the damage as Pain damage. If either side is defeated, this debuff is removed.
+
+Current linked enemy: &enemyName",,"受到非痛苦伤害时，链接的敌人将受到的伤害值&dmgPer%的痛苦伤害，当有一方被击败则解除该减益.
+
+当前链接的敌人:&enemyName",
+Buff/B_NF_MM_3_Name,Text,,,Prisoner's Dilemma,,囚徒困境,
+Buff/B_NF_MM_4_Description,Text,,,,,,
+Buff/B_NF_MM_4_Name,Text,,,Prisoner,,囚徒,
+Buff/B_NF_MM_P_0_Description,Text,,,Critical Rate bonus equals Level × &criPer%.,,暴击率加成值为等级*&criPer%.,
+Buff/B_NF_MM_P_0_Name,Text,,,Mizuki - Showtime!,,水月-登场!,
+Buff/B_NF_MM_P_1_Description,Text,,,"When using a fixed skill, restore 1 Mana and remove this buff.",,"使用固定技能时, 回复1点法力值, 并解除该增益.",
+Buff/B_NF_MM_P_1_Name,Text,,,Mizuki - Countertransference,,水月-反移情,
+Buff/B_NF_PP_0_Description,Text,,,"Gains 1 stack when damaged. At max stacks, deals 100% ATK damage to all enemies and removes this debuff.",,"受到伤害时叠加一层, 满层时对所有敌人造成相当于100%攻击力的伤害，移除该减益",
+Buff/B_NF_PP_0_Name,Text,,,Stamp!,,盖戳!,
+Buff/B_NF_PP_1_Description,Text,,,,,,
+Buff/B_NF_PP_1_Name,Text,,,Lotus Fragrance,,弥漫莲香,
+Buff/B_NF_PP_2_Description,Text,,,The next Normal Skill played from hand has &rate% chance to be recast. Successful recast halves the chance. Failed recast removes this buff.,,"自身从手中释放的下一个普通技能有&rate%的概率重复释放一次, 成功释放时将重复释放概率减半, 未成功重复释放则解除该增益.",
+Buff/B_NF_PP_2_Name,Text,,,Legacy Inheritance,,往昔传承,
+Buff/B_NF_PP_P_0_Description,Text,,,ATK bonus equals Level × &atkPer%.,,攻击力加成值为等级*&atkPer%.,
+Buff/B_NF_PP_P_0_Name,Text,,,Pepe - Showtime!,,佩佩-登场!,
+Buff/B_NF_PP_P_1_Description,Text,,,Next skill played from hand has Mana cost reduced by &apDownNum. Removed after use.,,下一个从手中释放的技能法力值消耗-&apDownNum，释放后解除该增益.,
+Buff/B_NF_PP_P_1_Name,Text,,,Keen Insight,,慧眼独到,
+Buff/B_NF_PP_R_0_Description,Text,,,,,,
+Buff/B_NF_PP_R_0_Name,Text,,,Pepe - Temporal Oscillation,,佩佩-时光震荡,
+Buff/B_NamieFamily_P_Description,Text,,,"When counter reaches &needCount and fixed skill is unavailable, refreshes fixed skill.
+Current counter: &nowCount",,"计数为&needCount时若固定技能不可用，则刷新固定技能. 
+当前计数: &nowCount",
+Buff/B_NamieFamily_P_Name,Text,,,Showtime Prep,,登场预备,
+Buff/B_NamieFamily_T_1_Description,Text,,,,,,
+Buff/B_NamieFamily_T_1_Name,Text,,,Hand of Permanence,,久居之手,
+Buff/B_NamieFamily_T_3_Description,Text,,,,,,
+Buff/B_NamieFamily_T_3_Name,Text,,,Golden Chalice,,金酒之杯,
+Character/NamieFamily_CampSelectWord,Text,,,Namie Family enters the fray!,,Namie一家参上！,
+Character/NamieFamily_PassiveDes,Text,,,"<b>Fixed skill is set to SWITCH! When using a skill from hand, accumulate Showtime Prep buff stacks, up to 3. After gaining stacks, if stacks are full and the fixed skill is unavailable, refresh the fixed skill and clear all stacks.
+
+<color=#919191>- Active from Level 1</color>",,"<b>固定技能固定为 SWITCH!从手中使用技能时，累计登场预备Buff层数，最高累计3层。获得层数后如果层数已满且固定技能不可用时刷新固定技能并清除所有层数.
+
+<color=#919191>- 此被动从1级开始生效</color>",
+Character/NamieFamily_PassiveName,Text,,,SWITCH!,,SWITCH!,
+Character/NamieFamily_SelectInfo,Text,,,"Namie's cubs all have outstanding qualities!!!
+Mizuki is exceptionally considerate!
+Goldenglow is extremely diligent!
+Pepe is a dummy!!!",,"Namie的崽都有着优秀的品质!!!
+水月非常体贴!
+澄闪非常认真!
+佩佩是个笨蛋!!!",
+Character/NamieFamily_SkinDesc,Text,,,A versatile outfit suitable for any occasion(?).,,可以在任何场合穿着(?)非常方便的款式。,
+Character/NamieFamily_Text_Battle_AllyND_0,Text,,,（⊙.⊙）,,（⊙.⊙）,
+Character/NamieFamily_Text_Battle_Cri_0,Text,,,(｀д′),,(｀д′),
+Character/NamieFamily_Text_Battle_Healed_0,Text,,,♪（＾∀＾●）,,♪（＾∀＾●）,
+Character/NamieFamily_Text_Battle_Idle_0,Text,,,（⊙.⊙）,,（⊙.⊙）,
+Character/NamieFamily_Text_Battle_Kill_0,Text,,,╭(●｀∀´●)╯ ,,╭(●｀∀´●)╯ ,
+Character/NamieFamily_Text_Battle_ND_0,Text,,,π__π,,π__π,
+Character/NamieFamily_Text_Battle_ND_1,Text,,,（＞﹏＜）,,（＞﹏＜）,
+Character/NamieFamily_Text_Battle_Start_0,Text,,,╭(●｀∀´●)╯ ,,╭(●｀∀´●)╯ ,
+Character/NamieFamily_Text_Field_GetItem_0,Text,,,(′▽`〃),,(′▽`〃),
+Character/NamieFamily_Text_Field_Idle_0,Text,,,（⊙.⊙）,,（⊙.⊙）,
+Character/NamieFamily_Text_Field_Potion_N_0,Text,,,╭(●｀∀´●)╯ ,,╭(●｀∀´●)╯ ,
+Character/NamieFamily_Text_Field_Potion_P_0,Text,,,╭(●｀∀´●)╯ ,,╭(●｀∀´●)╯ ,
+Character/NamieFamily_Text_MasterTarget,Text,,,,,,
+Character/NamieFamily_Text_PharosLeader_0,Text,,,◐▽◑,,◐▽◑,
+Character/NamieFamily_Text_PharosLeader_1,Text,,,（＞﹏＜）,,（＞﹏＜）,
+Character/NamieFamily_Text_PharosLeader_2,Text,,,π__π,,π__π,
+Character/NamieFamily_Text_Witch_0,Text,,,π__π,,π__π,
+Character/NamieFamily_Text_Witch_1,Text,,,╭(●｀∀´●)╯ ,,╭(●｀∀´●)╯ ,
+Character/NamieFamily_UnlockString,Text,,,,,,
+Character/NamieFamily_name,Text,,,Mizuki~Goldenglow~Pepe!,,水月~澄闪~佩佩!,
+Item_Equip/EQ_NamieFamily_0_Description,Text,,,"Gain &addBuffLayer stacks of ""Beacon"" buff at the start of each turn.",,每个回合的回合开始时获得&addBuffLayer层“信标”增益.,
+Item_Equip/EQ_NamieFamily_0_name,Text,,,Wings of Toil,,辛劳之翼,
+Item_Equip/EQ_NamieFamily_1_Description,Text,,,"Every &needDmgTimes instances of damage dealt (including Follow-up attacks), randomly apply &addBuffLayer stacks of non-maxed Pain/Weaken debuffs on a target.",,每造成&needDmgTimes次伤害(包括追击伤害)，随机叠加1个目标身上未满层的痛苦、弱化减益&addBuffLayer层.,
+Item_Equip/EQ_NamieFamily_1_name,Text,,,Pact of Envoys,,使者之约,
+Item_Equip/EQ_NamieFamily_2_Description,Text,,,"Ignores Taunt.
+When dealing damage, has &atkRate% chance to deal &dmgRate% of that damage as Follow-up attack damage to another enemy (prioritizes others).",,"无视嘲讽.
+造成伤害时，有&atkRate%的概率对一名敌人造成该伤害&dmgRate%的追击伤害(优先其他敌人).",
+Item_Equip/EQ_NamieFamily_2_name,Text,,,Lotus Brooch,,莲花胸针,
+Item_Passive/T_NamieFamily_0_Description,Text,,,"After dealing &atkTimes instances of damage, restore &addApNum Mana.
+&tSuitHandSuper When equipped with Hand of Permanence and Hand of Resonance simultaneously, required damage instances change to &superAtkTimes",,"造成&atkTimes次伤害后，回复&addApNum点法力值.
+&tSuitHandSuper当同时装备久居之手、轰鸣之手时, 所需伤害次数变更为&superAtkTimes次</color>",
+Item_Passive/T_NamieFamily_0_name,Text,,,Hand of Ripples,,波纹之手,
+Item_Passive/T_NamieFamily_1_Description,Text,,,"All Attacker allies gain ""ATK +&addAtkPer%"" buff at turn start (max +&maxAddAtkPer%).
+&tSuitHandSuper When equipped with Hand of Ripples and Hand of Resonance simultaneously, bonus is doubled.",,"所有攻击型角色每回合开始时获得“攻击力+&addAtkPer%”的增益(最高&maxAddAtkPer%).
+&tSuitHandSuper当同时装备波纹之手, 轰鸣之手时, 加成数值翻倍.</color>",
+Item_Passive/T_NamieFamily_1_name,Text,,,Hand of Permanence,,久居之手,
+Item_Passive/T_NamieFamily_2_Description,Text,,,"When skills target multiple enemies, damage increases by &addDmgPer%.
+&tSuitHandSuper When equipped with Hand of Ripples and Hand of Permanence simultaneously, bonus is doubled.",,"当技能将多个敌人指定为目标时, 伤害提高&addDmgPer%.
+&tSuitHandSuper当同时装备波纹之手, 久居之手时, 加成数值翻倍.</color>",
+Item_Passive/T_NamieFamily_2_name,Text,,,Hand of Resonance,,轰鸣之手,
+Item_Passive/T_NamieFamily_3_Description,Text,,,"At battle start, for every &oneLayerMoney gold possessed, all allies gain ""ATK +&addAtkNum, Healing +&addRegNum, Critical Rate +&addCriPer%"" buff.",,"战斗开始时, 每拥有&oneLayerMoney金币, 所有角色获得“攻击力+&addAtkNum, 治疗力+&addRegNum, 暴击率+&addCriPer%”的增益",
+Item_Passive/T_NamieFamily_3_name,Text,,,Golden Chalice,,金酒之杯,
+Skill/S_NF_GG_0_Description,Text,,,"&frontFlag Goldenglow: Mana cost -1, gain &frontNum stacks of ""Beacon"" buff.
+&backFlag Goldenglow: Gain &backNum stacks of ""Beacon"" buff.",,"</color>&frontFlag前台-澄闪: 法力值消耗-1, 获得&frontNum层“信标”增益.
+&backFlag后台-澄闪: 获得&backNum层“信标”增益.</color>",
+Skill/S_NF_GG_0_Name,Text,,,Goldenglow - Spark Surge,,澄闪-火花四溅,
+Skill/S_NF_GG_1_Description,Text,,,"If only one target, apply &extraNum additional stacks of ""Conductive"" debuff.
+
+&frontFlag Goldenglow: Apply &frontNum stacks of ""Conductive"" debuff to target.
+&backFlag Goldenglow: Apply &backNum stacks of ""Conductive"" debuff to target.",,"如果只有一个目标，则额外施加&extraNum层“感电”减益.
+
+</color>&frontFlag前台-澄闪: 对目标施加&frontNum层“感电”减益.
+&backFlag后台-澄闪: 对目标施加&backNum层“感电”减益.</color>",
+Skill/S_NF_GG_1_Name,Text,,,Goldenglow - Electromagnetic Charge,,澄闪-电磁充能,
+Skill/S_NF_GG_2_Description,Text,,,"While in hand, whenever a skill is played from hand, apply 1 stack of ""Conductive"" debuff to a random enemy.
+&frontFlag Goldenglow: Requires &needBuffTimes accumulated ""Conductive"" stacks to use.
+&backFlag Goldenglow: Unusable.
+
+Current accumulated stacks: &addBuffTimes",,"在手牌时, 每当从手中使用技能, 为一名随机敌人施加1层“感电”减益.
+</color>&frontFlag前台-澄闪: 该技能累计施加&needBuffTimes层“感电”减益后才可使用.
+&backFlag后台-澄闪: 不可使用.</color>
+
+当前累计施加次数: &addBuffTimes",
+Skill/S_NF_GG_2_Name,Text,,,Goldenglow - Current Surge,,澄闪-电流翻涌,
+Skill/S_NF_GG_B_0_0_Description,Text,,,,,,
+Skill/S_NF_GG_B_0_0_Name,Text,,,Beacon Detonation,,信标爆发,
+Skill/S_NF_GG_B_0_1_Description,Text,,,,,,
+Skill/S_NF_GG_B_0_1_Name,Text,,,Beacon Strike,,信标攻击,
+Skill/S_NF_GG_L_0_Description,Text,,,"Draw two skills.
+If any enemy has ≥&extraDrawNeedLayer ""Conductive"" stacks, draw one additional skill.",,"抽取两个技能.
+使用时若有敌人“感电”减益层数>=&extraDrawNeedLayer, 则额外抽取一个技能.",
+Skill/S_NF_GG_L_0_Name,Text,,,Goldenglow - Recharge,,澄闪-充电,
+Skill/S_NF_GG_P_0_Description,Text,,,"Add &skillNum ""Goldenglow - Discharge"" to hand.",,"将&skillNum个""澄闪-电荷释放""加入手牌.",
+Skill/S_NF_GG_P_0_Name,Text,,,Goldenglow - Showtime!,,澄闪-登场!,
+Skill/S_NF_GG_P_1_Description,Text,,,"&frontFlag Goldenglow: Cast &extraAtkTimes additional times.
+&backFlag Goldenglow: Unusable.",,"</color>&frontFlag前台-澄闪: 额外释放&extraAtkTimes次.
+&backFlag后台-澄闪: 不可使用.</color>",
+Skill/S_NF_GG_P_1_Name,Text,,,Goldenglow - Discharge,,澄闪-电荷释放,
+Skill/S_NF_GG_R_0_0_Description,Text,,,,,,
+Skill/S_NF_GG_R_0_0_Name,Text,,,Radiant Strike,,澄净闪耀攻击,
+Skill/S_NF_GG_R_0_Description,Text,,,"&frontFlag Goldenglow: Randomly attack enemies &extraAtkTimes times, each dealing &extraAtkDamage (&extraAtkPer% ATK) damage. Applies &frontBuffNum ""Conductive"" stacks.
+&backFlag Goldenglow: Restore &addApNum Mana, apply &backBuffNum ""Conductive"" stacks, and immediately refresh fixed skill.",,"</color>&frontFlag前台-澄闪: 随机攻击敌人&extraAtkTimes次, 每次造成&extraAtkDamage(&extraAtkPer%攻击力)伤害, 对目标施加&frontBuffNum层“感电”减益.
+&backFlag后台-澄闪: 回复&addApNum点法力值, 对目标施加&backBuffNum层“感电”减益, 并立即刷新固定技能.</color>",
+Skill/S_NF_GG_R_0_Name,Text,,,Goldenglow - Luminous Purge,,澄闪-澄净闪耀,
+Skill/S_NF_MM_0_Description,Text,,,"&frontFlag Mizuki: Target gains 1 stack of ""Traumatic Hysteria"" debuff.
+&backFlag Mizuki: Increase all Weaken/Pain debuff stacks on target by &normalAddLayer. If ""Conductive"", increase by &eletricAddLayer.",,"</color>&frontFlag前台-水月: 目标获得1层“创伤性癔症”减益.
+&backFlag后台-水月: 目标所有弱化、痛苦减益层数增加&normalAddLayer层，如果是“感电”减益则增加&eletricAddLayer层.</color>",
+Skill/S_NF_MM_0_Name,Text,,,Mizuki - Traumatic Hysteria,,水月-创伤性癔症,
+Skill/S_NF_MM_0_V_Description,Text,,,,,,
+Skill/S_NF_MM_0_V_Name,Text,,,Traumatic Hysteria,,创伤性癔症,
+Skill/S_NF_MM_1_Description,Text,,,"&frontFlag Mizuki: Gain 2 stacks of Azure Seed buff.
+&backFlag Mizuki: Unusable.",,"</color>&frontFlag前台-水月: 获得2层深蓝之籽增益.
+&backFlag后台-水月: 不可使用.</color>",
+Skill/S_NF_MM_1_Name,Text,,,Mizuki - Azure Seed,,水月-深蓝之籽,
+Skill/S_NF_MM_2_Description,Text,,,"Links target with another random unlinked enemy. If no valid enemies, grants ""Damage Received +"" debuff at half link efficiency.
+
+&frontFlag Mizuki: Life Link damage transfer efficiency at &frontDmgPer%.
+&backFlag Mizuki: Life Link damage transfer efficiency at &backDmgPer%.",,"使目标与另一名没有生命链接的随机敌人建立生命链接，如果没有其他合法的敌人，则赋予技能目标伤害传递效率一半的“受到伤害增加”减益.
+
+</color>&frontFlag前台-水月: 生命链接伤害传递效率为&frontDmgPer%.
+&backFlag后台-水月: 生命链接伤害传递效率为&backDmgPer%.</color>",
+Skill/S_NF_MM_2_Name,Text,,,Mizuki - Prisoner's Dilemma,,水月-囚徒困境,
+Skill/S_NF_MM_L_0_Description,Text,,,Draw two skills.,,抽取两个技能.,
+Skill/S_NF_MM_L_0_Name,Text,,,Mizuki - Prologue,,水月-开端,
+Skill/S_NF_MM_P_0_Description,Text,,,,,,
+Skill/S_NF_MM_P_0_Name,Text,,,Mizuki - Showtime!,,水月-登场!,
+Skill/S_NF_MM_R_0_Description,Text,,,"&frontFlag Mizuki: Cost becomes 0.
+&backFlag Mizuki: Gains Swiftness.",,"</color>&frontFlag前台-水月: 费用变为0.
+&backFlag后台-水月: 附带迅速.</color>",
+Skill/S_NF_MM_R_0_Name,Text,,,Mizuki - Mirage,,水月-镜花水月,
+Skill/S_NF_PP_0_0_Description,Text,,,,,,
+Skill/S_NF_PP_0_0_Name,Text,,,Pepe - Stamp Follow-up!,,佩佩-盖戳-追击!,
+Skill/S_NF_PP_0_B_Description,Text,,,,,,
+Skill/S_NF_PP_0_B_Name,Text,,,Stamp Detonation,,盖戳-爆发,
+Skill/S_NF_PP_0_Description,Text,,,"Usable while Impaired. Removes all Impair debuffs. If Impaired status is cleared, ""Lotus Fragrance"" buff applies to all allies instead.  
+Also affects enemies adjacent to target. If only one target, deals additional &plusAtkNum (&plusAtkRate% ATK) damage.
+
+&frontFlag Pepe: Applies ""Stamp!"" debuff to target.
+&backFlag Pepe: Mana cost -1.",,"干扰状态下也可以使用, 解除自身所有干扰减益, 成功解除干扰状态时, “弥漫莲香”增益改为让所有队友获得.
+同时对目标左右两边的敌人生效, 如果目标只有一个则额外造成&plusAtkNum(&plusAtkRate%攻击力)点追加伤害.
+
+</color>&frontFlag前台-佩佩: 给目标添加“盖戳!”减益.
+&backFlag后台-佩佩: 法力值消耗-1.</color>",
+Skill/S_NF_PP_0_Name,Text,,,Pepe - Stamp!,,佩佩-盖戳!,
+Skill/S_NF_PP_0_V_Description,Text,,,,,,
+Skill/S_NF_PP_0_V_Name,Text,,,Lotus Fragrance,,弥漫莲香,
+Skill/S_NF_PP_1_Description,Text,,,"&frontFlag Pepe: Gain ""Legacy Inheritance"" buff.
+&backFlag Pepe: Gain &discardNum Exchanges.",,"</color>&frontFlag前台-佩佩: 获得“往昔传承”增益.
+&backFlag后台-佩佩: 获得&discardNum次交换次数.</color>",
+Skill/S_NF_PP_1_Name,Text,,,Pepe - Legacy Inheritance,,佩佩-往昔传承,
+Skill/S_NF_PP_1_V_Description,Text,,,,,,
+Skill/S_NF_PP_1_V_Name,Text,,,Legacy Inheritance,,往昔传承,
+Skill/S_NF_PP_2_Description,Text,,,"Damage increases by value equal to target's Weaken/Pain debuff stacks.
+Also affects enemies adjacent to target.
+
+&frontFlag Pepe: Recast &extraAtkTimes times.
+&backFlag Pepe: Unusable.",,"伤害附加相当于目标身上弱化、痛苦减益的层数的值
+同时对目标左右两边的敌人生效.
+
+</color>&frontFlag前台-佩佩:重复释放&extraAtkTimes次.
+&backFlag后台-佩佩: 不可使用.</color>",
+Skill/S_NF_PP_2_Name,Text,,,Pepe - Chaos Suppression Hammer,,佩佩-阻遏混乱锤,
+Skill/S_NF_PP_L_0_Description,Text,,,"Draw &drawNum skills.
+View top &viewCardNum skills from deck, add all &targetCharName's skills to hand. If any skills are added, restore &recoverAPNum Mana.",,"抽取&drawNum个技能.
+查看牌库顶部的&viewCardNum个技能, 并将&targetCharName的技能都加入手牌, 加入手牌的技能数大于0时, 恢复&recoverAPNum点法力值.",
+Skill/S_NF_PP_L_0_Name,Text,,,Pepe - Whimper,,佩佩-呜呜,
+Skill/S_NF_PP_P_0_Description,Text,,,,,,
+Skill/S_NF_PP_P_0_Name,Text,,,Pepe - Showtime!,,佩佩-登场!,
+Skill/S_NF_PP_R_0_0_Description,Text,,,"Each non-Pain damage instance increases damage multiplier by &addDmgPer%, up to &maxAtkTimes triggers.
+
+Current triggers: &atkTimes",,"每当造成非痛苦伤害时增加&addDmgPer%伤害倍率，最多生效&maxAtkTimes次.
+
+当前生效次数: &atkTimes</color>",
+Skill/S_NF_PP_R_0_0_Name,Text,,,Pepe - Temporal Oscillation - Echo,,佩佩-时光震荡-回音,
+Skill/S_NF_PP_R_0_1_Description,Text,,,"Immediately cast queued ""Pepe - Temporal Oscillation - Echo"".",,立即释放倒计时中的“佩佩-时光震荡-回音”,
+Skill/S_NF_PP_R_0_1_Name,Text,,,Pepe - Temporal Oscillation - Break,,佩佩-时光震荡-突破,
+Skill/S_NF_PP_R_0_Description,Text,,,"Also affects enemies adjacent to target.
+
+&frontFlag Pepe: Queues ""Echo"" with &superCount countdown and adds ""Break"" to hand.
+&backFlag Pepe: Queues ""Echo"" with &normalCount countdown.",,"同时对目标左右两边的敌人生效.
+
+</color>&frontFlag前台-佩佩: 以倒计时&superCount释放“时光振荡-回音”，并将“时光振荡-突破”加入手牌.
+&backFlag后台-佩佩: 以倒计时&normalCount释放“时光振荡-回音”.</color>",
+Skill/S_NF_PP_R_0_Name,Text,,,Pepe - Temporal Oscillation,,佩佩-时光震荡,
+Skill/S_NamieFamily_P_Description,Text,,,"This skill's cost is fixed at 0.
+
+After use, select an off-field member's Showtime skill to cast and switch to them. Clears all Overload.
+Available: &canUseSkills",,"该技能费用固定为0.
+
+使用后选择释放未在场角色的登场技能并令该角色登场，清除所有过载。
+当前可使用: &canUseSkills",
+Skill/S_NamieFamily_P_Name,Text,,,SWITCH!,,SWITCH!,
+SkillExtended/S_NamieFamily_EN_0_EnforceString,Text,,,2+ Cost ATK skills.,,2费及以上攻击技能.,
+SkillExtended/S_NamieFamily_EN_0_Name,Text,,,Apply 1 Conductive stack to all enemies.,,所有敌人赋予1层感电.,
+SkillExtended/S_NamieFamily_EN_1_EnforceString,Text,,,1+ Cost ATK skills.,,1费及以上攻击技能.,
+SkillExtended/S_NamieFamily_EN_1_Name,Text,,,Randomly add 2 stacks to random non-maxed debuffs on enemy.,,随机敌人随机未满层的减益增加2层.,
+SkillExtended/S_NamieFamily_EN_2_EnforceString,Text,,,1+ Cost ATK skills,,1费及以上攻击技能,
+SkillExtended/S_NamieFamily_EN_2_Name,Text,,,"Ignores Taunt. Deal +20% damage when hitting multiple targets, +40% when hitting single target.",,"无视嘲讽, 命中多个目标时伤害增加20%, 命中单个目标时伤害增加40%.",
+,,,,,,,
+,,,,,,,
+

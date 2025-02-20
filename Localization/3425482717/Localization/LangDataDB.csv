@@ -1,0 +1,927 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_IS_CC_1_1_Description,Text,,,,,,
+Buff/B_IS_CC_1_1_Name,Text,,,Echo: Strife,,回响：争斗,
+Buff/B_IS_CC_1_2_Description,Text,,,,,,
+Buff/B_IS_CC_1_2_Name,Text,,,Echo: Strife,,回响：争斗,
+Buff/B_IS_CC_1_Description,Text,,,,,,
+Buff/B_IS_CC_1_Name,Text,,,Echo: Strife,,回响：争斗,
+Buff/B_IS_CC_2_Description,Text,,,,,,
+Buff/B_IS_CC_2_Name,Text,,,Echo: Modification,,回响：改造,
+Buff/B_IS_CC_3_Description,Text,,,,,,
+Buff/B_IS_CC_3_Name,Text,,,Echo: Withering,,回响：枯荣,
+Buff/B_IS_CC_4_1_Description,Text,,,Reduces Pain damage taken by &painDmgDef%.,,受到的痛苦伤害-&painDmgDef%,
+Buff/B_IS_CC_4_1_Name,Text,,,Echo: Sustenance,,回响：给养,
+Buff/B_IS_CC_4_Description,Text,,,,,,
+Buff/B_IS_CC_4_Name,Text,,,Echo: Sustenance,,回响：给养,
+Buff/B_IS_CC_5_1_Description,Text,,,,,,
+Buff/B_IS_CC_5_1_Name,Text,,,Echo: Collective Self,,回响：众我,
+Buff/B_IS_CC_5_Description,Text,,,,,,
+Buff/B_IS_CC_5_Name,Text,,,Echo: Collective Self,,回响：众我,
+Buff/B_IS_CC_6_1_Description,Text,,,,,,
+Buff/B_IS_CC_6_1_Name,Text,,,Echo: Overgrowth,,回响：徒长,
+Buff/B_IS_CC_6_Description,Text,,,,,,
+Buff/B_IS_CC_6_Name,Text,,,Echo: Overgrowth,,回响：徒长,
+Buff/B_IS_CC_7_1_Description,Text,,,,,,
+Buff/B_IS_CC_7_1_Name,Text,,,Echo: Adaptation,,回响：适应,
+Buff/B_IS_CC_7_Description,Text,,,,,,
+Buff/B_IS_CC_7_Name,Text,,,Echo: Adaptation,,回响：适应,
+Buff/B_IS_Common_0_Description,Text,,,"When Neurodamage accumulates to &maxCount stacks, take Pain damage equal to current HP (non-lethal), enter Stun status (<sprite=2>150%), 
+and gain 2 turns of Neurodamage Protection. 
+
+Accumulated: &curCount/&maxCount",,"神经损伤累计到&maxCount时, 受到相当于当前生命值的痛苦伤害(不致死), 进入眩晕状态(<sprite=2>150%), 并获得2回合的神经损伤保护.
+
+累计值: &curCount/&maxCount",
+Buff/B_IS_Common_0_Name,Text,,,Neurodamage,,神经损伤,
+Buff/B_IS_Common_1_Description,Text,,,Immune to Neurodamage.,,不会受到神经损伤.,
+Buff/B_IS_Common_1_Name,Text,,,Neurodamage Protection,,神经损伤保护,
+Buff/B_IS_Common_2_Description,Text,,,"At the start of the turn, has a &diffuseRate% chance to spread to other enemies.",,回合开始时有&diffuseRate%的概率扩散到其他敌人.,
+Buff/B_IS_Common_2_Name,Text,,,Abyssal Trace,,溟痕,
+Buff/B_IS_Common_3_Description,Text,,,"At the start of the turn, suffers &niDmg points of Neurodamage.",,回合开始时受到&niDmg点神经损伤.,
+Buff/B_IS_Common_3_Name,Text,,,Abyssal Trace,,溟痕,
+Buff/B_IS_Common_4_Description,Text,,,Loses 1 stack when receiving Weaken or Disruption debuffs.,,受到弱化、干扰减益时减少一层.,
+Buff/B_IS_Common_4_Name,Text,,,Low-Altitude Suspension,,近地悬浮,
+Buff/B_IS_EQ_31_Description,Text,,,,,,
+Buff/B_IS_EQ_31_Name,Text,,,Scavenger,,食腐,
+Buff/B_IS_EQ_34_Description,Text,,,,,,
+Buff/B_IS_EQ_34_Name,Text,,,ATK Boost,,攻击力提升,
+Buff/B_IS_Enemy_10_0_Description,Text,,,"When taking damage, reflects &returnPer% damage back to the source.",,"受到伤害时, 对伤害来源反弹&returnPer%的伤害",
+Buff/B_IS_Enemy_10_0_Name,Text,,,Thorns,,刺,
+Buff/B_IS_Enemy_11_0_Description,Text,,,,,,
+Buff/B_IS_Enemy_11_0_Name,Text,,,Passive,,被动,
+Buff/B_IS_Enemy_12_0_Description,Text,,,"At the start of the turn, deals &dmgNum damage and Neurodamage (non-lethal) to all Investigators. 
+On even turns, gains Taunt and randomly applies Abyssal Trace and Perfect Defense to 1 unit.",,"回合开始时对所有调查员造成&dmgNum点伤害和神经损伤(不致死).
+偶数回合获得嘲讽, 并随机为1个单位施加溟痕和完美防御.",
+Buff/B_IS_Enemy_12_0_Name,Text,,,Abyssal Nestswarmer,,深溟巢涌者,
+Buff/B_IS_Enemy_13_0_Description,Text,,,"Prioritizes attacking the character with the lowest HP percentage. 
+Can be targeted unconditionally. When attacked by single-target skills, gains &singleAtkLayer stacks of Imbalance. When attacked by AoE skills, gains &multiAtkLayer stacks. At &breakLayer stacks, clears all Imbalance and enters Stun status (<sprite=2>300%). 
+
+&spBuffTextImbalance stacks required for Stun changed to &spBreakLayer.",,"优先攻击生命值比例最低的角色.
+自身可以被无条件指为目标, 受到攻击时, 如果是单体技能为自身叠加&singleAtkLayer层失衡, 如果是群体技能为自身叠加&multiAtkLayer层失衡, 累计&breakLayer层失衡时清除所有失衡并进入眩晕状态(<sprite=2>300%).
+
+&spBuffText眩晕所需的失衡层数变为&spBreakLayer.",
+Buff/B_IS_Enemy_13_0_Name,Text,,,Primordial Sea Piercer,,始海穿刺者,
+Buff/B_IS_Enemy_13_1_Description,Text,,,,,,
+Buff/B_IS_Enemy_13_1_Name,Text,,,Imbalance,,失衡,
+Buff/B_IS_Enemy_13_2_Description,Text,,,,,,
+Buff/B_IS_Enemy_13_2_Name,Text,,,Targeting,,瞄准,
+Buff/B_IS_Enemy_14_0_Description,Text,,,"When HP first drops below &changeHpPer%, gains &defPer% damage reduction, and grants Abyssal Trace to self and &addBuffNum random units. 
+
+&spBuffTextAttacks inflict Stun (<sprite=2>&restPer%).",,"生命值首次低于&changeHpPer%时, 获得&defPer%减伤, 并使自身和随机&addBuffNum个单位获得溟痕.
+
+&spBuffText攻击令目标眩晕(<sprite=2>&restPer%).",
+Buff/B_IS_Enemy_14_0_Name,Text,,,Abyssal Tracer,,深溟引痕者,
+Buff/B_IS_Enemy_15_0_Description,Text,,,"On attack hit, shuffles a ""Deathspawn Imitation"" owned by the target into the deck. When drawn, immediately uses it to deal &dmgNum Pain damage and &niDmg Neurodamage to the owner.",,"攻击命中时向牌库中随机位置塞入一张拥有者为攻击目标的""注亡拟嗣"", 抽取使立即使用, 对拥有的调查员造成&dmgNum点痛苦伤害和&niDmg点神经损伤.",
+Buff/B_IS_Enemy_15_0_Name,Text,,,Spawner Matriarch,,投嗣育母,
+Buff/B_IS_Enemy_16_0_Description,Text,,,"Gains 【Combo】 after attacking. At the start of the turn, gains +1 action per &addActLayer 【Combo】 stacks. 
+Loses 2 【Combo】 stacks when receiving Disruption, or 1 stack when receiving Weaken/Pain debuffs. 
+
+&spBuffTextAttacks randomly remove 1 buff from target.",,"攻击命中后获得【连击】, 回合开始时每有&addActLayer层【连击】, 本回合多1次行动.
+获得干扰减益时, 移除2层【连击】, 获得弱化、痛苦减益时, 移除1层【连击】.
+
+&spBuffText攻击命中时随机移除目标1个增益.",
+Buff/B_IS_Enemy_16_0_Name,Text,,,Abyssal Reefsplitter,,深溟裂礁者,
+Buff/B_IS_Enemy_16_1_Description,Text,,,,,,
+Buff/B_IS_Enemy_16_1_Name,Text,,,Combo,,连击,
+Buff/B_IS_Enemy_17_0_Description,Text,,,"Losing 【Quality Sleep】 immediately deals &awakeNIDmg Neurodamage to all Investigators, resets its action, and deals &turnNIDmg Neurodamage each subsequent turn while suffering &painDmg Pain damage. 
+
+&spBuffTextPain damage taken at turn start reduced to &lowPainDmg.",,"失去【优质睡眠】时立即对所有调查员造成&awakeNIDmg点神经损伤, 并立即重置行动, 这之后每个回合开始时对所有调查员造成&turnNIDmg点神经损伤, 自身受到&painDmg点痛苦伤害.
+
+&spBuffText回合开始时受到的痛苦伤害变为&lowPainDmg.",
+Buff/B_IS_Enemy_17_0_Name,Text,,,Chalice Harvester,,钵海收割者,
+Buff/B_IS_Enemy_17_1_Description,Text,,,Gains 1 stack at turn start. Loses 1 stack when taking damage.,,"回合开始时增加一层, 受到伤害时减少一层.",
+Buff/B_IS_Enemy_17_1_Name,Text,,,Quality Sleep,,优质睡眠,
+Buff/B_IS_Enemy_18_0_Description,Text,,,"After attacking, discards &lostNum skills from the top of hand (or &superLostNum if 【Low-Altitude Suspension】 is active). If at least 1 skill is discarded, draw 1 skill. 
+
+&spBuffTextNo longer draws skills after discarding.",,"攻击命中后丢弃手牌顶部的&lostNum个技能(拥有【近地悬浮】时改为丢弃&superLostNum个), 丢弃的技能数至少为1时, 抽取1个技能.
+
+&spBuffText丢弃技能后不再抽取技能.",
+Buff/B_IS_Enemy_18_0_Name,Text,,,Abyssal Drifter,,掠海漂移体,
+Buff/B_IS_Enemy_3_0_Description,Text,,,,,,
+Buff/B_IS_Enemy_3_0_Name,Text,,,Reinforcement,,加固,
+Buff/B_IS_Enemy_5_0_Description,Text,,,"Deals &dmg damage and Neurodamage to &targetNum random Investigators when HP drops by &triggerPer% thresholds (triggers once per threshold crossing). 
+
+Trigger HP: &nextHp",,"自身生命值每降低&triggerPer%, 如果未死亡且可以行动, 对随机&targetNum名调查员造成&dmg伤害以及神经损伤,单次伤害跨过多个阈值只触发1次效果.
+
+触发生命值: &nextHp",
+Buff/B_IS_Enemy_5_0_Name,Text,,,Deepsea Novelty Egg,,深海奇趣蛋,
+Buff/B_IS_Enemy_6_0_Description,Text,,,"When taking damage, applies Abyssal Trace to random units (max &maxBuffTimes per turn; remaining: &lastBuffTimes). 
+
+&spBuffTextGains Taunt.",,"受到伤害时, 向随机单位施加溟痕, 每回合最多&maxBuffTimes次(剩余&lastBuffTimes).
+
+&spBuffText获得嘲讽.",
+Buff/B_IS_Enemy_6_0_Name,Text,,,Abyssal Founder,,深溟奠基者,
+Buff/B_IS_Enemy_7_0_Description,Text,,,"When under Disruption debuff, Dodge Rate bonus is forced to 0. 
+
+&spBuffTextDodge Rate bonus changed to &spDodPer%.",,"拥有干扰减益时, 闪避率加成强制变为0.
+
+&spBuffText闪避率加成变为&spDodPer%.",
+Buff/B_IS_Enemy_7_0_Name,Text,,,Abyssal Predator,,深溟猎食者,
+Buff/B_IS_Enemy_8_0_Description,Text,,,"Prioritizes attacking Investigators without Abyssal Trace, and attacks 1 additional Investigator with Abyssal Trace. When consecutively using the same Investigator's skill, immediately deals &extraDmg damage to them.
+
+&spBuffTextNow deals damage whenever skills are used.",,"优先攻击没有溟痕的调查员, 并额外攻击1个有溟痕的调查员, 当连续使用同一个调查员的技能时, 立即对该调查员造成&extraDmg点伤害.
+
+&spBuffText变更为只要使用技能就受到伤害.",
+Buff/B_IS_Enemy_8_0_Name,Text,,,Abyssal Splasher,,深溟喷溅者,
+Buff/B_IS_Enemy_8_1_Description,Text,,,Using skills marks you for attack by Abyssal Splashers.,,释放技能时将被深溟喷溅者攻击.,
+Buff/B_IS_Enemy_8_1_Name,Text,,,Marked,,被标记,
+Buff/B_IS_Enemy_9_0_Description,Text,,,,,,
+Buff/B_IS_Enemy_9_0_Name,Text,,,Passive,,被动,
+Buff/B_IS_Enemy_Boss_0_0_Description,Text,,,,,,
+Buff/B_IS_Enemy_Boss_0_0_Name,Text,,,First Speaker,,首言者,
+Buff/B_IS_Enemy_Boss_0_1_Description,Text,,,"When defeated, adds ""Dangerous Injection"" to hand, which immediately triggers Neurodamage.",,"被击杀时将可以使神经损伤立即爆发的""危险注药""加入手牌.",
+Buff/B_IS_Enemy_Boss_0_1_Name,Text,,,Extraction Target,,提取目标,
+Buff/B_IS_Enemy_Boss_0_2_Description,Text,,,,,,
+Buff/B_IS_Enemy_Boss_0_2_Name,Text,,,Healing Gauge Protection,,保护体力极限,
+Buff/B_IS_Enemy_Boss_0_3_Description,Text,,,,,,
+Buff/B_IS_Enemy_Boss_0_3_Name,Text,,,Corrosion,,侵蚀,
+Buff/B_IS_Enemy_Boss_1_0_Description,Text,,,"When HP first drops to &changeNum (&changePer% max HP), Saltwind Bishop enters Frenzy. 
+
+Single-target enemy skills can now target allies. ",,"当生命值首次降低至&changeNum(&changePer%最大生命值)时, 盐风主教进入暴走状态.
+
+指向单个敌人的攻击技能可以指向友军.",
+Buff/B_IS_Enemy_Boss_1_0_Name,Text,,,Saltwind Bishop,,盐风主教,
+Buff/B_IS_Enemy_Boss_1_1_Description,Text,,,+1 action count. Enhances certain skills.,,"增加1次行动次数, 部分技能得到强化.",
+Buff/B_IS_Enemy_Boss_1_1_Name,Text,,,Frenzy,,暴走,
+Buff/B_IS_Enemy_Boss_1_2_Description,Text,,,"Cannot act. Loses 1 stack when taking allied damage/healing. When removed, randomly restores &addApNum Mana or draws &drawTimes cards. 
+
+At turn start, suffers &niNum Neurodamage.",,"无法行动, 受到友方伤害或治疗后解除一层, 失去该减益时随机恢复&addApNum点法力值或抽&drawTimes张牌.
+
+回合开始时, 受到&niNum点神经损伤.",
+Buff/B_IS_Enemy_Boss_1_2_Name,Text,,,Entanglement,,缠绕,
+Buff/B_IS_Enemy_Boss_2_0_Description,Text,,,"① HP cannot drop below 1. At 1 HP, enters 【Feign Death】 and cancels all actions. Dies immediately if both self and Tidebound Corpse are in 【Feign Death】. 
+② At turn start while in 【Feign Death】, heals &healHpPer% max HP and exits 【Feign Death】. 
+③ Playing non-Lucy skills adds 1 【Karma】 Pain debuff to the owner. 
+④ Gains Debuff Resist on odd turns. Performs extra 【Sin】 action on even turns.",,"①自身生命值不会低于1, 在到达1时会进入【假死】状态并取消所有行动, 如果自身和接潮蔑死体均处于【假死】状态, 则立即死亡.
+②若回合开始时自身处于【假死】状态, 自身恢复&healHpPer%最大生命值并解除【假死】状态.
+③从手中打出非露西技能时, 技能的拥有者获得一层【业】痛苦减益.
+④奇数回合开始时获得减益抵抗, 偶数回合执行额外行动【罪】.",
+Buff/B_IS_Enemy_Boss_2_0_Name,Text,,,Half-Form: Human,,半身-人类,
+Buff/B_IS_Enemy_Boss_2_1_Description,Text,,,"Cannot be defeated. At turn start, exits 【Feign Death】 and heals &healPer% max HP. Dies immediately if Tidebound Corpse enters 【Feign Death】.",,"无法被击败, 回合开始时解除并恢复&healPer%最大生命值, 当接潮蔑死体进入【假死】状态时, 自身立即死亡.",
+Buff/B_IS_Enemy_Boss_2_1_Name,Text,,,Feign Death,,假死,
+Buff/B_IS_Enemy_Boss_2_2_Description,Text,,,,,,
+Buff/B_IS_Enemy_Boss_2_2_Name,Text,,,Skill Usage Monitor,,技能使用监听,
+Buff/B_IS_Enemy_Boss_2_3_Description,Text,,,,,,
+Buff/B_IS_Enemy_Boss_2_3_Name,Text,,,Karma,,业,
+Buff/B_IS_Enemy_Boss_3_0_Description,Text,,,"① HP cannot drop below 1. At 1 HP, enters 【Feign Death】 and cancels all actions. Dies immediately if both self and Tidebound Bishop are in 【Feign Death】. 
+② At turn start while in 【Feign Death】, heals &healHpPer% max HP and exits 【Feign Death】, gaining 【Taunt】. 
+③ After Tidebound Bishop acts, if not in 【Feign Death】, performs a follow-up attack on target with 1 Standby count.",,"①自身生命值不会低于1, 在到达1时会进入【假死】状态并取消所有行动, 如果自身和接潮主教均处于【假死】状态, 则立即死亡.
+②若回合开始时自身处于【假死】状态, 自身恢复&healHpPer%最大生命值并解除【假死】状态, 自身获得【嘲讽】.
+③接潮主教行动后, 如果自身不处于【假死】状态, 以倒计时1对目标进行追加攻击.",
+Buff/B_IS_Enemy_Boss_3_0_Name,Text,,,Half-Form: Seaborn,,半身-恐鱼,
+Buff/B_IS_Enemy_Boss_3_1_Description,Text,,,"Cannot be defeated. At turn start, exits 【Feign Death】 and heals &healHpPer% max HP. Dies immediately if Tidebound Bishop enters 【Feign Death】.",,"无法被击败, 回合开始时解除该减益并恢复&healHpPer%最大生命值, 当接潮主教进入假死状态时，自身立即死亡.",
+Buff/B_IS_Enemy_Boss_3_1_Name,Text,,,Feign Death,,假死,
+Buff/B_IS_Enemy_Boss_3_2_Description,Text,,,,,,
+Buff/B_IS_Enemy_Boss_3_2_Name,Text,,,Rend,,撕裂,
+Buff/B_IS_Enemy_Boss_4_0_Description,Text,,,"① Gains &dmgTakenPer% damage reduction per ""Pathfinder Fractal"" present. 
+② After accumulating &dmgNum damage, adds 1 Standby count to next turn's ""Divergent Pursuit"" action. 
+③ +&addWaitTimes Standby counts per turn. 
+
+Current accumulated damage: &turnDmgCount. 
+Next turn added actions: &nextAddAct. 
+Pain damage taken reduced by &painDmgSubPer%.",,"①每存在一只""塑路者分形"", 自身获得&dmgTakenPer%减伤.
+②每累计受到&dmgNum点伤害, 下个回合顺延增加倒计时1的""歧路追迹""行动.
+③每回合等待次数+&addWaitTimes.
+
+当前累计伤害: &turnDmgCount
+下回合累加行动: &nextAddAct次
+受到的痛苦伤害减少&painDmgSubPer%",
+Buff/B_IS_Enemy_Boss_4_0_Name,Text,,,Divergent Exploration,,歧路探索,
+Buff/B_IS_Enemy_Boss_5_0_Description,Text,,,"Gains &turnAddCount stacks at turn start. 
+Gains &killAddCount stacks when other ""Pathfinder Fractals"" die. 
+Dies at &deadNeedCount stacks, healing ""Pathfinder"" equal to remaining HP and transferring &attrAddPer% self-buffs (capped at &maxAddAttrPer%). 
+
+Current stacks: &curDeadCount. 
+Pain damage taken reduced by &painDmgSubPer%.",,"回合开始时获得&turnAddCount计数.
+其他的""塑路者分形""被击杀时, 获得&killAddCount计数.
+计数到达&deadNeedCount时直接死亡, 对""塑路者""进行相当于自身剩余生命值的治疗, 并将自身&attrAddPer%的加成给予""塑路者"", 通过该方法提供的各项属性加成均不会超过&maxAddAttrPer%.
+
+当前计数: &curDeadCount.
+受到的痛苦伤害减少&painDmgSubPer%",
+Buff/B_IS_Enemy_Boss_5_0_Name,Text,,,Divergent Exploration - Fractal,,歧路探索-分形,
+Buff/B_IS_Enemy_Boss_6_0_Description,Text,,,"① Bottom &checkSkillNum skills in hand cost +&addApNum Mana (or &superCheckSkillNum under 【Frenzy】). Owner takes &painDmgPer% max HP Pain damage when playing skills (repeatable) and gains 【Adaptation】. 
+② Gains &addChangeTimes reshuffle chances at turn start. 
+③ At first HP drop below &numChangeState, gains 1-turn 【Invincible】. Regains 【Low-Altitude Suspension】 and Frenzy next turn.",,"①手中最下方&checkSkillNum个技能费用+&addApNum(【狂暴】时改为&superCheckSkillNum个技能), 所属调查员打出技能时受到&painDmgPer%最大生命值的痛苦伤害(可重复)并获得【适应】.
+②回合开始时获得&addChangeTimes次换牌次数.
+③生命值首次低于&numChangeState时获得1回合的【无敌】, 下回合开始时重新获得【近地悬浮】和狂暴.",
+Buff/B_IS_Enemy_Boss_6_0_Name,Text,,,Oceanic Turbulence,,海洋湍流,
+Buff/B_IS_Enemy_Boss_6_1_Description,Text,,,"At full stacks, gains &addAttrPer% ATK/Healing bonus. Removed at next turn start.",,"满层时获得&addAttrPer%攻击力、治疗力加成, 并在下个回合开始时解除该增益.",
+Buff/B_IS_Enemy_Boss_6_1_Name,Text,,,Adaptation,,适应,
+Buff/B_IS_Enemy_Boss_6_2_Description,Text,,,"When playing owned skills, shuffles all owned skills in hand. Removes this debuff.",,"从手中打出自身的技能时将手中自身所有技能随机到新位置, 解除该减益.",
+Buff/B_IS_Enemy_Boss_6_2_Name,Text,,,Maelstrom,,涡流,
+Buff/B_IS_Enemy_Boss_6_3_Description,Text,,,Enhances certain skills.,,部分技能获得增强.,
+Buff/B_IS_Enemy_Boss_6_3_Name,Text,,,Frenzy,,狂暴,
+Buff/B_IS_Enemy_Boss_6_4_Description,Text,,,,,,
+Buff/B_IS_Enemy_Boss_6_4_Name,Text,,,Corrosion,,侵蚀,
+Buff/B_IS_Enemy_Boss_6_5_Description,Text,,,Invincible while this buff lasts.,,增益持续期间处于无敌状态.,
+Buff/B_IS_Enemy_Boss_6_5_Name,Text,,,Invincible,,无敌,
+Buff/B_IS_Enemy_Boss_7_0_Description,Text,,,,,,
+Buff/B_IS_Enemy_Boss_7_0_Name,Text,,,Ecological Wellspring,,生态源泉,
+Buff/B_IS_Enemy_Boss_8_0_Description,Text,,,"① At turn start, all allies gain ""Looting Spree"", +&addWaitNum Standby counts, +&addDidcard reshuffles, and add 【&addCardName】 to hand. 
+② Summons new 【Seaborn】 at battle start or when none remain, with chance for extra chests. Summons grow stronger over time. 
+③ Win after defeating &killEnemyNum 【Seaborn】 or at turn &winTurn start. 
+④ After viewing this buff &viewBuffTimes times or &viewBuffKeep seconds, removes &removeEquipNum random equipment from random Investigators.<color=#919191> (While viewing this effect...)</color> 
+
+Current views: &hasViewTimes. 
+Defeated: &hasKillEnemyNum.",,"①回合开始时, 所有队员获得“抢商店就是要猛猛干”, 增加&addWaitNum次等待次数, 增加&addDidcard次交换次数, 并将【&addCardName】加入手牌.
+②战斗开始时以及场上没有自己召唤出来的【海嗣】时, 立即召唤新一批的【海嗣】, 并有概率额外召唤宝箱, 召唤的【海嗣】会逐步狂暴.
+③击败&killEnemyNum只【海嗣】或是第&winTurn回合开始时获得胜利.
+④每查看&viewBuffTimes次该增益或是持续查看该增益&viewBuffKeep秒, 移除随机调查员的随机&removeEquipNum件装备.<color=#919191>（在查看这个效果的时候...)</color>
+
+当前查看次数: &hasViewTimes
+当前击败敌人数: &hasKillEnemyNum",
+Buff/B_IS_Enemy_Boss_8_0_Name,Text,,,Knut Gudinnason,,坎诺特·古德因纳夫,
+Buff/B_IS_Enemy_Boss_8_1_Description,Text,,,"① +&selfAddActNum actions. 
+② Summons stronger 【Seaborn】.",,"①增加&selfAddActNum次行动.
+②将会召唤更强的【海嗣】.",
+Buff/B_IS_Enemy_Boss_8_1_Name,Text,,,Swiftness,,迅捷,
+Buff/B_IS_Enemy_Boss_8_2_Description,Text,,,"+&addActNum actions. At turn start, +&addAtkPer% ATK.",,"行动次数增加&addActNum, 回合开始时增加&addAtkPer%攻击力.",
+Buff/B_IS_Enemy_Boss_8_2_Name,Text,,,Knut's Sigil,,坎诺特印记,
+Buff/B_IS_Enemy_Boss_8_3_Description,Text,,,"Triggers &countDownTime-second countdown. Playing cards during this restores &addApNum Mana, draws &addCardNum skills, and resets countdown. 
+Using Standby during the countdown also refreshes it.
+Removed at turn end.",,"进行&countDownTime秒的倒计时, 在倒计时期间打出手牌时, 回复&addApNum点法力值, 抽取&addCardNum个技能, 并刷新倒计时.
+在倒计时期间使用等待也能够刷新倒计时.
+回合结束时解除.",
+Buff/B_IS_Enemy_Boss_8_3_Name,Text,,,Swift Command,,迅捷指令,
+Buff/B_IS_Enemy_Boss_8_4_Description,Text,,,"Cannot act. 
+Heals &healHpPer% max HP at turn start. Grants full Disruption Resist when removed.",,"无法行动.
+回合开始时回复&healHpPer%最大生命值, 解除时获得满层干扰抗性.",
+Buff/B_IS_Enemy_Boss_8_4_Name,Text,,,Stupor,,昏睡,
+Buff/B_IS_Enemy_Boss_8_5_Description,Text,,,+&addDmgPer% damage dealt. Using skills inflicts &dmgPer% max HP Pain damage.,,"造成伤害增加&addDmgPer%, 使用技能时受到相当于&dmgPer%最大生命值的痛苦伤害.",
+Buff/B_IS_Enemy_Boss_8_5_Name,Text,,,"""Looting Spree""",,抢商店就是要猛猛干,
+Buff/B_IS_Enemy_Boss_8_6_Description,Text,,,"When taking Investigator-sourced damage, reflects &returnPer% as Pain damage. Removes this buff.",,"受到伤害来源为调查员的伤害时, 对该调查员造成相当于该伤害&returnPer%的痛苦伤害, 解除该增益.",
+Buff/B_IS_Enemy_Boss_8_6_Name,Text,,,Temporary Counter,,临时反制,
+Buff/B_IS_PI_0_Description,Text,,,,,,
+Buff/B_IS_PI_0_Name,Text,,,Vortex Throne,,涡旋座,
+Buff/B_IS_PI_11_Description,Text,,,,,,
+Buff/B_IS_PI_11_Name,Text,,,Metastasis of the Sea God,,海神的代谢,
+Buff/B_IS_PI_17_Description,Text,,,Suffers &atkTimes additional &atkPer% ATK follow-up attacks when targeted by single attacks.,,被单体攻击时额外受到&atkTimes次&atkPer%攻击力的追击.,
+Buff/B_IS_PI_17_Name,Text,,,Damaged Revolver Cylinder,,损坏的左轮弹巢,
+Buff/B_IS_PI_18_0_Description,Text,,,DEF below 0 increases damage taken by &addDmgPer%.,,"防御力低于0时, 受到的伤害增加&addDmgPer%.",
+Buff/B_IS_PI_18_0_Name,Text,,,Rosemary's Embrace,,迷迭香之拥,
+Buff/B_IS_PI_18_1_Description,Text,,,,,,
+Buff/B_IS_PI_18_1_Name,Text,,,Rosemary's Embrace,,迷迭香之拥,
+Buff/B_IS_PI_19_Description,Text,,,,,,
+Buff/B_IS_PI_19_Name,Text,,,Emperor's Collection,,皇帝的收藏,
+Buff/B_IS_PI_1_Description,Text,,,,,,
+Buff/B_IS_PI_1_Name,Text,,,Voyage,,海程,
+Buff/B_IS_PI_20_Description,Text,,,,,,
+Buff/B_IS_PI_20_Name,Text,,,"""Gleaming Lament""",,“璀璨悲泣”,
+Buff/B_IS_PI_21_Description,Text,,,,,,
+Buff/B_IS_PI_21_Name,Text,,,Ebony Dance Shoes,,漆黑的舞鞋,
+Buff/B_IS_PI_22_Description,Text,,,,,,
+Buff/B_IS_PI_22_Name,Text,,,Ivory Dance Shoes,,洁白的舞鞋,
+Buff/B_IS_PI_2_Description,Text,,,,,,
+Buff/B_IS_PI_2_Name,Text,,,Pulse of the Ocean,,海洋的脉搏,
+Buff/B_IS_PI_35_Description,Text,,,,,,
+Buff/B_IS_PI_35_Name,Text,,,Resistance Down,,抵抗下降,
+Buff/B_IS_PI_36_CC_Description,Text,,,Cannot act. Removed at turn end.,,无法行动，回合结束时解除。,
+Buff/B_IS_PI_36_CC_Name,Text,,,Major Stun,,大眩晕,
+Buff/B_IS_PI_36_Description,Text,,,,,,
+Buff/B_IS_PI_36_Name,Text,,,Mark,,标记,
+Buff/B_IS_PI_37_Description,Text,,,,,,
+Buff/B_IS_PI_37_Name,Text,,,Scion of the Ancient Keep,,古堡的子嗣,
+Buff/B_IS_PI_38_Description,Text,,,Removed after using a skill.,,使用技能后解除,
+Buff/B_IS_PI_38_Name,Text,,,ATK/Healing Up,,攻击力，治疗力上升,
+Buff/B_IS_PI_41_Description,Text,,,,,,
+Buff/B_IS_PI_41_Name,Text,,,Increased Pain Damage Taken,,受到痛苦伤害上升,
+Buff/B_IS_PI_42_Description,Text,,,,,,
+Buff/B_IS_PI_42_Name,Text,,,Damage Taken Reduced,,受到伤害降低,
+Buff/B_IS_PI_45_Description,Text,,,,,,
+Buff/B_IS_PI_45_Name,Text,,,Repeated Healing Skill Cast,,重复释放治疗技能,
+Buff/B_IS_PI_5_Description,Text,,,,,,
+Buff/B_IS_PI_5_Name,Text,,,Chitinous Spikes,,几丁质刺刃,
+Buff/B_IS_PI_61_1_Description,Text,,,,,,
+Buff/B_IS_PI_61_1_Name,Text,,,Corrosive Toxin,,锈蚀之毒,
+Buff/B_IS_PI_61_Description,Text,,,,,,
+Buff/B_IS_PI_61_Name,Text,,,Corrosive Toxin,,锈蚀之毒,
+Buff/B_IS_PI_62_Description,Text,,,,,,
+Buff/B_IS_PI_62_Name,Text,,,"""Blade's Radiance""",,《刀光剑影》,
+Buff/B_IS_PI_63_Description,Text,,,,,,
+Buff/B_IS_PI_63_Name,Text,,,Bluecove Safety Gear,,蓝卡坞安全衣,
+Buff/B_IS_PI_6_Description,Text,,,,,,
+Buff/B_IS_PI_6_Name,Text,,,Path of Suffering,,苦路,
+Buff/B_IS_PI_7_Description,Text,,,Gains 1 stack per turn if owner isn't an Investigator.,,"如果拥有者不为调查员, 每回合开始时自动叠加一层.",
+Buff/B_IS_PI_7_Name,Text,,,Flame Veneration,,敬奉火焰,
+Buff/B_IS_PI_8_Description,Text,,,"Before dealing damage, inflicts &dmgNum Pain damage (doubled vs non-Investigators). Crits if original damage crits.",,"造成伤害前, 会先造成&dmgNum点痛苦伤害, 目标不为调查员时该伤害翻倍, 该伤害会跟随原伤害暴击.",
+Buff/B_IS_PI_8_Name,Text,,,Harbor Echo,,港湾回响,
+Buff/B_IS_PI_9_Description,Text,,,DEF increases by &addDefNum% per turn. Resets after taking physical damage.,,"每回合提高&addDefNum%防御力, 受到下一次物理伤害后清空加成.",
+Buff/B_IS_PI_9_Name,Text,,,Dustproof Barrier,,噬尘防护,
+Buff/B_IS_PI_N15_Boss_Description,Text,,,"Gains Debuff Resist on odd turns. 
+Resets actions when cumulative Mana recovered reaches &recoverActionNeedAp and no actions remain (except Knut). 
+
+Current Mana: &apCount",,"单数回合开始时, 获得“减益抵抗”增益.
+单个回合中, 每累计回复&recoverActionNeedAp点法力值, 且该单位此时没有剩余的行动, 则该单位重置行动(坎诺特除外).
+
+当前累计回复的法力值:&apCount",
+Buff/B_IS_PI_N15_Boss_Name,Text,,,N15,,N15,
+Buff/B_IS_PI_N15_Description,Text,,,,,,
+Buff/B_IS_PI_N15_Name,Text,,,N15,,N15,
+Buff/B_IS_PI_N3_Boss_Description,Text,,,,,,
+Buff/B_IS_PI_N3_Boss_Name,Text,,,N3,,N3,
+Buff/B_IS_PI_N3_Description,Text,,,,,,
+Buff/B_IS_PI_N3_Name,Text,,,N3,,N3,
+Buff/B_IS_PI_N9_Boss_Description,Text,,,"Gains Debuff Resist on odd turns. 
+Resets actions when cumulative Mana recovered reaches &recoverActionNeedAp and no actions remain (except Knut). 
+
+Current Mana: &apCount",,"单数回合开始时, 获得“减益抵抗”增益.
+单个回合中, 每累计回复&recoverActionNeedAp点法力值, 且该单位此时没有剩余的行动, 则该单位重置行动(坎诺特除外).
+
+当前累计回复的法力值:&apCount",
+Buff/B_IS_PI_N9_Boss_Name,Text,,,N9,,N9,
+Buff/B_IS_PI_N9_Description,Text,,,,,,
+Buff/B_IS_PI_N9_Name,Text,,,N9,,N9,
+Buff/B_IS_REJE_0_Description,Text,,,"Fixed skill cost -&subMpNum. 
+The first &subSkillNum skills played from hand each turn cost -&subMpNum. 
+
+Remaining skill cost reductions: &remainSkillNum.",,"固定技能费用-&subMpNum.
+自身每回合从手中释放的前&subSkillNum个技能费用-&subMpNum.
+
+剩余手中技能减费次数: &remainSkillNum.",
+Buff/B_IS_REJE_0_Name,Text,,,Flesh Mutation,,血肉畸变,
+Buff/B_IS_REJE_1_Description,Text,,,"At turn start, if holding own skills, has &effectRate% chance to randomly play one.",,"回合开始时, 如果手中有自己的技能，有&effectRate%的概率随机释放其中一个技能.",
+Buff/B_IS_REJE_1_Name,Text,,,Focus Dysregulation,,专注失调,
+Buff/B_IS_REJE_2_Description,Text,,,Enters 1-turn Freeze status (<sprite=2>&stunRate%) at the start of the first turn.,,第一回合开始时，进入1回合的冰冻状态(<sprite=2>&stunRate%).,
+Buff/B_IS_REJE_2_Name,Text,,,Neurodegeneration,,神经退行,
+Buff/B_IS_REJE_3_Description,Text,,,Loses all Healing Gauge (cannot drop below 1) at turn start.,,回合开始时，失去所有体力极限(不会低于1).,
+Buff/B_IS_REJE_3_Name,Text,,,Hematopoietic Disorder,,造血障碍,
+Buff/B_IS_REVE_0_1_Description,Text,,,,,,
+Buff/B_IS_REVE_0_1_Name,Text,,,Ursus' Roar,,乌萨斯的怒号,
+Buff/B_IS_REVE_0_Description,Text,,,,,,
+Buff/B_IS_REVE_0_Name,Text,,,Ursus' Roar,,乌萨斯的怒号,
+Buff/B_IS_REVE_1_Description,Text,,,,,,
+Buff/B_IS_REVE_1_Name,Text,,,Yan's Vicissitudes,,大炎的沧桑,
+Buff/B_IS_REVE_3_Description,Text,,,,,,
+Buff/B_IS_REVE_3_Name,Text,,,Samian Tenacity,,萨米的坚韧,
+Buff/B_IS_REVE_4_1_Description,Text,,,,,,
+Buff/B_IS_REVE_4_1_Name,Text,,,Victoria's Glory,,维多利亚的荣耀,
+Buff/B_IS_REVE_4_Description,Text,,,,,,
+Buff/B_IS_REVE_4_Name,Text,,,Victoria's Glory,,维多利亚的荣耀,
+Buff/B_IS_REVE_5_1_Description,Text,,,,,,
+Buff/B_IS_REVE_5_1_Name,Text,,,Leithanien's Elegance,,莱塔尼亚的优雅,
+Buff/B_IS_REVE_5_Description,Text,,,,,,
+Buff/B_IS_REVE_5_Name,Text,,,Leithanien's Elegance,,莱塔尼亚的优雅,
+Buff/B_IS_RE_EmergencyTransport_Description,Text,,,Cannot use fixed skills.,,无法使用固定技能,
+Buff/B_IS_RE_EmergencyTransport_Name,Text,,,Transport,,运输,
+Buff/B_IS_RE_EmergencyTransport_Select_Description,Text,,,"For next &needFightTimes battles, cannot use fixed skills. Upon completion, gain &addItemDesc. Transported Investigator gains +&addLevelNum levels.",,"接下来的&needFightTimes场战斗中, 无法使用固定技能, 完成时获得&addItemDesc, 运输的调查员等级提升&addLevelNum",
+Buff/B_IS_RE_EmergencyTransport_Select_Name,Text,,,Transport,,运输,
+Enemy/E_IS_0_EnemyStory,Text,,,"A Seaborn that has grown limbs, though boneless. Appears to have preyed on terrestrial quadrupeds.",,长出四肢的恐鱼，但它体内没有骨头。似乎捕食过岸上的四足动物。,
+Enemy/E_IS_0_SubName,Text,,,,,,
+Enemy/E_IS_0_name,Text,,,Shellsea Galloper,,壳海狂奔者,
+Enemy/E_IS_10_EnemyStory,Text,,,What a perfect opportunity.,,哇多么好的机会啊。,
+Enemy/E_IS_10_SubName,Text,,,,,,
+Enemy/E_IS_10_name,Text,,,Treasure Chest???,,宝箱???,
+Enemy/E_IS_11_EnemyStory,Text,,,What a perfect opportunity.,,哇多么好的机会啊。,
+Enemy/E_IS_11_SubName,Text,,,,,,
+Enemy/E_IS_11_name,Text,,,Treasure Chest,,宝箱,
+Enemy/E_IS_12_EnemyStory,Text,,,"A rare Seaborn that manipulates microscopic organisms in air/ground to erode surroundings even in Abyssal Trace-free zones, mimicking the Trace's churning motion.",,少见的恐鱼，哪怕在没有溟痕的地区也能操纵空气中及地面上的微小生物侵蚀周遭，仿佛搅动着溟痕本身，因而得名。,
+Enemy/E_IS_12_SubName,Text,,,,,,
+Enemy/E_IS_12_name,Text,,,Abyssal Nestswarmer,,深溟巢涌者,
+Enemy/E_IS_13_EnemyStory,Text,,,A Seaborn developing solid organs. Its body gradually forms impregnable external spines.,,生长出固态器官的恐鱼。身体的其他部分似乎也在逐渐组建出坚不可摧的外棘。,
+Enemy/E_IS_13_SubName,Text,,,,,,
+Enemy/E_IS_13_name,Text,,,Primordial Sea Piercer,,始海穿刺者,
+Enemy/E_IS_14_EnemyStory,Text,,,"Evolved from decaying swarms. To utilize final nutrients, they smear themselves across the terrain.",,由即将腐烂死亡的群体衍化形成的新形态恐鱼。为了有效利用身体内最后的养分，它们需要做的就是将身体涂抹在大地上。,
+Enemy/E_IS_14_SubName,Text,,,,,,
+Enemy/E_IS_14_name,Text,,,Abyssal Tracer,,深溟引痕者,
+Enemy/E_IS_15_EnemyStory,Text,,,"A breeding-specialized Seaborn. When threatened, hurls imitations to let true offspring escape.",,一种以生育为主要职责的恐鱼，遇到致命威胁时会向敌人投掷拟嗣以便真正的恐鱼幼崽逃离战场。,
+Enemy/E_IS_15_SubName,Text,,,,,,
+Enemy/E_IS_15_name,Text,,,Spawner Matriarch,,投嗣育母,
+Enemy/E_IS_16_EnemyStory,Text,,,"An aggressive entity born from Abyssal Traces, devastating environments for modification by its kin. Non-swarm lifeforms are valid targets.",,由溟痕中诞生的极具攻击性的个体，能对周遭自然环境造成极大的破坏并由同胞进行改造。不属于族群的生命体也在这一范畴内。,
+Enemy/E_IS_16_SubName,Text,,,,,,
+Enemy/E_IS_16_name,Text,,,Abyssal Reefsplitter,,深溟裂礁者,
+Enemy/E_IS_17_EnemyStory,Text,,,A shrieking Seaborn. Interrupting its nutrient storage triggers lethal retaliation until all foreign life ceases.,,发出尖锐声响的恐鱼。储存营养的行为被打断时会立刻对身边的威胁进行回击，直到感受不到任何其他物种的生命现象为止。,
+Enemy/E_IS_17_SubName,Text,,,,,,
+Enemy/E_IS_17_name,Text,,,Chalice Harvester,,钵海收割者,
+Enemy/E_IS_18_EnemyStory,Text,,,"A Seaborn adapting to aerial environments, gliding effortlessly over seas. This branch may evolve sky-dwelling descendants.",,一种已初步适应天空环境的恐鱼，能够在不受阻碍的情况下一直在海面上滑行。这一分支持续进化后，或许能够衍生出永久居住在天空的后代。,
+Enemy/E_IS_18_SubName,Text,,,,,,
+Enemy/E_IS_18_name,Text,,,Abyssal Drifter,,掠海漂移体,
+Enemy/E_IS_1_EnemyStory,Text,,,Seaborn crawling ashore. Wields resilient tentacles.,,爬上海岸的恐鱼。挥舞着坚韧的腕肢。,
+Enemy/E_IS_1_SubName,Text,,,,,,
+Enemy/E_IS_1_name,Text,,,Benthic Glider,,底海滑动者,
+Enemy/E_IS_2_EnemyStory,Text,,,Airborne Seaborn. Next generations may better navigate atmospheric currents.,,漂浮在空中的恐鱼。下一代似乎会更擅长在空气中游弋。,
+Enemy/E_IS_2_SubName,Text,,,,,,
+Enemy/E_IS_2_name,Text,,,Pelagic Drifter,,浮海飘航者,
+Enemy/E_IS_3_EnemyStory,Text,,,Armored Seaborn guarding the swarm's periphery.,,拥有坚固外壳的恐鱼，栖居在大群外围，为整个大群阻挡敌人。,
+Enemy/E_IS_3_SubName,Text,,,,,,
+Enemy/E_IS_3_name,Text,,,Lithic Borer,,固海凿石者,
+Enemy/E_IS_4_EnemyStory,Text,,,Mysterious Seaborn. Its high-velocity aquatic spit shatters reefs.,,神秘的恐鱼。在海中能以更快的初速喷吐，足以摧毁礁石。,
+Enemy/E_IS_4_SubName,Text,,,,,,
+Enemy/E_IS_4_name,Text,,,Ridge Spitter,,脊海喷吐者,
+Enemy/E_IS_5_EnemyStory,Text,,,A Seaborn with impurity-dense tissues surpassing alloys. Victims report burning sensations from its stings.,,掺杂了杂质的恐鱼，身体组织的密度超过了部分合金。被它刺伤的患者会觉得自己被点着了。,
+Enemy/E_IS_5_SubName,Text,,,,,,
+Enemy/E_IS_5_name,Text,,,Capsule Crawler,,囊海爬行者,
+Enemy/E_IS_6_EnemyStory,Text,,,A chitin-skulled Seaborn without underlying organs.,,不知为何生长出几丁质头壳的恐鱼，头壳之下并没有对应的器官。,
+Enemy/E_IS_6_SubName,Text,,,,,,
+Enemy/E_IS_6_name,Text,,,Abyssal Founder,,深溟奠基者,
+Enemy/E_IS_7_EnemyStory,Text,,,A Seaborn using chitin skulls for physical attacks. Food remnants stored in microorganism-composed bodies.,,学会使用几丁质头壳进行物理攻击的恐鱼，食物残渣会储藏在由无数细小生物构成的身体中。,
+Enemy/E_IS_7_SubName,Text,,,,,,
+Enemy/E_IS_7_name,Text,,,Abyssal Predator,,深溟猎食者,
+Enemy/E_IS_8_EnemyStory,Text,,,Hard-chitined Seaborn suspected of spore dispersal. Common in Abyssal Trace zones.,,拥有坚硬的几丁质外壳保护自己，疑似能够传播孢子或类似的机能。溟痕出现的地区常见的恐鱼。,
+Enemy/E_IS_8_SubName,Text,,,,,,
+Enemy/E_IS_8_name,Text,,,Abyssal Splasher,,深溟喷溅者,
+Enemy/E_IS_9_EnemyStory,Text,,,A treasure chest-mimicking Seaborn often deployed by Deepsea Bishops to guard sanctuaries.,,一种拟态成宝箱模样的恐鱼，时常被深海主教用以保卫避难所。,
+Enemy/E_IS_9_SubName,Text,,,,,,
+Enemy/E_IS_9_name,Text,,,Treasure Chest???,,宝箱???,
+Enemy/E_IS_Boss_0_EnemyStory,Text,,,The first beautiful creature to speak human language before civilization. A Seaborn.,,第一个在文明面前说出人类语言的美丽生物。海嗣。,
+Enemy/E_IS_Boss_0_SubName,Text,,,,,,
+Enemy/E_IS_Boss_0_name,Text,,,First Speaker,,首言者,
+Enemy/E_IS_Boss_1_EnemyStory,Text,,,"A Deepsea Church member who infiltrated post-cataclysm Iberia, warping laws to pursue personal perfection while blind to the ocean's will. But who isn't?",,混入灾后伊比利亚的深海教会成员之一，真诚地用自己的理念篡改了律法，追求着个体的完美姿态，却根本无法参透海洋的意愿。话说回来，谁又能呢？,
+Enemy/E_IS_Boss_1_SubName,Text,,,,,,
+Enemy/E_IS_Boss_1_name,Text,,,Saltwind Bishop,,盐风主教,
+Enemy/E_IS_Boss_2_EnemyStory,Text,,,"This bishop's form has bifurcated - part human, part...",,这位主教的生命形态已发生变化，一部分表现为人类，另一部分——,
+Enemy/E_IS_Boss_2_SubName,Text,,,,,,
+Enemy/E_IS_Boss_2_name,Text,,,Tidebound Bishop,,接潮主教,
+Enemy/E_IS_Boss_3_EnemyStory,Text,,,...and part Seaborn. Aegir technology proved useful in the swarm's evolutionary path.,,——则表现为恐鱼。阿戈尔科技在大群的进化之路上并非毫无用处。,
+Enemy/E_IS_Boss_3_SubName,Text,,,,,,
+Enemy/E_IS_Boss_3_name,Text,,,Tidebound Corpse,,接潮蔑死体,
+Enemy/E_IS_Boss_4_EnemyStory,Text,,,A Seaborn pathfinder exploring evolutionary branches. Its fractals test erroneous routes to ensure the swarm's correct progression.,,为大群探索生路的海嗣。它的分形将遍历错误进化路线，如此一来便能确保大群走上正确的道路。,
+Enemy/E_IS_Boss_4_SubName,Text,,,,,,
+Enemy/E_IS_Boss_4_name,Text,,,Pathfinder,,塑路者,
+Enemy/E_IS_Boss_5_EnemyStory,Text,,,"Ephemeral fractals left by the Pathfinder. Phantoms fade, paths diverge. Yet exploration persists.",,海嗣塑路者所留下的分形。幻影必定消散，路途满是歧误。仍要探索，仍要探索。,
+Enemy/E_IS_Boss_5_SubName,Text,,,,,,
+Enemy/E_IS_Boss_5_name,Text,,,Pathfinder Fractal,,塑路者分形,
+Enemy/E_IS_Boss_6_EnemyStory,Text,,,"An Aegir girl who lost control after ingesting Seaborn cells. The swarm's aspirations choke her voice. Drowning in power, she becomes what she once despised.",,吞下海嗣细胞后失控的阿戈尔少女，大群的祈望阻塞了咽喉，少女再也发不出声响。力量将她溺没，她正在变成自己曾经最为痛恨的模样。,
+Enemy/E_IS_Boss_6_SubName,Text,,,,,,
+Enemy/E_IS_Boss_6_name,Text,,,Delusional Bubble,,偏执泡影,
+Enemy/E_IS_Boss_7_EnemyStory,Text,,,"A perfect organism nearing evolutionary singularity - the swarm's counselor and guide, ""Progenitor's Successor"".",,临近进化奇点的完美生物，大群的建言者与引领者，“后生的初生”，海嗣。,
+Enemy/E_IS_Boss_7_SubName,Text,,,,,,
+Enemy/E_IS_Boss_7_name,Text,,,"Izmik, Ecological Wellspring",,"伊祖米克, 生态泉源",
+Enemy/E_IS_Boss_8_EnemyStory,Text,,,"A mysterious merchant traversing wastelands, selling all civilization's wares.",,行走于荒野的神秘商人，只要文明里存在的，他就贩卖。,
+Enemy/E_IS_Boss_8_SubName,Text,,,,,,
+Enemy/E_IS_Boss_8_name,Text,,,Knut,,坎诺特,
+Item_Consume/I_IS_0_Description,Text,,,Removes Rejection from 1 Investigator.,,解除1名调查员的排异反应.,
+Item_Consume/I_IS_0_name,Text,,,Tulip's Secret Formula,,郁金香的秘方,
+Item_Equip/EQ_IS_0_Description,Text,,,All skill costs +&addMpNum.,,所有技能费用+&addMpNum.,
+Item_Equip/EQ_IS_0_name,Text,,,Bedrock,,基岩,
+Item_Equip/EQ_IS_1_Description,Text,,,Reduces 1 Overload when playing skills from hand.,,从手中释放技能时减少自身1点过载.,
+Item_Equip/EQ_IS_1_name,Text,,,Wavecleaver,,分浪,
+Item_Equip/EQ_IS_30_Description,Text,,,Deals &num% ATK damage to random enemies when using skills from hand.,,从手中使用技能时，对随机敌人造成攻击力&num%的伤害,
+Item_Equip/EQ_IS_30_name,Text,,,"""Sui's Wrath""",,“岁怒” ,
+Item_Equip/EQ_IS_31_Description,Text,,,Inflicts &num% of overhealed HP as Pain damage to all enemies.,,使所有敌人受到超出友军体力极限的恢复量的&num%的痛苦伤害,
+Item_Equip/EQ_IS_31_name,Text,,,Scavenger's Cane,,食腐者手杖,
+Item_Equip/EQ_IS_32_Description,Text,,,Reduces Neurodamage accumulation by &num when healed.,,受到治疗时，降低&num点神经损伤累计值,
+Item_Equip/EQ_IS_32_name,Text,,,Surge Feast,,涌动之餐,
+Item_Equip/EQ_IS_33_Description,Text,,,+&num% ATK/Healing per unique class in party (refreshes when re-equipped).,,队伍中每有一种不同的职业，攻击力和治疗力增加&num%(重新穿戴时刷新）,
+Item_Equip/EQ_IS_33_name,Text,,,Ancient Palm Fan,,老蒲扇,
+Item_Equip/EQ_IS_34_Description,Text,,,"If no attack skills used this turn, +&num% ATK (max &max%) at turn end. Removed after attacking.",,回合结束时，若你本回合没有使用过攻击技能，则你的攻击力增加&num%（最高&max%），使用攻击技能后解除,
+Item_Equip/EQ_IS_34_name,Text,,,Black Tulip,,黑色郁金香,
+Item_Equip/EQ_IS_35_Description,Text,,,Reduces party Neurodamage by &heal when taking damage.,,受到伤害时，减少全队&heal点神经损伤累计值,
+Item_Equip/EQ_IS_35_name,Text,,,"""Bloom""",,“绽放”,
+Item_Passive/PI_IS_0_Description,Text,,,"At battle start, all Attack-types gain +&addNum% ATK.",,"战斗开始时, 所有攻击型角色的攻击力增加&addNum%.",
+Item_Passive/PI_IS_0_name,Text,,,Vortex Throne,,涡旋座,
+Item_Passive/PI_IS_10_Description,Text,,,"<sprite name=""IntegratedStrategies_CrusePassive""><color=red>Cursed Relic</color> 
+At turn &lowMpTrun start: Mana -&lowMpNum.",,"<sprite name=""IntegratedStrategies_CrusePassive""><color=red>诅咒遗物</color>
+第&lowMpTrun回合开始时, 法力值-&lowMpNum.",
+Item_Passive/PI_IS_10_name,Text,,,Portrait of Breogan,,布雷奥甘肖像,
+Item_Passive/PI_IS_11_Description,Text,,,"<sprite name=""IntegratedStrategies_CrusePassive""><color=red>Cursed Relic</color> 
+All enemies' max HP +&addHpPer%.",,"<sprite name=""IntegratedStrategies_CrusePassive""><color=red>诅咒遗物</color>
+所有敌人最大生命值+&addHpPer%.",
+Item_Passive/PI_IS_11_name,Text,,,Metastasis of the Sea God,,海神的代谢,
+Item_Passive/PI_IS_12_Description,Text,,,"<sprite name=""IntegratedStrategies_CrusePassive""><color=red>Cursed Relic</color> 
+Immediately causes Rejection in 1 Investigator.",,"<sprite name=""IntegratedStrategies_CrusePassive""><color=red>诅咒遗物</color>
+立即使一名调查员产生排异反应.",
+Item_Passive/PI_IS_12_name,Text,,,Failed Specimen,,失败的标本,
+Item_Passive/PI_IS_13_Description,Text,,,Restores all Healing Gauge to random ally with gauge when enemies die.,,"敌人死亡时, 随机1名有体力极限的友军恢复所有体力极限.",
+Item_Passive/PI_IS_13_name,Text,,,Premium Aromatic Beans,,特级馥郁咖啡豆,
+Item_Passive/PI_IS_14_Description,Text,,,Overheals all allies by &healPer% max HP when enemies die.,,"敌人死亡时, 超额恢复所有友军&healPer%最大生命值.",
+Item_Passive/PI_IS_14_name,Text,,,Thermos,,热水壶,
+Item_Passive/PI_IS_15_Description,Text,,,Immediately gain 1 Revelation.,,立即获得一个启示.,
+Item_Passive/PI_IS_15_name,Text,,,Cathedral Puzzle,,大教堂拼图,
+Item_Passive/PI_IS_16_Description,Text,,,Reroll cost becomes &superCostSoul Soul Stones.,,重新投掷骰子的消耗变为&superCostSoul灵魂石.,
+Item_Passive/PI_IS_16_name,Text,,,Gilded Bone Dice,,镶金骨骰,
+Item_Passive/PI_IS_17_Description,Text,,,"After playing cards, marks 1 enemy. Attacks vs marked enemies deal &atkTimes additional &atkPer% ATK follow-ups. Only 1 mark active.     ",,"每次打出手牌后随机标记1名敌人, 只对拥有标记的敌人攻击时额外造成&atkTimes次&atkPer%攻击力的追击, 同时只能存在1个标记.",
+Item_Passive/PI_IS_17_name,Text,,,Damaged Revolver Cylinder,,损坏的左轮弹巢,
+Item_Passive/PI_IS_18_Description,Text,,,All allies gain &addPenetrationPer% DEF Penetration. Enemies with DEF <0 take +&addDmgPer% damage.,,"所有友军获得&addPenetrationPer%防御穿透, 防御力低于0的敌人受到的伤害增加&addDmgPer%.",
+Item_Passive/PI_IS_18_name,Text,,,Rosemary's Embrace,,迷迭香之拥,
+Item_Passive/PI_IS_19_Description,Text,,,Overheals random Investigator by &healNum HP when enemies take Pain damage.,,"敌人受到痛苦伤害时, 为随机调查员超额恢复&healNum点生命值.",
+Item_Passive/PI_IS_19_name,Text,,,Emperor's Collection,,皇帝的收藏,
+Item_Passive/PI_IS_1_Description,Text,,,At battle start: All Support-types gain +&addNum% Healing.,,"战斗开始时, 所有支援型角色的治疗力增加&addNum%.",
+Item_Passive/PI_IS_1_name,Text,,,Voyage,,海程,
+Item_Passive/PI_IS_20_Description,Text,,,All units take +&addDmgPer% Pain damage (separate multiplier).,,所有单位受到的痛苦伤害增加&addDmgPer%(独立乘区).,
+Item_Passive/PI_IS_20_name,Text,,,"""Gleaming Lament""",,“璀璨悲泣”,
+Item_Passive/PI_IS_21_Description,Text,,,All Attack/Defense-types gain +&addPer% Healing output.,,所有攻击型、防御型角色造成的治疗增加&addPer%.,
+Item_Passive/PI_IS_21_name,Text,,,Ebony Dance Shoes,,漆黑的舞鞋,
+Item_Passive/PI_IS_22_Description,Text,,,All Support-types deal +&addPer% damage.,,所有支援型角色造成的伤害增加&addPer%,
+Item_Passive/PI_IS_22_name,Text,,,Ivory Dance Shoes,,洁白的舞鞋,
+Item_Passive/PI_IS_23_Description,Text,,,"After using non-Quick skills, deals Pain damage equal to user's Overload × &dmgPer% ATK to random enemies.",,使用手中的调查员非迅速技能后对随机敌人造成使用者过载数次&dmgPer%攻击力的痛苦伤害.,
+Item_Passive/PI_IS_23_name,Text,,,Captain Morgan's Reserve,,摩根队长佳酿,
+Item_Passive/PI_IS_24_Description,Text,,,&healRate% chance to heal random ally for &healPer% (ATK+Healing) after using non-Quick skills.,,使用手中的调查员非迅速技能后有&healRate%的概率以使用者&healPer%(攻击力+治疗力)对随机友军进行回复.,
+Item_Passive/PI_IS_24_name,Text,,,Aqua Vitae,,生命之水,
+Item_Passive/PI_IS_25_Description,Text,,,&effectRate% chance to remove 1 Overload after using non-Quick skills.,,使用手中的调查员非迅速技能后有&effectRate%的概率消除使用者1点过载.,
+Item_Passive/PI_IS_25_name,Text,,,Royal Liqueur,,皇家利口酒,
+Item_Passive/PI_IS_2_Description,Text,,,All enemies deal -&subDmgNum% damage and take +&addDmgNum% damage.,,所有敌人攻击力减少&subDmgNum%，受到的伤害增加&addDmgNum%.,
+Item_Passive/PI_IS_2_name,Text,,,Pulse of the Ocean,,海洋的脉搏,
+Item_Passive/PI_IS_30_Description,Text,,,At turn end: Enemies take &num Pain damage per debuff stack. +&addDmg if Stunned.,,按下回合结束时，所有敌方根据拥有的减益层数受到其数量乘以&num的痛苦伤害，若有无法行动减益，额外受到&addDmg点痛苦伤害。,
+Item_Passive/PI_IS_30_name,Text,,,"""Child's Play Doll""",,“童趣玩偶”,
+Item_Passive/PI_IS_31_Description,Text,,,Immediately gain &num Soul Stones.,,立刻获得&num个灵魂石,
+Item_Passive/PI_IS_31_name,Text,,,Harpy's Kiss,,女妖之吻,
+Item_Passive/PI_IS_32_Description,Text,,,Draw +&num skills at first turn start.,,第一回合开始时，多抽取&num个技能,
+Item_Passive/PI_IS_32_name,Text,,,Dreamkeep Manor Model,,缠梦古堡模型,
+Item_Passive/PI_IS_33_Description,Text,,,All allies' first fixed ability use gains +&num damage/healing.,,所有我方第一次使用其固定能力时伤害或者治疗量增加&num,
+Item_Passive/PI_IS_33_name,Text,,,"""Second Economic Reform Act""",,《第二经济改革法》,
+Item_Passive/PI_IS_34_Description,Text,,,Refreshes all fixed abilities after every &num skills used.,,每当全队使用&num个技能时，刷新全队的固定能力,
+Item_Passive/PI_IS_34_name,Text,,,Dreamspice Essence,,迷梦香精,
+Item_Passive/PI_IS_35_Description,Text,,,All enemies' Disruption Resist -&num%. Max Disruption Resist stacks set to &stack.,,所有敌方干扰抵抗力减少&num%，将“干扰抵抗力增加”的最大层数改为&stack,
+Item_Passive/PI_IS_35_name,Text,,,Angelina's Innovation,,安洁莉娜的创想,
+Item_Passive/PI_IS_36_Description,Text,,,"First time an enemy becomes Stunned each battle, remains Stunned till turn end.",,每个敌方单位第一次进入无法行动状态时，在当前回合结束前，其陷入无法行动状态,
+Item_Passive/PI_IS_36_name,Text,,,Psychiatric Treatment Tape,,精神治疗录像带,
+Item_Passive/PI_IS_37_Description,Text,,,At turn 4 start: All allies gain +&num% DEF and Debuff Resist.,,第四回合开始时，我方所有角色防御力与减益抵抗率增加&num%,
+Item_Passive/PI_IS_37_name,Text,,,Scion of the Ancient Keep,,古堡的子嗣,
+Item_Passive/PI_IS_38_Description,Text,,,+&num% ATK/Healing after dodging. Removed upon skill use.,,我方角色触发闪避后，攻击力与治疗力增加&num%，使用技能后解除,
+Item_Passive/PI_IS_38_name,Text,,,"""Homecoming""",,《归来》,
+Item_Passive/PI_IS_39_Description,Text,,,No Overload generated during first turn.,,在第一回合，我方不会产生过载,
+Item_Passive/PI_IS_39_name,Text,,,Convalescence VIP Card,,疗养特供卡,
+Item_Passive/PI_IS_3_Description,Text,,,"After battles: All members' max HP +&addHpNum. 
+
+Total gained: &totalAddNum.",,"战斗结束后, 所有队伍成员最大生命值+&addHpNum.
+
+已通过该遗物获得&totalAddNum最大生命值.",
+Item_Passive/PI_IS_3_name,Text,,,King's Signet,,国王的护戒,
+Item_Passive/PI_IS_40_Description,Text,,,Stuns all enemies when ally is KO'd (unresistable).,,当我方有角色进入无法战斗状态时，对所有敌方造成一次无法抵抗的眩晕,
+Item_Passive/PI_IS_40_name,Text,,,"""Little Gran Faro""",,“小格兰法洛”,
+Item_Passive/PI_IS_41_Description,Text,,,All enemies take +&num% Pain damage.,,所有敌方单位受到的痛苦伤害增加&num%,
+Item_Passive/PI_IS_41_name,Text,,,"""Civilization's Continuance""",,“文明的存续”,
+Item_Passive/PI_IS_42_Description,Text,,,All allies take -&num% damage. Below &hp% HP: Effect becomes -&addnum%.,,所有我方受到的伤害减少&num%，血量低于&hp%时，将这个效果改为&addnum%,
+Item_Passive/PI_IS_42_name,Text,,,Mercenary Policy,,佣兵保单,
+Item_Passive/PI_IS_43_Description,Text,,,Party max HP +&num. Overheals all by &heal HP post-battle.,,全队血量上限增加&num，战斗结束时超额恢复我方全体&heal点生命值,
+Item_Passive/PI_IS_43_name,Text,,,Sculptural Array,,立体艺术装置,
+Item_Passive/PI_IS_44_Description,Text,,,Party level +1.,,全队等级提升一级,
+Item_Passive/PI_IS_44_name,Text,,,Ancient Casting,,古旧铸物,
+Item_Passive/PI_IS_45_Description,Text,,,First 3 turns: First healing skill each turn repeats.,,"前三个回合,每回合使用的第一个治疗技能重复释放一次",
+Item_Passive/PI_IS_45_name,Text,,,Physician's Touch,,医者-妙手,
+Item_Passive/PI_IS_4_Description,Text,,,Skill costs fluctuate &lowNum~+&highNum. Resets at turn start.,,"所有技能费用变更&lowNum~+&highNum, 回合开始时重置.",
+Item_Passive/PI_IS_4_name,Text,,,Viviparous Lily,,胎生百合,
+Item_Passive/PI_IS_5_Description,Text,,,At battle start: Random Investigator gains +&addAtkPer% ATK.,,"战斗开始时, 使随机1名调查员攻击力+&addAtkPer%.",
+Item_Passive/PI_IS_5_name,Text,,,Chitinous Spikes,,几丁质刺刃,
+Item_Passive/PI_IS_61_Description,Text,,,"Non-Pain damage applies 1 ""Corrosive Toxin"" stack (1 damage/stack).",,"造成非痛苦伤害时, 施加1层“锈蚀之毒”(1伤害/层)",
+Item_Passive/PI_IS_61_name,Text,,,Rusty Blade,,锈蚀刀片,
+Item_Passive/PI_IS_62_Description,Text,,,Per Cursed Relic: All Investigators gain +&addAtkPer% ATK/Healing and +&addCriPer% Crit Rate.,,"战斗开始时, 每拥有一个诅咒遗物, 所有调查员攻击力和治疗力增加&addAtkPer%, 暴击率增加&addCriPer%.",
+Item_Passive/PI_IS_62_name,Text,,,"""Blade's Radiance""",,《刀光剑影》,
+Item_Passive/PI_IS_63_Description,Text,,,Per Cursed Relic: All Investigators gain +&addDefPer% DEF/Debuff Resist.,,"战斗开始时, 每拥有一个诅咒遗物, 所有调查员防御力、全减益抵抗率增加&addDefPer%",
+Item_Passive/PI_IS_63_name,Text,,,Bluecove Safety Gear,,蓝卡坞安全衣,
+Item_Passive/PI_IS_64_Description,Text,,,Permanently +&addAtkNum ATK per kill.,,所有调查员击杀敌人时，击杀者攻击力永久增加&addAtkNum.,
+Item_Passive/PI_IS_64_name,Text,,,Sigilcarver's Hand,,刻勋之手,
+Item_Passive/PI_IS_65_Description,Text,,,Post-battle: Random Investigator loses &subHpNum max HP. Gains &itemName and &goldNum Gold.,,"战斗结束时, 随机调查员最大生命值永久-&subHpNum, 获得&itemName、&goldNum金币.",
+Item_Passive/PI_IS_65_name,Text,,,"""King's Crystal""",,“国王的水晶”,
+Item_Passive/PI_IS_6_Description,Text,,,"<sprite name=""IntegratedStrategies_CrusePassive""><color=red>Cursed Relic</color> 
+All healing +&healPer%. 
+First &needFightTimes battles: HP set to &changeHpNum. 
+Remaining: &lastFightTimes.",,"<sprite name=""IntegratedStrategies_CrusePassive""><color=red>诅咒遗物</color>
+所有调查员受到的治疗量增加&healPer%.
+装备遗物后的前&needFightTimes场战斗开始时, 生命值调整为&changeHpNum.
+剩余战斗次数: &lastFightTimes.",
+Item_Passive/PI_IS_6_name,Text,,,Path of Suffering,,苦路,
+Item_Passive/PI_IS_7_Description,Text,,,"<sprite name=""IntegratedStrategies_CrusePassive""><color=red>Cursed Relic</color> 
+Applies &addBuffLayer 【Flame Veneration】 Pain debuffs to all units at battle start (including new enemies).",,"<sprite name=""IntegratedStrategies_CrusePassive""><color=red>诅咒遗物</color>
+战斗开始时, 对所有单位施加&addBuffLayer层敬奉火焰痛苦减益, 当新的敌人出现时, 也会对其施加该效果.",
+Item_Passive/PI_IS_7_name,Text,,,Flame Veneration,,敬奉火焰,
+Item_Passive/PI_IS_8_Description,Text,,,"<sprite name=""IntegratedStrategies_CrusePassive""><color=red>Cursed Relic</color> 
+All damage preceded by &dmgNum Pain damage (doubled vs non-Investigators). Inherits critical stats from the original damage.",,"<sprite name=""IntegratedStrategies_CrusePassive""><color=red>诅咒遗物</color>
+所有单位造成伤害前, 会先造成&dmgNum点痛苦伤害, 目标不为调查员时该伤害翻倍, 该伤害会跟随原伤害暴击.",
+Item_Passive/PI_IS_8_name,Text,,,Harbor Echo,,港湾回响,
+Item_Passive/PI_IS_9_Description,Text,,,"All allies gain ""Dustproof Barrier"": DEF +&addDefNum% per turn (resets after physical damage).",,"所有友军获得每回合提高&addDefNum%防御力, 受到下一次物理伤害后清空加成的“噬尘防护”增益.",
+Item_Passive/PI_IS_9_name,Text,,,Dustproof Barrier,,噬尘防护,
+Item_Passive/PI_IS_N_15_Description,Text,,," - Investigators: Minimum &minSkillNum skills, max HP increased by &totalAddMaxHp (additional +&singleAddMaxHp per zone cleared).
+ - All enemies' max HP, ATK, and Healing increased by &totalAddProp% (additional +&singleAddProp% per zone).
+ - All enemies' Accuracy, Dodge Rate, and Status Resist increased by &totalAddType2Prop% (additional +&singleAddType2Prop% per zone).    
+ - At the start of Zone &curseStageNum, gain a random Cursed Relic.
+ - On odd-numbered turns, Boss gains ""Debuff Resist"".
+ - During a single turn, if cumulative Mana recovered reaches &recoverActionNeedAp and Boss has no remaining actions, Boss resets its actions.
+ - Shuffling the deck inflicts &deckFlushDmg × [shuffle count] Pain damage to all Investigators. At 2 shuffles, changes to &deckFlushNIDmg Neurodamage. Shuffle count resets on odd turns.
+ - At battle start, shuffle &addBloodCardNum non-excluding ""Crimson Mist"" cards into the deck (+&singleAddBloodCardNum per zone cleared, +&bossAddBloodCardNum during BOSS fights).
+
+Current shuffle count: &deckFlushCount",," - 所有调查员技能数最少为&minSkillNum, 最大生命值增加&totalAddMaxHp点, 每通过一个区域提高&singleAddMaxHp点.
+ - 所有敌人最大生命值、攻击力、治疗力提高&totalAddProp%, 每通过一个区域提高&singleAddProp%.
+ - 所有敌人命中率、闪避率、各项异常抗性提高&totalAddType2Prop%, 每通过一个区域提高&singleAddType2Prop%.
+ - 第&curseStageNum区开始时获得随机诅咒遗物.
+ - 单数回合开始时, Boss获得“减益抵抗”增益.
+ - 单个回合中, 每累计回复&recoverActionNeedAp点法力值, 且Boss此时没有剩余的行动, 则Boss重置行动.
+ - 洗牌时所有调查员受到&deckFlushDmg*累计洗牌次数点痛苦伤害, 累计洗牌次数为2时变更为全体受到&deckFlushNIDmg点神经损伤, 奇数回合开始时重置累计洗牌次数.
+ - 战斗开始时, 将&addBloodCardNum张不会放逐的“血色迷雾”洗入牌库, 每通过一个区域额外增加&singleAddBloodCardNum张, BOSS战额外增加&bossAddBloodCardNum张.
+
+当前累计洗牌次数: &deckFlushCount",
+Item_Passive/PI_IS_N_15_name,Text,,,N15,,N15,
+Item_Passive/PI_IS_N_3_Description,Text,,," - Investigators: Minimum &minSkillNum skills, max HP increased by &totalAddMaxHp (additional +&singleAddMaxHp per zone cleared).
+ - All enemies' max HP, ATK, and Healing increased by &totalAddProp% (additional +&singleAddProp% per zone).",," - 所有调查员技能数最少为&minSkillNum, 最大生命值增加&totalAddMaxHp点, 每通过一个区域提高&singleAddMaxHp点.
+ - 所有敌人最大生命值、攻击力、治疗力提高&totalAddProp%, 每通过一个区域提高&singleAddProp%.",
+Item_Passive/PI_IS_N_3_name,Text,,,N3,,N3,
+Item_Passive/PI_IS_N_9_Description,Text,,," - Investigators: Minimum &minSkillNum skills, max HP increased by &totalAddMaxHp (additional +&singleAddMaxHp per zone cleared).
+ - All enemies' max HP, ATK, and Healing increased by &totalAddProp% (additional +&singleAddProp% per zone).
+ - All enemies' Accuracy, Dodge Rate, and Status Resist increased by &totalAddType2Prop% (additional +&singleAddType2Prop% per zone).    
+ - At the start of Zone &curseStageNum, gain a random Cursed Relic.
+ - On odd-numbered turns, Boss gains ""Debuff Resist"".
+ - During a single turn, if cumulative Mana recovered reaches &recoverActionNeedAp and Boss has no remaining actions, Boss resets its actions.
+ - Shuffling the deck inflicts &deckFlushDmg × [shuffle count] Pain damage to all Investigators. At 2 shuffles, changes to &deckFlushNIDmg Neurodamage. Shuffle count resets on odd turns.
+
+Current shuffle count: &deckFlushCount",," - 所有调查员技能数最少为&minSkillNum, 最大生命值增加&totalAddMaxHp点, 每通过一个区域提高&singleAddMaxHp点.
+ - 所有敌人最大生命值、攻击力、治疗力提高&totalAddProp%, 每通过一个区域提高&singleAddProp%.
+ - 所有敌人命中率、闪避率、各项异常抗性提高&totalAddType2Prop%, 每通过一个区域提高&singleAddType2Prop%.
+ - 第&curseStageNum区开始时获得随机诅咒遗物.
+ - 单数回合开始时, Boss获得“减益抵抗”增益.
+ - 单个回合中, 每累计回复&recoverActionNeedAp点法力值, 且Boss此时没有剩余的行动, 则Boss重置行动.
+ - 洗牌时所有调查员受到&deckFlushDmg*累计洗牌次数点痛苦伤害, 累计洗牌次数为2时变更为全体受到&deckFlushNIDmg点神经损伤, 奇数回合开始时重置累计洗牌次数.
+
+当前累计洗牌次数: &deckFlushCount",
+Item_Passive/PI_IS_N_9_name,Text,,,N9,,N9,
+RandomEvent/RE_IS_AdvanceTeam_Desc,Text,,,,,,
+RandomEvent/RE_IS_AdvanceTeam_Desc_2Stage,Text,,,,,,
+RandomEvent/RE_IS_AdvanceTeam_Desc_3Stage,Text,,,,,,
+RandomEvent/RE_IS_AdvanceTeam_EventDetails,Text,,,,,,
+RandomEvent/RE_IS_AdvanceTeam_Name,Text,,,,,,
+RandomEvent/RE_IS_Belief_Desc,Text,,,,,,
+RandomEvent/RE_IS_Belief_Desc_2Stage,Text,,,,,,
+RandomEvent/RE_IS_Belief_Desc_3Stage,Text,,,,,,
+RandomEvent/RE_IS_Belief_EventDetails,Text,,,,,,
+RandomEvent/RE_IS_Belief_Name,Text,,,,,,
+RandomEvent/RE_IS_BootyBay_Desc,Text,,,,,,
+RandomEvent/RE_IS_BootyBay_Desc_2Stage,Text,,,,,,
+RandomEvent/RE_IS_BootyBay_Desc_3Stage,Text,,,,,,
+RandomEvent/RE_IS_BootyBay_EventDetails,Text,,,,,,
+RandomEvent/RE_IS_BootyBay_Name,Text,,,,,,
+RandomEvent/RE_IS_BuyNow_Desc,Text,,,,,,
+RandomEvent/RE_IS_BuyNow_Desc_2Stage,Text,,,,,,
+RandomEvent/RE_IS_BuyNow_Desc_3Stage,Text,,,,,,
+RandomEvent/RE_IS_BuyNow_EventDetails,Text,,,,,,
+RandomEvent/RE_IS_BuyNow_Name,Text,,,,,,
+RandomEvent/RE_IS_CloudsGather_Desc,Text,,,,,,
+RandomEvent/RE_IS_CloudsGather_Desc_2Stage,Text,,,,,,
+RandomEvent/RE_IS_CloudsGather_Desc_3Stage,Text,,,,,,
+RandomEvent/RE_IS_CloudsGather_EventDetails,Text,,,,,,
+RandomEvent/RE_IS_CloudsGather_Name,Text,,,,,,
+RandomEvent/RE_IS_ConventionalTech_Desc,Text,,,,,,
+RandomEvent/RE_IS_ConventionalTech_Desc_2Stage,Text,,,,,,
+RandomEvent/RE_IS_ConventionalTech_Desc_3Stage,Text,,,,,,
+RandomEvent/RE_IS_ConventionalTech_EventDetails,Text,,,,,,
+RandomEvent/RE_IS_ConventionalTech_Name,Text,,,,,,
+RandomEvent/RE_IS_Dance_Desc,Text,,,,,,
+RandomEvent/RE_IS_Dance_Desc_2Stage,Text,,,,,,
+RandomEvent/RE_IS_Dance_Desc_3Stage,Text,,,,,,
+RandomEvent/RE_IS_Dance_EventDetails,Text,,,,,,
+RandomEvent/RE_IS_Dance_Name,Text,,,,,,
+RandomEvent/RE_IS_DisappearingCustom_Desc,Text,,,,,,
+RandomEvent/RE_IS_DisappearingCustom_Desc_2Stage,Text,,,,,,
+RandomEvent/RE_IS_DisappearingCustom_Desc_3Stage,Text,,,,,,
+RandomEvent/RE_IS_DisappearingCustom_EventDetails,Text,,,,,,
+RandomEvent/RE_IS_DisappearingCustom_Name,Text,,,,,,
+RandomEvent/RE_IS_DripSpark_Desc,Text,,,,,,
+RandomEvent/RE_IS_DripSpark_Desc_2Stage,Text,,,,,,
+RandomEvent/RE_IS_DripSpark_Desc_3Stage,Text,,,,,,
+RandomEvent/RE_IS_DripSpark_EventDetails,Text,,,,,,
+RandomEvent/RE_IS_DripSpark_Name,Text,,,,,,
+RandomEvent/RE_IS_DustDiffusion_Desc,Text,,,,,,
+RandomEvent/RE_IS_DustDiffusion_Desc_2Stage,Text,,,,,,
+RandomEvent/RE_IS_DustDiffusion_Desc_3Stage,Text,,,,,,
+RandomEvent/RE_IS_DustDiffusion_EventDetails,Text,,,,,,
+RandomEvent/RE_IS_DustDiffusion_Name,Text,,,,,,
+RandomEvent/RE_IS_EmergencyTransport_Desc,Text,,,,,,
+RandomEvent/RE_IS_EmergencyTransport_Desc_2Stage,Text,,,,,,
+RandomEvent/RE_IS_EmergencyTransport_Desc_3Stage,Text,,,,,,
+RandomEvent/RE_IS_EmergencyTransport_EventDetails,Text,,,,,,
+RandomEvent/RE_IS_EmergencyTransport_Name,Text,,,,,,
+RandomEvent/RE_IS_FireWood_Desc,Text,,,,,,
+RandomEvent/RE_IS_FireWood_Desc_2Stage,Text,,,,,,
+RandomEvent/RE_IS_FireWood_Desc_3Stage,Text,,,,,,
+RandomEvent/RE_IS_FireWood_EventDetails,Text,,,,,,
+RandomEvent/RE_IS_FireWood_Name,Text,,,,,,
+RandomEvent/RE_IS_ForSurvive_Desc,Text,,,,,,
+RandomEvent/RE_IS_ForSurvive_Desc_2Stage,Text,,,,,,
+RandomEvent/RE_IS_ForSurvive_Desc_3Stage,Text,,,,,,
+RandomEvent/RE_IS_ForSurvive_EventDetails,Text,,,,,,
+RandomEvent/RE_IS_ForSurvive_Name,Text,,,,,,
+RandomEvent/RE_IS_HighBury_Desc,Text,,,,,,
+RandomEvent/RE_IS_HighBury_Desc_2Stage,Text,,,,,,
+RandomEvent/RE_IS_HighBury_Desc_3Stage,Text,,,,,,
+RandomEvent/RE_IS_HighBury_EventDetails,Text,,,,,,
+RandomEvent/RE_IS_HighBury_Name,Text,,,,,,
+RandomEvent/RE_IS_IgnoranceIsBliss_Desc,Text,,,,,,
+RandomEvent/RE_IS_IgnoranceIsBliss_Desc_2Stage,Text,,,,,,
+RandomEvent/RE_IS_IgnoranceIsBliss_Desc_3Stage,Text,,,,,,
+RandomEvent/RE_IS_IgnoranceIsBliss_EventDetails,Text,,,,,,
+RandomEvent/RE_IS_IgnoranceIsBliss_Name,Text,,,,,,
+RandomEvent/RE_IS_Inherit_Desc,Text,,,,,,
+RandomEvent/RE_IS_Inherit_Desc_2Stage,Text,,,,,,
+RandomEvent/RE_IS_Inherit_Desc_3Stage,Text,,,,,,
+RandomEvent/RE_IS_Inherit_EventDetails,Text,,,,,,
+RandomEvent/RE_IS_Inherit_Name,Text,,,,,,
+RandomEvent/RE_IS_LastObserver_Desc,Text,,,,,,
+RandomEvent/RE_IS_LastObserver_Desc_2Stage,Text,,,,,,
+RandomEvent/RE_IS_LastObserver_Desc_3Stage,Text,,,,,,
+RandomEvent/RE_IS_LastObserver_EventDetails,Text,,,,,,
+RandomEvent/RE_IS_LastObserver_Name,Text,,,,,,
+RandomEvent/RE_IS_LightHouseKeeper_Desc,Text,,,,,,
+RandomEvent/RE_IS_LightHouseKeeper_Desc_2Stage,Text,,,,,,
+RandomEvent/RE_IS_LightHouseKeeper_Desc_3Stage,Text,,,,,,
+RandomEvent/RE_IS_LightHouseKeeper_EventDetails,Text,,,,,,
+RandomEvent/RE_IS_LightHouseKeeper_Name,Text,,,,,,
+RandomEvent/RE_IS_Meet_Desc,Text,,,,,,
+RandomEvent/RE_IS_Meet_Desc_2Stage,Text,,,,,,
+RandomEvent/RE_IS_Meet_Desc_3Stage,Text,,,,,,
+RandomEvent/RE_IS_Meet_EventDetails,Text,,,,,,
+RandomEvent/RE_IS_Meet_Name,Text,,,,,,
+RandomEvent/RE_IS_MonsterScholar_Desc,Text,,,,,,
+RandomEvent/RE_IS_MonsterScholar_Desc_2Stage,Text,,,,,,
+RandomEvent/RE_IS_MonsterScholar_Desc_3Stage,Text,,,,,,
+RandomEvent/RE_IS_MonsterScholar_EventDetails,Text,,,,,,
+RandomEvent/RE_IS_MonsterScholar_Name,Text,,,,,,
+RandomEvent/RE_IS_NaturalMessenger_Desc,Text,,,,,,
+RandomEvent/RE_IS_NaturalMessenger_Desc_2Stage,Text,,,,,,
+RandomEvent/RE_IS_NaturalMessenger_Desc_3Stage,Text,,,,,,
+RandomEvent/RE_IS_NaturalMessenger_EventDetails,Text,,,,,,
+RandomEvent/RE_IS_NaturalMessenger_Name,Text,,,,,,
+RandomEvent/RE_IS_Penance_Desc,Text,,,,,,
+RandomEvent/RE_IS_Penance_Desc_2Stage,Text,,,,,,
+RandomEvent/RE_IS_Penance_Desc_3Stage,Text,,,,,,
+RandomEvent/RE_IS_Penance_EventDetails,Text,,,,,,
+RandomEvent/RE_IS_Penance_Name,Text,,,,,,
+RandomEvent/RE_IS_RespectFire_Desc,Text,,,,,,
+RandomEvent/RE_IS_RespectFire_Desc_2Stage,Text,,,,,,
+RandomEvent/RE_IS_RespectFire_Desc_3Stage,Text,,,,,,
+RandomEvent/RE_IS_RespectFire_EventDetails,Text,,,,,,
+RandomEvent/RE_IS_RespectFire_Name,Text,,,,,,
+RandomEvent/RE_IS_RightWrong_Desc,Text,,,,,,
+RandomEvent/RE_IS_RightWrong_Desc_2Stage,Text,,,,,,
+RandomEvent/RE_IS_RightWrong_Desc_3Stage,Text,,,,,,
+RandomEvent/RE_IS_RightWrong_EventDetails,Text,,,,,,
+RandomEvent/RE_IS_RightWrong_Name,Text,,,,,,
+RandomEvent/RE_IS_SafeHouse_Desc,Text,,,,,,
+RandomEvent/RE_IS_SafeHouse_Desc_2Stage,Text,,,,,,
+RandomEvent/RE_IS_SafeHouse_Desc_3Stage,Text,,,,,,
+RandomEvent/RE_IS_SafeHouse_EventDetails,Text,,,,,,
+RandomEvent/RE_IS_SafeHouse_Name,Text,,,,,,
+RandomEvent/RE_IS_SaleAbroad_Desc,Text,,,,,,
+RandomEvent/RE_IS_SaleAbroad_Desc_2Stage,Text,,,,,,
+RandomEvent/RE_IS_SaleAbroad_Desc_3Stage,Text,,,,,,
+RandomEvent/RE_IS_SaleAbroad_EventDetails,Text,,,,,,
+RandomEvent/RE_IS_SaleAbroad_Name,Text,,,,,,
+RandomEvent/RE_IS_SeaHeritage_Desc,Text,,,,,,
+RandomEvent/RE_IS_SeaHeritage_Desc_2Stage,Text,,,,,,
+RandomEvent/RE_IS_SeaHeritage_Desc_3Stage,Text,,,,,,
+RandomEvent/RE_IS_SeaHeritage_EventDetails,Text,,,,,,
+RandomEvent/RE_IS_SeaHeritage_Name,Text,,,,,,
+RandomEvent/RE_IS_SeaSinger_Desc,Text,,,,,,
+RandomEvent/RE_IS_SeaSinger_Desc_2Stage,Text,,,,,,
+RandomEvent/RE_IS_SeaSinger_Desc_3Stage,Text,,,,,,
+RandomEvent/RE_IS_SeaSinger_EventDetails,Text,,,,,,
+RandomEvent/RE_IS_SeaSinger_Name,Text,,,,,,
+RandomEvent/RE_IS_SellOff_Desc,Text,,,,,,
+RandomEvent/RE_IS_SellOff_Desc_2Stage,Text,,,,,,
+RandomEvent/RE_IS_SellOff_Desc_3Stage,Text,,,,,,
+RandomEvent/RE_IS_SellOff_EventDetails,Text,,,,,,
+RandomEvent/RE_IS_SellOff_Name,Text,,,,,,
+RandomEvent/RE_IS_StandAndHelp_Desc,Text,,,,,,
+RandomEvent/RE_IS_StandAndHelp_Desc_2Stage,Text,,,,,,
+RandomEvent/RE_IS_StandAndHelp_Desc_3Stage,Text,,,,,,
+RandomEvent/RE_IS_StandAndHelp_EventDetails,Text,,,,,,
+RandomEvent/RE_IS_StandAndHelp_Name,Text,,,,,,
+RandomEvent/RE_IS_ToCamp_Desc,Text,,,,,,
+RandomEvent/RE_IS_ToCamp_Desc_2Stage,Text,,,,,,
+RandomEvent/RE_IS_ToCamp_Desc_3Stage,Text,,,,,,
+RandomEvent/RE_IS_ToCamp_EventDetails,Text,,,,,,
+RandomEvent/RE_IS_ToCamp_Name,Text,,,,,,
+Skill/S_IS_Common_0_Description,Text,,,"Immediately activates when drawn. 
+Triggers one of the following effects:
+- Stuns a random ally (<sprite=2>200%)
+- Deals 12 Pain damage to the ally with highest HP
+- Reduces Mana by 1
+- Grants all enemies ""DEF +100% until next damage taken""
+- Grants all enemies ""Resist next debuff""",,"抽取时立即释放。
+触发以下效果中的任意一种。
+- 眩晕随机一位友军(<sprite=2>200%)
+- 体力值最高的友军受到12点痛苦伤害
+- 法力值减少1点
+- 赋予所有敌人“再受到下一次伤害前防御力增加100%”的增益
+- 赋予所有敌人“抵抗下一次减益”的增益",
+Skill/S_IS_Common_0_Name,Text,,,Crimson Mist,,血色迷雾,
+Skill/S_IS_Enemy_0_0_Description,Text,,,,,,
+Skill/S_IS_Enemy_0_0_Name,Text,,,Attack,,攻击,
+Skill/S_IS_Enemy_13_0_Description,Text,,,,,,
+Skill/S_IS_Enemy_13_0_Name,Text,,,Pierce,,穿刺,
+Skill/S_IS_Enemy_14_0_Description,Text,,,,,,
+Skill/S_IS_Enemy_14_0_Name,Text,,,Bludgeon,,锤击,
+Skill/S_IS_Enemy_15_0_Description,Text,,,,,,
+Skill/S_IS_Enemy_15_0_Name,Text,,,Hurl,,投掷,
+Skill/S_IS_Enemy_15_1_Description,Text,,,,,,
+Skill/S_IS_Enemy_15_1_Name,Text,,,Deathspawn Imitation,,注亡拟嗣,
+Skill/S_IS_Enemy_16_0_Description,Text,,,,,,
+Skill/S_IS_Enemy_16_0_Name,Text,,,Slash,,爪击,
+Skill/S_IS_Enemy_17_0_Description,Text,,,,,,
+Skill/S_IS_Enemy_17_0_Name,Text,,,Slash,,爪击,
+Skill/S_IS_Enemy_18_0_Description,Text,,,,,,
+Skill/S_IS_Enemy_18_0_Name,Text,,,Hurl,,投掷,
+Skill/S_IS_Enemy_1_0_Description,Text,,,,,,
+Skill/S_IS_Enemy_1_0_Name,Text,,,Attack,,攻击,
+Skill/S_IS_Enemy_2_0_Description,Text,,,,,,
+Skill/S_IS_Enemy_2_0_Name,Text,,,Attack,,攻击,
+Skill/S_IS_Enemy_3_0_Description,Text,,,,,,
+Skill/S_IS_Enemy_3_0_Name,Text,,,Attack,,攻击,
+Skill/S_IS_Enemy_3_1_Description,Text,,,,,,
+Skill/S_IS_Enemy_3_1_Name,Text,,,Reinforcement,,加固,
+Skill/S_IS_Enemy_4_0_Description,Text,,,,,,
+Skill/S_IS_Enemy_4_0_Name,Text,,,Toxic Spit,,毒性喷吐,
+Skill/S_IS_Enemy_6_0_Description,Text,,,,,,
+Skill/S_IS_Enemy_6_0_Name,Text,,,Attack,,攻击,
+Skill/S_IS_Enemy_7_0_Description,Text,,,,,,
+Skill/S_IS_Enemy_7_0_Name,Text,,,Attack,,攻击,
+Skill/S_IS_Enemy_8_0_Description,Text,,,,,,
+Skill/S_IS_Enemy_8_0_Name,Text,,,Splash,,喷溅,
+Skill/S_IS_Enemy_9_0_Description,Text,,,,,,
+Skill/S_IS_Enemy_9_0_Name,Text,,,Attack,,攻击,
+Skill/S_IS_Enemy_Boss_0_0_Description,Text,,,,,,
+Skill/S_IS_Enemy_Boss_0_0_Name,Text,,,Hydro Cannon,,水炮,
+Skill/S_IS_Enemy_Boss_0_1_Description,Text,,,"Recast &attackCount times, dealing &niDamage Neurodamage per hit.",,"重复释放&attackCount次, 每次对目标造成&niDamage点神经损伤.",
+Skill/S_IS_Enemy_Boss_0_1_Name,Text,,,Corrosive Vesicle,,侵蚀液泡,
+Skill/S_IS_Enemy_Boss_0_2_Description,Text,,,,,,
+Skill/S_IS_Enemy_Boss_0_2_Name,Text,,,Hydro Scatter,,水炮散射,
+Skill/S_IS_Enemy_Boss_0_3_Description,Text,,,,,,
+Skill/S_IS_Enemy_Boss_0_3_Name,Text,,,Summon,,召唤,
+Skill/S_IS_Enemy_Boss_0_4_Description,Text,,,Triggers the target's Neurodamage immediately. Draw &drawNum skills and restore &addAP Mana.,,"使目标的神经损伤立即爆发, 抽取&drawNum个技能, 回复&addAP点法力值.",
+Skill/S_IS_Enemy_Boss_0_4_Name,Text,,,Dangerous Injection,,危险注药,
+Skill/S_IS_Enemy_Boss_1_0_Description,Text,,,"Targets &targetNum random Investigators (prioritizes different targets when Frenzied, +&extraTargetNum).",,"以随机&targetNum个调查员为目标, 深海主教进入暴走时额外指定&extraTargetNum个目标(优先不同目标).",
+Skill/S_IS_Enemy_Boss_1_0_Name,Text,,,Fissured Proliferation,,断裂生殖,
+Skill/S_IS_Enemy_Boss_1_1_Description,Text,,,,,,
+Skill/S_IS_Enemy_Boss_1_1_Name,Text,,,Tidal Surge,,大潮,
+Skill/S_IS_Enemy_Boss_1_2_Description,Text,,,Prioritizes attacking Investigator with highest damage reduction.,,优先攻击我方减伤最高的调查员.,
+Skill/S_IS_Enemy_Boss_1_2_Name,Text,,,Collapse,,坍塌,
+Skill/S_IS_Enemy_Boss_2_0_Description,Text,,,Applies &minLayer~&maxLayer stacks of 【Karma】 Pain debuff to target.,,使目标随机获得&minLayer~&maxLayer层【业】痛苦减益.,
+Skill/S_IS_Enemy_Boss_2_0_Name,Text,,,Malicious Spread,,恶意蔓延,
+Skill/S_IS_Enemy_Boss_2_1_Description,Text,,,Prioritizes attacking last-acting Investigator.,,优先攻击最后一个出手的调查员.,
+Skill/S_IS_Enemy_Boss_2_1_Name,Text,,,Defilement,,亵渎,
+Skill/S_IS_Enemy_Boss_2_2_Description,Text,,,Deals (Highest【Karma】stacks - Lowest【Karma】stacks) × &layerDmg Pain damage to Investigators with highest【Karma】. Clears【Karma】if stacks ≥&disableLayer.,,"令所有拥有最高【业】层数的调查员受到与最低【业】层数差值*&layerDmg的痛苦伤害, 若其【业】减益层数>=&disableLayer, 清除其拥有的【业】减益.",
+Skill/S_IS_Enemy_Boss_2_2_Name,Text,,,Sin,,罪,
+Skill/S_IS_Enemy_Boss_3_0_Description,Text,,,Adds 1 stack to a random debuff on target.,,使目标随机1个减益增加1层.,
+Skill/S_IS_Enemy_Boss_3_0_Name,Text,,,Spiral Slash,,旋回切割,
+Skill/S_IS_Enemy_Boss_3_1_Description,Text,,,"Prioritizes targets marked by Bishop's ""Defilement"".",,优先攻击主教【亵渎】的目标.,
+Skill/S_IS_Enemy_Boss_3_1_Name,Text,,,Rend,,撕裂,
+Skill/S_IS_Enemy_Boss_3_2_Description,Text,,,Deals 【Karma】stacks × &layerNIDmg Neurodamage.,,造成【业】层数*&layerNIDmg的神经损伤.,
+Skill/S_IS_Enemy_Boss_3_2_Name,Text,,,Judgment,,罚,
+Skill/S_IS_Enemy_Boss_4_0_Description,Text,,,"Doubles attributes of 1 random ""Pathfinder Fractal"".",,"随机使1只""塑路者分形""的属性加成翻倍.",
+Skill/S_IS_Enemy_Boss_4_0_Name,Text,,,Call,,呼号,
+Skill/S_IS_Enemy_Boss_4_1_Description,Text,,,"Summons ""Pathfinder Fractal"" inheriting &attrPer% of 【Divergent Exploration】's bonuses, granting &addAttrNum random attributes (upgraded to &superAddAttrNum if HP <&superHpPer%):
+- ATK +&attrAddAtkPer%
+- DEF +&attrAddDefPer%
+- Accuracy +&attrAddHitPer%
+- Dodge Rate +&attrAddDodPer%
+- Healing Received +&attrAddHealPer%
+- All Resists +&attrAddDebuffPer%
+- Pain Damage Taken -&addAttrPainSubPer%
+
+If enemies ≥5: Deals &painDmgNum (&painDmgPer% ATK) Pain damage to all Investigators instead.",,"召唤""塑路者分形"", 继承【歧路探索】&attrPer%的加成, 并随机赋予&addAttrNum项下列的加成(生命值低于&superHpPer时变为&superAddAttrNum项):
+ - 攻击力增加&attrAddAtkPer%
+ - 防御力增加&attrAddDefPer%
+ - 命中率增加&attrAddHitPer%
+ - 闪避率增加&attrAddDodPer%
+ - 受到治疗增加&attrAddHealPer%
+ - 所有抗性增加&attrAddDebuffPer%
+ - 受到的痛苦伤害减少&addAttrPainSubPer%
+
+ 如果当前敌人数>=5, 改为对所有调查员造成&painDmgNum(&painDmgPer%攻击力)点痛苦伤害.",
+Skill/S_IS_Enemy_Boss_4_1_Name,Text,,,Divergent Pursuit,,歧路追迹,
+Skill/S_IS_Enemy_Boss_4_2_Description,Text,,,Deals &dmg Pain damage to self.,,自身受到&dmg点痛苦伤害.,
+Skill/S_IS_Enemy_Boss_4_2_Name,Text,,,Bludgeon,,锤击,
+Skill/S_IS_Enemy_Boss_5_0_Description,Text,,,,,,
+Skill/S_IS_Enemy_Boss_5_0_Name,Text,,,Slash,,爪击,
+Skill/S_IS_Enemy_Boss_6_0_Description,Text,,,Discards &normalDropNum top skills (&superDropNum if 【Frenzy】). If discarded ≥1: Draw &normalDrawNum skills (+&extraDrawNum per Investigator with 【Adaptation】).,,"丢弃手牌顶部&normalDropNum个技能(【狂暴】则改为丢弃&superDropNum个技能), 如果丢弃的技能数大于0, 抽取&normalDrawNum个技能, 且每有一个调查员有【适应】额外抽取&extraDrawNum个技能(&realExtraDrawNum).",
+Skill/S_IS_Enemy_Boss_6_0_Name,Text,,,Chaotic Maelstrom,,紊乱涡流,
+Skill/S_IS_Enemy_Boss_6_1_Description,Text,,,"Attacks owners of topmost and bottommost skills in hand, re-casting those skills with 1 Standby count.
+
+Repeatable: &canExtra",,"同时攻击手牌最上方和最下方技能所属的调查员, 以倒计时1重新释放该技能.
+
+是否可以重复释放: &canExtra",
+Skill/S_IS_Enemy_Boss_6_1_Name,Text,,,Silent Weeping,,无声之泣,
+Skill/S_IS_Enemy_Boss_6_2_Description,Text,,,"Swaps HP and Healing Gauge for owners of top &normalCheckNum skills in hand. All Investigators lose Healing Gauge (minimum 1). Heals self for total lost Gauge × &healPer.
+【Frenzy】: Checks top &superCheckNum skills instead.",,"使手牌最上方的&normalCheckNum个技能所属的调查员生命值与体力极限互换, 然后所有调查员失去体力极限(生命值小于0时不互换, 体力极限最低保留1), 自身恢复失去体力极限总和*&healPer的生命值.
+拥有【狂暴】时, 改为检查手牌最上方的&superCheckNum个技能.",
+Skill/S_IS_Enemy_Boss_6_2_Name,Text,,,Harvest Sustenance,,"收割, 给养",
+Skill/S_IS_Enemy_Boss_7_0_Description,Text,,,,,,
+Skill/S_IS_Enemy_Boss_7_0_Name,Text,,,Shockwave,,震撼,
+Skill/S_IS_Enemy_Boss_8_0_Description,Text,,,Targets Investigators with highest Overload and summoned【Seaborn】. Resets all Overload and【Seaborn】actions.,,"对所有过载最高的调查员和自身召唤的【海嗣】释放, 并重置所有调查员的过载和【海嗣】的行动.",
+Skill/S_IS_Enemy_Boss_8_0_Name,Text,,,Potion: Stupor,,药剂·昏睡,
+Skill/S_IS_Enemy_Boss_8_1_Description,Text,,,Resets all Investigator Overload and【Seaborn】actions.,,重置所有调查员的过载和【海嗣】的行动.,
+Skill/S_IS_Enemy_Boss_8_1_Name,Text,,,Potion: Counter,,药剂·反制,
+Skill/S_IS_Enemy_Boss_8_2_Description,Text,,,,,,
+Skill/S_IS_Enemy_Boss_8_2_Name,Text,,,Doctor's Swift Command,,博士-迅捷指令,
+Skill/S_IS_PI_17_Description,Text,,,,,,
+Skill/S_IS_PI_17_Name,Text,,,Revolver Cylinder Shot,,左轮弹巢射击,
+Skill/S_IS_RE_EmergencyTransport_Description,Text,,,,,,
+Skill/S_IS_RE_EmergencyTransport_Name,Text,,,Transport,,运输,
+SkillExtended/SET_IS_Buff_Enemy_Boss_1_0_Des,Text,,,Can target allies.,,可以指向友军.,
+SkillExtended/SET_IS_Buff_Enemy_Boss_1_0_EnforceString,Text,,,,,,
+SkillExtended/SET_IS_Buff_Enemy_Boss_1_0_Name,Text,,,Rescue,,解救,
+SkillExtended/SET_IS_Buff_Enemy_Boss_6_0_Des,Text,,,Cost +&addAPNum. When owner plays skills: Owner takes &takePainDmg (&takePainPer% max HP) Pain damage.,,"费用+&addAPNum, 释放所属调查员技能时, 该调查员受到&takePainDmg(&takePainPer%最大生命值)点痛苦伤害.",
+SkillExtended/SET_IS_Buff_Enemy_Boss_6_0_EnforceString,Text,,,,,,
+SkillExtended/SET_IS_Buff_Enemy_Boss_6_0_Name,Text,,,Turbulence,,湍流,
+SkillExtended/SET_IS_Enemy_Boss_7_0_0_Des,Text,,,Epicenter,,震撼中心,
+SkillExtended/SET_IS_Enemy_Boss_7_0_0_EnforceString,Text,,,,,,
+SkillExtended/SET_IS_Enemy_Boss_7_0_0_Name,Text,,,Epicenter,,震撼中心,
+SkillExtended/SET_IS_Enemy_Boss_7_0_1_Des,Text,,,Shockwave - Upper,,震撼-上,
+SkillExtended/SET_IS_Enemy_Boss_7_0_1_EnforceString,Text,,,,,,
+SkillExtended/SET_IS_Enemy_Boss_7_0_1_Name,Text,,,Shockwave - Upper,,震撼-上,
+SkillExtended/SET_IS_Enemy_Boss_7_0_2_Des,Text,,,Shockwave - Lower,,震撼-下,
+SkillExtended/SET_IS_Enemy_Boss_7_0_2_EnforceString,Text,,,,,,
+SkillExtended/SET_IS_Enemy_Boss_7_0_2_Name,Text,,,Shockwave - Lower,,震撼-下,
+SkillExtended/SET_IS_Passive_4_0_Des,Text,,,Cost &costChange.,,费用&costChange.,
+SkillExtended/SET_IS_Passive_4_0_EnforceString,Text,,,,,,
+SkillExtended/SET_IS_Passive_4_0_Name,Text,,,Viviparous Lily,,胎生百合,
+SkillExtended/SET_IS_REVE_1_Des,Text,,,Mana Cost -1,,消耗法力值-1,
+SkillExtended/SET_IS_REVE_1_EnforceString,Text,,,,,,
+SkillExtended/SET_IS_REVE_1_Name,Text,,,Yan's Vicissitudes,,大炎的沧桑,
+

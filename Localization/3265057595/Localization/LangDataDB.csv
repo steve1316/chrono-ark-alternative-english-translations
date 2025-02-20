@@ -1,0 +1,212 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Hei_0_Description,Text,,,"When receiving a weakening debuff, Defense -8%.
+Removed at the end of the turn.","衰弱デバフを受けるたび、防御力が8％減少する。
+ターン終了時、除去される。 ","受到弱化减益时,防御力-8%
+回合结束时解除.",
+Buff/B_Hei_0_Name,Text,,,Shatter,粉砕,击碎,
+Buff/B_Hei_10_Description,Text,,,"When receiving damage from an enemy, grants 1 stack of ""Grudge"" to the attacker.
+When attacking an enemy with ""Grudge"", spreads a random weakening debuff from the target to another enemy.","敵からダメージを受けたとき、攻撃者に[恨み]を1ストック与える。
+自身が[恨み]を持つ敵を攻撃するとき、対象が持つランダムな衰弱デバフを別の敵に1ストック与える。","当我方受到敌人伤害时,给予来源一层""结怨""减益.
+自身命中""结怨""敌人时,将目标的随机一个弱化减益优先扩散到其它敌人.",
+Buff/B_Hei_10_Name,Text,,,Mercy is God's work,慈悲は神の御業 ,仁慈是上帝的事情,
+Buff/B_Hei_10_t_Name,Text,,,Merciful Strike,慈悲ある打撃,仁慈挨打,
+Buff/B_Hei_11_Description,Text,,,"When receiving damage, if it is Critical, increase that damage by &a%.
+Reduces 1 stack upon activation.","ダメージを受けたときにそれがクリティカルの場合、そのダメージが&a%増加する。
+発動時、ストックが1減少する。","受到伤害时,若触发暴击,令伤害提升到&a%.
+触发时减少1层.",
+Buff/B_Hei_11_Name,Text,,,Grudge,恨み,结怨,
+Buff/B_Hei_12_Description,Text,,,"Increases damage taken by 60% of Defense reduction from ""Shatter"".",[粉砕]による防御力減少量の60%、受けるダメージが増加する。 ,"根据击碎减益的防御降低,60%比例使受到伤害增加.",
+Buff/B_Hei_12_Name,Text,,,Endslayer,終末,终末,
+Buff/B_Hei_13_Description,Text,,,"Prevents removal of ""Shatter"" at turn end during this effect.
+Critical damage increased by 125%.","この持続時間中は、ターン終了時の[粉砕]の除去を無効にする。
+クリティカルダメージが125%増加する。","持续期间,击碎不再于回合结束时解除.
+暴击时的伤害提升至125%.",
+Buff/B_Hei_13_Name,Text,,,Vanguard,前衛 ,锋芒,
+Buff/B_Hei_1_Description,Text,,,Critical damage increases by 10% against debuffed enemies.,敵がデバフを持つ場合、クリティカルダメージが10％増加する。,"当敌人受到减益时,暴击伤害增加10%.",
+Buff/B_Hei_1_Name,Text,,,Vulnerability Insight,脆弱洞察 ,洞察脆弱,
+Buff/B_Hei_2_Description,Text,,,Removed at turn end if no attack skill was used this turn (starting from turn 2).,2ターン目以降、そのターン中に攻撃スキルを使用していない場合、これはターン終了時に除去される。,"从第2个回合开始,回合结束时若自身未释放过攻击技能,解除此效果.",
+Buff/B_Hei_2_Name,Text,,,Loaded Crossbow,クロスボウ装填,箭拔弩张,
+Buff/B_Hei_3_Description,Text,,,"Increases this effect's damage cap by &a when receiving debuffs.
+Take &b damage per stack when a debuff is removed.
+Removed when remaining damage reaches 0.
+If removed with remaining damage, take half (max &d).
+Current remaining: &c","デバフを受けたとき、これが与えるダメージの上限を&a増加させる。
+自身が持つデバフが除去されたとき、そのストック1ごとに&bのダメージを受ける。
+残りダメージが0になったとき、除去される。
+除去されたときに残りダメージが0でない場合、その半分のダメージ（最大&dダメージ）を受ける。
+現在の残りダメージ：&c ","受到减益时,令此效果造成伤害的上限增加&a.
+自身的减益解除时,每一层受到&b点伤害.
+剩余伤害为0时解除.
+若解除时,剩余伤害不为0,受到一半的伤害(最多&d点)
+当前剩余:&c",
+Buff/B_Hei_3_Name,Text,,,Foreshadowing,伏線,伏笔,
+Buff/B_Hei_4_Description,Text,,,"Gains a buff: Randomly removes 1 debuff.
+When a debuff is removed, gain 2 Overheal per stack.
+Draws 1 skill if no debuffs remain when this effect is removed.","バフを得たとき、ランダムなデバフが1つ除去される。
+自身が持つデバフが除去されたとき、そのストック1ごとに2オーバーヒールする。
+これが除去されたときにデバフを持たない場合、スキルを1枚引く。 ","被施加增益效果时,随机解除一个减益.
+自身的减益被解除时,每一层超额回复2点生命.
+若此效果解除时自身没有减益,抽取一个技能",
+Buff/B_Hei_4_Name,Text,,,Tea Service,ティーサーブ ,恰茶先,
+Buff/B_Hei_5_Description,Text,,,"Can be targeted ignoring Taunt.
+First attack received each turn is Critical.
+Resets this effect upon receiving weakening debuffs.","挑発を無視して対象にできる
+毎ターン、そのターン中に初めて受ける攻撃はクリティカルする。
+衰弱デバフを受けたとき、上記の効果が再発動する。 ","可以无视嘲讽被指定为目标
+每回合首次被命中时,必定触发暴击.
+受到弱化减益时,重置上述效果.",
+Buff/B_Hei_5_Name,Text,,,Priority Target,ターゲットロック,首要目标,
+Buff/B_Hei_6_Description,Text,,,"Reduces damage taken by ""Employer"" by 20% when able to act.
+Counters attackers with &b damage and 1 stack of ""Fleeting Opening"" when ""Employer"" takes damage.
+Current Employer: &a","行動不能状態でない場合、[雇用主]が受けるダメージを20％減少する。
+[雇用主]がダメージを受けたとき、攻撃者に&bのダメージの反撃を行い、[一瞬の綻び]を1ストック与える。
+現在の雇用主：&a ","未处于无法行动时,令金主目标受到的伤害-20%.
+当金主受到伤害时,反击造成&b点伤害并施加破绽..
+当前金主:&a",
+Buff/B_Hei_6_Name,Text,,,Bodyguard,ボディーガード,保镖,
+Buff/B_Hei_7_Description,Text,,,"At turn end, grants 15 Gold to each active Bodyguard if not at Death's Door.
+Entering Death's Door prevents hiring more Bodyguards this battle.
+
+Current hires: &a","毎ターン終了時に自身が瀕死状態でない場合、各ボディガードに金貨を15与える。
+瀕死状態になったとき、この戦闘中これ以上ボディガードは得ることができない。
+
+現在の雇用：&a ","每回合结束时若自身未濒死,打赏每名在工作的保镖15金币.
+陷入濒死时,本次战斗自身无法再雇保镖.
+
+当前雇佣:&a",
+Buff/B_Hei_7_Name,Text,,,Employer,雇用主,金主,
+Buff/B_Hei_7_T_Description,Text,,,"Cannot become ""Employer"" during this battle.",この戦闘中、[雇用主]になれない。,本次战斗无法成为金主.,
+Buff/B_Hei_7_T_Name,Text,,,"""Never hiring Bodyguards again!""",ボディーガードは二度と雇わない！ ,再也不雇保镖了!,
+Buff/B_Hei_8_Description,Text,,,"Debuffs from &a have duration extended by 1 turn.
+Damage against non-&a targets reduced by 10%.","&aからデバフを受けたとき、持続時間を1ターン延長する。
+&a以外の対象に与えるダメージが10%減少する。","受到来自&a施加的减益效果时,持续时间延长一回合.
+对&a以外的目标造成伤害减少10%.-",
+Buff/B_Hei_8_Name,Text,,,Entangled,絡まれる,被纠缠,
+Buff/B_Hei_9_Description,Text,,,Lose 1 stack when attacked/at turn end/when using skill from hand.,攻撃されたとき/ターン終了時/手札からスキルを使用したとき、ストックが1減少する。 ,受到攻击/回合结束/调查员从手上使用技能时减少1层.,
+Buff/B_Hei_9_Name,Text,,,Fleeting Opening,一瞬の綻び,一瞬的破绽,
+Buff/B_Hei_P_Description,Text,,,,,,
+Buff/B_Hei_P_Name,Text,,,On Hit,命中時,被命中,
+Buff/B_Hei_e0_Name,Text,,,Defense Reduction,防御力減少,防御力降低,
+Character/Schwarz_CampSelectWord,Text,,,Please don't trouble the young lady with such matters.,こんなことでお嬢様を困らせないでください。,这些事就不要麻烦小姐了,
+Character/Schwarz_PassiveDes,Text,,,"On first attack hit each turn, grants 1 stack of ""Shatter"" to target.
+Shatter: Defense -8% per weakening debuff received. Removed at turn end.","毎ターン、そのターン中に初めて攻撃が命中したとき、その対象に[粉砕]を1ストック与える。
+粉砕：衰弱デバフを受けるたび、防御力が8％減少する。ターン終了時に除去される。 
+","攻击命中敌人时,若是本回合首次命中其,给予其一层击碎减益.
+击碎:受到弱化减益时,防御力-8%,回合结束时解除.
+",
+Character/Schwarz_PassiveName,Text,,,Elite Edge,精鋭,锋锐,
+Character/Schwarz_SelectInfo,Text,,,"A Feline markswoman and former mercenary assassin, Schwarz is both the personal bodyguard of Ceylon Doykos and the head of Siesta's Urban Public Security Bureau. The normally cold and reserved killer somehow shows an unabated devotion for Ceylon, whom she would protect with her life if she has to. During the Obsidian Festival fiasco, Schwarz initially opposed Rhodes Island but finally decided to join them to uncover Cronin's crimes out of Ceylon's wish. In the aftermath, she followed Ceylon's footsteps to R.I. where she is enlisted as the Doctor's bodyguard and a sniper instructor.
+
+In another world, Schwarz leads sniper teams to break stalemates - her combat prowess demands respect.","恐ろしい見た目の獣人。 調査団は彼女について学び、トリーシャは彼女と共通点があるかもしれないと同意したが、彼女は暗殺者と殺人鬼は同じ職業ではないと言った。
+
+別の世界では、シュヴァルツは狙撃チームの中心的存在で、チームの状況を切り開くことに特化しており、彼女の戦闘能力は侮れない。 ","看起来很吓人的黑豹小姐.调查团了解了其事迹后一致认为特丽莎或许与她有一些共同话题,但她本人表示刺客和杀手并不是一个职业.
+
+黑在另一个世界是狙击队的核心人物,擅长为队伍打开局面,当然,她的战斗力也不容小觑.",
+Character/Schwarz_SkinDesc,Text,,,Schwarz's Casual Attire,シュヴァルツの普段着,黑的日常穿着,
+Character/Schwarz_Text_Battle_AllyND_0,Text,,,Go ahead first. I'll cover you.,君が先に行け、私が援護する。,"你先走,我来掩护你",
+Character/Schwarz_Text_Battle_Cri_0,Text,,,Too conspicuous.,見えていますよ。 ,真显眼。,
+Character/Schwarz_Text_Battle_Healed_0,Text,,,Appreciate the healing.,治療ありがとう。,感谢你的治疗,
+Character/Schwarz_Text_Battle_Idle_0,Text,,,Where am I needed?,お役に立てそうですか？ ,哪里需要我？,
+Character/Schwarz_Text_Battle_Kill_0,Text,,,The young lady has mercy. I do not.,お嬢様と違って、私は情けはかけません。 ,小姐有仁慈之心，我没有。,
+Character/Schwarz_Text_Battle_ND_0,Text,,,......Is this how it ends?,....... 結局、こういう結末なのか？,.......终究还是这样的结局吗,
+Character/Schwarz_Text_Battle_Start_0,Text,,,They won't be returning.,彼らに帰り道などありません。 ,让他们有来无回。,
+Character/Schwarz_Text_Field_GetItem_0,Text,,,Find anything useful?,何かいいものはあったか？,拿到了什么好东西吗?,
+Character/Schwarz_Text_Field_Idle_0,Text,,,This place... isn't bad.,ここは......悪くない。,这个地方......不错。,
+Character/Schwarz_Text_Field_Potion_P_0,Text,,,Save some for the young lady to taste after battle.,戦いの後、彼女に味見をしてもらうといい。,战斗结束后可以带给小姐尝尝呢,
+Character/Schwarz_Text_PharosLeader_0,Text,,,They won't escape.,逃しはしません。 ,他们跑不了。,
+Character/Schwarz_Text_PharosLeader_1,Text,,,...Perhaps you could tame me.,あなたなら飼いならせるかもしれません。 ,.....请一定，要驯化我。,
+Character/Schwarz_Text_PharosLeader_2,Text,,,Is this all?,この程度の数で。 ,才这点人。,
+Character/Schwarz_name,Text,,,Schwarz,シュヴァルツ ,黑,
+Character_Skin/Schwarzskin_SkinDesc,Text,,,Schwarz's Combat Uniform,シュヴァルツの戦闘服。 ,黑在特定环境作战时的穿着,
+Character_Skin/Schwarzskin_SkinName,Text,,,Skyline,スカイライン ,天际线,
+Item_Equip/Eq_Hei_0_Description,Text,,,"On Critical, applies a debuff to the target for 3 turns: Defense -15% (<sprite=0>115%).
+When attacking an enemy, damage is increased by 3% for each Weaken debuff on the target. If they have 3 or more, this effect is doubled.","クリティカル時、対象は3ターンの間、防御力が15% (<sprite=0>115%) 減少する。
+敵を攻撃するとき、対象が持つ衰弱デバフ1種類ごとにダメージが3%増加し、3種類以上持つ場合は2倍になる。
+
+","攻击暴击时,向目标施加持续3回合的防御-15%的减益(<sprite=0>115%).
+攻击敌人时,目标的每1种弱化减益使伤害增加3%,3种以上时翻倍.
+",
+Item_Equip/Eq_Hei_0_name,Text,,,Old Razor,古い剃刀,老剃刀,
+Item_Passive/PassiveItem_Hei_0_Description,Text,,,"Every 2 turns, if you apply 3 debuffs to enemies in a single turn: Reduce the cost of the top skill in your discard pile by 1 and place it on top of your deck.",2ターン毎に1ターン中に3回デバフを敵に与えたとき、捨て札の一番上のスキルのコストを1減少してデッキの一番上に置く。,"一回合内向敌人施加3次减益后,将弃牌堆顶的技能放在牌库顶且费用-1,每2回合限一次.",
+Item_Passive/PassiveItem_Hei_0_name,Text,,,Custom Crossbow Parts,特注クロスボウ部品セット,定制配件套装,
+Skill/S_Hei_0_Description,Text,,,"On Critical: Applies ""Shatter"".
+Non-Critical: Adds ""Dusk's Insight"" (Swiftness, Cost 1) to hand, excluding after 1 turn.
+50% chance for Criticals to deal 180% damage.","クリティカル時、対象に[粉砕]を与える。
+クリティカルでない場合、コストが1で迅速と1ターン後に捨てられるを持つ「暮色の慧眼」を手札に加える。
+クリティカル時、50%の確率でダメージが180%増加する。 ","暴击命中击碎敌人.
+未暴击时,将迅速且费用为1的""暮眼锐瞳""加入手牌,附带1回合弃牌及放逐.
+暴击时有50%几率使伤害提高至180%.",
+Skill/S_Hei_0_Name,Text,,,Dusk's Insight,暮色の慧眼,暮眼锐瞳,
+Skill/S_Hei_1_Description,Text,,,"If target has ""Shatter"", add 1 stack to all weakening debuffs.
+Costs 0 and gains Swiftness if 3+ attack skills used this turn.","対象が[粉砕]を持つ場合、対象が持つすべての衰弱デバフのストックが1増加する。
+このターン中に3回以上攻撃スキルを使用している場合、このスキルのコスト0になり迅速を得る。","命中击碎目标时,将其所有弱化减益增加1层.
+若本回合已使用至少3个攻击技能,此技能变为0费迅速.",
+Skill/S_Hei_1_Name,Text,,,Power Shot,強射,强弩,
+Skill/S_Hei_2_Description,Text,,,"Prioritizes granting ""Loaded Crossbow"" to self and another attacker.",[クロスボウ装填]を自身と他のアタッカー1人を優先して与える。,优先令一名输出职业的其他友军获得箭拔弩张增益.,
+Skill/S_Hei_2_Name,Text,,,Crossfire Control,クロスファイア,交叉火力引导,
+Skill/S_Hei_3_Description,Text,,,,,,
+Skill/S_Hei_3_Name,Text,,,Vanguard,先駆,前导,
+Skill/S_Hei_4_Description,Text,,,Removes 1 debuff when targeting self.,対象が自身の場合、デバフを1つ除去する。,"如果目标是自身,解除一个减益.",
+Skill/S_Hei_4_Name,Text,,,Brew Tea,お茶を入れる,泡茶,
+Skill/S_Hei_5_Name,Text,,,Killer's Instinct,殺戮者の嗅覚,杀手嗅觉,
+Skill/S_Hei_6_Description,Text,,,"While in hand, damage increases by &a whenever a debuff is removed from field.",手札にある間、場に存在するデバフが除去されるたび、ダメージが&a増加する。 ,"在手上时,每当场上有减益解除,伤害增加&a点.",
+Skill/S_Hei_6_Name,Text,,,Black Arrow,黒矢,漆黑箭矢,
+Skill/S_Hei_7_Description,Text,,,"Gain ""Bodyguard"".",自身は[ボディーガード]をえる。,自身获得保镖增益.,
+Skill/S_Hei_7_Name,Text,,,Retire from Crime,悪事から足を洗う ,金盆洗手,
+Skill/S_Hei_7_T_Name,Text,,,Bodyguard,ボディーガード ,保镖,
+Skill/S_Hei_8_0_Description,Text,,,Expected bonus damage: &a,予想される追加ダメージ：&a,预计额外伤害:&a,
+Skill/S_Hei_8_0_Name,Text,,,Discard Attack Skill,攻撃スキルを捨てる ,丢弃攻击技能,
+Skill/S_Hei_8_1_Description,Text,,,Expected bonus damage: &a,予想される追加ダメージ：&a,预计额外伤害:&a,
+Skill/S_Hei_8_1_Name,Text,,,Discard Healing Skill,回復スキルを捨てる ,丢弃治疗技能,
+Skill/S_Hei_8_2_Description,Text,,,Expected bonus damage: &a,予想される追加ダメージ：&a,预计额外伤害:&a,
+Skill/S_Hei_8_2_Name,Text,,,Discard Other Skills,その他のスキルを捨てる ,丢弃其它技能,
+Skill/S_Hei_8_3_Description,Text,,,,,,
+Skill/S_Hei_8_3_Name,Text,,,Don't Discard,捨てない,不丢!,
+Skill/S_Hei_8_Description,Text,,,"Damage increases by &a/&b/&c for Attack/Healing/Other skills in hand.
+Choose to discard all of one type to double their bonus.
+Current: &d/&e/&f &g","手札にある攻撃/回復/他のスキルは、このスキルが与えるダメージを&a/&b/&c増加させる。
+使用したとき、その種類のスキルをすべてて捨てる代わりに与えるダメージを2倍にするかを選ぶ。
+現在：&d/&e/&f &g ","手牌中的攻击/治疗/其它技能使此技能造成的伤害增加&a/&b/&c点
+释放时,可以选择弃置一种类型的所有技能,使其增加的伤害翻倍.
+当前:&d/&e/&f   &g",
+Skill/S_Hei_8_Name,Text,,,Killer's Art,殺人技能,杀手技法,
+Skill/S_Hei_8_T_Name,Text,,,Reality,現実,实际,
+Skill/S_Hei_9_Description,Text,,,"Gains Swiftness and Critical when used from hand if enemies acted this turn.
+Applies 1 ""Fleeting Opening"" to debuffed targets.","このターン中に敵がすでに行動している場合、このスキルは迅速を得てクリティカルする。(手札から使用時)
+命中したときその対象が衰弱デバフを持つ場合、対象に[一瞬の綻び]を1ストック与える。 ","若本回合已有敌人行动过,以暴击形式命中,获得迅速(直到离开手牌).
+击中带有弱化减益的敌人时,对其施加1次""一瞬的破绽"".",
+Skill/S_Hei_9_Name,Text,,,Battlefield Duel,戦場の対決,战场交锋,
+Skill/S_Hei_B_R2_Name,Text,,,Grudge,恨み,结怨,
+Skill/S_Hei_Lucy_Description,Text,,,"Draw 2 skills.
+If Schwarz is alive, add ""Brew Tea"" (Exclude, discard after 2 turns) to hand.
+Restore 1 Mana if Schwarz has ""Tea Service"".","スキルを2枚引く。
+シュヴァルツが生存している場合、除外と2ターン後に捨てられるを持つ「お茶を入れる」を手札に1枚加える。
+シュヴァルツが[ティーサーブ]を持つ場合、マナを1回復する。 ","抽取两个技能
+若黑存活,将一张""泡茶""拿在手上,附带放逐和两回合弃牌.
+如果黑有""恰茶先""增益,回复1点法力.",
+Skill/S_Hei_Lucy_Name,Text,,,Lady's Craft,女性の工芸品,小姐的手艺,
+Skill/S_Hei_R1_Description,Text,,,"Unusable. Added to hand at battle start.
+Usable only when allies defeat enemies or you enter Death's Door.","使用不可。戦闘開始時、このスキルを手札に加える。
+このスキルが手札にある間、味方が敵を倒したとき、または自身が瀕死状態の場合にのみ使用できる。","无法使用,战斗开始时抽取.
+此技能在手上时,若有角色击杀敌人或陷入濒死,可以使用.",
+Skill/S_Hei_R1_Name,Text,,,Mercy's Heart,慈悲の心,仁慈之心,
+Skill/S_Hei_R2_Description,Text,,,"Guaranteed hit.
+Applies ""Fleeting Opening"" equal to Mana spent.
+Criticals deal 160% damage.","必定命中
+必ず命中する。
+[一瞬の綻び]を現在消費しているマナに等しいストック与える。
+クリティカルしたとき、そのダメージが160%増加する。 ","必定命中
+根据当前已消耗的法力,施加等量次""一瞬的破绽""
+暴击时,伤害提升至160%",
+Skill/S_Hei_R2_Name,Text,,,Tactical Finale,戦術の終わり ,战术的终结,
+Skill/S_Hei_b_Name,Text,,,Proattack,Proattack,Proattack,
+SkillExtended/EX_hei_s1_Name,Text,,,Power Shot,強射,强弩,
+SkillExtended/Ex_Hei_passivei_Name,Text,,,Cost reduced by 1.,コストが1減少する。,费用-1,
+SkillExtended/Skillen_h_0_EnforceString,Text,,,Attack skills costing 1+,コスト1以上の攻撃スキル,1费及以上的攻击技能,
+SkillExtended/Skillen_h_0_Name,Text,,,"Restore 1 Mana when targeting ""Shattered"" enemies.",対象が[粉砕]を持つ場合、マナを1回復する。 ,"指向击碎敌人时,回复1点法力.",
+SkillExtended/Skillen_h_1_EnforceString,Text,,,Attack skills,攻撃スキル,攻击技能.,
+SkillExtended/Skillen_h_1_Name,Text,,,"Ignores 50% Defense. Applies ""Fleeting Opening"" (<sprite=0>110%) equal to Mana spent to all enemies.",防御力の50%を無視し、すべての敵に[一瞬の綻び](<sprite=0>110%)を消費したマナに等しいストック与える。,"无视50%防御;根据消耗的法力,为所有目标施加等量次""一瞬的破绽""(<sprite=0>110%).",
+SkillKeyword/Baobiao_Desc,Text,,,Multiple Bodyguards can protect the same [Employer] simultaneously.,同じ雇用主を複数のボディーガードが同時に守ることができる。 ,同一时间可以有多个保镖保护同一名金主.,
+SkillKeyword/Baobiao_Name,Text,,,Bodyguard,ボディーガード ,保镖,
+,,,,,,,
+

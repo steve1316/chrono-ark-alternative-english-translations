@@ -1,0 +1,236 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_RemiliaScarlet_0_Description,Text,,고통 피해를 입으면 이 디버프를 건 아군의 체력을 1중첩당 5 만큼 회복한다. 턴당 최대 1회 발동한다.,"When dealing damage, 25% of it Overheals &user.",苦痛ダメージを受けた時、ストック数1毎に、これを与えた対象を5回復する。 1ターンに最大1回まで発動する。,结算伤害时，造成伤害的25%将会超额治疗&user。,
+Buff/B_RemiliaScarlet_0_Name,Text,,붉은 달,"<sprite name=""RemiliaScarlet_blood""><color=#FF3030>Crimson Night</color>",クリムゾン·ナイト,"<sprite name=""RemiliaScarlet_blood""><color=#FF3030>绯夜</color>",
+Buff/B_RemiliaScarlet_1_Description,Text,,,"When hit, lose 1 stack and grant 1 stack of <sprite name=""RemiliaScarlet_blood""><color=#FF3030>Crimson Night</color> to the enemy.   ",,"受击时减少1层，赋予敌人1层<sprite name=""RemiliaScarlet_blood""><color=#FF3030>绯夜</color>。",
+Buff/B_RemiliaScarlet_1_Name,Text,,,Lullaby,,摇篮曲,
+Buff/B_RemiliaScarlet_2_Description,Text,,,Increases the per-turn damage of all held debuffs by 33%.,,使持有的所有减益的每回合伤害量提升33%。,
+Buff/B_RemiliaScarlet_2_Name,Text,,,Lunatic Eclipse,,魇月癫乱,
+Buff/B_RemiliaScarlet_3_0_Description,Text,,,"For each Pain debuff on the field, this buff gains ""Critical Rate +5%, Healing Received +5%"".",,场上每有1个痛苦减益，这个增益获得“暴击率+5%，受到治疗量+5%”。,
+Buff/B_RemiliaScarlet_3_0_Name,Text,,,Crimson Moon Empress,,绯月女皇,
+Buff/B_RemiliaScarlet_3_Description,Text,,,"When receiving <color=purple>Pain damage</color>, has a &a% chance (based on &user's Critical Rate) to deal an additional 50% damage.",,受到<color=purple>痛苦伤害</color>时，有&a%几率(&user的暴击率)造成额外50%伤害。,
+Buff/B_RemiliaScarlet_3_Name,Text,,,Blood Benediction,,鲜血礼赞,
+Buff/B_RemiliaScarlet_4_0_Name,Text,,흡혈귀의 심장,Vampire's Heart,吸血鬼の心,吸血鬼之心,
+Buff/B_RemiliaScarlet_4_Description,Text,,공격 받을 시 1중첩을 소모하여 적에게 [붉은 달] 1중첩을 부여합니다.,"When hit, lose 1 stack and grant 1 stack of <sprite name=""RemiliaScarlet_blood""><color=#FF3030>Crimson Night</color> to the enemy.   ",攻撃を受ける確率がわずかに増加、防御力が25％増加し、攻撃を受けた時ストックが1減少し、対象に[クリムゾン·ナイト]を1ストック与える。,"受击时减少1层，赋予敌人1层<sprite name=""RemiliaScarlet_blood""><color=#FF3030>绯夜</color>。",
+Buff/B_RemiliaScarlet_4_Name,Text,,자장가,Lullaby,ララバイ ,摇篮曲,
+Buff/B_RemiliaScarlet_5_Description,Text,,,,,,
+Buff/B_RemiliaScarlet_5_Name,Text,,클로 공격 준비...,Preparing Claw Strike,爪の一撃の準備...,爪击准备,
+Buff/B_RemiliaScarlet_6_Description,Text,,"&target 이외의 대상을 공격할 수 없다.
+공격 적중 시에도 해제되지 않는다.","Cannot attack targets other than &target.
+Not removed upon attacking.","&target以外の対象を攻撃できない。
+攻撃しても除去されない。","无法攻击&target以外的目标。
+击中时不解除。",
+Buff/B_RemiliaScarlet_6_Name,Text,,붉은 환상,Scarlet Delusion,紅色の幻想,恶女置乱,
+Buff/B_RemiliaScarlet_7_Description,Text,,,Increases Attack by &a (1 + 5% of &user's Max Health).,,攻击力提升&a点(1 + &user最大体力值的5%)。,
+Buff/B_RemiliaScarlet_7_Name,Text,,,Kiss of Maddened Blood,,狂血之吻,
+Buff/B_RemiliaScarlet_8_Description,Text,,,"When dealing damage, convert 50% of it into <color=purple>Pain damage</color>. 
+When dealing <color=purple>Pain damage</color>, deal an additional &a damage (25% of &user's Max Health).",,"造成伤害时，将其中50%转化为<color=purple>痛苦伤害</color>。
+造成<color=purple>痛苦伤害</color>时，额外造成&a伤害(&user最大体力值的25%)。",
+Buff/B_RemiliaScarlet_8_Name,Text,,,Crown of Blood Prison,,血狱王冠,
+Buff/B_RemiliaScarlet_LucyD_Description,Text,,"25%의 흡혈 피해를 입히고, 피해를 입힐 때 마다 스킬 1개를 뽑는다. 최대 4회 발동 가능하다.","25% Lifesteal on damage dealt. Draw 1 Skill each time damage is dealt, up to 4 times.",与えたダメージの25％体力を回復して、ダメージを与えるたびにスキルを1枚引く。最大4回まで。,造成伤害25%吸血；每次造成伤害抽1个技能，最多触发4次。,
+Buff/B_RemiliaScarlet_LucyD_Name,Text,,밀레니엄의 흡혈귀,Millennium Vampire,千年吸血鬼,千年吸血鬼,
+Buff/B_RemiliaScarlet_P_Description,Text,,"치명타 확률, 명중률, 회피율이 10% 증가합니다.","Increases Critical Rate, Accuracy, and Evasion by 10%.",クリティカル率、命中率、回避率が10%増加する。,增加10%暴击率、命中率、闪避率。,
+Buff/B_RemiliaScarlet_P_Name,Text,,영원히 붉은 어린 달,The Eternally Young Scarlet Moon,永遠に紅い幼き月,永幼之赤月,
+Buff/B_RemiliaScarlet_Rare10_Description,Text,,,"When casting an attack Skill, repeat it once on a random enemy.",,释放攻击技能时，对随机敌人重复释放1次。,
+Buff/B_RemiliaScarlet_Rare10_Name,Text,,,Crimson Fantasy,,绯色幻想,
+Character/RemiliaScarlet_CampSelectWord,Text,,즐거운 밤이 될 것 같네.,It seems this will be a night of revelry.,楽しい夜になりそうね,看来会成为欢愉之夜呢。,
+Character/RemiliaScarlet_PassiveDes,Text,,"레밀리아는 운명을 조작하여 모든 팀원의 치명타 확률, 명중률, 회피율을 10% 증가시킨다.
+또한, 전투에서 처치한 적 한 마리당 레밀리아의 최대 체력이 영구적으로 1씩 증가한다. 최대 증가량은 현재 레벨 x 5 다.
+(이 패시브는 1레벨부터 적용된다.)","<b>Ability to Manipulate Fate</b> - At the start of battle, all allies gain an additional 10% Critical Rate, Accuracy, Evasion, and Debuff Resistance.
+
+<b>Septet for the Departed Princess</b> - Remilia cannot gain Max Health through level-ups. Instead, whenever an enemy is defeated, Remilia gains 1 permanent Max Health. 
+The maximum Health obtainable through this effect increases by 5 per level.
+
+<color=#919191>- This passive is applied from level 1.</color>","レミリアは運命を操り、味方全員のクリティカル率·命中率·回避率を10％増加させる。
+さらに戦闘中、敵を1体倒すごとにレミリアの最大体力が永続的に1増加する。 増加量の最大は現在のレベル*5。 (このパッシブはレベル1から発動する)","<b>操纵命运的能力</b> - 战斗开始时，所有队友获得额外10%暴击率、命中率、闪避率、减益抵抗率。
+
+<b>献给已逝公主的七重奏</b> - 蕾米莉亚升级无法提升最大体力值。作为替代，敌人阵亡时，蕾米莉亚将获得1点永久最大体力值。
+每提升1个等级，能以此效果获得的最大体力值就提升5点。",
+Character/RemiliaScarlet_PassiveName,Text,,영원히 붉은 어린 달,The Eternally Young Scarlet Moon,永遠に紅い幼き月,永幼之赤月,
+Character/RemiliaScarlet_SelectInfo,Text,,"강력한 자가 치유 능력을 가진 흡혈귀 캐릭터이다.
+지속적으로 피해를 자신의 체력으로 전환한다.
+또한 최대 체력을 증가시키는 능력도 있다.
+
+<color=#FF0000>""이렇게 달이 붉으니, 반드시 죽여 주지.""</color>","Remilia Scarlet is a protective character who uses offense as her defense.
+
+Though her initial Defense is low, she can continuously restore her Health by applying unique Pain debuffs and has the means to instantly generate massive Overheal for recovery.
+
+While lacking direct methods to protect allies, her self-healing capabilities allow safe allocation of healing resources to other teammates.
+
+<color=#FF0000>""The Moon Is So Red, That I Will Kill You.""</color>","強力な自己治癒能力を持つヴァンパイア。
+ダメージを自身の体力に変換し続ける能力を持つ。
+同時に体力の限界を高める能力も持っている。
+
+<color=#FF0000>“こんなに月も紅いから、
+本気で殺すわよ。”</color>","蕾米莉亚是以进攻代替防守的保护型角色。
+
+初始防御力较低，但是通过施加独特的痛苦减益能够让自己源源不断地恢复生命值，也拥有瞬间产生大量超额治疗来进行恢复的手段。
+
+虽然没有直接保护队友的手段，但是因为其自愈能力，可以放心地将治疗资源交给其他队友。",
+Character/RemiliaScarlet_Text_Battle_AllyND_0,Text,,"얼마나 약한지, 인간은 참 연약하다니까...",How fragile humans are...,人間とは脆い生き物なのね......。,真是脆弱啊，人类这种生物……,
+Character/RemiliaScarlet_Text_Battle_Cri_0,Text,,아직 내 진짜 능력의 10%에 불과해.,That was merely 10% of my true power. Just now.,今の私は本来の10％の力しかないわ。,"只是我的真本事的一成呢。
+刚才的。",
+Character/RemiliaScarlet_Text_Battle_Idle_0,Text,,"우~아, 아무도 나와 함께 시간을 보낼 수 없네 ......",Ugh... No one comes to keep me company...,う～ん、誰も一緒に暇つぶしに来てくれない......。,呜～啊，没人能来跟我打发时间……,
+Character/RemiliaScarlet_Text_Battle_Kill_0,Text,,아주 미묘한 움직임이야. 아주 재밌어 보여.,"Your actions are so delicate, yet utterly absurd.",あなたの行動は繊細で、滑稽だわ。,你的行动很微妙啊，看上去非常的滑稽。,
+Character/RemiliaScarlet_Text_Battle_Kill_1,Text,,너무 약해서 지루하네.,Too weak. How dull.,弱過ぎて退屈だわ。,太弱了，真没意思。,
+Character/RemiliaScarlet_Text_Battle_ND_0,Text,,피를 맛보자.,"Come, taste the blood.",血を味わおう。,来品尝鲜血吧。,
+Character/RemiliaScarlet_Text_Battle_Start_0,Text,,더운 여름밤이 될 것 같네.,Seems it'll be a fervent night.,今夜は楽しめそうね。,似乎会是酷暑之夜呢。,
+Character/RemiliaScarlet_Text_Field_Idle_0,Text,,너무 지루해.,How tedious. Fetch me something amusing.,とても退屈ね、面白い事を見つけなさい。 ,好无聊呢，抓点有趣的家伙来吧。,
+Character/RemiliaScarlet_Text_Field_Idle_1,Text,,밤이오고 사방에 안개가 꼈네...... 뭐? 내가 한 게 아니야.,"Hmm? Everywhere is shrouded in night and thick fog... What? It's not my doing, you know.",ねえ、どこも夜で濃い霧がかかっている… ねえ？これは私のせいじゃないわよ。 ,诶诶、四处都是夜幕和浓雾……什么？可不是我干的哦。,
+Character/RemiliaScarlet_Text_MasterTarget,Text,,잠깐 떠날 뿐이야. 나중에 다시 올게. 그럼....,Merely a temporary departure. I shall return later. So—,少しの間、帰るだけ。 また後で来るわ。 ,只是暂时离开而已。之后就会回来的哦。所以——,
+Character/RemiliaScarlet_Text_PharosLeader_0,Text,,나한테는 효과가 없지만 갑자기 사람의 피가 마시고 싶어.,"Ah, though it has no effect on me, I suddenly crave human blood.",ねえ、私には効かないのだけれど、急に人間の血が飲みたくなったわ。 ,欸欸、虽然对我没效，但是突然很想喝点人类的血呢。,
+Character/RemiliaScarlet_Text_PharosLeader_1,Text,,지쳤어. 빨리 끝내자.,I've grown bored. Let's end this quickly.,もう飽きたわ、終わりにしましょう。,差不多玩腻了。快点结束吧。,
+Character/RemiliaScarlet_Text_PharosLeader_2,Text,,"얼마나 약한지, 인간은 참 연약하다니까...",How fragile humans are...,人間とは脆い生き物なのね......。,真是脆弱啊，人类这种生物……,
+Character/RemiliaScarlet_Text_Witch_0,Text,,그런 수준 낮은 저주가 밤의 왕에게 영향을 줄 수 있을까?,Do you think such petty curses affect the Queen of the Night?,この程度の呪いが私に効くとでも？,这种低级的诅咒，对夜之王会有影响吗？,
+Character/RemiliaScarlet_name,Text,,레밀리아 스칼렛,Remilia Scarlet,レミリア·スカーレット,蕾米莉亚,
+Character_Skin/RemiliaScarletEclipse_SkinDesc,Text,,,"<color=#FF0000>Under this crimson moon, I shall truly kill you.</color>",,"<color=#FF0000>在如此鲜红的月亮之下，
+我真的会杀掉你哦。</color>",
+Character_Skin/RemiliaScarletEclipse_SkinName,Text,,,Eternal Scarlet Young Moon,,永幼之赤月,
+Character_Skin/RemiliaScarletLord_SkinDesc,Text,,,"How unfortunate. From the moment I arrived, your victory was impossible. 
+Thus speaks fate.",,"很遗憾。自我到来起，你们就没有任何一丝胜算了。
+命运即是如此诉说。",
+Character_Skin/RemiliaScarletLord_SkinName,Text,,,Lord Remilia,,领主·蕾米莉亚,
+Character_Skin/RemiliaScarletSpring_SkinDesc,Text,,,"Good evening. 
+May you have a pleasant night. 
+Do you know why I'm here?",,"晚上好。
+祝你度过一个美好的夜晚。
+你知道我来这里的原因吗？",
+Character_Skin/RemiliaScarletSpring_SkinName,Text,,,Spring Festival Demon,,庆祝新春的恶魔,
+Item_Equip/Remilia_Parasol_Description,Text,,착용자가 대상에게 고통 또는 약화 디버프 효과를 적용하면 자신의 최대 체력의 10%를 회복한다.,"When the equipper applies a Pain or Weakness debuff to a target, heals self for 10% of Max Health.",装備者が対象に苦痛や衰弱デバフを与えた場合、自身の最大体力の10%で回復する。,当装备者给目标施加痛苦或弱化减益时，治疗自己10%最大体力。,
+Item_Equip/Remilia_Parasol_name,Text,,특별 맞춤 제작 양산,Specially Customized Parasol,特注の日傘 ,特别定制的太阳伞,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Azar_Dialogues_0,Text,,[B]...... 흡혈귀? 왜 뒤틀린 땅에 ......,[B]...A vampire? Why in the Distorted Land...,[B]……吸血鬼？为什么扭曲之地会……,[B]……吸血鬼？为什么扭曲之地会……,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Blue_Dialogues_0,Text,,[A]혈월의 힘? 나와 참 잘 어울리네.,[A]The Blood Moon's power? It suits me perfectly.,[A]血月的力量？跟本小姐真搭呢。,[A]血月的力量？跟本小姐真搭呢。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Charon_Dialogues_0,Text,,[B]우와! 진짜 흡혈귀야! 자세히 살펴봐도 되?,[B]Whoa! A genuine vampire!! Let me get a closer look—,[B]哦哦！是货真价实的吸血鬼啊！！快让我仔细看看——,[B]哦哦！是货真价实的吸血鬼啊！！快让我仔细看看——,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Charon_Dialogues_1,Text,,"[A]야, 야!",[A]H-Hey!,[A]喂、喂！,[A]喂、喂！,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Charon_Dialogues_2,Text,,[B]진짜 악마의 날개! 진짜 악마의 이빨! 세상에....,[B]—Such authentic demonic wings! Such authentic fangs! My goodness—,[B]——这正宗的恶魔之翼！这正宗的恶魔之牙！天呐——,[B]——这正宗的恶魔之翼！这正宗的恶魔之牙！天呐——,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Charon_Dialogues_3,Text,,[A]저리 비켜!,[A]—Stay away from me!!,[A]——离我远点！！,[A]——离我远点！！,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Cirno_Dialogues_0,Text,,,"[A]Hey, ice fairy over there. How about keeping it down a bit?      ",,[A]喂，那边的冰妖精。稍微安静一点如何。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Cirno_Dialogues_1,Text,,,[B]No problem! Because Cirno's the strongest!,,[B]没关系哦！因为琪露诺是最强的！,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Cirno_Dialogues_2,Text,,,"[A]No, I mean...",,[A]不是，所以说……,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Cirno_Dialogues_3,Text,,,"[B]Cirno's the strongest, you know!",,[B]琪露诺是最强的哦！,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Daiyousei_Dialogues_0,Text,,,[A]I don't need your care. Save your healing for others.,,[A]我不需要你的照料。把你的治疗留给别人吧。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Daiyousei_Dialogues_1,Text,,,"[B]Hehe. Lady Remilia is quite kind-hearted, you know.",,[B]嘿嘿。蕾米莉亚大人也是很温柔的人呢。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Daiyousei_Dialogues_2,Text,,,[A]W-What nonsense? That's not...,,[A]说、说什么呢？才不是……,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Eirin_Dialogues_0,Text,,,[A]Your chain-healing trickery is pathetically frugal.,,[A]你那小偷小摸的连锁治疗也太抠门了。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Eirin_Dialogues_1,Text,,,[B]Even scattered grains can form a fortress when gathered.,,[B]聚集起来的砂砾才能堆成堡垒哦。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Eirin_Dialogues_2,Text,,,"[A]Ugh... We'll never get along. Neither ""here"" nor ""out there.""    ",,[A]唉，真是和你合不来。不管是「这里」还是「外面」。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Eirin_Dialogues_3,Text,,,[B]Haha. Let's coexist peacefully until we reach the Clocktower.    ,,[B]哈哈。在抵达钟楼前尽可能好好相处吧。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_FlandreScarlet_Dialogues_0,Text,,"[A]플랑, 쉴 시간이야.","[A]Flandre, it's rest time.",[A]芙兰，到休息时间了。,[A]芙兰，到休息时间了。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_FlandreScarlet_Dialogues_1,Text,,"[B]언니, 하지만 ......",[B]But Sister...,[B]姐姐，可是……,[B]姐姐，可是……,
+SimpleCampDialogue/CampDial_RemiliaScarlet_FlandreScarlet_Dialogues_2,Text,,[A]잠시 후 눈에 보이는 모든 걸 부술 수 있지?,"[A]You can destroy everything you see later, okay?",[A]一会儿可以把看到的东西都破坏哦？,[A]一会儿可以把看到的东西都破坏哦？,
+SimpleCampDialogue/CampDial_RemiliaScarlet_FlandreScarlet_Dialogues_3,Text,,[B]언니~내가 가장 좋아하는 거!,"[B]I lo~ve you most, Big Sister!",[B]最~喜欢姐姐大人了！,[B]最~喜欢姐姐大人了！,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Hein_Dialogues_0,Text,,[B]흡혈귀? 내 피를 노리러 왔나?,[B]Huh? A vampire? Here for my blood?,[B]啊啊？吸血鬼？冲着我的血来的吗？,[B]啊啊？吸血鬼？冲着我的血来的吗？,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Hein_Dialogues_1,Text,,[A] 안타깝게도 난 끓이지 않은 사람의 피는 마시지 않아.,[A]Pity. I only drink properly prepared human blood.,[A]可惜，不是煮好的人血我是不喝的呢。,[A]可惜，不是煮好的人血我是不喝的呢。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_HouraisanKaguya_Dialogues_0,Text,,,"[A]What flavor would a Lunarian's blood have, I wonder?",,[A]月人的血，喝起来会是什么味道的呢？,
+SimpleCampDialogue/CampDial_RemiliaScarlet_HouraisanKaguya_Dialogues_1,Text,,,[B]Want a taste? Shall I carve out my heart for you to sip?,,[B]想喝吗？我把心脏挖出来给你喝一点？,
+SimpleCampDialogue/CampDial_RemiliaScarlet_HouraisanKaguya_Dialogues_2,Text,,,[A]Ugh... My appetite's gone...,,[A]唉……一下子没胃口了……,
+SimpleCampDialogue/CampDial_RemiliaScarlet_HouraisanKaguya_Dialogues_3,Text,,,[B]Giggles,,[B]嘻嘻。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Huz_Dialogues_0,Text,,[B]흡혈귀를 채찍질하기...... 미안!,[B]Whipping a vampire... Please forgive me!,[B]用鞭子抽吸血鬼什么的……请原谅我吧！,[B]用鞭子抽吸血鬼什么的……请原谅我吧！,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Huz_Dialogues_1,Text,,[A]괜찮아. 하지만 뭔가 미묘하게 느껴지는데 ......,[A]It's fine. But this feels... peculiar.,[A]无妨。但是总感觉非常微妙啊……,[A]无妨。但是总感觉非常微妙啊……,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Ilya_Dialogues_0,Text,,[B]아름다워! 강력해! 불로불사!,[B]Beautiful! Powerful! Immortal!,[B]美丽！强大！不老不死！,[B]美丽！强大！不老不死！,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Ilya_Dialogues_1,Text,,[B]나도 뱀파이어로 만들어 줄 수 있어? 제발!,[B]Turn me into a vampire too! Please!,[B]能把我也变成吸血鬼吗？求你了！,[B]能把我也变成吸血鬼吗？求你了！,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Ilya_Dialogues_2,Text,,"[A]아니, 전혀 ......",[A]No. Absolutely not.,[A]不，才不要啊……,[A]不，才不要啊……,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Iron_Dialogues_0,Text,,[A]남을 지키는 기사? 알 수 없는 친밀감이 들어.,[A]A knight protecting others? Strangely relatable.,[A]保护他人的骑士吗？有种莫名的亲切感呢。,[A]保护他人的骑士吗？有种莫名的亲切感呢。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Iron_Dialogues_1,Text,,[B]나를 「기사」라고 부를 수는 없지. 난 그저 돈을 받고 일을 하는 용병일 뿐이야.,"[B]Hardly a ""knight."" Just a mercenary working for pay.",[B]实在称不上「骑士」，只不过是一介收钱办事的佣兵而已。,[B]实在称不上「骑士」，只不过是一介收钱办事的佣兵而已。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_IzayoiSakuya_Dialogues_0,Text,,"[A]이 곳의 이상한 시간은 네 능력 밖의 일인가, 사쿠야?","[A]Even your time powers can't fix this place's anomalies, Sakuya?",[A]这个地方的时间异常，连你的能力也没有办法吗，咲夜？,[A]这个地方的时间异常，连你的能力也没有办法吗，咲夜？,
+SimpleCampDialogue/CampDial_RemiliaScarlet_IzayoiSakuya_Dialogues_1,Text,,"[B]네, 아가씨. 조금 까다롭습니다.","[B]Correct, Mistress. It's rather troublesome.",[B]是的，大小姐。有点棘手呢。,[B]是的，大小姐。有点棘手呢。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_IzayoiSakuya_Dialogues_2,Text,,[A]정말 어쩔 수 없네. 그럼 나를 따라오도록.,[A]How tedious. Just stay close behind me then.,[A]真没办法。那就老老实实跟在我后面吧。,[A]真没办法。那就老老实实跟在我后面吧。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_IzayoiSakuya_Dialogues_3,Text,,"[B]최선을 다해 도와드리겠습니다, 아가씨.",[B]I'll support you to my fullest ability.,[B]我会尽全力辅佐您的。,[B]我会尽全力辅佐您的。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Joey_Dialogues_0,Text,,[A]비싼 홍차로 실험하는 건 너무 낭비야.,[A]Using premium tea for experiments... How wasteful.,[A]用名贵红茶做实验……也太浪费了吧。,[A]用名贵红茶做实验……也太浪费了吧。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Joey_Dialogues_1,Text,,"[B]흥, 귀족은 침실에서 차나 마시면서 손가락질하지 마!","[B]Hmph! Nobles should stay in their parlors sipping tea, not meddle!",[B]哼，你们贵族就乖乖待在卧室里品茶，少来指手画脚的！,[B]哼，你们贵族就乖乖待在卧室里品茶，少来指手画脚的！,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Johan_Dialogues_0,Text,,[A]이상하네...... 당신과 「앨리스」와의 운명 ......,"[A]Strange... Your fate intertwines with this ""Alice""...",[A]奇怪……你和所谓的「爱丽丝」的命运……,[A]奇怪……你和所谓的「爱丽丝」的命运……,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Johan_Dialogues_1,Text,,[B]앨리스가 아직 살아있다는 뜻인가요?,[B]So... Does that mean Alice is still alive?,[B]也就是说，爱丽丝还活着对吗？,[B]也就是说，爱丽丝还活着对吗？,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Johan_Dialogues_2,Text,,[A]..............................아마도.,[A]... Perhaps.,[A]…………………………或许吧。,[A]…………………………或许吧。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Johan_Dialogues_3,Text,,[B]저는 반드시..................,[B]I'll definitely...,[B]我一定会………………,[B]我一定会………………,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Leryn_Dialogues_0,Text,,[B]살아있는 흡혈귀? 연구해보고 싶은걸.,[B]A living vampire? I must study this thoroughly.,[B]活着的吸血鬼？真想好好研究一番。,[B]活着的吸血鬼？真想好好研究一番。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Leryn_Dialogues_1,Text,,"[A]""죽은 흡혈귀""라는 게 있어......?","[A]Do ""dead vampires"" even exist...?",[A]难道还有“死了的吸血鬼”一说吗……？,[A]难道还有“死了的吸血鬼”一说吗……？,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Lian_Dialogues_0,Text,,"[A]항상 경계하는 거, 안 지겨워?",[A]Aren't you tired of constantly watching me?,[A]一直戒备着我，不累吗？,[A]一直戒备着我，不累吗？,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Lian_Dialogues_1,Text,,[B]넌 목표가 불분명하고 너무 의심스러워.,[B]Your motives remain unclear. Suspicious.,[B]你的目标不明，太可疑了。,[B]你的目标不明，太可疑了。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Lian_Dialogues_2,Text,,[A]그러던지.,[A]Suit yourself.,[A]随便你吧。,[A]随便你吧。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Miss_Dialogues_0,Text,,[B]안녕 흡혈귀님! 같이 싸우자!,[B]Hey— Vampire Lady! Let's fight together!,[B]嗨——吸血鬼大人，一起并肩作战吧！,[B]嗨——吸血鬼大人，一起并肩作战吧！,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Miss_Dialogues_1,Text,,[A]기를 빨리는 느낌이야......,[A]She drains my motivation just by existing...,[A]感觉干劲都像被她吸走了一样……,[A]感觉干劲都像被她吸走了一样……,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Mokou_Dialogues_0,Text,,"[A]아, 이건 죽지 못하는 인간 아닌가? 너도 여기에 갇혀있니?","[A]Well, isn't this the undying human? Trapped here too?",[A]呀，这不是死不掉的人类吗？你也被困到这里了？,[A]呀，这不是死不掉的人类吗？你也被困到这里了？,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Mokou_Dialogues_1,Text,,[B]응? 그럼 이 안개는 네가 조작한 게 아니야? 난 네가 안개를 일으킨 줄 알았는데.,[B]Eh? This fog isn't your doing? I thought it was your incident!,[B]咦？原来这浓雾不是你操控的吗？我还以为是你引起的异变呢。,[B]咦？原来这浓雾不是你操控的吗？我还以为是你引起的异变呢。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Mokou_Dialogues_2,Text,,"[A]방금 말하려던 건데, 붉은 안개보다는 길을 잃고 헤매는 대나무 숲에 더 가까울 것 같아.",[A]My thoughts exactly. This feels more like the Bamboo Forest of Lost than scarlet mist.,[A]我才想说。比起红雾，这里更像让人迷路的迷途竹林吧。,[A]我才想说。比起红雾，这里更像让人迷路的迷途竹林吧。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Mokou_Dialogues_3,Text,,[B]결국 헷갈리는 것들이 많아졌네.,[B]So the list of confusing things just keeps growing...,[B]结果摸不着头脑的事情又增多了呢。,[B]结果摸不着头脑的事情又增多了呢。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Momori_Dialogues_0,Text,,[B]이봐! 너도 위대한 모모리☆클럽에 함께하고 싶은거야?,[B]Hey! Wanna join the great Momori Alliance☆?,[B]嘿！要加入伟大的桃梨会吗☆？,[B]嘿！要加入伟大的桃梨会吗☆？,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Momori_Dialogues_1,Text,,"[A]아니. 그런데, 별이 꼭 필요한 거야?",[A]No. And must you always add that star?,[A]才不要。话说，你说话一定要带个星星吗？,[A]才不要。话说，你说话一定要带个星星吗？,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Momori_Dialogues_2,Text,,"[B]어? 어, 아...... 그......",[B]Huh? Uh... Well...,[B]咦？诶、啊……那个……,[B]咦？诶、啊……那个……,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Momori_Dialogues_3,Text,,[A]......뭔가 내가 괴롭히는 기분이네. 미안. 잊어버려.,[A]...Feels like bullying. My apologies. Forget I said anything.,[A]……总感觉像在欺负人。抱歉，是我不好。忘了吧。,[A]……总感觉像在欺负人。抱歉，是我不好。忘了吧。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Narhan_Dialogues_0,Text,,[A]마음을 읽는 정도의 능력?,[A]Another mind-reader?,[A]又是读心的能力？,[A]又是读心的能力？,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Narhan_Dialogues_1,Text,,[B]또?,"[B]""Another""?",[B]又？,[B]又？,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Narhan_Dialogues_2,Text,,"[A]...... 아니, 아무것도 ......",[A]Sigh... Nevermind...,[A]唉……不，没什么……,[A]唉……不，没什么……,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Patchouli_Dialogues_0,Text,,"[A]건강은 어때, 파체?","[A]How's your health, Patchy?",[A]身体情况怎么样，帕琪？,[A]身体情况怎么样，帕琪？,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Patchouli_Dialogues_1,Text,,"[B]신경 써줘서 고마워, 레미. 아직 건강해...... '콜록'.",[B]Manageable. Still... cough... stable.,[B]承蒙关照。现在还算健康……咳。,[B]承蒙关照。现在还算健康……咳。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Patchouli_Dialogues_2,Text,,[A]몸이 안 좋으면 뒤에 숨어서 게으름을 피워도 괜찮아.,[A]Feel free to slack off if you're unwell.,[A]如果有不舒服的话，稍微躲在后面偷懒也没关系哦。,[A]如果有不舒服的话，稍微躲在后面偷懒也没关系哦。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Patchouli_Dialogues_3,Text,,[A]내가 다 날려버릴게.,[A]I'll blast them all away myself.,[A]我会把他们全部打飞的。,[A]我会把他们全部打飞的。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Pheonix_Dialogues_0,Text,,[A]불멸의 불사조? 이봐,"[A]Phoenix, the immortal bird? Hmm—",[A]不死鸟凤凰？嘿欸——,[A]不死鸟凤凰？嘿欸——,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Pheonix_Dialogues_1,Text,,[B]어이! 이 불사조의 화려한 깃털을 보고 넋을 잃었나?,"[B]Hey! Admiring my magnificent plumage, aren't you—",[B]嘿！是不是看本凤凰华丽的羽毛看入迷了——,[B]嘿！是不是看本凤凰华丽的羽毛看入迷了——,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Pheonix_Dialogues_2,Text,,[A]더 이상 새소리를 내면 치킨으로 만들어 줄게.,[A]Keep squawking and I'll turn you into fried chicken.,[A]再发出鸟鸟怪叫的话就把你做成炸鸡哦。,[A]再发出鸟鸟怪叫的话就把你做成炸鸡哦。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Pheonix_Dialogues_3,Text,,"[B]응?! , 미안......",[B]Eep! S-Sorry...,[B]嗯？！！抱、抱歉……,[B]嗯？！！抱、抱歉……,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Priest_Dialogues_0,Text,,[A]수녀님이네. 나에 대해서 어떻게 생각해?,"[A]A nun, eh? Will you pass judgment on me?",[A]是修女啊。怎么样，要审判我吗？,[A]是修女啊。怎么样，要审判我吗？,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Priest_Dialogues_1,Text,,"[B]후후후, 주님은 당신의 운명을 정하시고 때가 올 때를 기다리십니다......",[B]Heheh... The Lord Himself ordains fate. When the appointed time comes...,[B]呵呵呵，主自已定下命运，等到时机到来之日……,[B]呵呵呵，主自已定下命运，等到时机到来之日……,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Priest_Dialogues_2,Text,,[A]......「운명」? 내 손바닥 안의 장난감에 불과해.,"[A]""Fate""? Mere plaything in my palm.",[A]……「命运」吗？不过是我掌中的玩物罢了。,[A]……「命运」吗？不过是我掌中的玩物罢了。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Red_Dialogues_0,Text,,[A]나한테서 떨어져 줄래......,[A]Could you... stay further away?,[A]能不能离我远点……,[A]能不能离我远点……,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Red_Dialogues_1,Text,,[B]오? 흡혈귀가 불을 무서워한다고? 처음 들어봐!,[B]Oh? Do vampires fear fire? Never heard that!,[B]哦？吸血鬼会害怕火焰吗？从没听说过呢！,[B]哦？吸血鬼会害怕火焰吗？从没听说过呢！,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Red_Dialogues_2,Text,,"[A]아니, 너무 더워!","[A]No, it's just too hot in here!",[A]不是，太热了啦！,[A]不是，太热了啦！,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Reisen_Dialogues_0,Text,,,"[A]Ah, dumpling seller. Give me some skewers.",[A]啊，卖丸子的。给我来点丸子串。,[A]啊，卖丸子的。给我来点丸子串。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Reisen_Dialogues_1,Text,,,[B]I don't sell dumplings! I'm a medicine seller!,[B]才不卖丸子！我是卖药的啊！,[B]才不卖丸子！我是卖药的啊！,
+SimpleCampDialogue/CampDial_RemiliaScarlet_SatsukiRin_Dialogues_0,Text,,[A]전설적인 사츠키 린을 처음 만나네.,[A]Our first meeting... Legendary Qilin Lady.,[A]这还是第一次见面……传说中的麒麟小姐。,[A]这还是第一次见面……传说中的麒麟小姐。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_SatsukiRin_Dialogues_1,Text,,[B]처음은 아니지만 ...... 홍마관의 위대한 당주를 뵙습니다.,"[B]Not my first time... but greetings, Scarlet Devil Mansion's Young Mistress.",[B]虽然对我来说并非第一次……不过初次见面，贵安，红魔馆的大小姐。,[B]虽然对我来说并非第一次……不过初次见面，贵安，红魔馆的大小姐。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_SatsukiRin_Dialogues_2,Text,,[A]환수의 힘을 보여줘.,[A]Show me your phantom beast's power.,[A]请让我见识一下幻兽的力量吧。,[A]请让我见识一下幻兽的力量吧。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_SatsukiRin_Dialogues_3,Text,,[B]특별히 인상적인 능력은 아닙니다만. 기대해 보세요.,[B]Nothing extraordinary. But do anticipate it.,[B]不是什么特别了不起的力量哦。不过，稍微期待一下吧。,[B]不是什么特别了不起的力量哦。不过，稍微期待一下吧。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_SilverStein_Dialogues_0,Text,,[A]삼촌인 것은 분명하지만 죽음을 두려워하고 있구나.,[A]An old man clinging to life. How human.,[A]明明是大叔，却很怕死呢。,[A]明明是大叔，却很怕死呢。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_SilverStein_Dialogues_1,Text,,"[B]결국 인간은 한 번밖에 살지 못해, 흡혈귀님.","[B]Human lives are fleeting, Vampire Lord. We only get one.",[B]毕竟人类的生命只有一次啊，吸血鬼大人。,[B]毕竟人类的生命只有一次啊，吸血鬼大人。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Sizz_Dialogues_0,Text,,[A]인형을 조종하는 소녀 ......흠......,[A]A girl manipulating dolls... Hmm...,[A]操纵人偶的女孩……哼嗯……,[A]操纵人偶的女孩……哼嗯……,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Sizz_Dialogues_1,Text,,[B]어? 무슨 일이세요?,[B]Hm? What's wrong?,[B]咦？怎么了？,[B]咦？怎么了？,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Sizz_Dialogues_2,Text,,"[A]......아니, 그냥.",[A]...Nothing.,[A]……不，没什么。,[A]……不，没什么。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_TouhouAlice_Dialogues_0,Text,,,[A]Too many Alices lately. Can't keep track.,[A]最近爱丽丝太多了啊，根本记不住谁是谁。,[A]最近爱丽丝太多了啊，根本记不住谁是谁。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_TouhouAlice_Dialogues_1,Text,,,[B]Right? Why so many Alices here?,[B]就是说啊，为什么这里会有这么多爱丽丝呢？,[B]就是说啊，为什么这里会有这么多爱丽丝呢？,
+SimpleCampDialogue/CampDial_RemiliaScarlet_TouhouAlice_Dialogues_2,Text,,,[A]Oh? And you are?,[A]哦呀？你是？,[A]哦呀？你是？,
+SimpleCampDialogue/CampDial_RemiliaScarlet_TouhouAlice_Dialogues_3,Text,,,[B]Hey! Don't forget me too!,[B]喂！别把我也给忘了啊！,[B]喂！别把我也给忘了啊！,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Trisha_Dialogues_0,Text,,[B]은 칼이 흡혈귀에게 효과적이라고 들었는데 사실인가?,[B]They say silver knives are super effective against vampires. True?,[B]听说银质小刀对吸血鬼有特效，是真的吗？,[B]听说银质小刀对吸血鬼有特效，是真的吗？,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Trisha_Dialogues_1,Text,,"[A]이런, 다 들어본 얘기네. 한 번 해볼래?",[A]Why not test that legend firsthand?,[A]哎呀，百闻不如一见，要试试吗？,[A]哎呀，百闻不如一见，要试试吗？,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Trisha_Dialogues_2,Text,,"[B]......잠시만, 미안.","[B]...Spare me, please.",[B]……抱歉，请饶了我吧。,[B]……抱歉，请饶了我吧。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Youmu_Dialogues_0,Text,,"[A]다시 보네, 백옥루 정원사님. 주인은 어디 계시니?","[A]We meet again, Hakugyokurou's attendant. Where's your mistress?",[A]又见面了呢，白玉楼的随从。你的大人呢？,[A]又见面了呢，白玉楼的随从。你的大人呢？,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Youmu_Dialogues_1,Text,,[B]안녕하세요...... 유유코님은 안 계시는 것 같습니다.,"[B]Ah, greetings... Lady Yuyuko doesn't seem to be present here.",[B]啊，您好……幽幽子大人好像不在这里。,[B]啊，您好……幽幽子大人好像不在这里。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Youmu_Dialogues_2,Text,,[A]흠...... 의심스럽네. 하지만 지금은 일단 협동합시다.,[A]Hmm... Suspicious. But let's cooperate for now.,[A]哼……嗯……很可疑呢。不过暂时先好好合作吧。,[A]哼……嗯……很可疑呢。不过暂时先好好合作吧。,
+SimpleCampDialogue/CampDial_RemiliaScarlet_Youmu_Dialogues_3,Text,,"[B]아, 아하하, 친절한 관심에 감사드립니다......",[B]Ahaha... I appreciate your grace...,[B]啊、啊哈哈，承蒙关照……,[B]啊、啊哈哈，承蒙关照……,
+Skill/S_RemiliaScarlet_0_Description,Text,,,,,,
+Skill/S_RemiliaScarlet_0_Name,Text,,홍부 「불야성 레드」,Scarlet Sign「Red the Nightless Castle」,紅符「不夜城レッド」,红符「红色不夜城」,
+Skill/S_RemiliaScarlet_10Rare_Description,Text,,,Placed at the top of the deck at battle start.,,战斗开始时，放在牌库最上方。,
+Skill/S_RemiliaScarlet_10Rare_Name,Text,,「홍색의 환상향」,「Scarlet Gensokyo」,「紅色の幻想郷」,「绯红色的幻想乡」,
+Skill/S_RemiliaScarlet_11Rare_Description,Text,,이번 라운드 중 기술 교환 횟수가 10회 증가한다. 스킬을 2개 뽑는다.,Increases Exchange count to 10 this turn. Draw 2 Skills.,このターン中、交換回数が10に増加する。 スキルを2枚引く。,本回合内技能交换次数增加10次。抽2个技能。,
+Skill/S_RemiliaScarlet_11Rare_Name,Text,,신술「흡혈귀 환상」,God Art「Vampire Illusion」,神術「吸血鬼幻想」　　,神术「吸血鬼幻想」,
+Skill/S_RemiliaScarlet_12Rare_Description,Text,,자신의 최대 체력에 비례해 &a(60%)의 추가 피해를 준다. 이 스킬로 적을 처치하면 영구적으로 최대 체력을 2 획득하고 마나를 2 회복하며.,"Deals additional &a damage (60% of Max Health). 
+Upon kill, permanently gain 2 Max Health and restore 2 Mana. Effect expires when Black Fog arrives.",&a(自身の最大体力の60%)ダメージが増加する。 このスキル敵を倒すと、永久に最大体力を2増加させ、マナを2回復する。,"额外造成&a伤害(自身最大体力值的60%)。
+使用此技能击杀后增加2点永久最大生命值，恢复2点法力值。该效果只在黑雾到来前生效。",
+Skill/S_RemiliaScarlet_12Rare_Name,Text,,신창「스피어 더 궁니르」,Divine Spear「Spear the Gungnir」,神槍「スピア·ザ·グングニル」,神枪「Spear the Gungnir」,
+Skill/S_RemiliaScarlet_1_Description,Text,,최대 체력에 비례해 &a(20%)의 추가 피해를 준다. 이 스킬로 입힌 피해량의 100%를 회복한다.,Deals additional &a damage (25% of Max Health). 100% of this skill's damage Overheals self.,&a(自身の最大体力の20%)ダメージが増加する。 このスキルで与えたダメージの100%で自身をオーバーヒールする。,依据自身最大体力值，额外造成&a(25%)伤害。这个技能的100%将会超额治疗自己。,
+Skill/S_RemiliaScarlet_1_Name,Text,,필살「하트 브레이크」,Certain Kill「Heart Break」,必殺「ハートブレイク」,必杀「Heart Break」,
+Skill/S_RemiliaScarlet_2_Description,Text,,,,,,
+Skill/S_RemiliaScarlet_2_Name,Text,,홍마「스칼렛 데빌」,Scarlet Devil「Scarlet Devil」,紅魔「スカーレットデビル」 ,红魔「Scarlet Devil」,
+Skill/S_RemiliaScarlet_3_Description,Text,,,,,,
+Skill/S_RemiliaScarlet_3_Name,Text,,야부「데몬 킹 크레이들」,Night Sign「Demon King Cradle」,夜符「デーモンキングクレイドル」,夜符「Demon King Cradle」,
+Skill/S_RemiliaScarlet_4_Description,Text,,,,,,
+Skill/S_RemiliaScarlet_4_Name,Text,,야왕「드라큘라 크레이들」,Night Lord「Dracula Cradle」,夜王「ドラキュラクレイドル」 ,夜王「Dracula Cradle」,
+Skill/S_RemiliaScarlet_5_Description,Text,,최대 체력에 비례해 &a(100%)의 추가 피해를 준다. 카운트 중에는 50%의 피해 감소와 100%의 디버프 저항을 얻는다.,"Deals additional &a damage (100% of Max Health). 
+During Countdown, allies gain 50% Damage Reduction and 300% Debuff Resistance. 
+50% of this skill's damage Overheals self.",&a(自身の最大体力の100%)ダメージが増加する。 カウントダウン中、ダメージを軽減50% とデバフレジスト＋100%を得る。,"依据自身最大体力值，额外造成&a伤害(自身最大体力值的100%)。
+倒计时期间，所有队友获得“受到伤害量-50%”和“减益抵抗+300%”。
+这个技能造成伤害的50%将会超额治疗自己。",
+Skill/S_RemiliaScarlet_5_Name,Text,,악마「레밀리아 스트레치」,God Devil「Remilia Stoker」,神鬼「レミリアストーカー」,恶魔「Remilia Stretch」,
+Skill/S_RemiliaScarlet_6_Description,Text,,,,,,
+Skill/S_RemiliaScarlet_6_Name,Text,,야부「배드 레이디 스크램블」,Night Sign「Bad Lady Scramble」,夜符「バッドレディスクランブル」 ,夜符「Bad Lady Scramble」,
+Skill/S_RemiliaScarlet_7_Description,Text,,이 스킬로 입힌 피해량의 250%를 회복한다.,250% of this skill's damage Overheals self.,このスキルによるダメージの250%で自身をオーバーヒールする。,这个技能造成伤害的250%将会超额治疗自己。,
+Skill/S_RemiliaScarlet_7_Name,Text,,옥부「천 개의 바늘산」,Hell Sign「Mountain of a Thousand Needles」,獄符「千本の針の山」,狱符「千根针的针山」,
+Skill/S_RemiliaScarlet_8_Description,Text,,,,,,
+Skill/S_RemiliaScarlet_8_Name,Text,,저주「블라드 체페슈의 저주」,Curse「Curse of Vlad Tepes」,呪詛「ブラド·ツェペシュの呪い」,诅咒「弗拉德·特佩斯的诅咒」,
+Skill/S_RemiliaScarlet_9_Description,Text,,대상 1명을 제외한 무작위 적을 동시에 공격한다.,Also attacks 1 random enemy other than the target.,対象以外のランダムな敵1体を同時に攻撃。 ,同时攻击1个目标以外的随机敌人。,
+Skill/S_RemiliaScarlet_9_Name,Text,,운명「미저러블 페이트」,Destiny「Miserable Fate」,運命「ミゼラブルフェイト」,命运「Miserable Fate」,
+Skill/S_RemiliaScarlet_LucyD_Description,Text,,,,,,
+Skill/S_RemiliaScarlet_LucyD_Name,Text,,「밀레니엄의 흡혈귀」,「Millennium Vampire」,千年吸血鬼,「千年吸血鬼」,
+SkillExtended/SkillEn_Remilia_0_EnforceString,Text,,공격 스킬,Attack Skill,攻撃スキル,攻击技能,
+SkillExtended/SkillEn_Remilia_0_Name,Text,,"적중 시, 피해량의 25%를 회복한다.","On hit, Overheals self for 25% of damage dealt.",命中時、ダメージの25%で自身をオーバーヒールする。 ,命中时，自身获得相当于伤害值25%的超额治疗,
+SkillExtended/SkillEn_Remilia_1_EnforceString,Text,,,Attack Skill,,攻击技能,
+SkillExtended/SkillEn_Remilia_1_Name,Text,,,"When this skill kills, gain 1 permanent Max Health and restore 2 Mana. Effect expires when Black Fog arrives.",,这个技能击杀敌人时，获得1点永久最大体力值，恢复2点法力值。该效果只在黑雾到来前生效。,
+

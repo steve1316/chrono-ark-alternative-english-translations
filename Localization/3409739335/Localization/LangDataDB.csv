@@ -1,0 +1,229 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_vvan_0_0_Description,Text,,,"Interplay of Light and Shadow: When hit by a skill with a Shadow buff, deals Pain damage equal to the caster's level * 2 and removes this effect.",,光影交错：受到附带影buff技能攻击时造成施加者等级*2点痛苦伤害，并移除此效果。,
+Buff/B_vvan_0_0_Name,Text,,,Light,,光,
+Buff/B_vvan_0_1_Description,Text,,,"Interplay of Light and Shadow: When hit by a skill with a Light buff, deals damage equal to the caster's level * 2 and removes this effect.",,光影交错：受到附带光buff技能攻击时造成施加者等级*2伤害，并移除此效果。,
+Buff/B_vvan_0_1_Name,Text,,,Shadow,,影,
+Buff/B_vvan_1_0_Description,Text,,,"When dealing damage, accumulates Burn Injury equal to the damage dealt on the target.",,造成伤害时对目标累积等量灼燃损伤。,
+Buff/B_vvan_1_0_Name,Text,,,Burn Casting,,灼燃施法,
+Buff/B_vvan_1_1_Description,Text,,,"When the Burn Injury gauge is full, deals &a Pain damage, removes this status, and triggers Burn Injury: Detonation.",,灼燃损伤累计量表满后，造成&a的痛苦伤害，移除此标签并触发灼燃损伤·爆发。,
+Buff/B_vvan_1_1_Name,Text,,,Burn Injury,,灼燃损伤,
+Buff/B_vvan_1_2_Description,Text,,,Burn Injury stacks applied during this period are automatically removed after being applied.,,期间叠加的灼燃损伤会在叠加后自动消除。,
+Buff/B_vvan_1_2_Name,Text,,,Burn Injury: Detonation,,灼燃损伤·爆发,
+Buff/B_vvan_1_3_Description,Text,,,,,,
+Buff/B_vvan_1_3_Name,Text,,,Sustain Burn Damage,,接收灼燃伤害,
+Buff/B_vvan_2_Description,Text,,,"Engages in a duel with &target! 
+Cannot attack targets other than &target. 
+When attacking &target, reduces a stack. When Viviana is attacked, the chance for her to gain a Nova Shield is doubled.",,"与&target展开对决！无法攻击&target以外的目标。
+攻击&target时减少一层。
+受到薇薇安娜攻击时，薇薇安娜获得散华护盾的概率翻倍。
+",
+Buff/B_vvan_2_Name,Text,,,Duel!,,对决！,
+Buff/B_vvan_3_Description,Text,,,Removes this debuff upon taking action.,,行动时，移除此减益。,
+Buff/B_vvan_3_Name,Text,,,Dark Erosion,,暗蚀,
+Buff/B_vvan_5_1_Description,Text,,,"At the start of the next turn, draw an additional card and gain 1 Mana.",,下一回合开始时额外抽一张卡且获得一点法力值。,
+Buff/B_vvan_5_1_Name,Text,,,Winter to Spring,,冬去春来,
+Buff/B_vvan_5_6_Description,Text,,,,,,
+Buff/B_vvan_5_6_Name,Text,,,Combat Focus,,专注战斗,
+Buff/B_vvan_6_Name,Text,,,,,,
+Buff/B_vvan_P_Name,Text,,,WAN Passive,,wan被动,
+Buff/B_vvan_P_Shield_Description,Text,,,Reduces the next non-Pain damage taken to 0.,,是下一次受到的非痛苦伤害降低至0。,
+Buff/B_vvan_P_Shield_Name,Text,,,Nova,,散华,
+Buff/B_vvan_Rare_0_Description,Text,,,"- When triggering Interplay of Light and Shadow (see Light/Shadow buffs) with your own skill, consume 1 stack of Focus to randomly generate an attack-exclusive skill for Viviana with Exclude and Swiftness.
+
+- At turn end, consume 1 stack of Focus to randomly generate an attack-exclusive skill for Viviana with Exclude.",,"·使用自己的技能触发光影交错(详见光/影buff)时，消耗一层专注，随机生成一张薇薇安娜的攻击专属技能，附带放逐，迅速。
+·回合结束时，消耗一层专注，随机生成一张薇薇安娜的攻击专属技能，附带放逐。",
+Buff/B_vvan_Rare_0_Name,Text,,,Focus,,专注,
+Character/C_ViViana_CampSelectWord,Text,,,"Hmm, who... Never mind. Truthfully, I noticed you long ago.",,唔，谁......算了算了，其实我早就发现你了。,
+Character/C_ViViana_PassiveDes,Text,,,"- Spellblade: Converts dealt damage into Pain damage.
+
+- Candlelit Radiance: Increases damage dealt and reduces damage taken when fighting cursed enemies and bosses.
+
+- Nova: Attacks have a chance to grant Nova Shield (reduces one instance of non-Pain damage to 0), up to 1 stack.",,"·术战者:  造成的伤害转化为痛苦伤害后给予目标。
+·燃烛施明:  与被诅咒敌人以及boss战斗时造成的伤害增加且受到的伤害减少。
+·散华:  攻击概率获得散华护盾（将一次非痛苦伤害降为0），最多一层。",
+Character/C_ViViana_PassiveName,Text,,,Candle and Blade,,烛与剑,
+Character/C_ViViana_SelectInfo,Text,,,"Viviana Droste, a knight and a poet. In combat, she employs diverse sword techniques combined with light and shadow arts for offense 
+and defense, creating a captivating spectacle. As a poet, she is well-read and delights in composing verses. 
+
+Excels in using sword combos to deal multi-hit Spell damage to single targets.",,"    薇薇安娜·德罗斯特,一位骑士，一位诗人。作战时剑招多种多样，配合光影源石技艺攻防一体，赏心悦目。作为诗人则博览群书，喜爱吟诗作赋。
+
+    擅长使用剑术连招对单体目标造成多段法术伤害。",
+Character/C_ViViana_Text_Battle_Cri_0,Text,,,Let time halt in this candleless night.,,让时间停在这个无烛的夜晚吧。,
+Character/C_ViViana_Text_Battle_Cri_1,Text,,,Words that stir the soul always emerge from storms.,,震撼心灵的词句，总是自风暴中来。,
+Character/C_ViViana_Text_Battle_Healed_0,Text,,,Thank you.,,谢谢。,
+Character/C_ViViana_Text_Battle_Idle_0,Text,,,"The moonlight has just dipped into the wind-swept garden, yet you already foresee autumn?",,月光才没入起风的花圃，你就已经看见了秋天？,
+Character/C_ViViana_Text_Battle_Idle_1,Text,,,I wish to listen to this moment's silence.,,我愿倾听此刻的沉默。,
+Character/C_ViViana_Text_Battle_Kill_0,Text,,,This is no arena—scars deserve neither record nor praise.,,这里不是竞技场，伤痕不值得记录与嘉奖。,
+Character/C_ViViana_Text_Battle_Kill_1,Text,,,I await the long-overdue tranquility.,,我在等待迟来的宁静。,
+Character/C_ViViana_Text_Battle_Start_0,Text,,,Leave. This is my final warning.,,离开，这是最后一句忠告。,
+Character/C_ViViana_Text_Battle_Start_1,Text,,,"If the candle extinguishes, I cannot guarantee what may happen.",,如果弄熄了烛火，我可不确定会发生什么。,
+Character/C_ViViana_Text_Battle_Start_2,Text,,,"I, Viana Droste, shall secure your victory with candle and blade.",,薇薇安娜·德罗斯特，将凭她的烛与剑，为您夺取胜利。,
+Character/C_ViViana_Text_Battle_Start_3,Text,,,"The moonlight has just dipped into the wind-swept garden, yet you already foresee autumn?",,月光才没入起风的花圃，你就已经看见了秋天？,
+Character/C_ViViana_Text_Field_GetItem_0,Text,,,"""Pale roses""—a pale imagination.",,“苍白的玫瑰”，苍白的想象。,
+Character/C_ViViana_Text_Field_Idle_0,Text,,,I wish to listen to this moment's silence.,,我愿倾听此刻的沉默。,
+Character/C_ViViana_Text_Field_Idle_1,Text,,,Do you wish for me to remain here?,,你希望我继续留在这里？,
+Character/C_ViViana_Text_Field_Idle_2,Text,,,What are you muttering about?,,你在念念有词些什么？,
+Character/C_ViViana_Text_Field_Idle_3,Text,,,Let us depart. Immediately set forth and return swiftly.,,走吧。立刻启程，尽早回来。,
+Character/C_ViViana_Text_MasterTarget,Text,,,If this too is fate...,,如果这也是宿命...,
+Character/C_ViViana_Text_PharosLeader_0,Text,,,Play the dirge more mournfully! Draw the violin's bow deeper!,,把死亡曲奏得更好听些！把提琴拉得更低沉些！,
+Character/C_ViViana_Text_PharosLeader_1,Text,,,...,,...,
+Character/C_ViViana_Text_PharosLeader_2,Text,,,"We dig a grave in the sky—sleeping there, we shan't crowd.",,我们在空中挖一座坟墓，睡在那里不拥挤。,
+Character/C_ViViana_Text_Witch_0,Text,,,I understand your choice...,,理解你的选择 ...,
+Character/C_ViViana_Text_Witch_1,Text,,,Though I understand your choice...,,虽然理解你的选择 ...,
+Character/C_ViViana_name,Text,,,Viviana,,薇薇安娜,
+Skill/S_vvan_0_0_Description,Text,,,"When skill is activated:
+<color=#eeca8b>Combo</color>[Swift Sword: Shadow/""Extinguish""]: Accumulates 20 Burn Injury on the target and recovers 1 Mana.",,"技能释放时：
+<color=#eeca8b>连招</color>[迅捷剑·影/""灭""]：对目标积累20点浊燃损伤，恢复一点法力值。",
+Skill/S_vvan_0_0_Name,Text,,,Swift Sword: Light,,迅捷剑·光,
+Skill/S_vvan_0_1_Description,Text,,,"When skill is activated:
+<color=#eeca8b>Combo</color>[Swift Sword: Light/""Illuminate""]: Increases damage taken by the target by 10% until its next action. Deals &a damage.",,"技能释放时：
+<color=#eeca8b>连招</color>[迅捷剑·光/""明""]:目标下次行动前受到的伤害增加10%，造成&a点伤害。",
+Skill/S_vvan_0_1_Name,Text,,,Swift Sword: Shadow,,迅捷剑·影,
+Skill/S_vvan_1_0_Description,Text,,,"- Attack deals &a additional damage to a random adjacent target. If only one target exists, deals the damage to it.
+
+- When skill is activated:
+<color=#eeca8b>Combo</color>[Chaotic Shadowflare/Swift Sword: Shadow]: Recovers 2 Mana.",,"·攻击额外对随机一侧的目标造成&a点伤害，只有一个目标则对该目标造成伤害。
+·技能释放时：
+<color=#eeca8b>连招</color>[影乱烛倏/迅捷剑·影]:恢复2点法力值。",
+Skill/S_vvan_1_0_Name,Text,,,Shadowed by Candlelight,,烛燃影息,
+Skill/S_vvan_1_1_Description,Text,,,"- Deals &a additional damage. If only one target exists, all additional damage lands as Critical hits.
+
+- When skill is activated:
+<color=#eeca8b>Combo</color>[Shadowed by Candlelight/Swift Sword: Light]: Deals &a damage to the target.",,"·额外造成&a点伤害。如果目标只有一个，所有额外造成的伤害以暴击形式命中。
+·技能释放时：
+<color=#eeca8b>连招</color>[烛燃影息/迅捷剑·光]:对该目标造成&a 点伤害。",
+Skill/S_vvan_1_1_Name,Text,,,Chaotic Shadowflare,,影乱烛倏,
+Skill/S_vvan_2_0_Description,Text,,,"- Choose:
+""Illuminate"" or ""Extinguish""
+Adds the chosen skill to your hand.",,"·选择：
+ “明”和“灭”
+  将选择的技能加入手牌。
+",
+Skill/S_vvan_2_0_Name,Text,,,"""Flicker""",,"""明灭""",
+Skill/S_vvan_2_1_Description,Text,,,"- When used from hand:
+<color=#eeca8b>Combo</color>[Shadowflare Candle]: Recovers 1 Mana and accumulates 20 Burn Injury on the target.
+
+- When skill activates after standby:
+Generates Swift Sword: Light with Exclude.
+<color=#eeca8b>Combo</color>[Swift Sword: Light]: Deals &a additional damage and accumulates 20 Burn Injury on the target.",,"·手中使用时：
+<color=#eeca8b>连招</color>[烛燃影熄]:恢复一点法力值，对目标积累20点浊燃损伤。
+·倒计时结束技能释放时：
+生成迅捷剑·光，附带放逐。
+<color=#eeca8b>连招</color>[迅捷剑·光]:造成额外 &a 点伤害，对目标积累20点浊燃损伤。",
+Skill/S_vvan_2_1_Name,Text,,,"""Illuminate""",,"""明""",
+Skill/S_vvan_2_2_Description,Text,,,"- When used from hand:
+<color=#eeca8b>Combo</color>[Chaotic Shadowflare]: Clears all Overload from self.
+
+- When skill activates after standby:
+Generates Swift Sword: Shadow with Exclude.
+<color=#eeca8b>Combo</color>[Swift Sword: Shadow]: Deals &a damage.",,"·手中使用时：
+<color=#eeca8b>连招</color>[影乱烛倏]:清除自身所有过载。
+·倒计时结束技能释放时：
+生成迅捷剑·影，附带放逐。
+<color=#eeca8b>连招</color>[迅捷剑·影]:造成&a 点伤害。",
+Skill/S_vvan_2_2_Name,Text,,,"""Extinguish""",,"""灭""",
+Skill/S_vvan_3_Description,Text,,,"- Gains 2 Standby count.
+- Choose:
+Swift Sword: Light
+Swift Sword: Shadow
+Adds the chosen skill to your hand with Exclude.
+
+- If user is Viviana and she lacks a Nova Shield, gains 1 stack of Nova Shield.",,"·等待次数加2.
+·选择：
+迅捷剑·光；
+迅捷剑·影；
+选择的技能加入手牌，附带放逐。
+·使用者为薇薇安娜且薇薇安娜没有散华护盾时获得一层散华护盾。",
+Skill/S_vvan_3_Name,Text,,,Duel!,,对决！,
+Skill/S_vvan_4_Description,Text,,,"When drawn, increases Exchange count by 1.",,抽到此技能时，交换次数加一。,
+Skill/S_vvan_4_Name,Text,,,The Unforeseeable,,目不能及之处,
+Skill/S_vvan_5_0_Description,Text,,,"Restores full Healing Gauge.
+
+<color=#d18d12>All is fleeting, all shall pass.",,"恢复全部体力极限。
+
+<color=#d18d12>一切都是瞬息，一切都将会过去。",
+Skill/S_vvan_5_0_Name,Text,,,Ursus Anthology,,乌萨斯诗集,
+Skill/S_vvan_5_1_Description,Text,,,"At the start of the next turn, draw an additional card and gain 1 Mana.
+
+<color=#d18d12>If winter comes, can spring be far behind?",,"下回合开始时额外抽一张技能获得一点法力值。
+
+<color=#d18d12>如果冬天来了，春天还会远吗？",
+Skill/S_vvan_5_1_Name,Text,,,Victoria Anthology,,维多利亚诗集,
+Skill/S_vvan_5_2_Description,Text,,,"Clears target's Overload and recovers 1 Mana.
+
+<color=#d18d12>Those who chase shadows become shadows themselves.",,"解除目标过载，恢复一点法力值。
+
+<color=#d18d12>追逐影子的人，自己就是影子。",
+Skill/S_vvan_5_2_Name,Text,,,Minos Odes,,米诺斯颂诗,
+Skill/S_vvan_5_3_Description,Text,,,"Randomly discard the topmost or bottommost skill in hand, then draw two skills.
+
+<color=#d18d12>I prefer the absurdity of writing poetry over the absurdity of not writing it.",,"随机丢弃手中最上面或最下面一张技能，再抽取两张技能。
+
+<color=#d18d12>我偏爱写诗的荒谬，胜过不写诗的荒谬。",
+Skill/S_vvan_5_3_Name,Text,,,Kazimierz Anthology,,卡西米尔诗集,
+Skill/S_vvan_5_4_Description,Text,,,"Increases Exchange count by 2.
+
+<color=#d18d12>A fox transforms into a nobleman, reveling in the lantern-lit spring night.",,"交换次数加2。
+
+<color=#d18d12>狐狸变作公子身，灯夜乐游春。",
+Skill/S_vvan_5_4_Name,Text,,,Higashi Haiku,,东国俳句,
+Skill/S_vvan_5_5_Description,Text,,,"Gain The Unforeseeable and ""Flicker"" with Exclude and Swiftness. ""Flicker"" cost -1 and damage reduced by 80%.
+<color=#d18d12>My days are bright, my nights blissful.",,"获得目不能及之处和“明灭”，附带放逐，迅速。“明灭”的费用减1，伤害减少80%。
+<color=#d18d12>我的白昼晴朗，我的夜晚幸福。",
+Skill/S_vvan_5_5_Name,Text,,,Leithanien Anthology (1),,莱塔尼亚诗集（1）,
+Skill/S_vvan_5_6_Description,Text,,,"Clears all debuffs from the target.
+
+<color=#d18d12>I sing, the moon lingers; I dance, shadows scatter.",,"解除目标所有减益。
+
+<color=#d18d12>我歌月徘徊，我舞影凌乱。",
+Skill/S_vvan_5_6_Name,Text,,,Yan Anthology,,炎国诗集,
+Skill/S_vvan_5_7_Description,Text,,,"Gain one Swift Sword: Light and one Swift Sword: Shadow, both with Exclude and Swiftness. Cost -1 and damage reduced by 80%.
+
+<color=#d18d12>""Pale roses""—a pale imagination.",,"获得迅捷剑·光、迅捷剑·影各一张，附带放逐，迅速。费用减1，伤害减少80%。
+
+<color=#d18d12>“苍白的玫瑰”，苍白的想象。",
+Skill/S_vvan_5_7_Name,Text,,,Leithanien Anthology (2),,莱塔尼亚诗集（2）,
+Skill/S_vvan_5_8_Description,Text,,,...,,...,
+Skill/S_vvan_5_8_Name,Text,,,Best Focus on Combat,,还是专注战斗吧,
+Skill/S_vvan_5_Description,Text,,,"Select one poem from various styles to add to your hand.
+
+   Why fret over rhymes? Thought weaves true verse.",,"从各具特色的诗歌中选择一个加入手牌。
+
+   何必在意韵脚，思想才能织就诗行。",
+Skill/S_vvan_5_Name,Text,,,Marigold Symposium,,金盏花的诗会,
+Skill/S_vvan_6_Description,Text,,,"- Choose one exclusive skill from three randomly generated options, then add it to hand with Exclude.
+
+- After choosing, randomly gain exclusive skills based on Viviana's attack skills in hand, all with Exclude.",,"·在随机生成的自己的三张专属技能选择一张获得，附带放逐。
+·在选择之后根据手中薇薇安娜的攻击技能随机获得薇薇安娜的专属技能，附带放逐。",
+Skill/S_vvan_6_Name,Text,,,The Spire,,高塔,
+Skill/S_vvan_7_Rare_Description,Text,,,"- When drawn, generates one Light/Shadow Conversion.
+- When used as a non-fixed skill, additionally gains 3 Focus stacks.",,"·抽到此技能时，生成一张光影转换。
+·作为非固定技能使用时，额外增加三层专注。",
+Skill/S_vvan_7_Rare_Name,Text,,,Focus,,专  注,
+Skill/S_vvan_8_rare_Description,Text,,,"- When drawn, generates one Light/Shadow Conversion.
+- Triggers effects based on enemies' Light/Shadow buffs: Light applies 2 stacks of Painful Burn <sprite=1> to all enemies; Shadow applies 1 stack of Frost <sprite=1> to all enemies. 
+Removes all Light/Shadow buffs after activation.
+- When used as a non-fixed skill: If Shadow buff exists, applies 1 additional Frost <sprite=1> to all enemies.
+- If no relevant buffs exist, draw 1 card.",,"·抽到此技能时生成一张光影转换。
+·场上敌人拥有光/影buff时触发对应效果：光buff对所有敌人附加2层痛苦的灼烧<sprite=1>；影buff对所有敌人附加1层寒霜<sprite=1>。
+释放后解除所有敌人的光/影buff。
+·作为非固定能力使用时。若影buff存在，对所有敌人额外添加1层寒霜<sprite=1>。
+·若场上没有相关buff，抽1张牌。",
+Skill/S_vvan_8_rare_Name,Text,,,Light Scorch & Shadowseep,,光灼&影渗,
+Skill/S_vvan_LucyD_0_Description,Text,,,"- When this skill belongs to Viviana, it fulfills all Combo triggers.
+- If target has Light/Shadow, swaps their Light/Shadow (triggers Interplay of Light and Shadow with fixed 8 damage).",,"·当该技能属于薇薇安娜时，该技能视为一切连招的触发条件。
+·如果目标有光/影，变换目标光/影（触发光影交错且伤害固定为8点）。",
+Skill/S_vvan_LucyD_0_Name,Text,,,Light/Shadow Conversion,,光影转换,
+Skill/S_vvan_LucyD_Description,Text,,,Draw two cards and generate one Light/Shadow Conversion.,,"抽两张牌，生成一张光影转换。
+",
+Skill/S_vvan_LucyD_Name,Text,,,New Candle,,新烛,
+SkillExtended/SkillEn_vvan_0_EnforceString,Text,,,,,,
+SkillExtended/SkillEn_vvan_0_Name,Text,,,"After using a skill, generate one Light/Shadow Conversion. If the target is an enemy, randomly applies Light/Shadow buff.",,释放技能后，生成一张光影转换。如果目标是敌人则随机添加光/影buff。,
+SkillKeyword/Keyword_vvan_Desc,Text,,,"If Viviana's previously used skill matches the Combo requirement, triggers the Combo's additional effect.",,如果薇薇安娜释放的上一个技能为连招指定的技能时，可以触发连招描述的额外效果。,
+SkillKeyword/Keyword_vvan_Name,Text,,,Combo,,连招,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+

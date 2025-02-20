@@ -1,0 +1,10 @@
+{
+    "SkillEn_PLANA_1": {
+        "ClassName": "PLANA.SkillEn_PLANA_1",
+        "Name": "変为一次性，出手后再次释放1次",
+        "Drop": true,
+        "EnforceString": "1费以上的非一次性伤害技能",
+        "NeedCharacter": "PLANA",
+        "_gdeSchema": "SkillExtended"
+    }
+}

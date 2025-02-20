@@ -1,0 +1,129 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Kashtira_0_1_Description,Text,,이 몬스터는 펜리르의 뒷면 제외 효과를 받지 않는다..,This monster is unaffected by Fenrir's banishing effect.,,,
+Buff/B_Kashtira_0_1_Name,Text,,펜리르 면역,Fenrir Immunity,,,
+Buff/B_Kashtira_0_Description,Text,,이번 턴 동안 행동할 수 없다.,Cannot act this turn.,,无法在本回合内行动。,
+Buff/B_Kashtira_0_Name,Text,,뒷면 제외,Face-Down Banish,,里侧除外,
+Buff/B_Kashtira_1_1_Description,Text,,이 몬스터는 유니콘의 뒷면 제외 효과를 받지 않는다.,This monster is unaffected by Unicorn's banishing effect.,,,
+Buff/B_Kashtira_1_1_Name,Text,,유니콘 면역,Unicorn Immunity,,,
+Buff/B_Kashtira_1_Description,Text,,이번 턴 동안 공격력/방어력이 절반이 된다.,Attack/Defense are halved this turn.,,本回合内攻击力/防御力减半。,
+Buff/B_Kashtira_1_Name,Text,,뒷면 제외,Face-Down Banish,,里侧除外,
+Buff/B_Kashtira_2_Description,Text,,,,,,
+Buff/B_Kashtira_2_Name,Text,,뒷면 제외,Face-Down Banish,,里侧除外,
+Buff/B_Kashtira_3_Description,Text,,,,,,
+Buff/B_Kashtira_3_Name,Text,,제외,Banish,,除外,
+Buff/B_Kashtira_5_Description,Text,,"다음 자신이 사용하는 ""크샤트리라"" 몬스터 카드는 비용이 7 감소한다.","The cost of the next ""Kashtira"" monster card you use is reduced by 7.",,下次使用的[怒刹帝利]怪兽卡的费用减少7点。,
+Buff/B_Kashtira_5_Name,Text,,크샤트리라 버스,Kashtira Birth,,怒刹帝利·诞生,
+Buff/B_Kashtira_7_1_Description,Text,,다음 턴 까지 행동할 수 없다.,Cannot act until the next turn.,,直到下回合前无法行动。,
+Buff/B_Kashtira_7_1_Name,Text,,크샤트리라 오버랩,Kashtira Overlap,,怒刹帝利·交迭,
+Buff/B_Kashtira_7_Name,Text,,크샤트리라 오버랩,Kashtira Overlap,,怒刹帝利·交迭,
+Buff/B_Kashtira_P_Description,Text,,,,,,
+Buff/B_Kashtira_P_Name,Text,,육세괴=파라이조스,Pressured Planet Wraitsoth,,六世坏·帕拉索眦,
+Buff/B_Kashtira_R0_1_Description,Text,,"""뒷면 제외""가 적용될 때 마다 &a(70%)의 피해를 입는다.","Take &a (70%) damage each time ""Face-Down Banish"" is triggered.",,每次触发[里侧除外]时，受到&a(70%)伤害。,
+Buff/B_Kashtira_R0_1_Name,Text,,크샤트리라 샹그릴라,Kashtira Shangri-Ira,,怒刹帝利·香格里拉,
+Buff/B_Kashtira_R0_Description,Text,,"다음 턴 덱에서 ""크샤트리라"" 몬스터 1장을 비용을 7 감소시키고 신속을 부여하여 패에 넣는다.","At the start of the next turn, add 1 ""Kashtira"" monster from the deck to your hand, reduce its cost by 7, and grant it Swiftness.",,下个回合开始时，从牌组选择1个[怒刹帝利]怪兽卡加入手中，赋予迅速和其费用减少7点。,
+Buff/B_Kashtira_R0_Name,Text,,크샤트리라 샹그릴라,Kashtira Shangri-Ira,,怒刹帝利·香格里拉,
+Buff/B_Kashtira_R1_Description,Text,,,,,,
+Buff/B_Kashtira_R1_Name,Text,,크샤트리라 어라이즈하트,Kashtira Arise-Heart,,怒刹帝利·亚拉眦哈忒,
+Character/Kashtira_PassiveDes,Text,,"①: 이 카드의 발동 시 효과 처리로서, 덱에서 ""크샤트리라"" 몬스터 1장을 패에 넣을 수 있다.
+②: 자신의 공격력/방어력은, 자신 아군의 수 × 1 올린다.
+","①: When this card is activated, you can add 1 ""Kashtira"" monster from the deck to your hand.
+②: Your Attack/Defense increase by the number of your allies × 1.",,"①：这张卡发动的场合，可以从卡组将1张[怒刹帝利]怪兽加入手牌。
+②：自身根据己方单位的数量，每个提升1点的攻击力/防御力。",
+Character/Kashtira_PassiveName,Text,,육세괴=파라이조스,Pressured Planet Wraitsoth,,六世坏·帕拉索眦,
+Character/Kashtira_SelectInfo,Text,,"유희왕 부스터 팩 다크윙 블래스트에서 등장한 크샤트리라 카드군은 각 카드 1장의 높은 밸류로 승부하는 덱입니다.
+강력한 몬스터 카드들을 0코스트로 사용하며 마법, 함정 카드들로 그 사용을 보조하는 캐릭터 입니다.
+또한, 몬스터 카드들은 각각 강력한 뒷면 제외 디버프를 가지고 있습니다.","The Kashtira archetype from Yu-Gi-Oh Booster Pack Darkwing Blast is a deck that plays with high value for each card.
+It uses powerful monster cards at 0 cost and supports their use with spell and trap cards.
+Additionally, the monster cards possess powerful Face-Down Banish debuffs.",,,
+Character/Kashtira_name,Text,,크샤트리라 라이즈하트,Kashtira Riseheart,,怒刹帝利·亚拉眦哈忒,
+Skill/S_Kashtira_0_Description,Text,,"①: 이번 턴 다른 카드를 사용하지 않았다면, 이 카드의 코스트는 7 감소한다.
+②: 덱에서 ""크샤트리라"" 몬스터 1장을 패에 넣는다.
+③: 이 카드의 공격 명중 시, 공격 대상에게 이 턴 동안 행동할 수 없는 ""뒷면 제외"" 디버프 효과를 적용한다. 보스에게는 적용 후 4 턴 동안 다시 적용할 수 없다.","①: If no other cards were used this turn, reduce this card's cost by 7.
+②: Add 1 ""Kashtira"" monster from the deck to your hand.
+③: When this card's attack hits, apply the ""Face-Down Banish"" debuff, preventing action this turn. Cannot be reapplied to bosses for 4 turns.",,"①：如果本回合没有使用其他卡片，则此卡的费用减少7点。
+②：从牌组中将1张[怒刹帝利]怪兽卡加入手中。
+③：此卡攻击命中时，施加无法行动的[里侧除外]减益。",
+Skill/S_Kashtira_0_Name,Text,,크샤트리라 펜리르,Kashtira Fenrir,,怒刹帝利·芬里尔,
+Skill/S_Kashtira_1_Description,Text,,"①: 이번 턴 다른 카드를 사용하지 않았다면, 이 카드의 코스트는 7 감소한다.
+②: 덱에서 ""크샤트리라"" 마법 카드 1장을 패에 넣는다.
+③: 이 카드의 공격 명중시, 공격 대상에게 이 턴 동안 방어력/수비력을 절반으로 하는 ""뒷면 제외"" 디버프 효과를 적용한다. 보스에게 적용 후 3턴 동안 다시 적용 할 수 없다.","①: If no other cards were used this turn, reduce this card's cost by 7.
+②: Add 1 ""Kashtira"" spell card from the deck to your hand.
+③: When this card's attack hits, apply the ""Face-Down Banish"" debuff, halving Attack/Defense this turn. Cannot be reapplied to bosses for 3 turns.",,"①：如果本回合没有使用其他卡片，则此卡的费用减少7点。
+②：从牌组中将1张[怒刹帝利]魔法卡加入手中。
+③：此卡攻击命中时，施加攻击力·守备力减半的[里侧除外]减益。",
+Skill/S_Kashtira_1_Name,Text,,크샤트리라 유니콘,Kashtira Unicorn,,怒刹帝利·独角兽,
+Skill/S_Kashtira_2_Description,Text,,"①: 이번 턴 다른 카드를 사용하지 않았다면, 이 카드의 코스트는 7 감소한다.
+②: 덱에서 ""크샤트리라"" 함정 카드 1장을 패에 넣는다.
+③: 이 카드의 공격 명중 시, 상대는 &a(50%)의 고통 피해를 입히는 ""뒷면 제외"" 디버프 효과를 적용한다.","①: If no other cards were used this turn, reduce this card's cost by 7.
+②: Add 1 ""Kashtira"" trap card from the deck to your hand.
+③: When this card's attack hits, apply ""Face-Down Banish,"" dealing &a (50%) Pain damage.",,"①：如果本回合没有使用其他卡片，则此卡的费用减少7点。
+②：从牌组中将1张[怒刹帝利]陷阱卡加入手中。
+③：此卡攻击命中时，敌方受到&a(50%)痛苦伤害并施加[里侧除外]减益。",
+Skill/S_Kashtira_2_Name,Text,,크샤트리라 오우거,Kashtira Ogre,,怒刹帝利·食人魔,
+Skill/S_Kashtira_3_Description,Text,,"①: 패에 이 카드 이외의 ""크샤트리라"" 카드가 있을 때, 패의 ""크샤트리라"" 카드 한 장을 버리고 7 코스트를 감소시켜 발동 할 수 있다.
+②: 이 카드의 공격 명중 시, 무작위 적에게 &a(30%)의 고통 피해를 입히는 디버프를 3번 부여한다.
+③: 이 카드가 효과로 묘지로 보내졌을 경우에 발동한다. 무작위 적에게 &a(30%)의 고통 피해를 입히는 디버프를 2번 부여한다.","①: If there is another ""Kashtira"" card in hand, discard 1 ""Kashtira"" card to reduce the cost by 7 and activate this card.
+②: When this card's attack hits, apply a debuff to a random enemy, dealing &a (30%) Pain damage 3 times.
+③: If this card is sent to the graveyard by an effect, apply a debuff to a random enemy, dealing &a (30%) Pain damage 2 times.",,"①：当手牌中有除此卡外的[怒刹帝利]卡时，选择丢弃其中1张，减少7点费用并发动此卡。
+②：此卡攻击命中时，对随机敌人施加3次&a(30%)痛苦伤害减益。
+③：当此卡因效果送入墓地时，对随机敌人施加3次&a(30%)痛苦伤害减益。",
+Skill/S_Kashtira_3_Name,Text,,티아라멘츠 크샤트리라,Tearlaments Kashtira,,泪冠哀歌·怒刹帝利,
+Skill/S_Kashtira_4_Description,Text,,"①: 패에 이 카드 이외의 ""크샤트리라"" 카드가 있을 때, 패의 ""크샤트리라"" 카드 한 장을 버리고 7 코스트를 감소시켜 발동 할 수 있다.
+②: &a(방어력의 30%)의 추가 피해를 입힌다.
+③: 이 카드의 공격 명중 시, 대상의 모든 버프를 무효로 한다.","①: If there is another ""Kashtira"" card in hand, discard 1 ""Kashtira"" card to reduce the cost by 7 and activate this card.
+②: Deal additional damage equal to &a (30% of Defense).
+③: When this card's attack hits, negate all buffs on the target.",,"①：当手牌中有除此卡外的[怒刹帝利]卡时，选择丢弃其中1张，减少7点费用并发动此卡。
+②：对敌人造成&a(防御力30%)的额外伤害。
+③：此卡攻击命中时，解除目标所有增益效果。",
+Skill/S_Kashtira_4_Name,Text,,스케어클로 크샤트리라,Scareclaw Kashtira,,恐惧爪·怒刹帝利,
+Skill/S_Kashtira_5_Description,Text,,"①: 묘지의 ""크샤트리라"" 몬스터 1장을 패에 넣는다. 그 후, 그 스킬의 비용을 7 감소시키고 신속을 부여한다.
+②: 다음 자신이 사용하는 ""크샤트리라"" 몬스터 카드는 비용이 7 감소한다.","①: Add 1 ""Kashtira"" monster from the graveyard to your hand, reduce its cost by 7, and grant it Swiftness.
+②: The cost of your next ""Kashtira"" monster card is reduced by 7.",,"①：将墓地中的1张[怒刹帝利]怪兽卡加入手牌，赋予其迅速和费用减少7点。
+②：下次使用的[怒刹帝利]怪兽卡费用减少7点。",
+Skill/S_Kashtira_5_Name,Text,,크샤트리라 버스,Kashtira Birth,,怒刹帝利·诞生,
+Skill/S_Kashtira_6_Description,Text,,"①: 덱에서 ""크샤트리라"" 몬스터 1장을 비용을 7 감소시키고, 신속을 부여하여 패에 넣는다.
+②: 이 카드가 효과로 묘지로 보내졌을 경우 발동한다. 묘지의 ""크샤트리라 파피야스""이외의 ""크샤트리라"" 카드 1장을 패에 넣는다.","①: Add 1 ""Kashtira"" monster from the deck to your hand, reduce its cost by 7, and grant it Swiftness.
+②: If this card is sent to the graveyard by an effect, add 1 ""Kashtira"" card, except ""Kashtiratheosis"", from the graveyard to your hand.",,"①：将牌组中的1张[怒刹帝利]怪兽卡加入手牌，赋予其迅速和费用减少7点。
+②：当此卡因效果送入墓地时，将墓地中的1张[怒刹帝利]魔法·陷阱卡加入手牌。",
+Skill/S_Kashtira_6_Name,Text,,크샤트리라 파피야스,Kashtiratheosis,,怒刹帝利·六世坏他化自在天,
+Skill/S_Kashtira_7_1_Description,Text,,다음 턴 까지 행동할 수 없다.,Cannot act until the next turn.,,到下回合前无法行动。,
+Skill/S_Kashtira_7_1_Name,Text,,크샤트리라 오버랩,Kashtira Overlap,,怒刹帝利·交迭,
+Skill/S_Kashtira_7_Description,Text,,"①: 2턴 동안 자신의 공격력을 1.5 올린다
+②: 이 카드가 효과로 묘지로 보내졌을 경우 , 자신 패에 ""크샤트리라"" 몬스터가 존재 할 경우 상대 몬스터 하나를 대상으로 발동 할 수 있다. 그 몬스터는 다음 턴 까지 행동할 수 없다.","①: Increase your attack power by 1.5 for 2 turns.
+②: If this card is sent to the graveyard by an effect, and a ""Kashtira"" monster exists in your hand, you can target an enemy monster. That monster cannot act until the next turn.",,"①：2回合内自身攻击力提升1.5倍。
+②：当此卡因效果送入墓地时，若手牌中存在[怒刹帝利]怪兽卡，可以以1个敌人为目标，使那个敌人直到下个回合前无法行动。",
+Skill/S_Kashtira_7_Name,Text,,크샤트리라 오버랩,Kashtira Overlap,,怒刹帝利·交迭,
+Skill/S_Kashtira_8_Description,Text,,"①: 이 카드를 뽑은 다음 턴 시작 시, 이 카드의 비용을 8 감소시킨다.
+②: 자신 패의 ""크샤트리라"" 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 카드의 비용을 7 감소시키고, 자신 묘지의 ""크샤트리라"" 몬스터(희귀스킬 포함) 1장을 비용을 7 감소시켜서 패에 넣을 수 있다.","①: At the start of the turn after drawing this card, reduce its cost by 8.
+②: You can target 1 ""Kashtira"" monster card in your hand. Reduce that card's cost by 7, and you can add 1 ""Kashtira"" monster from your graveyard (including rare skills) to your hand, reducing its cost by 7.",,"①：此卡抽到手中后，下个回合开始时费用减少8点。
+②：可以以手牌中的1张[怒刹地利]怪兽卡为对象发动。使那个怪兽费用减少7点，并将墓地中的1个[怒刹地利]怪兽卡（包括稀有）费用减少7点后加入手牌。",
+Skill/S_Kashtira_8_Name,Text,,크샤트리라 프리페어,Kashtira Preparations,,怒刹帝利·准备,
+Skill/S_Kashtira_9_Description,Text,,"①: 이 카드를 뽑은 다음 턴 시작 시, 이 카드의 비용을 9 감소시킨다.
+②: 상대 몬스터를 하나 대상으로 하고 발동할 수 있다. 대상 이외의 몬스터에게 ""뒷면 제외""효과를 적용한다. 적이 하나일 경우, 그 대상에게 2중첩으로 ""뒷면 제외"" 효과를 적용한다.
+③: 이 카드가 효과로 묘지로 보내졌을 경우 발동한다. 묘지의 ""크샤트리라"" 몬스터 1장을 비용을 7 감소시켜 패에 넣는다.","①: At the start of the turn after drawing this card, reduce its cost by 9.
+②: You can target an enemy monster. Apply the ""Face-Down Banish"" effect to all monsters except the target. If there is only one enemy, apply ""Face-Down Banish"" twice.
+③: If this card is sent to the graveyard by an effect, activate it. Add 1 ""Kashtira"" monster from the graveyard to your hand, reducing its cost by 7.",,"①：此卡抽到手中后，下个回合开始时费用减少9点。
+②：可以以1个敌人为对象发动。[里侧除外]除了目标外的其他敌人。如果只有1个敌人，则[里侧除外]2次。
+③：当此卡因效果送入墓地时，发动效果。将墓地中的1张“克夏特里拉”怪兽卡费用减少7点后加入手牌。",
+Skill/S_Kashtira_9_Name,Text,,크샤트리라 빅뱅,Kashtira Big Bang,,怒刹帝利·六世坏根清净,
+Skill/S_Kashtira_D_Description,Text,,①: 패를 1장 버리고 발동할 수 있다. 덱에서 카드 1장을 패에 넣는다.,①: Discard 1 card from your hand to activate. Add 1 card from the deck to your hand.,,①：丢弃1张手牌才能发动。从牌组中选择1张卡加入手牌。,
+Skill/S_Kashtira_D_Name,Text,,졸부와 겸허의 항아리,Pot of Prosperity,,贪欲与谦虚之壶,
+Skill/S_Kashtira_R0_Description,Text,,"①: 덱에서 ""크샤트리라"" 몬스터 1장을 비용을 7감소시키고 신속을 부여하여 패에 넣는다. 다음 자신 턴 시작 시 한번 더 발동한다.
+②: 다음 턴 종료 시 까지 상대는 ""뒷면 제외""를 얻을 때 마다 &a(70%)의 피해를 입는다.","①: Add 1 ""Kashtira"" monster from the deck to your hand, reduce its cost by 7, grant it Swiftness, and activate again at the start of your next turn.
+②: Until the end of the next turn, every time the enemy gains ""Face-Down Banish,"" they take &a (70%) damage.",,"①：从牌组中选择1张[怒刹帝利]怪兽卡加入手牌，赋予其迅速和减少7点费用。下次回合开始时可再次发动。
+②：直到下回合结束，敌人每次被[里侧除外]时，都会受到&a(70%)的伤害。",
+Skill/S_Kashtira_R0_Name,Text,,크샤트리라 샹그릴라,Kashtira Shangri-Ira,,怒刹地利·香格里拉,
+Skill/S_Kashtira_R1_Description,Text,,"①: 이 카드의 공격 성공 시, 모든 적에게 3턴 동안 &a(100%)의 고통 피해를 입히는 ""뒷면 제외"" 디버프 효과를 적용한다.","①: When this card's attack is successful, apply the ""Face-Down Banish"" debuff to all enemies, dealing &a (100%) Pain damage each turn for 3 turns.",,①：此卡攻击成功时，对所有敌人施加3回合内每回合&a(100%)的痛苦伤害的[里侧除外]减益。,
+Skill/S_Kashtira_R1_Name,Text,,크샤트리라 어라이즈하트,Kashtira Arise-Heart,,怒刹帝利·亚拉眦哈忒,
+SkillKeyword/Key_Kashtira_Mag_Desc,Text,,이 카드는 <color=#118C76>마법 카드</color>입니다.,This card is a <color=#118C76>Spell Card</color>.,,这个技能是<color=#118C76>魔法卡</color>。,
+SkillKeyword/Key_Kashtira_Mag_Name,Text,,<color=#118C76>마법 카드,<color=#118C76>Spell Card,,<color=#118C76>魔法卡</color>,
+SkillKeyword/Key_Kashtira_Mon_Desc,Text,,이 카드는 <color=#BF6341>몬스터 카드</color>입니다.,This card is a <color=#BF6341>Monster Card</color>.,,这个技能是<color=#BF6341>怪兽卡</color>。,
+SkillKeyword/Key_Kashtira_Mon_Name,Text,,<color=#BF6341>몬스터 카드,<color=#BF6341>Monster Card,,<color=#BF6341>怪兽卡</color>,
+SkillKeyword/Key_Kashtira_Tra_Desc,Text,,이 카드는 <color=#A6297A>함정 카드</color>입니다.,This card is a <color=#A6297A>Trap Card</color>.,,这个技能是<color=#A6297A>陷阱卡</color>。,
+SkillKeyword/Key_Kashtira_Tra_Name,Text,,<color=#A6297A>함정 카드,<color=#A6297A>Trap Card,,<color=#A6297A>陷阱卡</color>,
+SkillKeyword/Key_Kashtira_xyz_Desc,Text,,이 카드는 <color=#090B0D>엑시즈 카드</color>입니다.,This card is a <color=#090B0D>XYZ Card</color>.,,这个技能是<color=#090B0D>超量卡</color>。,
+SkillKeyword/Key_Kashtira_xyz_Name,Text,,<color=#090B0D>엑시즈 카드</color>,<color=#090B0D>XYZ Card,,<color=#090B0D>超量卡</color>,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,

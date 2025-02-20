@@ -1,0 +1,34 @@
+{
+    "S_PLANA_lucy0": {
+        "Target": "ally",
+        "Particle": "Particle/impact",
+        "Effect_Target": "SE_S_PLANA_lucy0",
+        "Name": "回憶之日",
+        "Description": "抽取1个技能。 给予指定目标\"盯~\"和\"防护力场\"。",
+        "SkillExtended": [
+            "PLANA.S_PLANA_lucy0"
+        ],
+        "Rare": false,
+        "IgnoreTaunt": false,
+        "Disposable": false,
+        "Category": "LucySkill",
+        "User": "LucyDraw",
+        "LucyPartyDraw": "PLANA",
+        "Image_2": "S_PLANA_lucy0\\S_PLANA_lucy0_Image_2.png",
+        "Image_1": "S_PLANA_lucy0\\S_PLANA_lucy0_Image_1.png",
+        "Image_0": "S_PLANA_lucy0\\S_PLANA_lucy0_Image_0.png",
+        "_gdeSchema": "Skill",
+        "NODOD": false,
+        "NotCount": false,
+        "NotChuck": false,
+        "HealSkill": false,
+        "NoDrop": false,
+        "Except": false,
+        "NoBasicSkill": false,
+        "Basic": false,
+        "Track": false,
+        "Fatal": false,
+        "EnemyPreview": false,
+        "UnknownTarget": false
+    }
+}

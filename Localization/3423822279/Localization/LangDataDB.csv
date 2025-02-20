@@ -1,0 +1,262 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_PD_ALina_2_1_Description,Text,,,Cannot target other characters.,,无法指定其他角色。,
+Buff/B_PD_ALina_2_1_Name,Text,,,Taunt,,嘲讽,
+Buff/B_PD_ALina_2_2_Description,Text,,,"Cannot attack targets other than &target. 
+Removed upon attacking the target.",,"无法攻击除&target以外的目标。
+攻击目标时解除。",
+Buff/B_PD_ALina_2_2_Name,Text,,,Enraged!!,,发怒！！,
+Buff/B_PD_Adelion_11_Description,Text,,,"After attacking a single enemy (non-Follow-up attack), if the target has [Black Mark], &allname performs a Follow-up attack. Deals &alldam damage per stack of [Black Mark] on the target.",,攻击单个敌人后(非追加攻击)，若目标带有【黑色印记】&allname对目标进行追加攻击，目标每有1层【黑色印记】，造成&alldam点伤害。,
+Buff/B_PD_Adelion_11_Name,Text,,,Delayed Sniping,,后发狙击,
+Buff/B_PD_Adelion_12_Description,Text,,,The next &a skills used by this character will be cast twice.,,自身接下来使用的&a个技能将重复释放1次。,
+Buff/B_PD_Adelion_12_Name,Text,,,Dual Guard,,二重警备,
+Buff/B_PD_Adelion_14_1_Description,Text,,,,,,
+Buff/B_PD_Adelion_14_1_Name,Text,,,Critical Damage Increased,,暴击伤害增加,
+Buff/B_PD_Adelion_14_Description,Text,,,"Increases skill costs in hand by 1 and grants Critical to attack skills. 
+Restores 1 Mana after using skills from hand. 
+Increases Critical damage by 50% of the sum of excess Hit Rate and Critical Rate when attacking enemies.",,"手中自身的技能费用增加1点且攻击技能获得致命，使用手中的技能后恢复1点法力值。
+攻击敌人时根据溢出的命中率与暴击率之和的50%增加暴击伤害。",
+Buff/B_PD_Adelion_14_Name,Text,,,Self-Ignition,,自我气焰,
+Buff/B_PD_Adelion_4_Description,Text,,,,,,
+Buff/B_PD_Adelion_4_Name,Text,,,Hit Rate and Evasion Rate Reduced,,命中率、闪避率减少,
+Buff/B_PD_Adelion_5_1_Description,Text,,,Cannot act.,,无法行动,
+Buff/B_PD_Adelion_5_1_Name,Text,,,Stun,,眩晕,
+Buff/B_PD_Adelion_5_2_Description,Text,,,This debuff's effectiveness increases by 5% per stack of [Black Mark].,,每有1层【黑色印记】，此减益的数值提升5%。,
+Buff/B_PD_Adelion_5_2_Name,Text,,,Silent Slumber,,静睡,
+Buff/B_PD_Adelion_8_Description,Text,,,Restores 1 Mana after using non-Exclude skills.,,使用自己的非放逐技能后恢复1点法力值。,
+Buff/B_PD_Adelion_8_Name,Text,,,Emergency Flow,,紧急流速,
+Buff/B_PD_Adelion_9_Description,Text,,,"Increases [Black Mark]'s max stacks to 5 and duration to 3 turns. 
+Stacks that have already triggered damage can trigger again at 50% reduced damage.",,"【黑色印记】的层数上限提升至5，持续时间提升至3回合。
+【黑色印记】已触发过伤害的层数可再次触发，但伤害减少50%。",
+Buff/B_PD_Adelion_9_Name,Text,,,Descending Epitaph,,降临碑文,
+Buff/B_PD_Adelion_p_Description,Text,,,"Duration scales with player turns. 
+Takes &a damage when [White Mark] is applied. 
+Triggered stacks cannot reactivate.",,"持续时间基于玩家回合。
+被施加【白色印记】时，受到&a点伤害。
+已触发过的层数不会再次被触发。",
+Buff/B_PD_Adelion_p_Name,Text,,,Black Mark,,黑色印记,
+Buff/B_PD_Adelion_p_bac_Description,Text,,,"Duration scales with player turns. 
+Takes &a damage when [White Mark] is applied. 
+Triggered stacks cannot reactivate.",,"持续时间基于玩家回合。
+被施加【白色印记】时，受到&a点伤害。
+已触发过的层数不会再次被触发。",
+Buff/B_PD_Adelion_p_bac_Name,Text,,,Black Mark,,黑色印记,
+Buff/B_PD_Alina_10_Description,Text,,,Adds damage equal to received damage to the next attack.,,受到伤害后，将等量伤害附加至自身的下一次攻击。,
+Buff/B_PD_Alina_10_Name,Text,,,Retaliation,,报复,
+Buff/B_PD_Alina_11_Description,Text,,,"When Shield depletes, converts stat bonuses to ""30% Evasion Rate Increase"".",,保护罩耗尽时，属性增益转化为“闪避率增加30%”。,
+Buff/B_PD_Alina_11_Name,Text,,,Emergency Brake,,紧急制动,
+Buff/B_PD_Alina_3_Description,Text,,,,,,
+Buff/B_PD_Alina_3_Name,Text,,,Increased Aggro Chance,,受到攻击概率增加,
+Buff/B_PD_Alina_4_Description,Text,,,,,,
+Buff/B_PD_Alina_4_Name,Text,,,Disabled,,停用,
+Buff/B_PD_Alina_5_Description,Text,,,Reduces Defense equal to current Defense.,,降低等于当前防御力的防御力,
+Buff/B_PD_Alina_5_Name,Text,,,Defense Collapse,,防御瓦解,
+Buff/B_PD_Alina_6_Description,Text,,,"When targeted by enemies, applies 1 stack of [White Mark] and counterattacks before their action, dealing &a damage. 
+Deals &b additional damage per stack of [White Mark] on the target.",,"被敌人瞄准时，在敌人行动前对其施加1层【白色印记】并进行反击，造成&a点伤害。
+其每带有1层【白色印记】，额外造成&b点伤害。",
+Buff/B_PD_Alina_6_Name,Text,,,White Night Omen,,白夜先兆,
+Buff/B_PD_Alina_7_Description,Text,,,,,,
+Buff/B_PD_Alina_7_Name,Text,,,Shield Health Limit,,保护体力极限,
+Buff/B_PD_Alina_9_Description,Text,,,"Increases [White Mark]'s max stacks to 5 and duration to 3 turns. 
+Stacks that have already triggered damage can trigger again at 50% reduced damage.",,"【白色印记】的层数上限提升至5，持续时间提升至3回合。
+【白色印记】已触发过伤害的层数可再次触发，但伤害减少50%。",
+Buff/B_PD_Alina_9_Name,Text,,,White Night Descent,,白夜降临,
+Buff/B_PD_Alina_S_Description,Text,,,,,,
+Buff/B_PD_Alina_S_Name,Text,,,Shield,,护盾,
+Buff/B_PD_Alina_p_Description,Text,,,"Duration scales with player turns. 
+Takes &a damage when [Black Mark] is applied. 
+Triggered stacks cannot reactivate.",,"持续时间基于玩家回合。
+被施加【黑色印记】时，受到&a点伤害。
+已触发过的层数不会再次被触发。",
+Buff/B_PD_Alina_p_Name,Text,,,White Mark,,白色印记,
+Buff/B_PD_Alina_p_bac_Description,Text,,,"Duration scales with player turns. 
+Takes &a damage when [Black Mark] is applied. 
+Triggered stacks cannot reactivate.",,"持续时间基于玩家回合。
+被施加【黑色印记】时，受到&a点伤害。
+已触发过的层数不会再次被触发。",
+Buff/B_PD_Alina_p_bac_Name,Text,,,White Mark,,白色印记,
+Character/PD_Adelion_CampSelectWord,Text,,,"If you need to distinguish me from the other ""Nytos"", call me Adelion. This is the name I gave myself.",,“涅托”，如果你要做一个区分，就叫我艾德琳吧，这是我给自己起的名字。,
+Character/PD_Adelion_PassiveDes,Text,,,"Adelion's non-Follow-up attacks grant targets 1 stack of [Black Mark]. 
+When attacking units with [Black Mark], each stack increases Critical Rate by 15% and Critical Damage by 10%.
+
+At Lv3, gain [Targeted Analysis Contract] to replace one exclusive skill.
+At Lv5, gain a 2nd [Targeted Analysis Contract] and equipment [Black Nightmare].",,"艾德琳的非追加攻击命中时给予目标1层【黑色印记】。
+艾德琳攻击带有【黑色印记】的单位时，每层【黑色印记】增加15%暴击率与10%暴击伤害。
+
+3级时获得道具【定向解析契约】，使用后可替换1个专属技能。
+5级时获得第2张【定向解析契约】与装备【漆黑梦魇】。",
+Character/PD_Adelion_PassiveName,Text,,,Bond,,绊,
+Character/PD_Adelion_SelectInfo,Text,,,"A Paradeus ""Nyto"" unit specializing in high-damage rifles. Dances through explosions to devastate enemies with relentless assaults. As a mass-produced model, her emotional suppression leaves her humanity ambiguous.
+
+If only Adelion or Alina is in the party, the other will prioritize appearing during camp recruitment.",,"帕拉蒂斯“涅托”里的一员，使用高杀伤力的步枪型武器作战，在爆炸中起舞，用怒涛般的攻势重创敌阵。作为量产机习惯压抑自己的情绪，阴冷难明的外壳下是否有属于人类的情感，也不得而知。
+
+队伍中有且仅有艾德琳与埃莉诺其中之一时，另一方将优先在营地招募时出现。",
+Character/PD_Adelion_Text_Battle_AllyND_0,Text,,,T_adl_3_1: Run now. It's not time to die yet.,,T_adl_3_1:快跑吧，现在还不能死。,
+Character/PD_Adelion_Text_Battle_Cri_0,Text,,,T_adl_6_1: Shall I show you fireworks?,,T_adl_6_1:请你们看烟火好吗？,
+Character/PD_Adelion_Text_Battle_Cri_1,Text,,,T_adl_6_2: ...Heh.,,T_adl_6_2:···呵呵。,
+Character/PD_Adelion_Text_Battle_Healed_0,Text,,,T_adl_7_1: Impressive...,,T_adl_7_1:好厉害···,
+Character/PD_Adelion_Text_Battle_Idle_0,Text,,,T_adl_1_1: Awaiting orders.,,T_adl_1_1:告诉我命令。,
+Character/PD_Adelion_Text_Battle_Kill_0,Text,,,T_adl_5_1: The dead rest eternally; the living march onward.,,T_adl_5_1:死者永眠，生者前行。,
+Character/PD_Adelion_Text_Battle_Kill_1,Text,,,T_adl_5_2: All souls return to the divine realm—if they had faith.,,T_adl_5_2:所有的亡者都会回归神国，不过前提是有信仰的对象。,
+Character/PD_Adelion_Text_Battle_ND_0,Text,,,T_adl_2_1: If I die here... will I wake again?,,T_adl_2_1:这次死去的话，我还能醒来吗？,
+Character/PD_Adelion_Text_Battle_ND_1,Text,,,T_adl_2_2: O gods...,,T_adl_2_2:神啊···,
+Character/PD_Adelion_Text_Battle_Start_0,Text,,,T_adl_4_1: Providing funeral services.,,T_adl_4_1:为各位提供丧葬服务。,
+Character/PD_Adelion_Text_Field_GetItem_0,Text,,,T_adl_9_1: Enhancements without dissection... unexpected.,,T_adl_9_1:居然有不剖开身体就能完成的强化···,
+Character/PD_Adelion_Text_Field_Idle_0,Text,,,T_adl_8_1: I don't use maps. Which direction?,,T_adl_8_1:我不会用地图，往哪个方向走？,
+Character/PD_Adelion_Text_PharosLeader_0,Text,,,T_adl_11_1: Overwriting core commands. Loyalty target redirected...,,T_adl_11_1:底层命令改写，效忠目标重定向···,
+Character/PD_Adelion_Text_PharosLeader_1,Text,,,T_adl_11_2: Overwriting core commands. Loyalty target redirected...,,T_adl_11_2:底层命令改写，效忠目标重定向···,
+Character/PD_Adelion_Text_PharosLeader_2,Text,,,T_adl_11_3: Consume. Control. Obey.,,T_adl_11_3:吞噬，操纵，服从。,
+Character/PD_Adelion_UnlockString,Text,,,,,,
+Character/PD_Adelion_name,Text,,,Adelion,,艾德琳,
+Character/PD_Alina_CampSelectWord,Text,,,"""Nyto""—Paradeus' cornerstone. From today, I am your tool too.",,“涅托”，帕拉蒂斯的基石，从今天开始也是你的工具了。,
+Character/PD_Alina_PassiveDes,Text,,,"Alina's non-Follow-up attacks grant targets 1 stack of [White Mark]. 
+When attacked by units with [White Mark], reduces damage taken by 10% per stack and counterattacks with 30% ATK.
+
+At Lv3, gain [Targeted Analysis Contract] to replace one exclusive skill.
+At Lv5, gain a 2nd [Targeted Analysis Contract] and equipment [Pale Reaper].",,"埃莉诺的非追加攻击命中时给予目标1层【白色印记】。
+埃莉诺被带有【白色印记】的单位攻击时，每层【白色印记】使受到的伤害减少10%并对攻击者以30%攻击力进行反击。
+
+3级时获得道具【定向解析契约】，使用后可替换1个专属技能。
+5级时获得第2张【定向解析契约】与装备【苍白收割者】。",
+Character/PD_Alina_PassiveName,Text,,,Bond,,绊,
+Character/PD_Alina_SelectInfo,Text,,,"A Paradeus ""Nyto"" unit wielding a scythe. Descends like a pale reaper, severing steel and harvesting lives. As an elite prototype, she reserves kindness only for those she acknowledges.
+
+If only Adelion or Alina is in the party, the other will prioritize appearing during camp recruitment.",,"帕拉蒂斯“涅托”里的一员，使用镰刀型的近战武器，如同纯白的死神般降临战场，斩断钢铁、收割生命。作为初期的高级涅托拥有自己的骄傲，只对认可的人露出温柔可爱的一面。
+
+队伍中有且仅有艾德琳与埃莉诺其中之一时，另一方将优先在营地招募时出现。",
+Character/PD_Alina_Text_Battle_AllyND_0,Text,,,T_aln_3_1: Go. I'll hold them.,,T_aln_3_1:快走，我来殿后。,
+Character/PD_Alina_Text_Battle_Cri_0,Text,,,T_aln_6_1: Destroy! Destroy everything!,,T_aln_6_1:毁掉！全部毁掉！,
+Character/PD_Alina_Text_Battle_Cri_1,Text,,,T_aln_6_2: Die.,,T_aln_6_2:死吧。,
+Character/PD_Alina_Text_Battle_Healed_0,Text,,,T_aln_7_1: No need for gentleness. Pain doesn't frighten me.,,T_aln_7_1:不用这么温柔仔细，我不怕疼。,
+Character/PD_Alina_Text_Battle_Idle_0,Text,,,T_aln_1_1: Can we hurry? I'm getting bored.,,T_aln_1_1:速度可以快一点吗？我都快睡着了。,
+Character/PD_Alina_Text_Battle_Idle_1,Text,,,T_aln_1_2: I'm super impatient...,,T_aln_1_2:我可是超没耐心的···,
+Character/PD_Alina_Text_Battle_Kill_0,Text,,,T_aln_5_1: Let the dead rot and the living pray.,,T_aln_5_1:死者腐朽，生者祈祷。,
+Character/PD_Alina_Text_Battle_Kill_1,Text,,,T_aln_5_2: Pleasant dreams.,,T_aln_5_2:做个好梦。,
+Character/PD_Alina_Text_Battle_ND_0,Text,,,T_aln_2_1: If this pain could end here...,,T_aln_2_1:若痛苦可以在这里结束的话···,
+Character/PD_Alina_Text_Battle_ND_1,Text,,,T_aln_2_2: Pray... for me.,,T_aln_2_2:请···为我祈祷。,
+Character/PD_Alina_Text_Battle_Start_0,Text,,,T_aln_4_1: Let's ring the funeral bells for these lost souls.,,T_aln_4_1:走吧，去给那些迷路的家伙敲响引路的丧钟。,
+Character/PD_Alina_Text_Battle_Start_1,Text,,,T_aln_4_2: Total annihilation!,,T_aln_4_2:全部抹杀！,
+Character/PD_Alina_Text_Field_GetItem_0,Text,,,T_aln_9_1: Patchwork enhancements... surprisingly effective.,,T_aln_9_1:拼拼凑凑的强化，结果居然还不错呢。,
+Character/PD_Alina_Text_Field_Idle_0,Text,,,T_aln_8_1: Course confirmed. Advance.,,T_aln_8_1:方向确定，前进吧。,
+Character/PD_Alina_Text_PharosLeader_0,Text,,,T_aln_11_1: Overwriting core commands. Loyalty target redirected...,,T_aln_11_1:底层命令改写，效忠目标重定向···,
+Character/PD_Alina_Text_PharosLeader_1,Text,,,T_aln_11_2: Overwriting core commands. Loyalty target redirected...,,T_aln_11_2:底层命令改写，效忠目标重定向···,
+Character/PD_Alina_Text_PharosLeader_2,Text,,,T_aln_11_3: Infiltrate. Dominate. Kill.,,T_aln_11_3:渗透，控制，杀死。,
+Character/PD_Alina_UnlockString,Text,,,,,,
+Character/PD_Alina_name,Text,,,Alina,,埃莉诺,
+Item_Consume/Item_SF_1_Description,Text,,,"Forget an exclusive skill, then select a new one from all exclusive skills.",,遗忘一个专属技能，然后从所有专属技能中选择一个学习。,遺忘一個專屬技能，然後從所有專屬技能中選擇一個學習。
+Item_Consume/Item_SF_1_name,Text,,,Targeted Analysis Contract,,定向解析契约,定向解析契約
+Item_Equip/E_PD_Adelion_0_Description,Text,,,"When applying [Black Mark], increases ATK based on target's current stacks percentage for 2 turns.
+<color=red>Adelion exclusive</color>",,"施加【黑色印记】时，根据目标此前的【黑色印记】层数按百分比提升攻击力，持续2回合。
+<color=red>仅限艾德琳佩戴</color>",
+Item_Equip/E_PD_Adelion_0_name,Text,,,Black Nightmare,,漆黑梦魇,
+Item_Equip/E_PD_Alina_0_Description,Text,,,"On enemy death, increases ATK/DEF/Evasion by 5% for 3 turns. Gains +5% per [White Mark] stack on the slain enemy.
+<color=red>Alina exclusive</color>",,"敌人死亡时，提升自身攻击力&防御力&闪避率5%，持续3回合。死亡的敌人每带有1层【白色印记】，额外提升5%。
+<color=red>仅限埃莉诺佩戴</color>",
+Item_Equip/E_PD_Alina_0_name,Text,,,Pale Reaper,,苍白收割者,
+Skill/S_PD_Adelion_10_1_Description,Text,,,,,,
+Skill/S_PD_Adelion_10_1_Name,Text,,,Gain Shield,,获得保护罩,
+Skill/S_PD_Adelion_10_Description,Text,,,Grants allies Shield equal to damage dealt.,,根据造成的伤害，给与友军等值的保护罩。,
+Skill/S_PD_Adelion_10_Name,Text,,,Covering Fire,,援护射击,
+Skill/S_PD_Adelion_11_1_Description,Text,,,,,,
+Skill/S_PD_Adelion_11_1_Name,Text,,,,,,
+Skill/S_PD_Adelion_11_Description,Text,,,,,,
+Skill/S_PD_Adelion_11_Name,Text,,,Delayed Sniping,,后发狙击,
+Skill/S_PD_Adelion_12_Description,Text,,,,,,
+Skill/S_PD_Adelion_12_Name,Text,,,Dual Guard,,二重警备,
+Skill/S_PD_Adelion_13_Description,Text,,,"Prioritize drawing 1 target's skill. 
+If enemies with [Black Mark] exist, restore Mana equal to the lowest stack count among them. 
+Otherwise, draw 1 more skill.",,"优先抽取1个目标的技能。
+若存在带有【黑色印记】的敌人，根据其中所带层数最低的敌人所带的层数恢复法力值，否则再抽取1个技能。",
+Skill/S_PD_Adelion_13_Name,Text,,,Emergency Flow,,紧急流速,
+Skill/S_PD_Adelion_14_Description,Text,,,Draw 1 of this character's skills.,,抽1个自身的技能。,
+Skill/S_PD_Adelion_14_Name,Text,,,Self-Ignition,,自我气焰,
+Skill/S_PD_Adelion_1_Description,Text,,,"Generates [Suppression Lock] in hand after use (Excluded, discarded after 1 turn). 
+Generated skills can only target previous targets.    ",,"使用后在手中生成【定点压制】，附带放逐与1回合后弃牌。
+生成的技能只能指定先前指定过的目标。",
+Skill/S_PD_Adelion_1_Name,Text,,,Suppression Lock,,定点压制,
+Skill/S_PD_Adelion_2_Description,Text,,,Deals 50% (&a) of damage taken by target during countdown.,,额外造成倒计时期间目标受到的伤害的50%(&a)。,
+Skill/S_PD_Adelion_2_Name,Text,,,Calamity Onslaught,,灾厄侵袭,
+Skill/S_PD_Adelion_3_Description,Text,,,Damage increases by 12% per stack of [Black Mark] or [White Mark] on target's allies.,,目标的所有友军每有1层【黑色印记】或【白色印记】，伤害提升12%。,
+Skill/S_PD_Adelion_3_Name,Text,,,Annihilation,,寂灭,
+Skill/S_PD_Adelion_4_Description,Text,,,,,,
+Skill/S_PD_Adelion_4_Name,Text,,,Precision Suppression,,精确压制,
+Skill/S_PD_Adelion_5_Description,Text,,,,,,
+Skill/S_PD_Adelion_5_Name,Text,,,Silent Slumber,,静睡,
+Skill/S_PD_Adelion_6_Description,Text,,,"Deals 5% of target's missing HP per [Black Mark] stack. 
+Deals 5% of target's current HP per [White Mark] stack (max &a).",,"目标每有1层【黑色印记】，额外造成目标5%已损失生命值的伤害。
+目标每有1层【白色印记】，额外造成目标5%当前生命值的伤害(至多&a点)。",
+Skill/S_PD_Adelion_6_Name,Text,,,Epitaph of Silence,,谧亡碑文,
+Skill/S_PD_Adelion_7_Description,Text,,,"Attacks target 3 times. 
+Countdown extends per skill cost used by allies (non-Exclude skills count as 1). 
+Damage increases by 12.5% of previous hit per countdown elapsed.",,"攻击目标共3次。
+倒计时期间，友军每次使用技能都会根据费用延长此技能的倒计时。(非放逐技能至少视为1)
+此技能在倒计时栏每经过1倒计时，重复攻击时的伤害都会增加前一次攻击造成伤害的12.5%。",
+Skill/S_PD_Adelion_7_Name,Text,,,Black Obelisk,,黑色方尖碑,
+Skill/S_PD_Adelion_8_Description,Text,,,"Draw 1 target's skill. 
+Does not increase Overload when targeting self.",,"抽1个目标的技能。
+指向自身时不会增加过载。",
+Skill/S_PD_Adelion_8_Name,Text,,,Emergency Flow,,紧急流速,
+Skill/S_PD_Adelion_9_Description,Text,,,Drawn at battle start.,,战斗开始时抽取。,
+Skill/S_PD_Adelion_9_Name,Text,,,Descending Epitaph,,降临碑文,
+Skill/S_PD_Adelion_m_Description,Text,,,,,,
+Skill/S_PD_Adelion_m_Name,Text,,,,,,
+Skill/S_PD_Alina_10_Description,Text,,,,,,
+Skill/S_PD_Alina_10_Name,Text,,,Vengeance,,睚眦必报,
+Skill/S_PD_Alina_11_Description,Text,,,Draw 1 target's skill.,,抽取1个目标的技能。,
+Skill/S_PD_Alina_11_Name,Text,,,Braking System,,制动设备,
+Skill/S_PD_Alina_13_Description,Text,,,"Draw 2 skills. If all enemies have [White Mark], draw +1. 
+Otherwise, apply 1 [White Mark] to all enemies.",,"抽取2个技能。
+若所有敌人都带有【白色印记】则多抽取1个技能，否则给与所有敌人1层【白色印记】。",
+Skill/S_PD_Alina_13_Name,Text,,,Sacred Garden,,圣园,
+Skill/S_PD_Alina_1_Description,Text,,,"Generates [Killing Intent] in hand after use (Excluded, discarded after 1 turn). 
+Generated skills cannot target previous targets.        ",,"使用后在手中生成【杀意弥散】，附带放逐与1回合后弃牌。
+生成的技能无法指定先前指定过的目标。",
+Skill/S_PD_Alina_1_Name,Text,,,Killing Intent,,杀意弥散,
+Skill/S_PD_Alina_2_Description,Text,,,"When used on Taunted enemies, grants +1 [Enraged!!] stack.",,对嘲讽状态的敌人使用时，额外赋予1层【发怒！！】。,
+Skill/S_PD_Alina_2_Name,Text,,,Coffin Claws,,棺木之爪,
+Skill/S_PD_Alina_3_Description,Text,,,Grants &b Shield per stack of [Black Mark] or [White Mark] on target.,,命中时目标每有1层【黑色印记】或【白色印记】，额外获得&b点保护罩。,
+Skill/S_PD_Alina_3_Name,Text,,,Prey on Weakness,,凌弱,
+Skill/S_PD_Alina_4_Description,Text,,,"Damage increases by 20% per [White Mark] stack. 
+If total [Black Mark] stacks ≥ enemy count, cost -1 and gain Swiftness. 
+On kill, add copy to hand (Excluded, cost -1).",,"目标每有1层【白色印记】，造成的伤害提升20%。
+所有敌人的【黑色印记】层数总和不低于敌人数量时，费用减少1点并获得迅速。
+此技能击杀敌人时，将此技能的复制加入手牌，附带放逐且费用减1。",
+Skill/S_PD_Alina_4_Name,Text,,,Scars,,疮痍,
+Skill/S_PD_Alina_5_Description,Text,,,Ignores Defense.,,无视防御。,
+Skill/S_PD_Alina_5_Name,Text,,,Crescent Avalanche,,弦月雪崩,
+Skill/S_PD_Alina_6_Description,Text,,,,,,
+Skill/S_PD_Alina_6_Name,Text,,,White Night Omen,,白夜先兆,
+Skill/S_PD_Alina_7_Description,Text,,,"Gains &a Shield when entering countdown. 
+Protects allies during countdown. 
+If Shield breaks, activates immediately. 
+Each elapsed countdown increases damage by 5% and Critical Rate by 10%. 
+At ≥8 countdowns, applies 1 [Enraged!!] to all targets.",,"进入倒计时栏时获得&a点保护罩。
+倒计时期间保护其他友军。
+倒计时期间若自身没有保护罩则立即释放，释放时根据在倒计时栏经过的倒计时强化技能效果：
+每经过1倒计时，伤害提升5%，暴击率提升10%。
+经过的倒计时不小于8时，对所有目标施加1层【发怒！！】。",
+Skill/S_PD_Alina_7_Name,Text,,,Pure White Night,,纯白之夜,
+Skill/S_PD_Alina_8_Description,Text,,,Allies become immune to damage during countdown.,,倒计时期间友军免疫伤害。,
+Skill/S_PD_Alina_8_Name,Text,,,Rest,,安息,
+Skill/S_PD_Alina_9_Description,Text,,,Drawn at battle start.,,战斗开始时抽取。,
+Skill/S_PD_Alina_9_Name,Text,,,White Night Descent,,白夜降临,
+Skill/S_PD_Alina_m_Description,Text,,,,,,
+Skill/S_PD_Alina_m_Name,Text,,,,,,
+Skill/S_PD_Alina_p_Description,Text,,,,,,
+Skill/S_PD_Alina_p_Name,Text,,,,,,
+SkillExtended/Ex_PD_Alina_10_Des,Text,,,Deals &a additional damage.,,额外造成&a点伤害。,
+SkillExtended/Ex_PD_Alina_10_EnforceString,Text,,,,,,
+SkillExtended/Ex_PD_Alina_10_Name,Text,,,Retaliation,,报复,
+SkillExtended/Ex_PD_Alina_11_Des,Text,,,Deals &a additional damage.,,额外造成&a点伤害。,
+SkillExtended/Ex_PD_Alina_11_EnforceString,Text,,,,,,
+SkillExtended/Ex_PD_Alina_11_Name,Text,,,Retaliation,,报复,
+SkillExtended/SkillEn_PD_Adelion_0_Des,Text,,,,,,
+SkillExtended/SkillEn_PD_Adelion_0_EnforceString,Text,,,Single-target skills,,指向单个敌人的技能,
+SkillExtended/SkillEn_PD_Adelion_0_Name,Text,,,"Removes all [Black Mark] from target's allies and applies equal stacks to target. 
+Excess stacks restore Mana (up to this skill's cost).",,"解除目标的所有友军的【黑色印记】，对目标施加相同层数的【黑色印记】。
+此效果施加的【黑色印记】超过上限时，根据超出的层数恢复法力值(不超过此技能使用时的费用)。",
+SkillExtended/SkillEn_PD_Alina_0_Des,Text,,,,,,
+SkillExtended/SkillEn_PD_Alina_0_EnforceString,Text,,,Single-target skills,,指向单个敌人的技能,
+SkillExtended/SkillEn_PD_Alina_0_Name,Text,,,Applies [White Mark] to target's allies until their stacks match the target's.,,对目标所有其他友军施加【白色印记】直至层数不低于目标。,
+SkillKeyword/KeyWord_SF_0_Desc,Text,,,Select a skill to forget.,,选择一个技能遗忘,選擇一個技能遺忘
+SkillKeyword/KeyWord_SF_0_Name,Text,,,,,,
+

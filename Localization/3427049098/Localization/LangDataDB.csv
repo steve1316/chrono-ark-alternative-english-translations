@@ -1,0 +1,244 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Orchis_1_Description,Text,,,"Each time a Puppet card is played for the first time each turn, add two random Puppet cards with a level not exceeding the played card to your hand. 
+When taking damage exceeding 30% of max Healing Gauge, reduce duration by 1 turn.",,"每回合第一次打出人偶卡时，从等级不高于打出的人偶卡中随机将两张加入手牌。
+受到大于自身最大体力值30%的伤害时，持续时间减少一回合。",
+Buff/B_Orchis_1_Name,Text,,,String Puppet Master,,线偶大师,
+Buff/B_Orchis_2_Description,Text,,,"Each time a Puppet card is used, apply ""Puppet's Curse"" to a random enemy.",,每次使用人偶卡时，使随机敌人获得“人偶的诅咒”,
+Buff/B_Orchis_2_Name,Text,,,Ominous Puppeteer,,不祥的人偶师,
+Buff/B_Orchis_3_Description,Text,,,"Each time a Puppet card is used, restore 1 Mana (triggers up to X times per turn, where X equals the highest-level Puppet card played this turn). 
+Remaining triggers: &a",,"每次使用人偶卡时，回复1点法力值（每回合最多触发本回合已打出的最高级人偶的等级相等的次数）。
+本回合剩余可触发次数：&a",
+Buff/B_Orchis_3_Name,Text,,,Manipulator of Delights,,玩赏的操纵者,
+Buff/B_Orchis_4_Description,Text,,,"Each time a Puppet card is used, Overheal all allies by 1 stack.",,每次使用人偶卡时，超额恢复所有友方1点体力值。,
+Buff/B_Orchis_4_Name,Text,,,Puppet Repair,,人偶修复,
+Buff/B_Orchis_5_Description,Text,,,,,,
+Buff/B_Orchis_5_Name,Text,,,Armed Reinforcement,,武装强化,
+Buff/B_Orchis_7_Description,Text,,,"At turn start, add a random Puppet card with level ≤&a to your hand. 
+When stacked, increase the maximum level of obtainable Puppet cards by +1 per turn (cannot exceed 4).",,"回合开始时，随机将一张等级不大于&a的人偶卡加入手牌。
+重复获得此增益时，将每回合获得的人偶卡的等级上限+1.(不会超过4)",
+Buff/B_Orchis_7_Name,Text,,,Puppet Atelier,,人偶房,
+Buff/B_Orchis_Rare_1_Description,Text,,,"Whenever you perform synthesis, draw a skill.",,每当自己进行合成时，抽取一个技能,
+Buff/B_Orchis_Rare_1_Name,Text,,,Endless Puppets,,无尽的人偶,
+Buff/B_Orchis_Rare_2_Description,Text,,,"When attacking enemies with Puppet cards, deal additional &a damage (50% of Attack).",,自己使用人偶卡攻击敌人时，额外造成&a(攻击力50%)的伤害。,
+Buff/B_Orchis_Rare_2_Name,Text,,,Counterattacking Puppet,,反击的人偶,
+Buff/B_Orchis_puppet_lv2_1_Description,Text,,,"At turn start, add a ""Floral Puppet"" to your hand, then remove this status.",,回合开始时，将一张“花漾玩偶”加入手牌。随后解除此状态。,
+Buff/B_Orchis_puppet_lv2_1_Name,Text,,,Floral Puppet,,花漾玩偶,
+Buff/B_Orchis_puppet_lv4_2_Description,Text,,,"Absolute Defense. 
+Block one resisted debuff. 
+Lose 1 stack when attacked.",,"绝对防御
+防御一次抵抗失败的减益。
+受到攻击时减少一层",
+Buff/B_Orchis_puppet_lv4_2_Name,Text,,,Lloyd's Protection,,洛伊德的守护,
+Buff/B_Orchis_puppet_lv4_3_Description,Text,,,"When using an attack skill, attack the target again with the same multiplier. 
+Lose 1 stack per use.",,"释放攻击技能时，以相同的倍率对目标再次攻击。
+每次释放攻击技能时减少一层。",
+Buff/B_Orchis_puppet_lv4_3_Name,Text,,,Victoria's Assault,,维多利亚的突击,
+Buff/B_Orchis_puppet_lv6_2_Description,Text,,,"All Puppet cards gain Critical and Follow-up attack when played. 
+When removed, add Lv1~6 Puppet cards (one each) to your hand.",,"所有的人偶卡在打出时获得致命，追踪。
+被解除时，将等级1~6的人偶卡各一张加入手牌。",
+Buff/B_Orchis_puppet_lv6_2_Name,Text,,,Heartbound Puppet,,持心人偶,
+Buff/DB_Orchis_2_Description,Text,,,,,,
+Buff/DB_Orchis_2_Name,Text,,,Puppet's Curse,,人偶的诅咒,
+Buff/DB_Orchis_Puppet_lv3_4_Description,Text,,,"When attacking Investigators into Death's Door, add a ""Joker Card"" to your deck.",,攻击使调查员进入濒死状态时，向牌组中加入一张“小丑牌”。,
+Buff/DB_Orchis_Puppet_lv3_4_Name,Text,,,You're a Joker Too!,,你也是小丑！,
+Buff/DB_Orchis_puppet_lv6_3_Description,Text,,,"Damage dealt becomes 0. 
+Remove at turn end.",,"造成的伤害变为0
+回合结束时解除。",
+Buff/DB_Orchis_puppet_lv6_3_Name,Text,,,Lloyd's Restraint,,洛伊德的牵制,
+Character/Orchis_CampSelectWord,Text,,,I'm ready. So is Lloyd.,,我准备好了，洛伊德也一样。,
+Character/Orchis_PassiveDes,Text,,,"Orchis synthesizes adjacent Puppet cards of the same level into higher-level ones. At turn start, gain a Puppet card two levels lower than the highest played last turn (min Lv0, max Lv4). 
+
+When discarding Puppet cards via exchange: 
+Add a copy of the discarded card to your hand and gain swap charges (max swaps per turn = character level + 2). 
+Draw a skill. 
+Restore 1 Mana.",,"奥契丝在手牌中相同等级的人偶卡牌相邻时会将它们合成为一张更高级的人偶。
+每回合开始时，根据上回合打出的最高等级的人偶，获得一张低两级的人偶。（最低为Lv0，最高为Lv4）
+
+用交换丢弃人偶卡时，可以选择：
+将一张丢弃的人偶卡的同名技能加入手牌，随后获得一次交换次数（每回合最多因此获得的交换次数为该角色等级+2）
+抽取一个技能。
+回复1点法力值。",
+Character/Orchis_PassiveName,Text,,,Puppet Maiden,,人偶少女,
+Character/Orchis_SelectInfo,Text,,,"A self-aware puppet maiden commanding the combat golem Lloyd. 
+
+Orchis synthesizes low-tier Puppet cards into powerful skills, with buffs granting additional effects.",,"拥有自我意识的人偶少女，操纵着强大的战斗魔像洛伊德。
+
+奥契丝可以通过将低级的人偶卡合成获得更强大的技能，也可以通过增益使每张人偶卡获得额外的效果。",
+Character/Orchis_Text_Battle_AllyND_0,Text,,,Leave this to me for now.,,这边先交给我吧,
+Character/Orchis_Text_Battle_Cri_0,Text,,,"That's it, Lloyd!",,就是这样！洛伊德！,
+Character/Orchis_Text_Battle_Healed_0,Text,,,Thank you.,,谢谢,
+Character/Orchis_Text_Battle_Idle_0,Text,,,"With Lloyd's power, we won't lose.",,有洛伊德的力量，我们不会输,
+Character/Orchis_Text_Battle_Kill_0,Text,,,I showed mercy.,,我已经手下留情了,
+Character/Orchis_Text_Battle_ND_0,Text,,,Can still... stand...,,还能……站得起来……,
+Character/Orchis_Text_Battle_Start_0,Text,,,"Let's go, Lloyd.",,要上了，洛伊德,
+Character/Orchis_Text_Field_Idle_0,Text,,,The meaning of survival... I'll seize it myself.,,生存的意义……我要亲手掌握,
+Character/Orchis_Text_Field_Potion_P_0,Text,,,Does this work on me too?,,这个，对我也有效吗,
+Character/Orchis_Text_MasterTarget,Text,,,"This time, I'll protect you all.",,这次轮到我来守护你们了,
+Character/Orchis_Text_PharosLeader_0,Text,,,You won't take Lloyd!,,你们别想抢走洛伊德！,
+Character/Orchis_Text_PharosLeader_1,Text,,,I'm sorry.,,对不起,
+Character/Orchis_Text_PharosLeader_2,Text,,,,,,
+Character/Orchis_Text_Witch_0,Text,,,,,,
+Character/Orchis_Text_Witch_1,Text,,,,,,
+Character/Orchis_name,Text,,,Orchis,,奥契丝,
+Skill/S_Orchis_1_Description,Text,,,,,,
+Skill/S_Orchis_1_Name,Text,,,String Puppet Master,,线偶大师,
+Skill/S_Orchis_2_Buff_Name,Text,,,Buff Preview,,Buff预览,
+Skill/S_Orchis_2_Description,Text,,,"On play, add a random Puppet card (≤Lv2) to your hand.",,释放时，随机将一张等级不大于2的人偶卡加入手牌。,
+Skill/S_Orchis_2_Name,Text,,,Ominous Puppeteer,,不祥的人偶师,
+Skill/S_Orchis_3_Description,Text,,,"On play, add an <color=#FFFFFF>Improved String Puppet</color> to your hand.",,释放时，将一张<color=#FFFFFF>改良型·悬丝傀儡</color>加入手牌。,
+Skill/S_Orchis_3_Name,Text,,,Manipulator of Delights,,玩赏的操纵者,
+Skill/S_Orchis_4_Description,Text,,,"On play, add a <color=#ADD8E6>String Puppet</color> to your hand.",,释放时，将一张<color=#ADD8E6>悬丝傀儡</color>加入手牌。,
+Skill/S_Orchis_4_Name,Text,,,Gear Mage: Richter,,齿轮魔法师·里希特,
+Skill/S_Orchis_5_Description,Text,,,"Choose two skills to add: 
+- String Puppet 
+- Improved String Puppet 
+- Armed Reinforcement",,"从以下技能中选择两个加入手牌。
+-悬丝傀儡
+-改良型·悬丝傀儡
+-武装强化",
+Skill/S_Orchis_5_Name,Text,,,Artisan's Epiphany,,工匠的闪念,
+Skill/S_Orchis_5_token_Description,Text,,,"If targeting yourself, Exclude a Puppet card (≤Lv2) in hand to gain a +1 level Puppet card.",,若指向的目标为自身，可以选择手中一张不高于2级的人偶卡，将其放逐并获得一张等级+1的人偶卡,
+Skill/S_Orchis_5_token_Name,Text,,,Armed Reinforcement,,武装强化,
+Skill/S_Orchis_6_Description,Text,,,"Add one <color=#ADD8E6>String Puppet</color> and one <color=#FFFFFF>Improved String Puppet</color> to your hand. 
+If ≥1 Mana remains after play, spend 1 Mana to grant the added <color=#ADD8E6>String Puppet</color>: ""When played or Excluded, add an <color=#FFFFFF>Improved String Puppet</color>."" Grant the <color=#FFFFFF>Improved String Puppet</color>: ""When played or Excluded, add a <color=#ADD8E6>String Puppet</color>.""",,"将一张<color=#ADD8E6>悬丝傀儡</color>与一张<color=#FFFFFF>改良型·悬丝傀儡</color>加入手牌。
+若释放后剩余的法力值为1以上，消耗1点法力值，给予刚才加入手牌的<color=#ADD8E6>悬丝傀儡</color>：释放或被放逐时，将一张<color=#FFFFFF>改良型·悬丝傀儡</color>加入手牌。给予刚才加入手牌的<color=#FFFFFF>改良型·悬丝傀儡</color>：释放或被放逐时，将一张<color=#ADD8E6>悬丝傀儡</color>加入手牌。",
+Skill/S_Orchis_6_Name,Text,,,String Puppet Waltz,,线偶圆舞曲,
+Skill/S_Orchis_7_Description,Text,,,"On play, add a random Puppet card (≤Lv2) to your hand.",,释放时，随机将一张等级不大于2的人偶卡加入手牌。,
+Skill/S_Orchis_7_Name,Text,,,Puppet Atelier,,人偶房,
+Skill/S_Orchis_8_Description,Text,,,"Only target Puppet cards ≤Lv3. 
+Exclude the chosen card to add a +1 level Puppet card.",,"只能选择等级不超过3的人偶卡作为目标。
+放逐选中的技能，将一张其等级+1的人偶卡加入手牌。",
+Skill/S_Orchis_8_Name,Text,,,Modification Experiment,,改良实验,
+Skill/S_Orchis_9_Description,Text,,,"Repeat this skill based on the total level of Puppet cards in hand. 
+Current repeats: &a.",,"根据手中人偶卡的等级之和重复释放。
+当前重复释放次数：&a次。",
+Skill/S_Orchis_9_Name,Text,,,Puppet Blitz,,人偶的闪击,
+Skill/S_Orchis_Lucy_1_Description,Text,,,"Draw two skills. 
+Restore Mana equal to half the highest-level Puppet card in hand (rounded down).",,"抽取两个技能。
+根据手牌中最高等级的人偶卡等级的一半（向下取整），回复法力值。",
+Skill/S_Orchis_Lucy_1_Name,Text,,,Puppet Surgery,,人偶手术,
+Skill/S_Orchis_P_1_Description,Text,,,"Generate a copy of the discarded Puppet card (with ""Cannot Synthesize"" if original had it) at the bottom of your hand. 
+Gain 1 Exchange count (max &c per turn).",,"在手牌最下方生成一个与刚才丢弃的人偶卡同名的技能（若原技能携带无法合成，此技能也会携带无法合成）。
+获得一次交换次数（每回合只能触发角色等级+2次）
+本回合还可以触发&c次。",
+Skill/S_Orchis_P_1_Name,Text,,,Reposition,,调整位置,
+Skill/S_Orchis_P_2_Description,Text,,,Draw a skill.,,抽取一个技能,
+Skill/S_Orchis_P_2_Name,Text,,,Salvage,,废物利用,
+Skill/S_Orchis_P_3_Description,Text,,,Restore 1 Mana.,,回复1点法力值,
+Skill/S_Orchis_P_3_Name,Text,,,Part Recycling,,回收零件,
+Skill/S_Orchis_Puppet_lv0_1_Description,Text,,,<color=#ADD8E6>Puppet Card: Lv0</color>,,<color=#ADD8E6>人偶卡:Lv0</color>,
+Skill/S_Orchis_Puppet_lv0_1_Name,Text,,,<color=#ADD8E6>String Puppet</color>,,<color=#ADD8E6>悬丝傀儡</color>,
+Skill/S_Orchis_Puppet_lv1_1_Description,Text,,,<color=#FFFFFF>Puppet Card: Lv1</color>,,<color=#FFFFFF>人偶卡:Lv1</color>,
+Skill/S_Orchis_Puppet_lv1_1_Name,Text,,,<color=#FFFFFF>Improved String Puppet</color>,,<color=#FFFFFF>改良型·悬丝傀儡</color>,
+Skill/S_Orchis_Puppet_lv1_2_Description,Text,,,"<color=#FFFFFF>Puppet Card: Lv1</color> 
+When Excluded, add a <color=#ADD8E6>String Puppet</color> to your hand.",,"<color=#FFFFFF>人偶卡:Lv1</color>
+这个技能被放逐时，将一张<color=#ADD8E6>悬丝傀儡</color>加入手牌。",
+Skill/S_Orchis_Puppet_lv1_2_Name,Text,,,<color=#FFFFFF>Fairy Puppet</color>,,<color=#FFFFFF>妖精傀儡</color>,
+Skill/S_Orchis_Puppet_lv1_3_Description,Text,,,"<color=#FFFFFF>Puppet Card: Lv1</color> 
+Cannot be used. 
+At turn end, if in hand, deal &a damage (60% Attack) to a random enemy. 
+When Excluded, discard a random <color=#ADD8E6>String Puppet</color> to add an <color=#FFFFFF>Abused Puppet</color>.",,"<color=#FFFFFF>人偶卡:Lv1</color>
+无法使用。
+回合结束时，如果这个技能在手牌中，对随机敌人造成&a(60%攻击力)的伤害。
+这个技能被放逐时，若手中存在<color=#ADD8E6>悬丝傀儡</color>，将随机一张<color=#ADD8E6>悬丝傀儡</color>丢弃，将一张<color=#FFFFFF>虐待人偶</color>加入手牌。",
+Skill/S_Orchis_Puppet_lv1_3_Name,Text,,,<color=#FFFFFF>Abused Puppet</color>,,<color=#FFFFFF>虐待人偶</color>,
+Skill/S_Orchis_Puppet_lv2_1_Description,Text,,,<color=#32C932>Puppet Card: Lv2</color>,,<color=#32C932>人偶卡:Lv2</color>,
+Skill/S_Orchis_Puppet_lv2_1_Name,Text,,,<color=#32C932>Floral Puppet</color>,,<color=#32C932>花漾玩偶</color>,
+Skill/S_Orchis_Puppet_lv2_2_Description,Text,,,"<color=#32C932>Puppet Card: Lv2</color> 
+If already in hand, this card won't appear when gained. 
+After synthesis, add a <color=#ADD8E6>String Puppet</color>.",,"<color=#32C932>人偶卡:Lv2</color>
+如果手中已有该技能，获得人偶卡时将不会出现此技能。
+每当自己进行合成时，将一张<color=#ADD8E6>悬丝傀儡</color>加入手牌。",
+Skill/S_Orchis_Puppet_lv2_2_Name,Text,,,<color=#32C932>Puppet Angel: Mia</color>,,<color=#32C932>人偶天使·蜜亚</color>,
+Skill/S_Orchis_Puppet_lv2_3_Description,Text,,,"<color=#32C932>Puppet Card: Lv2</color> 
+On play, grant a random <color=#ADD8E6>String Puppet</color> in hand: ""When played or Excluded, add a 'Puppet Blooming in Garden'.""",,"<color=#32C932>人偶卡:Lv2</color>
+释放时，使手中随机一张<color=#ADD8E6>悬丝傀儡</color>获得：释放或被放逐时，将一张“于花园绽放的玩偶”加入手牌",
+Skill/S_Orchis_Puppet_lv2_3_Name,Text,,,<color=#32C932>Puppet Blooming in Garden</color>,,<color=#32C932>于花园绽放的玩偶</color>,
+Skill/S_Orchis_Puppet_lv2_4_Description,Text,,,"<color=#32C932>Puppet Card: Lv2</color> 
+On play, add an <color=#FFFFFF>Improved String Puppet</color>.",,"<color=#32C932>人偶卡:Lv2</color>
+释放时，将一张<color=#FFFFFF>改良型·悬丝傀儡</color>加入手牌。",
+Skill/S_Orchis_Puppet_lv2_4_Name,Text,,,<color=#32C932>Lyle's Puppet</color>,,<color=#32C932>莱尔的人偶</color>,
+Skill/S_Orchis_Puppet_lv3_1_Description,Text,,,"<color=#0068FF>Puppet Card: Lv3</color> 
+At turn end, if in hand, deal &a damage (110% Attack) to a random enemy.",,"<color=#0068FF>人偶卡:Lv3</color>
+回合结束时，如果这个技能在手牌中，对随机敌人造成&a(110%攻击力)的伤害。",
+Skill/S_Orchis_Puppet_lv3_1_Name,Text,,,<color=#0068FF>Marionette: Dancer</color>,,<color=#0068FF>提线傀儡·舞诺</color>,
+Skill/S_Orchis_Puppet_lv3_2_Description,Text,,,<color=#0068FF>Puppet Card: Lv3</color>,,<color=#0068FF>人偶卡:Lv3</color>,
+Skill/S_Orchis_Puppet_lv3_2_Name,Text,,,<color=#0068FF>Marionette: Leaf</color>,,<color=#0068FF>提线傀儡·朵叶</color>,
+Skill/S_Orchis_Puppet_lv3_3_Description,Text,,,"<color=#0068FF>Puppet Card: Lv3</color> 
+On play, grant three random skills in hand: ""On play, add a <color=#ADD8E6>String Puppet</color>.""",,"<color=#0068FF>人偶卡:Lv3</color>
+释放时，给予手中随机三个技能：释放时，将一张<color=#ADD8E6>悬丝傀儡</color>加入手牌。",
+Skill/S_Orchis_Puppet_lv3_3_Name,Text,,,<color=#0068FF>Colossal Puppet</color>,,<color=#0068FF>山宏巨偶</color>,
+Skill/S_Orchis_Puppet_lv3_4_Description,Text,,,"<color=#0068FF>Puppet Card: Lv3</color> 
+Also applies ""You're a Joker Too!"" (1 turn) to all other allies.",,"<color=#0068FF>人偶卡:Lv3</color>
+会同时向所有其他友方单位施加仅持续1回合的“你也是小丑！”。",
+Skill/S_Orchis_Puppet_lv3_4_Name,Text,,,<color=#0068FF>Joker Puppet</color>,,<color=#0068FF>小丑人偶</color>,
+Skill/S_Orchis_Puppet_lv4_1_Description,Text,,,"<color=#D881EF>Puppet Card: Lv4</color> 
+This skill and same-name skills can trigger only once per turn. On play, add a <color=#D881EF>Marionette: Tore</color> to your hand. 
+Usable: &a",,"<color=#D881EF>人偶卡:Lv4</color>
+此技能与同名技能每个回合仅有一次，释放后将一张<color=#D881EF>提线傀儡·托蕾</color>加入手牌
+当前是否能触发该效果：&a",
+Skill/S_Orchis_Puppet_lv4_1_Name,Text,,,<color=#D881EF>Marionette: Tore</color>,,<color=#D881EF>提线傀儡·托蕾</color>,
+Skill/S_Orchis_Puppet_lv4_2_Description,Text,,,<color=#D881EF>Puppet Card: Lv4</color>,,<color=#D881EF>人偶卡:Lv4</color>,
+Skill/S_Orchis_Puppet_lv4_2_Name,Text,,,<color=#D881EF>Lloyd</color>,,<color=#D881EF>洛伊德</color>,
+Skill/S_Orchis_Puppet_lv4_3_Description,Text,,,<color=#D881EF>Puppet Card: Lv4</color>,,<color=#D881EF>人偶卡:Lv4</color>,
+Skill/S_Orchis_Puppet_lv4_3_Name,Text,,,<color=#D881EF>Victoria</color>,,<color=#D881EF>维多利亚</color>,
+Skill/S_Orchis_Puppet_lv5_1_Description,Text,,,"<color=#FFA500>Puppet Card: Lv5</color> 
+On play, add a damage-doubled <color=#FF0000>Cannot Synthesize</color> <color=#D881EF>Victoria</color>.",,"<color=#FFA500>人偶卡:Lv5</color>
+释放时，将一张伤害翻倍且<color=#FF0000>无法合成</color>的<color=#D881EF>维多利亚</color>加入手牌。",
+Skill/S_Orchis_Puppet_lv5_1_Name,Text,,,<color=#FFA500>Slaughter Puppet: Jiawei</color>,,<color=#FFA500>屠戮人偶·枷薇</color>,
+Skill/S_Orchis_Puppet_lv5_2_Description,Text,,,"<color=#FFA500>Puppet Card: Lv5</color> 
+On play, add Lv0~3 Puppet cards (one each) and a <color=#FF0000>Cannot Synthesize</color> <color=#D881EF>Victoria</color>.",,"<color=#FFA500>人偶卡:Lv5</color>
+释放时，随机将等级0~3的人偶卡各一张加入手牌，随后将一张<color=#FF0000>无法合成</color>的<color=#D881EF>维多利亚</color>加入手牌。",
+Skill/S_Orchis_Puppet_lv5_2_Name,Text,,,<color=#FFA500>Echoing Heart: Jiawei</color>,,<color=#FFA500>回响之心·枷薇</color>,
+Skill/S_Orchis_Puppet_lv5_3_Description,Text,,,"<color=#FFA500>Puppet Card: Lv5</color> 
+On play, if holding <color=#ADD8E6>String Puppet</color>, randomly Exclude one and choose:
+- Add a <color=#FF0000>Cannot Synthesize</color> <color=#D881EF>Lloyd</color>  
+- Add a <color=#FF0000>Cannot Synthesize</color> <color=#D881EF>Marionette: Tore</color> (inherits <color=#FF0000>Cannot Synthesize</color>).  ",,"<color=#FFA500>人偶卡:Lv5</color>
+释放时，若手中存在<color=#ADD8E6>悬丝傀儡</color>，则随机放逐一张<color=#ADD8E6>悬丝傀儡</color>并选择执行其中一项效果
+-将一张<color=#FF0000>无法合成</color>的<color=#D881EF>洛伊德</color>加入手牌。
+-将一张<color=#FF0000>无法合成</color>的<color=#D881EF>提线傀儡·托蕾</color>加入手牌（此技能释放后获得的技能依然<color=#FF0000>无法合成</color>）。",
+Skill/S_Orchis_Puppet_lv5_3_Name,Text,,,Linked Heart: Orchis,,连结之心·奥契丝,
+Skill/S_Orchis_Puppet_lv5_4_Description,Text,,,"<color=#FFA500>Puppet Card: Lv5</color> On play, add one random Puppet card from each level 0~3 to your hand, then choose:
+- Gain 2 stacks of ""Lloyd's Protection"".
+- Add a <color=#0068FF>Marionette: Dancer</color> to your hand (if already present, add a <color=#0068FF>Marionette: Leaf</color> instead).",,"<color=#FFA500>人偶卡:Lv5</color>
+释放时，随机将等级0~3的人偶各一张加入手牌，随后选择以下其中一项效果发动
+-获得2层“洛伊德的守护”
+-将一张<color=#0068FF>提线傀儡·舞诺</color>加入手牌，若手牌中存在<color=#0068FF>提线傀儡·舞诺</color>，则改为将一张<color=#0068FF>提线傀儡·朵叶</color>加入手牌。",
+Skill/S_Orchis_Puppet_lv5_4_Name,Text,,,<color=#FFA500>Puppet Maiden: Orchis</color>,,<color=#FFA500>人偶少女·奥契丝</color>,
+Skill/S_Orchis_Puppet_lv6_1_Description,Text,,,"Not a Puppet card, but counts as a Lv5 Puppet when played. 
+Deal 20% damage to allies. 
+On play, add <color=#D881EF>Lloyd</color> or <color=#D881EF>Victoria</color>, then add two random Lv1~3 Puppet cards.",,"这个技能不视为人偶卡，但在打出时视为本回合使用了一张5级的人偶卡。
+对友方仅造成20%伤害。
+释放后，选择将一张<color=#D881EF>洛伊德</color>或一张<color=#D881EF>维多利亚</color>加入手牌。
+随后，从等级为1~3的人偶中随机两张加入手牌",
+Skill/S_Orchis_Puppet_lv6_1_Name,Text,,,Heartless Duel,,无心之斗,
+Skill/S_Orchis_Puppet_lv6_2_Description,Text,,,"<color=#FF2400>Puppet Card: Lv6</color> 
+On play, add an <color=#FF2400>Orchis' Puppet: Lloyd</color>.",,"<color=#FF2400>人偶卡:Lv6</color>
+释放时，将一张<color=#FF2400>奥契丝的人偶·洛伊德</color>加入手牌。",
+Skill/S_Orchis_Puppet_lv6_2_Name,Text,,,<color=#FF2400>Infinite World: Orchis</color>,,<color=#FF2400>无限世界·奥契丝</color>,
+Skill/S_Orchis_Puppet_lv6_3_Buff_Description,Text,,,,,,
+Skill/S_Orchis_Puppet_lv6_3_Buff_Name,Text,,,Buff Display,,Buff展示,
+Skill/S_Orchis_Puppet_lv6_3_Description,Text,,,"<color=#FF2400>Puppet Card: Lv6</color> 
+On play, apply ""Lloyd's Restraint"" to two random enemies.",,"<color=#FF2400>人偶卡:Lv6</color>
+释放后，使随机两个敌方单位获得“洛伊德的牵制”",
+Skill/S_Orchis_Puppet_lv6_3_Name,Text,,,<color=#FF2400>Orchis' Puppet: Lloyd</color>,,<color=#FF2400>奥契丝的人偶·洛伊德</color>,
+Skill/S_Orchis_Rare_1_Description,Text,,,"On play, add 30 <color=#ADD8E6>String Puppets</color> to your deck.",,释放时，将30张<color=#ADD8E6>悬丝傀儡</color>加入牌库。,
+Skill/S_Orchis_Rare_1_Name,Text,,,Endless Puppeteer,,无尽的人偶师,
+Skill/S_Orchis_Rare_2_Description,Text,,,"On play, add Puppet cards (one each below the highest-level used this battle).",,释放时，根据这场战斗中已使用的最高级的人偶卡的等级，将低于那个等级的人偶卡各一张加入手牌,
+Skill/S_Orchis_Rare_2_Name,Text,,,Counter Puppeteer: Noah,,反击的人偶师·诺亚,
+SkillExtended/CantLevelUp_Name,Text,,,This skill cannot be synthesized.,,这个技能无法被合成,
+SkillExtended/SE_Orchis_6_0_Name,Text,,,"When played or Excluded, add a <color=#ADD8E6>String Puppet</color>.",,释放或被放逐时，将一张<color=#ADD8E6>悬丝傀儡</color>加入手牌。,
+SkillExtended/SE_Orchis_6_1_Des,Text,,,,,,
+SkillExtended/SE_Orchis_6_1_Name,Text,,,"When played or Excluded, add an <color=#FFFFFF>Improved String Puppet</color>.",,释放或被放逐时，将一张<color=#FFFFFF>改良型·悬丝傀儡</color>加入手牌。,
+SkillExtended/SE_Orchis_Puppet_lv2_3_Des,Text,,,,,,
+SkillExtended/SE_Orchis_Puppet_lv2_3_Name,Text,,,"When played or Excluded, add a ""Puppet Blooming in Garden"".",,释放或被放逐时，将一张“于花园绽放的玩偶”加入手牌,
+SkillExtended/SE_Orchis_Puppet_lv3_3_Des,Text,,,,,,
+SkillExtended/SE_Orchis_Puppet_lv3_3_Name,Text,,,"On play, add a <color=#ADD8E6>String Puppet</color>.",,释放时，将一张<color=#ADD8E6>悬丝傀儡</color>加入手牌。,
+SkillExtended/SkillEn_Orchis_1_Des,Text,,,,,,
+SkillExtended/SkillEn_Orchis_1_EnforceString,Text,,,,,,
+SkillExtended/SkillEn_Orchis_1_Name,Text,,,"On play, counts as using a Puppet card equal to Mana spent.",,释放时，根据消耗的法力值，视为本回合使用了一张相同等级的人偶卡,
+SkillExtended/SkillEn_Orchis_2_Des,Text,,,,,,
+SkillExtended/SkillEn_Orchis_2_EnforceString,Text,,,,,,
+SkillExtended/SkillEn_Orchis_2_Name,Text,,,"On play, add a random Puppet card (level ≤ Mana spent, max Lv4).",,释放时，根据消耗的法力值，随机将一张等级不大于那个数值的人偶卡加入手牌(不会超过4级)。,
+,,,,,,,
+,,,,,,,

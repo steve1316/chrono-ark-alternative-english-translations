@@ -1,0 +1,119 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_awaken_yq_Description,Text,,,"Can use ""Lost Christmas"" when stacks are fully accumulated.",,叠满层数后可以使用“失落圣诞”。,
+Buff/B_awaken_yq_Name,Text,,,True Name Awakening,,真名觉醒,
+Buff/B_complete_crystall_Description,Text,,,Cannot act.,,无法行动,
+Buff/B_complete_crystall_Name,Text,,,Completely Crystallized,,完全晶化,
+Buff/B_crystall_Description,Text,,,"Each turn, suffer &a (5% of Yuzuriha's Max HP * stacks) Pain damage.
+At the end of the turn, if Crystallization stacks ≥5, become ""Completely Crystallized"".",,"每回合受到&a(5%楪祈最大生命值*层数）的痛苦伤害。
+回合结束时，若晶化层数≥5，则会使自身“完全晶化”。",
+Buff/B_crystall_Name,Text,,,Crystallization,,晶化,
+Buff/B_def_yq_Description,Text,,,,,,
+Buff/B_def_yq_Name,Text,,,Hardened Crystal Armor,,硬化晶甲,
+Buff/B_echo_Description,Text,,,,,,
+Buff/B_echo_Name,Text,,,Void Resonance,,空洞共鸣,
+Buff/B_help_yq_Description,Text,,,,,,
+Buff/B_help_yq_Name,Text,,,Cover,,掩护,
+Buff/B_lose_CH_Description,Text,,,Defense becomes negative.,,防御力变为原来的负数。,
+Buff/B_lose_CH_Name,Text,,,Purge,,肃清,
+Buff/B_myself_Name,Text,,,Ego Dark Armor,,本我黯甲,
+Buff/B_reflex_Description,Text,,,"When taking damage, deal &a (Barrier value) damage to the damage source.",,受到伤害时，对伤害源造成&a(保护罩值)点伤害。,
+Buff/B_reflex_Name,Text,,,Reflective Crystal Armor,,反射晶甲,
+Buff/B_robot_Description,Text,,,"Fyu-Neru deals an additional &b (20% of Yuzuriha's ATK) damage to the target after each attack.
+Only one Fyu-Neru can exist at a time.",,"飞那鲁会在每次攻击后对目标额外造成&b(20%楪祈攻击力)的伤害。
+同一时间只能存在一个飞那鲁。",
+Buff/B_robot_Name,Text,,,Fyu-Neru,,飞那鲁,
+Buff/B_shield_Description,Text,,,Gain +1 Barrier at the start of the turn.,,回合开始时+1保护罩,
+Buff/B_shield_Name,Text,,,Regenerative Crystal Armor,,再生晶甲,
+Buff/B_sword_owner_Description,Text,,,Wielder of the Void Greatsword.,,歌者闇剑的拥有者。,
+Buff/B_sword_owner_Name,Text,,,Void Greatsword,,歌者闇剑,
+Buff/B_void_Description,Text,,,,,,
+Buff/B_void_Name,Text,,,Void,,虚无,
+Buff/B_waterfall_yq_Description,Text,,,Gain 1 Mana at the start of the turn.,,回合开始时获得一点法力值。,
+Buff/B_waterfall_yq_Name,Text,,,Energy Crystal Armor,,聚能晶甲,
+Buff/B_yq_Name,Text,,,,,,
+Character/yeqi_CampSelectWord,Text,,,Can I stay by your side forever? I want to know about you... and everyone else...,,我可以一直待在你身边吗？因为我想知道你的事，还有大家的事，所以...,
+Character/yeqi_PassiveDes,Text,,,"Adds ""Void Greatsword"" to the inventory upon entering the first scene.
+The ""Void Greatsword"" strengthens as Yuzuriha levels up (active when equipped).",,"进入第一个场景时将“歌者闇剑”置入背包。
+“歌者闇剑”会随着楪祈等级的增加而强化（装备时生效）。",
+Character/yeqi_PassiveName,Text,,,Void: Greatsword,,虚空：巨剑Void,
+Character/yeqi_SelectInfo,Text,,,"A girl imbued with void energy, capable of manifesting mysterious crystalline structures. Her singing voice purifies souls. Beneath her calm exterior lies dormant power.
+
+Yuzuriha's void takes the form of a massive sword, enabling its wielder to surpass their limits. She excels at conjuring crystalline barriers to protect allies and hinder foes.",,"拥有虚空能量的少女，可以随意幻化出某种神秘而特殊的晶体，歌声能够净化人的心灵。平静的外表中似乎隐藏着某种可怕的力量。
+
+楪祈的虚空是一把威力巨大的巨剑，可以令持有者发挥出超越自身的力量。与此同时，楪祈擅长幻化各种形态的晶体保护队友和阻挡敌人。",
+Character/yeqi_Text_Battle_AllyND_0,Text,,,"Please, use me!",,拜托了，请使用我吧！,
+Character/yeqi_Text_Battle_Cri_0,Text,,,"I don't care if I'm a monster. Even with false emotions, I'll protect you.",,我是怪物也无所谓，就算是假的感情，我也要保护你。,
+Character/yeqi_Text_Battle_Healed_0,Text,,,Stay by my side... I'll always support you.,,要一直在我身边哦，因为我会永远支持你。,
+Character/yeqi_Text_Battle_Idle_0,Text,,,"Unlock it. Trying might work, but not trying guarantees failure.",,"解开它,试试的话也许能行,但是,不尝试的话就绝对办不到。",
+Character/yeqi_Text_Battle_Kill_0,Text,,,Those who harm others must be prepared to be harmed.,,伤害别人的人，就要有被伤害的觉悟。,
+Character/yeqi_Text_Battle_ND_0,Text,,,"It's okay... Someday, I'll...",,"没关系,总有一天我也会...",
+Character/yeqi_Text_Battle_ND_1,Text,,,Believe in yourself. You can do it—because I belong to you now.,,相信自己，绝对可以的，因为我已经是属于你的了。,
+Character/yeqi_Text_Battle_Start_0,Text,,,"I... don't want to kill anyone. So please, stay back.",,我尽可能的，不想杀人，所以，别过来。,
+Character/yeqi_Text_Field_Idle_0,Text,,,This is my new song. If you don't mind... would you listen?,,这个，是我的新歌，不介意的话，听听看吧。,
+Character/yeqi_Text_PharosLeader_0,Text,,,No... This song... it's wrong now.,,不对，这首歌，已经不对了。,
+Character/yeqi_Text_PharosLeader_1,Text,,,Am I... a monster?,,我是...怪物？,
+Character/yeqi_Text_PharosLeader_2,Text,,,I'm sorry... I don't know why...,,对不起，我不知道为什么...,
+Character/yeqi_Text_Witch_0,Text,,,Let me bear this pain for you.,,就让我来替你承受这份痛楚吧。,
+Character/yeqi_Text_Witch_1,Text,,,Let me bear this pain for you.,,就让我来替你承受这份痛楚吧。,
+Character/yeqi_name,Text,,,Yuzuriha Inori,,楪祈,
+Item_Equip/yeqi_Sword_Description,Text,,,"This equipment's stats scale with Yuzuriha's level.
+Using skills deals additional ""Sword Energy"" damage equal to 40% of ATK (once per turn).
+Reduces damage taken, with reduction scaling by Yuzuriha's level.",,"此装备属性会随着楪祈等级的增加而增加。
+使用技能时会额外对目标造成40%攻击力的“剑气”伤害（一回合触发一次）。
+受到伤害减少，减少量随着楪祈等级增加而增加。",
+Item_Equip/yeqi_Sword_name,Text,,,Void Greatsword,,歌者闇剑,
+Skill/S_Lucy_yq_Description,Text,,,Draw two skills.,,抽两个技能。,
+Skill/S_Lucy_yq_Name,Text,,,Funeral Parlor,,葬仪社,
+Skill/S_echo_Description,Text,,,"Cast twice. Additional cast once on the ""Void Greatsword"" wielder.",,释放2次，额外对“歌者闇剑”持有者释放1次。,
+Skill/S_echo_Name,Text,,,Echoing Void,,幽闭共鸣,
+Skill/S_lock_Description,Text,,,"Add 1 stack of ""Void Resonance"" to the ""Void Greatsword"".
+If lacking ""Hardened Crystal Armor"", gain 1 stack of it.
+Generate &a (50% of Yuzuriha's missing HP) Barrier.",,"为“歌者闇剑”额外叠加一层“空洞共鸣”。
+若自身没有“硬化晶甲”，则额外叠加一层“硬化晶甲”。
+生成&a(50%楪祈已损失生命值）点防护墙。",
+Skill/S_lock_Name,Text,,,Void Awakening,,虚空唤醒,
+Skill/S_lose_CH_Description,Text,,,"Cost -10 when ""True Name Awakening"" reaches max stacks.",,"当“真名觉醒”层数达到满层时费用-10。
+",
+Skill/S_lose_CH_Name,Text,,,Lost Christmas,,失落圣诞,
+Skill/S_myself_yq_Description,Text,,,Generate &a (60% of Max HP) Barrier.,,生成&a(60%最大生命值)点防护墙。,
+Skill/S_myself_yq_Name,Text,,,Ego Dark Armor,,本我黯甲,
+Skill/S_reflex_Description,Text,,,"Deal &a additional instances (equal to number of enemies) of &b (10% of ATK) damage.
+Grant the ""Void Greatsword"" wielder 1 stack of ""Reflective Crystal Armor"".
+If under ""True Name Awakening"", generate &c (30% of Max HP) Barrier.",,"额外造成&a次(敌人数量)&b(自身10%攻击力)点伤害。
+额外为“歌者闇剑”拥有者叠加一层“反射晶甲”。
+若自身带有“真名觉醒”效果，则生成&c(30%最大生命值)点防护墙。",
+Skill/S_reflex_Name,Text,,,Crystal Boundary Reflection,,晶界反射,
+Skill/S_robot_Description,Text,,,Yuzuriha summons Fyu-Neru to assist an ally.,,"楪祈召唤飞那鲁辅助指定友方作战。
+",
+Skill/S_robot_Name,Text,,,Summon Fyu-Neru,,呼唤飞那鲁,
+Skill/S_shot_yq_Description,Text,,,"Generate &a (20% of Yuzuriha's ATK) Barrier.
+Grant all allies 1 stack of ""Cover"".",,"生成&a(20%楪祈攻击力）点防护墙。
+给予所有友方一层“掩护”效果。",
+Skill/S_shot_yq_Name,Text,,,Covering Fire,,掩护射击,
+Skill/S_song_yq_Description,Text,,,"Remove all debuffs from allies.
+Heal all allies for &a (20% of user's Max HP).",,"解除所有友方所有减益效果。
+恢复所有友方&a(20%使用者最大生命值）点生命。",
+Skill/S_song_yq_Name,Text,,,Void Requiem,,虚空挽歌,
+Skill/S_virus_Description,Text,,,"Generate &a (20% of Max HP) Barrier.
+Grant the ""Void Greatsword"" wielder 1 stack of ""Regenerative Crystal Armor"".",,"生成&a(20%最大生命值)点防护墙。
+为“歌者闇剑”的持有者额外添加一层“再生晶甲”。",
+Skill/S_virus_Name,Text,,,Apocalypse Virus,,默示录病毒,
+Skill/S_waterfall_yq_Description,Text,,,"Remove all skill Overload.
+Generate Barrier equal to remaining Mana (3 Barrier per 1 Mana).
+Grant the ""Void Greatsword"" wielder 1 stack of ""Energy Crystal Armor"".",,"消除所有技能过载。
+根据剩余法力值生成相应数值的防护墙。（每1点法力值生成3点防护墙）。
+额外给予“歌者闇剑”拥有者一层“聚能晶甲”。",
+Skill/S_waterfall_yq_Name,Text,,,High-Energy Crystal Cascade,,高能晶瀑,
+Skill/S_weapon_Description,Text,,,"Add 2 stacks of ""Void Resonance"" to the ""Void Greatsword"" wielder.
+The ""Void Greatsword"" wielder performs 3 ""Sword Energy"" attacks on the target.",,"为“歌者闇剑”拥有者额外叠加2层“空洞共鸣”。
+令“歌者闇剑”拥有者对目标造成3次“剑气”攻击。
+",
+Skill/S_weapon_Name,Text,,,Divine Resonance,,神器共振,
+Skill/S_xuwu_Description,Text,,,"Apply 1 stack of ""Void Resonance"" to self and the ""Void Greatsword"" wielder.
+Generate &a (40% of Yuzuriha's current HP) Barrier.",,"为自身与“歌者闇剑”拥有者叠加一层“空洞共鸣”。
+生成&a(40%楪祈剩余生命值)点防护墙。",
+Skill/S_xuwu_Name,Text,,,Void Sigil,,虚无刻印,
+SkillExtended/SK_yq_Des,Text,,,,,,
+SkillExtended/SK_yq_EnforceString,Text,,,,,,
+SkillExtended/SK_yq_Name,Text,,,"If wielding the ""Void Greatsword"", gain 2 stacks of ""Hardened Crystal Armor"".",,若持有“歌者闇剑”，则为自身叠加两层“硬化晶甲”。,
+

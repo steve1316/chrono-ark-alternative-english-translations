@@ -1,0 +1,259 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Kiseki/ModTitle,Text,,【CN/EN/KR/JP】섬의 궤적 시리즈,【CN/EN/KR/JP】Trails of Cold Steel Series,【CN/EN/KR/JP】閃の軌跡シリーズ,【CN/EN/KR/JP】闪之轨迹系列,【CN/EN/KR/JP】閃之軌跡系列
+Kiseki/ModDescription,Text,,"신규 캐릭터:
+
+Altina Orion
+
+등장작: 영웅전설: 반짝의 궤적 시리즈
+
+일반 스킬 8개 추가 + 희귀 스킬 2개 추가 + 루시 스킬 1개 추가 + 스킬 강화 1개 추가 + 배우지 못하는 생성 S 스킬 2개 추가
+
+Rean Schwarzer
+
+등장작: 영웅전설: 반짝의 궤적 시리즈
+
+일반 스킬 8개 추가 + 희귀 스킬 2개 추가 + 루시 스킬 1개 추가 + 스킬 강화 1개 추가 + 배우지 못하는 생성 S 스킬 2개 추가
+
+신규 장비:
+
+전설적인 장비 1개
+
+출처 자료:
+
+팔콤 위키
+게임 내 음성
+게임 내 스크린샷 등 + AI 생성 이미지
+
+저작권 침해 시 즉시 변경될 것입니다.","New Characters:
+
+Altina Orion
+
+Appearance: The Legend of Heroes: Trails of Cold Steel Series
+
+Adds 8 Normal Skills + 2 Rare Skills + 1 Lucy Skill + 1 Skill Enhancement + 2 Unlearnable Generated S Skills
+
+Rean Schwarzer
+
+Appearance: The Legend of Heroes: Trails of Cold Steel Series
+
+Adds 8 Normal Skills + 2 Rare Skills + 1 Lucy Skill + 1 Skill Enhancement + 2 Unlearnable Generated S Skills
+
+New Equipment:
+
+1 Legendary Equipment
+
+Source Materials:
+
+Falcom Wiki
+In-Game Voice Lines
+In-Game Screenshots + AI-Generated Images
+
+Will be changed immediately in case of copyright infringement.","新しいキャラクター：
+
+アルティナ・オライオン (Altina Orion)
+
+登場作品：英雄伝説 閃の軌跡
+
+通常スキル8個 + レアスキル2個 + ルーシィスキル1個 + スキル強化1個 + 学習不能の生成Sスキル2個を追加
+
+リィン・シュバルツァー (Rean Schwarzer)
+
+登場作品：英雄伝説 閃の軌跡
+
+通常スキル8個 + レアスキル2個 + ルーシィスキル1個 + スキル強化1個 + 学習不能の生成Sスキル2個を追加
+
+新しい装備：
+
+伝説の装備1つ
+
+素材の出所：
+
+Falcom Wiki
+ゲーム内音声
+ゲーム内スクリーンショットなど + AI生成の画像
+
+著作権侵害があれば、即座に変更されます。","新增角色：
+
+阿尔缇娜 Altina Orion
+
+登场作品：英雄传说：闪之轨迹
+
+新增8个普通技能 + 2个稀有技能 + 1个露西技能 + 1个技能强化 + 2个不可学习的生成S技能
+
+黎恩 Rean Schwarzer
+
+登场作品：英雄传说：闪之轨迹
+
+新增8个普通技能 + 2个稀有技能 + 1个露西技能 + 1个技能强化 + 2个不可学习的生成S技能
+
+新增装备：
+
+1件传说装备
+
+素材来源：
+
+Falcom Wiki
+游戏内语音
+游戏内截图等 + AI生成的图
+如有侵权立即更改。","阿爾緹娜 Altina Orion
+
+登場作品：英雄傳說：閃之軌跡
+
+新增8個普通技能 + 2個稀有技能 + 1個露西技能 + 1個技能強化 + 2個不可學習的生成S技能
+
+黎恩 Rean Schwarzer
+
+登場作品：英雄傳說：閃之軌跡
+
+新增8個普通技能 + 2個稀有技能 + 1個露西技能 + 1個技能強化 + 2個不可學習的生成S技能
+
+新增裝備：
+
+1件傳說裝備
+
+素材來源：
+
+Falcom Wiki
+遊戲內語音
+遊戲內截圖等 + AI生成的圖像
+如有侵權立即更改。"
+Kiseki/Common/Keyword/BreakValue_Name,Text,,값을 깨다,Break Gauge,値を壊す,打破值,打破值
+Kiseki/Common/Keyword/BreakValue_Desc,Text,,값이 100 이상인 경우 모든 포인트를 소모하여 어지러움 (100%)을 일으킵니다. 마지막 공격자의 확률 보너스가 적용됩니다.,"When Break Gauge reaches 100, consume all points to inflict Stun (100%), affected by the last attacker's probability bonus.",値が100以上の場合、すべてのポイントを消費してめまい（100%）を引き起こし、最後の攻撃者の確率ボーナスが適用されます。,打破值满100后消耗全部点数造成眩晕（100%），受最后攻击者的概率加成。,当值达到100以上时，消耗所有点数，造成眩晕（100%），并根据最后攻击者的概率奖励。
+Kiseki/Common/Buff/BreakValue_Desc,Text,,값 부수기: &a,Break Gauge: &a,値を破壊する: &a,打破值：&a,打破值：&a
+Kiseki/Common/Keyword/Unbalance_Name,Text,,불균형,Unbalance,不均衡,失衡,失衡
+Kiseki/Common/Keyword/Unbalance_Desc,Text,,불균형 상태가 파괴 값에 의해 1.5배로 증가합니다. ,Unbalanced targets receive 1.5x Break Gauge damage.,不均衡状態は壊れた値によって1.5倍になります。,失衡状态受到打破值变为1.5倍。,失衡状态受到打破值增加至1.5倍。
+Kiseki/Common/Keyword/SpeedUp_Name,Text,,가속도,Speed Gauge,加速度,加速值,加速值
+Kiseki/Common/Keyword/SpeedUp_Desc,Text,,"가속도가 100 이상일 때 100 포인트를 소모하여 해당 캐릭터의 하나의 기술을 덱에서(없으면 패를 버림에서) 얻으며 획득합니다 (사용 후 동일한 양의 AP를 회복하고, 최대 3 포인트까지) 그리고 신속을 얻습니다.","When Speed Gauge reaches 100, consume 100 points to draw a skill from the deck (or discard pile if empty) belonging to the corresponding character. The skill gains ""Restore Mana equal to its cost upon use (max 3)"" and grants Swiftness.",加速度が100以上になったら、100ポイントを消費し、対応するキャラクターのスキル1つをデッキから（なければ捨て札から）取得し、取得します（使用後、同じ量のAPを回復し、最大3ポイントまで）。そして、迅速を取得します。,"加速值满100后消耗100点从牌库（没有则从弃牌堆）中获得对应角色的一个技能并使获得(使用后回复等量消耗AP,最多3点)且获得迅速。","加速值达到100后，消耗100点从卡组（如果没有则从弃牌堆）中获得相应角色的一个技能，并获得它（使用后回复相同数量的AP，最多3点）。同时获得""迅速""效果。"
+Kiseki/Common/Buff/SpeedUp_Name,Text,,시간 가속 ,Time Acceleration,時間加速 ,时间加速,時間加速
+Kiseki/Common/Buff/SpeedUp_Desc,Text,,가속도: &a,Speed Gauge: &a,加速度: &a,加速值：&a,加速值：&a
+Kiseki/Common/Buff/SpeedUp_Desc_Ext,Text,,"(사용 후 동일한 양의 AP를 회복하고, 최대 3 포인트까지)","(Restores Mana equal to the skill's cost upon use, up to 3)",（使用後、同じ量のAPを回復し、最大3ポイントまで）,"(使用后回复等量消耗AP,最多3点)",（使用后回復相同數量的AP，最多3點）
+Kiseki/Rean/Character/Name,Text,,리엔,Rean,黎恩,黎恩,黎恩
+Kiseki/Rean/Character/PassiveName,Text,,전술 지원 시스템,Tactical Support System,戦術支援システム ,战术支援系统,戰術支援系統
+Kiseki/Rean/Character/Text_Battle_Idle,Text,,지금은 산만할 때가 아니에요!,This is no time to be distracted!,今、気を散らす時ではありません！,现在可不是分心的时候！,現在可不是分心的時候！
+Kiseki/Rean/Character/Text_Battle_ND,Text,,아직 싸울 수 있어요! ,I can still fight!,まだ戦えます！ ,还可以战斗！,還可以戰鬥！
+Kiseki/Rean/Character/Text_Battle_AllyND,Text,,모두 어떻게 지내요? ,How is everyone holding up?,みんな、どうしてる？,大家情况怎么样？,大家情況怎麼樣？
+Kiseki/Rean/Character/Text_Battle_Start,Text,,다가오세요! ,Bring it on!,馬をこちらに来て！,放马过来吧！,放馬過來吧！
+Kiseki/Rean/Character/Text_Battle_Kill,Text,,다음 것을 해결하러 가보자. ,Let’s move on to the next one.,次のものを解決しに行こう。,去解决下一个吧。,去解決下一個吧。
+Kiseki/Rean/Character/Text_Battle_Cri,Text,,이렇게 끝이에요!,This is the end!,これで終わりだ！,这样就结束了！,這樣就結束了！
+Kiseki/Rean/Character/Text_Battle_Healed,Text,,구해졌어요! ,We’re saved!,助かったね！,得救了呢！,得救了呢！
+Kiseki/Rean/Character/Text_Field_Idle,Text,,모두 잠시 쉬어요.,"Let’s take a short break, everyone.",みんな、ちょっと休もう。,大家休息一会吧。,大家休息一會吧。
+Kiseki/Rean/Character/Text_Field_GetItem,Text,,희귀 아이템을 얻었어요! ,We got a rare item!,レアアイテムを手に入れましたね！ ,获得稀有道具了呢！,獲得稀有道具了呢！
+Kiseki/Rean/Character/PassiveDes,Text,,"AP를 소비하고 피해를 받을 때 CP가 증가합니다(연결 상태 지원도 얻을 수 있음). CP가 100 이상이면 S 기술을 사용할 수 있으며, 200 CP일 때 피해가 1.5배로 증가합니다.","Gains CP when spending Mana or taking damage (also applies to linked allies). At 100+ CP, S-Crafts become usable. At 200 CP, damage is increased by 1.5x.",APを消費し、ダメージを受けるとCPが増加します（接続状態サポートも得られます）。CPが100以上の場合、Sスキルを使用でき、200 CPのときにダメージが1.5倍に増加します。,"花费AP和受到伤害时增加CP(连接状态支援也可获得)，CP大于100时可使用S技能,200CP时使用伤害变为1.5倍。",消耗AP和承受伤害时增加CP（也可以从连接支持中获得），当CP大于100时，您可以使用S技能，而在200 CP时，伤害增加到1.5倍。
+Kiseki/Rean/Character/SelectInfo,Text,,,"Rean Schwarzer, a tachi-wielding swordsman with a straightforward and sociable personality. Adopted son of Baron Schwarzer, a noble from the northern part of the Empire, Rean once struggled with his past and identity but eventually embraced his role as the eldest son of the Schwarzer family. Trained in the Eight Leaves One Blade style by Yun Ka-fai, the ""Sword Hermit"", Rean reached the beginner level by the age of 17. He harbors fear toward the ""special power"" hidden within him. Later, during a battle to save his sister in the old schoolhouse and a fight with Laura’s father, he displayed overwhelming strength. Cased on Yun Ka-fai’s request, Cassius Bright later awarded Rean the [Intermediate] rank. After a sparring match with Cassius, who simulated Rean’s inner demons through his swordsmanship, Rean emerged victorious and officially earned the Intermediate rank, as well as the title of [Sword Saint].",,黎恩·舒华泽，使用太刀作为武器，性格耿直且善于交际。帝国北方贵族舒华泽男爵的养子，曾经对自己的过去与养子的身份非常介意，为了寻找新的“道路”而决定进入士官学院就读。最后已经释然并且肯定了自己舒华泽家长子的身份。曾与“剑仙”云·卡法伊相遇并学习八叶一刀流，年仅17岁就达到了初传水准。对体内潜藏着的“特殊力量”怀有恐惧。之后在旧校舍救自己的妹妹时和与劳拉的父亲一战中，展现出截然不同的强势力量。 后卡西乌斯因云·卡法伊之托，代其授予黎恩【奥传】。后黎恩与执剑的卡西乌斯切磋，卡西乌斯以自身剑技模拟黎恩心魔，黎恩取得胜利后，正式获得奥传资格。并获得自称【剑圣】的资格。,
+Kiseki/Rean/Skill/S_Rean_0_Name,Text,,전술 연결,Tactical Link,戦術リンク,战术链接,戰術連結
+Kiseki/Rean/Skill/S_Rean_0_Desc,Text,,"다른 캐릭터에 대한 전술 연결을 설정하며, 동시에 양측의 공격력을 약간 증가시킵니다.","Establish a Tactical Link with an ally, slightly increasing both parties' attack.",他のキャラクターに対して戦術リンクを確立し、同時に両者の攻撃力をわずかに増加させます。,对一名其他角色建立战术链接，同时增加双方少量攻击力。,對一名其他角色建立戰術連結，同時增加雙方少量攻擊力。
+Kiseki/Rean/Skill/S_Rean_1_Name,Text,,열·붉은 하늘 베기,Scarlet Sky Slash,烈·緋空斬,烈·绯空斩,烈·緋空斬
+Kiseki/Rean/Skill/S_Rean_1_Desc,Text,,"불타오르는 붉은 하늘 베기, 옆에 있는 적에게도 불을 붙인 호도적인 곡선 공격을 발동합니다. (양쪽 적을 동시에 공격합니다)(파괴 10)",A blazing arc of flame that strikes adjacent enemies. (Break Gauge 10),燃える赤い空の斬撃、両側の敵にも炎を纏わせた弧状の攻撃を繰り出します。(両側の敵を同時に攻撃します)(破壊 10),炽烈的绯空斩，使出附带业火的弧状斩击。(同时攻击两边的敌人)(打破10),熾烈的緋空斬，使出附帶業火的弧狀斬擊。(同時攻擊兩邊的敵人)(打破 10)
+Kiseki/Rean/Skill/S_Rean_1_Name2,Text,,극·붉은 하늘 베기,Ultimate Scarlet Sky Slash,極·緋空斬,极·绯空斩,極·緋空斬
+Kiseki/Rean/Skill/S_Rean_1_Desc2,Text,,"붉은 연꽃 불꽃을 두른 베기를 휘둘러, 엄청난 극의 붉은 하늘 베기를 사용합니다. (양쪽 적을 동시에 공격합니다)(파괴 20)",A searing crimson slash engulfed in scarlet flames. Strikes adjacent enemies. (Break Gauge 20),紅蓮の烈火をまとった斬撃を放ち、凄絶極まる赤い空斬りを発動します。(両側の敵を同時に攻撃します)(破壊 20),发出缠绕红莲烈火的斩击，猛烈至极的绯空斩。(同时攻击两边的敌人)(打破20),發出纏繞紅蓮烈火的斬擊，兇猛至極的緋空斬。(同時攻擊兩邊的敵人)(打破 20)
+Kiseki/Rean/Buff/B_Rean_1_Name,Text,,화상,Burn,火傷,炎伤,炎傷
+Kiseki/Rean/Skill/S_Rean_2_Name,Text,,열·무월일도,Moonless Slash,烈·無月一刀,烈·无月一刀,烈·無月一刀
+Kiseki/Rean/Skill/S_Rean_2_Desc,Text,,"한 순간에 최고로 날카로운 칼날로 적을 가르며, 양쪽 적을 동시에 공격합니다. (파괴 20)",A razor-sharp slash that cleaves enemies in an instant. Strikes adjacent enemies. (Break Gauge 20),瞬時に極めて鋭利な刃で敵を切り裂き、両側の敵を同時に攻撃します。(破壊 20),以极尽锋利的利刃在刹那间劈裂敌人。(同时攻击两边的敌人)(打破20),以極盡鋒利的利刃在剎那間劈裂敵人。(同時攻擊兩邊的敵人)(打破 20)
+Kiseki/Rean/Skill/S_Rean_2_Name2,Text,,극·무월일도,Ultimate Moonless Slash,極·無月一刀,极·无月一刀,極·無月一刀
+Kiseki/Rean/Skill/S_Rean_2_Desc2,Text,,"모든 방해자를 파멸로 인도하며, 어둠 속에서 예민하고 날카로운 일격을 가합니다. (양쪽 적을 동시에 공격합니다)(파괴 30)","A decisive blade of annihilation, sharp enough to sever all obstacles. Strikes adjacent enemies. (Break Gauge 30)",すべての妨害者を滅びに導き、闇夜で鋭敏で鋭い一撃を放ちます。(両側の敵を同時に攻撃します)(破壊 30),将所有阻挡者带往毁灭，黑夜里敏锐锋利的一刀。(同时攻击两边的敌人)(打破30),����������ߎ������磬��ҹ�e���J�h����һ����(ͬ�r�����߅�Ĕ���)(���� 30)
+Kiseki/Rean/Buff/B_Rean_2_Name,Text,,무월일도,Moonless Slash,無月一刀,无月一刀,無月一刀
+Kiseki/Rean/Skill/S_Rean_3_Name,Text,,열·리 바람,Gale Slash,烈·里疾風,烈·里疾风,烈·里疾風
+Kiseki/Rean/Skill/S_Rean_3_Desc,Text,,"신바람 같은 속도로 베기를 휘둘러, 여운처럼 2번 공격합니다. (지연 1)",A whirlwind of slashes that assaults enemies twice. (Delay 1),神風のような速さで斬撃を繰り出し、激浪のように2回攻撃します。(遅延 1),以神风般的速度使出斩击，有如怒涛般攻击2次。(延迟1),以神風般的速度發出斬擊，如同狂濤般攻擊2次。(延遲 1)
+Kiseki/Rean/Skill/S_Rean_3_Name2,Text,,극·리 바람,Ultimate Gale Slash,極·里疾風,极·里疾风,極·里疾風
+Kiseki/Rean/Skill/S_Rean_3_Desc2,Text,,"최고 속도로 적을 베어, 바람처럼 화려한 2번의 공격을 합니다. (지연 2)",A flurry of strikes delivered at blinding speed. Attacks twice. (Delay 2),極限の速さで敵を斬り、風雨のように2回攻撃します。(遅延 2),以达到极限的速度斩击敌人，疾风怒涛般的2次攻击。(延迟2),以極限速度砍向敵人，如疾風怒濤般進行2次攻擊。(延遲 2)
+Kiseki/Rean/Skill/S_Rean_4_Name,Text,,열·나선 공격,Spiral Strike,烈·螺旋擊,烈·螺旋击,烈·螺旋擊
+Kiseki/Rean/Skill/S_Rean_4_Desc,Text,,"타오르는 업화 충격파를 방출하며, 여러 번 나선 베기를 시전하여 대상을 불안정하게 만듭니다. (파괴 30)",A spiraling wave of blazing slashes that destabilizes the target. (Break Gauge 30),燃え上がる業火の衝撃波を放ち、複数回の螺旋斬撃を繰り出し、目標を失衡させます。(破壊 30),发出熊熊燃烧的业火冲击波，施展多次螺旋斩击，使目标失衡。（打破30）,發出熊熊燃燒的業火衝擊波，施展多次螺旋斬擊，使目標失衡。（打破 30）
+Kiseki/Rean/Skill/S_Rean_4_Name2,Text,,극·나선 공격,Ultimate Spiral Strike,極·螺旋擊,极·螺旋击,極·螺旋擊
+Kiseki/Rean/Skill/S_Rean_4_Desc2,Text,,"연속으로 얽힌 자홍불길의 베기를 내놓는 나선 공격, 대상을 불안정하게 만듭니다. (파괴 60)",An unrelenting spiral of violet flames that overwhelms the target. (Break Gauge 60),絶え間なく紫赤い猛火の斬撃を繰り出す螺旋打撃、目標を失衡させます。(破壊 60),毫无间断地发动缠绕紫红猛火之斩击的螺旋击，使目标失衡。（打破60）,毫無間斷地發動纏繞紫紅猛火之斬擊的螺旋擊，使目標失衡。（打破 60）
+Kiseki/Rean/Skill/S_Rean_5_Name,Text,,시간 주도,Time Drive,タイムドライブ ,时间驱动,時間驅動
+Kiseki/Rean/Skill/S_Rean_5_Desc,Text,,"즉시 50 포인트의 가속도를 획득하며, 매 라운드 시작 시 아군 전체에게 25 포인트의 가속도를 추가하고, 사용 시 카드 교환 기회 1회를 얻습니다.",Immediately gain 50 Speed Gauge. Allies gain 25 Speed Gauge at the start of each turn. Grants 1 Exchange upon use.,即座に50ポイントの加速値を獲得し、毎ラウンド開始時に味方全体に25ポイントの加速値を追加し、使用時にカード交換の機会を1回得ます。,"立刻获得50点加速值,每回合开始增加友方全体25点加速值,释放时获得1次换牌次数。",立刻获得50点加速值，每回合开始增加友方全体25点加速值，释放时获得1次换牌次数。
+Kiseki/Rean/Buff/B_Rean_5_Desc,Text,,매 라운드 시작 시 25 포인트의 가속도를 회복합니다.,Restores 25 Speed Gauge at the start of each turn,毎ラウンドの開始時に25ポイントの加速値を回復します。,每回合开始回复25点加速值,每回合开始回复25点加速值。
+Kiseki/Rean/Skill/S_Rean_6_Name,Text,,시간 폭발,Time Burst,タイムバースト,时间爆发,時間爆發
+Kiseki/Rean/Skill/S_Rean_6_Desc,Text,,"200 포인트의 가속도를 획득하며, 사용 시 카드 교환 기회 2회를 얻습니다.",Gain 200 Speed Gauge. Grants 2 Exchanges upon use.,200ポイントの加速値を獲得し、使用時にカード交換の機会を2回得ます。,"获得200点加速值,释放时获得2次换牌次数。",获得200点加速值，释放时获得2次换牌次数。
+Kiseki/Rean/Skill/S_Rean_7_Name,Text,,칠의 태도·갈래잎,7th Slash - Falling Leaf,七の太刀·刻葉,七之太刀·刻叶,七之太刀·刻葉
+Kiseki/Rean/Skill/S_Rean_7_Desc,Text,,"낙엽이 떨어지는 순간 사이, 최고로 날카로운 베기로 적과 전장을 함께 파편으로 찢어냅니다.","In the moment a leaf falls, unleash an extremely sharp slash that tears both the enemy and the battlefield into fragments.",葉片が舞い落ちる瞬間、極めて鋭利な斬撃で敵と戦場を一緒に砕きます。,在叶片飘落的刹那之间，以极尽锋利的斩击将敌人连同战场一起割裂成碎片。,在葉片飄落的剎那之間，以極盡鋒利的斬擊將敵人連同戰場一起割裂成碎片。
+Kiseki/Rean/Skill/S_Rean_8_Name,Text,,진·무예검,True Blade of Nothingness,真·無仞剣,真·无仞剑,真·無仞劍 
+Kiseki/Rean/Skill/S_Rean_8_Desc,Text,,"기술을 깊이 연구한 검성만이 시전할 수 있으며, 팔잎의 정수를 상징하는 한 베기입니다. (파괴 10)","A master stroke symbolizing the pinnacle of the Eight Leaves, achievable only by a Divine Blade. (Break Gauge 10)",技法を窮めた剣聖のみが発動でき、八葉の精髄を象徴する一刀です。(破壊 10),唯有穷究技法的剑圣方能施展，象征八叶精髓的一刀。(打破10),唯有穷究技法的剑圣方能施展，象征八叶精髓的一刀。(打破 10)
+Kiseki/Rean/Skill/S_Rean_9_Name,Text,,견고한 전《현무》,Immovable Formation: Black Tortoise,堅固な陣《玄武》,坚牢阵《玄武》,堅牢陣《玄武》
+Kiseki/Rean/Skill/S_Rean_9_Desc,Text,,"방어 자세의 진형을 취하고, 스킬(추격이 아닌)을 사용하여 대상에게 피해를 입힌 후 소비 비용에 따라 추가로 방어력을 깨뜨립니다. (매 20 포인트마다, 최소 10)","Adopt a defensive stance. After using a skill (non-Follow-up), deal additional Break Gauge damage based on Mana cost (20 per point, minimum 10).",防御姿勢の陣形を展開し、スキル（追撃ではない）を使用して目標にダメージを与えた後、消費コストに応じて追加の防御力を破壊します。（毎20ポイントごと、最低10）,"摆出防御姿态的阵型,使用技能（非追击）对目标造成伤害后按消耗费用额外造成破防值。（每点20，最少为10）",擺出防禦姿態的陣型，使用技能（非追擊）對目標造成傷害後，根據消耗費用額外破防值。（每點20，最少為10）
+Kiseki/Rean/Buff/B_Rean_9_Desc,Text,,"스킬(추격이 아닌)을 사용하여 대상에게 피해를 입힌 후 소비 비용에 따라 추가로 방어력을 깨뜨립니다. (매 20 포인트마다, 최소 10)","After using a skill (non-Follow-up), deal additional Break Gauge damage based on Mana cost (20 per point, minimum 10).",スキル（追撃ではない）を使用して目標にダメージを与えた後、消費コストに応じて追加の防御力を破壊します。（毎20ポイントごと、最低10）,使用技能（非追击）对目标造成伤害后按消耗费用额外造成破防值。（每点20，最少为10）,使用技能（非追擊）對目標造成傷害後，根據消耗費用額外破防值。（每點20，最少為10）
+Kiseki/Rean/Enforce/S_En_Rean_1_Name,Text,,"카운트다운을 1 증가시키고, 사용 후 50 포인트의 가속도를 추가합니다.",Increase the countdown by 1. Grants 50 Speed Gauge after use.,カウントダウンを1増やし、使用後に50ポイントの加速値を増加させます。,增加倒计时1，使用后增加50点加速值。,增加倒计时1，使用后增加50点加速值。
+Kiseki/Rean/Skill/S_Rean_LucyD_Name,Text,,시간 가속 ,Time Acceleration,時間加速 ,时间加速,時間加速
+Kiseki/Rean/Skill/S_Rean_LucyD_Desc,Text,,"100 포인트의 가속도를 획득하며, 사용 시 카드 교환 기회 1회를 얻습니다.",Gain 100 Speed Gauge. Grants 1 Exchange upon use.,100ポイントの加速値を獲得し、使用時にカード交換の機会を1回得ます。,"获得100点加速值,释放时获得1次换牌次数。",获得100点加速值，释放时获得1次换牌次数。
+Kiseki/Rean/Skill/S_Rean_Rare1_Name,Text,,신기 합일,Spirit Unification,神気合一,神气合一,神氣合一
+Kiseki/Rean/Skill/S_Rean_Rare1_Desc,Text,,"100 CP를 소모하여 사용합니다. 전투 시작 시 덱 상단에 놓입니다. 무의식적인 상태에 진입하여 진정한 힘을 해방하고 일부 기술을 강화하며, 즉시 100 포인트의 가속도를 얻습니다. (효과가 사라진 후에는 쇠약 상태에 진입합니다)","Requires 100 CP to use. Starts at the top of the deck. Enter a transcendent state, unlocking true power and enhancing certain skills. Immediately gain 100 Speed Gauge. (Enter a weakened state after effect ends)",100 CPを消費して使用します。戦闘開始時にデッキの一番上に置かれます。無念無想の境地に入り、真の力を解放し、一部のスキルを強化し、即座に100ポイントの加速値を得ます。（効果が消えると虚弱状態になります）,消耗100CP才能使用。战斗开始时置于牌堆顶部。进入无念无想的境界，解放真正的力量，并强化部分技能，立即获得100点加速值。（效果消失后会进入虚弱状态）,消耗100CP才能使用。战斗开始时置于牌堆顶部。进入无念无想的境界，解放真正的力量，并强化部分技能，立即获得100点加速值。（效果消失后会进入虚弱状态）
+Kiseki/Rean/Buff/B_Rean_Rare1_0_Name,Text,,신기 합일(쇠약),Spirit Unification (Weakened),神気合一(虚弱) ,神气合一(虚弱),神氣合一(虛弱)
+Kiseki/Rean/Skill/S_Rean_Rare2_Name,Text,,열공진《화무》,Fierce Assault Formation: Blazing Swarm,烈攻陣《焰群》,烈攻阵《焰群》,烈攻陣《焰群》
+Kiseki/Rean/Skill/S_Rean_Rare2_Desc,Text,,"공격적인 진형을 펼치고, 다음 4번의 공격 스킬 사용까지 유지되며, 스킬 사용 시 속박을 부여합니다. (이미 속박이 있는 경우 AP 1 증가)",Assume an offensive stance lasting until 4 attack skills are used. Skills gain Swiftness (or +1 Mana if already Swift).,攻撃的な陣形を展開し、次の4回の攻撃スキル使用まで持続し、スキル使用時に速さを付与します（既に速さがある場合、APが1増加します）。,"摆出攻击的阵势,持续至下4次攻击技能使用后，并使技能释放时附带迅速（如果已有迅速，增加一点AP）。",擺出攻擊的陣勢，持續至下4次攻擊技能使用後，並使技能釋放時附帶迅速（如果已有迅速，增加一點AP）。
+Kiseki/Rean/Buff/B_Rean_Rare2_Desc,Text,,다음 &a 번의 공격 스킬 사용 시 속박을 부여합니다 (이미 속박이 있는 경우 AP 1 증가).,Next &a attack skills gain Swiftness (or +1 Mana if already Swift),次の &a 回の攻撃スキル使用時に速さを付与します（既に速さがある場合、APが1増加します）。,下 &a 次攻击技能附带迅速（如果已有迅速，增加一点AP）,下 &a 次攻擊技能附帶迅速（如果已有迅速，增加一點AP）。
+Kiseki/Altina/Character/Name,Text,,알티나,Altina,アルティナ,阿尔缇娜,阿爾緹娜
+Kiseki/Altina/Character/PassiveName,Text,,전술 지원 시스템,Tactical Support System,戦術支援システム ,战术支援系统,戰術支援系統
+Kiseki/Altina/Character/Text_Battle_Idle,Text,,다음 단계는 무엇입니까?,What's the next step?,次は何ですか？,下一步是？,下一步是什么？
+Kiseki/Altina/Character/Text_Battle_Idle2,Text,,음,Hmm...,うーん,唔姆,唔姆
+Kiseki/Altina/Character/Text_Battle_ND,Text,,상황이 위급합니다. 미안합니다. ,The situation is critical. My apologies.,状況が危機的です、申し訳ありません,情况危急，抱歉。,情況危急，抱歉。
+Kiseki/Altina/Character/Text_Battle_AllyND,Text,,위급한 상황이네요!,We're in a critical situation!,危機的な状況ですね！,陷入危机了呢！,陷入危機了呢！
+Kiseki/Altina/Character/Text_Battle_Start,Text,,전투 시작!,Battle start!,戦闘開始！,战斗开始！,戰鬥開始！
+Kiseki/Altina/Character/Text_Battle_Kill,Text,,적이 휴면 상태 확인.,Enemy confirmed to be in a dormant state.,敵の休眠確認。,敌人休眠确认。,敵人休眠確認。
+Kiseki/Altina/Character/Text_Battle_Cri,Text,,이 일격으로 끝내겠습니다!,I’ll end this with one strike!,この一撃で終わります！,就用这一击结束！,就用這一擊結束！
+Kiseki/Altina/Character/Text_Battle_Healed,Text,,구해졌어요! ,We’re saved!,助かったね！,得救了呢！,得救了呢！
+Kiseki/Altina/Character/Text_Field_Idle,Text,,명령을 내려주세요.,Please give me orders.,命令を出してください。,请下达命令。,請下達命令。
+Kiseki/Altina/Character/Text_Field_GetItem,Text,,희귀 아이템을 얻었어요! ,We got a rare item!,レアアイテムを手に入れましたね！ ,获得稀有道具了呢！,獲得稀有道具了呢！
+Kiseki/Altina/Character/PassiveDes,Text,,"AP를 소비하고 피해를 받을 때 CP가 증가합니다(연결 상태 지원도 얻을 수 있음). CP가 100 이상이면 S 기술을 사용할 수 있으며, 200 CP일 때 피해가 1.5배로 증가합니다.","Gains CP when spending Mana or taking damage (also applies to linked allies). At 100+ CP, S-Crafts become usable. At 200 CP, damage is increased by 1.5x.",APを消費し、ダメージを受けるとCPが増加します（接続状態サポートも得られます）。CPが100以上の場合、Sスキルを使用でき、200 CPのときにダメージが1.5倍に増加します。,"花费AP和受到伤害时增加CP(连接状态支援也可获得)，CP大于100时可使用S技能,200CP时使用伤害变为1.5倍。",消耗AP和承受伤害时增加CP（也可以从连接支持中获得），当CP大于100时，您可以使用S技能，而在200 CP时，伤害增加到1.5倍。
+Kiseki/Altina/Character/SelectInfo,Text,,,"Affiliated with the Imperial Intelligence Division, codenamed ""Black Rabbit"". Created in S.1192 as a successor to Millium Orion, an Oz series unit.
+
+Like Millium Orion's ""Silver Arm"", Altina possesses a fully synchronized black puppet—the Tactical Shell ""Claiomh Solais"".
+
+At the request of the Intelligence Division, she spent over a year alongside the ""Ashen Chevalier"", Rean Schwarzer, as both a supporter and a monitor. Later, when Rean became an instructor at the ""Branch Campus"", she enrolled alongside him under secret orders. Through her activities as a member of ""Class VII"", she gradually formed deep bonds with Rean and her classmates.",,隶属于帝国军情报局，代号为『黑兔』七耀历1192年，作为米莉亚姆的后继Oz被制造出来。\n\n与米莉亚姆·奥莱恩的“银臂”一样，亚尔缇娜有一台与自己完全同步的漆黑傀儡——战术壳“光剑”。\n\n在情报局的「申请」之下，作为黎恩的支援兼监视者，在『灰色骑士』身边待了一年以上。之后在黎恩·舒华泽就任为『第II分校』的教官后，她也身怀密令一起入学。在以『VII班』学生身份活动的过程当中，慢慢和黎恩以及其他同学建立起深厚的感情。,
+Kiseki/Common/Equip/Equip_Kiseki1_Name,Text,,극·필승 머리띠,Ultimate Victory Headband,極・必勝頭巾 ,极·必胜头巾,極·必勝頭巾
+Kiseki/Common/Equip/Equip_Kiseki1_Desc,Text,,사용자의 CP 획득률을 60% 증가시킵니다. ,Increases the user's CP gain rate by 60%.,使用者のCP獲得率を60%増加させます。,增加使用者的CP获得率60%,增加使用者的CP獲得率60%。
+Kiseki/Common/Equip/Equip_Kiseki1_1_Name,Text,,진·필승 머리띠,True Victory Headband,真·必勝頭巾,真·必胜头巾,真·必勝頭巾
+Kiseki/Common/Equip/Equip_Kiseki1_1_Desc,Text,,사용자의 CP 획득률을 40% 증가시킵니다. ,Increases the user's CP gain rate by 40%.,使用者のCP獲得率を40%増加させます。,增加使用者的CP获得率40%,增加使用者的CP獲得率40%。
+Kiseki/Common/Equip/Equip_Kiseki1_2_Name,Text,,필승 머리띠,Victory Headband,必勝頭巾 ,必胜头巾,必勝頭巾
+Kiseki/Common/Equip/Equip_Kiseki1_2_Desc,Text,,사용자의 CP 획득률을 20% 증가시킵니다. ,Increases the user's CP gain rate by 20%.,使用者のCP獲得率を20%増加させます。,增加使用者的CP获得率20%,增加使用者的CP獲得率20%。
+Kiseki/Common/Buff/B_KisekiCP_Desc,Text,,현재 CP: &a,Current CP: &a,現在のCP：&a,当前CP： &a,當前CP：&a
+Kiseki/Common/Keyword/Delay_Name,Text,,지연,Delay,遅延,延迟,延遲
+Kiseki/Common/Keyword/Delay_Desc,Text,,대상의 행동 카운트 다운을 데미지 후 지연시킵니다. ,Delays target’s action countdown after dealing damage.,ダメージを与えた後、対象の行動カウントダウンを遅延させます。,造成伤害后延迟目标的行动倒计时,造成傷害後延遲目標的行動倒計時。
+Kiseki/Common/Keyword/TurnDelay_Name,Text,,시공 지연,Temporal Delay,時空遅延,时空延迟,時空延遲
+Kiseki/Common/Keyword/TurnDelay_Desc,Text,,피해를 입힌 후 대상의 카운트 다운이 가장 짧은 기술이 다음 라운드로 연기됩니다. ,"After dealing damage, delay the target’s skill with the lowest countdown to a later turn.",ダメージを与えた後、対象のカウントダウンが最も短いスキルが次のラウンドに延期されます。,造成伤害后延迟目标倒计时最少的一个技能到之后轮次。,造成傷害後，目標倒計時最少的一個技能將被推遲到下一輪。
+Kiseki/Common/Buff/Buff_Kiseki_DelayTurn_Desc,Text,,:카운트 다운 ,: Countdown,:カウントダウン ,: 倒计时 ,:倒數計時 
+Kiseki/Common/Keyword/Link_Name,Text,,전술 연결,Tactical Link,戦術リンク,战术链接,戰術連結
+Kiseki/Common/Keyword/Link_Desc,Text,,"한 쪽이 공격할 때 다른 한 쪽은 50% 확률로 추가로 45%의 공격력을 가진 추격을 합니다 (추격 공격은 활성화되지 않습니다).\r\n한 쪽이 피해를 입을 때, 다른 한 쪽이 체력이 50% 이상인 경우 50% 확률로 해당 피해를 80%로 줄이고 피해를 분산합니다.","For linked allies:
+50% chance to trigger a Follow-up attack (45% power) when either attacks;
+50% chance to reduce and share damage (up to 80%) if the other ally has ≥50% HP.",一方が攻撃する際、もう一方は攻撃力の45%の追撃を50%の確率で追加します（追撃は発動しません）。\r\n一方がダメージを受けた場合、もう一方が50%以上の体力を持っている場合、そのダメージを50%の確率で80%に軽減し、ダメージを分散します。,对于链接中的对象：\r\n一方攻击时另一方有50%概率追加一次45%攻击力的追击(追加攻击无法触发)；\r\n一方受到伤害时如果另一方血量在50%以上有50%概率使该次伤害减伤至80%并平摊伤害。,當一方進行攻擊時，另一方有50%的機會追加一次45%的攻擊追擊（追擊攻擊不會觸發）。\r\n當一方受到傷害時，如果另一方的血量在50%以上，有50%的機會將該傷害減至80%，並均分傷害。
+Kiseki/Common/Buff/B_Kiseki_Link_Desc,Text,,연결 대상( &a ),Linked Target ( &a ),リンク対象( &a ),链接对象( &a ),連結對象( &a )
+Kiseki/Altina/Skill/S_Altina_0_Name,Text,,약점 파악,Detector-Δ,識破弱點,识破弱点,識破弱點
+Kiseki/Altina/Skill/S_Altina_0_Desc,Text,,적의 약점을 정밀 분석하여 공격력과 회피율을 감소시키고 불안정 상태에 들어갑니다. ,Precisely analyze the enemy's weaknesses to lower their attack/evasion and inflict Unbalance.,敵の弱点を精密に分析し、攻撃力と回避力を低下させ、不安定な状態に入ります。 ,精密分析敌人的弱点，降低其攻击力和闪避，并进入失衡状态。,精密分析敵人的弱點，降低其攻擊力和閃避，並進入失衡狀態。
+Kiseki/Altina/Skill/S_Altina_1_Name,Text,,태양신의 총,Brionac,太陽神の槍,太阳神之枪,太陽神之槍
+Kiseki/Altina/Skill/S_Altina_1_Desc,Text,,전장을 덮치는 고정밀 및 고밀도 열렬 레이저로 대상을 추방합니다(20을 파괴). 선택한 대상 양쪽의 캐릭터에게 &a의 데미지를 입힙니다(10을 파괴).,"High-precision thermal lasers bombard the target and adjacent enemies for &a damage. (Break Gauge 20 to the main target, 10 adjacent)",戦場を覆う高精度＆高密度の灼熱レーザーで対象を追放します（20を破壊）。選択したターゲットの両側のキャラクターに&aのダメージを与えます（10を破壊）。,"以笼罩战场的高精度&高密度灼热雷射驱逐目标(打破20),对所选目标两边的角色造成 &a 伤害（打破10）。",以籠罩戰場的高精度＆高密度灼熱雷射驅逐目標（打破20），對所選目標兩邊的角色造成 &a 傷害（打破10）。
+Kiseki/Altina/Skill/S_Altina_2_Name,Text,,극한 치유,Artium Heal,究極療癒,究极愈合,究極療癒
+Kiseki/Altina/Skill/S_Altina_2_Desc,Text,,빛 검으로 치유 에너지를 공급하고 강화된 물리 방어 장벽을 개방합니다.,Deploy a curative energy field and reinforce physical defenses.,光剣で癒しのエネルギーを供給し、強化された物理防御バリアを展開します。,以光剑供给治愈能量，并张开强化的物理防御结界,以光劍供應治癒能量，並展開強化的物理防禦屏障。
+Kiseki/Altina/Buff/B_Altina_2_Desc,Text,,라운드 시작 시 30CP를 회복합니다. ,Recover 30 CP at the start of each round.,ラウンド開始時に30CPを回復します。,回合开始回复30CP,回合开始时回复30CP。
+Kiseki/Altina/Skill/S_Altina_3_Name,Text,,빛신 응답 검,Fragarach,光神應答劍,光神应答剑,光神應答劍
+Kiseki/Altina/Skill/S_Altina_3_Desc,Text,,무정하게 빛 검의 예리한 날을 내리치어 모든 물질을 베어버립니다.(연기 2) ,"Morphs Claiomh Solais' hand into a sharp blade and brings it down on foes, severing all matter. (Delay 2)",無情に振り下ろす光の剣の鋭利な刃で、あらゆる物質を断ち切ります。（遅延2）,无情的挥下光剑的利刃，斩断一切物质。（延迟2）,無情地揮下光劍的利刃，斬斷一切物質。（延遲2）
+Kiseki/Altina/Skill/S_Altina_3_Desc2,Text,,무정하게 빛 검의 예리한 날을 내리치어 모든 물질을 베어버립니다. (시공 딜레이 1),"Morphs Claiomh Solais' hand into a sharp blade and brings it down on foes, severing all matter. (Temporal Delay 1)",無情に振り下ろす光の剣の鋭利な刃で、あらゆる物質を断ち切ります。（タイムスキップ遅延1）,无情的挥下光剑的利刃，斩断一切物质。（时空延迟1）,無情地揮下光劍的利刃，斬斷一切物質。（時空延遲1）
+Kiseki/Altina/Skill/S_Altina_4_Name,Text,,검은 그림자,Ebon Shade,黑色暗影,黑色暗影,黑色暗影
+Kiseki/Altina/Skill/S_Altina_4_Desc,Text,,검은 벽을 펼쳐 블록을 추가하고 (소멸 상태에서는 반사) 데미지를 2번 막는 방패를 추가하며 공격 받을 확률을 증가시킵니다; 전술 연결 대상에게도 한 번의 효과를 추가합니다.,"Deploys a black barrier that blocks 2 instances of damage (or reflects if in Annihilation Mode). Increases the chance of being targeted.
+Also applies once to Tactical Link target.",黒い壁を広げ、ブロックを追加し（抹消状態では反射）、2回のダメージをブロックするシールドを追加し、攻撃を受ける確率を増加させます。戦術リンク対象にも1回の効果を追加します。,"张开黑色的壁障，添加格挡（歼灭状态为反射）2次伤害的护盾,并增加被攻击概率；\r\n对战术链接对象也附加一次效果",展開黑色屏障，添加阻擋（殲滅狀態下為反射）2次傷害的護盾，並增加被攻擊的機率；同時對戰術連結目標也施加一個效果。
+Kiseki/Altina/Buff/B_Altina_4_Desc,Text,,피해를 막은 후 사라집니다.,Disappears after blocking damage.,ダメージをブロックした後、消えます。,格挡伤害后消失,阻挡伤害后消失。
+Kiseki/Altina/Buff/B_Altina_4_Desc2,Text,,반사한 피해 후 사라집니다. ,Disappears after reflecting damage.,反射ダメージ後に消えます。,反射伤害后消失,反射伤害后消失。
+Kiseki/Altina/Skill/S_Altina_5Rare_Name,Text,,빛 검 소멸 모드,Arcadias Gear,光剣殲滅モード,光剑歼灭模式,光劍殲滅模式
+Kiseki/Altina/Skill/S_Altina_5Rare_Desc,Text,,전투가 시작될 때 덱 맨 위에 놓입니다. 라이트 소드가 거대한 소드 모드로 전환되며 S 스킬을 교체하고 일부 스킬 효과를 수정합니다.,"Placed at the top of the deck at the start of battle. Altina merges with Claiomh Solais, replacing the S-Craft and modifying some skill effects.",戦闘開始時にデッキの一番上に置かれます。ライトソードがジャイアントソードモードに切り替わり、Sスキルを変更し、一部のスキル効果を変更します。,战斗开始时置于牌堆顶部。光剑切换为巨剑模式，更换S技能并修改部分技能效果。,战斗开始时置于牌堆顶部。光剑切换为巨剑模式，更换S技能并修改部分技能效果。
+Kiseki/Altina/Skill/S_Altina_6_Name,Text,,낙원 갑옷,Arcadias Gear,樂土裝甲,乐土装甲,樂土裝甲
+Kiseki/Altina/Skill/S_Altina_6_Desc,Text,,"빛 검과 하나로, 대규모 폭격과 강렬한 베기의 비를 내립니다. (지연 1)",Altina merges with Claiomh Solais to unleash a cataclysmic barrage of slashes and explosions. (Delay 1),ライトソードと一体化し、大規模な爆撃と強烈な斬撃の雨を降らせます。（遅延1）,与光剑化为一体，降下大规模轰炸与强烈斩击之雨。(延迟1),與光劍合為一體，降下大規模轟炸與強烈斬擊之雨。（延遲1）
+Kiseki/Altina/Skill/S_Altina_7_Name,Text,,열광의 검,Solaris Bringer,烈光之劍,烈光之剑,烈光之劍
+Kiseki/Altina/Skill/S_Altina_7_Desc,Text,,"거대한 검으로 변신한 빛 검으로 전장을 진압하고, 최후에 적진을 향해 던져 몰살합니다. (시공 지연 1)","Turns Claiomh Solais into a giant sword that cleaves the earth, then hurls it at the enemy forces to annihilate them. (Temporal Delay 1)",巨大な剣に変化した光剣で戦場を制圧し、最後に敵陣に投げて殲滅します。（時空遅延1）,以变化为巨剑的光剑镇压战场，最后向敌阵掷出加以歼灭。（时空延迟1）,以變化為巨劍的光劍鎮壓戰場，最後向敵陣掷出加以歼灭。（时空延迟1）
+Kiseki/Altina/Skill/S_Altina_8_Name,Text,,빛 검 강타,Solaris Smash,光劍重擊,光剑重击,光劍重擊
+Kiseki/Altina/Skill/S_Altina_8_Desc,Text,,"빛 검을 힘껏 휘두르며 대상과 양옆의 적에게 피해를 주고 파괴 (50) 하며, 또한 불안정한 대상에게는 2배의 파괴를 입힙니다.","Smashes down with full force, dealing damage and Break (50) to the target and adjacent enemies. Deals double Break to Unbalanced targets.",力強く光剣を振り下ろし、対象と両側の敵にダメージと破壊（50）を与え、さらに不安定な対象には2倍の破壊を与えます。,"用力挥砸光剑, 对目标和两边敌人造成伤害和打破（50)，且对于失衡目标造成2倍打破。",用力挥砸光劍，对目标和两边敌人造成伤害和打破（50），且对于失衡目标造成2倍打破。
+Kiseki/Altina/Skill/S_Altina_9Rare_Name,Text,,흑색 크리스털,Ebon Shade EX,黑色水晶,黑色水晶,黑色水晶
+Kiseki/Altina/Skill/S_Altina_9Rare_Desc,Text,,모든 공격을 반사하는 방호막을 펼칩니다. ,Deploys a barrier that reflects all attacks.,すべての攻撃を反射するバリアを展開します。,张开能反弹所有攻击的防护罩。,展开能反弹所有攻击的防护罩。
+Kiseki/Altina/Buff/B_Altina_9_Desc,Text,,모든 공격 반사,Reflects all attacks.,すべての攻撃を反射,反弹所有攻击,反弹所有攻击
+Kiseki/Altina/Skill/S_Altina_10_Name,Text,,빛 검 파괴,Maser Arm,光劍破擊,光剑破击,光劍破擊
+Kiseki/Altina/Skill/S_Altina_10_Desc,Text,,"빛 검으로 적에게 피해를 입히고, 불안정한 적에게는 치명타로 명중하며 파괴 (40) 합니다. ","Slashes foes with a spinning attack, dealing critical damage and Break (40) to Unbalanced enemies.",光剣で敵にダメージを与え、不安定な敵にはクリティカルヒットで命中し、破壊（40）します。,挥击光剑对敌人造成伤害，对于失衡的敌人以暴击形式命中并打破（40）。,挥击光剑对敌人造成伤害，对于失衡的敌人以暴击形式命中并打破（40）。
+Kiseki/Altina/Skill/S_Altina_11_Name,Text,,전술 연결,Tactical Link,戦術リンク,战术链接,戰術連結
+Kiseki/Altina/Skill/S_Altina_11_Desc,Text,,"다른 캐릭터와 전술 연결을 설정하며, 연결된 대상의 공격 확률이 약간 감소합니다. 일부 스킬은 전술 연결 대상에게도 적용됩니다.","Establishes a Tactical Link with another character, slightly reducing the linked target's chance of being attacked. Some skills also affect the Tactical Link target.
+
+Establish a Tactical Link with an ally, slightly reducing their chance of being attacked. Certain skills also affect the linked target.",他のキャラクターと戦術リンクを確立し、リンク対象の攻撃確率がわずかに低下します。一部のスキルは戦術リンク対象にも適用されます。,对一名其他角色建立战术链接，被连接目标小幅减少被攻击概率。部分技能对战术链接的目标也会生效。,与另一名角色建立战术链接，略微降低被链接目标的攻击概率。部分技能也会影响战术链接内的目标。
+Kiseki/Altina/Enforce/S_En_Altina_1_Name,Text,,"알티나에게 20 CP를 추가하며, 사용자가 알티나 전술 연결 상태일 때 방어 효과가 1층 적용됩니다.",Grants Altina 20 CP. Applies 1 Block when linked with Altina.,アルティナに20 CPを追加し、ユーザーがアルティナ戦術リンク状態の場合、防御効果が1層付加されます。,"增加阿尔提娜20点CP,当使用者处于艾尔提娜战术连接时附带一层格挡效果。",增加阿尔提娜20点CP，当使用者处于阿尔提娜战术连接时附带一层格挡效果。
+Kiseki/Altina/Skill/S_Altina_LucyD_Name,Text,,약점 파악,Weakness Analysis,識破弱點,识破弱点,識破弱點
+Kiseki/Altina/Skill/S_Altina_LucyD_Desc,Text,,2개의 기술을 뽑아 대상에게 약점 파악을 부여합니다.,"Draws 2 skills.
+Applies Weakness Analysis to the target.",2つのスキルを抽出し、対象に弱点を検出させます。,抽取2个技能\r\n对目标施加识破弱点。,抽取2个技能，对目标施加识破弱点。
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+

@@ -1,0 +1,12 @@
+{
+    "B_PLANA_8": {
+        "Name": "盯~",
+        "ClassName": "PLANA.B_PLANA_8",
+        "Icon": "B_PLANA_8\\B_PLANA_8_Icon.png",
+        "Description": "普拉娜会复制你下张出手的牌。",
+        "Tick": "null",
+        "BuffTag": "null",
+        "Caution": false,
+        "_gdeSchema": "Buff"
+    }
+}

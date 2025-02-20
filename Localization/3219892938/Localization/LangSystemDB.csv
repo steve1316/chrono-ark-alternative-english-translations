@@ -1,0 +1,76 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+BattleDia/EirinDia/Good1,Text,,,"... The false moon paired with a false person suits us well, don't you think, ""Princess Kaguya"".      ",......偽の月と偽物が対なのが、よく似合いますよ『輝夜様』。,……虚伪的月配上虚伪的人，和我们很相称不是吗，「辉夜姬」。,……虛偽的月配上虛偽的人，和我們很相稱不是嗎，「輝夜姬」。
+BattleDia/EirinDia/Start1,Text,,,"... What's going on, Eirin?",......どうしたの、永琳？,……这是怎么回事，永琳？,……這是怎麼回事，永琳？
+BattleDia/EirinDia/Start2,Text,,,Have you betrayed me too?,あなたも私を裏切ったの？,难道你也背叛我了吗？,難道你也背叛我了嗎？
+BattleDia/EirinDia/Start3,Text,,,Ahahahaha. How foolish.,ああ、はははは。なんて愚かね。 ,啊哈哈哈哈。真是愚蠢呢。,啊哈哈哈哈。 真是愚蠢呢。
+BattleDia/EirinDia/Start4,Text,,,"A pitiful creature unaware that it's a ""fake"". Your manner of speech mirrors the Princess's perfectly.",口調は姫様とまったく同じなのに、自分が『偽物』であることにさえ気づいていない哀れな存在。,连自己是「伪物」都不知道的可怜虫。说话语气倒是跟公主一模一样。,連自己是「偽物」都不知道的可憐蟲。 說話語氣倒是跟公主一模一樣。
+BattleDia/EirinDia/Start5,Text,,,"What are you saying, Eirin? Just what...?",永琳、何言ってるの、一体何なの… ,你在说什么啊、永琳，到底……,你在說什麼啊、永琳，到底……
+BattleDia/EirinDia/Start6,Text,,,"Perfect. I’ve never crossed blades with the Princess. Let’s see if ""you"" can satisfy me.",いい機会です。私は姫様と戦ったことがないので、 「あなた」の力が私を満足させることを願っています。 ,正好。我还从来没有和公主交手过。希望「你」的力量能让我满意。,正好。 我還從來沒有和公主交手過。 希望「你」的力量能讓我滿意。
+BattleDia/EirinDia/Start7,Text,,,"Come, let us fight to the death under this full moon!",さあ、満月の下で死力を尽くして戦いましょう！ ,来，在这满月之下死战到底吧！,來，在這滿月之下死戰到底吧！
+BattleDia/Kaguya/Achieve,Text,,난제완료,Impossible Request completed,難題達成,难题完成,難題完成
+BattleDia/Kaguya/Fail,Text,,난제미완료,Impossible Request not completed,難題未達成,难题未完成,難題未完成
+BattleDia/Kaguya/NoEnd,Text,,주문 해제,Chant Dispelled,詠唱解除,吟唱解除,吟唱解除
+BattleDia/KaguyaDia/Start1,Text,,,Another... me? Some sort of imposter?,もう一人の......私？ 偽物はどこから来たの？,另一个……我？什么地方来的冒牌货吗？,另一個……我？ 什麼地方來的冒牌貨嗎？
+BattleDia/KaguyaDia/Start2,Text,,,"Heh, it seems you’ve been trapped here, oblivious to everything.",ああ、あなたはここに閉じ込められていて何も知らないのね。 ,呵呵，看来你一直被困在这里，什么都不知道呢。,呵呵，看來你一直被困在這裡，什麼都不知道呢。
+BattleDia/KaguyaDia/Start3,Text,,,"Now, I’ll show you the truth.",真実を見せてあげる。,事到如今，让你见识下所谓的真相吧。,事到如今，讓你見識下所謂的真相吧。
+BattleDia/KaguyaDia/Start4,Text,,,A mere imposter dares to spout such nonsense.,ただの偽物が、よくもそんな戯言を言う。,区区冒牌货，竟在此大放厥词。,區區冒牌貨，竟在此大放厥詞。
+BattleDia/KaguyaDia/Start5,Text,,,Witness the madness of the true moon!,本物の月がもたらす狂気を教えてあげる！ ,让你见识一下吧，真实之月所带来的毒气！,讓你見識一下吧，真實之月所帶來的毒氣！
+BattleDia/KaguyaDia/Start6,Text,,,How pitiful. The true full moon is visible only to me!,残念ね。本物の満月は私にしか見えないの！,真是遗憾。真正的满月只有在我这里才能看得到！,真是遺憾。 真正的滿月只有在我這裡才能看得到！
+BattleDia/Mokou/Angry1,Text,,나를 화나게 하다니.,You’ve pissed me off!,お前たちは私を怒らせた。,你们惹老子生气了,你們惹老子生氣了
+BattleDia/Mokou/Angry2,Text,,각오는 됐겠지!,Ready yourselves!,かかってこい！,做好觉悟吧！,做好覺悟吧！
+BattleDia/Mokou/Rebirth,Text,,<color=red>「부활」</color>,"<color=red>""Revival""</color>",<color=red>「リザレクション」</color>,<color=red>「复活」</color>,<color=red>「复活」</color>
+BattleDia/MokouMode/Choose1,Text,,모코우의 레어 스킬을 선택해 손에 넣습니다.,Choose one of Mokou’s rare skills to add to your hand.,藤原妹紅のレアスキル3つから1つ選んで手札に加える,选择一张妹红的稀有技能加入手卡,選擇一張妹紅的稀有技能加入手卡
+BattleDia/MokouMode/Normal1,Text,,"어머, 이번에는 내가 이긴 것 같네.","My, seems I’ve won this round.",どうやら今回は私の勝ちみたいね。,诶呀，看来这次还是我赢下来了呢。,誒呀，看來這次還是我贏下來了呢。
+BattleDia/MokouMode/Normal2,Text,,그럼 여기까지만 할까.,"Well then, if you want to know the answer, come back next time.",だから、もう終わりしましょう。,那么，想知道答案就下次再来吧。,那麼，想知道答案就下次再來吧。
+BattleDia/MokouMode/Normal3,Text,,"잘 가, 모코우.","Farewell, Mokou.",さよなら、妹紅。,再会了，妹红。,再會了，妹紅。
+BattleDia/MokouMode/Phase6_1,Text,,"모코우, 실력이 많이 늘었네……","Mokou, you’ve grown stronger...",妹紅、ずいぶん強くなったわね......,妹红，你还是这么强大呢……,妹紅，你還是這麼强大呢……
+BattleDia/MokouMode/Start1,Text,,"이런, 이게 누구람.","Well, well. Look who it is.",ああ、誰かと思えば......,啊啦啊啦，看看这位是谁啊,啊啦啊啦，看看這位是誰啊
+BattleDia/MokouMode/Start2,Text,,"오랜만이네, 카구야.","It’s been ages, Kaguya.",久しぶりだな、輝夜。,真是好久不见了呢，辉夜,真是好久不見了呢，輝夜
+BattleDia/MokouMode/Start3,Text,,함께 한바탕 날뛰어 볼까.,"Since you’re here, let’s wreak havoc together!",あなたもここへ来たなら一緒に大騒ぎしましょう。 ,既然你也来了，就陪我一起大闹一场吧,既然你也來了，就陪我一起大鬧一場吧
+BattleDia/MokouMode/Start4,Text,,지난 번 실패를 이번에 만회해주겠어!,I’ll reclaim my past defeat here and now!,今回は前回の失敗を取り戻す！,上一次的失败，就让我这一次讨回来！,上一次的失敗，就讓我這一次討回來！
+BattleDia/NormalMode/Choose1,Text,,"자, 선택해!","Now, choose!",さあ、選びなさい！,撒，做出选择吧！,撒，做出選擇吧！
+BattleDia/NormalMode/Good1,Text,,"잠깐, 내가 이렇게 약할 리 없는데……","Oh dear, seems I’ve lost.",そんな、私の力がこんなに弱いはずがないわ......。,哎呀，看起来是我输了呢。,哎呀，看起來是我輸了呢。
+BattleDia/NormalMode/Good2,Text,,누구야? 누가 말하는거야?,"Then, as you wish...",誰が話しているの？ あなたは誰？,那么，如你所愿……,那麼，如你所願……
+BattleDia/NormalMode/Normal1,Text,,"어머, 너무 심하게 했으려나.","Oops, perhaps I overdid it.",ああ、ちょっとやりすぎたわね。,诶呀，看来我下手有点重了呢。,誒呀，看來我下手有點重了呢。
+BattleDia/NormalMode/Normal2,Text,,그럼 여기까지만 할까.,Let’s end it here for now.,だから、今回はもう終わりにしましょう。,那么，这次就到此为止吧。,那麼，這次就到此為止吧。
+BattleDia/NormalMode/Normal3,Text,,"잘 가, 다들.","Farewell, everyone.",さようなら、皆さん。 ,再会了，诸位。,再會了，諸位。
+BattleDia/NormalMode/Phase6_1,Text,,생각보다 더 강한걸……,You’re stronger than I expected...,あなた達、予想以上に強いようね... ,你们比我想象中的还要强大……,你們比我想像中的還要強大……
+BattleDia/NormalMode/Phase6_2,Text,,이렇게 됐으니 전력으로 상대해줄게!,Then I’ll unleash my full power!,なら私の全力を見せてあげる！ ,既然这样，就让我使出全部实力吧！,既然這樣，就讓我使出全部實力吧！
+BattleDia/NormalMode/Phase6_3,Text,,이런 어중간한 영원의 밤 따위……,This half-baked eternal night...,この中途半端な永遠の世界を......,这种半吊子的永远的世界……,這種半吊子的永遠的世界……
+BattleDia/NormalMode/Phase6_4,Text,,내 영원을 다루는 술법으로 모두 깨뜨리고 말겠어.,I’ll shatter it with eternity’s power!,永遠を操る力で破壊してあげる。 ,我就用操纵永远的力量来打破给你们看。,我就用操縱永遠的力量來打破給你們看。
+BattleDia/NormalMode/Phase6_5,Text,,여명은 이제 금방일 터.,The dawn shall be upon us soon.,夜明けが近いわ。,黎明应该很快就会到来了。,黎明應該很快就會到來了。
+BattleDia/NormalMode/Phase6_6,Text,,"어때?
+이로써 루프는 깨지고, 모든 게 끝날테지!","How's this?
+The loop shall be broken, and the dawn shall come!","どう？
+このループを破壊し、すべてに終焉をもたらしましょう！","怎么样？
+这样循环就要被打破了，一切就要过去了！","怎麼樣？
+這樣迴圈就要被打破了，一切就要過去了！"
+BattleDia/NormalMode/Start1,Text,,정말 오랜만에 사람이 왔네,It’s been so long since visitors came...,誰かがここに来るのは久しぶりね。,真是好久没有人来到这里了啊，,真是好久沒有人來到這裡了啊，
+BattleDia/NormalMode/Start2,Text,,간만에 한바탕 날뛰어 볼까.,Let me indulge in some chaos.,久しぶりに大騒ぎさせてもらうわ。,就让我久违的大闹一场吧。,就讓我久違的大鬧一場吧。
+BattleDia/NormalMode/Start3,Text,,지금까지 수많은 인간들에게 패배를 안겨 주었던 5가지의 난제.,My five requests that so many humans in the past have failed to complete...,これまで多くの人間が果たせなかった私の5つの難題... ,到现在为止，已经使无数人败退的这五个难题。,到現在為止，已經使無數人敗退的這五個難題。
+BattleDia/NormalMode/Start4,Text,,당신들은 몇 개나 풀어낼 수 있을까?,How many of them can you fulfill?,あなた達はいくつ達成できる？ ,你们能解开多少呢？,你們能解開多少呢？
+Buff/B_Kaguya_P/Conundrum_1,Text,,난제「용 목의 구슬 -오색의 탄환-」,"Impossible Request ""Jewel from the Dragon's Neck -Five-Colored Shots-""",難題「龍の頸の玉　-五色の弾丸-」,难题「龙颈之玉　-五色的弹丸-」,難題「龍頸之玉　-五色的彈丸-」
+Buff/B_Kaguya_P/Conundrum_2,Text,,난제「부처의 석발 -꺾이지 않는 의지-」,"Impossible Request ""Buddha's Stone Bowl -Indomitable Will-""",難題「仏の御石の鉢　-砕けぬ意思-」,难题「佛御石之钵　-不碎的意志-」,難題「佛禦石之缽　-不碎的意志-」
+Buff/B_Kaguya_P/Conundrum_3,Text,,난제「불쥐의 가죽옷 -침착한 마음-」,"Impossible Request ""Robe of Fire Rat -Unhurried Mind-""",難題「火鼠の皮衣　-焦れぬ心-」,难题「火鼠的皮衣　-不焦躁的内心-」,難題「火鼠的皮衣　-不焦躁的內心-」
+Buff/B_Kaguya_P/Conundrum_4,Text,,난제「제비의 자안패 -영명선-」,"Impossible Request ""Swallow's Cowrie Shell -Everlasting Life-""",難題「燕の子安貝　-永命線-」,难题「燕的子安贝　-永命线-」,難題「燕的子安貝　-永命線-」
+Buff/B_Kaguya_P/Conundrum_5,Text,,난제「봉래의 탄의 가지 -무지개빛 탄막-」,"Impossible Request ""Bullet Branch of Hourai -Rainbow Danmaku-""",難題「蓬莱の弾の枝　-虹色の弾幕-」,难题「蓬莱的弹枝　-七色的弹幕-」,難題「蓬萊的彈枝　-七色的彈幕-」
+Buff/B_Kaguya_P/Phase_1,Text,,신보「브릴리언트 드래곤 바레트」,"Divine Treasure ""Brilliant Dragon Barrette""",神宝「ブリリアントドラゴンバレッタ」,神宝「耀眼的龙玉」,神寶「耀眼的龍玉」
+Buff/B_Kaguya_P/Phase_2,Text,,신보「부디스트 다이아몬드」,"Divine Treasure ""Buddhist Diamond""",神宝「ブディストダイアモンド」,神宝「佛体的金刚石」,神寶「佛體的金剛石」
+Buff/B_Kaguya_P/Phase_3,Text,,신보「샐러맨더 실드」,"Divine Treasure ""Salamander Shield""",神宝「サラマンダーシールド」,神宝「火蜥蜴之盾」,神寶「火蜥蜴之盾」
+Buff/B_Kaguya_P/Phase_4,Text,,신보「라이프스프링 인피니티」,"Divine Treasure ""Life Spring Infinity""",神宝「ライフスプリングインフィニティ」,神宝「无限的生命之泉」,神寶「無限的生命之泉」
+Buff/B_Kaguya_P/Phase_5,Text,,신보「봉래의 옥의 가지 -꿈빛 고향-」,"Divine Treasure ""Jeweled Branch of Hourai -Dreamlike Paradise-""",神宝「蓬莱の玉の枝　-夢色の郷-」,神宝「蓬莱的玉枝　-梦色之乡-」,神寶「蓬萊的玉枝　-夢色之鄉-」
+Buff/B_Kaguya_P/Phase_6,Text,,「영야 되돌리기」,"""End of Imperishable Night""",「永夜返し」,「永夜归返」,「永夜歸返」
+Buff/B_Kaguya_P/S_Kaguya_1_S,Text,,턴 시작 시 손에 난제가 없으면 난제「용 목의 구슬 -오색의 탄환-」을 손에 넣습니다.,"Create a Impossible Request ""Jewel from the Dragon's Neck -Five-Colored Shots-"" skill in hand at the start of each turn.",毎ターン開始時、手札に難題「龍の頸の玉　-五色の弾丸-」がない場合、難題「龍の頸の玉　-五色の弾丸-」を手札に加える。,每个回合开始时，如果手牌中没有难题「龙颈之玉　-五色的弹丸-」，置入手中一张。,每個回合開始時，如果手牌中沒有難題「龍頸之玉　-五色的彈丸-」，置入手中一張。
+Buff/B_Kaguya_P/S_Kaguya_2_S,Text,,턴 시작 시 손에 난제가 없으면 난제「부처의 석발 -꺾이지 않는 의지-」를 손에 넣습니다.,"Create a Impossible Request ""Buddha's Stone Bowl -Indomitable Will-"" skill in hand at the start of each turn.",毎ターン開始時、手札に難題「仏の御石の鉢　-砕けぬ意思-」がない場合、難題「仏の御石の鉢　-砕けぬ意思-」を手札に加える。,每个回合开始时，如果手牌中没有难题「佛御石之钵　-不碎的意志-」，置入手中一张。,每個回合開始時，如果手牌中沒有難題「佛禦石之缽　-不碎的意志-」，置入手中一張。
+Buff/B_Kaguya_P/S_Kaguya_3_S,Text,,턴 시작 시 손에 난제가 없으면 난제「불쥐의 가죽옷 -침착한 마음-」을 손에 넣습니다.,"Create a Impossible Request ""Robe of Fire Rat -Unhurried Mind-"" skill in hand at the start of each turn.",毎ターン開始時、手札に難題「火鼠の皮衣　-焦れぬ心-」がない場合、難題「火鼠の皮衣　-焦れぬ心-」を手札に加える。,每个回合开始时，如果手牌中没有难题「火鼠的皮衣　-不焦躁的内心-」，置入手中一张。,每個回合開始時，如果手牌中沒有難題「火鼠的皮衣　-不焦躁的內心-」，置入手中一張。
+Buff/B_Kaguya_P/S_Kaguya_4_S,Text,,턴 시작 시 손에 난제가 없으면 난제「제비의 자안패 -영명선-」을 손에 넣습니다.,"Create a Impossible Request ""Swallow's Cowrie Shell -Everlasting Life-"" skill in hand at the start of each turn.",毎ターン開始時、手札に難題「燕の子安貝　-永命線-」がない場合、難題「燕の子安貝　-永命線-」を手札に加える。,每个回合开始时，如果手牌中没有难题「燕的子安贝　-永命线-」，置入手中一张。,每個回合開始時，如果手牌中沒有難題「燕的子安貝　-永命線-」，置入手中一張。
+Buff/B_Kaguya_P/S_Kaguya_5_S,Text,,턴 시작 시 손에 난제가 없으면 난제「봉래의 탄의 가지 -무지개빛 탄막-」을 손에 넣습니다.,"Create a Impossible Request ""Bullet Branch of Hourai -Rainbow Danmaku-"" skill in hand at the start of each turn.",毎ターン開始時、手札に難題「蓬莱の弾の枝　-虹色の弾幕-」がない場合、難題「蓬莱の弾の枝　-虹色の弾幕-」を手札に加える。,每个回合开始时，如果手牌中没有难题「蓬莱的弹枝　-七色的弹幕-」，置入手中一张。,每個回合開始時，如果手牌中沒有難題「蓬萊的彈枝　-七色的彈幕-」，置入手中一張。
+Buff/B_Kaguya_P/S_Kaguya_6_S,Text,,,,, , 
+Character/Mokou_Text_Battle_Kill_0,Text,,"이런, 벌써 끝이야?",Oh? Over already?,おや？ もう終わりか？,哦呀？这就结束了吗？,哦呀？這就結束了嗎？
+Character/Mokou_Text_Battle_Start_0,Text,,"좋아, 전투를 시작해볼까!","Very well, let the battle commence!",では戦いを始めよう！,好吧，那就让战斗开始吧！,好吧，那就讓戰鬥開始吧！
+Skill/S_Kaguya_LucyRare_1/Alive,Text,,생존,Alive,生存している,正常存活,正常存活
+Skill/S_Kaguya_LucyRare_1/Dead,Text,,전투불능,Dead,戦闘不能,无法战斗,無法戰鬥
+Skill/S_Kaguya_LucyRare_1/HP,Text,,체력 :,HP:,体力:, 体力值：, 體力值：
+Skill/S_Kaguya_LucyRare_1/NotSave,Text,,저장하지 않음,Not Saved,記録なし,尚未储存,尚未儲存
+Skill/S_Kaguya_LucyRare_1/Rec,Text,,회복 게이지 :,Healing Gauge:,回復ゲージ:, 体力极限：, 體力極限：
+

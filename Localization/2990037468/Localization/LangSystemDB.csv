@@ -1,0 +1,5 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+System/SkillSelect/Omega_4,Text,,,Select a skill from the deck to draw.,,选择一个牌库中的技能抽取,
+System/SkillSelect/Omega_9,Text,,,"Select a skill to draw, with the card discarded after 2 turns.",,选择一个技能抽取，附带2回合后弃牌,
+System/SkillSelect/Omega_P,Text,,,Select a skill to add to your hand.,,选择一个技能加入手中,
+

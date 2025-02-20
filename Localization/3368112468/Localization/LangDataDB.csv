@@ -1,0 +1,419 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Miao_z_Description,Text,,,Dismas is looking for a weak spot.,,迪马斯正在寻找薄弱处,
+Buff/B_Miao_z_Name,Text,,,Calibration,,校准,
+Buff/Chu_xie_Description,Text,,,,,,
+Buff/Chu_xie_Name,Text,,,Bleed,,流血,
+Buff/Fan_ji_Description,Text,,,"Counterattack when attacked.
+
+Removed after counterattack.",,"被攻击使用反击
+
+反击攻击后解除",
+Buff/Fan_ji_Name,Text,,,Riposte,,反击,
+Buff/Laobing_baohu_Description,Text,,,Attacks will be redirected to Barristan.,,攻击将转移给巴利斯坦,
+Buff/Laobing_baohu_Name,Text,,,Defender,,守护,
+Buff/Qiangli_fushi_Name,Text,,,Corrosion,,腐蚀,
+Buff/Qie_k_d_Description,Text,,,,,,
+Buff/Qie_k_d_Name,Text,,,Cleave,,切开,
+Buff/S_Miao_z_Description,Text,,,"Dismas will dodge the next attack.
+
+Removed after dodging.",,"迪马斯将闪避下次攻击
+闪避后移除",
+Buff/S_Miao_z_Name,Text,,,Dodge,,闪避,
+Buff/Shi_z_d_Description,Text,,,Can ignore taunt and target this unit.,,可以无视嘲讽指向该目标,
+Buff/Shi_z_d_Name,Text,,,Mark,,标记,
+Buff/Shi_z_qiangji_Description,Text,,,Removed after being hit.,,被命中后解除,
+Buff/Shi_z_qiangji_Name,Text,,,Vulnerable,,易伤,
+Buff/Shi_z_self_Description,Text,,,Removed after being hit.,,被命中后解除,
+Buff/Shi_z_self_Name,Text,,,Armor,,护甲,
+Buff/Xian_d_debuff_Description,Text,,,,,,
+Buff/Xian_d_debuff_Name,Text,,,Stun,,晕眩,
+Buff/Yunxuan_Description,Text,,,Greatly delays the target's action.,,使其行动极大幅度延后,
+Buff/Yunxuan_Name,Text,,,Stun,,晕眩,
+Buff/Zhui_z_huishou_Description,Text,,"(치유력 기반)
+처치되면 '휘감기' 스킬을 생성합니다.
+지속시간이 끝나면 '휘감기'를 덱에 넣습니다.","(Healing Power-based)
+Generates the Entwine skill upon defeating an enemy.
+Adds Entwine to the deck when the duration ends.",,,
+Buff/Zhui_z_huishou_Name,Text,,무장 해제,Disarm,,,
+Buff/Zui_z_buff_Description,Text,,,,,,
+Buff/Zui_z_buff_Name,Text,,,Flaw,,破绽,
+Buff/baohu_tili_Name,Text,,,Protection HP Limit,,保护体力极限,
+Buff/baoji_Description,Text,,,Removed after skill hits.,,技能命中后移除,
+Buff/baoji_Name,Text,,,Critical,,暴击,
+Buff/chaofeng_Description,Text,,,"Forces all enemies to prioritize attacking you.
+
+Removed after being attacked.",,"使所有敌人优先攻击你
+被攻击后解除",
+Buff/chaofeng_Name,Text,,,Taunt,,嘲讽,
+Buff/fu_shi_Name,Text,,,Corrosion,,腐蚀,
+Buff/jianshou_Description,Text,,,Grants 1 stack of Armor at the start of each turn.,,每回合开始给予一层护甲,
+Buff/jianshou_Name,Text,,,Stand Fast,,坚守,
+Buff/jinu_Description,Text,,,"I don't know why you're seeing this buff, but if you see it, you know which code I copied.",,不知道你为啥看见这个buff，但是你看见了就代表你知道我抄的哪个代码了。,
+Buff/jinu_Name,Text,,,Enrage,,激怒,
+Buff/laobing_fanji_baofu_Description,Text,,,"Counterattack when attacked.
+
+Removed after counterattack hits.",,"被攻击时使用反击
+
+反击命中后移除",
+Buff/laobing_fanji_baofu_Name,Text,,,Riposte,,反击,
+Buff/leper_fuchou_baoji_Description,Text,,,Grants 1 stack of Strength at the start of the turn.,,回合开始给予一层“力量”,
+Buff/leper_fuchou_baoji_Name,Text,,,Revenge,,复仇,
+Buff/leper_huimie_buff_Description,Text,,,Increases Attack Power by 20% when taking damage.,,受到伤害时攻击力提升20%,
+Buff/leper_huimie_buff_Name,Text,,,Destruction,,毁灭,
+Buff/leper_huimie_chuxie_Description,Text,,,,,,
+Buff/leper_huimie_chuxie_Name,Text,,,Bleed,,出血,
+Buff/leper_huimie_gongji_Description,Text,,,,,,
+Buff/leper_huimie_gongji_Name,Text,,,Destruction,,毁灭,
+Buff/liliang_Description,Text,,,Removed after skill hits.,,技能命中后移除,
+Buff/liliang_Name,Text,,,Strength,,力量,
+Buff/token_dianran_Name,Text,,,Ignite,,点燃,
+Buff/token_huifu_Name,Text,,,Recovery,,恢复,
+Buff/token_jiasu_Description,Text,,,Removed after being attacked.,,被攻击后移除,
+Buff/token_jiasu_Name,Text,,,Haste,,加速,
+Buff/token_xuruo_Description,Text,,,Removed after attacking.,,攻击后移除,
+Buff/token_xuruo_Name,Text,,,Weakness,,虚弱,
+Buff/wenyi_fanghu_Description,Text,,,,,,
+Buff/wenyi_fanghu_Name,Text,,,Ounce of Prevention,,防护气体,
+Buff/zhimang1_Description,Text,,,,,,
+Buff/zhimang1_Name,Text,,,Blind,,致盲,
+Buff/zhimang_Name,Text,,,Blind,,致盲,
+Character/dms_PassiveDes,Text,,,"At the start of the turn, apply ""Flaw"" to a random enemy.
+
+Dismas often tells jokes that are hard to accept.
+I hope you won't laugh out loud.",,"回合开始对随机敌方添加“破绽”
+
+迪马斯经常会讲些不能被接受的笑话
+真希望你不会笑出声来",
+Character/dms_PassiveName,Text,,,Morbid Jokes,,病态笑话,
+Character/dms_SelectInfo,Text,,,"A vigilant bodyguard, sworn to protect the old paths he once walked.
+
+Dismas is a versatile specialist, excelling at dealing massive damage to the enemy backline and frequently applying debilitating debuffs. Dismas can deal devastating blows to units with debuffs and finish off those with low HP.",,"一个警惕的保镖，发誓要守护他曾经到过的老路
+
+迪马斯是个多面手擅长对敌方后排造成大量伤害也能频繁给敌方施加弱化减益，迪马斯能对持有弱化减益的单位造成重创并终结和生命值较低的单位
+",
+Character/dms_Text_Battle_AllyND_0,Text,,,Do not fear the executioner or death!,,不要畏惧刽子手和死神！,
+Character/dms_Text_Battle_AllyND_1,Text,,,You've endured worse. Hold on!,,更糟的你也承受过。挺住！,
+Character/dms_Text_Battle_Cri_0,Text,,,Damn—I missed your eye!,,该死——我没打中你的眼睛！,
+Character/dms_Text_Battle_Cri_1,Text,,,"You didn't see that coming, did you!",,你可没预料到吧，怎么样！,
+Character/dms_Text_Battle_Healed_0,Text,,,"A little blood loss is nothing, right?",,流了点血又怎么了，对吧。,
+Character/dms_Text_Battle_Healed_1,Text,,,Let's send them to hell together.,,我们联手送他们下地狱。,
+Character/dms_Text_Battle_Idle_0,Text,,,Delaying is pointless.,,拖延时间没什么意义。,
+Character/dms_Text_Battle_Idle_1,Text,,,"Hurry, it's getting dark.",,快，天要黑了,
+Character/dms_Text_Battle_Kill_0,Text,,,"As long as I aim for the mark, I won't miss.",,只要瞄准标记，我将弹无虚发。,
+Character/dms_Text_Battle_Kill_1,Text,,,I never miss.,,我从不打偏。,
+Character/dms_Text_Battle_ND_0,Text,,,Bah—this can't be.,,呸——这绝不可能。,
+Character/dms_Text_Battle_ND_1,Text,,,One strike like that is enough.,,这样的打击一次就够了。,
+Character/dms_Text_Battle_Start_0,Text,,,What a bunch of hell-bound folks.,,好一群要下地狱的人。,
+Character/dms_Text_Field_GetItem_0,Text,,,Better than nothing!,,总比没有强！,
+Character/dms_Text_Field_GetItem_1,Text,,,Not bad.,,不错,
+Character/dms_Text_Field_Idle_0,Text,,,"Once upon a time, I was just a nobody with a knife.",,曾几何时，我也是个拿着把刀的无名小卒。,
+Character/dms_Text_Field_Idle_1,Text,,,Maybe what we're doing really matters...,,也许我们做的事情真的有意义……,
+Character/dms_Text_Field_Potion_P_0,Text,,,Never enough to drink.,,总是不够喝。,
+Character/dms_Text_MasterTarget,Text,,,There's no turning back. Hmph! Let's get to it.,,没有退路了。哼！让我们开干吧。,
+Character/dms_Text_PharosLeader_0,Text,,,I fight for my beloved!,,我为爱人而战！,
+Character/dms_Text_PharosLeader_1,Text,,,"I... I'm sorry, comrades.",,我……我很抱歉，战友们,
+Character/dms_Text_PharosLeader_2,Text,,,Don't threaten my queen!,,别威胁我的女王！,
+Character/dms_Text_Witch_0,Text,,,Come at me!,,尽管放马过来！,
+Character/dms_Text_Witch_1,Text,,,No one will help a bandit...,,没有人会来帮助一个强盗……,
+Character/dms_name,Text,,,Dismas,,迪马斯,
+Character/laobing_PassiveDes,Text,,,"Gains skill books upon leveling up.
+
+Cunning words mean nothing; now he only believes in the weapons in his hands and his experience.",,"升级时获得技能书
+
+狡猾的言语没有意义，现在他只坚信手中的武器还有经验",
+Character/laobing_PassiveName,Text,,,The Price of Pride,,骄傲的代价,
+Character/laobing_SelectInfo,Text,,,"A seasoned veteran, hardened by past experiences that left him with unforgettable guilt and resilience. He can break enemy lines with his shield, hammer, and roars.
+
+Barristan is a tank, excelling at blocking and drawing damage. He protects fragile allies while also striking enemies hard. Barristan can be the backbone of any team.",,"一个经验丰富的老兵，他因为以前的遭遇获得了难以忘怀的愧疚和坚韧，他能用手中的盾牌，铁锤和怒吼打破敌人的防线
+
+巴利斯坦是一个坦克，他十分擅长抵挡和吸引伤害，他会保护脆弱的友军，但同时也能痛击敌人，巴利斯坦能成为任何团队的中坚力量",
+Character/laobing_Text_Battle_AllyND_0,Text,,,"As long as I have breath, this won't happen!",,只要我还有一口气，这种事就不会发生！,
+Character/laobing_Text_Battle_AllyND_1,Text,,,Don't even think about breaking through my line!,,休想突破我的防线！,
+Character/laobing_Text_Battle_Cri_0,Text,,,Now! Attack!,,就是现在！进攻！,
+Character/laobing_Text_Battle_Cri_1,Text,,,Pincer tactic! Flank them!,,钳形战术！两路包夹！,
+Character/laobing_Text_Battle_Healed_0,Text,,,Let me lead you out of here!,,让我带你杀出去！,
+Character/laobing_Text_Battle_Healed_1,Text,,,I learned this in the trenches...,,我在战壕里学过这个........,
+Character/laobing_Text_Battle_Idle_0,Text,,,Proud of your achievements? Is now the time to be proud?,,居功自傲？现在是居功自傲的时候吗？,
+Character/laobing_Text_Battle_Idle_1,Text,,,We don't have time for nonsense.,,我们没时间在这胡闹。,
+Character/laobing_Text_Battle_Kill_0,Text,,,Beat them senseless!,,把他们揍得找不着北！,
+Character/laobing_Text_Battle_Kill_1,Text,,,This land doesn't welcome you!,,这片土地不欢迎你们！,
+Character/laobing_Text_Battle_ND_0,Text,,,What a clumsy attack!,,真是拙劣的进攻！,
+Character/laobing_Text_Battle_ND_1,Text,,,"Screw you, either finish me or get lost!",,去你的，要么给我个痛快，要么就滚！,
+Character/laobing_Text_Battle_Start_0,Text,,,A soldier's duty.,,士兵的分内之事。,
+Character/laobing_Text_Battle_Start_1,Text,,,"Swords must be swift, but minds even swifter.",,刀剑要快，脑子更要快。,
+Character/laobing_Text_Field_GetItem_0,Text,,,"Though my hands are clumsy, I quite enjoy playing with this.",,虽然我手笨，但我挺喜欢玩这个的。,
+Character/laobing_Text_Field_GetItem_1,Text,,,A pretty little thing.,,很漂亮的小东西。,
+Character/laobing_Text_Field_Idle_0,Text,,,"Let this old dog show you some new tricks, eh?",,让我这条老狗给你展示展示新把戏，怎么样？,
+Character/laobing_Text_Field_Idle_1,Text,,,You're stronger than those before you.,,你们比之前那些人强多了。,
+Character/laobing_Text_Field_Potion_P_0,Text,,,This must be top-notch brandy.,,这应该是上等的白兰地,
+Character/laobing_Text_MasterTarget,Text,,,I walk with a clear conscience. I've given my all.,,我走得问心无愧。我已经付出了我的全部。,
+Character/laobing_Text_PharosLeader_0,Text,,,My vision is clear!,,我的视野清晰了！ ,
+Character/laobing_Text_PharosLeader_1,Text,,,I just had a peaceful dream.,,我刚做了一个恬静的梦。 ,
+Character/laobing_Text_PharosLeader_2,Text,,,Long live Pharos!,,法洛斯万岁！,
+Character/laobing_Text_Witch_0,Text,,,Everyone believes in you.,,大家都相信你。,
+Character/laobing_Text_Witch_1,Text,,,It seems I trusted the wrong person.,,看来我信错了人。,
+Character/laobing_name,Text,,,Barristan,,巴利斯坦,
+Character/leper_PassiveDes,Text,,,Grants self 1 stack of Blind with a 60% base chance at the start of each turn.,,每回合给予自身1层基础概率为60%的“致盲”,
+Character/leper_PassiveName,Text,,,Leprosy,,麻风病,
+Character/leper_SelectInfo,Text,,,"A warrior, a poet, a man tormented by illness. His massive sword can cause massive destruction or nothing at all.
+
+Baldwin is a self-sufficient hero. His flaw, leprosy, may interrupt his attacks, but he never fails against weakened enemies.",,"一个战士一个诗人，一个受到病痛折磨的人，他的巨大的剑能造成巨大的毁灭或者什么也不会发生
+
+鲍德温是一个自给自足的英雄，他的缺点因为他的麻风病可能导致他进攻的中断，但他从不对虚弱的敌人失手
+",
+Character/leper_Text_Battle_AllyND_0,Text,,,"You should choose to die another day. For now, protect your life.",,你们还是择日而亡吧，现在保护住自己的性命。,
+Character/leper_Text_Battle_AllyND_1,Text,,,Overcome your pain!,,超越你的苦痛！,
+Character/leper_Text_Battle_Cri_0,Text,,,"Avalanche, unstoppable!",,雪崩之势，无人可挡！,
+Character/leper_Text_Battle_Cri_1,Text,,,"Tide rises, tide falls.",,潮起，潮落。,
+Character/leper_Text_Battle_Healed_0,Text,,,I suppose I should be grateful to still be alive.,,我想自己应该感恩，还能继续生存下去。,
+Character/leper_Text_Battle_Healed_1,Text,,,"Cough, my soul still clings to survival.",,咳，我的灵魂依然在执着求生。,
+Character/leper_Text_Battle_Idle_0,Text,,,"The night is darkest, but the dawn is brightest.",,夜至深，而日至明。,
+Character/leper_Text_Battle_Idle_1,Text,,,The prey stands still. Silent as a corpse. Fear it will die.,,猎物静伫。寂如尸首。畏之将死。,
+Character/leper_Text_Battle_Kill_0,Text,,,"Blood and mud mingle, petals fall.",,血泥相间，花瓣飘落。,
+Character/leper_Text_Battle_Kill_1,Text,,,"Rain falls in the forest, summer before autumn.",,林中落雨，秋前盛夏,
+Character/leper_Text_Battle_ND_0,Text,,,The darkest night also yields to the brightest dawn.,,最黑的夜也屈服于至明的晨。,
+Character/leper_Text_Battle_ND_1,Text,,,Death is already an acquaintance of mine. I do not fear it.,,死神已经是我的熟识了。我不畏惧它。,
+Character/leper_Text_Battle_Start_0,Text,,,Open the hunting eye. Use it to achieve victory.,,睁开狩猎之眼。用它走向胜利。,
+Character/leper_Text_Battle_Start_1,Text,,,We are as steadfast as steel.,,我们如钢铁般坚毅。,
+Character/leper_Text_Field_GetItem_0,Text,,,"Fate is fickle, but today she smiles.",,命运无常，但今天她笑了。,
+Character/leper_Text_Field_GetItem_1,Text,,,"The air is silent here, but it was left behind.",,寂静的空气笼罩着这个地方，但它被留下了。,
+Character/leper_Text_Field_Idle_0,Text,,,Let us enjoy this moment of respite.,,让我们享受这片刻的喘息吧。,
+Character/leper_Text_Field_Idle_1,Text,,,"I had a beautiful dream, this time...",,我做了一个美梦，这一次……,
+Character/leper_Text_Field_Potion_P_0,Text,,,Every drop counts.,,每一滴都很重要。,
+Character/leper_Text_MasterTarget,Text,,,"Spare the others, I am ready.",,饶了其他人吧，我已经准备好了。,
+Character/leper_Text_PharosLeader_0,Text,,,"Before I leave, I must eliminate the traitors.",,在我离开之前需要先消灭掉背叛者。,
+Character/leper_Text_PharosLeader_1,Text,,,I must accept punishments others cannot.,,我必须接受别人不能接受的惩罚。,
+Character/leper_Text_PharosLeader_2,Text,,,"Our world—fallen, unrecognizable!",,我们的世界——堕落了，面目全非！,
+Character/leper_Text_Witch_0,Text,,,"Step back, I can bear this punishment.",,退后，我可以接受这个惩罚。,
+Character/leper_Text_Witch_1,Text,,,One rot cannot fight another rot.,,一种腐烂无法对抗另一种腐烂。,
+Character/leper_name,Text,,,Baldwin,,鲍德温,
+Character/wenyi_PassiveDes,Text,,,Restores 20% of the party's max HP as overheal at the end of each battle.,,每场战斗结束恢复我方队伍全体其最大生命的20%的超额治疗,
+Character/wenyi_PassiveName,Text,,,Post-Battle Healing,,战后治疗,
+Character/wenyi_SelectInfo,Text,,,"Paracelsus often uses untested drugs and bold treatment methods to heal her companions. She frequently prioritizes injecting herself with untested drugs to ensure their safety.
+
+Paracelsus is a doctor who prefers to prevent pain before it arrives. She can not only heal her companions but also use her corrosive drugs and the knife in her hand to inflict extraordinary pain on her enemies.",,"帕拉塞尔苏斯经常会使用未经实验的药物好大胆的治疗方式来治愈同伴，而且她经常会优先将未经实验的药物给自己注射来保证其安全性
+
+帕拉塞尔苏斯是一个喜欢在伤痛来临前进行预防的一个医生，她不但能治疗同伴也能使用她那带有腐蚀性的药物和手中的刀给予敌人非同寻常的痛苦
+
+",
+Character/wenyi_Text_Battle_AllyND_0,Text,,,Hold on! I'm coming!,,坚持下去！我来了！,
+Character/wenyi_Text_Battle_AllyND_1,Text,,,Don't die! I have a method to test!,,别死！我有一个方法可以测试！,
+Character/wenyi_Text_Battle_Cri_0,Text,,,Turn to dust!,,化为尘埃！,
+Character/wenyi_Text_Battle_Cri_1,Text,,,They are flesh and blood like any other beast!,,它们和其他野兽一样都是血肉之躯！,
+Character/wenyi_Text_Battle_Healed_0,Text,,,Adrenaline is a miracle...,,肾上腺素是一个奇迹...,
+Character/wenyi_Text_Battle_Healed_1,Text,,,I've cheated death once before!,,我曾经战胜过死亡一次！,
+Character/wenyi_Text_Battle_Idle_0,Text,,,"Steady, steady. We will win this.",,稳住稳住。我们会赢得这场胜利。,
+Character/wenyi_Text_Battle_Idle_1,Text,,,Has fatigue come for us so soon...?,,疲劳这么快就来找我们了吗……？,
+Character/wenyi_Text_Battle_Kill_0,Text,,,"From a professional standpoint, I believe these pitiful patients are beyond saving.",,从专业的角度，我认为这些可悲的病人已经无药可救了。,
+Character/wenyi_Text_Battle_Kill_1,Text,,,Watch closely as they wither and die!,,好好看看它们是怎么凋零然后死去的！,
+Character/wenyi_Text_Battle_ND_0,Text,,,The scent of death lingers at the door...,,死亡的气息在门口徘徊… ,
+Character/wenyi_Text_Battle_ND_1,Text,,,All flesh decays when its time comes.,,时限一到，所有肉身都会凋零。 ,
+Character/wenyi_Text_Battle_Start_0,Text,,,"Enemies, taste the special concoction I've prepared for you!",,敌人们，尝尝我为你们特制的混合药剂吧！ ,
+Character/wenyi_Text_Battle_Start_1,Text,,,We can cure the plague of this land. We are the antidote.,,"我们能治愈此地的瘟疫。我们就是解药。 
+
+",
+Character/wenyi_Text_Field_GetItem_0,Text,,,"Now, to make something useful...!",,现在，制作一些有用的东西......！,
+Character/wenyi_Text_Field_GetItem_1,Text,,,I remain skeptical. However...,,我仍然持怀疑态度。然而...,
+Character/wenyi_Text_Field_Idle_0,Text,,,I suppose sometimes a second opinion is needed.,,我想有时需要另一种意见。,
+Character/wenyi_Text_Field_Idle_1,Text,,,"Before you arrived, everything was so dull.",,在你来到这里之前，一切都很无聊。,
+Character/wenyi_Text_Field_Potion_P_0,Text,,,Helps stabilize bodily fluids!,,有助于稳定体液！,
+Character/wenyi_Text_MasterTarget,Text,,,Don't choose me! I'm a learned scholar!,,不要选我！我是个博学的学者！,
+Character/wenyi_Text_PharosLeader_0,Text,,,The corpse... the corpse is rising again!,,尸体...尸体它又站起来了！,
+Character/wenyi_Text_PharosLeader_1,Text,,,I... I'm sorry...,,我.....很抱歉...,
+Character/wenyi_Text_PharosLeader_2,Text,,,This is a mistake!,,这是个错误！,
+Character/wenyi_Text_Witch_0,Text,,,A healthy immune system can't even be pierced by a blade!,,健康的免疫系统就算刀刃也无法刺穿！ ,
+Character/wenyi_Text_Witch_1,Text,,,Prevent unnecessary blood loss!,,阻止不必要的失血！,
+Character/wenyi_name,Text,,,Paracelsus,,帕拉塞尔苏斯,
+Skill/Di_j_Description,Text,,,,,,
+Skill/Di_j_Name,Text,,,Point Blank Shot,,抵近射击,
+Skill/Fensui_Description,Text,,,Consumes Mark to overheal 20% of max HP.,,消耗“标记”超额治疗自身20%的生命值,
+Skill/Fensui_Name,Text,,,Crush,,粉碎,
+Skill/Jue_d_Description,Text,,,,,,
+Skill/Jue_d_Name,Text,,,Duelist's Advance,,决斗突刺,
+Skill/Lan_l_Description,Text,,,"Steals buffs from the target on hit.
+Generates 1 healing skill.
+Using the generated skill applies the stolen buffs to the target.",,"命中时抢劫目标身上的buff
+生成1个治疗技能
+使用生成的技能将抢劫的buff施加给目标",
+Skill/Lan_l_Name,Text,,,Highway Robbery,,拦路抢劫,
+Skill/Laobing_qiangyuan_Description,Text,,,"Removes 1 random debuff from the target.
+Removes 1 random weakening debuff from the target.",,"消除目标随机一个干扰减益
+消除目标随机一个弱化减益",
+Skill/Laobing_qiangyuan_Name,Text,,,Bolster,,强援,
+Skill/Llaobing_jianshouzhenxian_Description,Text,,,Destroys Flaw to apply &a% Stun.,,销毁“破绽”施加&a%眩晕,
+Skill/Llaobing_jianshouzhenxian_Name,Text,,,Stand Fast,,压阵,
+Skill/Miao_z_Description,Text,,,,,,
+Skill/Miao_z_Name,Text,,,Take Aim,,瞄准,
+Skill/Qie_k_Description,Text,,,Removes Flaw and applies Bleed.,,消除“破绽”添加流血,
+Skill/Qie_k_Name,Text,,,Open Vein,,切开静脉,
+Skill/Shi_z_Description,Text,,,Generates a 0-cost Fatal Strike on hit.,,命中后生成一个费用为0的致命双击,
+Skill/Shi_z_Name,Text,,,Double Cross,,十字交错,
+Skill/Shou_q_Description,Text,,,"Guaranteed Critical Hit on targets with weakening debuffs.
+Removes Flaw to apply &a% Stun.",,"命中带有弱化减益的目标必定暴击
+消除“破绽”使目标&a%概率眩晕",
+Skill/Shou_q_Name,Text,,,Pistol Shot,,手枪射击,
+Skill/Xian_d_Description,Text,,,,,,
+Skill/Xian_d_Name,Text,,,Grapeshot Blast,,霰弹轰扫,
+Skill/Xie_e_Description,Text,,,Executes units below 20% HP.,,斩杀生命值低于20%的单位,
+Skill/Xie_e_Name,Text,,,Wicked Slash,,邪恶切割,
+Skill/Zhi_m_Description,Text,,,"Generates a 0-cost copy on hit.
+Increases damage by &a if the target's HP is below half.
+Executes units below 10% HP.",,"命中后生成费用为0的复制
+目标生命值低于一半时增加&a伤害
+斩杀生命值低于10%的单位",
+Skill/Zhi_m_Name,Text,,,Fatal Strike,,致命双击,
+Skill/Zhui_z_Description,Text,,,,,,
+Skill/Zhui_z_Name,Text,,,Tracking Shot,,追踪射击,
+Skill/dms_lucy_Description,Text,,,"Placed on top of the deck at the start of battle.
+Draw 2 cards for each enemy.
+
+Dismas always spots enemies before they do.",,"战斗开始时放到牌库上方
+每一个敌人能使你抽两张卡
+
+迪马斯总能先敌人一步发现他们",
+Skill/dms_lucy_Name,Text,,,Bandit's Sense,,强盗直觉,
+Skill/juedou_fanji_Description,Text,,,,,,
+Skill/juedou_fanji_Name,Text,,,Riposte,,反击,
+Skill/laobing_baofu_Name,Text,,,Retribution,,报复,
+Skill/laobing_chetui_Description,Text,,,Overheals 50% of max HP when at Death's Door.,,在濒死时超额回复50%最大生命,
+Skill/laobing_chetui_Name,Text,,,Strategic Withdrawal,,战略撤退,
+Skill/laobing_dunji_Description,Text,,,Applies Stun if the target is already Stunned.,,目标有“晕眩”施加眩晕,
+Skill/laobing_dunji_Name,Text,,,Rampart,,盾击,
+Skill/laobing_fanji_Name,Text,,,Riposte Attack,,反击,
+Skill/laobing_jianshou_Description,Text,,,,,,
+Skill/laobing_jianshou_Name,Text,,,Stand Fast,,坚守阵线,
+Skill/laobing_lucy_Description,Text,,,Draw 2 skills and reduce their cost to 0.,,抽取两个技能使其费用为0,
+Skill/laobing_lucy_Name,Text,,,Tactics,,策略,
+Skill/laobing_mengji_Description,Text,,,"Removes all positive buffs from self.
+Increases damage based on the number of buffs removed.
+Current &a damage increase.",,"移除自身所有正面buff
+根据移除的buff层数增加伤害
+当前&a伤害增加",
+Skill/laobing_mengji_Name,Text,,,Courageous Abandon,,舍身猛击,
+Skill/laobing_shouhu_Name,Text,,,Defender,,保护,
+Skill/laobing_zhihui_Name,Text,,,Command,,指挥,
+Skill/leper_didang_Name,Text,,,Withstand,,抵挡,
+Skill/leper_fuchou_Description,Text,,,,,,
+Skill/leper_fuchou_Name,Text,,,Revenge,,复仇,
+Skill/leper_huimie_Description,Text,,,,,,
+Skill/leper_huimie_Name,Text,,,Ruin,,毁灭,
+Skill/leper_jipo_Description,Text,,,"Guaranteed hit on targets with weakening debuffs.
+Ignores Defense.",,"必定命中持有弱化减益的目标
+无视防御",
+Skill/leper_jipo_Name,Text,,,Break,,击破,
+Skill/leper_lucy_1_Description,Text,,,Prioritizes drawing 3 healing skills and reduces their cost by 1.,,优先抽取3个治疗技能并减少一费,
+Skill/leper_lucy_1_Name,Text,,,Quarantine,,隔离,
+Skill/leper_lucy_2_Description,Text,,,Prioritizes drawing 3 attack skills and reduces their cost by 1.,,优先抽取3个攻击技能并减少一费,
+Skill/leper_lucy_2_Name,Text,,,Reflection,,碎刃倒影,
+Skill/leper_lucy_Description,Text,,,"Quarantine: Prioritizes drawing 3 healing skills and reduces their cost by 1.
+Reflection: Prioritizes drawing 3 attack skills and reduces their cost by 1.",,"隔离：优先抽取3个治疗技能并减少一费
+碎刃倒影：优先抽取3个攻击技能并减少一费",
+Skill/leper_lucy_Name,Text,,,Quarantine/Reflection,,隔离/碎刃倒影,
+Skill/leper_mingjian_Description,Text,,,Clears 5 random weakening debuffs from self.,,清除自身的随机5层弱化减益,
+Skill/leper_mingjian_Name,Text,,,Reflection,,明鉴,
+Skill/leper_piduo_Description,Text,,,Guaranteed hit on targets with weakening debuffs.,,对持有弱化减益的目标必中,
+Skill/leper_piduo_Name,Text,,,Chop,,劈剁,
+Skill/leper_shunpi_Description,Text,,,Guaranteed hit on targets with weakening debuffs.,,对持有弱化减益的目标必中,
+Skill/leper_shunpi_Name,Text,,,Hew,,顺劈,
+Skill/leper_sumu_Description,Text,,,Heals 50% of max HP.,,治疗自身最大生命值50%,
+Skill/leper_sumu_Name,Text,,,Solemnity,,肃穆,
+Skill/leper_suqing_Description,Text,,,"Accumulates 15 damage whenever this character takes damage while this skill is in hand.
+Max &b.
+
+(Current accumulated damage &a)",,"这个技能在手中时每当该角色受到受伤时累计15点伤害
+最大不超过&b
+
+（当前累计的伤害&a）",
+Skill/leper_suqing_Name,Text,,,Purge,,肃清,
+Skill/leper_weihe_Name,Text,,,Intimidate,,威吓,
+Skill/leper_zhifu_Description,Text,,,Applies &a% Stun if the target is Stunned.,,击中“晕眩”目标使其&a%眩晕,
+Skill/leper_zhifu_Name,Text,,,Bash,,制服,
+Skill/nuhou_Description,Text,,,"Removes Riposte, Guard, and Thorns buffs from enemies.",,解除敌人身上的反击，戒备和荆棘的buff,
+Skill/nuhou_Name,Text,,,Bellow,,怒吼,
+Skill/wenyi_buji_Description,Text,,,"Heals 20% of the target's max HP, then overheals based on the number of buffs on the target and removes them.
+Each positive buff heals 20% of the target's max HP.
+Each negative buff heals 10% of the target's max HP.",,"根据目标最大生命的20%施加治疗再根据目标身上的buff数量超额治疗并消除这些buff
+每个正面buff造成目标最大生命20%的治疗
+每个负面buff造成目标最大生命10%的治疗",
+Skill/wenyi_buji_Name,Text,,,Indiscriminate Science,,不羁科学,
+Skill/wenyi_fanghu_qiti_Name,Text,,,Ounce of Prevention,,防护气体,
+Skill/wenyi_lucy_Description,Text,,,"Randomly selects 2 effects from the following 4:
+
+Incense: Restores 2 AP.
+Cooling Dressing: Draw 2 cards.
+Unknown Mixture: Casts the last skill used.
+Herbs: Restores 10 HP to all allies.",,"在以下4个效果中随机，随机两次
+熏香：恢复2AP
+清爽敷药：抽两张卡
+未知混合物：释放你最后一次释放的技能
+草药：恢复我方全体10HP
+",
+Skill/wenyi_lucy_Name,Text,,,Experimental Vapours,,实验性药物,
+Skill/wenyi_lucy_chouka_Description,Text,,,"Draws 2 cards.
+
+(It seems to make your body lighter.)",,"抽取2张卡
+
+
+（看来它能让你的身体变得更轻了）
+",
+Skill/wenyi_lucy_chouka_Name,Text,,,Cooling Dressing,,清爽敷药,
+Skill/wenyi_lucy_huilan_Description,Text,,,"Restores 2 AP.
+
+(It seems to relieve mental fatigue.)",,"回复2AP
+
+（看起来它能缓解你的精神疲劳）",
+Skill/wenyi_lucy_huilan_Name,Text,,,Incense,,熏香,
+Skill/wenyi_lucy_huixue_Description,Text,,,"Casts the last skill used.
+
+(It seems to make you too energetic!)",,"释放最后一个使用的技能
+
+
+（看起来它让你太精神了！）",
+Skill/wenyi_lucy_huixue_Name,Text,,,Unknown Mixture,,未知混合物,
+Skill/wenyi_lucy_suiji_Description,Text,,,"Restores 10 HP to all allies.
+
+(It seems effective.)",,"恢复我方全体10hp
+
+
+（看起来效果不错）",
+Skill/wenyi_lucy_suiji_Name,Text,,,Herbs,,草药,
+Skill/wenyi_meifen_Description,Text,,,Increases the duration of the target's Pain and Weakening debuffs by 1 turn.,,目标的痛苦，弱化减益效果增加1回合持续时间,
+Skill/wenyi_meifen_Name,Text,,,Magnesium Rain,,镁粉,
+Skill/wenyi_mihuo_Description,Text,,,Destroys Flaw to apply &a% Stun.,,销毁“破绽”施加&a%眩晕,
+Skill/wenyi_mihuo_Name,Text,,,Disorienting Blast,,迷惑爆炸,
+Skill/wenyi_qiege_Name,Text,,,Incision,,切割,
+Skill/wenyi_shoulei_Name,Text,,,Plague Grenade,,瘟疫手雷,
+Skill/wenyi_siyin_Description,Text,,,"Resolves all Pain debuffs on the target.
+Resolves up to 4 turns of damage per buff stack.",,"结算目标的所有痛苦减益
+结算时最多结算每层buff4回合的总伤",
+Skill/wenyi_siyin_Name,Text,,,Cause of Death,,死因,
+Skill/wenyi_wenyi_baozha_Description,Text,,,"If the target has Flaw, applies &b% chance of &c Corrosion Pain debuff per turn and destroys Flaw.
+
+Otherwise, applies &a% chance of &d Corrosion Pain debuff per turn.
+
+Corrosion lasts 3 turns.",,"如果目标有“破绽”则施加&b%概率的每回合&c腐蚀痛苦减益并销毁“破绽”
+没有则使用&a%概率的每回合&d腐蚀痛苦减益
+
+腐蚀持续3回合",
+Skill/wenyi_wenyi_baozha_Name,Text,,,Noxious Blast,,瘟疫爆炸,
+Skill/wenyi_zhandi_yiliao_Description,Text,,,"If the target's HP is below 50%, overheals 25% of max HP.
+Removes Pain debuffs from self and target.",,"如果目标生命值不大于50%超额治疗目标最大生命25%
+消除自身和目标的痛苦减益",
+Skill/wenyi_zhandi_yiliao_Name,Text,,,Battlefield Medicine,,战地医疗,
+Skill/wenyi_zhimang_qiti_Name,Text,,,Blinding Gas,,致盲气体,
+Skill/wenyi_zhuangdan_Description,Text,,,,,,
+Skill/wenyi_zhuangdan_Name,Text,,,Emboldening Vapours,,壮胆烟雾,
+SkillExtended/Ex_ShadowPriest_0_Name,Text,,,This skill will no longer be copied.,,此技能不会再复制,
+SkillExtended/Qianghua_bibao_Des,Text,,,,,,
+SkillExtended/Qianghua_bibao_EnforceString,Text,,,Guaranteed Critical Hit on targets with weakening debuffs.,,为攻击技能,
+SkillExtended/Qianghua_bibao_Name,Text,,,Applies Vulnerable to the target.,,对弱化减益目标必定暴击,
+SkillExtended/Qianghua_yishang_EnforceString,Text,,,Attack Skill,,攻击技能,
+SkillExtended/Qianghua_yishang_Name,Text,,,Applies Vulnerable to the target.,,对目标施加易伤,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+

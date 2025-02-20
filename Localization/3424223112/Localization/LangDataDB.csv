@@ -1,0 +1,352 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_gmdj_Description,Text,,,"With her sister's companionship, Koishi's heart has undergone some changes.",,"有了姐姐的陪伴，恋恋的内心有了些变化
+",
+Buff/B_gmdj_Name,Text,,,Sister's Companionship,,姐姐的陪伴,
+Buff/bengwo_Description,Text,,<color=#999999>본아는 사고의 원시적인 프로그램을 대표합니다——인간의 가장 원초적이며 본능적 충동을 충족시키려는 욕망</color>,<color=#999999>The Id represents the primitive programming of thoughts—humanity's most primal desires driven by instinctual impulses.</color>,<color=#999999>エスは思考の原始プログラムを表す——人間の最も根源的で本能的な衝動を満たす欲望である。</color>,<color=#999999>本我代表思绪的原始程序——人最为原始的、属满足本能冲动的欲望 </color>,<color=#999999>本我代表思緒的原始程式——人最為原始的、屬滿足本能衝動的慾望</color>
+Buff/bengwo_Name,Text,,본아의 해방,Liberation of the Id,イドの解放,本我的解放,本我的解放
+Buff/cehuangyi_Description,Text,,"'벌레 조각 책략, 감히 대문에서 도끼질하다니.
+우리 언니 누군지 알면 올라와서 때려.","Petty tricks, daring to display axe skills before a master carpenter. 
+Do you even know who my sister is before attacking me?","「つまらない小細工で、よくも班門弄斧をしてくれたな。
+私の姉が誰か知っているのか、よくもかかってきたな。」","雕虫小计，竟敢班门弄斧
+知道我姐是谁吗就敢上来打","「雕蟲小計，竟敢班門弄斧。
+知道我姐是誰嗎就敢上來打。」"
+Buff/cehuangyi_Name,Text,,간파 당하다,Exposed,見破られた,被识破,被識破
+Buff/fuluoyide_Description,Text,,"'사라진 후 버려진 카드 더미에서 랜덤으로 카드를 뽑습니다.
+<color= #999999> 잠재의식론은 프로이트주의에서 특히 중요한 위치를 차지한다. 이것은 정신분석학의 초석이자 핵심이다. 프로이트의 다른 일부 기본 이론은 모두 다른 측면에서 잠재의식론을 논증하고 해석한다. </color>","When vanished, draw a random card from the discard pile. 
+<color=#999999>The theory of the unconscious holds an especially important position in Freudianism, serving as the cornerstone of psychoanalysis. Freud's other theories are extensions and elaborations of this core concept.</color>","消えた後、捨て札の山からランダムに1枚のカードを引く。
+<color=#999999>無意識の理論はフロイト主義において特に重要な位置を占めている。それは精神分析学の礎石であり核心であり、フロイトの他の基本理論の多くは、様々な側面から無意識の理論を証明し解釈するものである。</color>","消失后从弃牌堆中随机抽取一张牌
+<color=#999999>潜意识论在弗洛伊德主义中占有特别重要的地位，它是精神分析学的基石和核心，弗洛伊德的其他一些基本理论都是从不同侧面论证和阐释潜意识论的。 </color>
+","消失後從棄牌堆中隨機抽取一張牌。
+<color=#999999>潛意識論在佛洛伊德主義中佔有特別重要的地位，它是精神分析學的基石和核心，佛洛伊德的其他一些基本理論都是從不同側面論證和闡釋潛意識論的。</color>"
+Buff/fuluoyide_Name,Text,,프로이트 학설,Freudian Theory,フロウディアン,弗洛伊德学说,佛洛伊德學說
+Buff/huanxing_Description,Text,,,,,,
+Buff/huanxing_Name,Text,,잠재의식 각성,Subconscious Awakening,潜在意識の覚醒,潜意识唤醒,潛意識喚醒
+Buff/jiying_Description,Text,,"""명중률이 감소할수록 피해량이 증가합니다.""
+<color=#999999>융은 잠재의식 속에 조상으로부터 유전된 경험의 축적이 있다고 보았습니다.</color>","Increases damage based on reduced Accuracy.
+<color=#999999>Jung believed the unconscious contains ancestral memories inherited through generations.</color>","""命中率が低下するほどダメージが増加します。""
+<color=#999999>ユングは、潜在意識の中には祖先から遺伝的に受け継がれた経験の蓄積があると考えました。</color>","会根据命中率的降低提高伤害
+<color=#999999>荣格认为，在潜意识中有着从祖先那里遗传下来的经验积累 </color>
+","""會根據命中率的降低提高傷害。""
+<color=#999999>榮格認為，在潛意識中有著從祖先那裡遺傳下來的經驗積累。</color>"
+Buff/jiying_Name,Text,,잠재의식의 유전자,Genetic Unconscious,無意識の遺伝子,潜意识の基因,潛意識の基因
+Buff/kongxiang_Description,Text,,,,,,
+Buff/kongxiang_Name,Text,,공상 속의 인격 보유자,Fantasy Persona Keeper,空想上の人格保持者,空想上的人格保持者,空想上的人格保持者
+Buff/maihuo_Description,Text,,"""(사랑만이 그것을 건드릴 수 있는 것 같다)
+<color=#999999> 잿더미 속에 숯불을 묻는다.재는 단열 성능이 뛰어나고 숯불과 공기를 차단할 수 있기 때문에 숯불의 에너지를 상당 기간 보존할 수 있다.이후 산소만 공급하면 숯불이 다시 탈 수 있습니다.</color>""","(Seems only Koishi can activate this) 
+<color=#999999>Burying embers in ashes. Ashes provide excellent insulation, preserving the ember's energy by隔绝 oxygen. When exposed to air, the ember reignites.</color>","（どうやらこいしだけがそれを触発できるようです）
+<color=#999999>炭火を灰の中に埋めます。灰は断熱性が良く、炭火と空気を遮断することができるため、炭火のエネルギーをかなり長い時間保存することができます。その後、酸素を供給すれば、炭火は再び燃え上がることができます。</color>","（似乎只有恋恋可以触动它）
+<color=#999999>把炭火埋在灰烬之中。因为灰烬有着良好的隔热性能，同时也可以把炭火和空气隔绝开来，所以可以把炭火的能量保存相当长的一段时间。之后只要供给氧气，炭火就可以重新燃烧起来。 </color>","（似乎只有戀戀可以觸動它）
+<color=#999999>把炭火埋在灰燼之中。因為灰燼有著良好的隔熱性能，同時也可以把炭火和空氣隔絕開來，所以可以把炭火的能量保存相當長的一段時間。之後只要供給氧氣，炭火就可以重新燃燒起來。</color>"
+Buff/maihuo_Name,Text,,사랑에 불을 묻다,Koishi's Buried Ember,恋の埋火,恋之埋火,戀之埋火
+Buff/qiangwei_Description,Text,,"공격불가, 매 라운드 50% 혈액량 회복.
+<color=#999999>サブタレイニアン（subterranean）
+""지하적, 표면적"" 또는 ""숨김, 비밀적"" 으로 해석할 수 있다
+지하에 거주하는 사람, 지하에 서식하는 생물</color> ","Cannot attack. Recovers 50% HP each turn.
+<color=#999999>サブタレイニアン（subterranean）
+It can be interpreted as ""underground"", ""hidden"", or referring to beings dwelling beneath the surface.</color>","攻撃できず、毎ターン50%の血量を回復する。
+<color=#999999>サブタレイニアン（subterranean）
+「地下の、表面下の」あるいは「隠された、秘密の」と解釈することができる
+地下に住む人、地底に生息する生物</color>","无法攻击，每回合回复50%血量。
+<color=#999999>サブタレイニアン（subterranean）
+可以解作“地下的、表面下的”或者“隐藏、秘密的”
+居住在地下的人，栖息在地底的生物 </color>","“無法攻擊，每回合回復50%血量。
+<color=#999999>サブタレイニアン（subterranean）
+可以解作“地下的、表面下的”或者“隱藏、秘密的”
+居住在地下的人，棲息在地底的生物</color>“"
+Buff/qiangwei_Name,Text,,어둠 속으로 잠입하다,Diving into the Darkness,闇に潜る,潜入黑暗,潜入黑暗
+Buff/shanbi5_Description,Text,,<color=#999999> 닫혔던 세 번째 눈이 부드러워진 듯 </color>,<color=#999999>The tightly closed third eye appears to have softened.</color>,<color=#99999>閉じた第3の目が柔らかくなったようだ</color>,<color=#999999>紧闭的第三只眼似乎变得柔和起来 </color>,<color=#999999>緊閉的第三隻眼似乎變得柔和起來</color>
+Buff/shanbi5_Name,Text,,불을 묻다,Buried Ember,埋火,埋火,埋火
+Buff/shishen_Description,Text,,<color=#999999>쌍끌이 (연애 별로야 QAQ?)</color>,<color=#999999>A double entendre (Is Koishi not pretty enough? QAQ?)</color>,<color=#99999>一言二言（こいしは美しくないかQAQ？）</color>,<color=#999999>一语双关（恋恋不好看嘛QAQ？） </color>,<color=#999999>一語雙關（戀戀不美麗嘛QAQ？）</color>
+Buff/shishen_Name,Text,,실신,Stupefaction,失神,失神,失神
+Buff/wuyishi_Description,Text,,"공격당할 확률 대폭 감소
+공격력 증가 ","Greatly reduces aggro chance. 
+Increases Attack.","「被攻撃確率を大幅に下げる
+攻撃力を加える」","大幅降低被攻击概率
+加攻击力","“大幅降低被攻擊概率
+加攻擊力“"
+Buff/wuyishi_Name,Text,,무의식,Unconscious,無意識,无意识,無意識
+Buff/zhanfang_Description,Text,,"""<color=#999999>A rose by any other name would smell as sweet.
+장미는 어떤 이름으로 불리든 향기롭다.겉으로 아무리 가려져도 본질은 변하지 않는다
+장미의 꽃말은 꽃의 색깔과 크기에 따라 다르지만 전체적으로 사랑과 사랑을 나타냅니다.</color>
+""","<color=#999999>A rose by any other name would smell as sweet.
+No matter what name a rose is called, it is fragrant; No matter how it is covered up on the surface, its essence will not change.
+The language of roses varies depending on the color and size of the flowers, but overall, they represent love and affection.</ color>","""<color=#999999>A rose by any other name would smell as sweet.
+バラはどんな名前で呼ばれても、香りです。いくら表面的に覆い隠されても、本質は変わらない
+バラの花言葉は、花の色や大きさによって異なりますが、全体的には愛と恋を表しています。</color>","<color=#999999>A rose by any other name would smell as sweet.
+玫瑰无论被称作什么名字，都是芳香的；无论表面上被如何遮掩，本质是不会改变的
+玫瑰的花语，根据花的颜色及大小而有所不同，但总体来说，代表爱和恋。 </color>
+","""<color=#999999>A rose by any other name would smell as sweet.
+玫瑰無論被稱作什麼名字，都是芳香的； 無論表面上被如何遮掩，本質是不會改變的
+玫瑰的花語，根據花的顏色及大小而有所不同，但總體來說，代表愛和戀。</ color>
+"""
+Buff/zhanfang_Name,Text,,장미가 피다,Rose's Bloom,バラが咲く,蔷薇绽放,薔薇綻放
+Buff/ziwo_Description,Text,,,,,,
+Buff/ziwo_Name,Text,,자기,Ego,自己,自我,自我
+Character/koishi114_koishi_PassiveDes,Text,,"<color=#009900>閉じた恋の瞳 </color>
+무의식적인 정도를 조종하는 능력
+피격 확률을 낮추고 회피 확률을 20% 증가시켜 적의 공격을 회피할 때마다 1장의 카드를 뽑아 내고(자신의 카드를 우선 뽑고 다른 사람의 카드는 꺼내지 않음).""","<color=#009900>Closed Eyes of Love</color> 
+Ability to manipulate the unconscious. 
+Reduces aggro chance, grants 20% Dodge. Upon dodging, draw and play 1 card (prioritizes drawing your own cards and will not play other characters' cards).","<color=#009900>閉じた恋の瞳 </color>
+無意識の程度を操る能力
+攻撃される確率を下げ、20%の回避確率を増やし、敵の攻撃を避けるたびに、カードを1枚引いて出す（自分のカードを優先的に抽出し、他の人のカードを出さない）。""","<color=#009900>閉じた恋の瞳 </color>
+操控无意识程度的能力
+降低被攻击的概率，增加20%闪避概率，每次闪避敌人攻击时，抽1张牌并打出（优先抽取自己的牌，不会打出其他人的牌）。","<color=#009900>閉じた恋の瞳 </color>
+操控無意識程度的能力
+降低被攻擊的概率，新增20%閃避概率，每次閃避敵人攻擊時，抽1張牌並打出（優先抽取自己的牌，不會打出其他人的牌）。 """
+Character/koishi114_koishi_PassiveName,Text,,닫힌 사랑의 렌즈,Closed Eyes of Love,閉じた恋の瞳 ,紧闭着的恋之瞳,緊閉著的戀之瞳
+Character/koishi114_koishi_SelectInfo,Text,,"""지령전의 주인 고명지각의 누이.
+그녀는 각과 마찬가지로 독심술을 가지고 있지만 사람들이 이런 능력을 싫어한다는 것을 알기 때문에 마음을 읽을 수 있는 세 번째 눈을 꼭 감고 다른 사람의 생각을 더 이상 읽을 수 없게 하여 상대적으로 무의식 정도를 조종할 수 있는 능력을 얻게 된다.
+이것은 또한 그녀가 자신의 마음을 폐쇄했다는 것을 의미한다. 비록 이렇게 하면 지하 주민들의 혐오, 두려움을 받지 않지만, 자신의 마음도 공백이기 때문에 동시에 동물들에게 사랑받지 못한다.본인도 무의식중에 행동하기 일쑤여서 그녀의 존재를 알아채지 못했다.
+평상시에는 지상과 지령전 사이를 목적 없이 돌아다녔다.가끔 지상에 나타나지만 그 자체의 능력 때문에 그녀를 보더라도 주의력이 분산되면 금세 그녀를 잊어버리는 길가의 돌멩이 같은 존재
+누나로서 이런 상태의 사랑에 대한 걱정이 컸던 터라 애완동물에게 사랑과 함께 놀자고 명령하고 전속 애완동물 몇 마리를 배정해 주면서 사랑의 마음이 조금씩 변하기 시작한 것 같다.","Younger sister of Komeiji Satori, mistress of the Palace of the Earth Spirits. 
+Like her sister, she possesses mind-reading abilities. However, knowing others despised this, she closed her third eye—losing the power to read thoughts but gaining control over the unconscious. 
+This self-imposed emptiness shielded her from others' fear but left her unliked by animals. She wanders aimlessly between realms, often forgotten due to her unconscious existence. 
+Satori, concerned, assigned pets to accompany her, sparking gradual changes in Koishi's heart.","「地霊殿の主、古明地さとりの妹。
+彼女はさとりと同じように心を読む術を持っているが、彼女は人々がこの能力を嫌っていることを知っているので、心を読むことができる第三の目を閉じて、自分が他人の考えを読み取ることができないようにして、相対的に無意識の程度を操る能力を得た。
+これは彼女が自分の心を閉ざしていることを意味し、地底住民たちに嫌われたり、恐れられたりすることはないが、自分の心の中も真っ白なので、動物たちに好かれることはない。本人も常に無意識のうちに行動しており、彼女の存在を気づかせることはできない。
+普段は地上と地霊殿の間を目的もなくぶらぶらしている。たまに地面に現れることがありますが、自分の能力のため、彼女を見ても注意力が散漫になると、すぐに忘れてしまいます。道端の石のような存在です
+。姉であるさとりはそんな状態のこいしをとても心配していたため、ペットにこいしと遊ぶよう命じ、専属ペットを何匹か割り当てたことで、こいしの心に変化が起き始めたようだ。
+""","地灵殿之主古明地觉的妹妹。
+她与觉一样拥有读心术，但她知道人们讨厌这种能力，因此将能读心的第三只眼紧闭，让自己无法再读取他人的想法，相对的获得了操控无意识程度的能力。
+这也意味着她封闭了自己的内心，虽然这样便不会遭到地底居民们的厌恶、恐惧，但由于自己的心中也是一片空白，所以同时并不会被动物们所喜欢。本人也常在无意识下行动，无法让人察觉到她的存在。
+平时在地上与地灵殿间漫无目的地游荡。偶尔会出现在地面，但因为本身的能力，即使看到她，只要注意力一分散，就会很快把她忘掉，像是路边石子那样的存在
+。身为姐姐的觉对如此状态的恋非常地担心，因此命令宠物跟恋一起玩耍，并给她分配了几只专属宠物，这让恋的心灵似乎逐渐开始发生了变化。
+","“地靈殿之主古明地覺的妹妹。
+她與覺一樣擁有讀心術，但她知道人們討厭這種能力，囙此將能讀心的第三隻眼緊閉，讓自己無法再讀取他人的想法，相對的獲得了操控無意識程度的能力。
+這也意味著她封閉了自己的內心，雖然這樣便不會遭到地底居民們的厭惡、恐懼，但由於自己的心中也是一片空白，所以同時並不會被動物們所喜歡。 本人也常在無意識下行動，無法讓人察覺到她的存在。
+平時在地上與地靈殿間漫無目的地遊蕩。 偶爾會出現在地面，但因為本身的能力，即使看到她，只要注意力一分散，就會很快把她忘掉，像是路邊石子那樣的存在
+。身為姐姐的覺對如此狀態的戀非常地擔心，囙此命令寵物跟戀一起玩耍，並給她分配了幾只專屬寵物，這讓戀的心靈似乎逐漸開始發生了變化。
+"""
+Character/koishi114_koishi_Text_Battle_AllyND_0,Text,,"히히, 걱정 마, 내 무의식적인 말을 해줘, 조금만 더 버틸 수 있어~ 내가 바로 도와줄게!","Hehe, don't worry~ My unconscious says you can hold on a bit longer. I'll help soon!",にこ、心配しないで、私の無意識は私に教えて、あなたはもう少し我慢することができます～私はすぐにあなたを手伝いに来ます！,嘻嘻，别担心，我的无意识告诉我，你还能再撑一会儿～我马上就来帮你！,嘻嘻，別擔心，我的無意識告訴我，你還能再撐一會兒～我馬上就來幫你！
+Character/koishi114_koishi_Text_Battle_AllyND_1,Text,,"야야, 이렇게 빨리 쓰러지지 마!정신 차려!","Hey, don't collapse so fast! Stay strong!",おいおい、そんなに早く倒れないでよ！しっかりしろ！,喂喂，别这么快就倒下啊！振作一点！,喂喂，別這麼快就倒下啊！ 振作一點！
+Character/koishi114_koishi_Text_Battle_AllyND_2,Text,,"결국, 팀 동료들은 함부로 내버려 둘 수 없다","After all, teammates shouldn't be abandoned carelessly.",結局、チームメイトは勝手に放っておくわけにはいかないからね,毕竟，队友可不能随便丢下不管呢,畢竟，隊友可不能隨便丟下不管呢
+Character/koishi114_koishi_Text_Battle_Cri_0,Text,,이제 어떤 게 좋을까요?,"Hmm, which move should I use next?",次はどの手を使えばいいですか。,接下来用哪招好呢？,接下來用哪招好呢？
+Character/koishi114_koishi_Text_Battle_Cri_1,Text,,연애의 탄막을 피하는 건 어려운데?다음 발은 어느 방향에서 나올지 나도 모르니까 ~,"Dodging my danmaku is hard, right? Even I don't know where the next shot will come from~",こいしの弾幕を避けるのは難しいよ？さすがに次はどの方向から飛び出してくるのか自分でもわからないですよね~,要躲开恋恋的弹幕可是很难的哦？毕竟连我自己都不知道下一发会从哪个方向冒出来呢~,要躲開戀戀的彈幕可是很難的哦？ 畢竟連我自己都不知道下一發會從哪個方向冒出來呢~
+Character/koishi114_koishi_Text_Battle_Cri_2,Text,,"와우, 맞았다!","Whoa, direct hit!",わあ、当たった！,哇哦，打中啦！,哇哦，打中啦！
+Character/koishi114_koishi_Text_Battle_Healed_0,Text,,고마워요,...Thank you.,ありがとう,...谢谢你,…謝謝你
+Character/koishi114_koishi_Text_Battle_Healed_1,Text,,언니는 도움을 받으면 답례하겠다고 했어요. 그런데 이게 아공한테서 떨어진 건데?,"Sister says I should return favors—but these dropped from Utsuho, okay?",姉は助けられたらお返しをすると言っていましたが、これはおくうから落ちたのですよ？,姐姐说被帮助了要送回礼——不过这些是从阿空身上掉下来的哦？,姐姐說被幫助了要送回禮——不過這些是從阿空身上掉下來的哦？
+Character/koishi114_koishi_Text_Battle_Healed_2,Text,,좀 아파요 ~,That stung a little~,ちょっと痛いですよ~,有点痛哦~,有點痛哦~
+Character/koishi114_koishi_Text_Battle_Idle_0,Text,,"몰라, 언니 지금 뭐 하는 거야?",Wonder what Sister's doing now?,姉は今何をしているのか分からない。,不知道姐姐现在在干什么呢？,不知道姐姐現在在幹什麼呢？
+Character/koishi114_koishi_Text_Battle_Idle_1,Text,,때때로 무의식적인 감각이야말로 가장 진실한 것이다......지금처럼 나는 전혀 생각하지 않고 어떻게 해야 할지 알 수 있다!,"Sometimes, unconscious instincts are the truest... Like now, I don't even need to think!",時には、無意識の感覚こそが真実なのですね……今のように、私は全く考えずに、どうすればいいのかを知ることができます！,有时候，无意识的感觉才是最真实的呢……就像现在，我完全不用思考，就能知道该怎么做！,有時候，無意識的感覺才是最真實的呢……就像現在，我完全不用思考，就能知道該怎麼做！
+Character/koishi114_koishi_Text_Battle_Idle_2,Text,,"아, 오늘 바람 참 시원하네~ 싸울 때도 이런 가벼운 느낌을 받으니 좋군!","Ah, the breeze feels nice today~ Fighting while relaxed is the best!",あ、今日の風は気持ちいいですね～。戦っている時もこの軽やかさを感じることができて、いいですね！,啊，今天的风真舒服呢～战斗的时候也能感受到这种轻松的感觉，真不错！,啊，今天的風真舒服呢～戰鬥的時候也能感受到這種輕鬆的感覺，真不錯！
+Character/koishi114_koishi_Text_Battle_Kill_0,Text,,아아~ 어느새 해결됐네?무의식 역시 이런 거 잘해?,Ara~ Did I win without noticing? The unconscious is so good at this♪,あら～いつの間にか解決しちゃったの？無意識はやっぱりこういうことが得意？,啊啦～不知不觉就解决了呢？无意识果然很擅长这种事♪,啊啦～不知不覺就解决了呢？ 無意識果然很擅長這種事？
+Character/koishi114_koishi_Text_Battle_Kill_1,Text,,다음에는 좀 더 은밀하게 숨겨주세요,Hide better next time~,今度はもっと隠れてね,下次要藏得更隐蔽一点哦,下次要藏得更隱蔽一點哦
+Character/koishi114_koishi_Text_Battle_Kill_2,Text,,대단하시네요.,"You're pretty tough, huh?",あなたはすごいですね。,你还蛮腻害的嘛,你還蠻厲害的嘛
+Character/koishi114_koishi_Text_Battle_Kill_3,Text,,"이런, 워밍업도 피할 수 없나?정말 기가 막혀요.",Can't even dodge warm-up moves? How boring——,あら、ウォーミングアップも避けられないの？気が進まないわー,哎呀，热身动作都躲不开吗？真让人提不起劲呀——,哎呀，熱身動作都躲不開嗎？ 真讓人提不起勁呀——
+Character/koishi114_koishi_Text_Battle_ND_0,Text,,"아아, 좀 피곤한데...... 그런데 이런 긴장된 느낌은 오히려 나를 더욱 흥분시켰다!","Oh my, getting tired... But this tension excites me!",ああ、ちょっと疲れたね……でも、この緊張感、逆に私はもっと興奮しました！,啊啦，有点累了呢……不过，这种紧张的感觉，反而让我更兴奋了！,啊啦，有點累了呢……不過，這種緊張的感覺，反而讓我更興奮了！
+Character/koishi114_koishi_Text_Battle_ND_1,Text,,"히히, 좀 진지해야겠네~","Hehe, time to get serious~",へへ、私は少しまじめにならなければなりませんね～,嘻嘻，看来我得稍微认真一点了～,嘻嘻，看來我得稍微認真一點了～
+Character/koishi114_koishi_Text_Battle_ND_2,Text,,"걱정 마, 난 포켓몬이야~ 좀 다르지만 포켓몬이야.",Don't worry—I'm a Satori too! Just... different.,心配しないで、私はさとり妖怪だよ～ちょっと違うけど、さとり妖怪だよ,别担心，我可是觉妖怪哦～虽然有点不一样，但也是觉妖怪啦,別擔心，我可是覺妖怪哦～雖然有點不一樣，但也是覺妖怪啦
+Character/koishi114_koishi_Text_Battle_Start_0,Text,,지령전에서는 이렇게 재밌는 일이 없어요.,The Palace of Earth Spirits never had fun like this~,地霊殿ではこんな面白いことはありませんよ~,在地灵殿可没有这么好玩的事情哦~,在地靈殿可沒有這麼好玩的事情哦~
+Character/koishi114_koishi_Text_Battle_Start_1,Text,,지금 도망가면 늦지 않은데?,You can still flee now~,今逃げても間に合うよ？,现在逃跑还来得及哦？,現在逃跑還來得及哦？
+Character/koishi114_koishi_Text_Battle_Start_2,Text,,저랑 언니랑 달라요. 저는 마음을 읽을 줄 몰라요.,I don't read minds like Sister~,私は姉とは違い、私は心を読むことができません~,我和姐姐不一样，我不会读心啦~,我和姐姐不一樣，我不會讀心啦~
+Character/koishi114_koishi_Text_Field_GetItem_0,Text,,찰칵 하고 비틀어 열다.어차피 금은보화가 아닐 거야--아!이 반짝이는 돌무더기는 오히려 총알로 놀 수 있다!,Click! Let's pry it open! Not treasure—wait! These shiny rocks can be marbles!,カチッと音を立てたらこじ開ける！どうせ金銀財宝ではないに違いない――ああ！このキラキラした石の山はパチンコになることができる！,咔嗒一声就撬开！反正肯定不是金银财宝——啊！这堆亮闪闪的石头倒是能当弹珠玩！,哢嗒一聲就撬開！ 反正肯定不是金銀財寶——啊！ 這堆亮閃閃的石頭倒是能當彈珠玩！
+Character/koishi114_koishi_Text_Field_GetItem_1,Text,,"응, 보물상자 괴물이 없다니 심심해~",Huh? No mimic? Boooring~,え、宝箱怪がいないのか、つまらないな~,欸，居然没有宝箱怪嘛，真无聊~,欸，居然沒有寶箱怪嘛，真無聊~
+Character/koishi114_koishi_Text_Field_GetItem_2,Text,,이건 제가 지령전에서 본 적이 없는데 ~ 무슨 소용이 있어요?,Haven't seen this in the Palace of Earth Spirits. What's it do?,これは地霊殿で見たことがありません。何の用がありますか。,这个我在地灵殿可没有见过~有什么用啊？,這個我在地靈殿可沒有見過~有什麼用啊？
+Character/koishi114_koishi_Text_Field_Idle_0,Text,,이거 봐 ~ 버섯 있어.,Look~ A mushroom!,ほら~これにはキノコの実がある,看~这有个蘑菇欸,看~這有個蘑菇欸
+Character/koishi114_koishi_Text_Field_Idle_1,Text,,"(쪼그려 앉아 버섯을 찌른다)""아하하! 이런 색깔은 절대 독이 있지?","(Pokes mushroom) ""Ahaha! This color's totally poisonous, right?""",（しゃがんでキノコを突く）「あはは！この色は絶対に毒でしょ？,"（蹲下来戳蘑菇）""啊哈哈！这种颜色绝对有毒吧？",（蹲下來戳蘑菇）“啊哈哈！這種顏色絕對有毒吧？
+Character/koishi114_koishi_Text_Field_Idle_2,Text,,전투가 끝난 후 배가 텅 빈 것이 가장 괴롭다. 내 배는 지금 보리 신사의 사이돈 상자보다 더 텅 비어 있다.,Post-battle hunger's the worst—my belly's emptier than Hakurei Shrine's donation box!,戦いが終わってお腹が空っぽになったのが一番――つらい、私のお腹は今博麗神社の賽銭箱よりも空っぽだよ,战斗完肚子空空的最——难受了，我的肚子现在比博丽神社的赛钱箱还要空啊,戰鬥完肚子空空的最——難受了，我的肚子現在比博麗神社的賽錢箱還要空啊
+Character/koishi114_koishi_Text_PharosLeader_0,Text,,...,...,...,...,...
+Character/koishi114_koishi_Text_PharosLeader_1,Text,,...,...,...,...,...
+Character/koishi114_koishi_Text_PharosLeader_2,Text,,...,...,...,...,...
+Character/koishi114_koishi_Text_Witch_0,Text,,,,,,
+Character/koishi114_koishi_Text_Witch_1,Text,,,,,,
+Character/koishi114_koishi_name,Text,,koishi,Koishi Komeji,古明地こいし,古明地恋,古明地戀
+Character_Skin/fumo_SkinDesc,Text,,fomofumo~,fomofumo~,fomofumo~,fomofumo~,fomofumo~
+Character_Skin/fumo_SkinName,Text,,fomo koishi,fomo Koishi,fumo こいし,fomo恋恋,fomo戀戀
+Character_Skin/fumo_Text_Battle_AllyND_0,Text,,"히히, 걱정 마, 내 무의식적인 말을 해줘, 조금만 더 버틸 수 있어~ 내가 바로 도와줄게!","Hehe, don't worry~ My unconscious says you can hold on a bit longer. I'll help soon!",にこ、心配しないで、私の無意識は私に教えて、あなたはもう少し我慢することができます～私はすぐにあなたを手伝いに来ます！,嘻嘻，别担心，我的无意识告诉我，你还能再撑一会儿～我马上就来帮你！,嘻嘻，別擔心，我的無意識告訴我，你還能再撐一會兒～我馬上就來幫你！
+Character_Skin/fumo_Text_Battle_AllyND_1,Text,,"야야, 이렇게 빨리 쓰러지지 마!정신 차려!","Hey, don't collapse so fast! Stay strong!",おいおい、そんなに早く倒れないでよ！しっかりしろ！,喂喂，别这么快就倒下啊！振作一点！,喂喂，別這麼快就倒下啊！ 振作一點！
+Character_Skin/fumo_Text_Battle_AllyND_2,Text,,"결국, 팀 동료들은 함부로 내버려 둘 수 없다","After all, teammates shouldn't be abandoned carelessly.",結局、チームメイトは勝手に放っておくわけにはいかないからね,毕竟，队友可不能随便丢下不管呢,畢竟，隊友可不能隨便丟下不管呢
+Character_Skin/fumo_Text_Battle_Cri_0,Text,,이제 어떤 게 좋을까요?,"Hmm, which move should I use next?",次はどの手を使えばいいですか。,接下来用哪招好呢？,接下來用哪招好呢？
+Character_Skin/fumo_Text_Battle_Cri_1,Text,,연애의 탄막을 피하는 건 어려운데?다음 발은 어느 방향에서 나올지 나도 모르니까 ~,"Dodging my danmaku is hard, right? Even I don't know where the next shot will come from~",こいしの弾幕を避けるのは難しいよ？さすがに次はどの方向から飛び出してくるのか自分でもわからないですよね~,要躲开恋恋的弹幕可是很难的哦？毕竟连我自己都不知道下一发会从哪个方向冒出来呢~,要躲開戀戀的彈幕可是很難的哦？ 畢竟連我自己都不知道下一發會從哪個方向冒出來呢~
+Character_Skin/fumo_Text_Battle_Cri_2,Text,,"와우, 맞았다!","Whoa, direct hit!",わあ、当たった！,哇哦，打中啦！,哇哦，打中啦！
+Character_Skin/fumo_Text_Battle_Healed_0,Text,,고마워요,...Thank you.,ありがとう,...谢谢你,…謝謝你
+Character_Skin/fumo_Text_Battle_Healed_1,Text,,언니는 도움을 받으면 답례하겠다고 했어요. 그런데 이게 아공한테서 떨어진 건데?,"Sister says I should return favors—but these dropped from Utsuho, okay?",姉は助けられたらお返しをすると言っていましたが、これはおくうから落ちたのですよ？,姐姐说被帮助了要送回礼——不过这些是从阿空身上掉下来的哦？,姐姐說被幫助了要送回禮——不過這些是從阿空身上掉下來的哦？
+Character_Skin/fumo_Text_Battle_Healed_2,Text,,좀 아파요 ~,That stung a little~,ちょっと痛いですよ~,有点痛哦~,有點痛哦~
+Character_Skin/fumo_Text_Battle_Idle_0,Text,,"몰라, 언니 지금 뭐 하는 거야?",Wonder what Sister's doing now?,姉は今何をしているのか分からない。,不知道姐姐现在在干什么呢？,不知道姐姐現在在幹什麼呢？
+Character_Skin/fumo_Text_Battle_Idle_1,Text,,때때로 무의식적인 감각이야말로 가장 진실한 것이다......지금처럼 나는 전혀 생각하지 않고 어떻게 해야 할지 알 수 있다!,"Sometimes, unconscious instincts are the truest... Like now, I don't even need to think!",時には、無意識の感覚こそが真実なのですね……今のように、私は全く考えずに、どうすればいいのかを知ることができます！,有时候，无意识的感觉才是最真实的呢……就像现在，我完全不用思考，就能知道该怎么做！,有時候，無意識的感覺才是最真實的呢……就像現在，我完全不用思考，就能知道該怎麼做！
+Character_Skin/fumo_Text_Battle_Idle_2,Text,,"아, 오늘 바람 참 시원하네~ 싸울 때도 이런 가벼운 느낌을 받으니 좋군!","Ah, the breeze feels nice today~ Fighting while relaxed is the best!",あ、今日の風は気持ちいいですね～。戦っている時もこの軽やかさを感じることができて、いいですね！,啊，今天的风真舒服呢～战斗的时候也能感受到这种轻松的感觉，真不错！,啊，今天的風真舒服呢～戰鬥的時候也能感受到這種輕鬆的感覺，真不錯！
+Character_Skin/fumo_Text_Battle_Kill_0,Text,,아아~ 어느새 해결됐네?무의식 역시 이런 거 잘해?,Ara~ Did I win without noticing? The unconscious is so good at this♪,あら～いつの間にか解決しちゃったの？無意識はやっぱりこういうことが得意？,啊啦～不知不觉就解决了呢？无意识果然很擅长这种事♪,啊啦～不知不覺就解决了呢？ 無意識果然很擅長這種事？
+Character_Skin/fumo_Text_Battle_Kill_1,Text,,다음에는 좀 더 은밀하게 숨겨주세요,Hide better next time~,今度はもっと隠れてね,下次要藏得更隐蔽一点哦,下次要藏得更隱蔽一點哦
+Character_Skin/fumo_Text_Battle_Kill_2,Text,,대단하시네요.,"You're pretty tough, huh?",あなたはすごいですね。,你还蛮腻害的嘛,你還蠻膩害的嘛
+Character_Skin/fumo_Text_Battle_Kill_3,Text,,"이런, 워밍업도 피할 수 없나?정말 기가 막혀요.",Can't even dodge warm-up moves? How boring——,あら、ウォーミングアップも避けられないの？気が進まないわー,哎呀，热身动作都躲不开吗？真让人提不起劲呀——,哎呀，熱身動作都躲不開嗎？ 真讓人提不起勁呀——
+Character_Skin/fumo_Text_Battle_ND_0,Text,,"아아, 좀 피곤한데...... 그런데 이런 긴장된 느낌은 오히려 나를 더욱 흥분시켰다!","Oh my, getting tired... But this tension excites me!",ああ、ちょっと疲れたね……でも、この緊張感、逆に私はもっと興奮しました！,啊啦，有点累了呢……不过，这种紧张的感觉，反而让我更兴奋了！,啊啦，有點累了呢……不過，這種緊張的感覺，反而讓我更興奮了！
+Character_Skin/fumo_Text_Battle_ND_1,Text,,"히히, 좀 진지해야겠네~","Hehe, time to get serious~",へへ、私は少しまじめにならなければなりませんね～,嘻嘻，看来我得稍微认真一点了～,嘻嘻，看來我得稍微認真一點了～
+Character_Skin/fumo_Text_Battle_ND_2,Text,,"걱정 마, 난 포켓몬이야~ 좀 다르지만 포켓몬이야.",Don't worry—I'm a Satori too! Just... different.,心配しないで、私はさとり妖怪だよ～ちょっと違うけど、さとり妖怪だよ,别担心，我可是觉妖怪哦～虽然有点不一样，但也是觉妖怪啦,別擔心，我可是覺妖怪哦～雖然有點不一樣，但也是覺妖怪啦
+Character_Skin/fumo_Text_Battle_Start_0,Text,,지령전에서는 이렇게 재밌는 일이 없어요.,The Palace of Earth Spirits never had fun like this~,地霊殿ではこんな面白いことはありませんよ~,在地灵殿可没有这么好玩的事情哦~,在地靈殿可沒有這麼好玩的事情哦~
+Character_Skin/fumo_Text_Battle_Start_1,Text,,지금 도망가면 늦지 않은데?,You can still flee now~,今逃げても間に合うよ？,现在逃跑还来得及哦？,現在逃跑還來得及哦？
+Character_Skin/fumo_Text_Battle_Start_2,Text,,저랑 언니랑 달라요. 저는 마음을 읽을 줄 몰라요.,I don't read minds like Sister~,私は姉とは違い、私は心を読むことができません~,我和姐姐不一样，我不会读心啦~,我和姐姐不一樣，我不會讀心啦~
+Character_Skin/fumo_Text_Field_GetItem_0,Text,,찰칵 하고 비틀어 열다.어차피 금은보화가 아닐 거야--아!이 반짝이는 돌무더기는 오히려 총알로 놀 수 있다!,Click! Let's pry it open! Not treasure—wait! These shiny rocks can be marbles!,カチッと音を立てたらこじ開ける！どうせ金銀財宝ではないに違いない――ああ！このキラキラした石の山はパチンコになることができる！,咔嗒一声就撬开！反正肯定不是金银财宝——啊！这堆亮闪闪的石头倒是能当弹珠玩！,哢嗒一聲就撬開！ 反正肯定不是金銀財寶——啊！ 這堆亮閃閃的石頭倒是能當彈珠玩！
+Character_Skin/fumo_Text_Field_GetItem_1,Text,,"응, 보물상자 괴물이 없다니 심심해~",Huh? No mimic? Boooring~,え、宝箱怪がいないのか、つまらないな~,欸，居然没有宝箱怪嘛，真无聊~,欸，居然沒有寶箱怪嘛，真無聊~
+Character_Skin/fumo_Text_Field_GetItem_2,Text,,이건 제가 지령전에서 본 적이 없는데 ~ 무슨 소용이 있어요?,Haven't seen this in the Palace of Earth Spirits. What's it do?,これは地霊殿で見たことがありません。何の用がありますか。,这个我在地灵殿可没有见过~有什么用啊？,這個我在地靈殿可沒有見過~有什麼用啊？
+Character_Skin/fumo_Text_Field_Idle_0,Text,,이거 봐 ~ 버섯 있어.,Look~ A mushroom!,ほら~これにはキノコの実がある,看~这有个蘑菇欸,看~這有個蘑菇欸
+Character_Skin/fumo_Text_Field_Idle_1,Text,,"(쪼그려 앉아 버섯을 찌른다)""아하하! 이런 색깔은 절대 독이 있지?","(Pokes mushroom) ""Ahaha! This color's totally poisonous, right?""",（しゃがんでキノコを突く）「あはは！この色は絶対に毒でしょ？,"（蹲下来戳蘑菇）""啊哈哈！这种颜色绝对有毒吧？",（蹲下來戳蘑菇）“啊哈哈！這種顏色絕對有毒吧？
+Character_Skin/fumo_Text_Field_Idle_2,Text,,전투가 끝난 후 배가 텅 빈 것이 가장 괴롭다. 내 배는 지금 보리 신사의 사이돈 상자보다 더 텅 비어 있다.,Post-battle hunger's the worst—my belly's emptier than Hakurei Shrine's donation box!,戦いが終わってお腹が空っぽになったのが一番――つらい、私のお腹は今博麗神社の賽銭箱よりも空っぽだよ,战斗完肚子空空的最——难受了，我的肚子现在比博丽神社的赛钱箱还要空啊,戰鬥完肚子空空的最——難受了，我的肚子現在比博麗神社的賽錢箱還要空啊
+Character_Skin/fumo_Text_PharosLeader_0,Text,,...,...,...,...,...
+Character_Skin/fumo_Text_PharosLeader_1,Text,,...,...,...,...,...
+Character_Skin/fumo_Text_PharosLeader_2,Text,,...,...,...,...,...
+Character_Skin/pyhua_SkinName,Text,,심비록&의화,Urban Legend & Possession Saga,深秘録&憑依華,深秘录&凭依华,深秘錄&憑依華
+Character_Skin/zun_SkinName,Text,,zun 그림,ZUN-style Art,zun絵,zun绘,zun繪
+Item_Equip/eyes_Description,Text,,"""매 라운드 적에게 통찰 버프를 가한다
+고명지련의 누나 고명지각의 각의 눈 복제품, 적의 움직임을 간파할 수 있다
+<color=#999999> 나르한에 의해 개선된 것 같습니다 </color> ""","Applies Insight buff to enemies each turn. 
+A replica of Komeiji Satori's Eye of Perception, allowing anticipation of enemy movements. 
+<color=#999999>Seems modified by Narhan.</color>","「毎ターン敵に洞察を与えるブッフ
+古明地恋の姉・古明地覚の覚の目のレプリカは、敵の動きを見抜くことができる
+<color=#99999>ナルハンによって改善されたようだ</color>」","每回合给敌方施加洞察buff
+古明地恋的姐姐古明地觉的觉之眼的复制品，可以看穿敌人的动向
+<color=#999999>似乎被纳尔汗改进过 </color>","“每回合給敵方施加洞察buff
+古明地戀的姐姐古明地覺的覺之眼的複製品，可以看穿敵人的動向
+<color=#999999>似乎被納爾汗改進過</color>“"
+Item_Equip/eyes_name,Text,,감각의 눈,Eye of Perception,覚の目,觉之眼,覺之眼
+Item_Equip/maozi_Description,Text,,,,,,
+Item_Equip/maozi_name,Text,,무의식 중에 요괴 모자를 알아보다.,Unconscious Youkai Hat,無意識に妖怪帽子,无意识妖怪帽子,無意識妖怪帽子
+Skill/choose_1_Description,Text,,"공격당할 확률 대폭 감소
+공격력 증가 ","Greatly reduces aggro chance. 
+Increases Attack.","「被攻撃確率を大幅に下げる
+攻撃力を加える」","大幅降低被攻击概率
+加攻击力","“大幅降低被攻擊概率
+加攻擊力“"
+Skill/choose_1_Name,Text,,무의식,Unconscious,無意識,无意识,無意識
+Skill/choose_2_Description,Text,,"공격당할 확률 대폭 증가
+회피율 증가 ","Greatly increases aggro chance. 
+Increases Dodge.","「被攻撃確率を大幅に増加させる
+フラッシュバック率""","大幅增加被攻击概率
+加闪避率","“大幅增加被攻擊概率
+加閃避率“"
+Skill/choose_2_Name,Text,,자아 보존,Retaining Self,自己保存,保留自我,保留自我
+Skill/koishi114_koishi_1_Description,Text,,<color=#009900>心符「没我の愛」 </color>,"<color=#009900>Heart Sign ""Selfless Love""</color>",<color=#009900>心符「没我の愛」 </color>,"<color=#009900>心符「没我の愛」 </color>
+",<color=#009900>心符「没我の愛」 </color>
+Skill/koishi114_koishi_1_Name,Text,,"""헌신적인 사랑""","Heart Sign ""Selfless Love""",心符「没我の愛」,心符“忘我之爱”,心符“忘我之愛”
+Skill/koishi114_koishi_2_Description,Text,,"<color=#009900>表象「弾幕パラノイア」 </color>
+""실신"" 이 있는 적에게 50% 추가 공격","<color=#009900>Phenomenon ""Danmaku Paranoia""</color> 
+Deals 50% additional damage to enemies with ""Stupefaction"".","<color=#009900>表象「弾幕パラノイア」 </color>
+「失神」した敵にさらに50%攻撃」","<color=#009900>表象「弾幕パラノイア」 </color>
+对有“失神”的敌人额外再造成50%攻击","<color=#009900>表象「弾幕パラノイア」 </color>
+對有“失神”的敵人額外再造成50%攻擊“"
+Skill/koishi114_koishi_2_Name,Text,,"표상""탄막 편집증""","Phenomenon ""Danmaku Paranoia""",表象「弾幕パラノイア」,"表象""弹幕偏执症""",表像“彈幕偏執症”
+Skill/koishi_10_Description,Text,,"<color=#009900> 무의식적으로""탄막의 약""</color>
+모든 적이 보유한 간섭 버프 총 층수에 따라 추가 공격 (간섭 버프가 있는 적에게 사용 시 추가 공격 발동) 이 스킬 데미지 최종 회피율 곱하기 결산 (추가 공격 포함)","<color=#009900>Unconscious ""Danmaku Rorschach""</color> 
+Deals bonus damage based on total stacks of debuffs on all enemies (triggers extra hits against debuffed targets). Final damage multiplied by Dodge rate (including bonus hits).","<color=#009900>無意識「弾幕のロールシャッハ」 </color>
+全ての敵が持つ干渉buffの総階数に応じて追加攻撃（干渉buffを持つ敵に対して使用すると追加攻撃が追加トリガーされる）このスキルダメージに最終的にフラッシュバック率を乗じて決済（追加攻撃を含む）する”","<color=#009900>無意識「弾幕のロールシャッハ」 </color>
+根据所有敌人拥有的干扰buff总层数追加攻击（对有干扰buff的敌人使用时会额外触发追加攻击）此技能伤害最终乘以闪避率结算（包括追加攻击）","<color=#009900>無意識「弾幕のロールシャッハ」 </color>
+根據所有敵人擁有的干擾buff總層數追加攻擊（對有干擾buff的敵人使用時會額外觸發追加攻擊）此技能傷害最終乘以閃避率結算（包括追加攻擊）“"
+Skill/koishi_10_Name,Text,,"잠재의식""탄막의 묵적 테스트""","Unconscious ""Danmaku Rorschach""",無意識「弾幕のロールシャッハ」 ,"潜意识""弹幕的墨迹测验""",潛意識“彈幕的墨蹟測驗”
+Skill/koishi_3_Description,Text,,"<color=#009900> 본능'イイ의 해방'</color>
+자신이 이미 이 버프가 존재하면 이 스킬을 사용할 수 없습니다
+한 장''초아 억제''손팻말 넣기 '","<color=#009900>Instinct ""Id's Liberation""</color> 
+Cannot be used while this buff is active. 
+Adds 1 ""Superego Suppression"" to hand.","<color=#009900>本能「イドの解放」 </color>
+このbuffが既に存在する場合、このスキルは使用できません
+抑制「スーパーエゴ」手札に入れる","<color=#009900>本能「イドの解放」 </color>
+当自身已存在此buff时该技能无法使用 
+将一张""抑制'超我'""放入手牌","<color=#009900>本能「イドの解放」 </color>
+當自身已存在此buff時該技能無法使用
+將一張“”抑制'超我'“”放入手牌“"
+Skill/koishi_3_Name,Text,,본능'본아의 해방',"Instinct ""Id's Liberation""",本能「イドの解放」,"本能""本我的解放""",本能“本我的解放”
+Skill/koishi_4_Description,Text,,"<color=#009900>은""스킬""을 억제합니다.</color>
+""본나의 해방""버프가 없을 때 카드 1장을 뽑는다
+자신에게""본나의 해방""buff가 존재할 때""본나의 해방""buff를 해제하고 카드창고와 페카드창고에서 각각 1장의 카드를 뽑고 1비를 답복한다.","<color=#009900>Suppression ""Superego""</color> 
+Draws 1 card if no ""Id's Liberation"" buff. 
+Removes ""Id's Liberation"" to draw 1 card from deck/discard each and restore 1 Mana.",<color=#009900>抑制「スーパーエゴ」 </color>,"<color=#009900>抑制「スーパーエゴ」 </color>
+当没有“本我的解放”buff时，抽1张牌
+当自身存在“本我的解放”buff时，解除“本我的解放”buff，从牌库和废牌库各抽1张牌并回复1费","<color=#009900>抑制「スーパーエゴ」 </color>
+當沒有“本我的解放”buff時，抽1張牌
+當自身存在“本我的解放”buff時，解除“本我的解放”buff，從牌庫和廢牌庫各抽1張牌並回復1費“"
+Skill/koishi_4_Name,Text,,"""초아"" 억제","Suppression ""Superego""",抑制「スーパーエゴ」,"抑制""超我""",抑制“超我”
+Skill/koishi_5_Description,Text,,"<color=#009900>'復燃「恋の埋火」</color>
+카운트다운 기간 동안 연연 공격 확률 증가, 회피율 5% 증가, 자신이""본아의 해방""이 존재하면, 마법력 수치를 약간 회복, 회피율 10% 증가
+적 재타격 시 목표의 10% 최대 생명치 공제","<color=#009900>Reignition ""Buried Love Embers""</color> 
+
+During countdown: Increased aggro chance, +5% Dodge (+10% if ""Id's Liberation"" is active). Restores 1 Mana. 
+Deducts 10% max HP from the target on hit.","<color=#009900>復燃「恋の埋火」 </color>
+カウントダウン期間中、恋恋は攻撃を受ける確率が増加し、フラッシュバック率は5%上昇し、もし自分に「自分の解放」が存在するならば、法力値を少し回復し、フラッシュバック率は10%増加する","<color=#009900>復燃「恋の埋火」 </color>
+
+倒计时期间内，恋恋受攻击概率增加，闪避率提高5%,若自身存在“本我的解放”，回复一点法力值且闪避率增加10%
+再次击中敌方时扣除目标10%最大生命值","<color=#009900>復燃「恋の埋火」 </color>
+倒數計時期間內，戀戀受攻擊概率新增，閃避率提高5%，若自身存在“本我的解放”，回復一點法力值且閃避率新增10%
+再次擊中敵方時扣除目標10%最大生命值“"
+Skill/koishi_5_Name,Text,,"""연애의 불씨를 되살리다""","Reignition ""Buried Love Embers""",復燃「恋の埋火」,复燃“恋爱的埋火”,複燃“戀愛的埋火”
+Skill/koishi_6_Description,Text,,<color=#009900> 심층'무의식의 유전자'</color>,"<color=#009900>Depth ""Genetic Unconscious""</color>","<color=#009900>深層「無意識の遺伝子」 </color>
+","<color=#009900>深層「無意識の遺伝子」 </color>
+","<color=#009900>深層「無意識の遺伝子」 </color>
+"
+Skill/koishi_6_Name,Text,,"심층""잠재의식의 유전자""","Depth ""Genetic Unconscious""",深層「無意識の遺伝子」,深层“潜意识的基因”,深層“潛意識的基因”
+Skill/koishi_7_Description,Text,,"<color=#009900> 반응'요괴 リリリリ'</color>
+""실신"" 이 있는 적에게 사용 시""간파""를 가하면, 다음 라운드 공격은 반드시 회피된다
+""실신"" 이 존재하지 않는 적에게 사용 시 적을 기절","<color=#009900>Reaction ""Youkai Polygraph""</color> 
+Applies ""Exposed"" to ""Stupefied"" enemies (guaranteed Dodge next turn).
+Stuns non-Stupefied enemies.","<color=#009900>反応「妖怪ポリグラフ」 </color>
+「失神」が存在する敵に対して使用時に「見破られる」ことを加えると、次のターン攻撃は必ず回避される「失神」が存在しない敵に使用すると、敵をめまいに陥れる」","<color=#009900>反応「妖怪ポリグラフ」 </color>
+对存在“失神”的敌人使用时施加“被识破”，下回合攻击必定被闪避
+对不存在“失神”的敌人使用时，使敌人陷入眩晕","<color=#009900>反応「妖怪ポリグラフ」 </color>
+對存在“失神”的敵人使用時施加“被識破”，下回合攻擊必定被閃避
+對不存在“失神”的敵人使用時，使敵人陷入眩暈“"
+Skill/koishi_7_Name,Text,,"반응 ""요괴 거짓말 탐지기""","Reaction ""Youkai Polygraph""",反応「妖怪ポリグラフ」 ,"反应""妖怪测谎机""",反應“妖怪測謊機”
+Skill/koishi_8_Description,Text,,"<color=#009900>""태아의 꿈""</color>
+연속 3회 공격, 매 공격 시 실신 버프를 부가, 데미지 및 추가 확률은 횟수에 따라 증가(30%+60%+90%)""","<color=#009900>""Fetus's Dream""</color> 
+Attacks 3 times. Each hit has escalating 30%/60%/90% chance to inflict Stupefaction.","<color=#009900>「胎児の夢」 </color>
+連続して攻撃を3回行い、攻撃ごとに確率的に失神buffを付加し、ダメージと付加確率は回数とともに増加する（30%+60%+90%）」","<color=#009900>「胎児の夢」 </color>
+连续造成3次攻击，每次攻击有概率附加失神buff，伤害和附加概率随次数递增（30%+60%+90%）","<color=#009900>「胎児の夢」 </color>
+連續造成3次攻擊，每次攻擊有概率附加失神buff，傷害和附加概率隨次數遞增（30%+60%+90%）“"
+Skill/koishi_8_Name,Text,,'태아의 꿈',"""Fetus's Dream""",「胎児の夢」,“胎儿之梦”,“胎兒之夢”
+Skill/koishi_9_Description,Text,,"<color=#009900> 본능""ロデデデ""</color>
+","<color=#009900>Instinct ""Freudian""</color>","<color=#009900>本能「フロウディアン」 </color>
+","<color=#009900>本能「フロウディアン」 </color>
+","<color=#009900>本能「フロウディアン」 </color>
+"
+Skill/koishi_9_Name,Text,,"본능적 ""프로이드 학설""","Instinct ""Freudian""",本能「フロウディアン」,"本能""弗洛伊德学说""",本能“佛洛德學說”
+Skill/koishi_lucy_Description,Text,,"전체 아군에게 2라운드""회피율 +5""
+카드 2장 뽑기.","Grants all allies +5% Dodge for 2 turns. 
+Draw 2 cards.","「味方全員に2ターンの「回避率+5」を与える
+カードを2枚引く","给予全体友军2回合“闪避率+5”
+抽2张牌","“給予全體友軍2回合“閃避率+5”
+抽2張牌“"
+Skill/koishi_lucy_Name,Text,,잠재의식을 일깨우다,Unconscious Awakening,潜在意識が呼び覚ます,潜意识唤醒,潛意識喚醒
+Skill/koishi_red_1_Description,Text,,"<color=#009900>""혐오하는 자의 보""</color>
+무의식 으로 들어가거나 자아 를 보존하는 것 을 선택 하다
+무의식 중에 들어가면 피격 확률이 크게 낮아지고 공격력이 증가합니다.
+자아를 보존하면 피격 확률이 증가하고 회피율이 증가합니다 ","<color=#009900>""Philosophy of the Hated""</color> 
+Choose to enter either the [Unconscious] state or the [Retain Self] state:
+- [Unconcious]: Decreases aggro and increases Attack.
+- [Retain Self]: Increases aggro and increases Dodge.","<color=#009900>「嫌われ者のフィロソフィ」</color>
+無意識に入るか、自分を保つかを選ぶ
+無意識に入ると被攻撃確率が大幅に低下し、攻撃力が増加する
+自分を保つことで攻撃される確率が上がり、回避率が上がる」","<color=#009900>「嫌われ者のフィロソフィ」</color>
+选择进入无意识亦或者保留自我
+进入无意识时将会大幅降低被攻击概率，且增加攻击力
+保留自我会增加被攻击概率，并增加闪避率","“<color=#009900>「嫌われ者のフィロソフィ」</color>
+選擇進入無意識亦或者保留自我
+進入無意識時將會大幅降低被攻擊概率，且新增攻擊力
+保留自我會新增被攻擊概率，並新增閃避率“"
+Skill/koishi_red_1_Name,Text,,<color=#66ffcc>'미움받는 자의 철학'</color>,"<color=#66ffcc>""Philosophy of the Hated""</color>",<color=#66ffcc>「嫌われ者の哲学」</color>,<color=#66ffcc>「被厌恶者的哲学」</color>,<color=#66ffcc>「被厭惡者的哲學」</color>
+Skill/koishi_red_3_Description,Text,,"<color=#009900>＊지금부터 전화로""에서 출발하기""</color>
+<color=#8f142f>네~지금~내가 있어~너의 뒤에 있어</color>
+전장의 모든 적의 실신 buff를 소모하여, 공격은 총 층수 *연연 회피율 (% 앞) 의 데미지를 입힙니다","<color=#009900>＊I’ll call now, so pick up!＊</color>
+
+ <color=#8f142f>Hey~ I’m right behind you~</color> 
+
+Consumes all Stupefaction stacks to deal damage equal to total stacks × Dodge% (as flat value).","<color=#009900>＊今から電話をするから出てね＊</color>
+
+<color=#8f142f>ねぇ~今~私は~あなたの背中にいるよ</color>
+
+フィールド上のすべての敵の失神ブッフを消費し、攻撃が総層数*恋心回避率（%前で計算）のダメージを与える”","<color=#009900>＊今から電話をするから出てね＊</color>
+
+<color=#8f142f>呐~现在~我就在~你的背后哦</color>
+
+消耗场上所有敌人的失神buff，造成攻击为总层数*恋恋闪避率（按%前面算）的伤害","<color=#009900>＊今から電話をするから出てね＊</color>
+
+<color=#8f142f>呐~現在~我就在~你的背後哦</color>
+
+消耗場上所有敵人的失神buff，造成攻擊為總層數*戀戀閃避率（按%前面算）的傷害“"
+Skill/koishi_red_3_Name,Text,,<color=#cc3300>지금 바로 전화드릴게요. 받는 거 잊지 마세요</color>,"<color=#cc3300>""Calling Now—Don’t Miss It""</color>",<color=#cc3300>今すぐ電話するから出てくるのを忘れないでね</color>,<color=#cc3300>现在就给你打电话别忘了接哦</color> ,<color=#cc3300>現在就給你打電話別忘了接哦</color>
+Skill/koizhi_red_2_Description,Text,,"<color=#009900>「サブタレイニアンローズ」 </color>
+자신의 숨결을 지우고 어둠에 잠입한 후 장미꽃 피워내기(+20% 공격, +10% 회피, 피격 확률 증가)","<color=#009900>""Subterranean Rose""</color> 
+Erases presence to descend into darkness. Gains Rose's Bloom (+20% Attack, +10% Dodge, increased aggro).","<color=#009900>「サブタレイニアンローズ」 </color>
+自分の気配を消して闇に潜り、その後薔薇を手に入れて咲く(+20%攻撃、+10%回避、被攻撃確率増加)」","<color=#009900>「サブタレイニアンローズ」 </color>
+抹除自身气息，潜入黑暗，之后获得蔷薇绽放（+20%攻击，+10%闪避，被攻击概率增加）","<color=#009900>「サブタレイニアンローズ」 </color>
+抹除自身氣息，潜入黑暗，之後獲得薔薇綻放（+20%攻擊，+10%閃避，被攻擊概率新增）“
+"
+Skill/koizhi_red_2_Name,Text,,"<color=#fed674>""Subterranean Rose""(땅 밑의 장미) </color>","<color=#fed674>""Subterranean Rose""</color>",<color=#fed 674>「サブタレイニアンローズ」</color>,<color=#fed674>“Subterranean Rose”（地底的蔷薇） </color>,<color=#fed674>“Subterranean Rose”（地底的薔薇）</color>
+SkillExtended/EX_koishi_Des,Text,,"시전 후, 연애에 10% 회피율 보너스 제공","After playing, grants Koishi +10% Dodge.",ヒット後、恋心に10%のフラッシュバック率を加算,打出之后，给恋恋提供10%闪避率加成,打出之後，給戀戀提供10%閃避率加成
+SkillExtended/EX_koishi_EnforceString,Text,,,,,,
+SkillExtended/EX_koishi_Name,Text,,공상적 인격 보유자,Fantasy Persona Keeper,空想上の人格保持者,空想上的人格保持者,空想上的人格保持者

@@ -1,0 +1,13 @@
+{
+    "B_PLANA_Rare_1": {
+        "Name": "继承的希望",
+        "ClassName": "PLANA.B_PLANA_Rare_1",
+        "LifeTime": 2,
+        "Icon": "B_PLANA_Rare_1\\B_PLANA_Rare_1_Icon.png",
+        "Description": "回合开始时，额外获得2点法力值。 \n普拉娜在此期间内不会进入休眠。",
+        "Tick": "null",
+        "BuffTag": "null",
+        "Caution": false,
+        "_gdeSchema": "Buff"
+    }
+}

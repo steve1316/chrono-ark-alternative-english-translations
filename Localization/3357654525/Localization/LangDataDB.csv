@@ -1,0 +1,240 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Candle_10_0_Description,Text,,,"This debuff's Pain damage is equal to 10% of the user's max Healing Gauge. 
+When attacking, apply 1 stack of ""Flame Affix"" debuff to one target (<sprite=1>&a%). 
+When receiving Pain damage from ""Flame Affix"" debuff, generate Candlelight Barrier equal to the stacks of Candle Affix. 
+Removed when healed. |
+     <color=#919191>Ⅱ</color> 
+Removed and heals HP equal to half of base damage when at Death's Door.",,"此减益的痛苦伤害为10%使用者最大体力值。
+攻击命中时对目标之一施加一层“火焰附加”减益(<sprite=1>&a%)。
+受到来自“火焰附加”减益的痛苦伤害时，生成等同于烛光附加减益层数的烛火屏障。
+受到治疗后解除。|
+    <color=#919191>Ⅱ</color>
+濒死时解除并治疗相当于基础伤害一半的生命值。",
+Buff/B_Candle_10_0_Name,Text,,,Flame Affix,,灼光,
+Buff/B_Candle_10_Description,Text,,,"When attacking, apply 1 stack of ""Flame Affix"" debuff to target (<sprite=1>&a%). 
+Reduced by 1 stack upon successful application.     ",,"攻击命中时对目标施加一层“火焰附加”减益(<sprite=1>&a%)。
+施加成功时减少一层。",
+Buff/B_Candle_10_Name,Text,,,Candle Affix,,烛光附加,
+Buff/B_Candle_1_Description,Text,,,"When attacking Candlelight Barrier, take Pain damage equal to &user's Pain Resistance * Attack Power (&a). 
+If the attack destroys the barrier, take an additional instance of the above damage. | 
+    <color=#919191>Ⅲ</color> 
+Damage multiplier changes from Attack Power to max Healing Gauge.",,"攻击烛火屏障时，受到&user痛苦抵抗力*攻击力的伤害(&a)。
+若该次攻击使烛火屏障被破坏，额外受到一次上述伤害。| 
+    <color=#919191>Ⅲ</color>
+伤害系数由攻击力变为最大体力值。",
+Buff/B_Candle_1_Name,Text,,,Candlelight Thorns,,烛光荆棘,
+Buff/B_Candle_2_0_Description,Text,,,Increases the number of debuff stacks applied to targets by skills by 1. Reduced by 1 stack after triggering.,,技能给予目标的减益层数额外增加一层。触发后减少一层。,
+Buff/B_Candle_2_0_Name,Text,,,Affixed Light,,附光,
+Buff/B_Candle_2_Description,Text,,,"When attacked with Candlelight Barrier active, has <sprite=2>&a% chance (60% + &user's <sprite=1> Resistance%) to stun the attacking enemy.",,烛火屏障存在的情况下被攻击时，有<sprite=2>&a%成功率（60%+&user<sprite=1>抵抗力%）令攻击来源敌人进入眩晕状态。,
+Buff/B_Candle_2_Name,Text,,,Candlelight Radiance,,烛照,
+Buff/B_Candle_3_0_Description,Text,,,Damage increased by &a,,伤害量将增加&a,
+Buff/B_Candle_3_0_Name,Text,,,Affixed Shadow,,附影,
+Buff/B_Candle_3_Description,Text,,,"When attacked, increases damage of ""Target Enemy"" skills in hand by the amount reduced by Candlelight Barrier.",,自身受到攻击时，手牌中“指向敌人”技能的伤害量将增加烛火屏障减少的数值。,
+Buff/B_Candle_3_Name,Text,,,Mirrored Reflection,,倒影,
+Buff/B_Candle_4_Description,Text,,,"When receiving any debuff while Candlelight Barrier is active, reduce that debuff's duration by 1 turn (minimum 1 turn).",,烛火屏障存在的情况下被赋予任意减益时，那个减益的持续回合数减少1回合。（最低减少至1回合）,
+Buff/B_Candle_4_Name,Text,,,Sanctuary,,庇护,
+Buff/B_Candle_5_S_Description,Text,,,"When entering Death's Door, consume 1 stack to generate Candlelight Barrier equal to 20% of max Healing Gauge. | 
+    <color=#919191>Ⅰ</color> 
+Does not consume buff stacks when triggered.",,"自身进入濒死状态时，消耗一层增益，生成最大体力值20%的烛火屏障。|
+    <color=#919191>Ⅰ</color>
+触发时不再消耗增益层数。",
+Buff/B_Candle_5_S_Name,Text,,,Candlelight Mending,,烛光修补,
+Buff/B_Candle_5_T_Description,Text,,,"When entering Death's Door or ending turn at Death's Door, transfer all debuffs from self to &user. Transferred debuffs are treated as enemy-applied. 
+Does not affect unremovable debuffs. | 
+    <color=#919191>Ⅳ</color> 
+Also generates Candlelight Barrier equal to 20% of max Healing Gauge.",,"进入濒死状态或回合结束时处于濒死状态时，自身拥有的所有减益将转移到&user，转移的减益视为敌人赋予。
+对无法解除的减益不生效。|
+    <color=#919191>Ⅳ</color>
+将同时生成自身最大体力值20%的烛火屏障。",
+Buff/B_Candle_5_T_Name,Text,,,Candlelight Protection,,烛光保护,
+Buff/B_Candle_6_0_Description,Text,,,"Gain 1 additional stack of ""Mirage"" at turn start.",,回合开始时，额外获得一层“蜃楼”。,
+Buff/B_Candle_6_0_Name,Text,,,Candlelight Endurance,,烛光耐久,
+Buff/B_Candle_6_Description,Text,,,"Prioritize attacking &target. | 
+    <color=#919191>Ⅴ</color> 
+Success rate becomes 150%.",,"优先攻击&target。|
+    <color=#919191>Ⅴ</color>
+成功率变为150%。",
+Buff/B_Candle_6_Name,Text,,,Candlelight Pull,,烛光牵引,
+Buff/B_Candle_7_Description,Text,,,"When Candlelight Barrier is destroyed, gain Healing Gauge Protection for 2 turns.",,烛火屏障被破坏时，保护体力极限2回合。,
+Buff/B_Candle_7_Name,Text,,,Candlelight Pull,,烛光牵引,
+Buff/B_Candle_8_S_Description,Text,,,Gain +2% Attack and max HP for each Curse skill &a in deck.,,牌库中每有一张诅咒技能&a，攻击力和最大生命值+2%。,
+Buff/B_Candle_8_S_Name,Text,,,Sinful Fuel,,罪恶燃料,
+Buff/B_Candle_8_T_Description,Text,,,"Damage taken -10%. 
+When having at least 3 debuff stacks, damage taken becomes -25%.",,"受到伤害-10%。
+烛身上的减益层数不低于3时，受到伤害改为-25%。",
+Buff/B_Candle_8_T_Name,Text,,,Illusory Image,,虚像,
+Buff/B_Candle_P_0_Description,Text,,,"When allies other than self receive debuffs, remove them and transfer to Candle.",,自身以外的队员被施加减益时，解除改减益并转为施加给烛。,
+Buff/B_Candle_P_0_Name,Text,,,-Mirage-,,-蜃楼-,
+Buff/B_Candle_P_Description,Text,,,"When allies other than self receive debuffs, remove them and transfer to Candle.",,自身以外的队员被施加减益时，解除改减益并转为施加给烛。,
+Buff/B_Candle_P_Name,Text,,,Mirage,,蜃楼,
+Buff/B_Candle_R1_Description,Text,,,"In Mirage Candle Shadow, debuff targets change from ""Candle"" to all allies. Synchronized debuffs apply to all enemies. Debuffs cannot be resisted.",,蜃楼烛中影中被施加减益的对象条件由“烛”变为全体友军，同步施加减益的对象将变为全体敌人。减益施加时不会被抵抗。,
+Buff/B_Candle_R1_Name,Text,,,Non-Vitalism Theory,,无生源论,
+Buff/B_Candle_R2_Description,Text,,,"On cast: For each debuff on self, damage taken -3%. 
+When Candlelight Barrier is destroyed, increase barrier by &a (self Level + number of debuffs).",,"释放时，自身每承受一个减益，所受伤害-3%
+烛火屏障被破坏时，烛火屏障增加&a(自身Lv数+承受减益数量)点。",
+Buff/B_Candle_R2_Name,Text,,,No.20 Film Reel,,二十号胶卷,
+Buff/B_Candle_R3_Description,Text,,,"Candlelight Thorns III: Damage multiplier changes from Attack Power to max Healing Gauge. 
+Candlelight Protection IV: Also generates Candlelight Barrier equal to 20% of max Healing Gauge. 
+Candlelight Pull V: Success rate: 150%. 
+Candlelight Mending I: No longer consumes buff stacks when triggered. 
+Candle Affix II: Removes and heals HP equal to half of base damage when at Death's Door.",,"烛光荆棘Ⅲ：伤害系数由攻击力变为最大体力值。
+烛光保护Ⅳ：将同时生成自身最大体力值20%的烛火屏障。
+烛光牵引Ⅴ：成功率：150%
+烛光修补Ⅰ：触发时不再消耗增益层数。
+烛光附加Ⅱ：濒死时解除并治疗相当于基础伤害一半的生命值。",
+Buff/B_Candle_R3_Name,Text,,,Trail of Candlelight,,烛光之迹,
+Buff/B_Candle_S_Description,Text,,,"Special protective wall generated by exclusive skills. When attacked, Candlelight Barrier is consumed first.",,由专属技能生成的特殊防护墙，防护墙受到攻击时，优先消耗烛火屏障的防护值。,
+Buff/B_Candle_S_Name,Text,,,Candlelight Barrier,,烛火屏障,
+Buff/B_Mari_5_Description,Text,,,"While active, provides Defense based on total number of buffs/debuffs.",,生效时，根据拥有的增益、减益总数提供防御力。,
+Buff/B_Mari_5_Name,Text,,,Sister's Cheer,,修女的应援,
+Buff/B_Mari_6_Name,Text,,,Cheerful Resolve,,应援的心理准备,
+Buff/B_Mari_7_Description,Text,,,"When &target uses a skill, apply ""Encouraging Dedication"" with 20% healing effectiveness.",,&Target释放技能时，以20%治疗量对其使用一次“奉献的鼓励”。,
+Buff/B_Mari_7_Name,Text,,,Encouragement,,鼓励,
+Buff/B_Mari_P_1_Name,Text,,,Sister's Blessing,,修女的祝福,
+Buff/B_Mari_P_2_Description,Text,,,Mystic Shield: Can block Pain damage.,,神秘护盾：可以抵挡痛苦伤害。,
+Buff/B_Mari_P_2_Name,Text,,,Sister's Sanctuary,,修女的庇护,
+Buff/B_Mari_R1_Name,Text,,,Divine Protection,,神圣护佑,
+Buff/B_Mari_R3_0_Description,Text,,,Reduced by 1 stack after use.,,释放后减少一层。,
+Buff/B_Mari_R3_0_Name,Text,,,Fan Service,,粉丝服务,
+Buff/B_Mari_R3_Description,Text,,,"When healing grants max Healing Gauge or Mystic Shield through passive, gain 1 Fan Service stack: All skills in hand cost -1 Mana this turn. Reduced by 1 stack after use.",,治疗时每给予一次被动能力的最大体力值或神秘护盾时，获得一层粉丝服务增益：此回合内手牌中所有技能消耗法力值-1，释放后减少一层。,
+Buff/B_Mari_R3_Name,Text,,,Joy in the Moment,,欢乐在今宵,
+Character/Candle_CampSelectWord,Text,,,Silence.,,肃静。,
+Character/Candle_PassiveDes,Text,,,"At turn start, gain 1 ""Mirage"" stack: Debuffs targeting allies are redirected to Candle. 
+Candle Reflection: When enemies apply debuffs to Candle, same debuffs are mirrored back to source. 
+Passive doesn't affect unremovable debuffs. 
+
+Lv3: Consuming ""Mirage"" stacks heals 15% max HP.",,"回合开始时，获得一层“蜃楼”：自身以外的队员被施加减益时，减益的施加对象将会转变为烛。
+烛影反射：敌人对烛施加减益时，那个减益将会被同步施加给来源敌人单体。
+被动能力无法对不可解除的减益生效。
+
+Lv3：消耗“蜃楼”增益层数时，恢复最大体力值15%的体力值。",
+Character/Candle_PassiveName,Text,,,Mirage Candle Shadow,,蜃楼烛中影,
+Character/Candle_SelectInfo,Text,,,"Inquisitor. 
+Daily enforcer of the Tribunal's will. Assists fishing vessels and guards their safety. 
+First discovered the strange maritime plague. 
+Initially clashed with investigators, now assists in tracing the plague's origin.",,"审判官。
+日复一日在此地践行着审判庭的意志。平日会协助渔船捕猎，护卫渔船的安全。
+海上的怪异的疫病现象，是她最早发现的。
+曾经与调查团有过冲突，但现在已经加入调查团并协助调查海上疫病的源头。",
+Character/Candle_Text_Battle_AllyND_0,Text,,,Caution.,,当心。,
+Character/Candle_Text_Battle_Cri_0,Text,,,Foolish resistance!,,愚蠢的抵抗！,
+Character/Candle_Text_Battle_Idle_0,Text,,,State your purpose.,,说明来意。,
+Character/Candle_Text_Battle_Kill_0,Text,,,Atonement through blood.,,以血赎罪。,
+Character/Candle_Text_Battle_ND_0,Text,,,Do not transgress.,,休得诫越。,
+Character/Candle_Text_Battle_Start_0,Text,,,You shall taste the bitter fruits of sin.,,你将足尝恶行带来的苦果。,
+Character/Candle_Text_Battle_Start_1,Text,,,Silence.,,肃静。,
+Character/Candle_Text_Field_GetItem_0,Text,,,Proceed onward.,,继续前行吧。,
+Character/Candle_Text_Field_Idle_0,Text,,,Silent winds carry lamentations.,,宁静的风声，悲泣与哀嚎。,
+Character/Candle_Text_PharosLeader_0,Text,,,No distinction between noble and commoner - all bow to law.,,不殊贵贱，一断于法。,
+Character/Candle_Text_PharosLeader_1,Text,,……,…,……,……,
+Character/Candle_Text_PharosLeader_2,Text,,,Judgment burns like candlelight.,,审判正如烛火。,
+Character/Candle_name,Text,,,Candle,,烛,
+Character/Mari_PassiveDes,Text,,,"When using skills targeting allies or party, grant max Healing Gauge & Mystic Shield based on target's buffs & debuffs.",,释放指向友军或全体友军的技能时，根据目标拥有的增益&减益数量分别提供最大体力值&神秘护盾。,
+Character/Mari_PassiveName,Text,,,Compassion,,怜悯,
+Character/Mari_SelectInfo,Text,,,"Trinity General School nun - earnest and devout. 
+Her gentle smile and serene demeanor attract many students seeking counsel. Strives to become as capable as her seniors.",,"三一综合学园所属，修女会虔诚诚实的少女。
+第一眼就给人可爱的印象，除此之外被她沉稳安静的气质和经常不断温柔地笑所吸引，前来咨询的学生络绎不绝。但她感觉自己还不够成熟，一直想要快点成为和前辈一样出色的修女。",
+Character/Mari_name,Text,,,Mari,,玛丽,
+Character_Skin/MSKIN1_SkinDesc,Text,,,"Trinity nun in gym uniform for the Kourin Taisai Festival. 
+Volunteered as executive committee member hoping to pray for peace, but found constant conflicts. Her kind nature keeps involving her in troubles.",,"三一综合学园所属，为了参加晄轮大祭而换上体操服的修女会的修女。
+听说这次大赛是为了祈祷基沃托斯和平而举办的，所以这才志愿担起了执行委员的工作，但实际做起来却发现这是份充满了不断的纷争和麻烦的工作。加之她原本就无法对别人放任不管的温柔性格，因此似乎不断被卷入各种麻烦中。",
+Character_Skin/MSKIN1_SkinName,Text,,,Mari (Gym Uniform),,玛丽（体操服）,
+Character_Skin/MSKIN2_SkinDesc,Text,,,"Trinity nun and member of idol group ""Antique Seraphim"". Began idol activities to help others. Her wish to ""bring happiness"" aligns perfectly with idol essence. 
+""Actually... I've always admired idols too.""",,"所属于三一综合学园，既是修女会的一员也是这次偶像团「复古炽天使」的成员。起初是作为帮助他人而开始的偶像活动，然而玛丽的「只要能让大家幸福」的想法说不定与偶像的本质意外地非常的契合呢。
+「其实......我也一直很憧憬偶像呢」",
+Character_Skin/MSKIN2_SkinName,Text,,,Mari (Idol),,玛丽（偶像）,
+Skill/S_Candle_10_Description,Text,,,Gain Candlelight Barrier equal to 20% max Healing Gauge (&a).,,获得最大体力值20%(&a)的烛火屏障。,
+Skill/S_Candle_10_Name,Text,,,Lingering Candlelight,,萦绕烛光,
+Skill/S_Candle_1_Description,Text,,,Gain Candlelight Barrier equal to 30% max Healing Gauge (&a).,,获得最大体力值30%(&a)的烛火屏障。,
+Skill/S_Candle_1_Name,Text,,,Atonement Thorns,,赎罪荆棘,
+Skill/S_Candle_2_Description,Text,,,Gain Candlelight Barrier equal to 50% max Healing Gauge (&a).,,获得最大体力值50%(&a)的烛火屏障。,
+Skill/S_Candle_2_Name,Text,,,Candle Radiance,,烛照,
+Skill/S_Candle_3_Description,Text,,,Gain Candlelight Barrier equal to 50% max Healing Gauge (&a).,,获得最大体力值50%(&a)的烛火屏障。,
+Skill/S_Candle_3_Name,Text,,,Faint Reflection,,微光倒影,
+Skill/S_Candle_4_Description,Text,,,Gain Candlelight Barrier equal to 30% max Healing Gauge (&a).,,获得最大体力值30%(&a)的烛火屏障。,
+Skill/S_Candle_4_Name,Text,,,Candlelight Sanctuary,,烛火庇护,
+Skill/S_Candle_5_Description,Text,,,"Grant 1 stack of ""Candlelight Protection"" to other allies.",,其他友军获得一层“烛光保护”。,
+Skill/S_Candle_5_Name,Text,,,Shadow Candle,,幽影烛,
+Skill/S_Candle_6_Description,Text,,,"When Candlelight Barrier exists, remove 1 random debuff from self. 
+Transferred debuffs are applied to all enemies.",,"烛火屏障存在时，清除自身随机一个减益。
+清除的减益将会赋予所有敌人。",
+Skill/S_Candle_6_Name,Text,,,Candle Judgment,,秉烛审判,
+Skill/S_Candle_7_Description,Text,,,Gain Candlelight Barrier equal to 25% max Healing Gauge (&a). Protect all allies' Healing Gauge for 1 turn.,,"获得最大体力值25%(&a)的烛火屏障,所有友方保护体力极限1回合。",
+Skill/S_Candle_7_Name,Text,,,Candle Rekindling,,烛火重燃,
+Skill/S_Candle_8_Description,Text,,,"Usable while stunned. 
+Remove all debuffs from target and transfer to self. 
+If transferred debuffs were from allies, Candle becomes the source.",,"可在无法行动时使用。
+解除目标身上所有减益，将解除的减益转移到自身。
+转移的减益如果使用者是友方，改为烛赋予。",
+Skill/S_Candle_8_Name,Text,,,Wax Ritual Reforge,,蜡祭重熔,
+Skill/S_Candle_9_Description,Text,,,"Usable while stunned.Cannot target other allies. 
+When self-targeted: Clear all debuffs. Generate barrier based on debuff types, corresponding resistance rates, and max HP (corresponding &user resistance rate * max HP). 
+When targeting enemies: Inflicts equivalent Pain damage.",,"可在无法行动时使用。不能指向其它友方。
+指向自己时，清除所有减益。根据清除的减益类型、对应的减益抵抗率、自身最大体力值，生成烛火屏障。
+（对应的&user减益抵抗率*最大体力值）
+指向敌人时则变为造成等量痛苦伤害。",
+Skill/S_Candle_9_Name,Text,,,Evidence of Sin,,罪证,
+Skill/S_Candle_Lucy_Description,Text,,,"Draw 2 skills. 
+With Candlelight Barrier active, copy 1 random debuff from target to all enemies.",,"抽取两个技能。
+烛火屏障存在的情况下，将目标拥有的随机一个减益以当前状态赋予所有敌人。",
+Skill/S_Candle_Lucy_Name,Text,,,Candlefire Arrow,,烛光火失,
+Skill/S_Candle_R1_Description,Text,,,"On cast: In Mirage Candle Shadow, debuff targets become all allies instead of ""Candle"". Synchronized debuffs apply to all enemies. Debuffs cannot be resisted.",,释放后，蜃楼烛中影中被施加减益的对象条件由“烛”变为全体友军，同步施加减益的对象将变为全体敌人。减益施加时不会被抵抗。,
+Skill/S_Candle_R1_Name,Text,,,Non-Vitalism Theory,,无生源论,
+Skill/S_Candle_R2_Description,Text,,,"Gain Candlelight Barrier equal to 30% max Healing Gauge (&a). 
+On cast: Barrier gains &a additional points per debuff on Candle.
+(Current total: &c)",,"获得最大体力值30%(&a)的烛火屏障。
+释放时，自身每承受一个减益，烛火屏障额外获得当前烛的等级(&b)点。
+当前总计:&c",
+Skill/S_Candle_R2_Name,Text,,,No.20 Film Reel,,二十号胶卷,
+Skill/S_Candle_R3_Description,Text,,,"On cast: Candlelight debuffs gain ""Enchantment Level"" enhancements. 
+Candlelight Thorns III: Damage multiplier changes from Attack Power to max Healing Gauge. 
+Candlelight Protection IV: Also generates Candlelight Barrier equal to 20% of max Healing Gauge. 
+Candlelight Pull V: Success rate: 150%. 
+Candlelight Mending I: No longer consumes buff stacks when triggered. 
+Candle Affix II: Removes and heals HP equal to half of base damage when at Death's Door.",,"释放后，烛光系列减益获得“附魔等级”强化。
+烛光荆棘Ⅲ：伤害系数由攻击力变为最大体力值。
+烛光保护Ⅳ：将同时生成自身最大体力值20%的烛火屏障。
+烛光牵引Ⅴ：成功率：150%
+烛光修补Ⅰ：触发时不再消耗增益层数。
+烛光附加Ⅱ：濒死时解除并治疗相当于基础伤害一半的生命值。",
+Skill/S_Candle_R3_Name,Text,,,Trail of Candlelight,,烛光之迹,
+Skill/S_Mari_1_Description,Text,,,"If target has buffs, each buff grants all allies max HP equal to 10% of Healing Power.",,若目标拥有增益，每个增益增加全体友军相当于10%治疗力的最大体力值。,
+Skill/S_Mari_1_Name,Text,,,Purifying Baptism,,净化洗礼,
+Skill/S_Mari_2_Description,Text,,,"If target has debuffs, each debuff grants all allies Mystic Shield equal to 10% of Healing Power.",,若目标拥有减益，每个减益增加全体友军相当于10%治疗力的神秘护盾。,
+Skill/S_Mari_2_Name,Text,,,Resolute Thoughts,,毅然的思念,
+Skill/S_Mari_3_Description,Text,,,This skill’s passive max HP effect is doubled.,,此技能触发被动能力的最大生命值效果提升2倍。,
+Skill/S_Mari_3_Name,Text,,,Heart of Mercy,,慈爱之心,
+Skill/S_Mari_4_Description,Text,,,"When allies are at Death's Door, grant an ally Mystic Shield equal to damage dealt.",,队伍中存在濒死状态的友军时，给予一名濒死状态的友军神秘护盾，护盾值等同于伤害量。,
+Skill/S_Mari_4_Name,Text,,,Compassion,,怜悯,
+Skill/S_Mari_5_Description,Text,,,"Also affects the caster when used. 
+This skill does not trigger passive effects.",,"技能释放时对自身也有效果。
+这个技能不会触发被动能力的效果。",
+Skill/S_Mari_5_Name,Text,,,Sister's Cheer,,修女的应援,
+Skill/S_Mari_6_Description,Text,,,Prioritize drawing 1 skill from target.,,优先抽取目标的一个技能。,
+Skill/S_Mari_6_Name,Text,,,Cheerful Resolve,,应援的心理准备,
+Skill/S_Mari_7_0_Name,Text,,,Dedicated Encouragement,,奉献的鼓励,
+Skill/S_Mari_7_Description,Text,,,"This turn, when target uses a skill, apply ""Dedicated Encouragement"" with 20% healing effectiveness.",,本回合目标释放技能时，以20%治疗量对其使用一次“奉献的鼓励”。,
+Skill/S_Mari_7_Name,Text,,,Dedicated Encouragement,,奉献的鼓励,
+Skill/S_Mari_8_Description,Text,,,"Also heals self. 
+This skill’s passive max HP/Mystic Shield effects become 1.5x.",,"同时治疗自己。
+此技能给予被动能力的最大体力值或神秘护盾效果变为1.5倍。",
+Skill/S_Mari_8_Name,Text,,,Overflowing Feelings,,满溢的心情,
+Skill/S_Mari_9_Description,Text,,,"Does not trigger Mari’s passive. 
+If target has passive buffs, the healing becomes Overheal.",,"这个技能不会触发玛丽的被动能力效果。
+释放的目标拥有被动能力的效果增益时，变为超额治疗。",
+Skill/S_Mari_9_Name,Text,,,Loving Kiss,,慈爱的飞吻,
+Skill/S_Mari_R1_Description,Text,,,"Usable while disabled. 
+Remove all debuffs from target.",,"无法行动时也能释放。
+解除目标所有减益。",
+Skill/S_Mari_R1_Name,Text,,,Divine Protection,,神圣护佑,
+Skill/S_Mari_R2_Description,Text,,,This skill’s passive max HP/Mystic Shield effects are multiplied by 5.,,该技能触发被动能力的最大生命值、神秘护盾效果提升5倍。,
+Skill/S_Mari_R2_Name,Text,,,Have Some Water,,喝点水吧,
+Skill/S_Mari_R3_Description,Text,,,Play this skill when drawn.,,抽取时释放此技能。,
+Skill/S_Mari_R3_Name,Text,,,Joy in the Moment,,欢乐在今宵,
+SkillExtended/Ex_Candle_1_EnforceString,Text,,,Attack skill,,攻击技能,
+SkillExtended/Ex_Candle_1_Name,Text,,,Gain Candlelight Barrier equal to 30% of damage dealt.,,获得伤害量30%的烛火屏障。,
+SkillExtended/Ex_Candle_2_EnforceString,Text,,,Attack skill,,攻击技能,
+SkillExtended/Ex_Candle_2_Name,Text,,,Gain 3 Candlelight Barrier points per debuff stack on target.,,根据目标拥有的减益层数，每一个减益获得3点烛火屏障。,
+SkillExtended/Ex_Candle_3_Des,Text,,,Damage increased by &a.,,伤害量将增加&a。,
+SkillExtended/Ex_Candle_3_Name,Text,,,Affixed Shadow,,附影,
+

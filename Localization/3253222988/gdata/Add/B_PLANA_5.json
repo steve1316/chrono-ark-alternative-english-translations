@@ -1,0 +1,12 @@
+{
+    "B_PLANA_5": {
+        "Name": "L.O.V.E",
+        "ClassName": "PLANA.B_PLANA_5",
+        "Icon": "B_PLANA_5\\B_PLANA_5_Icon.png",
+        "Description": "受到治疗时，抽一张牌并获得&a点保护罩，触发后解除。",
+        "Tick": "null",
+        "BuffTag": "null",
+        "Caution": false,
+        "_gdeSchema": "Buff"
+    }
+}

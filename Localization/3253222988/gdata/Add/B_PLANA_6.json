@@ -1,0 +1,17 @@
+{
+    "B_PLANA_6": {
+        "Name": "A.R.O.N.A",
+        "ClassName": "PLANA.B_PLANA_6",
+        "Icon": "B_PLANA_6\\B_PLANA_6_Icon.png",
+        "Description": "普拉娜不容易受到攻击，防御力增加。",
+        "Tick": "null",
+        "BuffTag": "null",
+        "Caution": false,
+        "_gdeSchema": "Buff",
+        "Hide": false,
+        "IsFieldBuff": false,
+        "Cantdisable": false,
+        "UseSkillDebuff": false,
+        "LifeTime": 3
+    }
+}

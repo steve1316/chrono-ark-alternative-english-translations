@@ -1,0 +1,14 @@
+{
+    "SE_PLANA_6": {
+        "HEAL_Per": 20,
+        "Buffs": [
+            
+        ],
+        "CRI": 0,
+        "BuffPlusTagPer": [
+            
+        ],
+        "_gdeSchema": "SkillEffect",
+        "HIT": 100
+    }
+}

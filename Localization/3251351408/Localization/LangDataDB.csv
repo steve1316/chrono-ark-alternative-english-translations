@@ -1,0 +1,160 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Marisa_11_R_Description,Text,,,"At the start of the next turn, lose 4 Mana.",,下个回合开始时法力值减少4点,
+Buff/B_Marisa_11_R_Name,Text,,,Overload,,过载,
+Buff/B_Marisa_3_Description,Text,,다음 턴 시작 시 <마부「밀키웨이」>를 생성하고 이 버프를 제거합니다.,"At the start of the next turn, generate Magic Sign ""Milky Way"" in your hand. This buff is removed after activation.",,下个回合开始时在手中生成魔符「银河」，生效后消除该增益。,
+Buff/B_Marisa_3_Name,Text,,마부 「밀키웨이」,"Magic Sign ""Milky Way""",,魔符「银河」,
+Buff/B_Marisa_5_Description,Text,,자신의 스킬을 사용시마다 체력이 가장 높은 적에게 슈팅스타를 발사합니다.,"After using one of your skills, fire a ""Shooting Star"" at the enemy with the highest HP.",,使用的自己的技能后对敌方生命值最高的敌人释放一次星星。,
+Buff/B_Marisa_5_Name,Text,,스타더스트 레버리,Stardust Reverie,,星尘幻想,
+Buff/B_Marisa_8_Description,Text,,한 번의 공격을 회피합니다. 발동된 후 이 버프를 제거합니다.,Dodge one attack. This buff is removed after activation.,,闪避一次攻击。生效后消除此增益。,
+Buff/B_Marisa_8_Name,Text,,고속비행,High-Speed Flight,,高速飞行,
+Buff/B_Marisa_R_Description,Text,,,,,,
+Buff/B_Marisa_R_Name,Text,,,,,,
+Character/Marisa_CampSelectWord,Text,,내게 맡겨!,Leave it to me!,,交给我吧。,
+Character/Marisa_PassiveDes,Text,,매 턴 시작 시 손에 팔괘로가 없다면 생성합니다.,"At the start of each turn, if you don't have Mini-Hakkero in your hand, generate it.",,每回合开始后若手中没有八卦炉，则将八卦炉置入手中。,
+Character/Marisa_PassiveName,Text,,평범한 마법사,Ordinary Magician,,普通的魔法使,
+Character/Marisa_SelectInfo,Text,,"키리사메 마리사，시리즈 작품 《동방 Project》의 주인공으로, 인간 종족이며 마법사로서 사람이 거의 찾아가지 않는 마법의 숲에서 혼자 살고 수행합니다. 「키리사메 마법상점」을 운영하며, 그 곳은 그녀의 직장이자 집입니다. 집 안은 어수선합니다. 외모는 전형적인 서양 마녀의 모습으로, 종종 빗자루를 타고 날아다닙니다. 물건을 수집하는 것을 좋아하지만 정리하지는 않고 방은 미니 마법의 숲이라 불릴 정도로 더러움과 난잡함이 극도로 심합니다.
+
+별과 빛의 마법을 사용하는데 능숙하며, 마포 같은 초대형 마법을 사용할 수 있으며 다양한 별 탄막으로 적을 공격할 수 있습니다.","Marisa Kirisame, the protagonist of the Touhou Project series, is a human magician who lives alone in the secluded Forest of Magic to train. She runs the ""Kirisame Magic Shop"", which serves as both her workplace and home, though it's always a mess. She looks like a typical Western witch and often flies on a broomstick. She loves collecting things but never organizes them, and her room is as chaotic as a miniature Forest of Magic.
+
+She excels in using star and light-based magic, capable of unleashing powerful spells like the Master Spark and attacking enemies with a barrage of star-shaped danmaku.",,"雾雨魔理沙，系列作品《东方Project》中的主人公，种族是人类，职业是魔法使，独居于人迹罕至的魔法之森修行。经营着“雾雨魔法店”，那儿既是她工作的场所也是她的家，家中乱七八糟的。外表看起来是典型的西洋女巫的形象，常骑着扫把飞行。喜欢收集东西但从不整理，房间脏乱程度堪称小型的魔法之森。
+
+擅长使用星星与光一类的魔法，即可使用魔炮这样的超大型杀伤魔法，也能使用出繁多的星星弹幕攻击敌人。",
+Character/Marisa_Text_Battle_AllyND_0,Text,,나도 여기있어!,I'm here too!,,还有我在呢。,
+Character/Marisa_Text_Battle_AllyND_1,Text,,나머지는 나한테 맡겨.,Leave the rest to me.,,剩下的交给我吧。,
+Character/Marisa_Text_Battle_Cri_0,Text,,이건 어때!,How about this!,,这下怎么样！,
+Character/Marisa_Text_Battle_Healed_0,Text,,너희들이 있어서 최고다☆제!,It's great to have you all here DA☆ZE!,,有你们真是太好了DA☆ZA！。,
+Character/Marisa_Text_Battle_Idle_0,Text,,정말 길가의 요정보다도 귀찮네.,You're more troublesome than a roadside fairy.,,真是比路边的妖精还要麻烦。,
+Character/Marisa_Text_Battle_Idle_1,Text,,너희 모두 쓰트릴거야.,I'll take you all down.,,我要把你们全打趴下。,
+Character/Marisa_Text_Battle_Kill_0,Text,,"이봐, 너희들 괜찮니?","Oops, you're not dead, are you?",,哎呀，你们没逝吧。,
+Character/Marisa_Text_Battle_Kill_1,Text,,내가 얼마나 센지 알아?,Now you know how strong I am.,,知道本大爷的厉害了吧。,
+Character/Marisa_Text_Battle_ND_0,Text,,나는 쉽게 쓰러트리지 못할걸!,I won't go down so easily!,,我可不会轻易倒下！,
+Character/Marisa_Text_Battle_Start_0,Text,,인간도 마법을 사용할 수 있다☆제!,"Humans can use magic too, DA☆ZE!",,人类可是也能使用魔法DA☆ZA！,
+Character/Marisa_Text_Battle_Start_1,Text,,"비켜, 내 용기를 보여주지.","Move aside, I'm super brave.",,让开，我超勇的。,
+Character/Marisa_Text_Field_GetItem_0,Text,,"하하, 이건 먼저 빌려간다.","Haha, I'll borrow this for now.",,哈哈，这个我就先借走了。,
+Character/Marisa_Text_Field_Idle_0,Text,,어디 재밌는거 없나?,Where should I go to have some fun?,,该上哪找点乐子呢?,
+Character/Marisa_Text_Field_Idle_1,Text,,앨리스네 집에서 차라도 좀 마실까?,Maybe I should go to Alice's place for a drink.,,要不去爱丽丝家喝点东西吧。,
+Character/Marisa_Text_Field_Idle_2,Text,,"헤이, 이 버섯 정말 맛있겠다☆제!","Hey, this mushroom looks super tasty DA☆ZE!",,诶，这个蘑菇看起来超好吃DA☆ZA！,
+Character/Marisa_Text_Field_Idle_3,Text,,내가 왜 그 책벌레가 이 근처에서 나타났다고 착각했을까?,Why do I have the illusion that bookworm is around here?,,我为什么会有那个书呆子在这附近出现的错觉？,
+Character/Marisa_Text_Field_Potion_P_0,Text,,이 포션을 내 포션과 섞으면 어떻게 될까?,What happens if I mix this potion with mine?,,把这个药水混合我的药水会发生什么呢？,
+Character/Marisa_Text_PharosLeader_0,Text,,"그래, 적이 여기 있었군.",So the enemy is over here.,,原来敌人在这边。,
+Character/Marisa_Text_PharosLeader_1,Text,,너희 전부 무사해?,Is everyone okay?,,大家没逝吧！,
+Character/Marisa_Text_PharosLeader_2,Text,,잿더미가 되어라!,Turn to ashes!,,化为灰烬把。,
+Character/Marisa_UnlockString,Text,,,,,,
+Character/Marisa_name,Text,,마리사,Marisa,,魔理沙,
+Item_Passive/Fool_Description,Text,,"한 턴 안에 9이상의 마나를 소비했을 때 체력이 가장 높은 적이 동결된다.
+두 턴마다 한 번씩 발동할 수 있습니다.
+
+<color=#919191>바보야! 무작정 얼리지 말아야지!</color>","Freeze the enemy with the highest HP after spending 9 or more Mana in one turn.
+Can be triggered once every two turns.
+
+<color=#919191>""Idiot! Don't freeze things randomly!""</color>",,"一回合内花费9点法力值后冰冻体力值最高的敌人。
+每两个回合可触发一次。
+
+<color=#919191>“笨蛋！不要乱冰冻啊！”</color>",
+Item_Passive/Fool_name,Text,,얼어붙은 개구리,Frozen Frog,,冰冻青蛙,
+Skill/S_Marisa_0_Description,Text,,"팔괘로와 인접하면 비용이 신속 2가 됩니다.
+이 스킬의 비용당 &a의 피해가 추가됩니다. (팔괘로 인접시, 인접전 비용으로 계산)
+팔괘로와 인접하기 전의 비용: &b.","When adjacent to Mini-Hakkero, the cost becomes Swiftness 2.
+This skill deals additional damage equal to &a per cost (if adjacent to Mini-Hakkero, the cost is calculated based on the pre-adjacent cost).
+Cost before adjacency: &b.",,"与八卦炉相邻时费用变为迅捷2。
+此技能的每点费用将增加&a点伤害（若此技能与八卦炉相邻则使用时的费用按相邻前的费用计算）。
+与八卦炉相邻前的费用：&b。",
+Skill/S_Marisa_0_Name,Text,,연부「마스터 스파크」,"Love Sign ""Master Spark""",,恋符「极限火花」,
+Skill/S_Marisa_10_R_Description,Text,,"이 스킬은 팔괘로와 인접해 있을 때에만 사용할 수 있으며, 사용 후에는 팔괘로를 버립니다.
+손에 있는 모든 스킬의 총비용당 이 기술의 피해가 &a 증가합니다.","This skill can only be used when adjacent to Mini-Hakkero. After use, discard Mini-Hakkero.
+This skill's damage increases by &a for every point of total cost of skills in your hand.",,"此技能只有与八卦炉相邻时才可使用，使用后丢弃八卦炉。
+根据手中所有技能的费用，每点费用增加此技能&a点伤害。",
+Skill/S_Marisa_10_R_Name,Text,,마포「파이널 스파크」,"Magic Cannon ""Final Spark""",,魔炮「究极火花」,
+Skill/S_Marisa_11_R_Description,Text,,"이 스킬은 팔괘로와 인접해 있을 때에만 사용할 수 있으며, 사용 후에는 팔괘로를 버리고 다음 턴 시작 시 4마나를 감소시킵니다.
+이 스킬의 카운트다운 동안 스킬(팔괘로 제외)을 사용 할 때마다 이 스킬의 데미지를 &a 씩 올립니다. 또한, 이 스킬의 카운트다운이 끝날 때 무작위 적에게 카운트다운동안 사용한 슈팅스타 수 만큼 추가로 슈팅스타를 발사합니다.
+카운트다운 종료 시 슈팅스타 방출 횟수: &b.","This skill can only be used when adjacent to Mini-Hakkero. After use, discard Mini-Hakkero and lose 4 Mana at the start of the next turn.
+During this skill's countdown, each skill used (except Mini-Hakkero) increases this skill's damage by &a, and each ""Shooting Star"" used casts an additional ""Shooting Star"" at the end of the countdown.
+Total Shooting Stars cast at the end of countdown: &b.",,"此技能只有与八卦炉相邻时才可使用，使用后丢弃八卦炉，下个回合开始时减少4点法力值。
+在此技能倒计时期间，每使用一个技能（除八卦炉外）则增加此技能&a点伤害，每使用一次星星则在倒计时结束时释放一次星星。
+倒计时结束时释放星星次数：&b。",
+Skill/S_Marisa_11_R_Name,Text,,혜성「블레이징 스타」,"Comet ""Blazing Star""",,彗星「彗星」,
+Skill/S_Marisa_12_LucyD_Description,Text,,"스킬 2장을 뽑고, 3마나를 회복합니다.",Draw two skills and restore 3 Mana.,,抽取两个技能，恢复三点法力值。,
+Skill/S_Marisa_12_LucyD_Name,Text,,버섯물약,Mushroom Potion,,蘑菇药水,
+Skill/S_Marisa_1_0_Description,Text,,,,,,
+Skill/S_Marisa_1_0_Name,Text,,,"Black Magic ""Event Horizon""",,黑魔「黑洞边缘」,
+Skill/S_Marisa_1_Description,Text,,"선택한 스킬을 버리고 모든 적에게 해당 스킬 비용 * &a 의데미지를 입힙니다.
+버려진 스킬이 팔괘로와 인접했다면 버려질 때의 비용 계산에 5를 더합니다.","Discard the selected skill to deal damage equal to the discarded skill's cost * &a to all enemies.
+If the discarded skill was adjacent to Mini-Hakkero, add 5 to its cost when calculating damage.",,"丢弃选择的技能对所有敌人造成丢弃技能费用* &a点伤害。
+若丢弃的技能与八卦炉相邻则丢弃时的费用计算额外加5。",
+Skill/S_Marisa_1_Name,Text,,흑마「이벤트 호라이즌」,"Black Magic ""Event Horizon""",,黑魔「黑洞边缘」,
+Skill/S_Marisa_2_0_Description,Text,,,,,,
+Skill/S_Marisa_2_0_Name,Text,,,,,,
+Skill/S_Marisa_2_Description,Text,,"팔괘로와 인접하면 비용이 신속 3이 됩니다.
+이 스킬과 인접한 두 개의 스킬비용합계만큼 무작위 적에게 이 기술을 반복적으로 시전합니다 (팔괘로의 비용은 5로 간주).","When adjacent to Mini-Hakkero, the cost becomes Swiftness 3.
+Repeat this skill a number of times equal to the combined cost of the two skills adjacent to this skill (if adjacent to Mini-Hakkero, Mini-Hakkero's cost is considered 5).",,"与八卦炉相邻时费用变为迅捷3。
+根据此技能相邻的两个技能的费用，对随机敌人重复释放相应数量的此技能（若此技能与八卦炉相邻则八卦炉的费用视为5）。",
+Skill/S_Marisa_2_Name,Text,,연부「논디렉셔널 레이저」,"Love Sign ""Non-Directional Laser""",,恋符「非定向光线」,
+Skill/S_Marisa_3_Description,Text,,"팔괘로와 인접하면 비용이 신속 0이 됩니다.
+대상이 자신의 스킬이면, 비용을 5 증가시키고 다음 턴 시작시 이 스킬을 손에 넣습니다.
+대상이 자신의 스킬이 아면, 비용을 2 감소시키고 다음 턴 시작 시 이 스킬을 손에 넣습니다.","When adjacent to Mini-Hakkero, the cost becomes Swiftness 0.
+If the target skill is your own, increase its cost by 5 and return this skill to your hand at the start of the next turn.
+If the target skill is not your own, reduce its cost by 2 and return this skill to your hand at the start of the next turn.",,"与八卦炉相邻时费用变为迅捷0。
+若目标技能为自己的技能，增加目标技能5点费用并且使用后的下个回合将此技能置入手中。
+若目标技能不为自己的技能，减少目标技能2点费用并且使用后的下个回合将此技能置入手中。",
+Skill/S_Marisa_3_Name,Text,,마부「밀키웨이」,"Magic Sign ""Milky Way""",,魔符「银河」,
+Skill/S_Marisa_4_Description,Text,,"이 스킬이 초읽기 상태에 들어갔을 때 스킬을 하나 뽑습니다.
+이 스킬의 카운트다운 동안, 팔괘로와 인접한 슈팅스타를 제외한 스킬을 사용한 다면 슈팅스타 한 장을 손에 넣습니다(손이 가득 찬 경우, 무작위 적에게 직접 시전), 1회에 최대 6회 촉발.
+별 생성 횟수: &a.","When this skill enters countdown, draw one skill.
+During this skill's countdown, using a skill adjacent to Mini-Hakkero (except ""Shooting Star"") generates a ""Shooting Star"" in your hand (if your hand is full, it is cast on a random enemy instead). This can trigger up to 6 times per turn.
+Number of Shooting Stars generated: &a",,"此技能进入倒计时状态时抽取一个技能。
+在此技能倒计时期间，使用与八卦炉相邻除星星外的技能后将一张星星置入手中（若手牌已满则直接对随机敌人释放），一回合最多触发6次。
+生成星星的次数: &a",
+Skill/S_Marisa_4_Name,Text,,마공「애스터로이드 벨트」,"Magic Space ""Asteroid Belt""",,魔空「小行星带」,
+Skill/S_Marisa_5_Description,Text,,"손에 슈팅스타 2장을 생성합니다(손이 가득 찬 경우, 무작위 적에게 직접 시전).
+사용 할 때, 팔괘로와 인접했었다면, 사용 후 제외를 붙인 복사본을 손에 넣는다.","Generate 2 ""Shooting Star"" skills in your hand (if your hand is full, cast them on random enemies instead).
+When adjacent to Mini-Hakkero, after use, generate a copy of this skill with Exclude in your hand.",,"在手中生成2张星星（若手牌已满则直接对随机敌人释放）。
+与八卦炉相邻时，使用后将一张带有放逐的复制置入手中。",
+Skill/S_Marisa_5_Name,Text,,마부「스타더스트 레버리」,"Magic Sign ""Stardust Reverie""",,魔符「星尘幻想」,
+Skill/S_Marisa_6_Description,Text,,"이 스킬을 사용시 이 스킬이 팔괘로와 인접해 있다면 스킬 2장을 뽑고 그 비용을 1줄입니다.
+아니라면 팔괘로에 인접한 스킬을 버리고, 스킬을 3장 뽑습니다.","Discard a skill adjacent to Mini-Hakkero and draw three skills.
+If this skill is adjacent to Mini-Hakkero, instead draw two skills and reduce their cost by 1.",,"丢弃与八卦炉相邻的技能，抽取三个技能。
+若此技能与八卦炉相邻，则将效果改为抽取两个技能并将其费用减一。",
+Skill/S_Marisa_6_Name,Text,,연풍「스타라이트 타이푼」,"Love Wind ""Starlight Typhoon""",,恋风「星光台风」,
+Skill/S_Marisa_7_Description,Text,,"이 스킬의 카운트다운 동안 슈팅스타를 사용 할 때마다 슈팅스타를 한번 더 발동합니다.
+카운트다운이 끝날 때 무작위 적에게 카운트다운동안 사용한 팔괘로와 인접한 슈팅스타 수 만큼 슈팅스타를 추가시전합니다.
+카운트다운 종료 시 총 슈팅스타 방출 횟수: &a.","During this skill's countdown, each time you use a ""Shooting Star"" from your hand, cast an additional ""Shooting Star"". If the used ""Shooting Star"" was adjacent to Mini-Hakkero, cast an extra ""Shooting Star"" at the end of the countdown.
+Total Shooting Stars cast at the end of countdown: &a.",,"在此技能倒计时期间，从手中使用一次星星后追加释放一次星星，若使用的星星与八卦炉相邻则在倒计时结束时额外释放一次星星。
+倒计时结束时释放星星总次数：&a。",
+Skill/S_Marisa_7_Name,Text,,성부「미티어닉 샤워」,"Star Sign ""Meteoric Shower""",,星符「流星雨」,
+Skill/S_Marisa_8_Description,Text,,"스킬을 한장 뽑습니다.
+손에 들고 있는 신속 스킬의 비용이 1감소합니다.","Draw one skill.
+Reduce the cost of all Swiftness skills in your hand by 1.",,"抽取一个技能。
+使手中带有迅捷的技能费用减一。",
+Skill/S_Marisa_8_Name,Text,,마법 빗자루,Magic Broom,,魔法扫帚,
+Skill/S_Marisa_9_Description,Text,,대상 스킬에 <피해를 입힐 때 치명타를 적중합니다>효과를 부여합니다.,Grants the target skill the effect of dealing critical hits when dealing damage.,,赋予目标技能造成伤害时以暴击命中的效果。,
+Skill/S_Marisa_9_Name,Text,,미니 팔괘로,Mini-Hakkero,,迷你八卦炉,
+Skill/S_Marisa_P_0_Description,Text,,"이 스킬은 손 최상단에 있을 때만 사용할 수 있습니다.
+이 스킬을 선택한 스킬 아래로 이동합니다.","This skill can only be used when it is at the top of your hand.
+Move this skill below the selected skill.",,"只有此技能位于手牌顶时才可使用。
+将此技能移动至选择技能的下方。",
+Skill/S_Marisa_P_0_Name,Text,,팔괘로,Hakkero,,八卦炉,
+Skill/S_Marisa_P_1_Description,Text,,,,,,
+Skill/S_Marisa_P_1_Name,Text,,슈팅스타,Shooting Star,,星星,
+Skill/S_Marisa_Public_Description,Text,,,,,,
+Skill/S_Marisa_Public_Name,Text,,매지컬 어택,Magical Attack,,神奇铁尻,
+SkillExtended/Marisa_1_Ex_0_Des,Text,,"비용을 &a 증가시키고, 스킬 2장을 뽑습니다.",Increase cost by &a and draw two skills after use.,,增加&a点费用，使用后抽取两个技能。,
+SkillExtended/Marisa_1_Ex_0_EnforceString,Text,,,,,,
+SkillExtended/Marisa_1_Ex_0_Name,Text,,블랙홀,Black Hole,,黑洞,
+SkillExtended/Marisa_3_Ex_0_Des,Text,,"비용을 5 증가시키고, 다음 턴에 손에 마부「밀키웨이」를 생성합니다.","Increase cost by 5 and generate Magic Sign ""Milky Way"" in your hand at the start of the next turn.",,增加5点费用，使用后的下个回合在手中生成魔符「银河」。,
+SkillExtended/Marisa_3_Ex_0_EnforceString,Text,,,,,,
+SkillExtended/Marisa_3_Ex_0_Name,Text,,밀키웨이,Milky Way,,银河,
+SkillExtended/Marisa_3_Ex_1_Des,Text,,"비용을 2 감소시키고, 다음 턴에 손에 마부「밀키웨이」를 생성합니다.","Reduce cost by 2 and generate Magic Sign ""Milky Way"" in your hand at the start of the next turn.",,减少2点费用，使用后的下个回合在手中生成魔符「银河」。,
+SkillExtended/Marisa_3_Ex_1_EnforceString,Text,,,,,,
+SkillExtended/Marisa_3_Ex_1_Name,Text,,밀키웨이,Milky Way,,银河,
+SkillExtended/Marisa_8_Ex_0_Des,Text,,비용을 1 감소시킵니다.,Reduce cost by 1.,,减少1点费用。,
+SkillExtended/Marisa_8_Ex_0_EnforceString,Text,,,,,,
+SkillExtended/Marisa_8_Ex_0_Name,Text,,마법 빗자루,Magic Broom,,魔法扫帚,
+SkillExtended/Marisa_9_Ex_0_Des,Text,,피해를 입힐 때 치명타로 적중합니다.,Deals critical hits when dealing damage.,,造成伤害时以暴击命中。,
+SkillExtended/Marisa_9_Ex_0_EnforceString,Text,,,,,,
+SkillExtended/Marisa_9_Ex_0_Name,Text,,미니 팔괘로,Mini-Hakkero,,迷你八卦炉,
+SkillExtended/SkillEn_Marisa_0_Des,Text,,,,,,
+SkillExtended/SkillEn_Marisa_0_EnforceString,Text,,,,,,
+SkillExtended/SkillEn_Marisa_0_Name,Text,,"비용을 5 증가시키며, <팔괘로와 인접할 때 신속>을 부여하고 비용을 6감소시킵니다.","Increase cost by 5. When adjacent to Mini-Hakkero, gains Swiftness and reduces cost by 6.",,费用增加5点，与八卦炉相邻时变为迅捷且费用减少6点。,
+SkillExtended/SkillEn_Marisa_1_Des,Text,,,,,,
+SkillExtended/SkillEn_Marisa_1_EnforceString,Text,,,,,,
+SkillExtended/SkillEn_Marisa_1_Name,Text,,팔괘로와 인접했을 때 사용하면 손에 슈팅스타 두 개가 생성된다.,"When adjacent to Mini-Hakkero, generate two ""Shooting Star"" skills in your hand after use.",,与八卦炉相邻时，使用后在手中生成两张星星。,

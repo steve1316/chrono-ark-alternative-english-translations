@@ -1,0 +1,110 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_Equip_TopazHSR_0_Name,Text,,,Tame,,温驯,
+Buff/B_Equip_TopazHSR_1_Name,Text,,,Burn,,灼伤,
+Buff/B_TopazHSR_10Rare_Description,Text,,,All enemies are considered to have Proof of Debt.,,"所有敌人视作拥有负债证明
+但账账仍然会以原本拥有负债证明的敌人为目标",
+Buff/B_TopazHSR_10Rare_Name,Text,,,Demand Surge,,需求膨胀,
+Buff/B_TopazHSR_10Rare_T_Name,Text,,,Proof of Debt (Demand Surge),,负债证明（需求膨胀）,
+Buff/B_TopazHSR_11Rare_Description,Text,,,"When Numby attacks, gain 1 stack of Windfall Bonanza.        ",,账账攻击时，获得一层 涨幅惊人,
+Buff/B_TopazHSR_11Rare_Name,Text,,,Incentive Mechanism,,激励机制,
+Buff/B_TopazHSR_2_Description,Text,,,"Numby's attack multiplier +100%
+Action Value increases even if the attack is not a Follow-up.
+Lose 1 stack after Numby attacks.",,"账账的攻击倍率+100%
+行动值不需要攻击为追击也可以增加
+账账攻击后减少一层",
+Buff/B_TopazHSR_2_Name,Text,,,Windfall Bonanza!,,涨幅惊人！,
+Buff/B_TopazHSR_3_Description,Text,,,Lose 1 Mana at the start of next turn.,,下回合开始时法力值-1,
+Buff/B_TopazHSR_3_Name,Text,,,Overdraft,,透支,
+Buff/B_TopazHSR_4_Description,Text,,,Numby deals 50% more damage to enemies below 50% HP.      ,,账账对于生命值低于50%的敌人造成的伤害提高50%,
+Buff/B_TopazHSR_4_Name,Text,,,Financial Turmoil,,金融动荡,
+Buff/B_TopazHSR_6_Description,Text,,,"Increases Critical Follow-up damage taken by &a%.
+Gain 1 stack when hit by a Follow-up attack.
+Removed if Proof of Debt is not present.",,"受到暴击的追击伤害提高&a%
+受到追击时叠加一层
+不处于负债证明时解除",
+Buff/B_TopazHSR_6_Name,Text,,,Under Enforcement,,被执行,
+Buff/B_TopazHSR_LucyD_Description,Text,,,"Numby's next attack will draw a skill, then remove this buff.
+Marks hidden treasure locations in this area after combat.",,"账账的下次攻击时会抽取一个技能，并解除此Buff
+战斗结束时标明本区域的隐藏宝箱所在位置",
+Buff/B_TopazHSR_LucyD_Name,Text,,,Explicit Subsidy,,明补,
+Buff/B_TopazHSR_P_Description,Text,,,"Increases Follow-up damage taken by 25%.
+Gain 1 Action Value when hit by a Follow-up attack with a different name than the last.
+At 2 Action Value, Numby launches a Follow-up attack equal to 100% of Topaz's ATK, then resets Action Value.
+Gain 1 Action Value at turn end.",,"受到的追击伤害增加25%
+每次受到与上次不同名的追击时，行动值+1
+行动值达到2时，账账会进行一次托帕攻击力100%的追击，追击后行动值归零。
+回合结束时，行动值+1",
+Buff/B_TopazHSR_P_Name,Text,,,Proof of Debt,,负债证明,
+Character/TopazHSR_CampSelectWord,Text,,,"Hey, long time no see! How have you been? Work keeping you busy? Lots of overtime?",,嗨，好久不见！最近怎么样？工作忙不忙，加班多吗？,
+Character/TopazHSR_PassiveDes,Text,,,"If no enemy has Proof of Debt, mark a random enemy (prioritizing Taunted ones).
+Only one Proof of Debt can exist. Removed if Topaz is incapacitated.
+Numby prioritizes attacking enemies with Proof of Debt.",,"若敌方不存在负债证明，则为随机一个敌人赋予负债证明，优先挑选带有嘲讽的敌人。
+同时只能存在一个负债证明，且托帕进入无法战斗时解除。
+托帕的搭档次元扑满账账会优先攻击具有负债证明的敌人。",
+Character/TopazHSR_PassiveName,Text,,,Pig Market?!,,猪市？！,
+Character/TopazHSR_SelectInfo,Text,,,"A senior executive of the Strategic Investment Department under the Interastral Peace Corporation, leading the Special Debt Inspection Team. Her companion, the Warp Trotter ""Numby,"" excels at detecting ""wealth"" – handling security, debt collection, and liquidation with ease.
+In combat, Topaz excels as a single-target Hunt character while boosting Follow-up attack capabilities.",,"星际和平公司旗下「战略投资部」高级干部，领导特殊债务纠察小组。搭档次元扑满「账账」则能敏锐感知「财富」所在，即便是安保、催债、精算等工作也不在话下。
+战斗中，托帕作为巡猎命途的角色，拥有出色的单目标输出能力。同时，还具有对追加攻击伤害的辅助能力。
+",
+Character/TopazHSR_name,Text,,,Topaz & Numby,,托帕&账账,
+Item_Equip/Equip_TopazHSR_0_Description,Text,,,"Increases Follow-up damage dealt by 50%.
+Inflicts a debuff that increases Critical damage taken when attacking with Follow-ups.",,"造成的追击伤害提高50%
+追击时赋予目标受到暴击伤害增加的减益",
+Item_Equip/Equip_TopazHSR_0_name,Text,,,Troubled Yet Content,,烦恼着，幸福着,
+Item_Equip/Equip_TopazHSR_1_Description,Text,,,"When attacked, inflict Burn on the attacker, dealing damage based on DEF%.",,受到攻击时，对攻击者赋予灼烧，灼烧会基于防御力百分比造成伤害,
+Item_Equip/Equip_TopazHSR_1_name,Text,,,Cosmic Market Trends,,宇宙市场趋势,
+Skill/S_TopazHSR_0_Description,Text,,,Counts as a Follow-up attack.,,视为追击,
+Skill/S_TopazHSR_0_Name,Text,,,Deficit...,,赤字…,
+Skill/S_TopazHSR_10Rare_Name,Text,,,Demand Surge,,需求膨胀,
+Skill/S_TopazHSR_11Rare_Description,Text,,,,,,
+Skill/S_TopazHSR_11Rare_Name,Text,,,Incentive Mechanism,,激励机制,
+Skill/S_TopazHSR_1_Description,Text,,,"Counts as a Follow-up attack.
+Apply Proof of Debt to target.",,"视为追击
+为目标赋予负债证明 ",
+Skill/S_TopazHSR_1_Name,Text,,,Payment Issues?,,支付困难？,
+Skill/S_TopazHSR_2_Name,Text,,,Turn Losses to Profits!,,扭亏为盈！,
+Skill/S_TopazHSR_3_Description,Text,,,Counts as a Follow-up attack.,,视为追击,
+,,,,,,,
+Skill/S_TopazHSR_3_Name,Text,,,Overdraft,,透支,
+Skill/S_TopazHSR_4_Description,Text,,,,,,
+Skill/S_TopazHSR_4_Name,Text,,,Financial Turmoil,,金融动荡,
+Skill/S_TopazHSR_5_Description,Text,,,"Counts as a Follow-up attack.
+Reduce Numby's skill cost by 1 during attack.
+Reduces by an additional 1 under Windfall Bonanza.",,"视为追击
+账账攻击时费用减少1
+处于 涨幅惊人 时，额外减少1",
+Skill/S_TopazHSR_5_Name,Text,,,Technical Adjustment,,技术性调整,
+Skill/S_TopazHSR_6_Description,Text,,,Apply Proof of Debt to target.,,为目标赋予负债证明,
+Skill/S_TopazHSR_6_Name,Text,,,Future Market,,未来市场,
+Skill/S_TopazHSR_7_Description,Text,,,"Counts as a Follow-up attack.
+If Numby attacks via this skill, restore 1 Mana.",,"视为追击
+如果账账因为此技能进行了攻击，回复1法力值",
+Skill/S_TopazHSR_7_Name,Text,,,Friendly Acquisition,,善意收购,
+Skill/S_TopazHSR_8_Description,Text,,,"Counts as a Follow-up attack.
+If played as the first attack card after Numby's attack, guarantees Critical hit.",,"视作追击
+作为账账攻击后从手中打出的第一张攻击牌时，必定暴击",
+Skill/S_TopazHSR_8_Name,Text,,,Agile Handling,,敏捷处理,
+Skill/S_TopazHSR_9Rare_Description,Text,,,"Counts as a Follow-up attack.
+Apply Proof of Debt to target.
+Numby immediately attacks once.",,"视为追击
+为目标赋予负债证明
+账账立即攻击一次",
+Skill/S_TopazHSR_9Rare_Name,Text,,,Prioritize the Major,,抓大放小,
+Skill/S_TopazHSR_LucyD_Description,Text,,,"Gain 50 Gold.
+Draw 1 skill.
+Numby's next attack will draw 1 skill.
+If Numby doesn't attack before combat ends and Topaz is active, marks hidden treasure locations.",,"获得50金币
+抽取一个技能
+账账的下次攻击时会抽取一个技能
+若战斗结束前账账未攻击，且托帕不处于无法战斗状态，标明本区域的隐藏宝箱所在位置",
+Skill/S_TopazHSR_LucyD_Name,Text,,,Explicit Subsidy,,明补,
+Skill/S_TopazHSR_P_Description,Text,,,,,,
+Skill/S_TopazHSR_P_Name,Text,,,Numby,,账账,
+SkillExtended/SkillEn_TopazHSR_0_Des,Text,,,,,,
+SkillExtended/SkillEn_TopazHSR_0_EnforceString,Text,,,Attack Skill,,攻击技能,
+SkillExtended/SkillEn_TopazHSR_0_Name,Text,,,Usable while incapacitated. Counts as a Follow-up attack.,,可以在无法行动时使用，视作追击,
+SkillExtended/SkillEn_TopazHSR_1_Des,Text,,,,,,
+SkillExtended/SkillEn_TopazHSR_1_EnforceString,Text,,,Attack Skill,,攻击技能,
+SkillExtended/SkillEn_TopazHSR_1_Name,Text,,,"If Numby attacks via this skill, draw 1 skill and restore 1 Mana.",,如果账账因为此技能进行了攻击，抽取1个技能并回复1法力值,
+,,,,,,,
+

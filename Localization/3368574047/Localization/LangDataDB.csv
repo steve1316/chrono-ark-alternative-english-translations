@@ -1,0 +1,230 @@
+﻿Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_SuzakuinNadeshiko_0_Name,Text,,극납칼,Extreme Sheathing,極納刀,极纳刀,极纳刀
+Buff/B_SuzakuinNadeshiko_4_Description,Text,,스스로 빠른 스킬을 사용할 때마다 수중의 맨 아래 스킬을 버리고 스킬을 추출한다,"Each time you use a Swiftness skill, discard the bottom skill in hand and draw a skill.",自分が迅速なスキルを使うたびに、手の中の一番下のスキルを捨ててスキルを一つ抽出する,每当自身使用迅速技能时，丢弃手中最下方的技能并抽取一个技能,每当自身使用迅速技能时，丢弃手中最下方的技能并抽取一个技能
+Buff/B_SuzakuinNadeshiko_4_Name,Text,,배고픈 늑대가 질주하다,Hungry Wolf's Dash,餓狼が疾走する,饿狼疾驰,饿狼疾驰
+Buff/B_SuzakuinNadeshiko_5_Description,Text,,납칼 효과를 트리거할 때마다 6 점 보호대를 추가합니다,"Each time a Sheath effect is triggered, gain 6 Shield.",納刀効果をトリガーするたびに、6点の保護カバーを追加する,每当触发纳刀效果时，保护罩数量增加6,每当触发纳刀效果时，增加6点保护罩
+Buff/B_SuzakuinNadeshiko_5_Name,Text,,현무위날,Black Tortoise Guardian Blade,玄武衛刃,玄武卫刃,玄武卫刃
+Buff/B_SuzakuinNadeshiko_9_Description,Text,,카드를 폐기할 때마다 1 개의 스킬을 추출하고 추출된 스킬을 40% 의 추가 배율로 만들어 2 회 트리거한 후 해제한다,"Each time you discard a card, draw a skill. The drawn skill gains 40% additional multiplier. Triggers twice, then remove.",カードを捨てるたびに1つのスキルを抽出し、抽出したスキルに40%の倍率を追加し、2回トリガーして解除する,每次丢弃牌时抽取1个技能，并使抽取的技能额外获得40%倍率，触发2次后解除,每次丢弃牌时抽取1个技能，并使抽取的技能额外获得40%倍率，触发2次后解除
+Buff/B_SuzakuinNadeshiko_9_Name,Text,,화이트 울프,White Wolf Squad,白狼隊,白狼队,白狼队
+Buff/B_SuzakuinNadeshiko_R1_Description,Text,,납칼 효과가 트리거될 때마다 반복해서 트리거합니다,"Each time a Sheath effect is triggered, repeat the trigger.",ナイフ効果をトリガーするたびに、トリガーを繰り返す,每当触发纳刀效果时，重复触发一次,每当触发纳刀效果时，重复触发一次
+Buff/B_SuzakuinNadeshiko_R1_Name,Text,,미친 늑대가 춤을 추며 밟다,Mad Wolf's Frenzied Dance,狼が踊り狂う,狂狼舞踏,狂狼舞踏
+Buff/B_SuzakuinNadeshiko_R2_Description,Text,,장내에서 납칼 효과를 트리거할 때마다 이번 라운드는 부상량이 10% 증가하여 최대 40% 까지 증가했다,"Each time a Sheath effect is triggered on the field, increase damage taken this round by 10% (up to 40%).",フィールド上でナイフ効果が発動されるたびに、このラウンドで受けるダメージ量は10%増加し、最高40%になります,"每当场上触发纳刀效果时，本回合受到伤害量增加10%，最高40%
+","每当场上触发纳刀效果时，本回合受到伤害量增加10%，最高40%
+"
+Buff/B_SuzakuinNadeshiko_R2_Name,Text,,보응을 좋아하다,Karmic Retribution,因果応報を愛する,爱染报应,爱染报应
+Character/SuzakuinNadeshiko_CampSelectWord,Text,,"나? 나? 좋아, 같이 가자!","Me? Me? Okay, let’s go together!",私ですか、はい、一緒に行きましょう！,我吗我吗，好，一起去吧！,我吗我吗，好，一起去吧！
+Character/SuzakuinNadeshiko_PassiveDes,Text,,"라운드당 3회 제한, 손에서 사용하는 스킬 시, 카드 창고에서 주작원 무자의 스킬을 하나 뽑아 버린다.
+(없으면 추출하지 않음)
+","Up to 3 times per round: When using a skill from hand, draw a Suzakuin Nadeshiko skill from the deck and discard it. (If none, do not draw)","毎ターン3回限りで、手にした技を手にした時、牌庫から朱雀院撫子の技を1つ抜き取り、廃棄する。
+（なければ抽出しない）
+",每回合限3次，从手中使用的技能时，从牌库中优先抽取一个朱雀院抚子的技能并丢弃，若技能的拥有者不是抚子，则将其放回牌堆顶,"每回合限3次，从手中使用的技能时，从牌库中抽取一个朱雀院抚子的技能并丢弃。
+（没有则不抽取）"
+Character/SuzakuinNadeshiko_PassiveName,Text,,칼날,Blade Obsession,刃痴,刃痴,刃痴
+Character/SuzakuinNadeshiko_SelectInfo,Text,,"주작원 집안의 둘째 언니는 갑자기 방주에 나타나 자매와 함께 돌아가는 방법을 찾아 칼날을 잘 잡는 전투광이다.
+주작원 부자는 납칼 외에 이번 라운드를 통해 납칼 수량 시전' 극납칼' 을 트리거할 수 있어 주작원의 검들과 함께 무패 신화 공연을 할 수 있습니다!","The second daughter of the Suzakuin family, who suddenly appeared during a cycle. A battle maniac skilled in blade arts. 
+Suzakuin Nadeshiko can unleash ""Extreme Sheathing"" based on Sheath triggers, weaving an undefeated myth with her kin!","朱雀院家の二番目の姉は、一巡して突然方舟に現れ、姉妹と一緒に帰る方法を探していました。刃道が得意で、妥協のない戦闘狂です。
+朱雀院撫子は納刀だけでなく、今回のラウンドで納刀の数をトリガーに「極納刀」を発揮することができ、朱雀院の剣士たちと一緒に常勝不敗の神話を上演しよう。","朱雀院家的二姐，一次循环中突然出现在了方舟，在与姐妹一同寻找回去的方法，擅长刃道，是个不折不扣的战斗狂。
+朱雀院抚子除纳刀外还能通过本回合触发纳刀数量施展“极纳刀”，与朱雀院的剑士们一起上演常胜不败的神话吧！
+","朱雀院家的二姐，一次循环中突然出现在了方舟，在与姐妹一同寻找回去的方法，擅长刃道，是个不折不扣的战斗狂。
+朱雀院抚子除纳刀外还能通过本回合触发纳刀数量施展“极纳刀”，与朱雀院的剑士们一起上演常胜不败的神话吧！
+"
+Character/SuzakuinNadeshiko_name,Text,,주작마당이 자식을 어루만지다,Suzakuin Nadeshiko,朱雀院撫子,朱雀院抚子,朱雀院抚子
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Accelerator_Dialogues_0,Text,,[B] 왜 또 한 가족이 함께 이 세상에 떨어졌지 ...,[B] How come another family fell into this world...,[B]どうしてもう一軒一緒にこの世界に落ちたのか ..,[B]怎么还有一家一起掉到这个世界来的...,[B]怎么还有一家一起掉到这个世界来的...
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Accelerator_Dialogues_1,Text,,"[A] 글쎄요, 사실은 이렇습니다.","[A] Well, that’s just how it is.",[A]まあ、事実はそうだ。,[A]嘛，事实就是这样啦。 ,[A]嘛，事实就是这样啦。 
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Azar_Dialogues_0,Text,,[A] 오늘의 심정은 세 개의 유령 검이다!,[A] Today’s mood: Three Phantom Swords!,[A]今日の気持ちは、三本の幻影剣！,[A]今天的心情是，三把幻影剑！,[A]今天的心情是，三把幻影剑！
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Azar_Dialogues_1,Text,,[B] 너는 어떻게 너의 언니와 같은 말을 하니 ...,[B] Why do you say the same things as your sister...,[B]あなたはどうしてお姉さんと同じことを言いますか ..,[B]你怎么和你姐姐说一样的话...,[B]你怎么和你姐姐说一样的话...
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Blue_Dialogues_0,Text,,[B] 애무자에 여동생이 한 명 더 있지 않나요?,[B] Doesn’t Nadeshiko have another sister missing?,[B]撫子にはもう一人の妹がいませんか。,[B]抚子还有一个妹妹不在吗。,[B]抚子还有一个妹妹不在吗。
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Blue_Dialogues_1,Text,,"[A] 다 아들? 응, 그녀는 강하다. 비록 내가 여기에 오기 전에 오랫동안 그녀를 만나지 못했지만. ...",[A] Tsuko? She’s strong... though I haven’t seen her in ages.,[A]都子ですか？ ええ、彼女はとても強いです。ここに来る前に長い間彼女に会ったことがありませんが ..,[A]都子吗？嗯，她很强，虽然我在来这里之前就很久没见过她了...,[A]都子吗？嗯，她很强，虽然我在来这里之前就很久没见过她了...
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Charon_Dialogues_0,Text,,[B] 어두운 힘을 시험해 보시겠습니까?,[B] Want to test dark powers?,[B]暗黒の力を試してみますか？,[B]要试试暗黑的力量吗？,[B]要试试暗黑的力量吗？
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Charon_Dialogues_1,Text,,[A] 나는 내 검을 가지고 있으면 충분하다.,[A] My blade is all I need.,[A]私は私の剣があれば十分ですよ。,[A]我有我的剑就够了哦。,[A]我有我的剑就够了哦。
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Hein_Dialogues_0,Text,,"[B] 하하, 또 전투광이야? 이리 와.","[B] Haha, another battle maniac? Come here.",[B]ハハ、また戦闘狂ですか、来てください。,[B]哈哈，又是一个战斗狂吗，来来来。,[B]哈哈，又是一个战斗狂吗，来来来。
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Hein_Dialogues_1,Text,,"[A] 오, 하인씨도 칼날을 좋아하나요? 방주로 돌아가서 한번 해 보세요.","[A] Oh, Mr. Hein! Do you enjoy blade arts too? Let’s spar back on the Ark!",[A]あ、ハインさんも刃道が好きですか。箱舟に戻ってから試してみましょう。,[A]哦哦，海因先生也喜欢刃道吗，回方舟之后来试试吧。,[A]哦哦，海因先生也喜欢刃道吗，回方舟之后来试试吧。
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Huz_Dialogues_0,Text,,[B] 치료를 받으러 왔습니다!,[B] Here for treatment!,[B]治療に来ました！,[B]来治疗啦！,[B]来治疗啦！
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Huz_Dialogues_1,Text,,"[A] 좋아, 이제 다시 싸울 수 있어.","[A] Great, ready to fight again!",[A]よし、これからまた戦い続けられる。,[A]好，接下来又能继续战斗了。,[A]好，接下来又能继续战斗了。
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Huz_Dialogues_2,Text,,[B] 너는 너의 여동생보다 수용도가 훨씬 높구나.,[B] You’re far more agreeable than your sister.,[B]あなたはあなたの妹よりかなり受け入れが高いですね。,[B]你比你妹妹的接受度高不少嘛。,[B]你比你妹妹的接受度高不少嘛。
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Ilya_Dialogues_0,Text,,[A] 쌍칼류 검사 ... 드물네요. 저는 언니도 이 유파라는 것을 기억합니다.,[A] A dual-blade swordsman... rare. I recall your sister used this style too.,[A]二刀流の剣士……珍しいですね。椿妹もこの流派だったと記憶しています。,[A]双刀流的剑士...很少见啊，我记得椿妹妹也是这个流派。,[A]双刀流的剑士...很少见啊，我记得椿妹妹也是这个流派。
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Ilya_Dialogues_1,Text,,"[B] 오, 저 검시요? 저보다 훨씬 더 심해요. 너희 집 사람이 정말 강해요. 제가 필요 없는 것 같아요. ...",[B] That swordsman? She’s way stronger. Your family’s terrifying—I feel redundant...,[B]ああ、あの剣士ですか。彼女は私よりずっとすごいです。あなたの家の人は本当に強いですね。私を必要としない気がします ..,[B]哦，那个剑士吗，她比我厉害多了，你们家的人真强啊，感觉都不需要我了...,[B]哦，那个剑士吗，她比我厉害多了，你们家的人真强啊，感觉都不需要我了...
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Ilya_Dialogues_2,Text,,"[A] 재능 ... 아니, 일리아군도 대단해. 자, 우리 한번 의논해 보자.","[A] N-No! You’re amazing too, Ilya. Let’s spar!",[A]こそ...違うよ、イリヤ君もすごいよ、さあ切磋琢磨しよう。,[A]才...才不是哦，伊利亚君也很厉害的，来，我们切磋一下。,[A]才...才不是哦，伊利亚君也很厉害的，来，我们切磋一下。
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Ilya_Dialogues_3,Text,,[B] 단풍이 오늘 안 계시나요? 알아요 ...,"[B] Momiji’s not here today, huh? Figures...",[B]紅葉は今日はありませんか。知っています ..,[B]红叶今天不在吗，我就知道...,[B]红叶今天不在吗，我就知道...
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Iron_Dialogues_0,Text,,[B] 당신들의 장비는 정말 좋네요. 가볍고 방어력이 있어요.,[B] Your gear’s impressive—light yet sturdy.,[B]あなたたちの装備はいいですね。軽くて防御力があります。,[B]你们的装备真好啊，轻便又有防御力。,[B]你们的装备真好啊，轻便又有防御力。
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Iron_Dialogues_1,Text,,"[A] 그럼, 레이린 양이 복제해 보라고?",[A] Let’s ask Leirin to replicate it?,[A]じゃあ、蕾琳さんにコピーしてみましょうか？,[A]那，让蕾琳小姐试试仿制一下？,[A]那，让蕾琳小姐试试仿制一下？
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Joey_Dialogues_0,Text,,[A] 너는 왜 계속 가면을 쓰고 있니?,[A] Why wear that mask all the time?,[A]どうしてずっとマスクをつけているの。,[A]你怎么一直戴着面具。,[A]你怎么一直戴着面具。
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Joey_Dialogues_1,Text,,[B] 당신은 무엇을 알고 있습니까? 이것은 우리 엘리트의 스타일입니다.,[B] It’s elite style—you wouldn’t get it.,[B]何がわかる？これは私たちエリートのスタイルです。,[B]你懂什么，这是我们精英的风格。,[B]你懂什么，这是我们精英的风格。
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Johan_Dialogues_0,Text,,[A] 존 씨는 여전히 앨리스를 찾고 있습니까?,"[A] Still searching for Alice, Mr. Johan?",[A]ジョンさんはまだアリスを探していますか。,[A]约翰先生还在寻找爱丽丝吗。,[A]约翰先生还在寻找爱丽丝吗。
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Johan_Dialogues_1,Text,,[B] 찾을 수 있을 거야 ... 언젠가는. 너희 자매는 오히려 이미 재회했다.,[B] Someday... At least you’re reunited.,[B]見つかる…いつか。 あなたたち姉妹はもう再会しました。,[B]会找到的...总有一天。你们姐妹倒是已经团聚了。,[B]会找到的...总有一天。你们姐妹倒是已经团聚了。
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Johan_Dialogues_2,Text,,[A] 사실 아직 ... 그녀가 여기에 나타날 수 있다면 좋은 일인지는 모르겠지만.,[A] Tsuko’s still missing... Not sure if her appearing here’d be good.,[A]実は都子はまだいない……彼女がここに現れたらいいのかどうかも分からないが。,[A]其实都子还不在...虽然也不知道她要是能出现在这里是不是好事。,[A]其实都子还不在...虽然也不知道她要是能出现在这里是不是好事。
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Leryn_Dialogues_0,Text,,[B] 당신의 신체 강도는 더 이상' 운동선수' 만큼 간단하지 않은 것 같습니다.,[B] Your physique surpasses mere “athletes.”,[B]あなたの体の強さは、もう「選手」ほど簡単ではないような気がします。,[B]你的身体强度，感觉已经不是“运动员”这么简单了。,[B]你的身体强度，感觉已经不是“运动员”这么简单了。
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Leryn_Dialogues_1,Text,,"[A] 이봐, 난 검자야.","[A] Heh, I’m a swordswoman!",[A]ええ、私は剣士です。,[A]欸嘿，我是剑士嘛。,[A]欸嘿，我是剑士嘛。
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Lian_Dialogues_0,Text,,[B] 너희 자매의 협조가 상당히 좋다.,[B] Your sisterly teamwork’s impressive.,[B]あなたたち姉妹の協力はかなりいいですね。,[B]你们姐妹的配合相当好啊。,[B]你们姐妹的配合相当好啊。
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Lian_Dialogues_1,Text,,"[A] 네, 사실 어렸을 때 같이 연습했어요.",[A] We practiced together as kids.,[A]そうですか。実は小さい時によく一緒に練習しました。,[A]诶是吗，其实也就小的时候常在一起练过啦。,[A]诶是吗，其实也就小的时候常在一起练过啦。
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Miss_Dialogues_0,Text,,"[B] 너희 자매의 칼이 번쩍이며 적을 쓰러뜨렸는데, 과연 공격이 최고의 수비였다.",[B] Your flashing blades cut down foes—offense truly is the best defense.,[B]あなた達の姉妹の刀が閃いて敵を倒しました。やはり攻撃は最高の守備ですね。,[B]你们姐妹的刀闪来闪去就将敌人打倒了，果然进攻就是最好的防守呢。,[B]你们姐妹的刀闪来闪去就将敌人打倒了，果然进攻就是最好的防守呢。
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Miss_Dialogues_1,Text,,"[A] 어, 헤헤.",[A] Ehehe~,[A]へえ、へえ。,[A]诶嘿嘿。,[A]诶嘿嘿。
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Momori_Dialogues_0,Text,,[B] 당신의 트릭 이름은 너무 멋지다.,[B] Your move names are so cool!,[B]あなたの技名はクールですね。,[B]你的招数名都好酷炫诶。,[B]你的招数名都好酷炫诶。
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Momori_Dialogues_1,Text,,"[A] 그래, 나도 그렇게 생각해.",[A] Right? I think so too!,[A]そうですか。私もそう思います。,[A]是吗，我也这么觉得呢。,[A]是吗，我也这么觉得呢。
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Narhan_Dialogues_0,Text,,"[B] 아주 강력한 정신력인데, 이렇게 단순하다니, 평신이 드물다. ...","[B] Such immense spirit, yet so simple... rare.",[B]すごい精神力だが、こんなに単純なのか、平身は珍しいな ..,[B]好强大的精神力，但居然如此单纯吗，平身罕见啊...,[B]好强大的精神力，但居然如此单纯吗，平身罕见啊...
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Narhan_Dialogues_1,Text,,[A] 응? 나르한 씨는 무엇을 하고 있습니까?,"[A] Huh? What’re you doing, Narhan?",[A]え？ ナールさんは何をしていますか。,[A]嗯？纳尔汉先生在做什么。,[A]嗯？纳尔汉先生在做什么。
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Pheonix_Dialogues_0,Text,,"[A] 귀여운 새야, 내가 만져볼게.",[A] Cute bird! Let me pet you!,[A]かわいい鸟、触らせて。,[A]好可爱的鸟，让我摸摸。,[A]好可爱的鸟，让我摸摸。
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Pheonix_Dialogues_1,Text,,[B] (저항) 폭력 금지!,[B] (Resists) No violence!,[B]（暴力禁止に抵抗！,[B]（抗拒）暴力禁止！,[B]（抗拒）暴力禁止！
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Priest_Dialogues_0,Text,,"[A] 프리스트, 영자 보이세요?","[A] Priest, can you see spirits?",[A]プリースト、霊体が見えますか？,[A]普瑞斯特，你能看到灵体吗？,[A]普瑞斯特，你能看到灵体吗？
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Priest_Dialogues_1,Text,,"[B] 물론, 나는 그들을 모두 초월할 것이다.",[B] Of course—I’ll transcend them all.,[B]もちろん、私は彼らを超能力にします。,[B]当然，我会将他们都超度。,[B]当然，我会将他们都超度。
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Red_Dialogues_0,Text,,[B] 나는 방주에 나와 셀레나만이 자매인 줄 알았다.,[B] I thought only Selena and I were sisters here.,[B]箱船の中で私とセリーナだけが姉妹だと思っていた。,[B]我原本以为方舟里只有我和赛琳娜是姐妹呢。,[B]我原本以为方舟里只有我和赛琳娜是姐妹呢。
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Red_Dialogues_1,Text,,[A] 우리는 모두 잘못 부딪쳤다.,[A] We all stumbled here by accident.,[A]私たちは皆誤ってぶつかってきたのです。,[A]我们都是误打误撞来的啦。,[A]我们都是误打误撞来的啦。
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_SilverStein_Dialogues_0,Text,,"[B] 네 칼은 ... 됐어, 알잖아.",[B] Your blade... Never mind. You know.,[B]あなたのナイフは...もういいわよ。,[B]你的刀能...算了你懂的。,[B]你的刀能...算了你懂的。
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_SilverStein_Dialogues_1,Text,,"[A] 아, 무슨 뜻이야 ...",[A] Huh? What do you mean...,[A]ああ、どういう意味だ ..,[A]啊嘞，什么意思...,[A]啊嘞，什么意思...
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Sizz_Dialogues_0,Text,,"[B] 미스 애무자, 항상 맨 앞으로 돌진한다","[B] Miss Nadeshiko, always charging ahead.",[B]撫子さん、いつも先頭に立っていますね,[B]抚子小姐，总是冲在最前面呢,[B]抚子小姐，总是冲在最前面呢
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Sizz_Dialogues_1,Text,,[A] 전 항상 그랬어요. 예전 훈련이든 경기할 때든.,[A] That’s just me—always been this way.,[A]私はいつもそうです。以前の訓練でも試合でも。,[A]我一直都是这样啦，无论是以前训练还是比赛的时候。,[A]我一直都是这样啦，无论是以前训练还是比赛的时候。
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_SuzakuinMomiji_Dialogues_0,Text,,"[B] 애무자, 오늘 나는 없다.","[B] Nadeshiko, I’m not here today.",[B]撫子、今日はいませんよ。,[B]抚子，今天我不在哦。,[B]抚子，今天我不在哦。
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_SuzakuinMomiji_Dialogues_1,Text,,"[A] 언니가 분명히 여기 있잖아, 빨리 와서 의논해 봐.","[A] Sis, you’re right here! Let’s spar!",[A]お姉さんはここにいるのに、早く切磋琢磨に来てね。,[A]姐姐明明在这里嘛，快来切磋啦。 ,[A]姐姐明明在这里嘛，快来切磋啦。 
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_SuzakuinTsubaki_Dialogues_0,Text,,"[A] 은 이미 이렇게 컸는데, 내가 지금 꿈속에 있는 거야.",[A] Tsubaki’s grown so much... Am I dreaming?,[A]椿はもうこんなに大きくなったのに、私は夢の中にいるのか。,[A]椿都已经长这么大了，我这是在梦里吗。,[A]椿都已经长这么大了，我这是在梦里吗。
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_SuzakuinTsubaki_Dialogues_1,Text,,"[B] 언니, 큰언니가 지금 나보다 어리다는 걸 못 봤어 ...","[B] Sis, didn’t you notice Big Sis is smaller than me now...",[B]お姉さん、お姉さんが今私より小さいことに気づいていませんか ..,[B]姐姐，你没发现大姐现在比我还小吗...,[B]姐姐，你没发现大姐现在比我还小吗...
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_SuzakuinTsubaki_Dialogues_2,Text,,[A] 그렇게 생각해 보니 정말.,[A] Now that you mention it...,[A]そう考えると、本当にへえ。,[A]这么一想，真的诶。,[A]这么一想，真的诶。
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_SuzakuinTsubaki_Dialogues_3,Text,,[B] 우리는 서로 다른 시공간에서 온 것 같다. 이렇게 되면 시간의 그림자가 더 필요한 힘이 더 필요하다.,[B] We’re from different timelines. We’ll need more Chrono Shard power.,[B]私たちは違う時空から来たようです。そうなると、時間の影の力がもっと必要になります。,[B]我们好像是从不同时空来的，这样的话，就更需要时光之影的力量了。,[B]我们好像是从不同时空来的，这样的话，就更需要时光之影的力量了。
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Trisha_Dialogues_0,Text,,"[B] 은폐, 직접 돌진하는 전투 방식이 전혀 필요하지 않나요?",[B] No stealth—just charging in?,[B]隠し事を一切必要とせず、そのまま突き進む戦い方ですか。,[B]完全不需要任何隐蔽，直接冲上去的战斗方式吗。,[B]完全不需要任何隐蔽，直接冲上去的战斗方式吗。
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_Trisha_Dialogues_1,Text,,"[A] 헤헤, 내가 바로 이렇다.",[A] That’s my style!,[A]ちょっと、私はそうです。,[A]嘿嘿，我就是这样的啦。,[A]嘿嘿，我就是这样的啦。
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_hlshj_Dialogues_0,Text,,"[A] 와우, 멋진 트릭! 흑각 씨, 우리 한번 의논해 봅시다! (칼 뽑기)","[A] Whoa, cool moves! Let’s spar, Kurokaku! (Draws blade)",[A]ワオ、かっこいい技だ！ 黒角さん、切磋琢磨しましょう！ (抜刀),[A]哇塞，好酷的招数！黑角先生，我们来切磋一下吧！（拔刀）,[A]哇塞，好酷的招数！黑角先生，我们来切磋一下吧！（拔刀）
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_hlshj_Dialogues_1,Text,,"[B] 네 자매와는 전혀 다른 성격이야, 좋아, 자, 내 칼날 좀 봐!",[B] So different from your sisters... Come—taste my wrath!,[B]あなたの姉妹とは全く違う個性ですね。よし、さあ、私の怒りを見てください。,[B]和你姐妹完全不同的个性啊，好，来吧，看我气刃兜割！,[B]和你姐妹完全不同的个性啊，好，来吧，看我气刃兜割！
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_ysml_Dialogues_0,Text,,[A] 신기하게도 우리 세상과 완전히 다른 힘이다 ...,[A] Strange... Power unlike our world.,[A]奇抜です。私たちの世界とは全く違う力です ..,[A]好奇特，是和我们世界完全不同的力量...,[A]好奇特，是和我们世界完全不同的力量...
+SimpleCampDialogue/CampDial_SuzakuinNadeshiko_ysml_Dialogues_1,Text,,[B] 습관이 좋다. 나와 그것은 모두 너희들의 파트너일 뿐이다.,[B] You’ll adjust. We’re all allies here.,[B]慣れるといいです。私もそれも、あなたたちの仲間だけです。,[B]习惯就好，我和它，都只会是你们的伙伴。,[B]习惯就好，我和它，都只会是你们的伙伴。
+Skill/S_SuzakuinNadeshiko_1_0_Name,Text,,추격,Pursuit,追撃する,追击,追击
+Skill/S_SuzakuinNadeshiko_1_Description,Text,,"적을 쳐죽였을 때, 이 카드는 수중에 돌아왔다
+< color=#FFB3E6 > 극나검 2</color >: 납기된 횟수에 따라 &a 를 반복적으로 릴리즈합니다
+< color=#FFA636FF > 납칼 < /color >: 손을 다시 잡습니다","When defeating an enemy, this card returns to hand. 
+<color=#FFB3E6>Extreme Sheathing 2</color>: Repeat release &a times based on Sheath count. 
+<color=#FFA636FF>Sheath</color>: Retrieve this skill.","敵を殺す時、このカードは手に戻る
+<color=#FFB3E6>極納刀2</color>:納刀された回数に応じて釈放を繰り返す&a回
+<color=#FFA636FF>納刀</color>","击杀敌人时，此牌回到手中
+<color=#FFB3E6>极纳刀2</color>：根据被纳刀的次数重复释放&a次
+<color=#FFA636FF>纳刀</color>：重新拿回手中
+","击杀敌人时，此牌回到手中
+<color=#FFB3E6>极纳刀2</color>：根据被纳刀的次数重复释放&a次
+<color=#FFA636FF>纳刀</color>：重新拿回手中
+"
+Skill/S_SuzakuinNadeshiko_1_Name,Text,,비기 연회,Secret Art: Swallow’s Return,技・燕返,秘技·燕返,秘技·燕返
+Skill/S_SuzakuinNadeshiko_2_1_Description,Text,,"< color=#FFB3E6 > 극납칼 2</color >: 손에 든 두 가지 공격 기술을 차례로 삭제하도록 선택합니다
+< color=#FFB3E6 > 극나칼 4</color >: 진의변경 레이저 ⅲ 생성","<color=#FFB3E6>Extreme Sheathing 2</color>: Choose to discard two attack skills in hand sequentially. 
+<color=#FFB3E6>Extreme Sheathing 4</color>: Generate True Thunderblade III.","<color=#FFB3E6>極納刀2</color>
+<color=#FFB3E6>極納刀4</color>:真義改・雷光剣ⅲを生成する","<color=#FFB3E6>极纳刀2</color>：选择依次丢弃手中的2个攻击技能
+<color=#FFB3E6>极纳刀4</color>: 生成真义改·雷光剑Ⅲ
+","<color=#FFB3E6>极纳刀2</color>：选择依次丢弃手中的2个攻击技能
+<color=#FFB3E6>极纳刀4</color>: 生成真义改·雷光剑Ⅲ
+"
+Skill/S_SuzakuinNadeshiko_2_1_Name,Text,,진의개 레이광검 II,True Thunderblade II,真義改・雷光剣II,真义改·雷光剑II,真义改·雷光剑II
+Skill/S_SuzakuinNadeshiko_2_2_Description,Text,,"석방될 때 카운트다운 2 로 한 번 반복 석방한다
+명중할 때, 수중의 가장 낮은 기술을 버리다.","On release, repeat once with Countdown 2. 
+On hit, discard the bottom skill in hand.","リリース時にカウントダウン2でリリースを1回繰り返す
+ヒット時には、手の中の一番下のスキルを捨てる","释放时以倒计时2重复释放一次
+命中时，丢弃手中最下方的技能
+","释放时以倒计时2重复释放一次
+命中时，丢弃手中最下方的技能
+"
+Skill/S_SuzakuinNadeshiko_2_2_Name,Text,,진의개 레이광검 ⅲ,True Thunderblade III,真義改・雷光剣ⅲ,真义改·雷光剑Ⅲ,真义改·雷光剑Ⅲ
+Skill/S_SuzakuinNadeshiko_2_Description,Text,,"< color=#FFB3E6 > 극나칼 1</color >: 진정한 의미의 변경 레이저 II 를 생성합니다
+< color=#FFA636FF > 납칼 < /color >: 이 기술을 다시 손에 넣으십시오","<color=#FFB3E6>Extreme Sheathing 1</color>: Generate True Thunderblade II. 
+<color=#FFA636FF>Sheath</color>: Retrieve this skill.","<color=#FFB3E6>極納刀1</color>:真義改・雷光剣IIを生成する
+<color=#FFA636FF>納刀</color>","<color=#FFB3E6>极纳刀1</color>：生成真义改·雷光剑II
+<color=#FFA636FF>纳刀</color>：将此技能拿回手中
+","<color=#FFB3E6>极纳刀1</color>：生成真义改·雷光剑II
+<color=#FFA636FF>纳刀</color>：将此技能拿回手中
+"
+Skill/S_SuzakuinNadeshiko_2_Name,Text,,진의뢰광검 I,True Thunderblade I,真義雷光剣I,真义·雷光剑I,真义·雷光剑I
+Skill/S_SuzakuinNadeshiko_3_Description,Text,,"< color=#FFB3E6 > 극나검 4</color >: 석방될 때 모든 debuff 를 해제하며 반드시 폭행을 해야 합니다
+< color=#FFA636FF > 납칼 < /color >: 두 점 마나를 복원합니다","<color=#FFB3E6>Extreme Sheathing 4</color>: Remove all debuffs on release and guarantee Critical. 
+<color=#FFA636FF>Sheath</color>: Restore 2 Mana.","<color=#FFB3E6>極納刀4</color>:リリース時に自身のすべてのdebuffを解除し、必ず暴撃する
+<color=#FFA636FF>納刀</color>","<color=#FFB3E6>极纳刀4</color>：释放时解除自身所有debuff，且必定暴击
+<color=#FFA636FF>纳刀</color>：恢复两点法力值
+","<color=#FFB3E6>极纳刀4</color>：释放时解除自身所有debuff，且必定暴击
+<color=#FFA636FF>纳刀</color>：恢复两点法力值
+"
+Skill/S_SuzakuinNadeshiko_3_Name,Text,,신화칼이 꺼지고 영검이 참수되다.,Divine Blossom Blade Extinction - Spirit Severing Sword,神華刀滅・斬霊剣,神华刀灭·斩灵剑,神华刀灭·斩灵剑
+Skill/S_SuzakuinNadeshiko_4_Description,Text,,"< color=#FFB3E6 > 극나칼 1</color >: 조롱 상태가 같은 모든 적을 동시에 공격한다
+< color=#FFA636FF > 나칼 < /color >: 스스로' 배고픈 늑대질주' 를 얻었다","<color=#FFB3E6>Extreme Sheathing 1</color>: Attack all enemies with the same Taunt status. 
+<color=#FFA636FF>Sheath</color>: Gain ""Hungry Wolf’s Dash"" (For 3 turns, discard bottom skill and draw one when using Swiftness skills).","<color=#FFB3E6>極納刀1</color>:皮肉な状態のすべての敵を同時に攻撃する
+<color=#FFA636FF>納刀</color>","<color=#FFB3E6>极纳刀1</color>：同时攻击所有嘲讽状态相同的敌人
+<color=#FFA636FF>纳刀</color>：自身获得“饿狼疾驰”(3回合内，每当自身使用迅速技能时，丢弃手中最下方的技能并抽取一个技能）
+","<color=#FFB3E6>极纳刀1</color>：同时攻击所有嘲讽状态相同的敌人
+<color=#FFA636FF>纳刀</color>：自身获得“饿狼疾驰”(3回合内，每当自身使用迅速技能时，丢弃手中最下方的技能并抽取一个技能）
+"
+Skill/S_SuzakuinNadeshiko_4_Name,Text,,오이배고픈 늑대가 질주하다.,Mystic Art: Hungry Wolf’s Dash,奥義餓狼が疾走する,奥义·饿狼疾驰,奥义·饿狼疾驰
+Skill/S_SuzakuinNadeshiko_5_Description,Text,,"<color=#FFB3E6>극납도5</color>: 자신의 모든 보호막을 보호벽으로 변환
+<color=#FFA636FF>나이프</color>: 이 스킬을 손에 넣고 자신의 보호막 수치에 1.1을 곱하기","<color=#FFB3E6>Extreme Sheathing 5</color>: Convert all Shield to Barrier. 
+<color=#FFA636FF>Sheath</color>: Retrieve this skill and multiply Shield by 1.1.","<color=#FFB3E6>極納刀5</color>：自身のすべての保護カバーを保護壁に変換する
+<color=#FFA636FF>納刀</color>：この技を手に取り、自分の保護カバーの数値に1.1を掛ける","<color=#FFB3E6>极纳刀5</color>：将自身所有保护罩转换为防护墙
+<color=#FFA636FF>纳刀</color>：将此技能拿回手中，将自身保护罩数值乘以1.1
+","<color=#FFB3E6>极纳刀2</color>：根据自身保护罩数值造成额外伤害
+<color=#FFA636FF>纳刀</color>：将此技能拿回手中
+"
+Skill/S_SuzakuinNadeshiko_5_Name,Text,,현무위칼 세랑검,Black Tortoise’s Barrier - Surging Wave Sword,玄武衛刀・塞浪剣,玄武卫刀·塞浪剑,玄武卫刀·塞浪剑
+Skill/S_SuzakuinNadeshiko_6_Description,Text,,"이 기술은 극납도가 3 보다 크거나 같은 경우에만 사용할 수 있습니다
+< color=#FFB3E6 > 극나검 4</color >: 생명값이 90% 미만인 boss 단위 생명값을 0 으로 변경합니다
+< color=#FFB3E6 > 극납칼 7</color >: 사용 시 체력 한계를 회복하고 자신의 고정능력을 새롭게 한다
+< color=#FFA636FF > 납칼 < /color >: 손을 다시 잡습니다","Usable only if Extreme Sheathing ≥3. 
+<color=#FFB3E6>Extreme Sheathing 4</color>: Reduce non-boss units below 90% HP to 0. 
+<color=#FFB3E6>Extreme Sheathing 7</color>: Restore HP limit and refresh abilities. 
+<color=#FFA636FF>Sheath</color>: Retrieve this skill.","このスキルは極納刀が3以上の場合にのみ使用できます
+<color=#FFB3E6>極納刀4</color>:生命値が90%未満の非boss単位の生命値を0にする
+<color=#FFB3E6>極納刀7</color>:使用時に自身の体力の限界を回復し、自身の固定能力をリフレッシュする
+<color=#FFA636FF>納刀</color>","此技能只有当极纳刀大于等于3时才可以使用
+<color=#FFB3E6>极纳刀4</color>：使生命值低于90%的非boss单位生命值变为0
+<color=#FFB3E6>极纳刀7</color>：使用时恢复自身体力极限，刷新自身固定能力
+<color=#FFA636FF>纳刀</color>：重新拿回手中
+","此技能只有当极纳刀大于等于3时才可以使用
+<color=#FFB3E6>极纳刀4</color>：使生命值低于90%的非boss单位生命值变为0
+<color=#FFB3E6>极纳刀7</color>：使用时恢复自身体力极限，刷新自身固定能力
+<color=#FFA636FF>纳刀</color>：重新拿回手中
+"
+Skill/S_SuzakuinNadeshiko_6_Name,Text,,신화는 반드시 소멸한다-혼백검 영혼.,Divine Blossom Oblivion - Soul Reaping Blade,神華必滅—魂魄剣・魂薙,神华必灭—魂魄剑·魂薙,神华必灭—魂魄剑·魂薙
+Skill/S_SuzakuinNadeshiko_7_0_Name,Text,,추격,Pursuit,追撃する,追击,追击
+Skill/S_SuzakuinNadeshiko_7_Description,Text,,"< color=#FFB3E6 > 극나노 X</color >: x 회 반복 릴리즈합니다
+< color=#FFA636FF > 납칼 < /color >: 간판 라이브러리의 모든 기술을 보고 기술 추출 중 하나를 선택합니다.","<color=#FFB3E6>Extreme Sheathing X</color>: Repeat release X times. 
+<color=#FFA636FF>Sheath</color>: View all skills in deck and draw one.","<color=#FFB3E6>極納刀X</color>:x回繰り返しリリース
+<color=#FFA636FF>納刀</color>","<color=#FFB3E6>极纳刀X</color> ：重复释放X次
+<color=#FFA636FF>纳刀</color>：查看牌库中的所有技能，并选择其中1个技能抽取。
+","<color=#FFB3E6>极纳刀X</color> ：重复释放X次
+<color=#FFA636FF>纳刀</color>：查看牌库中的所有技能，并选择其中1个技能抽取。
+"
+Skill/S_SuzakuinNadeshiko_7_Name,Text,,무상의 찰나,Supreme Moment,無上の刹那,无上的刹那,无上的刹那
+Skill/S_SuzakuinNadeshiko_8_Description,Text,,사용 직후 두 번의 수동 효과를 트리거합니다,Trigger passive effects twice immediately after use (does not count toward limit).,使用後すぐに受動効果を2回トリガーする（カウントにカウントされない）））））。,使用后立刻触发两次被动效果(不计入计数),使用后立刻触发两次被动效果(不计入计数)
+Skill/S_SuzakuinNadeshiko_8_Name,Text,,피어나는 사랑의 불꽃,Blossoming Love’s Fireworks,咲き乱れる恋の花火,绽放的恋之花火,绽放的恋之花火
+Skill/S_SuzakuinNadeshiko_9_Name,Text,,화이트 울프,White Wolf Squad,白狼隊,白狼队,白狼队
+Skill/S_SuzakuinNadeshiko_Lucy_Description,Text,,"목표의 한 가지 기술을 우선적으로 뽑아서 버리고, 두 가지 기술을 더 추출한다.","Prioritize drawing and discarding a target’s skill, then draw two more.",目標の一つのスキルを優先的に抽出し、それを捨て、さらに二つのスキルを抽出する,优先抽取目标的一个技能，并丢弃之，再抽取2个技能,优先抽取目标的一个技能，并丢弃之，再抽取2个技能
+Skill/S_SuzakuinNadeshiko_Lucy_Name,Text,,전대 경영,Squad Management,戦隊経営,战队经营,战队经营
+Skill/S_SuzakuinNadeshiko_R1_Description,Text,,< color=#919191 > 바디 워밍업 댄스 < /color >,<color=#919191>Dance Clad in Words</color>,<color=#919191>言霊を身にまとって踊りましょう</color>,<color=#919191>身披言灵狂舞吧 </color>,<color=#919191>身披言灵狂舞吧 </color>
+Skill/S_SuzakuinNadeshiko_R1_Name,Text,,미친 늑대가 춤을 추며 밟다,Mad Wolf’s Frenzied Dance,狼が踊り狂う,狂狼舞踏,狂狼舞踏
+Skill/S_SuzakuinNadeshiko_R2_0_Description,Text,,"이 기술이 넘친 폭격률은 3 배로 상해배율로 전환된다
+""염색 보응"" 이 있는 단위만 지정할 수 있습니다
+< color=#FFB3E6 > 극납칼 X</color >: 비용 절감 x
+< color=#FFB3E6 > 극나칼 9</color >: 적의 최대 체력 15% 를 추가로 초래한 고통스러운 부상
+< color=#FFB3E6 > 극나칼 13</color >: 이 기술을 추방합니다
+< color=#FFA636FF > 납칼 < /color >: 기술을 다시 손에 들고 손에 있는 기술 중 하나를 선택하여 폐기합니다","Excess Crit Rate triples as damage multiplier. Targets must have ""Karmic Retribution"". 
+<color=#FFB3E6>Extreme Sheathing X</color>: Cost reduced by X. 
+<color=#FFB3E6>Extreme Sheathing 9</color>: Deal extra Pain damage equal to 15% of target’s max HP. 
+<color=#FFB3E6>Extreme Sheathing 13</color>: Banish this skill. 
+<color=#FFA636FF>Sheath</color>: Retrieve this skill and discard another in hand.","この技が溢れる暴打率は3倍から傷害倍率に変わる
+「愛染応報」のある単位しか指定できません
+<color=#FFB3E6>極納刀X</color>:費用削減x
+<color=#FFB3E6>極納刀9</color>:敵の最大体力値の15%を余分に与える苦痛
+<color=#FFB3E6>極納刀13</color>:この技能を追放する
+<color=#FFA636FF>納刀</color>","该技能溢出的暴击率将三倍转为伤害倍率
+只能指定带有“爱染报应”的单位
+<color=#FFB3E6>极纳刀X</color> ：费用减少X
+<color=#FFB3E6>极纳刀9</color>：额外造成敌方15%最大体力值的痛苦伤害
+<color=#FFB3E6>极纳刀13</color>：放逐此技能
+<color=#FFA636FF>纳刀</color>：将技能拿回手中，再选择手中一个技能丢弃
+","该技能溢出的暴击率将三倍转为伤害倍率
+只能指定带有“爱染报应”的单位
+<color=#FFB3E6>极纳刀X</color> ：费用减少X
+<color=#FFB3E6>极纳刀9</color>：额外造成敌方15%最大体力值的痛苦伤害
+<color=#FFB3E6>极纳刀13</color>：放逐此技能
+<color=#FFA636FF>纳刀</color>：将技能拿回手中，再选择手中一个技能丢弃
+"
+Skill/S_SuzakuinNadeshiko_R2_0_Name,Text,,천지신명-애염 명왕검,Divine Mandate - Karmic King’s Blade,天地神命-愛染明王剣,天地神命—爱染·明王剑,天地神命—爱染·明王剑
+Skill/S_SuzakuinNadeshiko_R2_Description,Text,,"""하늘과 땅의 신명-애염 명왕검"" 을 만들어 내다.","Generate ""Divine Mandate - Karmic King’s Blade"".",「天地神命—愛染明王剣」を生成する,生成一张“天地神命—爱染·明王剑”,生成一张“天地神命—爱染·明王剑”
+Skill/S_SuzakuinNadeshiko_R2_Name,Text,,보응을 좋아하다,Karmic Retribution,因果応報を愛する,爱染报应,爱染报应
+SkillExtended/Ex_SuzakuinNadeshiko_1_EnforceString,Text,,,,,,
+SkillExtended/Ex_SuzakuinNadeshiko_1_Name,Text,,< color=#FFB3E6 > 극납칼 2</color >: 비용에서 2 를 뺀 값입니다,<color=#FFB3E6>Extreme Sheathing 2</color>: Cost -2,<color=#FFB3E6>極納刀2</color>:費用マイナス2,<color=#FFB3E6>极纳刀2</color>：费用减2,<color=#FFB3E6>极纳刀2</color>：费用减2
+SkillExtended/Ex_SuzakuinNadeshiko_2_Des,Text,,,,,,
+SkillExtended/Ex_SuzakuinNadeshiko_2_EnforceString,Text,,,,,,
+SkillExtended/Ex_SuzakuinNadeshiko_2_Name,Text,,< color=#FFB3E6 > 극나노 X</color >: 배율 x 에 40% 를 곱합니다,<color=#FFB3E6>Extreme Sheathing X</color>: Multiplier increased by X×40%,<color=#FFB3E6>極納刀X</color>:倍率を上げるxに40%をかける,<color=#FFB3E6>极纳刀X</color>：倍率提高X乘以40%,<color=#FFB3E6>极纳刀X</color>：倍率提高X乘以40%
+SkillKeyword/K_SuzakuinNadeshiko_1_Desc,Text,,이번 라운드에서 납칼 수가 x 에 도달하면 추가 효과가 트리거됩니다,"When Sheath triggers this round reach X, activate bonus effect.",このラウンドでトリガーナイフの数がxに達したとき、追加効果をトリガーします,当本回合触发纳刀数量达到X时，触发额外效果,当本回合触发纳刀数量达到X时，触发额外效果
+SkillKeyword/K_SuzakuinNadeshiko_1_Name,Text,,극납칼 x,Extreme Sheathing X,極納刀x,极纳刀X,极纳刀X
+
