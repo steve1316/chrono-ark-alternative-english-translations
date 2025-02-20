@@ -2,6 +2,8 @@
 
 In order to push updates to Steam, the mod version needs to be bumped up in `ChronoArkMod.json` and the upload needs to be initiated from within Chrono Ark itself.
 
+All translations are done using the prompt at `deepseek_r1_prompt.txt` sent to the DeepSeek R1 API.
+
 Each folder under `Localization` is named after the mod's unique Steam Workshop ID and follows a `STEAM_WORKSHOP_ID/Localization/*.csv` file structure. Mod logo images are provided for a slightly better sense of which folder belongs to which mod.
 
 Two sets of helper scripts are provided: `set_translation` and `unset_translation` both as Python scripts and Windows scripts.
