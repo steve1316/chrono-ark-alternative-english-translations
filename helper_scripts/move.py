@@ -41,7 +41,7 @@ def copy_mod_files(mod_id: str):
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
-        print("Usage: python script.py <MOD_ID>")
+        print("Usage: python merge.py <MOD_ID>")
         sys.exit(1)
 
     mod_id = sys.argv[1]
