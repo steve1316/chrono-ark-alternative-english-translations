@@ -1,5 +1,7 @@
 # Chrono Ark Alternative English Translations
 
+> This has been deprecated for https://github.com/steve1316/chrono-ark-translator on 2026-04-18.
+
 In order to push updates to Steam, the mod version needs to be bumped up in `ChronoArkMod.json` and the upload needs to be initiated from within Chrono Ark itself.
 
 All translations are done using the prompt at `deepseek_r1_prompt.txt` sent to the DeepSeek R1 API.
